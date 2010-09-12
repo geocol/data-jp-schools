@@ -1,0 +1,830 @@
+{
+   "senior_high_schools" : {
+      "つくば開成高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "つくば開成高校"
+      },
+      "ウィザス高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "ウィザス高校"
+      },
+      "オイスカ高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "オイスカ高校"
+      },
+      "クラ・ゼミ 輝高等学校" : {
+         "location_area" : "吉田町",
+         "owner_type" : "私立",
+         "short_name" : "クラ・ゼミ 輝高校"
+      },
+      "クラ・ゼミ 輝高等学校浜松校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "輝高等学校浜松校"
+      },
+      "クラーク記念国際高等学校浜松キャンパス" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校浜松キャンパス",
+         "wikipedia_name" : "クラーク記念国際高等学校"
+      },
+      "クラーク記念国際高等学校静岡キャンパス" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校静岡キャンパス",
+         "wikipedia_name" : "クラーク記念国際高等学校"
+      },
+      "三島高等学校" : {
+         "location_area" : "長泉町",
+         "owner_type" : "私立",
+         "short_name" : "三島高校",
+         "wikipedia_name" : "三島学園三島高等学校"
+      },
+      "不二聖心女子学院高等学校" : {
+         "location_area" : "裾野市",
+         "owner_type" : "私立",
+         "short_name" : "不二聖心女子学院高校",
+         "wikipedia_name" : "不二聖心女子学院中学校・高等学校"
+      },
+      "加藤学園暁秀高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "加藤学園暁秀高校",
+         "wikipedia_name" : "加藤学園暁秀中学校・高等学校"
+      },
+      "加藤学園高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "加藤学園高校"
+      },
+      "勇志国際高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "勇志国際高校"
+      },
+      "向陽台高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "向陽台高校"
+      },
+      "国際開洋第一高等学校" : {
+         "location_area" : "菊川市",
+         "owner_type" : "私立",
+         "short_name" : "国際開洋第一高校"
+      },
+      "城南静岡高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "城南静岡高校"
+      },
+      "富士市立吉原商業高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "市立",
+         "short_name" : "吉原商業高校"
+      },
+      "島田樟誠高等学校" : {
+         "location_area" : "島田市",
+         "owner_type" : "私立",
+         "short_name" : "島田樟誠高校"
+      },
+      "常葉学園橘高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "常葉学園橘高校",
+         "wikipedia_name" : "常葉学園橘中学校・高等学校"
+      },
+      "常葉学園菊川高等学校" : {
+         "location_area" : "菊川市",
+         "owner_type" : "私立",
+         "short_name" : "常葉学園菊川高校",
+         "wikipedia_name" : "常葉学園菊川中学校・高等学校"
+      },
+      "常葉学園高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "常葉学園高校",
+         "wikipedia_name" : "常葉学園中学校・高等学校"
+      },
+      "御殿場西高等学校" : {
+         "location_area" : "御殿場市",
+         "owner_type" : "私立",
+         "short_name" : "御殿場西高校"
+      },
+      "日本大学三島高等学校" : {
+         "location_area" : "三島市",
+         "owner_type" : "私立",
+         "short_name" : "日本大学三島高校",
+         "wikipedia_name" : "日本大学三島高等学校・中学校"
+      },
+      "日本航空高等学校沼津キャンパス" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "日本航空高校沼津キャンパス",
+         "wikipedia_name" : "日本航空高等学校"
+      },
+      "日本航空高等学校通信制課程" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "ウィングハイスクール"
+      },
+      "星槎国際高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "星槎国際高校"
+      },
+      "星陵高等学校" : {
+         "location_area" : "富士宮市",
+         "owner_type" : "私立",
+         "short_name" : "星陵高校"
+      },
+      "東海大学付属望星高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属望星高校"
+      },
+      "東海大学付属翔洋高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属翔洋高校",
+         "wikipedia_name" : "東海大学付属翔洋高等学校・中等部"
+      },
+      "桐陽高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "桐陽高校"
+      },
+      "沼津市立沼津高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "市立",
+         "short_name" : "沼津高校"
+      },
+      "沼津精華学園沼津中央高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "沼津精華学園沼津中央高校"
+      },
+      "浜松啓陽高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "浜松啓陽高校"
+      },
+      "浜松学芸高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "浜松学芸高校",
+         "wikipedia_name" : "浜松学芸中学校・高等学校"
+      },
+      "浜松市立高等学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "高校"
+      },
+      "浜松日体高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "浜松日体高校",
+         "wikipedia_name" : "浜松日体中学校・高等学校"
+      },
+      "浜松海の星高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "浜松海の星高校"
+      },
+      "浜松開誠館高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "浜松開誠館高校",
+         "wikipedia_name" : "浜松開誠館中学校・高等学校"
+      },
+      "清水国際高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "清水国際高校",
+         "wikipedia_name" : "清水国際中学校・高等学校"
+      },
+      "焼津高等学校" : {
+         "location_area" : "焼津市",
+         "owner_type" : "私立",
+         "short_name" : "焼津高校"
+      },
+      "相川学園静清高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "私立",
+         "short_name" : "相川学園静清高校"
+      },
+      "磐田東高等学校" : {
+         "location_area" : "磐田市",
+         "owner_type" : "私立",
+         "short_name" : "磐田東高校",
+         "wikipedia_name" : "磐田東中学校・高等学校"
+      },
+      "科学技術学園高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "科学技術学園高校"
+      },
+      "聖隷クリストファー高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "聖隷クリストファー高校",
+         "wikipedia_name" : "聖隷クリストファー中・高等学校"
+      },
+      "興誠高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "興誠高校",
+         "wikipedia_name" : "興誠中学校・高等学校"
+      },
+      "芥田学園高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "芥田学園高校",
+         "wikipedia_name" : "芥田学園中学校・高等学校"
+      },
+      "藤枝明誠高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "私立",
+         "short_name" : "藤枝明誠高校",
+         "wikipedia_name" : "藤枝明誠中学校・高等学校"
+      },
+      "藤枝順心高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "私立",
+         "short_name" : "藤枝順心高校",
+         "wikipedia_name" : "藤枝順心中学校・高等学校"
+      },
+      "誠恵高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "私立",
+         "short_name" : "誠恵高校"
+      },
+      "青森山田高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "青森山田高校",
+         "wikipedia_name" : "青森山田中学高等学校"
+      },
+      "静岡サレジオ高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡サレジオ高校",
+         "wikipedia_name" : "静岡サレジオ中学校・高等学校"
+      },
+      "静岡北高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡北高校",
+         "wikipedia_name" : "静岡北中学校・高等学校"
+      },
+      "静岡大成高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡大成高校",
+         "wikipedia_name" : "静岡大成中学校・高等学校"
+      },
+      "静岡女子高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡女子高校"
+      },
+      "静岡学園高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡学園高校",
+         "wikipedia_name" : "静岡学園中学校・高等学校"
+      },
+      "静岡市立商業高等学校" : {
+         "location_area" : "駿河区",
+         "owner_type" : "市立",
+         "short_name" : "商業高校"
+      },
+      "静岡市立清水商業高等学校" : {
+         "location_area" : "清水区",
+         "owner_type" : "市立",
+         "short_name" : "清水商業高校"
+      },
+      "静岡市立高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "市立",
+         "short_name" : "高校"
+      },
+      "静岡県富士見高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "私立",
+         "short_name" : "静岡県富士見高校"
+      },
+      "静岡県立三ヶ日高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "三ヶ日高校"
+      },
+      "静岡県立三島北高等学校" : {
+         "location_area" : "三島市",
+         "owner_type" : "県立",
+         "short_name" : "三島北高校"
+      },
+      "静岡県立三島南高等学校" : {
+         "location_area" : "三島市",
+         "owner_type" : "県立",
+         "short_name" : "三島南高校"
+      },
+      "静岡県立三島長陵高等学校" : {
+         "location_area" : "三島市",
+         "owner_type" : "県立",
+         "short_name" : "三島長陵高校"
+      },
+      "静岡県立下田高等学校" : {
+         "location_area" : "下田市",
+         "owner_type" : "県立",
+         "short_name" : "下田高校"
+      },
+      "静岡県立下田高等学校南伊豆分校" : {
+         "location_area" : "南伊豆町",
+         "owner_type" : "県立",
+         "short_name" : "下田高校南伊豆分校"
+      },
+      "静岡県立二俣高等学校" : {
+         "location_area" : "天竜区",
+         "owner_type" : "県立",
+         "short_name" : "二俣高校"
+      },
+      "静岡県立伊東商業高等学校" : {
+         "location_area" : "伊東市",
+         "owner_type" : "県立",
+         "short_name" : "伊東商業高校"
+      },
+      "静岡県立伊東高等学校" : {
+         "location_area" : "伊東市",
+         "owner_type" : "県立",
+         "short_name" : "伊東高校"
+      },
+      "静岡県立伊東高等学校城ケ崎分校" : {
+         "location_area" : "伊東市",
+         "owner_type" : "県立",
+         "short_name" : "伊東高校城ケ崎分校"
+      },
+      "静岡県立伊豆中央高等学校" : {
+         "location_area" : "伊豆の国市",
+         "owner_type" : "県立",
+         "short_name" : "伊豆中央高校"
+      },
+      "静岡県立伊豆総合高等学校" : {
+         "location_area" : "伊豆市",
+         "owner_type" : "県立",
+         "short_name" : "伊豆総合高校"
+      },
+      "静岡県立佐久間高等学校" : {
+         "location_area" : "天竜区",
+         "owner_type" : "県立",
+         "short_name" : "佐久間高校"
+      },
+      "静岡県立吉原工業高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "県立",
+         "short_name" : "吉原工業高校"
+      },
+      "静岡県立吉原高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "県立",
+         "short_name" : "吉原高校"
+      },
+      "静岡県立吉田高等学校" : {
+         "location_area" : "吉田町",
+         "owner_type" : "県立",
+         "short_name" : "吉田高校"
+      },
+      "静岡県立土肥高等学校" : {
+         "location_area" : "伊豆市",
+         "owner_type" : "県立",
+         "short_name" : "土肥高校"
+      },
+      "静岡県立大井川高等学校" : {
+         "location_area" : "焼津市",
+         "owner_type" : "県立",
+         "short_name" : "大井川高校"
+      },
+      "静岡県立天竜林業高等学校" : {
+         "location_area" : "天竜区",
+         "owner_type" : "県立",
+         "short_name" : "天竜林業高校"
+      },
+      "静岡県立富士宮北高等学校" : {
+         "location_area" : "富士宮市",
+         "owner_type" : "県立",
+         "short_name" : "富士宮北高校"
+      },
+      "静岡県立富士宮東高等学校" : {
+         "location_area" : "富士宮市",
+         "owner_type" : "県立",
+         "short_name" : "富士宮東高校"
+      },
+      "静岡県立富士宮西高等学校" : {
+         "location_area" : "富士宮市",
+         "owner_type" : "県立",
+         "short_name" : "富士宮西高校"
+      },
+      "静岡県立富士東高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "県立",
+         "short_name" : "富士東高校"
+      },
+      "静岡県立富士高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "県立",
+         "short_name" : "富士高校"
+      },
+      "静岡県立富岳館高等学校" : {
+         "location_area" : "富士宮市",
+         "owner_type" : "県立",
+         "short_name" : "富岳館高校"
+      },
+      "静岡県立小山高等学校" : {
+         "location_area" : "小山町",
+         "owner_type" : "県立",
+         "short_name" : "小山高校"
+      },
+      "静岡県立小笠高等学校" : {
+         "location_area" : "菊川市",
+         "owner_type" : "県立",
+         "short_name" : "小笠高校"
+      },
+      "静岡県立島田商業高等学校" : {
+         "location_area" : "島田市",
+         "owner_type" : "県立",
+         "short_name" : "島田商業高校"
+      },
+      "静岡県立島田工業高等学校" : {
+         "location_area" : "島田市",
+         "owner_type" : "県立",
+         "short_name" : "島田工業高校"
+      },
+      "静岡県立島田高等学校" : {
+         "location_area" : "島田市",
+         "owner_type" : "県立",
+         "short_name" : "島田高校"
+      },
+      "静岡県立川根高等学校" : {
+         "location_area" : "川根本町",
+         "owner_type" : "県立",
+         "short_name" : "川根高校"
+      },
+      "静岡県立庵原高等学校" : {
+         "location_area" : "清水区",
+         "owner_type" : "県立",
+         "short_name" : "庵原高校"
+      },
+      "静岡県立引佐高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "引佐高校"
+      },
+      "静岡県立御殿場南高等学校" : {
+         "location_area" : "御殿場市",
+         "owner_type" : "県立",
+         "short_name" : "御殿場南高校"
+      },
+      "静岡県立御殿場高等学校" : {
+         "location_area" : "御殿場市",
+         "owner_type" : "県立",
+         "short_name" : "御殿場高校"
+      },
+      "静岡県立掛川工業高等学校" : {
+         "location_area" : "掛川市",
+         "owner_type" : "県立",
+         "short_name" : "掛川工業高校"
+      },
+      "静岡県立掛川東高等学校" : {
+         "location_area" : "掛川市",
+         "owner_type" : "県立",
+         "short_name" : "掛川東高校"
+      },
+      "静岡県立掛川西高等学校" : {
+         "location_area" : "掛川市",
+         "owner_type" : "県立",
+         "short_name" : "掛川西高校"
+      },
+      "静岡県立新居高等学校" : {
+         "location_area" : "湖西市",
+         "owner_type" : "県立",
+         "short_name" : "新居高校"
+      },
+      "静岡県立春野高等学校" : {
+         "location_area" : "天竜区",
+         "owner_type" : "県立",
+         "short_name" : "春野高校"
+      },
+      "静岡県立松崎高等学校" : {
+         "location_area" : "松崎町",
+         "owner_type" : "県立",
+         "short_name" : "松崎高校"
+      },
+      "静岡県立榛原高等学校" : {
+         "location_area" : "牧之原市",
+         "owner_type" : "県立",
+         "short_name" : "榛原高校"
+      },
+      "静岡県立横須賀高等学校" : {
+         "location_area" : "掛川市",
+         "owner_type" : "県立",
+         "short_name" : "横須賀高校"
+      },
+      "静岡県立気賀高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "気賀高校"
+      },
+      "静岡県立池新田高等学校" : {
+         "location_area" : "御前崎市",
+         "owner_type" : "県立",
+         "short_name" : "池新田高校"
+      },
+      "静岡県立沼津商業高等学校" : {
+         "location_area" : "清水町",
+         "owner_type" : "県立",
+         "short_name" : "沼津商業高校"
+      },
+      "静岡県立沼津城北高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "県立",
+         "short_name" : "沼津城北高校"
+      },
+      "静岡県立沼津工業高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "県立",
+         "short_name" : "沼津工業高校"
+      },
+      "静岡県立沼津東高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "県立",
+         "short_name" : "沼津東高校"
+      },
+      "静岡県立沼津西高等学校" : {
+         "location_area" : "沼津市",
+         "owner_type" : "県立",
+         "short_name" : "沼津西高校"
+      },
+      "静岡県立浜北西高等学校" : {
+         "location_area" : "浜北区",
+         "owner_type" : "県立",
+         "short_name" : "浜北西高校"
+      },
+      "静岡県立浜名高等学校" : {
+         "location_area" : "浜北区",
+         "owner_type" : "県立",
+         "short_name" : "浜名高校"
+      },
+      "静岡県立浜松北高等学校" : {
+         "location_area" : "中区",
+         "owner_type" : "県立",
+         "short_name" : "浜松北高校"
+      },
+      "静岡県立浜松南高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "県立",
+         "short_name" : "浜松南高校"
+      },
+      "静岡県立浜松商業高等学校" : {
+         "location_area" : "中区",
+         "owner_type" : "県立",
+         "short_name" : "浜松商業高校"
+      },
+      "静岡県立浜松城北工業高等学校" : {
+         "location_area" : "中区",
+         "owner_type" : "県立",
+         "short_name" : "浜松城北工業高校"
+      },
+      "静岡県立浜松大平台高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "浜松大平台高校"
+      },
+      "静岡県立浜松工業高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "浜松工業高校"
+      },
+      "静岡県立浜松東高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "県立",
+         "short_name" : "浜松東高校"
+      },
+      "静岡県立浜松江之島高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "県立",
+         "short_name" : "浜松江之島高校"
+      },
+      "静岡県立浜松湖南高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "浜松湖南高校"
+      },
+      "静岡県立浜松湖東高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "浜松湖東高校"
+      },
+      "静岡県立浜松西高等学校" : {
+         "location_area" : "中区",
+         "owner_type" : "県立",
+         "short_name" : "浜松西高校",
+         "wikipedia_name" : "静岡県立浜松西高等学校・中等部"
+      },
+      "静岡県立清水南高等学校" : {
+         "location_area" : "清水区",
+         "owner_type" : "県立",
+         "short_name" : "清水南高校"
+      },
+      "静岡県立清水東高等学校" : {
+         "location_area" : "清水区",
+         "owner_type" : "県立",
+         "short_name" : "清水東高校"
+      },
+      "静岡県立清水西高等学校" : {
+         "location_area" : "清水区",
+         "owner_type" : "県立",
+         "short_name" : "清水西高校"
+      },
+      "静岡県立湖西高等学校" : {
+         "location_area" : "湖西市",
+         "owner_type" : "県立",
+         "short_name" : "湖西高校"
+      },
+      "静岡県立焼津中央高等学校" : {
+         "location_area" : "焼津市",
+         "owner_type" : "県立",
+         "short_name" : "焼津中央高校"
+      },
+      "静岡県立焼津水産高等学校" : {
+         "location_area" : "焼津市",
+         "owner_type" : "県立",
+         "short_name" : "焼津水産高校"
+      },
+      "静岡県立熱海高等学校" : {
+         "location_area" : "熱海市",
+         "owner_type" : "県立",
+         "short_name" : "熱海高校"
+      },
+      "静岡県立田方農業高等学校" : {
+         "location_area" : "函南町",
+         "owner_type" : "県立",
+         "short_name" : "田方農業高校"
+      },
+      "静岡県立相良高等学校" : {
+         "location_area" : "牧之原市",
+         "owner_type" : "県立",
+         "short_name" : "相良高校"
+      },
+      "静岡県立磐田北高等学校" : {
+         "location_area" : "磐田市",
+         "owner_type" : "県立",
+         "short_name" : "磐田北高校"
+      },
+      "静岡県立磐田南高等学校" : {
+         "location_area" : "磐田市",
+         "owner_type" : "県立",
+         "short_name" : "磐田南高校"
+      },
+      "静岡県立磐田西高等学校" : {
+         "location_area" : "磐田市",
+         "owner_type" : "県立",
+         "short_name" : "磐田西高校"
+      },
+      "静岡県立磐田農業高等学校" : {
+         "location_area" : "磐田市",
+         "owner_type" : "県立",
+         "short_name" : "磐田農業高校"
+      },
+      "静岡県立科学技術高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "科学技術高校"
+      },
+      "静岡県立稲取高等学校" : {
+         "location_area" : "東伊豆町",
+         "owner_type" : "県立",
+         "short_name" : "稲取高校"
+      },
+      "静岡県立藤枝北高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "県立",
+         "short_name" : "藤枝北高校"
+      },
+      "静岡県立藤枝東高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "県立",
+         "short_name" : "藤枝東高校"
+      },
+      "静岡県立藤枝西高等学校" : {
+         "location_area" : "藤枝市",
+         "owner_type" : "県立",
+         "short_name" : "藤枝西高校"
+      },
+      "静岡県立袋井商業高等学校" : {
+         "location_area" : "袋井市",
+         "owner_type" : "県立",
+         "short_name" : "袋井商業高校"
+      },
+      "静岡県立袋井高等学校" : {
+         "location_area" : "袋井市",
+         "owner_type" : "県立",
+         "short_name" : "袋井高校"
+      },
+      "静岡県立裾野高等学校" : {
+         "location_area" : "裾野市",
+         "owner_type" : "県立",
+         "short_name" : "裾野高校"
+      },
+      "静岡県立遠江総合高等学校" : {
+         "location_area" : "森町",
+         "owner_type" : "県立",
+         "short_name" : "遠江総合高校"
+      },
+      "静岡県立金谷高等学校" : {
+         "location_area" : "島田市",
+         "owner_type" : "県立",
+         "short_name" : "金谷高校"
+      },
+      "静岡県立静岡中央高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡中央高校"
+      },
+      "静岡県立静岡南高等学校" : {
+         "location_area" : "駿河区",
+         "owner_type" : "県立",
+         "short_name" : "静岡南高校"
+      },
+      "静岡県立静岡商業高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡商業高校"
+      },
+      "静岡県立静岡城北高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡城北高校"
+      },
+      "静岡県立静岡東高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡東高校"
+      },
+      "静岡県立静岡西高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡西高校"
+      },
+      "静岡県立静岡農業高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡農業高校"
+      },
+      "静岡県立静岡高等学校" : {
+         "location_area" : "葵区",
+         "owner_type" : "県立",
+         "short_name" : "静岡高校"
+      },
+      "静岡県立韮山高等学校" : {
+         "location_area" : "伊豆の国市",
+         "owner_type" : "県立",
+         "short_name" : "韮山高校"
+      },
+      "静岡県西遠女子学園高等学校" : {
+         "location_area" : "浜松市",
+         "owner_type" : "私立",
+         "short_name" : "静岡県西遠女子学園高校",
+         "wikipedia_name" : "静岡県西遠女子学園中学校・高等学校"
+      },
+      "静岡聖光学院高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡聖光学院高校",
+         "wikipedia_name" : "静岡聖光学院中学校・高等学校"
+      },
+      "静岡英和女学院高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡英和女学院高校",
+         "wikipedia_name" : "静岡英和女学院中学校・高等学校"
+      },
+      "静岡雙葉高等学校" : {
+         "location_area" : "静岡市",
+         "owner_type" : "私立",
+         "short_name" : "静岡雙葉高校",
+         "wikipedia_name" : "静岡雙葉中学校・高等学校"
+      },
+      "飛龍高等学校" : {
+         "location_area" : "三島市",
+         "owner_type" : "私立",
+         "short_name" : "飛龍高校"
+      },
+      "駿台甲府高等学校" : {
+         "location_area" : "富士市",
+         "owner_type" : "私立",
+         "short_name" : "駿台甲府高校"
+      }
+   }
+}

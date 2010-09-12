@@ -1,0 +1,781 @@
+{
+   "high_schools" : {
+      "福岡県立輝翔館中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "輝翔館中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "つくば開成高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "つくば開成高校"
+      },
+      "クラーク記念国際高等学校小倉キャンパス" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校小倉キャンパス",
+         "wikipedia_name" : "クラーク記念国際高等学校"
+      },
+      "クラーク記念国際高等学校福岡キャンパス" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校福岡キャンパス"
+      },
+      "一ツ葉高等学校小倉キャンパス" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "一ツ葉高校小倉キャンパス",
+         "wikipedia_name" : "一ツ葉高等学校"
+      },
+      "一ツ葉高等学校福岡キャンパス" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "一ツ葉高校福岡キャンパス"
+      },
+      "中村学園三陽高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "中村学園三陽高校",
+         "wikipedia_name" : "中村学園三陽中学校・高等学校"
+      },
+      "中村学園女子高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "中村学園女子高校",
+         "wikipedia_name" : "中村学園女子中学校・高等学校"
+      },
+      "久留米信愛女学院高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "久留米信愛女学院高校",
+         "wikipedia_name" : "久留米信愛女学院中学校・高等学校"
+      },
+      "久留米大学附設高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "久留米大学附設高校",
+         "wikipedia_name" : "久留米大学附設中学校・高等学校"
+      },
+      "久留米学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "久留米学園高校"
+      },
+      "久留米市立久留米商業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "久留米商業高校"
+      },
+      "久留米市立南筑高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "南筑高校"
+      },
+      "九州国際大学付属高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "九州国際大学付属高校"
+      },
+      "九州産業大学付属九州産業高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "九州産業大学付属九州産業高校"
+      },
+      "九州産業大学付属九州高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "九州産業大学付属九州高校"
+      },
+      "仰星学園高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "仰星学園高校"
+      },
+      "八女学院高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "八女学院高校",
+         "wikipedia_name" : "八女学院中学校・高等学校"
+      },
+      "北九州市立高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "高校"
+      },
+      "博多女子高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "博多女子高校",
+         "wikipedia_name" : "博多女子中学校・高等学校"
+      },
+      "博多高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "博多高校"
+      },
+      "啓知高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "啓知高校"
+      },
+      "大和青藍高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "大和青藍高校"
+      },
+      "大牟田高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "大牟田高校",
+         "wikipedia_name" : "大牟田中学校・高等学校"
+      },
+      "希望が丘高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "希望が丘高校"
+      },
+      "常磐高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "常磐高校",
+         "wikipedia_name" : "常磐高等学校 (福岡県)"
+      },
+      "慶成高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "慶成高校"
+      },
+      "折尾愛真高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "折尾愛真高校",
+         "wikipedia_name" : "折尾愛真中学校・高等学校"
+      },
+      "敬愛高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "敬愛高校",
+         "wikipedia_name" : "敬愛中学校・高等学校"
+      },
+      "明光学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "明光学園高校",
+         "wikipedia_name" : "明光学園中学校・高等学校"
+      },
+      "明治学園高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "明治学園高校",
+         "wikipedia_name" : "明治学園小学校・中学校・高等学校"
+      },
+      "星槎国際高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "星槎国際高校"
+      },
+      "星琳高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "星琳高校"
+      },
+      "杉森高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "杉森高校"
+      },
+      "東海大学付属第五高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属第五高校"
+      },
+      "東福岡高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "東福岡高校",
+         "wikipedia_name" : "東福岡自彊館中学校・東福岡高等学校"
+      },
+      "東筑紫学園高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "東筑紫学園高校",
+         "wikipedia_name" : "東筑紫学園高等学校・照曜館中学校"
+      },
+      "柳川高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "柳川高校"
+      },
+      "沖学園高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "沖学園高校",
+         "wikipedia_name" : "沖学園隆徳館中学校・沖学園高等学校"
+      },
+      "泰星高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "泰星高校",
+         "wikipedia_name" : "泰星中学校・高等学校"
+      },
+      "真颯館高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "真颯館高校"
+      },
+      "祐誠高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "祐誠高校"
+      },
+      "福岡大学附属大濠高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡大学附属大濠高校",
+         "wikipedia_name" : "福岡大学附属大濠中学校・高等学校"
+      },
+      "福岡大学附属若葉高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡大学附属若葉高校"
+      },
+      "福岡女学院高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡女学院高校",
+         "wikipedia_name" : "福岡女学院中学校・高等学校"
+      },
+      "福岡工業大学附属城東高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡工業大学附属城東高校"
+      },
+      "福岡市立博多工業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "博多工業高校"
+      },
+      "福岡市立福岡女子高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "福岡女子高校"
+      },
+      "福岡市立福岡西陵高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "福岡西陵高校"
+      },
+      "福岡市立福翔高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "福翔高校"
+      },
+      "福岡常葉高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "福岡常葉高校"
+      },
+      "福岡海星女子学院高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡海星女子学院高校"
+      },
+      "福岡県公立三井中央高等学校" : {
+         "owner_type" : "公立",
+         "short_name" : "福岡県公立三井中央高校"
+      },
+      "福岡県公立古賀竟成館高等学校" : {
+         "owner_type" : "公立",
+         "short_name" : "福岡県公立古賀竟成館高校"
+      },
+      "福岡県立ありあけ新世高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "ありあけ新世高校"
+      },
+      "福岡県立ひびき高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "ひびき高校"
+      },
+      "福岡県立三井高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "三井高校"
+      },
+      "福岡県立三池工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "三池工業高校"
+      },
+      "福岡県立三池高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "三池高校"
+      },
+      "福岡県立三潴高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "三潴高校"
+      },
+      "福岡県立中間高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "中間高校"
+      },
+      "福岡県立久留米筑水高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "久留米筑水高校"
+      },
+      "福岡県立久留米高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "久留米高校"
+      },
+      "福岡県立京都高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "京都高校"
+      },
+      "福岡県立伝習館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "伝習館高校"
+      },
+      "福岡県立修猷館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "修猷館高校"
+      },
+      "福岡県立光陵高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "光陵高校"
+      },
+      "福岡県立八女工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八女工業高校"
+      },
+      "福岡県立八女農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八女農業高校"
+      },
+      "福岡県立八女高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八女高校"
+      },
+      "福岡県立八幡中央高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八幡中央高校"
+      },
+      "福岡県立八幡南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八幡南高校"
+      },
+      "福岡県立八幡工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八幡工業高校"
+      },
+      "福岡県立八幡高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "八幡高校"
+      },
+      "福岡県立北九州高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "北九州高校"
+      },
+      "福岡県立北筑高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "北筑高校"
+      },
+      "福岡県立博多青松高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "博多青松高校"
+      },
+      "福岡県立嘉穂東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "嘉穂東高校"
+      },
+      "福岡県立嘉穂総合高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "嘉穂総合高校"
+      },
+      "福岡県立嘉穂総合高等学校嘉麻市立大隈城山校" : {
+         "owner_type" : "市立",
+         "short_name" : "嘉穂総合高校嘉麻市立大隈城山校"
+      },
+      "福岡県立嘉穂高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "嘉穂高校"
+      },
+      "福岡県立城南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "城南高校"
+      },
+      "福岡県立大川樟風高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "大川樟風高校"
+      },
+      "福岡県立大牟田北高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "大牟田北高校"
+      },
+      "福岡県立太宰府高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "太宰府高校"
+      },
+      "福岡県立宇美商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "宇美商業高校"
+      },
+      "福岡県立宗像高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "宗像高校"
+      },
+      "福岡県立小倉南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉南高校"
+      },
+      "福岡県立小倉商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉商業高校"
+      },
+      "福岡県立小倉工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉工業高校"
+      },
+      "福岡県立小倉東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉東高校"
+      },
+      "福岡県立小倉西高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉西高校"
+      },
+      "福岡県立小倉高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小倉高校"
+      },
+      "福岡県立小郡高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小郡高校"
+      },
+      "福岡県立山門高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "山門高校"
+      },
+      "福岡県立戸畑工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "戸畑工業高校"
+      },
+      "福岡県立戸畑高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "戸畑高校"
+      },
+      "福岡県立折尾高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "折尾高校"
+      },
+      "福岡県立新宮高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "新宮高校"
+      },
+      "福岡県立早良高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "早良高校"
+      },
+      "福岡県立明善高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "明善高校"
+      },
+      "福岡県立春日高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "春日高校"
+      },
+      "福岡県立朝倉光陽高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "朝倉光陽高校"
+      },
+      "福岡県立朝倉東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "朝倉東高校"
+      },
+      "福岡県立朝倉農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "朝倉農業高校"
+      },
+      "福岡県立朝倉高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "朝倉高校"
+      },
+      "福岡県立朝羽高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "朝羽高校"
+      },
+      "福岡県立東筑高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "東筑高校"
+      },
+      "福岡県立東鷹高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "東鷹高校"
+      },
+      "福岡県立柏陵高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "柏陵高校"
+      },
+      "福岡県立武蔵台高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "武蔵台高校"
+      },
+      "福岡県立水産高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "水産高校"
+      },
+      "福岡県立浮羽工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "浮羽工業高校"
+      },
+      "福岡県立浮羽究真館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "浮羽究真館高校"
+      },
+      "福岡県立玄洋高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "玄洋高校"
+      },
+      "福岡県立玄界高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "玄界高校"
+      },
+      "福岡県立田川科学技術高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "田川科学技術高校"
+      },
+      "福岡県立田川高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "田川高校"
+      },
+      "福岡県立直方高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "直方高校"
+      },
+      "福岡県立福岡中央高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡中央高校"
+      },
+      "福岡県立福岡工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡工業高校"
+      },
+      "福岡県立福岡講倫館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡講倫館高校"
+      },
+      "福岡県立福岡農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡農業高校"
+      },
+      "福岡県立福岡高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡高校"
+      },
+      "福岡県立福岡魁誠高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福岡魁誠高校"
+      },
+      "福岡県立福島高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "福島高校"
+      },
+      "福岡県立稲築志耕館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "稲築志耕館高校"
+      },
+      "福岡県立筑前高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "筑前高校"
+      },
+      "福岡県立筑紫丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "筑紫丘高校"
+      },
+      "福岡県立筑紫中央高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "筑紫中央高校"
+      },
+      "福岡県立筑紫高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "筑紫高校"
+      },
+      "福岡県立筑豊高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "筑豊高校"
+      },
+      "福岡県立築上西高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "築上西高校"
+      },
+      "福岡県立築上西高等学校築上町立上城井分校" : {
+         "owner_type" : "町立",
+         "short_name" : "築上西高校築上町立上城井分校"
+      },
+      "福岡県立糸島農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "糸島農業高校"
+      },
+      "福岡県立糸島高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "糸島高校"
+      },
+      "福岡県立育徳館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "育徳館高校"
+      },
+      "福岡県立苅田工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "苅田工業高校"
+      },
+      "福岡県立若松商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "若松商業高校"
+      },
+      "福岡県立若松高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "若松高校"
+      },
+      "福岡県立行橋高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "行橋高校"
+      },
+      "福岡県立西田川高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "西田川高校"
+      },
+      "福岡県立遠賀高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "遠賀高校"
+      },
+      "福岡県立門司大翔館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "門司大翔館高校"
+      },
+      "福岡県立門司学園高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "門司学園高校"
+      },
+      "福岡県立門司高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "門司高校"
+      },
+      "福岡県立青豊高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "青豊高校"
+      },
+      "福岡県立鞍手竜徳高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "鞍手竜徳高校"
+      },
+      "福岡県立鞍手高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "鞍手高校"
+      },
+      "福岡県立鞍手高等学校鞍手町立鞍手分校" : {
+         "owner_type" : "町立",
+         "short_name" : "鞍手高校鞍手町立鞍手分校"
+      },
+      "福岡県立須恵高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "須恵高校"
+      },
+      "福岡県立香住丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "香住丘高校"
+      },
+      "福岡県立香椎工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "香椎工業高校"
+      },
+      "福岡県立香椎高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "香椎高校"
+      },
+      "福岡第一高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡第一高校"
+      },
+      "福岡舞鶴高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡舞鶴高校",
+         "wikipedia_name" : "福岡舞鶴中学校・高等学校"
+      },
+      "福岡雙葉高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "福岡雙葉高校",
+         "wikipedia_name" : "福岡雙葉中学校・高等学校"
+      },
+      "福智高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "福智高校"
+      },
+      "立花高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "立花高校"
+      },
+      "第一薬科大学付属高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "第一薬科大学付属高校"
+      },
+      "筑紫台高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "筑紫台高校"
+      },
+      "筑紫女学園高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "筑紫女学園高校",
+         "wikipedia_name" : "筑紫女学園中学校・高等学校"
+      },
+      "筑陽学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "筑陽学園高校",
+         "wikipedia_name" : "筑陽学園中学校・高等学校"
+      },
+      "精華女子高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "精華女子高校"
+      },
+      "純真高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "純真高校",
+         "wikipedia_name" : "純真中学校・高等学校"
+      },
+      "美萩野女子高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "美萩野女子高校"
+      },
+      "自由ケ丘高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "自由ケ丘高校"
+      },
+      "西南女学院高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "西南女学院高校",
+         "wikipedia_name" : "西南女学院中学校・高等学校"
+      },
+      "西南学院高等学校" : {
+         "location_area" : "福岡市",
+         "owner_type" : "私立",
+         "short_name" : "西南学院高校",
+         "wikipedia_name" : "西南学院中学校・高等学校"
+      },
+      "西日本短期大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "西日本短期大学附属高校"
+      },
+      "誠修高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "誠修高校"
+      },
+      "豊国学園高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "豊国学園高校"
+      },
+      "近畿大学附属福岡高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "近畿大学附属福岡高校"
+      },
+      "那珂川町立福岡女子商業高等学校" : {
+         "owner_type" : "町立",
+         "short_name" : "福岡女子商業高校"
+      },
+      "飯塚高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "飯塚高校"
+      },
+      "高稜高等学校" : {
+         "location_area" : "北九州市",
+         "owner_type" : "私立",
+         "short_name" : "高稜高校"
+      }
+   }
+}

@@ -1,0 +1,2390 @@
+{
+   "high_schools" : {
+      "千代田区立九段中等教育学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "区立",
+         "short_name" : "九段中等教育学校"
+      },
+      "東京大学教育学部附属中等教育学校" : {
+         "owner_type" : "国立"
+      },
+      "東京学芸大学附属国際中等教育学校" : {
+         "owner_type" : "国立"
+      },
+      "東京都立小石川中等教育学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "都立",
+         "short_name" : "小石川中等教育学校"
+      },
+      "東京都立桜修館中等教育学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "桜修館中等教育学校"
+      },
+      "東京都立立川国際中等教育学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "都立",
+         "short_name" : "立川国際中等教育学校"
+      }
+   },
+   "misc_schools" : {
+      "アメリカンスクール・イン・ジャパン" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立"
+      }
+   },
+   "senior_high_schools" : {
+      "お茶の水女子大学附属高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "お茶の水女子大学附属高校",
+         "wikipedia_name" : "お茶の水女子大学附属中学校・高等学校"
+      },
+      "かえつ有明高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "私立",
+         "short_name" : "かえつ有明高校",
+         "wikipedia_name" : "かえつ有明中学校・高等学校"
+      },
+      "トキワ松学園高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "トキワ松学園高校",
+         "wikipedia_name" : "トキワ松学園中学校・高等学校"
+      },
+      "三輪田学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "三輪田学園高校",
+         "wikipedia_name" : "三輪田学園中学校・高等学校"
+      },
+      "上野学園高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "私立",
+         "short_name" : "上野学園高校",
+         "wikipedia_name" : "上野学園中学校・高等学校"
+      },
+      "下北沢成徳高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "下北沢成徳高校"
+      },
+      "世田谷学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "世田谷学園高校",
+         "wikipedia_name" : "世田谷学園中学校・高等学校"
+      },
+      "中央大学杉並高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "中央大学杉並高校"
+      },
+      "中央大学附属高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "short_name" : "中央大学附属高校"
+      },
+      "中央大学高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "中央大学高校"
+      },
+      "中央学院大学中央高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "私立",
+         "short_name" : "中央学院大学中央高校"
+      },
+      "中村高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "私立",
+         "short_name" : "中村高校",
+         "wikipedia_name" : "中村中学校・高等学校"
+      },
+      "二松學舍大学附属高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "二松學舍大学附属高校"
+      },
+      "京北学園白山高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "京北学園白山高校"
+      },
+      "京北高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "京北高校",
+         "wikipedia_name" : "京北中学校・高等学校"
+      },
+      "京華商業高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "京華商業高校"
+      },
+      "京華女子高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "京華女子高校",
+         "wikipedia_name" : "京華女子中学高等学校"
+      },
+      "京華高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "京華高校",
+         "wikipedia_name" : "京華中学高等学校"
+      },
+      "佼成学園女子高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "佼成学園女子高校",
+         "wikipedia_name" : "佼成学園女子中学校・高等学校"
+      },
+      "佼成学園高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "佼成学園高校",
+         "wikipedia_name" : "佼成学園中学校・高等学校"
+      },
+      "保善高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "保善高校"
+      },
+      "修徳高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "私立",
+         "short_name" : "修徳高校",
+         "wikipedia_name" : "修徳学園中学校・修徳高等学校"
+      },
+      "光塩女子学院高等科" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "光塩女子学院中等科・高等科"
+      },
+      "八王子実践高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "八王子実践高校",
+         "wikipedia_name" : "八王子実践中学校・高等学校"
+      },
+      "八王子高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "八王子高校"
+      },
+      "八雲学園高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "八雲学園高校",
+         "wikipedia_name" : "八雲学園中学校・高等学校"
+      },
+      "共栄学園高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "私立",
+         "short_name" : "共栄学園高校",
+         "wikipedia_name" : "共栄学園中学高等学校"
+      },
+      "共立女子第二高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "共立女子第二高校",
+         "wikipedia_name" : "共立女子第二中学校・高等学校"
+      },
+      "共立女子高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "共立女子高校",
+         "wikipedia_name" : "共立女子中学高等学校"
+      },
+      "創価高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "short_name" : "創価高校",
+         "wikipedia_name" : "創価中学校・高等学校"
+      },
+      "北豊島高等学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "私立",
+         "short_name" : "北豊島高校"
+      },
+      "十文字高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "十文字高校",
+         "wikipedia_name" : "十文字中学・高等学校"
+      },
+      "千代田女学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "千代田女学園高校",
+         "wikipedia_name" : "千代田女学園中学校・高等学校"
+      },
+      "吉祥女子高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "short_name" : "吉祥女子高校",
+         "wikipedia_name" : "吉祥女子中学校・高等学校"
+      },
+      "和光高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "short_name" : "和光高校",
+         "wikipedia_name" : "学校法人和光学園"
+      },
+      "和洋九段女子高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "和洋九段女子高校",
+         "wikipedia_name" : "和洋九段女子中学校・高等学校"
+      },
+      "品川エトワール女子高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "品川エトワール女子高校"
+      },
+      "品川女子学院高等部" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "品川女子学院中等部・高等部"
+      },
+      "啓明学園高等学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "私立",
+         "short_name" : "啓明学園高校",
+         "wikipedia_name" : "啓明学園中学校・高等学校"
+      },
+      "国士舘高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "国士舘高校",
+         "wikipedia_name" : "国士舘中学校・高等学校"
+      },
+      "国本女子高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "国本女子高校",
+         "wikipedia_name" : "国本女子中学校・高等学校"
+      },
+      "国立音楽大学附属高等学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "私立",
+         "short_name" : "国立音楽大学附属高校",
+         "wikipedia_name" : "国立音楽大学附属中学校・高等学校"
+      },
+      "国際基督教大学高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "short_name" : "国際基督教大学高校"
+      },
+      "國學院大學久我山高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "國學院大學久我山高校",
+         "wikipedia_name" : "國學院大學久我山中学高等学校"
+      },
+      "國學院高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "國學院高校"
+      },
+      "城北高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "城北高校",
+         "wikipedia_name" : "城北中学校・高等学校"
+      },
+      "城西大学附属城西高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "城西大学附属城西高校",
+         "wikipedia_name" : "城西大学附属城西中学校・高等学校"
+      },
+      "堀越高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "堀越高校"
+      },
+      "多摩大学目黒高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "多摩大学目黒高校",
+         "wikipedia_name" : "多摩大学目黒中学校・高等学校"
+      },
+      "多摩大学附属聖ヶ丘高等学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "私立",
+         "short_name" : "多摩大学附属聖ヶ丘高校",
+         "wikipedia_name" : "多摩大学附属聖ヶ丘中学校・高等学校"
+      },
+      "大原学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "大原学園高校"
+      },
+      "大妻中野高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "大妻中野高校",
+         "wikipedia_name" : "大妻中野中学校・高等学校"
+      },
+      "大妻多摩高等学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "私立",
+         "short_name" : "大妻多摩高校",
+         "wikipedia_name" : "大妻多摩高等学校・中学校"
+      },
+      "大妻高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "大妻高校",
+         "wikipedia_name" : "大妻中学高等学校"
+      },
+      "大成高等学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "私立",
+         "short_name" : "大成高校",
+         "wikipedia_name" : "大成高等学校 (東京都)"
+      },
+      "大智学園高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "大智学園高校"
+      },
+      "大東学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "大東学園高校"
+      },
+      "大東文化大学第一高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "大東文化大学第一高校"
+      },
+      "大森学園高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "short_name" : "大森学園高校"
+      },
+      "女子学院高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "女子学院高校",
+         "wikipedia_name" : "女子学院中学校・高等学校"
+      },
+      "女子美術大学付属高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "女子美術大学付属高校",
+         "wikipedia_name" : "女子美術大学付属高等学校・中学校"
+      },
+      "女子聖学院高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "女子聖学院高校",
+         "wikipedia_name" : "女子聖学院中学校・高等学校"
+      },
+      "学習院女子高等科" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学習院女子中・高等科"
+      },
+      "学習院高等科" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立"
+      },
+      "安田学園高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "私立",
+         "short_name" : "安田学園高校",
+         "wikipedia_name" : "安田学園中学校・高等学校"
+      },
+      "安部学院高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "安部学院高校"
+      },
+      "宝仙学園高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "宝仙学園高校",
+         "wikipedia_name" : "宝仙学園中学校・高等学校"
+      },
+      "実践女子学園高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "実践女子学園高校",
+         "wikipedia_name" : "実践女子学園中学校・高等学校"
+      },
+      "実践学園高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "実践学園高校"
+      },
+      "富士見丘高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "富士見丘高校",
+         "wikipedia_name" : "富士見丘中学校・高等学校"
+      },
+      "富士見高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "short_name" : "富士見高校",
+         "wikipedia_name" : "富士見中学高等学校"
+      },
+      "専修大学附属高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "専修大学附属高校"
+      },
+      "小野学園女子高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "小野学園女子高校",
+         "wikipedia_name" : "小野学園女子中学・高等学校"
+      },
+      "山脇学園高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "山脇学園高校",
+         "wikipedia_name" : "山脇学園中学校・高等学校"
+      },
+      "岩倉高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "私立",
+         "short_name" : "岩倉高校"
+      },
+      "川村高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "川村高校",
+         "wikipedia_name" : "川村中学校・高等学校"
+      },
+      "巣鴨高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "巣鴨高校",
+         "wikipedia_name" : "巣鴨中学校・高等学校"
+      },
+      "工学院大学附属高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "工学院大学附属高校"
+      },
+      "帝京八王子高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "帝京八王子高校",
+         "wikipedia_name" : "帝京八王子中学校・高等学校"
+      },
+      "帝京大学高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "帝京大学高校",
+         "wikipedia_name" : "帝京大学中学校高等学校"
+      },
+      "帝京高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "帝京高校",
+         "wikipedia_name" : "帝京大学系属帝京中学校・高等学校"
+      },
+      "広尾学園高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "広尾学園高校",
+         "wikipedia_name" : "広尾学園中学校・高等学校"
+      },
+      "恵泉女学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "恵泉女学園高校",
+         "wikipedia_name" : "恵泉女学園中学・高等学校"
+      },
+      "愛国高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "私立",
+         "short_name" : "愛国高校",
+         "wikipedia_name" : "愛国中学校・高等学校"
+      },
+      "慶應義塾女子高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "慶應義塾女子高校"
+      },
+      "成城学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "成城学園高校",
+         "wikipedia_name" : "成城学園中学校高等学校"
+      },
+      "成城高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "成城高校",
+         "wikipedia_name" : "成城中学校・高等学校"
+      },
+      "成女高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "成女高校",
+         "wikipedia_name" : "成女学園中学校・高等学校"
+      },
+      "成立学園高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "成立学園高校",
+         "wikipedia_name" : "成立学園中学校・高等学校"
+      },
+      "成蹊高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "short_name" : "成蹊高校",
+         "wikipedia_name" : "成蹊中学校・高等学校"
+      },
+      "戸板女子高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "戸板女子高校",
+         "wikipedia_name" : "戸板中学校・女子高等学校"
+      },
+      "拓殖大学第一高等学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "私立",
+         "short_name" : "拓殖大学第一高校"
+      },
+      "攻玉社高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "攻玉社高校",
+         "wikipedia_name" : "攻玉社中学校・高等学校"
+      },
+      "文京学院大学女子高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "文京学院大学女子高校",
+         "wikipedia_name" : "文京学院大学女子中学校・高等学校"
+      },
+      "文化女子大学附属杉並高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "文化女子大学附属杉並高校",
+         "wikipedia_name" : "文化女子大学附属杉並中学校・高等学校"
+      },
+      "文教大学付属高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "文教大学付属高校",
+         "wikipedia_name" : "文教大学付属中学校・高等学校"
+      },
+      "文華女子高等学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "私立",
+         "short_name" : "文華女子高校",
+         "wikipedia_name" : "文華女子中学校・高等学校"
+      },
+      "新渡戸文化高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "新渡戸文化高校",
+         "wikipedia_name" : "新渡戸文化中学校・高等学校"
+      },
+      "日体荏原高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "short_name" : "日体荏原高校"
+      },
+      "日出高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "日出高校",
+         "wikipedia_name" : "日出中学校・高等学校"
+      },
+      "日本大学櫻丘高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学櫻丘高校"
+      },
+      "日本大学第一高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学第一高校",
+         "wikipedia_name" : "日本大学第一中学校・高等学校"
+      },
+      "日本大学第三高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "short_name" : "日本大学第三高校",
+         "wikipedia_name" : "日本大学第三中学校・高等学校"
+      },
+      "日本大学第二高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学第二高校",
+         "wikipedia_name" : "日本大学第二中学校・高等学校"
+      },
+      "日本大学豊山女子高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学豊山女子高校",
+         "wikipedia_name" : "日本大学豊山女子中学校・高等学校"
+      },
+      "日本大学豊山高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学豊山高校",
+         "wikipedia_name" : "日本大学豊山中学校・高等学校"
+      },
+      "日本大学鶴ヶ丘高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "日本大学鶴ヶ丘高校"
+      },
+      "日本女子体育大学附属二階堂高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "日本女子体育大学附属二階堂高校"
+      },
+      "日本学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "日本学園高校",
+         "wikipedia_name" : "日本学園中学校・高等学校"
+      },
+      "日本工業大学駒場高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "日本工業大学駒場高校",
+         "wikipedia_name" : "日本工業大学駒場中学校・高等学校"
+      },
+      "日本放送協会学園高等学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "私立",
+         "short_name" : "日本放送協会学園高校"
+      },
+      "日本橋女学館高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "日本橋女学館高校",
+         "wikipedia_name" : "日本橋女学館中学校・高等学校"
+      },
+      "日本音楽高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "日本音楽高校"
+      },
+      "早稲田大学系属早稲田実業学校高等部" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "早稲田大学系属早稲田実業学校初等部・中等部・高等部"
+      },
+      "早稲田大学高等学院" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立"
+      },
+      "早稲田高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "早稲田高校",
+         "wikipedia_name" : "早稲田中学校・高等学校"
+      },
+      "明星学園高等学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "私立",
+         "short_name" : "明星学園高校",
+         "wikipedia_name" : "学校法人明星学園"
+      },
+      "明星高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "私立",
+         "short_name" : "明星高校",
+         "wikipedia_name" : "明星中学高等学校"
+      },
+      "明治大学付属中野八王子高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "明治大学付属中野八王子高校",
+         "wikipedia_name" : "明治大学付属中野八王子中学校・高等学校"
+      },
+      "明治大学付属中野高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "明治大学付属中野高校",
+         "wikipedia_name" : "明治大学付属中野中学校・高等学校"
+      },
+      "明治大学付属明治高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "short_name" : "明治大学付属明治高校",
+         "wikipedia_name" : "明治大学付属明治高等学校・中学校"
+      },
+      "明治学院東村山高等学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "私立",
+         "short_name" : "明治学院東村山高校",
+         "wikipedia_name" : "明治学院中学校・明治学院東村山高等学校"
+      },
+      "明治学院高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "明治学院高校"
+      },
+      "明法高等学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "私立",
+         "short_name" : "明法高校",
+         "wikipedia_name" : "明法中学・高等学校"
+      },
+      "星美学園高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "星美学園高校",
+         "wikipedia_name" : "星美学園中学校・高等学校"
+      },
+      "昭和女子大学附属昭和高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "昭和女子大学附属昭和高校",
+         "wikipedia_name" : "昭和女子大学附属昭和中学校・高等学校"
+      },
+      "昭和第一学園高等学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "私立",
+         "short_name" : "昭和第一学園高校"
+      },
+      "昭和第一高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "昭和第一高校"
+      },
+      "昭和鉄道高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "昭和鉄道高校"
+      },
+      "晃華学園高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "short_name" : "晃華学園高校",
+         "wikipedia_name" : "晃華学園中学校・高等学校"
+      },
+      "普連土学園高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "普連土学園高校",
+         "wikipedia_name" : "学校法人普連土学園"
+      },
+      "暁星高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "暁星高校",
+         "wikipedia_name" : "暁星中学校・高等学校"
+      },
+      "朋優学院高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "朋優学院高校"
+      },
+      "本郷高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "本郷高校",
+         "wikipedia_name" : "本郷中学校・高等学校"
+      },
+      "杉並学院高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "杉並学院高校",
+         "wikipedia_name" : "杉並学院中学高等学校"
+      },
+      "村田女子高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "村田女子高校",
+         "wikipedia_name" : "村田学園小石川女子中学校・村田女子高等学校"
+      },
+      "東亜学園高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "short_name" : "東亜学園高校"
+      },
+      "東京女子学園高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "東京女子学園高校",
+         "wikipedia_name" : "東京女子学園中学校・高等学校"
+      },
+      "東京女子学院高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "short_name" : "東京女子学院高校",
+         "wikipedia_name" : "東京女子学院中学校・高等学校"
+      },
+      "東京女学館高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "東京女学館高校",
+         "wikipedia_name" : "東京女学館中学校・高等学校"
+      },
+      "東京学園高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "東京学園高校"
+      },
+      "東京学芸大学附属高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "東京学芸大学附属高校"
+      },
+      "東京学芸大学附属高等学校大泉校舎" : {
+         "owner_type" : "国立",
+         "short_name" : "東京学芸大学附属高校大泉校舎"
+      },
+      "東京実業高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "short_name" : "東京実業高校"
+      },
+      "東京家政大学附属女子高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "東京家政大学附属女子高校",
+         "wikipedia_name" : "東京家政大学附属女子中学校・高等学校"
+      },
+      "東京家政学院高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "東京家政学院高校",
+         "wikipedia_name" : "東京家政学院中学校・高等学校"
+      },
+      "東京工業大学附属科学技術高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "東京工業大学附属科学技術高校"
+      },
+      "東京成徳大学高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "東京成徳大学高校",
+         "wikipedia_name" : "東京成徳大学中学校・高等学校"
+      },
+      "東京立正高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "東京立正高校",
+         "wikipedia_name" : "東京立正中学校・高等学校"
+      },
+      "東京純心女子高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "東京純心女子高校",
+         "wikipedia_name" : "東京純心女子中学校・高等学校"
+      },
+      "東京芸術大学音楽学部附属音楽高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "東京芸術大学音楽学部附属音楽高校"
+      },
+      "東京農業大学第一高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "東京農業大学第一高校",
+         "wikipedia_name" : "東京農業大学第一高等学校・中等部"
+      },
+      "東京都市大学付属高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "東京都市大学付属高校",
+         "wikipedia_name" : "東京都市大学付属中学校・高等学校"
+      },
+      "東京都市大学等々力高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "東京都市大学等々力高校",
+         "wikipedia_name" : "東京都市大学等々力中学校・高等学校"
+      },
+      "東京都立つばさ総合高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "つばさ総合高校"
+      },
+      "東京都立一橋高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "都立",
+         "short_name" : "一橋高校"
+      },
+      "東京都立三宅高等学校" : {
+         "location_area" : "三宅村",
+         "owner_type" : "都立",
+         "short_name" : "三宅高校"
+      },
+      "東京都立三田高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "都立",
+         "short_name" : "三田高校"
+      },
+      "東京都立三鷹高等学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "都立",
+         "short_name" : "三鷹高校"
+      },
+      "東京都立上水高等学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "都立",
+         "short_name" : "上水高校"
+      },
+      "東京都立上野高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "都立",
+         "short_name" : "上野高校"
+      },
+      "東京都立世田谷泉高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "世田谷泉高校"
+      },
+      "東京都立世田谷総合高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "世田谷総合高校"
+      },
+      "東京都立両国高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "都立",
+         "short_name" : "両国高校",
+         "wikipedia_name" : "東京都立両国高等学校・附属中学校"
+      },
+      "東京都立中野工業高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "都立",
+         "short_name" : "中野工業高校"
+      },
+      "東京都立久留米西高等学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "都立",
+         "short_name" : "久留米西高校"
+      },
+      "東京都立五日市高等学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "都立",
+         "short_name" : "五日市高校"
+      },
+      "東京都立井草高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "井草高校"
+      },
+      "東京都立保谷高等学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "都立",
+         "short_name" : "保谷高校"
+      },
+      "東京都立光丘高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "光丘高校"
+      },
+      "東京都立八丈高等学校" : {
+         "location_area" : "八丈町",
+         "owner_type" : "都立",
+         "short_name" : "八丈高校"
+      },
+      "東京都立八潮高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "都立",
+         "short_name" : "八潮高校"
+      },
+      "東京都立八王子北高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "八王子北高校"
+      },
+      "東京都立八王子拓真高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "八王子拓真高校"
+      },
+      "東京都立八王子東高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "八王子東高校"
+      },
+      "東京都立八王子桑志高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "八王子桑志高校"
+      },
+      "東京都立六本木高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "都立",
+         "short_name" : "六本木高校"
+      },
+      "東京都立六郷工科高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "六郷工科高校"
+      },
+      "東京都立北園高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "北園高校"
+      },
+      "東京都立北多摩高等学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "都立",
+         "short_name" : "北多摩高校"
+      },
+      "東京都立北豊島工業高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "北豊島工業高校"
+      },
+      "東京都立千早高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "都立",
+         "short_name" : "千早高校"
+      },
+      "東京都立千歳丘高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "千歳丘高校"
+      },
+      "東京都立南多摩高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "南多摩高校"
+      },
+      "東京都立南平高等学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "都立",
+         "short_name" : "南平高校"
+      },
+      "東京都立南葛飾高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "南葛飾高校"
+      },
+      "東京都立向丘高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "都立",
+         "short_name" : "向丘高校"
+      },
+      "東京都立国分寺高等学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "都立",
+         "short_name" : "国分寺高校"
+      },
+      "東京都立国立高等学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "都立",
+         "short_name" : "国立高校"
+      },
+      "東京都立国際高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "国際高校"
+      },
+      "東京都立園芸高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "園芸高校"
+      },
+      "東京都立城東高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "城東高校"
+      },
+      "東京都立墨田川高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "都立",
+         "short_name" : "墨田川高校"
+      },
+      "東京都立墨田工業高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "墨田工業高校"
+      },
+      "東京都立多摩工業高等学校" : {
+         "location_area" : "福生市",
+         "owner_type" : "都立",
+         "short_name" : "多摩工業高校"
+      },
+      "東京都立多摩科学技術高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "都立",
+         "short_name" : "多摩科学技術高校"
+      },
+      "東京都立多摩高等学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "都立",
+         "short_name" : "多摩高校"
+      },
+      "東京都立大学附属高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "大学附属高校"
+      },
+      "東京都立大山高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "大山高校"
+      },
+      "東京都立大島海洋国際高等学校" : {
+         "location_area" : "大島町",
+         "owner_type" : "都立",
+         "short_name" : "大島海洋国際高校"
+      },
+      "東京都立大島高等学校" : {
+         "location_area" : "大島町",
+         "owner_type" : "都立",
+         "short_name" : "大島高校"
+      },
+      "東京都立大崎高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "都立",
+         "short_name" : "大崎高校"
+      },
+      "東京都立大森高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "大森高校"
+      },
+      "東京都立大江戸高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "大江戸高校"
+      },
+      "東京都立大泉桜高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "大泉桜高校"
+      },
+      "東京都立大泉高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "大泉高校"
+      },
+      "東京都立大田桜台高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "都立",
+         "short_name" : "大田桜台高校"
+      },
+      "東京都立富士森高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "富士森高校"
+      },
+      "東京都立富士高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "都立",
+         "short_name" : "富士高校"
+      },
+      "東京都立小山台高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "都立",
+         "short_name" : "小山台高校"
+      },
+      "東京都立小岩高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "小岩高校"
+      },
+      "東京都立小川高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "小川高校"
+      },
+      "東京都立小平南高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "都立",
+         "short_name" : "小平南高校"
+      },
+      "東京都立小平西高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "都立",
+         "short_name" : "小平西高校"
+      },
+      "東京都立小平高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "都立",
+         "short_name" : "小平高校"
+      },
+      "東京都立小松川高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "小松川高校"
+      },
+      "東京都立小石川高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "都立",
+         "short_name" : "小石川高校"
+      },
+      "東京都立小笠原高等学校" : {
+         "location_area" : "小笠原村",
+         "owner_type" : "都立",
+         "short_name" : "小笠原高校"
+      },
+      "東京都立小金井北高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "都立",
+         "short_name" : "小金井北高校"
+      },
+      "東京都立小金井工業高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "都立",
+         "short_name" : "小金井工業高校"
+      },
+      "東京都立山崎高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "山崎高校"
+      },
+      "東京都立工芸高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "都立",
+         "short_name" : "工芸高校"
+      },
+      "東京都立広尾高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "都立",
+         "short_name" : "広尾高校"
+      },
+      "東京都立府中工業高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "都立",
+         "short_name" : "府中工業高校"
+      },
+      "東京都立府中東高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "都立",
+         "short_name" : "府中東高校"
+      },
+      "東京都立府中西高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "都立",
+         "short_name" : "府中西高校"
+      },
+      "東京都立府中高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "都立",
+         "short_name" : "府中高校"
+      },
+      "東京都立忍岡高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "都立",
+         "short_name" : "忍岡高校"
+      },
+      "東京都立成瀬高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "成瀬高校"
+      },
+      "東京都立戸山高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "都立",
+         "short_name" : "戸山高校"
+      },
+      "東京都立拝島高等学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "都立",
+         "short_name" : "拝島高校"
+      },
+      "東京都立文京高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "都立",
+         "short_name" : "文京高校"
+      },
+      "東京都立新宿山吹高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "都立",
+         "short_name" : "新宿山吹高校"
+      },
+      "東京都立新宿高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "都立",
+         "short_name" : "新宿高校"
+      },
+      "東京都立新島高等学校" : {
+         "location_area" : "新島村",
+         "owner_type" : "都立",
+         "short_name" : "新島高校"
+      },
+      "東京都立日本橋高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "都立",
+         "short_name" : "日本橋高校"
+      },
+      "東京都立日比谷高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "都立",
+         "short_name" : "日比谷高校"
+      },
+      "東京都立日野台高等学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "都立",
+         "short_name" : "日野台高校"
+      },
+      "東京都立日野高等学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "都立",
+         "short_name" : "日野高校"
+      },
+      "東京都立昭和高等学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "都立",
+         "short_name" : "昭和高校"
+      },
+      "東京都立晴海総合高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "都立",
+         "short_name" : "晴海総合高校"
+      },
+      "東京都立本所工業高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "本所工業高校"
+      },
+      "東京都立本所高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "都立",
+         "short_name" : "本所高校"
+      },
+      "東京都立杉並工業高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "杉並工業高校"
+      },
+      "東京都立杉並総合高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "杉並総合高校"
+      },
+      "東京都立杉並高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "杉並高校"
+      },
+      "東京都立東久留米総合高等学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "都立",
+         "short_name" : "東久留米総合高校"
+      },
+      "東京都立東大和南高等学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "都立",
+         "short_name" : "東大和南高校"
+      },
+      "東京都立東大和高等学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "都立",
+         "short_name" : "東大和高校"
+      },
+      "東京都立東村山西高等学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "都立",
+         "short_name" : "東村山西高校"
+      },
+      "東京都立東村山高等学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "都立",
+         "short_name" : "東村山高校"
+      },
+      "東京都立東高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "東高校"
+      },
+      "東京都立松が谷高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "松が谷高校"
+      },
+      "東京都立松原高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "松原高校"
+      },
+      "東京都立板橋有徳高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "板橋有徳高校"
+      },
+      "東京都立板橋高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "板橋高校"
+      },
+      "東京都立桐ケ丘高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "都立",
+         "short_name" : "桐ケ丘高校"
+      },
+      "東京都立桜町高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "桜町高校"
+      },
+      "東京都立橘高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "都立",
+         "short_name" : "橘高校"
+      },
+      "東京都立武蔵丘高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "都立",
+         "short_name" : "武蔵丘高校"
+      },
+      "東京都立武蔵村山高等学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "都立",
+         "short_name" : "武蔵村山高校"
+      },
+      "東京都立武蔵野北高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "都立",
+         "short_name" : "武蔵野北高校"
+      },
+      "東京都立武蔵高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "都立",
+         "short_name" : "武蔵高校",
+         "wikipedia_name" : "東京都立武蔵高等学校・附属中学校"
+      },
+      "東京都立永山高等学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "都立",
+         "short_name" : "永山高校"
+      },
+      "東京都立江北高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "江北高校"
+      },
+      "東京都立江戸川高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "江戸川高校"
+      },
+      "東京都立江東商業高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "江東商業高校"
+      },
+      "東京都立浅草高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "都立",
+         "short_name" : "浅草高校"
+      },
+      "東京都立深川高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "深川高校"
+      },
+      "東京都立深沢高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "深沢高校"
+      },
+      "東京都立淵江高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "淵江高校"
+      },
+      "東京都立清瀬高等学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "都立",
+         "short_name" : "清瀬高校"
+      },
+      "東京都立片倉高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "片倉高校"
+      },
+      "東京都立狛江高等学校" : {
+         "location_area" : "狛江市",
+         "owner_type" : "都立",
+         "short_name" : "狛江高校"
+      },
+      "東京都立瑞穂農芸高等学校" : {
+         "location_area" : "瑞穂町",
+         "owner_type" : "都立",
+         "short_name" : "瑞穂農芸高校"
+      },
+      "東京都立田園調布高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "田園調布高校"
+      },
+      "東京都立田柄高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "田柄高校"
+      },
+      "東京都立田無工業高等学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "都立",
+         "short_name" : "田無工業高校"
+      },
+      "東京都立田無高等学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "都立",
+         "short_name" : "田無高校"
+      },
+      "東京都立町田工業高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "町田工業高校"
+      },
+      "東京都立町田総合高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "町田総合高校"
+      },
+      "東京都立町田高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "町田高校"
+      },
+      "東京都立白鴎高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "都立",
+         "short_name" : "白鴎高校",
+         "wikipedia_name" : "東京都立白鴎高等学校・附属中学校"
+      },
+      "東京都立目黒高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "目黒高校"
+      },
+      "東京都立石神井高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "石神井高校"
+      },
+      "東京都立砂川高等学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "都立",
+         "short_name" : "砂川高校"
+      },
+      "東京都立神代高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "都立",
+         "short_name" : "神代高校"
+      },
+      "東京都立神津高等学校" : {
+         "location_area" : "神津島村",
+         "owner_type" : "都立",
+         "short_name" : "神津高校"
+      },
+      "東京都立福生高等学校" : {
+         "location_area" : "福生市",
+         "owner_type" : "都立",
+         "short_name" : "福生高校"
+      },
+      "東京都立秋留台高等学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "都立",
+         "short_name" : "秋留台高校"
+      },
+      "東京都立科学技術高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "科学技術高校"
+      },
+      "東京都立稔ヶ丘高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "都立",
+         "short_name" : "稔ヶ丘高校"
+      },
+      "東京都立立川高等学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "都立",
+         "short_name" : "立川高校"
+      },
+      "東京都立竹台高等学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "都立",
+         "short_name" : "竹台高校"
+      },
+      "東京都立竹早高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "都立",
+         "short_name" : "竹早高校"
+      },
+      "東京都立第一商業高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "都立",
+         "short_name" : "第一商業高校"
+      },
+      "東京都立第三商業高等学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "都立",
+         "short_name" : "第三商業高校"
+      },
+      "東京都立第五商業高等学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "都立",
+         "short_name" : "第五商業高校"
+      },
+      "東京都立第四商業高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "第四商業高校"
+      },
+      "東京都立篠崎高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "篠崎高校"
+      },
+      "東京都立紅葉川高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "紅葉川高校"
+      },
+      "東京都立総合工科高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "総合工科高校"
+      },
+      "東京都立総合芸術高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "総合芸術高校"
+      },
+      "東京都立練馬工業高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "練馬工業高校"
+      },
+      "東京都立練馬高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "都立",
+         "short_name" : "練馬高校"
+      },
+      "東京都立美原高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "美原高校"
+      },
+      "東京都立羽村高等学校" : {
+         "location_area" : "羽村市",
+         "owner_type" : "都立",
+         "short_name" : "羽村高校"
+      },
+      "東京都立翔陽高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "都立",
+         "short_name" : "翔陽高校"
+      },
+      "東京都立芝商業高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "都立",
+         "short_name" : "芝商業高校"
+      },
+      "東京都立芦花高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "都立",
+         "short_name" : "芦花高校"
+      },
+      "東京都立芸術高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "芸術高校"
+      },
+      "東京都立若葉総合高等学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "都立",
+         "short_name" : "若葉総合高校"
+      },
+      "東京都立荒川商業高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "荒川商業高校"
+      },
+      "東京都立荒川工業高等学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "都立",
+         "short_name" : "荒川工業高校"
+      },
+      "東京都立荻窪高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "荻窪高校"
+      },
+      "東京都立葛西南高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "葛西南高校"
+      },
+      "東京都立葛西工業高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "都立",
+         "short_name" : "葛西工業高校"
+      },
+      "東京都立葛飾商業高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "葛飾商業高校"
+      },
+      "東京都立葛飾総合高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "葛飾総合高校"
+      },
+      "東京都立葛飾野高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "葛飾野高校"
+      },
+      "東京都立蒲田高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "蒲田高校"
+      },
+      "東京都立蔵前工業高等学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "都立",
+         "short_name" : "蔵前工業高校"
+      },
+      "東京都立西高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "西高校"
+      },
+      "東京都立調布北高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "都立",
+         "short_name" : "調布北高校"
+      },
+      "東京都立調布南高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "都立",
+         "short_name" : "調布南高校"
+      },
+      "東京都立豊多摩高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "豊多摩高校"
+      },
+      "東京都立豊島高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "都立",
+         "short_name" : "豊島高校"
+      },
+      "東京都立赤羽商業高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "都立",
+         "short_name" : "赤羽商業高校"
+      },
+      "東京都立足立工業高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "足立工業高校"
+      },
+      "東京都立足立新田高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "足立新田高校"
+      },
+      "東京都立足立東高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "足立東高校"
+      },
+      "東京都立足立西高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "足立西高校"
+      },
+      "東京都立足立高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "足立高校"
+      },
+      "東京都立農業高等学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "都立",
+         "short_name" : "農業高校"
+      },
+      "東京都立農産高等学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "都立",
+         "short_name" : "農産高校"
+      },
+      "東京都立農芸高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "都立",
+         "short_name" : "農芸高校"
+      },
+      "東京都立野津田高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "都立",
+         "short_name" : "野津田高校"
+      },
+      "東京都立雪谷高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "都立",
+         "short_name" : "雪谷高校"
+      },
+      "東京都立青井高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "都立",
+         "short_name" : "青井高校"
+      },
+      "東京都立青山高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "都立",
+         "short_name" : "青山高校"
+      },
+      "東京都立青梅総合高等学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "都立",
+         "short_name" : "青梅総合高校"
+      },
+      "東京都立飛鳥高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "都立",
+         "short_name" : "飛鳥高校"
+      },
+      "東京都立駒場高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "都立",
+         "short_name" : "駒場高校"
+      },
+      "東京都立高島高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "都立",
+         "short_name" : "高島高校"
+      },
+      "東京都立鷺宮高等学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "都立",
+         "short_name" : "鷺宮高校"
+      },
+      "東京電機大学高等学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "short_name" : "東京電機大学高校",
+         "wikipedia_name" : "東京電機大学中学校・高等学校"
+      },
+      "東京音楽大学付属高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "東京音楽大学付属高校"
+      },
+      "東京高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "short_name" : "東京高校"
+      },
+      "東星学園高等学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "私立",
+         "short_name" : "東星学園高校",
+         "wikipedia_name" : "東星学園中学校・高等学校"
+      },
+      "東洋女子高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "東洋女子高校"
+      },
+      "東洋英和女学院高等部" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東洋英和女学院中学部・高等部"
+      },
+      "東洋高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "東洋高校"
+      },
+      "東海大学付属望星高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属望星高校"
+      },
+      "東海大学付属高輪台高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属高輪台高校",
+         "wikipedia_name" : "東海大学付属高輪台高等学校・中等部"
+      },
+      "東海大学菅生高等学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学菅生高校",
+         "wikipedia_name" : "東海大学菅生高等学校・中等部"
+      },
+      "東邦音楽大学附属東邦高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "東邦音楽大学附属東邦高校",
+         "wikipedia_name" : "東邦音楽大学附属東邦中学校・高等学校"
+      },
+      "松蔭高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "松蔭高校",
+         "wikipedia_name" : "松蔭中学校・高等学校 (東京都)"
+      },
+      "桐朋女子高等学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "short_name" : "桐朋女子高校",
+         "wikipedia_name" : "桐朋女子中学校・高等学校"
+      },
+      "桐朋高等学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "私立",
+         "short_name" : "桐朋高校",
+         "wikipedia_name" : "桐朋中学校・高等学校"
+      },
+      "桜丘高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "桜丘高校",
+         "wikipedia_name" : "桜丘中学・高等学校 (東京都)"
+      },
+      "桜美林高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "short_name" : "桜美林高校",
+         "wikipedia_name" : "桜美林中学校・高等学校"
+      },
+      "桜華女学院高等学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "私立",
+         "short_name" : "桜華女学院高校"
+      },
+      "桜蔭高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "桜蔭高校",
+         "wikipedia_name" : "桜蔭中学校・高等学校"
+      },
+      "正則学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "正則学園高校"
+      },
+      "正則高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "正則高校"
+      },
+      "武蔵野女子学院高等学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "私立",
+         "short_name" : "武蔵野女子学院高校",
+         "wikipedia_name" : "武蔵野女子学院中学校・高等学校"
+      },
+      "武蔵野高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "武蔵野高校",
+         "wikipedia_name" : "武蔵野中学校・高等学校"
+      },
+      "武蔵高等学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "short_name" : "武蔵高校",
+         "wikipedia_name" : "武蔵中学校・高等学校"
+      },
+      "江戸川女子高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "私立",
+         "short_name" : "江戸川女子高校",
+         "wikipedia_name" : "江戸川女子中学校・高等学校"
+      },
+      "法政大学高等学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "私立",
+         "short_name" : "法政大学高校",
+         "wikipedia_name" : "法政大学中学高等学校"
+      },
+      "海城高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "海城高校",
+         "wikipedia_name" : "海城中学校・高等学校"
+      },
+      "淑徳SC高等部" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "淑徳SC中等部・高等部"
+      },
+      "淑徳巣鴨高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "淑徳巣鴨高校",
+         "wikipedia_name" : "淑徳巣鴨中学校・高等学校"
+      },
+      "淑徳高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "淑徳高校",
+         "wikipedia_name" : "淑徳中学校・高等学校"
+      },
+      "渋谷教育学園渋谷高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "渋谷教育学園渋谷高校",
+         "wikipedia_name" : "渋谷教育学園渋谷中学校・高等学校"
+      },
+      "潤徳女子高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "私立",
+         "short_name" : "潤徳女子高校"
+      },
+      "瀧野川女子学園高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "瀧野川女子学園高校",
+         "wikipedia_name" : "瀧野川女子学園中学校・高等学校"
+      },
+      "獨協高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "獨協高校",
+         "wikipedia_name" : "獨協中学校・高等学校"
+      },
+      "玉川学園高等部" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人玉川学園"
+      },
+      "玉川聖学院高等部" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "玉川聖学院中等部・高等部"
+      },
+      "田園調布学園高等部" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "田園調布学園中等部・高等部"
+      },
+      "田園調布雙葉高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "田園調布雙葉高校",
+         "wikipedia_name" : "田園調布雙葉中学校・高等学校"
+      },
+      "白梅学園高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "short_name" : "白梅学園高校",
+         "wikipedia_name" : "白梅学園高等学校・清修中学校"
+      },
+      "白百合学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "白百合学園高校",
+         "wikipedia_name" : "白百合学園中学校・高等学校"
+      },
+      "目白研心高等学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "short_name" : "目白研心高校",
+         "wikipedia_name" : "目白研心中学校・高等学校"
+      },
+      "目黒学院高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "目黒学院高校",
+         "wikipedia_name" : "目黒学院中学校・高等学校"
+      },
+      "目黒星美学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "目黒星美学園高校",
+         "wikipedia_name" : "目黒星美学園中学校・高等学校"
+      },
+      "神田女学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "神田女学園高校",
+         "wikipedia_name" : "神田女学園中学校・高等学校"
+      },
+      "科学技術学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "科学技術学園高校"
+      },
+      "穎明館高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "穎明館高校",
+         "wikipedia_name" : "穎明館中学・高等学校"
+      },
+      "立川女子高等学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "私立",
+         "short_name" : "立川女子高校"
+      },
+      "立志舎高等学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "私立",
+         "short_name" : "立志舎高校"
+      },
+      "立教女学院高等学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "short_name" : "立教女学院高校",
+         "wikipedia_name" : "立教女学院中学校・高等学校"
+      },
+      "立教池袋高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "立教池袋高校",
+         "wikipedia_name" : "立教池袋中学校・高等学校"
+      },
+      "立正大学付属立正高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "立正大学付属立正高校",
+         "wikipedia_name" : "立正大学付属立正中学校・高等学校"
+      },
+      "筑波大学附属駒場高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "筑波大学附属駒場高校",
+         "wikipedia_name" : "筑波大学附属駒場中学校・高等学校"
+      },
+      "筑波大学附属高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "筑波大学附属高校",
+         "wikipedia_name" : "筑波大学附属中学校・高等学校"
+      },
+      "聖ドミニコ学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "聖ドミニコ学園高校",
+         "wikipedia_name" : "聖ドミニコ学園中学校・高等学校"
+      },
+      "聖パウロ学園高等学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "short_name" : "聖パウロ学園高校"
+      },
+      "聖学院高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "聖学院高校",
+         "wikipedia_name" : "聖学院中学校・高等学校"
+      },
+      "聖徳学園高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "short_name" : "聖徳学園高校",
+         "wikipedia_name" : "聖徳学園中学校・高等学校"
+      },
+      "聖心女子学院高等科" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖心女子学院中等科・高等科"
+      },
+      "自由ヶ丘学園高等学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "short_name" : "自由ヶ丘学園高校"
+      },
+      "自由学園高等科" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人自由学園"
+      },
+      "芝浦工業大学高等学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "short_name" : "芝浦工業大学高校",
+         "wikipedia_name" : "芝浦工業大学中学高等学校"
+      },
+      "芝高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "芝高校",
+         "wikipedia_name" : "芝中学校・高等学校"
+      },
+      "蒲田女子高等学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "short_name" : "蒲田女子高校"
+      },
+      "藤村女子高等学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "short_name" : "藤村女子高校",
+         "wikipedia_name" : "藤村女子中学校・高等学校"
+      },
+      "豊南高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "豊南高校"
+      },
+      "豊島学院高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "豊島学院高校"
+      },
+      "豊島岡女子学園高等学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "豊島岡女子学園高校",
+         "wikipedia_name" : "豊島岡女子学園中学校・高等学校"
+      },
+      "貞静学園高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "貞静学園高校",
+         "wikipedia_name" : "貞静学園中学高等学校"
+      },
+      "足立学園高等学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "私立",
+         "short_name" : "足立学園高校",
+         "wikipedia_name" : "足立学園中学校・高等学校"
+      },
+      "跡見学園高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "跡見学園高校",
+         "wikipedia_name" : "跡見学園中学校・高等学校"
+      },
+      "郁文館グローバル高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "郁文館グローバル高校"
+      },
+      "郁文館高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "郁文館高校",
+         "wikipedia_name" : "郁文館中学校・高等学校"
+      },
+      "錦城学園高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "錦城学園高校"
+      },
+      "錦城高等学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "short_name" : "錦城高校",
+         "wikipedia_name" : "錦城高等学校 (私立)"
+      },
+      "開成高等学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "私立",
+         "short_name" : "開成高校",
+         "wikipedia_name" : "開成中学校・高等学校"
+      },
+      "関東国際高等学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "short_name" : "関東国際高校"
+      },
+      "関東第一高等学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "私立",
+         "short_name" : "関東第一高校"
+      },
+      "雙葉高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "雙葉高校",
+         "wikipedia_name" : "雙葉中学校・高等学校"
+      },
+      "青山学院高等部" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "青山学院中等部・高等部"
+      },
+      "青稜高等学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "short_name" : "青稜高校",
+         "wikipedia_name" : "青稜中学校・高等学校"
+      },
+      "順天高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "順天高校",
+         "wikipedia_name" : "順天中学校・高等学校"
+      },
+      "頌栄女子学院高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "頌栄女子学院高校",
+         "wikipedia_name" : "頌栄女子学院中学校・高等学校"
+      },
+      "香蘭女学校高等科" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "香蘭女学校中等科・高等科"
+      },
+      "駒場学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "駒場学園高校"
+      },
+      "駒場東邦高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "駒場東邦高校",
+         "wikipedia_name" : "駒場東邦中学校・高等学校"
+      },
+      "駒沢学園女子高等学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "私立",
+         "short_name" : "駒沢学園女子高校",
+         "wikipedia_name" : "駒沢学園女子中学校・高等学校"
+      },
+      "駒澤大学高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "駒澤大学高校"
+      },
+      "駒込高等学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "short_name" : "駒込高校",
+         "wikipedia_name" : "駒込中学校・高等学校"
+      },
+      "駿台学園高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "駿台学園高校",
+         "wikipedia_name" : "駿台学園中学校・高等学校"
+      },
+      "高輪高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "高輪高校",
+         "wikipedia_name" : "高輪中学校・高等学校"
+      },
+      "鴎友学園高等学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "short_name" : "鴎友学園高校",
+         "wikipedia_name" : "鴎友学園女子中学校・高等学校"
+      },
+      "鶴川高等学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "short_name" : "鶴川高校"
+      },
+      "鹿島学園高等学校通信制課程東京校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "short_name" : "鹿島学園高校通信制課程東京校"
+      },
+      "麹町学園女子高等学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "short_name" : "麹町学園女子高校",
+         "wikipedia_name" : "麹町学園女子中学校・高等学校"
+      },
+      "麻布高等学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "麻布高校",
+         "wikipedia_name" : "麻布中学校・高等学校"
+      }
+   }
+}

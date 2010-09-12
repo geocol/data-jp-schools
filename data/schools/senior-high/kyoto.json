@@ -1,0 +1,512 @@
+{
+   "senior_high_schools" : {
+      "ノートルダム女学院高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "ノートルダム女学院高校",
+         "wikipedia_name" : "ノートルダム女学院中学校・高等学校"
+      },
+      "一燈園高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "一燈園高校"
+      },
+      "京都両洋高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都両洋高校"
+      },
+      "京都光華高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都光華高校",
+         "wikipedia_name" : "京都光華中学校・高等学校"
+      },
+      "京都共栄学園高等学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立",
+         "short_name" : "京都共栄学園高校",
+         "wikipedia_name" : "京都共栄学園中学校・高等学校"
+      },
+      "京都国際高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都国際高校",
+         "wikipedia_name" : "京都国際中学校・高等学校"
+      },
+      "京都外大西高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都外大西高校"
+      },
+      "京都女子高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都女子高校",
+         "wikipedia_name" : "京都女子中学校・高等学校"
+      },
+      "京都学園高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都学園高校",
+         "wikipedia_name" : "京都学園中学校・高等学校"
+      },
+      "京都市立京都堀川音楽高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "京都堀川音楽高校"
+      },
+      "京都市立伏見工業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "伏見工業高校"
+      },
+      "京都市立堀川高等学校" : {
+         "owner_type" : "市立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "堀川高校"
+      },
+      "京都市立塔南高等学校" : {
+         "owner_type" : "市立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "塔南高校"
+      },
+      "京都市立日吉ヶ丘高等学校" : {
+         "owner_type" : "市立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "日吉ヶ丘高校"
+      },
+      "京都市立洛陽工業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "洛陽工業高校"
+      },
+      "京都市立紫野高等学校" : {
+         "owner_type" : "市立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "紫野高校"
+      },
+      "京都市立西京高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "西京高校"
+      },
+      "京都市立銅駝美術工芸高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "銅駝美術工芸高校"
+      },
+      "京都府立久御山高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "久御山高校"
+      },
+      "京都府立久美浜高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "丹後通学圏",
+         "short_name" : "久美浜高校"
+      },
+      "京都府立乙訓高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "乙訓高校"
+      },
+      "京都府立亀岡高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "口丹通学圏",
+         "short_name" : "亀岡高校"
+      },
+      "京都府立京都すばる高等学校" : {
+         "owner_type" : "府立",
+         "short_name" : "京都すばる高校"
+      },
+      "京都府立京都八幡高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "京都八幡高校"
+      },
+      "京都府立京都八幡高等学校北キャンパス" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "京都八幡高校北キャンパス"
+      },
+      "京都府立京都八幡高等学校南キャンパス" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "京都八幡高校南キャンパス"
+      },
+      "京都府立加悦谷高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "丹後通学圏",
+         "short_name" : "加悦谷高校"
+      },
+      "京都府立北嵯峨高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "北嵯峨高校"
+      },
+      "京都府立北桑田高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "口丹通学圏",
+         "short_name" : "北桑田高校"
+      },
+      "京都府立北稜高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "北稜高校"
+      },
+      "京都府立南丹高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "口丹通学圏",
+         "short_name" : "南丹高校"
+      },
+      "京都府立南陽高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "南陽高校"
+      },
+      "京都府立向陽高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "向陽高校"
+      },
+      "京都府立園部高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "口丹通学圏",
+         "short_name" : "園部高校",
+         "wikipedia_name" : "京都府立園部高等学校・附属中学校"
+      },
+      "京都府立城南菱創高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "城南菱創高校"
+      },
+      "京都府立城陽高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "城陽高校"
+      },
+      "京都府立大江高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "中丹通学圏",
+         "short_name" : "大江高校"
+      },
+      "京都府立宮津高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "丹後通学圏",
+         "short_name" : "宮津高校"
+      },
+      "京都府立山城高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "山城高校"
+      },
+      "京都府立峰山高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "丹後通学圏",
+         "short_name" : "峰山高校"
+      },
+      "京都府立嵯峨野高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "嵯峨野高校"
+      },
+      "京都府立工業高等学校" : {
+         "owner_type" : "府立",
+         "short_name" : "工業高校"
+      },
+      "京都府立木津高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "木津高校"
+      },
+      "京都府立朱雀高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "朱雀高校"
+      },
+      "京都府立東宇治高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "東宇治高校"
+      },
+      "京都府立東稜高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "東稜高校"
+      },
+      "京都府立東舞鶴高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "中丹通学圏",
+         "short_name" : "東舞鶴高校"
+      },
+      "京都府立桂高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "桂高校"
+      },
+      "京都府立桃山高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "桃山高校"
+      },
+      "京都府立洛北高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "洛北高校",
+         "wikipedia_name" : "京都府立洛北高等学校・附属中学校"
+      },
+      "京都府立洛東高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "洛東高校"
+      },
+      "京都府立洛水高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "洛水高校"
+      },
+      "京都府立洛西高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "洛西高校"
+      },
+      "京都府立海洋高等学校" : {
+         "owner_type" : "府立",
+         "short_name" : "海洋高校"
+      },
+      "京都府立田辺高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "田辺高校"
+      },
+      "京都府立福知山高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "中丹通学圏",
+         "short_name" : "福知山高校"
+      },
+      "京都府立網野高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "丹後通学圏",
+         "short_name" : "網野高校"
+      },
+      "京都府立綾部高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "中丹通学圏",
+         "short_name" : "綾部高校"
+      },
+      "京都府立莵道高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "莵道高校"
+      },
+      "京都府立西乙訓高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "西乙訓高校"
+      },
+      "京都府立西城陽高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "山城通学圏",
+         "short_name" : "西城陽高校"
+      },
+      "京都府立西舞鶴高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "中丹通学圏",
+         "short_name" : "西舞鶴高校"
+      },
+      "京都府立農芸高等学校" : {
+         "owner_type" : "府立",
+         "short_name" : "農芸高校"
+      },
+      "京都府立須知高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "口丹通学圏",
+         "short_name" : "須知高校"
+      },
+      "京都府立鳥羽高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市南通学圏",
+         "short_name" : "鳥羽高校"
+      },
+      "京都府立鴨沂高等学校" : {
+         "owner_type" : "府立",
+         "school_area" : "京都市北通学圏",
+         "short_name" : "鴨沂高校"
+      },
+      "京都成章高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都成章高校"
+      },
+      "京都教育大学附属高等学校" : {
+         "owner_type" : "国立",
+         "short_name" : "京都教育大学附属高校"
+      },
+      "京都文教高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都文教高校",
+         "wikipedia_name" : "京都文教中学校・高等学校"
+      },
+      "京都明徳高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都明徳高校"
+      },
+      "京都暁星高等学校" : {
+         "location_area" : "宮津市",
+         "owner_type" : "私立",
+         "short_name" : "京都暁星高校"
+      },
+      "京都橘高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都橘高校"
+      },
+      "京都産業大学附属高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都産業大学附属高校",
+         "wikipedia_name" : "京都産業大学附属中学校・高等学校"
+      },
+      "京都精華女子高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "京都精華女子高校"
+      },
+      "京都美山高等学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "私立",
+         "short_name" : "京都美山高校"
+      },
+      "京都翔英高等学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立",
+         "short_name" : "京都翔英高校"
+      },
+      "京都聖カタリナ高等学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "私立",
+         "short_name" : "京都聖カタリナ高校"
+      },
+      "京都芸術高等学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立",
+         "short_name" : "京都芸術高校"
+      },
+      "京都西山高等学校" : {
+         "location_area" : "向日市",
+         "owner_type" : "私立",
+         "short_name" : "京都西山高校"
+      },
+      "南京都高等学校" : {
+         "location_area" : "相楽郡精華町",
+         "owner_type" : "私立",
+         "short_name" : "南京都高校"
+      },
+      "同志社国際高等学校" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "私立",
+         "short_name" : "同志社国際高校",
+         "wikipedia_name" : "同志社国際中学校・高等学校"
+      },
+      "同志社女子高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "同志社女子高校",
+         "wikipedia_name" : "同志社女子中学校・高等学校"
+      },
+      "同志社高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "同志社高校"
+      },
+      "大谷高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "大谷高校",
+         "wikipedia_name" : "大谷中学校・高等学校 (京都府)"
+      },
+      "平安女学院高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "平安女学院高校",
+         "wikipedia_name" : "平安女学院中学校・高等学校"
+      },
+      "日星高等学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立",
+         "short_name" : "日星高校"
+      },
+      "東山高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "東山高校",
+         "wikipedia_name" : "東山中学校・高等学校"
+      },
+      "洛南高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "洛南高校",
+         "wikipedia_name" : "洛南高等学校・附属中学校"
+      },
+      "洛星高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "洛星高校",
+         "wikipedia_name" : "洛星中学校・高等学校"
+      },
+      "洛陽総合高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "洛陽総合高校"
+      },
+      "福知山女子高等学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立",
+         "short_name" : "福知山女子高校"
+      },
+      "福知山成美高等学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立",
+         "short_name" : "福知山成美高校"
+      },
+      "福知山淑徳高等学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立",
+         "short_name" : "福知山淑徳高校"
+      },
+      "立命館宇治高等学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立",
+         "short_name" : "立命館宇治高校",
+         "wikipedia_name" : "立命館宇治中学校・高等学校"
+      },
+      "立命館高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "立命館高校",
+         "wikipedia_name" : "立命館中学校・高等学校"
+      },
+      "聖母学院高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "聖母学院高校",
+         "wikipedia_name" : "聖母学院中学高等学校"
+      },
+      "花園高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "花園高校",
+         "wikipedia_name" : "花園中学校・高等学校"
+      },
+      "華頂女子高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "華頂女子高校",
+         "wikipedia_name" : "華頂女子中学校・高等学校"
+      },
+      "龍谷大学付属平安高等学校" : {
+         "location_area" : "京都市",
+         "owner_type" : "私立",
+         "short_name" : "龍谷大学付属平安高校",
+         "wikipedia_name" : "龍谷大学付属平安中学校・高等学校"
+      }
+   }
+}

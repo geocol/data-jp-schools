@@ -1,0 +1,415 @@
+{
+   "high_schools" : {
+      "伊勢崎市立四ツ葉学園中等教育学校" : {
+         "owner_type" : "市立",
+         "short_name" : "四ツ葉学園中等教育学校"
+      },
+      "創世中等教育学校" : {
+         "owner_type" : "私立"
+      },
+      "群馬県立中央中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "中央中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "伊勢崎市立伊勢崎高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "市立",
+         "short_name" : "伊勢崎高校"
+      },
+      "共愛学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "共愛学園高校"
+      },
+      "利根沼田学校組合立利根商業高等学校" : {
+         "short_name" : "利根沼田学校組合立利根商業高校"
+      },
+      "前橋市立前橋高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "市立",
+         "short_name" : "前橋高校"
+      },
+      "前橋育英高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "前橋育英高校"
+      },
+      "太田市立商業高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "市立",
+         "short_name" : "商業高校"
+      },
+      "学芸館高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "学芸館高校"
+      },
+      "常磐高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "常磐高校",
+         "wikipedia_name" : "常磐高等学校 (群馬県)"
+      },
+      "新島学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "新島学園高校",
+         "wikipedia_name" : "新島学園中学校・高等学校"
+      },
+      "明和県央高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "明和県央高校"
+      },
+      "東京農業大学第二高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "東京農業大学第二高校"
+      },
+      "桐生市立商業高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "市立",
+         "short_name" : "商業高校"
+      },
+      "桐生第一高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "桐生第一高校"
+      },
+      "樹徳高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "樹徳高校",
+         "wikipedia_name" : "樹徳中学校・高等学校"
+      },
+      "白根開善学校高等部" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "白根開善学校中等部・高等部"
+      },
+      "群馬県立万場高等学校" : {
+         "location_area" : "多野郡",
+         "owner_type" : "県立",
+         "short_name" : "万場高校"
+      },
+      "群馬県立下仁田高等学校" : {
+         "location_area" : "甘楽郡",
+         "owner_type" : "県立",
+         "short_name" : "下仁田高校"
+      },
+      "群馬県立中之条高等学校" : {
+         "location_area" : "吾妻郡",
+         "owner_type" : "県立",
+         "short_name" : "中之条高校"
+      },
+      "群馬県立伊勢崎商業高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "県立",
+         "short_name" : "伊勢崎商業高校"
+      },
+      "群馬県立伊勢崎工業高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "県立",
+         "short_name" : "伊勢崎工業高校"
+      },
+      "群馬県立伊勢崎清明高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "県立",
+         "short_name" : "伊勢崎清明高校"
+      },
+      "群馬県立伊勢崎興陽高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "県立",
+         "short_name" : "伊勢崎興陽高校"
+      },
+      "群馬県立伊勢崎高等学校" : {
+         "location_area" : "伊勢崎市",
+         "owner_type" : "県立",
+         "short_name" : "伊勢崎高校"
+      },
+      "群馬県立利根実業高等学校" : {
+         "location_area" : "沼田市",
+         "owner_type" : "県立",
+         "short_name" : "利根実業高校"
+      },
+      "群馬県立前橋南高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋南高校"
+      },
+      "群馬県立前橋商業高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋商業高校"
+      },
+      "群馬県立前橋女子高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋女子高校"
+      },
+      "群馬県立前橋工業高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋工業高校"
+      },
+      "群馬県立前橋東高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋東高校"
+      },
+      "群馬県立前橋清陵高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋清陵高校"
+      },
+      "群馬県立前橋西高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋西高校"
+      },
+      "群馬県立前橋高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "前橋高校"
+      },
+      "群馬県立勢多農林高等学校" : {
+         "location_area" : "前橋市",
+         "owner_type" : "県立",
+         "short_name" : "勢多農林高校"
+      },
+      "群馬県立吉井高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "吉井高校"
+      },
+      "群馬県立吾妻高等学校" : {
+         "location_area" : "吾妻郡",
+         "owner_type" : "県立",
+         "short_name" : "吾妻高校"
+      },
+      "群馬県立大泉高等学校" : {
+         "location_area" : "邑楽郡",
+         "owner_type" : "県立",
+         "short_name" : "大泉高校"
+      },
+      "群馬県立大間々高等学校" : {
+         "location_area" : "みどり市",
+         "owner_type" : "県立",
+         "short_name" : "大間々高校"
+      },
+      "群馬県立太田フレックス高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "太田フレックス高校"
+      },
+      "群馬県立太田女子高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "太田女子高校"
+      },
+      "群馬県立太田工業高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "太田工業高校"
+      },
+      "群馬県立太田東高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "太田東高校"
+      },
+      "群馬県立太田高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "太田高校"
+      },
+      "群馬県立嬬恋高等学校" : {
+         "location_area" : "吾妻郡",
+         "owner_type" : "県立",
+         "short_name" : "嬬恋高校"
+      },
+      "群馬県立安中総合学園高等学校" : {
+         "location_area" : "安中市",
+         "owner_type" : "県立",
+         "short_name" : "安中総合学園高校"
+      },
+      "群馬県立富岡実業高等学校" : {
+         "location_area" : "富岡市",
+         "owner_type" : "県立",
+         "short_name" : "富岡実業高校"
+      },
+      "群馬県立富岡東高等学校" : {
+         "location_area" : "富岡市",
+         "owner_type" : "県立",
+         "short_name" : "富岡東高校"
+      },
+      "群馬県立富岡高等学校" : {
+         "location_area" : "富岡市",
+         "owner_type" : "県立",
+         "short_name" : "富岡高校"
+      },
+      "群馬県立尾瀬高等学校" : {
+         "location_area" : "沼田市",
+         "owner_type" : "県立",
+         "short_name" : "尾瀬高校"
+      },
+      "群馬県立新田暁高等学校" : {
+         "location_area" : "太田市",
+         "owner_type" : "県立",
+         "short_name" : "新田暁高校"
+      },
+      "群馬県立松井田高等学校" : {
+         "location_area" : "安中市",
+         "owner_type" : "県立",
+         "short_name" : "松井田高校"
+      },
+      "群馬県立板倉高等学校" : {
+         "location_area" : "邑楽郡",
+         "owner_type" : "県立",
+         "short_name" : "板倉高校"
+      },
+      "群馬県立桐生南高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "県立",
+         "short_name" : "桐生南高校"
+      },
+      "群馬県立桐生女子高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "県立",
+         "short_name" : "桐生女子高校"
+      },
+      "群馬県立桐生工業高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "県立",
+         "short_name" : "桐生工業高校"
+      },
+      "群馬県立桐生西高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "県立",
+         "short_name" : "桐生西高校"
+      },
+      "群馬県立桐生高等学校" : {
+         "location_area" : "桐生市",
+         "owner_type" : "県立",
+         "short_name" : "桐生高校"
+      },
+      "群馬県立榛名高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "榛名高校"
+      },
+      "群馬県立沼田女子高等学校" : {
+         "location_area" : "沼田市",
+         "owner_type" : "県立",
+         "short_name" : "沼田女子高校"
+      },
+      "群馬県立沼田高等学校" : {
+         "location_area" : "沼田市",
+         "owner_type" : "県立",
+         "short_name" : "沼田高校"
+      },
+      "群馬県立渋川女子高等学校" : {
+         "location_area" : "渋川市",
+         "owner_type" : "県立",
+         "short_name" : "渋川女子高校"
+      },
+      "群馬県立渋川工業高等学校" : {
+         "location_area" : "渋川市",
+         "owner_type" : "県立",
+         "short_name" : "渋川工業高校"
+      },
+      "群馬県立渋川青翠高等学校" : {
+         "location_area" : "渋川市",
+         "owner_type" : "県立",
+         "short_name" : "渋川青翠高校"
+      },
+      "群馬県立渋川高等学校" : {
+         "location_area" : "渋川市",
+         "owner_type" : "県立",
+         "short_name" : "渋川高校"
+      },
+      "群馬県立玉村高等学校" : {
+         "location_area" : "佐波郡",
+         "owner_type" : "県立",
+         "short_name" : "玉村高校"
+      },
+      "群馬県立藤岡中央高等学校" : {
+         "location_area" : "藤岡市",
+         "owner_type" : "県立",
+         "short_name" : "藤岡中央高校"
+      },
+      "群馬県立藤岡北高等学校" : {
+         "location_area" : "藤岡市",
+         "owner_type" : "県立",
+         "short_name" : "藤岡北高校"
+      },
+      "群馬県立藤岡工業高等学校" : {
+         "location_area" : "藤岡市",
+         "owner_type" : "県立",
+         "short_name" : "藤岡工業高校"
+      },
+      "群馬県立西邑楽高等学校" : {
+         "location_area" : "邑楽郡",
+         "owner_type" : "県立",
+         "short_name" : "西邑楽高校"
+      },
+      "群馬県立長野原高等学校" : {
+         "location_area" : "吾妻郡",
+         "owner_type" : "県立",
+         "short_name" : "長野原高校"
+      },
+      "群馬県立館林商工高等学校" : {
+         "location_area" : "邑楽郡",
+         "owner_type" : "県立",
+         "short_name" : "館林商工高校"
+      },
+      "群馬県立館林女子高等学校" : {
+         "location_area" : "館林市",
+         "owner_type" : "県立",
+         "short_name" : "館林女子高校"
+      },
+      "群馬県立館林高等学校" : {
+         "location_area" : "館林市",
+         "owner_type" : "県立",
+         "short_name" : "館林高校"
+      },
+      "群馬県立高崎北高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎北高校"
+      },
+      "群馬県立高崎商業高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎商業高校"
+      },
+      "群馬県立高崎女子高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎女子高校"
+      },
+      "群馬県立高崎工業高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎工業高校"
+      },
+      "群馬県立高崎東高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎東高校"
+      },
+      "群馬県立高崎高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "県立",
+         "short_name" : "高崎高校"
+      },
+      "関東学園大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "関東学園大学附属高校"
+      },
+      "高崎健康福祉大学高崎高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "高崎健康福祉大学高崎高校"
+      },
+      "高崎商科大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "高崎商科大学附属高校"
+      },
+      "高崎経済大学附属高等学校" : {
+         "location_area" : "高崎市",
+         "owner_type" : "市立",
+         "short_name" : "高崎経済大学附属高校"
+      }
+   }
+}

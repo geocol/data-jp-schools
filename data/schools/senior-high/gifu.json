@@ -1,0 +1,516 @@
+{
+   "senior_high_schools" : {
+      "ぎふ国際高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "ぎふ国際高校"
+      },
+      "ウィッツ青山学園高等学校多治見キャンパス" : {
+         "location_area" : "多治見市",
+         "owner_type" : "私立",
+         "short_name" : "ウィッツ青山学園高校多治見キャンパス",
+         "wikipedia_name" : "ウィッツ青山学園高等学校"
+      },
+      "ウィッツ青山学園高等学校大垣キャンパス" : {
+         "location_area" : "大垣市",
+         "owner_type" : "私立",
+         "short_name" : "ウィッツ青山学園高校大垣キャンパス",
+         "wikipedia_name" : "ウィッツ青山学園高等学校"
+      },
+      "ウィッツ青山学園高等学校岐阜キャンパス" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "ウィッツ青山学園高校岐阜キャンパス",
+         "wikipedia_name" : "ウィッツ青山学園高等学校"
+      },
+      "中京高等学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "私立",
+         "short_name" : "中京高校"
+      },
+      "中津川市立阿木高等学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "school_area" : "東濃学区",
+         "short_name" : "阿木高校"
+      },
+      "城南高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "城南高校",
+         "wikipedia_name" : "城南高等学校 (岐阜県)"
+      },
+      "多治見西高等学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "私立",
+         "short_name" : "多治見西高校"
+      },
+      "大垣日本大学高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "私立",
+         "short_name" : "大垣日本大学高校"
+      },
+      "富田高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "富田高校",
+         "wikipedia_name" : "富田高等学校 (岐阜県)"
+      },
+      "岐阜女子高等学校" : {
+         "location_area" : "岐南町",
+         "owner_type" : "私立",
+         "short_name" : "岐阜女子高校"
+      },
+      "岐阜市立岐阜商業高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜商業高校"
+      },
+      "岐阜東高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "岐阜東高校"
+      },
+      "岐阜県立不破高等学校" : {
+         "location_area" : "垂井町",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "不破高校"
+      },
+      "岐阜県立中津商業高等学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "中津商業高校"
+      },
+      "岐阜県立中津川工業高等学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "中津川工業高校"
+      },
+      "岐阜県立中津高等学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "中津高校"
+      },
+      "岐阜県立八百津高等学校" : {
+         "location_area" : "八百津町",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "八百津高校"
+      },
+      "岐阜県立加納高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "加納高校"
+      },
+      "岐阜県立加茂農林高等学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "加茂農林高校"
+      },
+      "岐阜県立加茂高等学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "加茂高校"
+      },
+      "岐阜県立可児工業高等学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "可児工業高校"
+      },
+      "岐阜県立可児高等学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "可児高校"
+      },
+      "岐阜県立各務原西高等学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "各務原西高校"
+      },
+      "岐阜県立各務原高等学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "各務原高校"
+      },
+      "岐阜県立吉城高等学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "吉城高校"
+      },
+      "岐阜県立土岐商業高等学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "土岐商業高校"
+      },
+      "岐阜県立土岐紅陵高等学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "土岐紅陵高校"
+      },
+      "岐阜県立坂下高等学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "坂下高校"
+      },
+      "岐阜県立多治見北高等学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "多治見北高校"
+      },
+      "岐阜県立多治見工業高等学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "多治見工業高校"
+      },
+      "岐阜県立多治見高等学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "多治見高校"
+      },
+      "岐阜県立大垣北高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣北高校"
+      },
+      "岐阜県立大垣南高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣南高校"
+      },
+      "岐阜県立大垣商業高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣商業高校"
+      },
+      "岐阜県立大垣工業高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣工業高校"
+      },
+      "岐阜県立大垣東高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣東高校"
+      },
+      "岐阜県立大垣桜高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣桜高校"
+      },
+      "岐阜県立大垣西高等学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣西高校"
+      },
+      "岐阜県立大垣養老高等学校" : {
+         "location_area" : "養老町",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "大垣養老高校"
+      },
+      "岐阜県立山県高等学校" : {
+         "location_area" : "山県市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "山県高校"
+      },
+      "岐阜県立岐南工業高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐南工業高校"
+      },
+      "岐阜県立岐山高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐山高校"
+      },
+      "岐阜県立岐阜北高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜北高校"
+      },
+      "岐阜県立岐阜各務野高等学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜各務野高校"
+      },
+      "岐阜県立岐阜商業高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜商業高校"
+      },
+      "岐阜県立岐阜城北高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜城北高校"
+      },
+      "岐阜県立岐阜工業高等学校" : {
+         "location_area" : "笠松町",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜工業高校"
+      },
+      "岐阜県立岐阜総合学園高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜総合学園高校"
+      },
+      "岐阜県立岐阜農林高等学校" : {
+         "location_area" : "北方町",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜農林高校"
+      },
+      "岐阜県立岐阜高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "岐阜高校"
+      },
+      "岐阜県立恵那南高等学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "恵那南高校"
+      },
+      "岐阜県立恵那農業高等学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "恵那農業高校"
+      },
+      "岐阜県立恵那高等学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "恵那高校"
+      },
+      "岐阜県立揖斐高等学校" : {
+         "location_area" : "揖斐川町",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "揖斐高校"
+      },
+      "岐阜県立斐太高等学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "斐太高校"
+      },
+      "岐阜県立本巣松陽高等学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "本巣松陽高校"
+      },
+      "岐阜県立東濃フロンティア高等学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "東濃フロンティア高校"
+      },
+      "岐阜県立東濃実業高等学校" : {
+         "location_area" : "御嵩町",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "東濃実業高校"
+      },
+      "岐阜県立東濃高等学校" : {
+         "location_area" : "御嵩町",
+         "owner_type" : "県立",
+         "school_area" : "可茂学区",
+         "short_name" : "東濃高校"
+      },
+      "岐阜県立武義高等学校" : {
+         "location_area" : "美濃市",
+         "owner_type" : "県立",
+         "school_area" : "美濃学区",
+         "short_name" : "武義高校"
+      },
+      "岐阜県立池田高等学校" : {
+         "location_area" : "池田町",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "池田高校"
+      },
+      "岐阜県立海津明誠高等学校" : {
+         "location_area" : "海津市",
+         "owner_type" : "県立",
+         "school_area" : "西濃学区",
+         "short_name" : "海津明誠高校"
+      },
+      "岐阜県立瑞浪高等学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "県立",
+         "school_area" : "東濃学区",
+         "short_name" : "瑞浪高校"
+      },
+      "岐阜県立益田清風高等学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "益田清風高校"
+      },
+      "岐阜県立羽島北高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "羽島北高校"
+      },
+      "岐阜県立羽島高等学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "羽島高校"
+      },
+      "岐阜県立華陽フロンティア高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "華陽フロンティア高校"
+      },
+      "岐阜県立郡上北高等学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "県立",
+         "school_area" : "美濃学区",
+         "short_name" : "郡上北高校"
+      },
+      "岐阜県立郡上高等学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "県立",
+         "school_area" : "美濃学区",
+         "short_name" : "郡上高校"
+      },
+      "岐阜県立長良高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "県立",
+         "school_area" : "岐阜学区",
+         "short_name" : "長良高校"
+      },
+      "岐阜県立関有知高等学校" : {
+         "location_area" : "関市",
+         "owner_type" : "県立",
+         "school_area" : "美濃学区",
+         "short_name" : "関有知高校"
+      },
+      "岐阜県立関高等学校" : {
+         "location_area" : "関市",
+         "owner_type" : "県立",
+         "school_area" : "美濃学区",
+         "short_name" : "関高校"
+      },
+      "岐阜県立飛騨神岡高等学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "飛騨神岡高校"
+      },
+      "岐阜県立飛騨高山高等学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "飛騨高山高校"
+      },
+      "岐阜県立高山工業高等学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "県立",
+         "school_area" : "飛騨学区",
+         "short_name" : "高山工業高校"
+      },
+      "岐阜第一高等学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "私立",
+         "short_name" : "岐阜第一高校"
+      },
+      "岐阜聖徳学園大学附属高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "岐阜聖徳学園大学附属高校",
+         "wikipedia_name" : "岐阜聖徳学園大学附属中学校・高等学校"
+      },
+      "岐阜聖徳学園高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "岐阜聖徳学園高校"
+      },
+      "帝京大学可児高等学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "私立",
+         "short_name" : "帝京大学可児高校",
+         "wikipedia_name" : "帝京大学可児高等学校中学校"
+      },
+      "済美高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "済美高校",
+         "wikipedia_name" : "済美高等学校 (岐阜県)"
+      },
+      "美濃加茂高等学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "私立",
+         "short_name" : "美濃加茂高校",
+         "wikipedia_name" : "美濃加茂中学高等学校"
+      },
+      "聖マリア女学院高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "聖マリア女学院高校"
+      },
+      "関市立関商工高等学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "school_area" : "美濃学区",
+         "short_name" : "関商工高校"
+      },
+      "高山西高等学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "私立",
+         "short_name" : "高山西高校"
+      },
+      "鶯谷高等学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "私立",
+         "short_name" : "鶯谷高校",
+         "wikipedia_name" : "鶯谷中学・高等学校"
+      },
+      "麗澤瑞浪高等学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "私立",
+         "short_name" : "麗澤瑞浪高校",
+         "wikipedia_name" : "麗澤瑞浪中学校・高等学校"
+      }
+   }
+}

@@ -1,0 +1,459 @@
+{
+   "senior_high_schools" : {
+      "さくら国際高等学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "私立",
+         "short_name" : "さくら国際高校"
+      },
+      "エクセラン高等学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "私立",
+         "short_name" : "エクセラン高校"
+      },
+      "ヒューマンアカデミー高等学校" : {
+         "location_area" : "南木曽町",
+         "owner_type" : "私立",
+         "short_name" : "ヒューマンアカデミー高校"
+      },
+      "上田西高等学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "私立",
+         "short_name" : "上田西高校"
+      },
+      "伊那西高等学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "私立",
+         "short_name" : "伊那西高校"
+      },
+      "佐久長聖高等学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "私立",
+         "short_name" : "佐久長聖高校",
+         "wikipedia_name" : "佐久長聖中学校・高等学校"
+      },
+      "信濃むつみ高等学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "私立",
+         "short_name" : "信濃むつみ高校"
+      },
+      "創造学園大学附属高等学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "私立",
+         "short_name" : "創造学園大学附属高校"
+      },
+      "地球環境高等学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "私立",
+         "short_name" : "地球環境高校"
+      },
+      "天龍興譲高等学校" : {
+         "location_area" : "天龍村",
+         "owner_type" : "私立",
+         "short_name" : "天龍興譲高校"
+      },
+      "文化女子大学附属長野高等学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "私立",
+         "short_name" : "文化女子大学附属長野高校"
+      },
+      "東京都市大学塩尻高等学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "私立",
+         "short_name" : "東京都市大学塩尻高校"
+      },
+      "東海大学付属第三高等学校" : {
+         "location_area" : "茅野市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属第三高校"
+      },
+      "松商学園高等学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "私立",
+         "short_name" : "松商学園高校"
+      },
+      "松本第一高等学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "私立",
+         "short_name" : "松本第一高校"
+      },
+      "長野俊英高等学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "私立",
+         "short_name" : "長野俊英高校"
+      },
+      "長野女子高等学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "私立",
+         "short_name" : "長野女子高校"
+      },
+      "長野市立長野高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "長野高校"
+      },
+      "長野日本大学高等学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "私立",
+         "short_name" : "長野日本大学高校",
+         "wikipedia_name" : "長野日本大学中学校・高等学校"
+      },
+      "長野清泉女学院高等学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "私立",
+         "short_name" : "長野清泉女学院高校"
+      },
+      "長野県上伊那農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "上伊那農業高校"
+      },
+      "長野県上田千曲高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "上田千曲高校"
+      },
+      "長野県上田東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "上田東高校"
+      },
+      "長野県上田染谷丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "上田染谷丘高校"
+      },
+      "長野県上田高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "上田高校"
+      },
+      "長野県下伊那農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "下伊那農業高校"
+      },
+      "長野県下諏訪向陽高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "下諏訪向陽高校"
+      },
+      "長野県下高井農林高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "下高井農林高校"
+      },
+      "長野県中野立志館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "中野立志館高校"
+      },
+      "長野県中野西高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "中野西高校"
+      },
+      "長野県丸子修学館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "丸子修学館高校"
+      },
+      "長野県伊那北高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "伊那北高校"
+      },
+      "長野県伊那弥生ヶ丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "伊那弥生ヶ丘高校"
+      },
+      "長野県北佐久農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "北佐久農業高校"
+      },
+      "長野県北部高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "北部高校"
+      },
+      "長野県南安曇農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "南安曇農業高校"
+      },
+      "長野県坂城高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "坂城高校"
+      },
+      "長野県塩尻志学館高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "塩尻志学館高校"
+      },
+      "長野県大町北高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "大町北高校"
+      },
+      "長野県大町高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "大町高校"
+      },
+      "長野県富士見高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "富士見高校"
+      },
+      "長野県小海高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小海高校"
+      },
+      "長野県小諸商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小諸商業高校"
+      },
+      "長野県小諸高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "小諸高校"
+      },
+      "長野県屋代南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "屋代南高校"
+      },
+      "長野県屋代高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "屋代高校"
+      },
+      "長野県岡谷南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "岡谷南高校"
+      },
+      "長野県岡谷工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "岡谷工業高校"
+      },
+      "長野県岡谷東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "岡谷東高校"
+      },
+      "長野県岩村田高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "岩村田高校"
+      },
+      "長野県明科高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "明科高校"
+      },
+      "長野県更級農業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "更級農業高校"
+      },
+      "長野県望月高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "望月高校"
+      },
+      "長野県木曽青峰高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "木曽青峰高校"
+      },
+      "長野県東御清翔高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "東御清翔高校"
+      },
+      "長野県松代高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松代高校"
+      },
+      "長野県松川高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松川高校"
+      },
+      "長野県松本工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本工業高校"
+      },
+      "長野県松本深志高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本深志高校"
+      },
+      "長野県松本県ヶ丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本県ヶ丘高校"
+      },
+      "長野県松本筑摩高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本筑摩高校"
+      },
+      "長野県松本美須々ヶ丘高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本美須々ヶ丘高校"
+      },
+      "長野県松本蟻ヶ崎高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "松本蟻ヶ崎高校"
+      },
+      "長野県梓川高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "梓川高校"
+      },
+      "長野県池田工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "池田工業高校"
+      },
+      "長野県犀峡高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "犀峡高校"
+      },
+      "長野県田川高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "田川高校"
+      },
+      "長野県白馬高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "白馬高校"
+      },
+      "長野県穂高商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "穂高商業高校"
+      },
+      "長野県箕輪進修高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "箕輪進修高校"
+      },
+      "長野県篠ノ井高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "篠ノ井高校"
+      },
+      "長野県臼田高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "臼田高校"
+      },
+      "長野県茅野高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "茅野高校"
+      },
+      "長野県蓼科高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "蓼科高校"
+      },
+      "長野県蘇南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "蘇南高校"
+      },
+      "長野県諏訪二葉高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "諏訪二葉高校"
+      },
+      "長野県諏訪実業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "諏訪実業高校"
+      },
+      "長野県諏訪清陵高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "諏訪清陵高校"
+      },
+      "長野県豊科高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "豊科高校"
+      },
+      "長野県赤穂高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "赤穂高校"
+      },
+      "長野県軽井沢高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "軽井沢高校"
+      },
+      "長野県辰野高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "辰野高校"
+      },
+      "長野県野沢北高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "野沢北高校"
+      },
+      "長野県野沢南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "野沢南高校"
+      },
+      "長野県長野南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野南高校"
+      },
+      "長野県長野吉田高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野吉田高校"
+      },
+      "長野県長野吉田高等学校戸隠分校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野吉田高校戸隠分校"
+      },
+      "長野県長野商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野商業高校"
+      },
+      "長野県長野工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野工業高校"
+      },
+      "長野県長野東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野東高校"
+      },
+      "長野県長野西高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野西高校"
+      },
+      "長野県長野西高等学校中条校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野西高校中条校",
+         "wikipedia_name" : "長野県中条高等学校"
+      },
+      "長野県長野高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "長野高校"
+      },
+      "長野県阿南高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "阿南高校"
+      },
+      "長野県阿智高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "阿智高校"
+      },
+      "長野県須坂商業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "須坂商業高校"
+      },
+      "長野県須坂園芸高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "須坂園芸高校"
+      },
+      "長野県須坂東高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "須坂東高校"
+      },
+      "長野県須坂高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "須坂高校"
+      },
+      "長野県飯山北高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯山北高校"
+      },
+      "長野県飯山高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯山高校"
+      },
+      "長野県飯田工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯田工業高校"
+      },
+      "長野県飯田長姫高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯田長姫高校"
+      },
+      "長野県飯田風越高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯田風越高校"
+      },
+      "長野県飯田高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "飯田高校"
+      },
+      "長野県駒ヶ根工業高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "駒ヶ根工業高校"
+      },
+      "長野県高遠高等学校" : {
+         "owner_type" : "県立",
+         "short_name" : "高遠高校"
+      },
+      "飯田女子高等学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "私立",
+         "short_name" : "飯田女子高校"
+      }
+   }
+}

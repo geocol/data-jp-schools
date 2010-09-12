@@ -1,0 +1,1595 @@
+{
+   "high_schools" : {
+      "北海道登別明日中等教育学校" : {
+         "location_area" : "登別市",
+         "owner_type" : "道立",
+         "short_name" : "登別明日中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "とわの森三愛高等学校" : {
+         "location_area" : "江別市",
+         "owner_type" : "私立",
+         "short_name" : "とわの森三愛高校"
+      },
+      "クラーク記念国際高等学校" : {
+         "location_area" : "深川市",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校"
+      },
+      "函館ラ・サール高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館ラ・サール高校",
+         "wikipedia_name" : "函館ラ・サール中学校・高等学校"
+      },
+      "函館大妻高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館大妻高校"
+      },
+      "函館大学付属有斗高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館大学付属有斗高校"
+      },
+      "函館大学付属柏稜高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館大学付属柏稜高校"
+      },
+      "函館大谷高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館大谷高校"
+      },
+      "函館白百合学園高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "函館白百合学園高校",
+         "wikipedia_name" : "函館白百合学園中学校・高等学校"
+      },
+      "北嶺高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "北嶺高校",
+         "wikipedia_name" : "北嶺中学校・高等学校"
+      },
+      "北星学園余市高等学校" : {
+         "location_area" : "余市郡",
+         "owner_type" : "私立",
+         "short_name" : "北星学園余市高校"
+      },
+      "北星学園大学附属高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "北星学園大学附属高校"
+      },
+      "北星学園女子高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "北星学園女子高校",
+         "wikipedia_name" : "北星学園女子中学高等学校"
+      },
+      "北海学園札幌高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "北海学園札幌高校"
+      },
+      "北海道えりも高等学校" : {
+         "location_area" : "幌泉郡",
+         "owner_type" : "公立",
+         "short_name" : "えりも高校"
+      },
+      "北海道おといねっぷ美術工芸高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "公立",
+         "short_name" : "おといねっぷ美術工芸高校"
+      },
+      "北海道ニセコ高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "公立",
+         "short_name" : "ニセコ高校"
+      },
+      "北海道七飯高等学校" : {
+         "location_area" : "亀田郡",
+         "owner_type" : "道立",
+         "short_name" : "七飯高校"
+      },
+      "北海道三笠高等学校" : {
+         "location_area" : "三笠市",
+         "owner_type" : "道立",
+         "short_name" : "三笠高校"
+      },
+      "北海道上ノ国高等学校" : {
+         "location_area" : "檜山郡",
+         "owner_type" : "道立",
+         "short_name" : "上ノ国高校"
+      },
+      "北海道上士幌高等学校" : {
+         "location_area" : "河東郡",
+         "owner_type" : "道立",
+         "short_name" : "上士幌高校"
+      },
+      "北海道上富良野高等学校" : {
+         "location_area" : "空知郡",
+         "owner_type" : "道立",
+         "short_name" : "上富良野高校"
+      },
+      "北海道上川高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "上川高校"
+      },
+      "北海道上磯高等学校" : {
+         "location_area" : "北斗市",
+         "owner_type" : "道立",
+         "short_name" : "上磯高校"
+      },
+      "北海道下川商業高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "下川商業高校"
+      },
+      "北海道中川商業高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "道立",
+         "short_name" : "中川商業高校"
+      },
+      "北海道中標津農業高等学校" : {
+         "location_area" : "標津郡",
+         "owner_type" : "公立",
+         "short_name" : "中標津農業高校"
+      },
+      "北海道中標津高等学校" : {
+         "location_area" : "標津郡",
+         "owner_type" : "道立",
+         "short_name" : "中標津高校"
+      },
+      "北海道仁木商業高等学校" : {
+         "location_area" : "余市郡",
+         "owner_type" : "道立",
+         "short_name" : "仁木商業高校"
+      },
+      "北海道伊達緑丘高等学校" : {
+         "location_area" : "伊達市",
+         "owner_type" : "道立",
+         "short_name" : "伊達緑丘高校"
+      },
+      "北海道伊達高等学校" : {
+         "location_area" : "伊達市",
+         "owner_type" : "道立",
+         "short_name" : "伊達高校"
+      },
+      "北海道佐呂間高等学校" : {
+         "location_area" : "常呂郡",
+         "owner_type" : "道立",
+         "short_name" : "佐呂間高校"
+      },
+      "北海道余市紅志高等学校" : {
+         "location_area" : "余市郡",
+         "owner_type" : "道立",
+         "short_name" : "余市紅志高校"
+      },
+      "北海道倶知安農業高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "道立",
+         "short_name" : "倶知安農業高校"
+      },
+      "北海道倶知安高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "道立",
+         "short_name" : "倶知安高校"
+      },
+      "北海道八雲高等学校" : {
+         "location_area" : "二海郡",
+         "owner_type" : "道立",
+         "short_name" : "八雲高校"
+      },
+      "北海道共和高等学校" : {
+         "location_area" : "岩内郡",
+         "owner_type" : "道立",
+         "short_name" : "共和高校"
+      },
+      "北海道函館中部高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "函館中部高校"
+      },
+      "北海道函館商業高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "函館商業高校"
+      },
+      "北海道函館工業高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "函館工業高校"
+      },
+      "北海道函館水産高等学校" : {
+         "location_area" : "北斗市",
+         "owner_type" : "道立",
+         "short_name" : "函館水産高校"
+      },
+      "北海道函館稜北高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "函館稜北高校"
+      },
+      "北海道函館西高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "函館西高校"
+      },
+      "北海道別海高等学校" : {
+         "location_area" : "野付郡",
+         "owner_type" : "道立",
+         "short_name" : "別海高校"
+      },
+      "北海道利尻高等学校" : {
+         "location_area" : "利尻郡",
+         "owner_type" : "道立",
+         "short_name" : "利尻高校"
+      },
+      "北海道剣淵高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "公立",
+         "short_name" : "剣淵高校"
+      },
+      "北海道北広島西高等学校" : {
+         "location_area" : "北広島市",
+         "owner_type" : "道立",
+         "short_name" : "北広島西高校"
+      },
+      "北海道北広島高等学校" : {
+         "location_area" : "北広島市",
+         "owner_type" : "道立",
+         "short_name" : "北広島高校"
+      },
+      "北海道北見仁頃高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "公立",
+         "short_name" : "北見仁頃高校"
+      },
+      "北海道北見北斗高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "北見北斗高校"
+      },
+      "北海道北見商業高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "北見商業高校"
+      },
+      "北海道北見工業高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "北見工業高校"
+      },
+      "北海道北見柏陽高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "北見柏陽高校"
+      },
+      "北海道北見緑陵高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "北見緑陵高校"
+      },
+      "北海道千歳北陽高等学校" : {
+         "location_area" : "千歳市",
+         "owner_type" : "道立",
+         "short_name" : "千歳北陽高校"
+      },
+      "北海道千歳高等学校" : {
+         "location_area" : "千歳市",
+         "owner_type" : "道立",
+         "short_name" : "千歳高校"
+      },
+      "北海道南富良野高等学校" : {
+         "location_area" : "空知郡",
+         "owner_type" : "公立",
+         "short_name" : "南富良野高校"
+      },
+      "北海道南幌高等学校" : {
+         "location_area" : "空知郡",
+         "owner_type" : "道立",
+         "short_name" : "南幌高校"
+      },
+      "北海道南茅部高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "南茅部高校"
+      },
+      "北海道厚岸潮見高等学校" : {
+         "location_area" : "厚岸郡",
+         "owner_type" : "道立",
+         "short_name" : "厚岸潮見高校"
+      },
+      "北海道厚岸翔洋高等学校" : {
+         "location_area" : "厚岸郡",
+         "owner_type" : "道立",
+         "short_name" : "厚岸翔洋高校"
+      },
+      "北海道厚真高等学校" : {
+         "location_area" : "勇払郡",
+         "owner_type" : "道立",
+         "short_name" : "厚真高校"
+      },
+      "北海道古平高等学校" : {
+         "location_area" : "古平郡",
+         "owner_type" : "道立",
+         "short_name" : "古平高校"
+      },
+      "北海道名寄産業高等学校" : {
+         "location_area" : "名寄市",
+         "owner_type" : "道立",
+         "short_name" : "名寄産業高校"
+      },
+      "北海道名寄農業高等学校" : {
+         "location_area" : "名寄市",
+         "owner_type" : "道立",
+         "short_name" : "名寄農業高校"
+      },
+      "北海道名寄高等学校" : {
+         "location_area" : "名寄市",
+         "owner_type" : "道立",
+         "short_name" : "名寄高校"
+      },
+      "北海道増毛高等学校" : {
+         "location_area" : "増毛郡",
+         "owner_type" : "道立",
+         "short_name" : "増毛高校"
+      },
+      "北海道士別東高等学校" : {
+         "location_area" : "士別市",
+         "owner_type" : "公立",
+         "short_name" : "士別東高校"
+      },
+      "北海道士別翔雲高等学校" : {
+         "location_area" : "士別市",
+         "owner_type" : "道立",
+         "short_name" : "士別翔雲高校"
+      },
+      "北海道士幌高等学校" : {
+         "location_area" : "河東郡",
+         "owner_type" : "公立",
+         "short_name" : "士幌高校"
+      },
+      "北海道壮瞥高等学校" : {
+         "location_area" : "有珠郡",
+         "owner_type" : "公立",
+         "short_name" : "壮瞥高校"
+      },
+      "北海道夕張高等学校" : {
+         "location_area" : "夕張市",
+         "owner_type" : "道立",
+         "short_name" : "夕張高校"
+      },
+      "北海道大樹高等学校" : {
+         "location_area" : "広尾郡",
+         "owner_type" : "道立",
+         "short_name" : "大樹高校"
+      },
+      "北海道大野農業高等学校" : {
+         "location_area" : "北斗市",
+         "owner_type" : "道立",
+         "short_name" : "大野農業高校"
+      },
+      "北海道大麻高等学校" : {
+         "location_area" : "江別市",
+         "owner_type" : "道立",
+         "short_name" : "大麻高校"
+      },
+      "北海道天塩高等学校" : {
+         "location_area" : "天塩郡",
+         "owner_type" : "道立",
+         "short_name" : "天塩高校"
+      },
+      "北海道天売高等学校" : {
+         "location_area" : "苫前郡",
+         "owner_type" : "公立",
+         "short_name" : "天売高校"
+      },
+      "北海道奈井江商業高等学校" : {
+         "location_area" : "空知郡",
+         "owner_type" : "道立",
+         "short_name" : "奈井江商業高校"
+      },
+      "北海道奥尻高等学校" : {
+         "location_area" : "奥尻郡",
+         "owner_type" : "道立",
+         "short_name" : "奥尻高校"
+      },
+      "北海道女満別高等学校" : {
+         "location_area" : "網走郡",
+         "owner_type" : "道立",
+         "short_name" : "女満別高校"
+      },
+      "北海道室蘭工業高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "道立",
+         "short_name" : "室蘭工業高校"
+      },
+      "北海道室蘭東翔高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "道立",
+         "short_name" : "室蘭東翔高校"
+      },
+      "北海道室蘭栄高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "道立",
+         "short_name" : "室蘭栄高校"
+      },
+      "北海道室蘭清水丘高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "道立",
+         "short_name" : "室蘭清水丘高校"
+      },
+      "北海道富川高等学校" : {
+         "location_area" : "沙流郡",
+         "owner_type" : "道立",
+         "short_name" : "富川高校"
+      },
+      "北海道富良野緑峰高等学校" : {
+         "location_area" : "富良野市",
+         "owner_type" : "道立",
+         "short_name" : "富良野緑峰高校"
+      },
+      "北海道富良野高等学校" : {
+         "location_area" : "富良野市",
+         "owner_type" : "道立",
+         "short_name" : "富良野高校"
+      },
+      "北海道寿都高等学校" : {
+         "location_area" : "寿都郡",
+         "owner_type" : "道立",
+         "short_name" : "寿都高校"
+      },
+      "北海道小樽商業高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "道立",
+         "short_name" : "小樽商業高校"
+      },
+      "北海道小樽工業高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "道立",
+         "short_name" : "小樽工業高校"
+      },
+      "北海道小樽桜陽高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "道立",
+         "short_name" : "小樽桜陽高校"
+      },
+      "北海道小樽水産高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "道立",
+         "short_name" : "小樽水産高校"
+      },
+      "北海道小樽潮陵高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "道立",
+         "short_name" : "小樽潮陵高校"
+      },
+      "北海道小清水高等学校" : {
+         "location_area" : "斜里郡",
+         "owner_type" : "道立",
+         "short_name" : "小清水高校"
+      },
+      "北海道尚志学園高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "尚志学園高校"
+      },
+      "北海道岩内高等学校" : {
+         "location_area" : "岩内郡",
+         "owner_type" : "道立",
+         "short_name" : "岩内高校"
+      },
+      "北海道岩見沢東高等学校" : {
+         "location_area" : "岩見沢市",
+         "owner_type" : "道立",
+         "short_name" : "岩見沢東高校"
+      },
+      "北海道岩見沢緑陵高等学校" : {
+         "location_area" : "岩見沢市",
+         "owner_type" : "公立",
+         "short_name" : "岩見沢緑陵高校"
+      },
+      "北海道岩見沢西高等学校" : {
+         "location_area" : "岩見沢市",
+         "owner_type" : "道立",
+         "short_name" : "岩見沢西高校"
+      },
+      "北海道岩見沢農業高等学校" : {
+         "location_area" : "岩見沢市",
+         "owner_type" : "道立",
+         "short_name" : "岩見沢農業高校"
+      },
+      "北海道帯広三条高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "道立",
+         "short_name" : "帯広三条高校"
+      },
+      "北海道帯広南商業高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "公立",
+         "short_name" : "帯広南商業高校"
+      },
+      "北海道帯広工業高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "道立",
+         "short_name" : "帯広工業高校"
+      },
+      "北海道帯広柏葉高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "道立",
+         "short_name" : "帯広柏葉高校"
+      },
+      "北海道帯広緑陽高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "道立",
+         "short_name" : "帯広緑陽高校"
+      },
+      "北海道帯広農業高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "道立",
+         "short_name" : "帯広農業高校"
+      },
+      "北海道常呂高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "常呂高校"
+      },
+      "北海道幌加内高等学校" : {
+         "location_area" : "雨竜郡",
+         "owner_type" : "公立",
+         "short_name" : "幌加内高校"
+      },
+      "北海道幕別高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "道立",
+         "short_name" : "幕別高校"
+      },
+      "北海道平取高等学校" : {
+         "location_area" : "沙流郡",
+         "owner_type" : "道立",
+         "short_name" : "平取高校"
+      },
+      "北海道広尾高等学校" : {
+         "location_area" : "広尾郡",
+         "owner_type" : "道立",
+         "short_name" : "広尾高校"
+      },
+      "北海道弟子屈高等学校" : {
+         "location_area" : "川上郡",
+         "owner_type" : "道立",
+         "short_name" : "弟子屈高校"
+      },
+      "北海道当別高等学校" : {
+         "location_area" : "石狩郡",
+         "owner_type" : "道立",
+         "short_name" : "当別高校"
+      },
+      "北海道恵庭北高等学校" : {
+         "location_area" : "恵庭市",
+         "owner_type" : "道立",
+         "short_name" : "恵庭北高校"
+      },
+      "北海道恵庭南高等学校" : {
+         "location_area" : "恵庭市",
+         "owner_type" : "道立",
+         "short_name" : "恵庭南高校"
+      },
+      "北海道愛別高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "愛別高校"
+      },
+      "北海道戸井高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "道立",
+         "short_name" : "戸井高校"
+      },
+      "北海道文教大学明清高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "文教大学明清高校"
+      },
+      "北海道斜里高等学校" : {
+         "location_area" : "斜里郡",
+         "owner_type" : "道立",
+         "short_name" : "斜里高校"
+      },
+      "北海道新十津川農業高等学校" : {
+         "location_area" : "樺戸郡",
+         "owner_type" : "道立",
+         "short_name" : "新十津川農業高校"
+      },
+      "北海道新得高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "新得高校"
+      },
+      "北海道日高高等学校" : {
+         "location_area" : "沙流郡",
+         "owner_type" : "公立",
+         "short_name" : "日高高校"
+      },
+      "北海道旭川凌雲高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川凌雲高校"
+      },
+      "北海道旭川北都商業高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "公立",
+         "short_name" : "旭川北都商業高校"
+      },
+      "北海道旭川北高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川北高校"
+      },
+      "北海道旭川南高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川南高校"
+      },
+      "北海道旭川商業高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川商業高校"
+      },
+      "北海道旭川工業高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川工業高校"
+      },
+      "北海道旭川東栄高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川東栄高校"
+      },
+      "北海道旭川東高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川東高校"
+      },
+      "北海道旭川西高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川西高校"
+      },
+      "北海道旭川農業高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "道立",
+         "short_name" : "旭川農業高校"
+      },
+      "北海道更別農業高等学校" : {
+         "location_area" : "河西郡",
+         "owner_type" : "道立",
+         "short_name" : "更別農業高校"
+      },
+      "北海道月形高等学校" : {
+         "location_area" : "樺戸郡",
+         "owner_type" : "道立",
+         "short_name" : "月形高校"
+      },
+      "北海道有朋高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "有朋高校"
+      },
+      "北海道木古内高等学校" : {
+         "location_area" : "上磯郡",
+         "owner_type" : "道立",
+         "short_name" : "木古内高校"
+      },
+      "北海道本別高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "道立",
+         "short_name" : "本別高校"
+      },
+      "北海道札幌丘珠高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "道立",
+         "short_name" : "札幌丘珠高校"
+      },
+      "北海道札幌北陵高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌北陵高校"
+      },
+      "北海道札幌北高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌北高校"
+      },
+      "北海道札幌南陵高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "道立",
+         "short_name" : "札幌南陵高校"
+      },
+      "北海道札幌南高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "道立",
+         "short_name" : "札幌南高校"
+      },
+      "北海道札幌厚別高等学校" : {
+         "location_area" : "厚別区",
+         "owner_type" : "道立",
+         "short_name" : "札幌厚別高校"
+      },
+      "北海道札幌啓北商業高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "公立",
+         "short_name" : "札幌啓北商業高校"
+      },
+      "北海道札幌啓成高等学校" : {
+         "location_area" : "厚別区",
+         "owner_type" : "道立",
+         "short_name" : "札幌啓成高校"
+      },
+      "北海道札幌国際情報高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌国際情報高校"
+      },
+      "北海道札幌工業高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌工業高校"
+      },
+      "北海道札幌平岡高等学校" : {
+         "location_area" : "清田区",
+         "owner_type" : "道立",
+         "short_name" : "札幌平岡高校"
+      },
+      "北海道札幌平岸高等学校" : {
+         "location_area" : "豊平区",
+         "owner_type" : "公立",
+         "short_name" : "札幌平岸高校"
+      },
+      "北海道札幌手稲高等学校" : {
+         "location_area" : "手稲区",
+         "owner_type" : "道立",
+         "short_name" : "札幌手稲高校"
+      },
+      "北海道札幌拓北高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌拓北高校"
+      },
+      "北海道札幌新川高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "公立",
+         "short_name" : "札幌新川高校"
+      },
+      "北海道札幌旭丘高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "公立",
+         "short_name" : "札幌旭丘高校"
+      },
+      "北海道札幌月寒高等学校" : {
+         "location_area" : "豊平区",
+         "owner_type" : "道立",
+         "short_name" : "札幌月寒高校"
+      },
+      "北海道札幌東商業高等学校" : {
+         "location_area" : "厚別区",
+         "owner_type" : "道立",
+         "short_name" : "札幌東商業高校"
+      },
+      "北海道札幌東豊高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "道立",
+         "short_name" : "札幌東豊高校"
+      },
+      "北海道札幌東陵高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "道立",
+         "short_name" : "札幌東陵高校"
+      },
+      "北海道札幌東高等学校" : {
+         "location_area" : "白石区",
+         "owner_type" : "道立",
+         "short_name" : "札幌東高校"
+      },
+      "北海道札幌清田高等学校" : {
+         "location_area" : "清田区",
+         "owner_type" : "公立",
+         "short_name" : "札幌清田高校"
+      },
+      "北海道札幌琴似工業高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "道立",
+         "short_name" : "札幌琴似工業高校"
+      },
+      "北海道札幌白石高等学校" : {
+         "location_area" : "白石区",
+         "owner_type" : "道立",
+         "short_name" : "札幌白石高校"
+      },
+      "北海道札幌白陵高等学校" : {
+         "location_area" : "白石区",
+         "owner_type" : "道立",
+         "short_name" : "札幌白陵高校"
+      },
+      "北海道札幌真栄高等学校" : {
+         "location_area" : "清田区",
+         "owner_type" : "道立",
+         "short_name" : "札幌真栄高校"
+      },
+      "北海道札幌稲北高等学校" : {
+         "location_area" : "手稲区",
+         "owner_type" : "道立",
+         "short_name" : "札幌稲北高校"
+      },
+      "北海道札幌稲西高等学校" : {
+         "location_area" : "手稲区",
+         "owner_type" : "道立",
+         "short_name" : "札幌稲西高校"
+      },
+      "北海道札幌稲雲高等学校" : {
+         "location_area" : "手稲区",
+         "owner_type" : "道立",
+         "short_name" : "札幌稲雲高校"
+      },
+      "北海道札幌篠路高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "道立",
+         "short_name" : "札幌篠路高校"
+      },
+      "北海道札幌藻岩高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "公立",
+         "short_name" : "札幌藻岩高校"
+      },
+      "北海道札幌西陵高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "道立",
+         "short_name" : "札幌西陵高校"
+      },
+      "北海道札幌西高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "道立",
+         "short_name" : "札幌西高校"
+      },
+      "北海道札幌開成高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "公立",
+         "short_name" : "札幌開成高校"
+      },
+      "北海道東川高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "東川高校"
+      },
+      "北海道東藻琴高等学校" : {
+         "location_area" : "網走郡",
+         "owner_type" : "公立",
+         "short_name" : "東藻琴高校"
+      },
+      "北海道松前高等学校" : {
+         "location_area" : "松前郡",
+         "owner_type" : "道立",
+         "short_name" : "松前高校"
+      },
+      "北海道枝幸高等学校" : {
+         "location_area" : "枝幸郡",
+         "owner_type" : "道立",
+         "short_name" : "枝幸高校"
+      },
+      "北海道栄高等学校" : {
+         "location_area" : "白老郡",
+         "owner_type" : "私立",
+         "short_name" : "栄高校"
+      },
+      "北海道栗山高等学校" : {
+         "location_area" : "夕張郡",
+         "owner_type" : "道立",
+         "short_name" : "栗山高校"
+      },
+      "北海道根室西高等学校" : {
+         "location_area" : "根室市",
+         "owner_type" : "道立",
+         "short_name" : "根室西高校"
+      },
+      "北海道根室高等学校" : {
+         "location_area" : "根室市",
+         "owner_type" : "道立",
+         "short_name" : "根室高校"
+      },
+      "北海道森高等学校" : {
+         "location_area" : "茅部郡",
+         "owner_type" : "道立",
+         "short_name" : "森高校"
+      },
+      "北海道様似高等学校" : {
+         "location_area" : "様似郡",
+         "owner_type" : "道立",
+         "short_name" : "様似高校"
+      },
+      "北海道標津高等学校" : {
+         "location_area" : "標津郡",
+         "owner_type" : "道立",
+         "short_name" : "標津高校"
+      },
+      "北海道標茶高等学校" : {
+         "location_area" : "川上郡",
+         "owner_type" : "道立",
+         "short_name" : "標茶高校"
+      },
+      "北海道檜山北高等学校" : {
+         "location_area" : "久遠郡",
+         "owner_type" : "道立",
+         "short_name" : "檜山北高校"
+      },
+      "北海道江別高等学校" : {
+         "location_area" : "江別市",
+         "owner_type" : "道立",
+         "short_name" : "江別高校"
+      },
+      "北海道江差高等学校" : {
+         "location_area" : "檜山郡",
+         "owner_type" : "道立",
+         "short_name" : "江差高校"
+      },
+      "北海道池田高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "道立",
+         "short_name" : "池田高校"
+      },
+      "北海道洞爺高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "公立",
+         "short_name" : "洞爺高校"
+      },
+      "北海道津別高等学校" : {
+         "location_area" : "網走郡",
+         "owner_type" : "道立",
+         "short_name" : "津別高校"
+      },
+      "北海道浜益高等学校" : {
+         "location_area" : "石狩市",
+         "owner_type" : "道立",
+         "short_name" : "浜益高校"
+      },
+      "北海道浜頓別高等学校" : {
+         "location_area" : "枝幸郡",
+         "owner_type" : "道立",
+         "short_name" : "浜頓別高校"
+      },
+      "北海道浦河高等学校" : {
+         "location_area" : "浦河郡",
+         "owner_type" : "道立",
+         "short_name" : "浦河高校"
+      },
+      "北海道深川東高等学校" : {
+         "location_area" : "深川市",
+         "owner_type" : "道立",
+         "short_name" : "深川東高校"
+      },
+      "北海道深川西高等学校" : {
+         "location_area" : "深川市",
+         "owner_type" : "道立",
+         "short_name" : "深川西高校"
+      },
+      "北海道清水高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "清水高校"
+      },
+      "北海道清里高等学校" : {
+         "location_area" : "斜里郡",
+         "owner_type" : "道立",
+         "short_name" : "清里高校"
+      },
+      "北海道湧別高等学校" : {
+         "location_area" : "紋別郡",
+         "owner_type" : "道立",
+         "short_name" : "湧別高校"
+      },
+      "北海道滝上高等学校" : {
+         "location_area" : "紋別郡",
+         "owner_type" : "道立",
+         "short_name" : "滝上高校"
+      },
+      "北海道滝川工業高等学校" : {
+         "location_area" : "滝川市",
+         "owner_type" : "道立",
+         "short_name" : "滝川工業高校"
+      },
+      "北海道滝川西高等学校" : {
+         "location_area" : "滝川市",
+         "owner_type" : "公立",
+         "short_name" : "滝川西高校"
+      },
+      "北海道滝川高等学校" : {
+         "location_area" : "滝川市",
+         "owner_type" : "道立",
+         "short_name" : "滝川高校"
+      },
+      "北海道瀬棚商業高等学校" : {
+         "location_area" : "久遠郡",
+         "owner_type" : "公立",
+         "short_name" : "瀬棚商業高校"
+      },
+      "北海道熊石高等学校" : {
+         "location_area" : "二海郡",
+         "owner_type" : "道立",
+         "short_name" : "熊石高校"
+      },
+      "北海道由仁商業高等学校" : {
+         "location_area" : "夕張郡",
+         "owner_type" : "道立",
+         "short_name" : "由仁商業高校"
+      },
+      "北海道留寿都高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "公立",
+         "short_name" : "留寿都高校"
+      },
+      "北海道留萌千望高等学校" : {
+         "location_area" : "留萌市",
+         "owner_type" : "道立",
+         "short_name" : "留萌千望高校"
+      },
+      "北海道留萌高等学校" : {
+         "location_area" : "留萌市",
+         "owner_type" : "道立",
+         "short_name" : "留萌高校"
+      },
+      "北海道留辺蘂高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "道立",
+         "short_name" : "留辺蘂高校"
+      },
+      "北海道登別青嶺高等学校" : {
+         "location_area" : "登別市",
+         "owner_type" : "道立",
+         "short_name" : "登別青嶺高校"
+      },
+      "北海道白糠高等学校" : {
+         "location_area" : "白糠郡",
+         "owner_type" : "道立",
+         "short_name" : "白糠高校"
+      },
+      "北海道白老東高等学校" : {
+         "location_area" : "白老郡",
+         "owner_type" : "道立",
+         "short_name" : "白老東高校"
+      },
+      "北海道真狩高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "公立",
+         "short_name" : "真狩高校"
+      },
+      "北海道知内高等学校" : {
+         "location_area" : "上磯郡",
+         "owner_type" : "公立",
+         "short_name" : "知内高校"
+      },
+      "北海道石狩南高等学校" : {
+         "location_area" : "石狩市",
+         "owner_type" : "道立",
+         "short_name" : "石狩南高校"
+      },
+      "北海道石狩翔陽高等学校" : {
+         "location_area" : "石狩市",
+         "owner_type" : "道立",
+         "short_name" : "石狩翔陽高校"
+      },
+      "北海道砂川高等学校" : {
+         "location_area" : "砂川市",
+         "owner_type" : "道立",
+         "short_name" : "砂川高校"
+      },
+      "北海道礼文高等学校" : {
+         "location_area" : "礼文郡",
+         "owner_type" : "道立",
+         "short_name" : "礼文高校"
+      },
+      "北海道福島商業高等学校" : {
+         "location_area" : "松前郡",
+         "owner_type" : "道立",
+         "short_name" : "福島商業高校"
+      },
+      "北海道稚内商工高等学校" : {
+         "location_area" : "稚内市",
+         "owner_type" : "道立",
+         "short_name" : "稚内商工高校"
+      },
+      "北海道稚内高等学校" : {
+         "location_area" : "稚内市",
+         "owner_type" : "道立",
+         "short_name" : "稚内高校"
+      },
+      "北海道穂別高等学校" : {
+         "location_area" : "勇払郡",
+         "owner_type" : "道立",
+         "short_name" : "穂別高校"
+      },
+      "北海道紋別高等学校" : {
+         "location_area" : "紋別市",
+         "owner_type" : "道立",
+         "short_name" : "紋別高校"
+      },
+      "北海道網走南ヶ丘高等学校" : {
+         "location_area" : "網走市",
+         "owner_type" : "道立",
+         "short_name" : "網走南ヶ丘高校"
+      },
+      "北海道網走桂陽高等学校" : {
+         "location_area" : "網走市",
+         "owner_type" : "道立",
+         "short_name" : "網走桂陽高校"
+      },
+      "北海道置戸高等学校" : {
+         "location_area" : "常呂郡",
+         "owner_type" : "道立",
+         "short_name" : "置戸高校"
+      },
+      "北海道羅臼高等学校" : {
+         "location_area" : "目梨郡",
+         "owner_type" : "道立",
+         "short_name" : "羅臼高校"
+      },
+      "北海道美唄工業高等学校" : {
+         "location_area" : "美唄市",
+         "owner_type" : "道立",
+         "short_name" : "美唄工業高校"
+      },
+      "北海道美唄聖華高等学校" : {
+         "location_area" : "美唄市",
+         "owner_type" : "道立",
+         "short_name" : "美唄聖華高校"
+      },
+      "北海道美唄高等学校" : {
+         "location_area" : "美唄市",
+         "owner_type" : "道立",
+         "short_name" : "美唄高校"
+      },
+      "北海道美幌農業高等学校" : {
+         "location_area" : "網走郡",
+         "owner_type" : "道立",
+         "short_name" : "美幌農業高校"
+      },
+      "北海道美幌高等学校" : {
+         "location_area" : "網走郡",
+         "owner_type" : "道立",
+         "short_name" : "美幌高校"
+      },
+      "北海道美深高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "道立",
+         "short_name" : "美深高校"
+      },
+      "北海道美瑛高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "美瑛高校"
+      },
+      "北海道羽幌高等学校" : {
+         "location_area" : "苫前郡",
+         "owner_type" : "道立",
+         "short_name" : "羽幌高校"
+      },
+      "北海道興部高等学校" : {
+         "location_area" : "紋別郡",
+         "owner_type" : "道立",
+         "short_name" : "興部高校"
+      },
+      "北海道芦別高等学校" : {
+         "location_area" : "芦別市",
+         "owner_type" : "道立",
+         "short_name" : "芦別高校"
+      },
+      "北海道芸術高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "私立",
+         "short_name" : "芸術高校"
+      },
+      "北海道芽室高等学校" : {
+         "location_area" : "河西郡",
+         "owner_type" : "道立",
+         "short_name" : "芽室高校"
+      },
+      "北海道苫前商業高等学校" : {
+         "location_area" : "苫前郡",
+         "owner_type" : "道立",
+         "short_name" : "苫前商業高校"
+      },
+      "北海道苫小牧南高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "道立",
+         "short_name" : "苫小牧南高校"
+      },
+      "北海道苫小牧工業高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "道立",
+         "short_name" : "苫小牧工業高校"
+      },
+      "北海道苫小牧東高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "道立",
+         "short_name" : "苫小牧東高校"
+      },
+      "北海道苫小牧総合経済高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "道立",
+         "short_name" : "苫小牧総合経済高校"
+      },
+      "北海道苫小牧西高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "道立",
+         "short_name" : "苫小牧西高校"
+      },
+      "北海道蘭越高等学校" : {
+         "location_area" : "磯谷郡",
+         "owner_type" : "道立",
+         "short_name" : "蘭越高校"
+      },
+      "北海道虻田高等学校" : {
+         "location_area" : "虻田郡",
+         "owner_type" : "道立",
+         "short_name" : "虻田高校"
+      },
+      "北海道訓子府高等学校" : {
+         "location_area" : "常呂郡",
+         "owner_type" : "道立",
+         "short_name" : "訓子府高校"
+      },
+      "北海道豊富高等学校" : {
+         "location_area" : "天塩郡",
+         "owner_type" : "道立",
+         "short_name" : "豊富高校"
+      },
+      "北海道赤平高等学校" : {
+         "location_area" : "赤平市",
+         "owner_type" : "道立",
+         "short_name" : "赤平高校"
+      },
+      "北海道足寄高等学校" : {
+         "location_area" : "足寄郡",
+         "owner_type" : "道立",
+         "short_name" : "足寄高校"
+      },
+      "北海道追分高等学校" : {
+         "location_area" : "勇払郡",
+         "owner_type" : "道立",
+         "short_name" : "追分高校"
+      },
+      "北海道遠別農業高等学校" : {
+         "location_area" : "天塩郡",
+         "owner_type" : "道立",
+         "short_name" : "遠別農業高校"
+      },
+      "北海道遠軽高等学校" : {
+         "location_area" : "紋別郡",
+         "owner_type" : "道立",
+         "short_name" : "遠軽高校"
+      },
+      "北海道野幌高等学校" : {
+         "location_area" : "江別市",
+         "owner_type" : "道立",
+         "short_name" : "野幌高校"
+      },
+      "北海道釧路北陽高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "公立",
+         "short_name" : "釧路北陽高校"
+      },
+      "北海道釧路商業高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "釧路商業高校"
+      },
+      "北海道釧路工業高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "釧路工業高校"
+      },
+      "北海道釧路明輝高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "釧路明輝高校"
+      },
+      "北海道釧路東高等学校" : {
+         "location_area" : "釧路郡",
+         "owner_type" : "道立",
+         "short_name" : "釧路東高校"
+      },
+      "北海道釧路江南高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "釧路江南高校"
+      },
+      "北海道釧路湖陵高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "釧路湖陵高校"
+      },
+      "北海道長万部高等学校" : {
+         "location_area" : "山越郡",
+         "owner_type" : "道立",
+         "short_name" : "長万部高校"
+      },
+      "北海道長沼高等学校" : {
+         "location_area" : "夕張郡",
+         "owner_type" : "道立",
+         "short_name" : "長沼高校"
+      },
+      "北海道阿寒高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "道立",
+         "short_name" : "阿寒高校"
+      },
+      "北海道雄武高等学校" : {
+         "location_area" : "紋別郡",
+         "owner_type" : "道立",
+         "short_name" : "雄武高校"
+      },
+      "北海道霧多布高等学校" : {
+         "location_area" : "厚岸郡",
+         "owner_type" : "公立",
+         "short_name" : "霧多布高校"
+      },
+      "北海道静内農業高等学校" : {
+         "location_area" : "日高郡",
+         "owner_type" : "道立",
+         "short_name" : "静内農業高校"
+      },
+      "北海道静内高等学校" : {
+         "location_area" : "日高郡",
+         "owner_type" : "道立",
+         "short_name" : "静内高校"
+      },
+      "北海道音更高等学校" : {
+         "location_area" : "河東郡",
+         "owner_type" : "道立",
+         "short_name" : "音更高校"
+      },
+      "北海道鵡川高等学校" : {
+         "location_area" : "勇払郡",
+         "owner_type" : "道立",
+         "short_name" : "鵡川高校"
+      },
+      "北海道鷹栖高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "道立",
+         "short_name" : "鷹栖高校"
+      },
+      "北海道鹿追高等学校" : {
+         "location_area" : "河東郡",
+         "owner_type" : "道立",
+         "short_name" : "鹿追高校"
+      },
+      "北海高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "北海高校"
+      },
+      "北照高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "私立",
+         "short_name" : "北照高校"
+      },
+      "北見藤女子高等学校" : {
+         "location_area" : "北見市",
+         "owner_type" : "私立",
+         "short_name" : "北見藤女子高校"
+      },
+      "双葉高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "私立",
+         "short_name" : "双葉高校",
+         "wikipedia_name" : "双葉中学校・高等学校"
+      },
+      "室蘭大谷高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "私立",
+         "short_name" : "室蘭大谷高校"
+      },
+      "小樽明峰高等学校" : {
+         "location_area" : "小樽市",
+         "owner_type" : "私立",
+         "short_name" : "小樽明峰高校"
+      },
+      "市立函館高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "市立",
+         "short_name" : "市立函館高校"
+      },
+      "市立札幌大通高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "市立札幌大通高校"
+      },
+      "帯広北高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "私立",
+         "short_name" : "帯広北高校"
+      },
+      "帯広大谷高等学校" : {
+         "location_area" : "帯広市",
+         "owner_type" : "私立",
+         "short_name" : "帯広大谷高校"
+      },
+      "旭川大学高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "私立",
+         "short_name" : "旭川大学高校"
+      },
+      "旭川実業高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "私立",
+         "short_name" : "旭川実業高校"
+      },
+      "旭川明成高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "私立",
+         "short_name" : "旭川明成高校"
+      },
+      "旭川藤女子高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "私立",
+         "short_name" : "旭川藤女子高校"
+      },
+      "旭川龍谷高等学校" : {
+         "location_area" : "旭川市",
+         "owner_type" : "私立",
+         "short_name" : "旭川龍谷高校"
+      },
+      "星槎国際高等学校" : {
+         "location_area" : "芦別市",
+         "owner_type" : "私立",
+         "short_name" : "星槎国際高校"
+      },
+      "札幌光星高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌光星高校",
+         "wikipedia_name" : "札幌光星高等学校・中学校"
+      },
+      "札幌創成高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌創成高校"
+      },
+      "札幌北斗高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌北斗高校"
+      },
+      "札幌大谷高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌大谷高校",
+         "wikipedia_name" : "札幌大谷中学校・高等学校"
+      },
+      "札幌山の手高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌山の手高校"
+      },
+      "札幌新陽高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌新陽高校"
+      },
+      "札幌日本大学高等学校" : {
+         "location_area" : "北広島市",
+         "owner_type" : "私立",
+         "short_name" : "札幌日本大学高校",
+         "wikipedia_name" : "札幌日本大学中学校・高等学校"
+      },
+      "札幌第一高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌第一高校"
+      },
+      "札幌聖心女子学院高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌聖心女子学院高校",
+         "wikipedia_name" : "札幌聖心女子学院中学校・高等学校"
+      },
+      "札幌自由が丘学園三和高等学校" : {
+         "location_area" : "上川郡",
+         "owner_type" : "私立",
+         "short_name" : "札幌自由が丘学園三和高校"
+      },
+      "札幌静修高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌静修高校"
+      },
+      "札幌龍谷学園高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "札幌龍谷学園高校"
+      },
+      "東海大学付属第四高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属第四高校",
+         "wikipedia_name" : "東海大学付属第四高等学校・中等部"
+      },
+      "武修館高等学校" : {
+         "location_area" : "釧路市",
+         "owner_type" : "私立",
+         "short_name" : "武修館高校",
+         "wikipedia_name" : "武修館中学校・高等学校"
+      },
+      "江陵高等学校" : {
+         "location_area" : "中川郡",
+         "owner_type" : "私立",
+         "short_name" : "江陵高校"
+      },
+      "池上学院高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "池上学院高校"
+      },
+      "海星学院高等学校" : {
+         "location_area" : "室蘭市",
+         "owner_type" : "私立",
+         "short_name" : "海星学院高校"
+      },
+      "清尚学院高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "清尚学院高校"
+      },
+      "登別大谷高等学校" : {
+         "location_area" : "登別市",
+         "owner_type" : "私立",
+         "short_name" : "登別大谷高校"
+      },
+      "白樺学園高等学校" : {
+         "location_area" : "河西郡",
+         "owner_type" : "私立",
+         "short_name" : "白樺学園高校"
+      },
+      "稚内大谷高等学校" : {
+         "location_area" : "稚内市",
+         "owner_type" : "私立",
+         "short_name" : "稚内大谷高校"
+      },
+      "立命館慶祥高等学校" : {
+         "location_area" : "江別市",
+         "owner_type" : "私立",
+         "short_name" : "立命館慶祥高校",
+         "wikipedia_name" : "立命館慶祥中学校・高等学校"
+      },
+      "苫小牧中央高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "私立",
+         "short_name" : "苫小牧中央高校"
+      },
+      "藤女子高等学校" : {
+         "location_area" : "札幌市",
+         "owner_type" : "私立",
+         "short_name" : "藤女子高校",
+         "wikipedia_name" : "藤女子中学校・高等学校"
+      },
+      "遺愛女子高等学校" : {
+         "location_area" : "函館市",
+         "owner_type" : "私立",
+         "short_name" : "遺愛女子高校",
+         "wikipedia_name" : "遺愛女子中学校・高等学校"
+      },
+      "駒澤大学附属岩見沢高等学校" : {
+         "location_area" : "岩見沢市",
+         "owner_type" : "私立",
+         "short_name" : "駒澤大学附属岩見沢高校"
+      },
+      "駒澤大学附属苫小牧高等学校" : {
+         "location_area" : "苫小牧市",
+         "owner_type" : "私立",
+         "short_name" : "駒澤大学附属苫小牧高校"
+      }
+   }
+}

@@ -1,0 +1,453 @@
+{
+   "high_schools" : {
+      "岡山県立岡山大安寺中等教育学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山大安寺中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "おかやま山陽高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "おかやま山陽高校"
+      },
+      "クラーク記念国際高等学校岡山キャンパス" : {
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校岡山キャンパス",
+         "wikipedia_name" : "クラーク記念国際高等学校"
+      },
+      "井原市立高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "高校"
+      },
+      "倉敷市立倉敷翔南高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "倉敷翔南高校"
+      },
+      "倉敷市立工業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "工業高校"
+      },
+      "倉敷市立玉島高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "玉島高校"
+      },
+      "倉敷市立真備陵南高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "真備陵南高校"
+      },
+      "倉敷市立精思高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "精思高校"
+      },
+      "倉敷翠松高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "倉敷翠松高校"
+      },
+      "倉敷高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "倉敷高校"
+      },
+      "備前市立片上高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "片上高校"
+      },
+      "創志学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "創志学園高校"
+      },
+      "吉備高原学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "吉備高原学園高校"
+      },
+      "就実高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "就実高校",
+         "wikipedia_name" : "就実中学校・高等学校"
+      },
+      "山陽女子高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "山陽女子高校",
+         "wikipedia_name" : "山陽女子中学校・高等学校"
+      },
+      "岡山商科大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山商科大学附属高校"
+      },
+      "岡山学芸館高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山学芸館高校"
+      },
+      "岡山市立岡山後楽館中学校・高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "岡山後楽館中学校・高校"
+      },
+      "岡山理科大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山理科大学附属高校",
+         "wikipedia_name" : "岡山理科大学附属中学校・高等学校"
+      },
+      "岡山白陵高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山白陵高校",
+         "wikipedia_name" : "岡山白陵中学校・高等学校"
+      },
+      "岡山県作陽高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山県作陽高校"
+      },
+      "岡山県共生高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山県共生高校"
+      },
+      "岡山県立久世高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "久世高校"
+      },
+      "岡山県立井原高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "西備学区",
+         "short_name" : "井原高校"
+      },
+      "岡山県立倉敷中央高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "倉敷中央高校"
+      },
+      "岡山県立倉敷南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "倉敷南高校"
+      },
+      "岡山県立倉敷古城池高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "倉敷古城池高校"
+      },
+      "岡山県立倉敷商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "倉敷商業高校"
+      },
+      "岡山県立倉敷天城中学校・高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "倉敷天城中学校・高校"
+      },
+      "岡山県立倉敷工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "倉敷工業高校"
+      },
+      "岡山県立倉敷青陵高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "倉敷青陵高校"
+      },
+      "岡山県立倉敷鷲羽高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "倉敷鷲羽高校"
+      },
+      "岡山県立備前緑陽高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "備前緑陽高校"
+      },
+      "岡山県立勝山高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "勝山高校"
+      },
+      "岡山県立勝間田高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "勝間田高校"
+      },
+      "岡山県立吉備北陵高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "吉備北陵高校"
+      },
+      "岡山県立和気閑谷高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "東備学区",
+         "short_name" : "和気閑谷高校"
+      },
+      "岡山県立岡山一宮高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "岡山一宮高校"
+      },
+      "岡山県立岡山南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山南高校"
+      },
+      "岡山県立岡山城東高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山城東高校"
+      },
+      "岡山県立岡山大安寺高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "岡山大安寺高校"
+      },
+      "岡山県立岡山工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山工業高校"
+      },
+      "岡山県立岡山御津高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山御津高校"
+      },
+      "岡山県立岡山操山中学校・高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "岡山操山中学校・高校"
+      },
+      "岡山県立岡山朝日高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "岡山朝日高校"
+      },
+      "岡山県立岡山東商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "岡山東商業高校"
+      },
+      "岡山県立岡山芳泉高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "岡山芳泉高校"
+      },
+      "岡山県立弓削高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "弓削高校"
+      },
+      "岡山県立新見高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "備北学区",
+         "short_name" : "新見高校"
+      },
+      "岡山県立新見高等学校北校地" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "新見高校北校地"
+      },
+      "岡山県立東岡山工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "東岡山工業高校"
+      },
+      "岡山県立林野高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "林野高校"
+      },
+      "岡山県立水島工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "水島工業高校"
+      },
+      "岡山県立津山商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "津山商業高校"
+      },
+      "岡山県立津山工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "津山工業高校"
+      },
+      "岡山県立津山東高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "津山東高校"
+      },
+      "岡山県立津山高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "美作学区",
+         "short_name" : "津山高校"
+      },
+      "岡山県立瀬戸南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "瀬戸南高校"
+      },
+      "岡山県立瀬戸高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "東備学区",
+         "short_name" : "瀬戸高校"
+      },
+      "岡山県立烏城高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "烏城高校"
+      },
+      "岡山県立玉島商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "玉島商業高校"
+      },
+      "岡山県立玉島高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "玉島高校"
+      },
+      "岡山県立玉野光南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "玉野光南高校"
+      },
+      "岡山県立玉野高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "玉野高校"
+      },
+      "岡山県立矢掛高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "西備学区",
+         "short_name" : "矢掛高校"
+      },
+      "岡山県立笠岡商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "笠岡商業高校"
+      },
+      "岡山県立笠岡工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "笠岡工業高校"
+      },
+      "岡山県立笠岡高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "西備学区",
+         "short_name" : "笠岡高校"
+      },
+      "岡山県立総社南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "総社南高校"
+      },
+      "岡山県立総社高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "倉敷学区",
+         "short_name" : "総社高校"
+      },
+      "岡山県立興陽高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "興陽高校"
+      },
+      "岡山県立落合高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "落合高校"
+      },
+      "岡山県立蒜山高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "蒜山高校"
+      },
+      "岡山県立西大寺高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岡山学区",
+         "short_name" : "西大寺高校"
+      },
+      "岡山県立邑久高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "東備学区",
+         "short_name" : "邑久高校"
+      },
+      "岡山県立高松農業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "高松農業高校"
+      },
+      "岡山県立高梁城南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "高梁城南高校"
+      },
+      "岡山県立高梁高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "備北学区",
+         "short_name" : "高梁高校"
+      },
+      "岡山県立鴨方高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "全県学区",
+         "short_name" : "鴨方高校"
+      },
+      "岡山県美作高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山県美作高校"
+      },
+      "岡山県高梁日新高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山県高梁日新高校"
+      },
+      "岡山高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山高校",
+         "wikipedia_name" : "岡山中学校・高等学校"
+      },
+      "岡山龍谷高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "岡山龍谷高校"
+      },
+      "川崎医科大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "川崎医科大学附属高校"
+      },
+      "明誠学院高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "明誠学院高校"
+      },
+      "朝日塾高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "朝日塾高校",
+         "wikipedia_name" : "朝日塾中学高等学校"
+      },
+      "清心女子高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "清心女子高校",
+         "wikipedia_name" : "清心中学校・清心女子高等学校"
+      },
+      "玉野市立玉野備南高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "玉野備南高校"
+      },
+      "玉野市立玉野商業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "玉野商業高校"
+      },
+      "興譲館高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "興譲館高校"
+      },
+      "金光学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "金光学園高校",
+         "wikipedia_name" : "金光学園中学校・高等学校"
+      },
+      "関西高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "関西高校"
+      },
+      "高梁市立宇治高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "宇治高校"
+      },
+      "高梁市立松山高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "松山高校"
+      }
+   }
+}

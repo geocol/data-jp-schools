@@ -1,0 +1,416 @@
+{
+   "high_schools" : {
+      "山口県立下関中等教育学校" : {
+         "short_name" : "下関中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "サビエル高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "サビエル高校"
+      },
+      "下関国際高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "下関国際高校"
+      },
+      "下関市立下関商業高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "下関商業高校"
+      },
+      "下関短期大学付属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "下関短期大学付属高校"
+      },
+      "中村女子高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "中村女子高校"
+      },
+      "宇部フロンティア大学付属香川高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "宇部フロンティア大学付属香川高校",
+         "wikipedia_name" : "宇部フロンティア大学付属中学校・香川高等学校"
+      },
+      "宇部鴻城高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "宇部鴻城高校"
+      },
+      "山口県桜ケ丘高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "山口県桜ケ丘高校",
+         "wikipedia_name" : "山口県桜ケ丘高等学校・晃英館中学校"
+      },
+      "山口県立下松工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "下松工業高校"
+      },
+      "山口県立下松高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "下松高校"
+      },
+      "山口県立下関中央工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "下関中央工業高校"
+      },
+      "山口県立下関南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "下関南高校"
+      },
+      "山口県立下関工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "下関工業高校"
+      },
+      "山口県立下関西高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "下関西高校"
+      },
+      "山口県立佐波高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "佐波高校"
+      },
+      "山口県立光丘高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "光丘高校"
+      },
+      "山口県立光高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "光高校"
+      },
+      "山口県立南陽工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "南陽工業高校"
+      },
+      "山口県立厚狭高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "厚狭高校"
+      },
+      "山口県立周防大島高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "周防大島高校"
+      },
+      "山口県立大津高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "大津高校"
+      },
+      "山口県立奈古高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "奈古高校"
+      },
+      "山口県立宇部中央高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "宇部中央高校"
+      },
+      "山口県立宇部商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "宇部商業高校"
+      },
+      "山口県立宇部工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "宇部工業高校"
+      },
+      "山口県立宇部西高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "宇部西高校"
+      },
+      "山口県立宇部高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "宇部高校"
+      },
+      "山口県立小野田工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "小野田工業高校"
+      },
+      "山口県立小野田高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "小野田高校"
+      },
+      "山口県立山口中央高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "山口中央高校"
+      },
+      "山口県立山口農業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "山口農業高校"
+      },
+      "山口県立山口高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "山口高校"
+      },
+      "山口県立山口高等学校徳佐分校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "山口高校徳佐分校"
+      },
+      "山口県立岩国商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国商業高校"
+      },
+      "山口県立岩国商業高等学校東分校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国商業高校東分校"
+      },
+      "山口県立岩国工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国工業高校"
+      },
+      "山口県立岩国総合高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国総合高校"
+      },
+      "山口県立岩国高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国高校"
+      },
+      "山口県立岩国高等学校坂上分校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国高校坂上分校"
+      },
+      "山口県立岩国高等学校広瀬分校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "岩国高校広瀬分校"
+      },
+      "山口県立徳山北高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "徳山北高校"
+      },
+      "山口県立徳山商工高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "徳山商工高校"
+      },
+      "山口県立徳山高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "徳山高校"
+      },
+      "山口県立徳山高等学校鹿野分校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "徳山高校鹿野分校"
+      },
+      "山口県立新南陽高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "新南陽高校"
+      },
+      "山口県立日置農業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "日置農業高校"
+      },
+      "山口県立柳井商工高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "柳井商工高校"
+      },
+      "山口県立柳井高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "柳井高校"
+      },
+      "山口県立水産高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "水産高校"
+      },
+      "山口県立熊毛北高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "熊毛北高校"
+      },
+      "山口県立熊毛南高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "熊毛南高校"
+      },
+      "山口県立田布施工業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "田布施工業高校"
+      },
+      "山口県立田布施農工高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "田布施農工高校"
+      },
+      "山口県立田布施農業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "柳井学区",
+         "short_name" : "田布施農業高校"
+      },
+      "山口県立田部高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "田部高校"
+      },
+      "山口県立美祢高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "美祢高校"
+      },
+      "山口県立華陵高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "周南学区",
+         "short_name" : "華陵高校"
+      },
+      "山口県立萩商工高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "萩商工高校"
+      },
+      "山口県立萩高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "萩学区",
+         "short_name" : "萩高校"
+      },
+      "山口県立西京高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "西京高校"
+      },
+      "山口県立西市高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "西市高校"
+      },
+      "山口県立豊北高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "豊北高校"
+      },
+      "山口県立豊浦高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "豊浦高校"
+      },
+      "山口県立長府高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "長府高校"
+      },
+      "山口県立防府商業高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "防府商業高校"
+      },
+      "山口県立防府西高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "防府西高校"
+      },
+      "山口県立防府高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "防府学区",
+         "short_name" : "防府高校"
+      },
+      "山口県立青嶺高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "厚狭学区",
+         "short_name" : "青嶺高校"
+      },
+      "山口県立響高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "下関学区",
+         "short_name" : "響高校"
+      },
+      "山口県立高森高等学校" : {
+         "owner_type" : "県立",
+         "school_area" : "岩国学区",
+         "short_name" : "高森高校",
+         "wikipedia_name" : "山口県立高森みどり中学校・高森高等学校"
+      },
+      "山口県鴻城高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "山口県鴻城高校"
+      },
+      "慶進高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "慶進高校",
+         "wikipedia_name" : "慶進中学校・高等学校"
+      },
+      "成進高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "成進高校"
+      },
+      "早鞆高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "早鞆高校"
+      },
+      "柳井学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "柳井学園高校"
+      },
+      "梅光女学院高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "梅光女学院高校",
+         "wikipedia_name" : "梅光女学院中学校・高等学校"
+      },
+      "精華学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "精華学園高校"
+      },
+      "聖光高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "聖光高校"
+      },
+      "萩光塩学院高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "萩光塩学院高校",
+         "wikipedia_name" : "萩光塩学院中学校・高等学校"
+      },
+      "誠英高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "誠英高校"
+      },
+      "野田学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "野田学園高校",
+         "wikipedia_name" : "野田学園中学校・高等学校"
+      },
+      "長門高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "長門高校"
+      },
+      "高川学園高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "高川学園高校",
+         "wikipedia_name" : "高川学園高等学校・中学校"
+      },
+      "高水高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "高水高校",
+         "wikipedia_name" : "高水高等学校・付属中学校"
+      }
+   }
+}

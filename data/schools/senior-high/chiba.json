@@ -1,0 +1,1014 @@
+{
+   "high_schools" : {
+      "時任学園中等教育学校" : {
+         "location_area" : "印西市",
+         "owner_type" : "私立"
+      }
+   },
+   "senior_high_schools" : {
+      "あずさ第一高等学校" : {
+         "location_area" : "野田市",
+         "owner_type" : "私立",
+         "short_name" : "あずさ第一高校"
+      },
+      "わせがく高等学校" : {
+         "location_area" : "多古町",
+         "owner_type" : "私立",
+         "short_name" : "わせがく高校"
+      },
+      "クラーク記念国際高等学校千葉キャンパス" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "クラーク記念国際高校千葉キャンパス",
+         "wikipedia_name" : "クラーク記念国際高等学校"
+      },
+      "不二女子高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "不二女子高校"
+      },
+      "中央学院高等学校" : {
+         "location_area" : "我孫子市",
+         "owner_type" : "私立",
+         "short_name" : "中央学院高校"
+      },
+      "中山学園高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "私立",
+         "short_name" : "中山学園高校"
+      },
+      "二松學舍大学附属沼南高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "私立",
+         "short_name" : "二松學舍大学附属沼南高校"
+      },
+      "八千代松陰高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "私立",
+         "short_name" : "八千代松陰高校"
+      },
+      "千葉商科大学付属高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "千葉商科大学付属高校"
+      },
+      "千葉国際高等学校" : {
+         "location_area" : "君津市",
+         "owner_type" : "私立",
+         "short_name" : "千葉国際高校",
+         "wikipedia_name" : "千葉国際中学校・高等学校"
+      },
+      "千葉学芸高等学校" : {
+         "location_area" : "東金市",
+         "owner_type" : "私立",
+         "short_name" : "千葉学芸高校"
+      },
+      "千葉市立千葉高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "千葉高校"
+      },
+      "千葉市立稲毛高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "稲毛高校"
+      },
+      "千葉敬愛高等学校" : {
+         "location_area" : "四街道市",
+         "owner_type" : "私立",
+         "short_name" : "千葉敬愛高校"
+      },
+      "千葉日本大学第一高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "私立",
+         "short_name" : "千葉日本大学第一高校",
+         "wikipedia_name" : "千葉日本大学第一中学校・高等学校"
+      },
+      "千葉明徳高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "千葉明徳高校"
+      },
+      "千葉県安房西高等学校" : {
+         "location_area" : "館山市",
+         "owner_type" : "私立",
+         "short_name" : "千葉県安房西高校"
+      },
+      "千葉県立一宮商業高等学校" : {
+         "location_area" : "一宮町",
+         "owner_type" : "県立",
+         "short_name" : "一宮商業高校"
+      },
+      "千葉県立上総高等学校" : {
+         "location_area" : "君津市",
+         "owner_type" : "県立",
+         "short_name" : "上総高校"
+      },
+      "千葉県立下総高等学校" : {
+         "location_area" : "成田市",
+         "owner_type" : "県立",
+         "short_name" : "下総高校"
+      },
+      "千葉県立九十九里高等学校" : {
+         "location_area" : "九十九里町",
+         "owner_type" : "県立",
+         "short_name" : "九十九里高校"
+      },
+      "千葉県立京葉工業高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "県立",
+         "short_name" : "京葉工業高校"
+      },
+      "千葉県立京葉高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "京葉高校"
+      },
+      "千葉県立佐倉南高等学校" : {
+         "location_area" : "佐倉市",
+         "owner_type" : "県立",
+         "short_name" : "佐倉南高校"
+      },
+      "千葉県立佐倉東高等学校" : {
+         "location_area" : "佐倉市",
+         "owner_type" : "県立",
+         "short_name" : "佐倉東高校"
+      },
+      "千葉県立佐倉西高等学校" : {
+         "location_area" : "佐倉市",
+         "owner_type" : "県立",
+         "short_name" : "佐倉西高校"
+      },
+      "千葉県立佐倉高等学校" : {
+         "location_area" : "佐倉市",
+         "owner_type" : "県立",
+         "short_name" : "佐倉高校"
+      },
+      "千葉県立佐原白楊高等学校" : {
+         "location_area" : "香取市",
+         "owner_type" : "県立",
+         "short_name" : "佐原白楊高校"
+      },
+      "千葉県立佐原高等学校" : {
+         "location_area" : "香取市",
+         "owner_type" : "県立",
+         "short_name" : "佐原高校"
+      },
+      "千葉県立八千代東高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "県立",
+         "short_name" : "八千代東高校"
+      },
+      "千葉県立八千代西高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "県立",
+         "short_name" : "八千代西高校"
+      },
+      "千葉県立八千代高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "県立",
+         "short_name" : "八千代高校"
+      },
+      "千葉県立八街高等学校" : {
+         "location_area" : "八街市",
+         "owner_type" : "県立",
+         "short_name" : "八街高校"
+      },
+      "千葉県立勝浦若潮高等学校" : {
+         "location_area" : "勝浦市",
+         "owner_type" : "県立",
+         "short_name" : "勝浦若潮高校"
+      },
+      "千葉県立匝瑳高等学校" : {
+         "location_area" : "匝瑳市",
+         "owner_type" : "県立",
+         "short_name" : "匝瑳高校"
+      },
+      "千葉県立千城台高等学校" : {
+         "location_area" : "若葉区",
+         "owner_type" : "県立",
+         "short_name" : "千城台高校"
+      },
+      "千葉県立千葉北高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "県立",
+         "short_name" : "千葉北高校"
+      },
+      "千葉県立千葉南高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "千葉南高校"
+      },
+      "千葉県立千葉商業高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "千葉商業高校"
+      },
+      "千葉県立千葉大宮高等学校" : {
+         "location_area" : "若葉区",
+         "owner_type" : "県立",
+         "short_name" : "千葉大宮高校"
+      },
+      "千葉県立千葉女子高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "県立",
+         "short_name" : "千葉女子高校"
+      },
+      "千葉県立千葉工業高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "千葉工業高校"
+      },
+      "千葉県立千葉東高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "県立",
+         "short_name" : "千葉東高校"
+      },
+      "千葉県立千葉西高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "県立",
+         "short_name" : "千葉西高校"
+      },
+      "千葉県立千葉高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "千葉高校",
+         "wikipedia_name" : "千葉県立千葉中学校・高等学校"
+      },
+      "千葉県立印旛明誠高等学校" : {
+         "location_area" : "印西市",
+         "owner_type" : "県立",
+         "short_name" : "印旛明誠高校"
+      },
+      "千葉県立君津商業高等学校" : {
+         "location_area" : "富津市",
+         "owner_type" : "県立",
+         "short_name" : "君津商業高校"
+      },
+      "千葉県立君津青葉高等学校" : {
+         "location_area" : "君津市",
+         "owner_type" : "県立",
+         "short_name" : "君津青葉高校"
+      },
+      "千葉県立君津高等学校" : {
+         "location_area" : "君津市",
+         "owner_type" : "県立",
+         "short_name" : "君津高校"
+      },
+      "千葉県立四街道北高等学校" : {
+         "location_area" : "四街道市",
+         "owner_type" : "県立",
+         "short_name" : "四街道北高校"
+      },
+      "千葉県立四街道高等学校" : {
+         "location_area" : "四街道市",
+         "owner_type" : "県立",
+         "short_name" : "四街道高校"
+      },
+      "千葉県立国分高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "国分高校"
+      },
+      "千葉県立国府台高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "国府台高校"
+      },
+      "千葉県立土気高等学校" : {
+         "location_area" : "緑区",
+         "owner_type" : "県立",
+         "short_name" : "土気高校"
+      },
+      "千葉県立多古高等学校" : {
+         "location_area" : "多古町",
+         "owner_type" : "県立",
+         "short_name" : "多古高校"
+      },
+      "千葉県立大原高等学校" : {
+         "location_area" : "いすみ市",
+         "owner_type" : "県立",
+         "short_name" : "大原高校"
+      },
+      "千葉県立大多喜高等学校" : {
+         "location_area" : "大多喜町",
+         "owner_type" : "県立",
+         "short_name" : "大多喜高校"
+      },
+      "千葉県立大網高等学校" : {
+         "location_area" : "大網白里町",
+         "owner_type" : "県立",
+         "short_name" : "大網高校"
+      },
+      "千葉県立天羽高等学校" : {
+         "location_area" : "富津市",
+         "owner_type" : "県立",
+         "short_name" : "天羽高校"
+      },
+      "千葉県立姉崎高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "姉崎高校"
+      },
+      "千葉県立安房拓心高等学校" : {
+         "location_area" : "南房総市",
+         "owner_type" : "県立",
+         "short_name" : "安房拓心高校"
+      },
+      "千葉県立安房高等学校" : {
+         "location_area" : "館山市",
+         "owner_type" : "県立",
+         "short_name" : "安房高校"
+      },
+      "千葉県立実籾高等学校" : {
+         "location_area" : "習志野市",
+         "owner_type" : "県立",
+         "short_name" : "実籾高校"
+      },
+      "千葉県立富里高等学校" : {
+         "location_area" : "富里市",
+         "owner_type" : "県立",
+         "short_name" : "富里高校"
+      },
+      "千葉県立小見川高等学校" : {
+         "location_area" : "香取市",
+         "owner_type" : "県立",
+         "short_name" : "小見川高校"
+      },
+      "千葉県立小金高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "小金高校"
+      },
+      "千葉県立岬高等学校" : {
+         "location_area" : "いすみ市",
+         "owner_type" : "県立",
+         "short_name" : "岬高校"
+      },
+      "千葉県立市原八幡高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "市原八幡高校"
+      },
+      "千葉県立市原緑高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "市原緑高校"
+      },
+      "千葉県立市原高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "市原高校"
+      },
+      "千葉県立市川北高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川北高校"
+      },
+      "千葉県立市川南高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川南高校"
+      },
+      "千葉県立市川工業高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川工業高校"
+      },
+      "千葉県立市川昴高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川昴高校"
+      },
+      "千葉県立市川東高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川東高校"
+      },
+      "千葉県立市川西高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "市川西高校"
+      },
+      "千葉県立布佐高等学校" : {
+         "location_area" : "我孫子市",
+         "owner_type" : "県立",
+         "short_name" : "布佐高校"
+      },
+      "千葉県立幕張総合高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "県立",
+         "short_name" : "幕張総合高校"
+      },
+      "千葉県立成東高等学校" : {
+         "location_area" : "山武市",
+         "owner_type" : "県立",
+         "short_name" : "成東高校"
+      },
+      "千葉県立成田北高等学校" : {
+         "location_area" : "成田市",
+         "owner_type" : "県立",
+         "short_name" : "成田北高校"
+      },
+      "千葉県立成田国際高等学校" : {
+         "location_area" : "成田市",
+         "owner_type" : "県立",
+         "short_name" : "成田国際高校"
+      },
+      "千葉県立成田西陵高等学校" : {
+         "location_area" : "成田市",
+         "owner_type" : "県立",
+         "short_name" : "成田西陵高校"
+      },
+      "千葉県立我孫子高等学校" : {
+         "location_area" : "我孫子市",
+         "owner_type" : "県立",
+         "short_name" : "我孫子高校"
+      },
+      "千葉県立旭農業高等学校" : {
+         "location_area" : "旭市",
+         "owner_type" : "県立",
+         "short_name" : "旭農業高校"
+      },
+      "千葉県立木更津東高等学校" : {
+         "location_area" : "木更津市",
+         "owner_type" : "県立",
+         "short_name" : "木更津東高校"
+      },
+      "千葉県立木更津高等学校" : {
+         "location_area" : "木更津市",
+         "owner_type" : "県立",
+         "short_name" : "木更津高校"
+      },
+      "千葉県立東総工業高等学校" : {
+         "location_area" : "旭市",
+         "owner_type" : "県立",
+         "short_name" : "東総工業高校"
+      },
+      "千葉県立東葛飾高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "東葛飾高校"
+      },
+      "千葉県立東金商業高等学校" : {
+         "location_area" : "東金市",
+         "owner_type" : "県立",
+         "short_name" : "東金商業高校"
+      },
+      "千葉県立東金高等学校" : {
+         "location_area" : "東金市",
+         "owner_type" : "県立",
+         "short_name" : "東金高校"
+      },
+      "千葉県立松尾高等学校" : {
+         "location_area" : "山武市",
+         "owner_type" : "県立",
+         "short_name" : "松尾高校"
+      },
+      "千葉県立松戸六実高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸六実高校"
+      },
+      "千葉県立松戸南高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸南高校"
+      },
+      "千葉県立松戸国際高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸国際高校"
+      },
+      "千葉県立松戸矢切高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸矢切高校"
+      },
+      "千葉県立松戸秋山高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸秋山高校"
+      },
+      "千葉県立松戸馬橋高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸馬橋高校"
+      },
+      "千葉県立松戸高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "県立",
+         "short_name" : "松戸高校"
+      },
+      "千葉県立柏の葉高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "柏の葉高校"
+      },
+      "千葉県立柏中央高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "柏中央高校"
+      },
+      "千葉県立柏井高等学校" : {
+         "location_area" : "花見川区",
+         "owner_type" : "県立",
+         "short_name" : "柏井高校"
+      },
+      "千葉県立柏南高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "柏南高校"
+      },
+      "千葉県立柏陵高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "柏陵高校"
+      },
+      "千葉県立柏高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "柏高校"
+      },
+      "千葉県立検見川高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "県立",
+         "short_name" : "検見川高校"
+      },
+      "千葉県立沼南高柳高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "沼南高柳高校"
+      },
+      "千葉県立沼南高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "県立",
+         "short_name" : "沼南高校"
+      },
+      "千葉県立泉高等学校" : {
+         "location_area" : "若葉区",
+         "owner_type" : "県立",
+         "short_name" : "泉高校"
+      },
+      "千葉県立津田沼高等学校" : {
+         "location_area" : "習志野市",
+         "owner_type" : "県立",
+         "short_name" : "津田沼高校"
+      },
+      "千葉県立流山おおたかの森高等学校" : {
+         "location_area" : "流山市",
+         "owner_type" : "県立",
+         "short_name" : "流山おおたかの森高校"
+      },
+      "千葉県立流山北高等学校" : {
+         "location_area" : "流山市",
+         "owner_type" : "県立",
+         "short_name" : "流山北高校"
+      },
+      "千葉県立流山南高等学校" : {
+         "location_area" : "流山市",
+         "owner_type" : "県立",
+         "short_name" : "流山南高校"
+      },
+      "千葉県立流山高等学校" : {
+         "location_area" : "流山市",
+         "owner_type" : "県立",
+         "short_name" : "流山高校"
+      },
+      "千葉県立浦安南高等学校" : {
+         "location_area" : "浦安市",
+         "owner_type" : "県立",
+         "short_name" : "浦安南高校"
+      },
+      "千葉県立浦安高等学校" : {
+         "location_area" : "浦安市",
+         "owner_type" : "県立",
+         "short_name" : "浦安高校"
+      },
+      "千葉県立清水高等学校" : {
+         "location_area" : "野田市",
+         "owner_type" : "県立",
+         "short_name" : "清水高校"
+      },
+      "千葉県立湖北高等学校" : {
+         "location_area" : "我孫子市",
+         "owner_type" : "県立",
+         "short_name" : "湖北高校"
+      },
+      "千葉県立犢橋高等学校" : {
+         "location_area" : "花見川区",
+         "owner_type" : "県立",
+         "short_name" : "犢橋高校"
+      },
+      "千葉県立生浜高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "生浜高校"
+      },
+      "千葉県立白井高等学校" : {
+         "location_area" : "白井市",
+         "owner_type" : "県立",
+         "short_name" : "白井高校"
+      },
+      "千葉県立磯辺高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "県立",
+         "short_name" : "磯辺高校"
+      },
+      "千葉県立船橋二和高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋二和高校"
+      },
+      "千葉県立船橋北高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋北高校"
+      },
+      "千葉県立船橋古和釜高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋古和釜高校"
+      },
+      "千葉県立船橋啓明高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋啓明高校"
+      },
+      "千葉県立船橋旭高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋旭高校"
+      },
+      "千葉県立船橋東高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋東高校"
+      },
+      "千葉県立船橋法典高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋法典高校"
+      },
+      "千葉県立船橋芝山高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋芝山高校"
+      },
+      "千葉県立船橋西高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋西高校"
+      },
+      "千葉県立船橋豊富高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋豊富高校"
+      },
+      "千葉県立船橋高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "船橋高校"
+      },
+      "千葉県立若松高等学校" : {
+         "location_area" : "若葉区",
+         "owner_type" : "県立",
+         "short_name" : "若松高校"
+      },
+      "千葉県立茂原樟陽高等学校" : {
+         "location_area" : "茂原市",
+         "owner_type" : "県立",
+         "short_name" : "茂原樟陽高校"
+      },
+      "千葉県立茂原高等学校" : {
+         "location_area" : "茂原市",
+         "owner_type" : "県立",
+         "short_name" : "茂原高校"
+      },
+      "千葉県立薬園台高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "県立",
+         "short_name" : "薬園台高校"
+      },
+      "千葉県立行徳高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "県立",
+         "short_name" : "行徳高校"
+      },
+      "千葉県立袖ヶ浦高等学校" : {
+         "location_area" : "袖ヶ浦市",
+         "owner_type" : "県立",
+         "short_name" : "袖ヶ浦高校"
+      },
+      "千葉県立野田中央高等学校" : {
+         "location_area" : "野田市",
+         "owner_type" : "県立",
+         "short_name" : "野田中央高校"
+      },
+      "千葉県立銚子商業高等学校" : {
+         "location_area" : "銚子市",
+         "owner_type" : "県立",
+         "short_name" : "銚子商業高校"
+      },
+      "千葉県立銚子高等学校" : {
+         "location_area" : "銚子市",
+         "owner_type" : "県立",
+         "short_name" : "銚子高校"
+      },
+      "千葉県立鎌ケ谷西高等学校" : {
+         "location_area" : "鎌ケ谷市",
+         "owner_type" : "県立",
+         "short_name" : "鎌ケ谷西高校"
+      },
+      "千葉県立鎌ケ谷高等学校" : {
+         "location_area" : "鎌ケ谷市",
+         "owner_type" : "県立",
+         "short_name" : "鎌ケ谷高校"
+      },
+      "千葉県立長狭高等学校" : {
+         "location_area" : "鴨川市",
+         "owner_type" : "県立",
+         "short_name" : "長狭高校"
+      },
+      "千葉県立長生高等学校" : {
+         "location_area" : "茂原市",
+         "owner_type" : "県立",
+         "short_name" : "長生高校"
+      },
+      "千葉県立関宿高等学校" : {
+         "location_area" : "野田市",
+         "owner_type" : "県立",
+         "short_name" : "関宿高校"
+      },
+      "千葉県立館山総合高等学校" : {
+         "location_area" : "館山市",
+         "owner_type" : "県立",
+         "short_name" : "館山総合高校"
+      },
+      "千葉県立鶴舞桜が丘高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "県立",
+         "short_name" : "鶴舞桜が丘高校"
+      },
+      "千葉経済大学附属高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "私立",
+         "short_name" : "千葉経済大学附属高校"
+      },
+      "千葉聖心高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "千葉聖心高校"
+      },
+      "千葉英和高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "私立",
+         "short_name" : "千葉英和高校"
+      },
+      "千葉萌陽高等学校" : {
+         "location_area" : "香取市",
+         "owner_type" : "私立",
+         "short_name" : "千葉萌陽高校"
+      },
+      "千葉黎明高等学校" : {
+         "location_area" : "八街市",
+         "owner_type" : "私立",
+         "short_name" : "千葉黎明高校"
+      },
+      "和洋国府台女子高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "和洋国府台女子高校",
+         "wikipedia_name" : "和洋国府台女子中学校・高等学校"
+      },
+      "国府台女子学院高等部" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "国府台女子学院小学部・中学部・高等部"
+      },
+      "専修大学松戸高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "私立",
+         "short_name" : "専修大学松戸高校",
+         "wikipedia_name" : "専修大学松戸中学校・高等学校"
+      },
+      "市原中央高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "私立",
+         "short_name" : "市原中央高校"
+      },
+      "市川高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "市川高校",
+         "wikipedia_name" : "市川中学校・高等学校"
+      },
+      "志学館高等部" : {
+         "location_area" : "木更津市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "志学館中等部・高等部 (千葉県)"
+      },
+      "愛国学園大学附属四街道高等学校" : {
+         "location_area" : "四街道市",
+         "owner_type" : "私立",
+         "short_name" : "愛国学園大学附属四街道高校"
+      },
+      "成田高等学校" : {
+         "location_area" : "成田市",
+         "owner_type" : "私立",
+         "short_name" : "成田高校",
+         "wikipedia_name" : "成田高等学校・付属中学校"
+      },
+      "我孫子二階堂高等学校" : {
+         "location_area" : "我孫子市",
+         "owner_type" : "私立",
+         "short_name" : "我孫子二階堂高校"
+      },
+      "拓殖大学紅陵高等学校" : {
+         "location_area" : "木更津市",
+         "owner_type" : "私立",
+         "short_name" : "拓殖大学紅陵高校"
+      },
+      "敬愛大学八日市場高等学校" : {
+         "location_area" : "匝瑳市",
+         "owner_type" : "私立",
+         "short_name" : "敬愛大学八日市場高校"
+      },
+      "敬愛学園高等学校" : {
+         "location_area" : "稲毛区",
+         "owner_type" : "私立",
+         "short_name" : "敬愛学園高校"
+      },
+      "文理開成高等学校" : {
+         "location_area" : "鴨川市",
+         "owner_type" : "私立",
+         "short_name" : "文理開成高校"
+      },
+      "日出学園高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "日出学園高校",
+         "wikipedia_name" : "日出学園中学校・高等学校"
+      },
+      "日本大学習志野高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "私立",
+         "short_name" : "日本大学習志野高校"
+      },
+      "明聖高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "明聖高校"
+      },
+      "昭和学院秀英高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "私立",
+         "short_name" : "昭和学院秀英高校",
+         "wikipedia_name" : "昭和学院秀英中学校・高等学校"
+      },
+      "昭和学院高等学校" : {
+         "location_area" : "市川市",
+         "owner_type" : "私立",
+         "short_name" : "昭和学院高校",
+         "wikipedia_name" : "昭和学院中学校・高等学校"
+      },
+      "暁星国際高等学校" : {
+         "location_area" : "木更津市",
+         "owner_type" : "私立",
+         "short_name" : "暁星国際高校"
+      },
+      "木更津総合高等学校" : {
+         "location_area" : "木更津市",
+         "owner_type" : "私立",
+         "short_name" : "木更津総合高校"
+      },
+      "東京学館浦安高等学校" : {
+         "location_area" : "浦安市",
+         "owner_type" : "私立",
+         "short_name" : "東京学館浦安高校",
+         "wikipedia_name" : "東京学館浦安中学校・高等学校"
+      },
+      "東京学館船橋高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "私立",
+         "short_name" : "東京学館船橋高校"
+      },
+      "東京学館高等学校" : {
+         "location_area" : "酒々井町",
+         "owner_type" : "私立",
+         "short_name" : "東京学館高校"
+      },
+      "東海大学付属望洋高等学校" : {
+         "location_area" : "市原市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属望洋高校"
+      },
+      "東海大学付属浦安高等学校" : {
+         "location_area" : "浦安市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属浦安高校",
+         "wikipedia_name" : "東海大学付属浦安高等学校・中等部"
+      },
+      "東葉高等学校" : {
+         "location_area" : "船橋市",
+         "owner_type" : "私立",
+         "short_name" : "東葉高校"
+      },
+      "東邦大学付属東邦高等学校" : {
+         "location_area" : "習志野市",
+         "owner_type" : "私立",
+         "short_name" : "東邦大学付属東邦高校",
+         "wikipedia_name" : "東邦大学付属東邦中学校・高等学校"
+      },
+      "松戸市立松戸高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "松戸高校"
+      },
+      "柏市立柏高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "柏高校"
+      },
+      "柏日体高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "私立",
+         "short_name" : "柏日体高校"
+      },
+      "桜林高等学校" : {
+         "location_area" : "若葉区",
+         "owner_type" : "私立",
+         "short_name" : "桜林高校"
+      },
+      "植草学園大学附属高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "植草学園大学附属高校"
+      },
+      "横芝敬愛高等学校" : {
+         "location_area" : "横芝光町",
+         "owner_type" : "私立",
+         "short_name" : "横芝敬愛高校"
+      },
+      "流通経済大学付属柏高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "私立",
+         "short_name" : "流通経済大学付属柏高校"
+      },
+      "渋谷教育学園幕張高等学校" : {
+         "location_area" : "美浜区",
+         "owner_type" : "私立",
+         "short_name" : "渋谷教育学園幕張高校",
+         "wikipedia_name" : "渋谷教育学園幕張中学校・高等学校"
+      },
+      "秀明大学八千代高等学校" : {
+         "location_area" : "八千代市",
+         "owner_type" : "私立",
+         "short_name" : "秀明大学八千代高校",
+         "wikipedia_name" : "秀明八千代中学校・高等学校"
+      },
+      "習志野市立習志野高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "習志野高校"
+      },
+      "聖徳大学附属女子高等学校" : {
+         "location_area" : "松戸市",
+         "owner_type" : "私立",
+         "short_name" : "聖徳大学附属女子高校",
+         "wikipedia_name" : "聖徳大学附属女子中学校・高等学校"
+      },
+      "船橋市立船橋高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "船橋高校"
+      },
+      "芝浦工業大学柏高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "私立",
+         "short_name" : "芝浦工業大学柏高校",
+         "wikipedia_name" : "芝浦工業大学柏中学高等学校"
+      },
+      "茂原北陵高等学校" : {
+         "location_area" : "茂原市",
+         "owner_type" : "私立",
+         "short_name" : "茂原北陵高校"
+      },
+      "西武台千葉高等学校" : {
+         "location_area" : "野田市",
+         "owner_type" : "私立",
+         "short_name" : "西武台千葉高校",
+         "wikipedia_name" : "西武台中学校・西武台千葉高等学校"
+      },
+      "銚子市立銚子高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "銚子高校"
+      },
+      "青森山田高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "青森山田高校",
+         "wikipedia_name" : "青森山田中学高等学校"
+      },
+      "麗澤高等学校" : {
+         "location_area" : "柏市",
+         "owner_type" : "私立",
+         "short_name" : "麗澤高校",
+         "wikipedia_name" : "麗澤中学校・高等学校"
+      }
+   }
+}

@@ -1,0 +1,332 @@
+{
+   "senior_high_schools" : {
+      "八洲学園大学国際高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "八洲学園大学国際高校"
+      },
+      "昭和薬科大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "昭和薬科大学附属高校",
+         "wikipedia_name" : "昭和薬科大学附属高等学校・中学校"
+      },
+      "沖縄カトリック高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "沖縄カトリック高校",
+         "wikipedia_name" : "沖縄カトリック中学校・高等学校"
+      },
+      "沖縄女子短期大学附属高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "沖縄女子短期大学附属高校"
+      },
+      "沖縄尚学高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "沖縄尚学高校",
+         "wikipedia_name" : "沖縄尚学高等学校・附属中学校"
+      },
+      "沖縄県立コザ高等学校" : {
+         "location_area" : "沖縄市",
+         "owner_type" : "県立",
+         "short_name" : "コザ高校"
+      },
+      "沖縄県立与勝高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "与勝高校"
+      },
+      "沖縄県立中部商業高等学校" : {
+         "location_area" : "宜野湾市",
+         "owner_type" : "県立",
+         "short_name" : "中部商業高校"
+      },
+      "沖縄県立中部農林高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "中部農林高校"
+      },
+      "沖縄県立久米島高等学校" : {
+         "location_area" : "久米島町",
+         "owner_type" : "県立",
+         "short_name" : "久米島高校"
+      },
+      "沖縄県立伊良部高等学校" : {
+         "location_area" : "宮古島市",
+         "owner_type" : "県立",
+         "short_name" : "伊良部高校"
+      },
+      "沖縄県立八重山商工高等学校" : {
+         "location_area" : "石垣市",
+         "owner_type" : "県立",
+         "short_name" : "八重山商工高校"
+      },
+      "沖縄県立八重山農林高等学校" : {
+         "location_area" : "石垣市",
+         "owner_type" : "県立",
+         "short_name" : "八重山農林高校"
+      },
+      "沖縄県立八重山高等学校" : {
+         "location_area" : "石垣市",
+         "owner_type" : "県立",
+         "short_name" : "八重山高校"
+      },
+      "沖縄県立具志川商業高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "具志川商業高校"
+      },
+      "沖縄県立具志川高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "具志川高校"
+      },
+      "沖縄県立前原高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "前原高校"
+      },
+      "沖縄県立北中城高等学校" : {
+         "location_area" : "北中城村",
+         "owner_type" : "県立",
+         "short_name" : "北中城高校"
+      },
+      "沖縄県立北山高等学校" : {
+         "location_area" : "今帰仁村",
+         "owner_type" : "県立",
+         "short_name" : "北山高校"
+      },
+      "沖縄県立北谷高等学校" : {
+         "location_area" : "北谷町",
+         "owner_type" : "県立",
+         "short_name" : "北谷高校"
+      },
+      "沖縄県立北部農林高等学校" : {
+         "location_area" : "名護市",
+         "owner_type" : "県立",
+         "short_name" : "北部農林高校"
+      },
+      "沖縄県立南部商業高等学校" : {
+         "location_area" : "八重瀬町",
+         "owner_type" : "県立",
+         "short_name" : "南部商業高校"
+      },
+      "沖縄県立南部工業高等学校" : {
+         "location_area" : "八重瀬町",
+         "owner_type" : "県立",
+         "short_name" : "南部工業高校"
+      },
+      "沖縄県立南部農林高等学校" : {
+         "location_area" : "豊見城市",
+         "owner_type" : "県立",
+         "short_name" : "南部農林高校"
+      },
+      "沖縄県立南風原高等学校" : {
+         "location_area" : "南風原町",
+         "owner_type" : "県立",
+         "short_name" : "南風原高校"
+      },
+      "沖縄県立名護商工高等学校" : {
+         "location_area" : "名護市",
+         "owner_type" : "県立",
+         "short_name" : "名護商工高校"
+      },
+      "沖縄県立名護高等学校" : {
+         "location_area" : "名護市",
+         "owner_type" : "県立",
+         "short_name" : "名護高校"
+      },
+      "沖縄県立向陽高等学校" : {
+         "location_area" : "八重瀬町",
+         "owner_type" : "県立",
+         "short_name" : "向陽高校"
+      },
+      "沖縄県立嘉手納高等学校" : {
+         "location_area" : "嘉手納町",
+         "owner_type" : "県立",
+         "short_name" : "嘉手納高校"
+      },
+      "沖縄県立宜野座高等学校" : {
+         "location_area" : "宜野座村",
+         "owner_type" : "県立",
+         "short_name" : "宜野座高校"
+      },
+      "沖縄県立宜野湾高等学校" : {
+         "location_area" : "宜野湾市",
+         "owner_type" : "県立",
+         "short_name" : "宜野湾高校"
+      },
+      "沖縄県立宮古工業高等学校" : {
+         "location_area" : "宮古島市",
+         "owner_type" : "県立",
+         "short_name" : "宮古工業高校"
+      },
+      "沖縄県立宮古総合実業高等学校" : {
+         "location_area" : "宮古島市",
+         "owner_type" : "県立",
+         "short_name" : "宮古総合実業高校"
+      },
+      "沖縄県立宮古高等学校" : {
+         "location_area" : "宮古島市",
+         "owner_type" : "県立",
+         "short_name" : "宮古高校"
+      },
+      "沖縄県立小禄高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "小禄高校"
+      },
+      "沖縄県立普天間高等学校" : {
+         "location_area" : "宜野湾市",
+         "owner_type" : "県立",
+         "short_name" : "普天間高校"
+      },
+      "沖縄県立本部高等学校" : {
+         "location_area" : "本部町",
+         "owner_type" : "県立",
+         "short_name" : "本部高校"
+      },
+      "沖縄県立沖縄工業高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "沖縄工業高校"
+      },
+      "沖縄県立沖縄水産高等学校" : {
+         "location_area" : "糸満市",
+         "owner_type" : "県立",
+         "short_name" : "沖縄水産高校"
+      },
+      "沖縄県立泊高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "泊高校"
+      },
+      "沖縄県立浦添商業高等学校" : {
+         "location_area" : "浦添市",
+         "owner_type" : "県立",
+         "short_name" : "浦添商業高校"
+      },
+      "沖縄県立浦添工業高等学校" : {
+         "location_area" : "浦添市",
+         "owner_type" : "県立",
+         "short_name" : "浦添工業高校"
+      },
+      "沖縄県立浦添高等学校" : {
+         "location_area" : "浦添市",
+         "owner_type" : "県立",
+         "short_name" : "浦添高校"
+      },
+      "沖縄県立球陽高等学校" : {
+         "location_area" : "沖縄市",
+         "owner_type" : "県立",
+         "short_name" : "球陽高校"
+      },
+      "沖縄県立真和志高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "真和志高校"
+      },
+      "沖縄県立知念高等学校" : {
+         "location_area" : "与那原町",
+         "owner_type" : "県立",
+         "short_name" : "知念高校"
+      },
+      "沖縄県立石川高等学校" : {
+         "location_area" : "うるま市",
+         "owner_type" : "県立",
+         "short_name" : "石川高校"
+      },
+      "沖縄県立糸満高等学校" : {
+         "location_area" : "糸満市",
+         "owner_type" : "県立",
+         "short_name" : "糸満高校"
+      },
+      "沖縄県立美来工科高等学校" : {
+         "location_area" : "沖縄市",
+         "owner_type" : "県立",
+         "short_name" : "美来工科高校"
+      },
+      "沖縄県立美里工業高等学校" : {
+         "location_area" : "沖縄市",
+         "owner_type" : "県立",
+         "short_name" : "美里工業高校"
+      },
+      "沖縄県立美里高等学校" : {
+         "location_area" : "沖縄市",
+         "owner_type" : "県立",
+         "short_name" : "美里高校"
+      },
+      "沖縄県立西原高等学校" : {
+         "location_area" : "西原町",
+         "owner_type" : "県立",
+         "short_name" : "西原高校"
+      },
+      "沖縄県立読谷高等学校" : {
+         "location_area" : "読谷村",
+         "owner_type" : "県立",
+         "short_name" : "読谷高校"
+      },
+      "沖縄県立豊見城南高等学校" : {
+         "location_area" : "豊見城市",
+         "owner_type" : "県立",
+         "short_name" : "豊見城南高校"
+      },
+      "沖縄県立豊見城高等学校" : {
+         "location_area" : "豊見城市",
+         "owner_type" : "県立",
+         "short_name" : "豊見城高校"
+      },
+      "沖縄県立辺土名高等学校" : {
+         "location_area" : "大宜味村",
+         "owner_type" : "県立",
+         "short_name" : "辺土名高校"
+      },
+      "沖縄県立那覇商業高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "那覇商業高校"
+      },
+      "沖縄県立那覇国際高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "那覇国際高校"
+      },
+      "沖縄県立那覇工業高等学校" : {
+         "location_area" : "浦添市",
+         "owner_type" : "県立",
+         "short_name" : "那覇工業高校"
+      },
+      "沖縄県立那覇西高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "那覇西高校"
+      },
+      "沖縄県立那覇高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "那覇高校"
+      },
+      "沖縄県立開邦高等学校" : {
+         "location_area" : "南風原町",
+         "owner_type" : "県立",
+         "short_name" : "開邦高校"
+      },
+      "沖縄県立陽明高等学校" : {
+         "location_area" : "浦添市",
+         "owner_type" : "県立",
+         "short_name" : "陽明高校"
+      },
+      "沖縄県立首里東高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "首里東高校"
+      },
+      "沖縄県立首里高等学校" : {
+         "location_area" : "那覇市",
+         "owner_type" : "県立",
+         "short_name" : "首里高校"
+      },
+      "興南高等学校" : {
+         "owner_type" : "私立",
+         "short_name" : "興南高校",
+         "wikipedia_name" : "興南中学校・高等学校"
+      }
+   }
+}

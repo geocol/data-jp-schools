@@ -1,0 +1,592 @@
+{
+   "high_schools" : {
+      "新潟市立高志中等教育学校" : {
+         "owner_type" : "市立",
+         "short_name" : "高志中等教育学校",
+         "wikipedia_name" : "新潟市立高志高等学校"
+      },
+      "新潟県立佐渡中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "佐渡中等教育学校"
+      },
+      "新潟県立村上中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "村上中等教育学校"
+      },
+      "新潟県立柏崎翔洋中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "柏崎翔洋中等教育学校"
+      },
+      "新潟県立津南中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "津南中等教育学校"
+      },
+      "新潟県立燕中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "燕中等教育学校"
+      },
+      "新潟県立直江津中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "直江津中等教育学校"
+      }
+   },
+   "senior_high_schools" : {
+      "上越高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "私立",
+         "short_name" : "上越高校"
+      },
+      "中越高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "私立",
+         "short_name" : "中越高校"
+      },
+      "加茂暁星高等学校" : {
+         "location_area" : "加茂市",
+         "owner_type" : "私立",
+         "short_name" : "加茂暁星高校"
+      },
+      "北越高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "北越高校"
+      },
+      "帝京長岡高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "私立",
+         "short_name" : "帝京長岡高校",
+         "wikipedia_name" : "帝京長岡中学校・高等学校"
+      },
+      "敬和学園高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "short_name" : "敬和学園高校"
+      },
+      "新潟市立万代高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "万代高校"
+      },
+      "新潟市立明鏡高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "明鏡高校"
+      },
+      "新潟市立高志高等学校" : {
+         "owner_type" : "市立",
+         "short_name" : "高志高校"
+      },
+      "新潟明訓高等学校" : {
+         "location_area" : "江南区",
+         "owner_type" : "私立",
+         "short_name" : "新潟明訓高校",
+         "wikipedia_name" : "新潟明訓中学校・高等学校"
+      },
+      "新潟清心女子高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "私立",
+         "short_name" : "新潟清心女子高校",
+         "wikipedia_name" : "新潟清心女子中学校・高等学校"
+      },
+      "新潟産業大学附属高等学校" : {
+         "location_area" : "柏崎市",
+         "owner_type" : "私立",
+         "short_name" : "新潟産業大学附属高校"
+      },
+      "新潟県立三条商業高等学校" : {
+         "location_area" : "三条市",
+         "owner_type" : "県立",
+         "short_name" : "三条商業高校"
+      },
+      "新潟県立三条東高等学校" : {
+         "location_area" : "三条市",
+         "owner_type" : "県立",
+         "short_name" : "三条東高校"
+      },
+      "新潟県立三条高等学校" : {
+         "location_area" : "三条市",
+         "owner_type" : "県立",
+         "short_name" : "三条高校"
+      },
+      "新潟県立上越総合技術高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "上越総合技術高校"
+      },
+      "新潟県立両津高等学校" : {
+         "location_area" : "佐渡市",
+         "owner_type" : "県立",
+         "short_name" : "両津高校"
+      },
+      "新潟県立中条高等学校" : {
+         "location_area" : "胎内市",
+         "owner_type" : "県立",
+         "short_name" : "中条高校"
+      },
+      "新潟県立久比岐高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "久比岐高校"
+      },
+      "新潟県立五泉高等学校" : {
+         "location_area" : "五泉市",
+         "owner_type" : "県立",
+         "short_name" : "五泉高校"
+      },
+      "新潟県立佐渡総合高等学校" : {
+         "location_area" : "佐渡市",
+         "owner_type" : "県立",
+         "short_name" : "佐渡総合高校"
+      },
+      "新潟県立佐渡高等学校" : {
+         "location_area" : "佐渡市",
+         "owner_type" : "県立",
+         "short_name" : "佐渡高校"
+      },
+      "新潟県立八海高等学校" : {
+         "location_area" : "南魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "八海高校"
+      },
+      "新潟県立六日町高等学校" : {
+         "location_area" : "南魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "六日町高校"
+      },
+      "新潟県立出雲崎高等学校" : {
+         "location_area" : "出雲崎町",
+         "owner_type" : "県立",
+         "short_name" : "出雲崎高校"
+      },
+      "新潟県立分水高等学校" : {
+         "location_area" : "燕市",
+         "owner_type" : "県立",
+         "short_name" : "分水高校"
+      },
+      "新潟県立加茂農林高等学校" : {
+         "location_area" : "加茂市",
+         "owner_type" : "県立",
+         "short_name" : "加茂農林高校"
+      },
+      "新潟県立加茂高等学校" : {
+         "location_area" : "加茂市",
+         "owner_type" : "県立",
+         "short_name" : "加茂高校"
+      },
+      "新潟県立十日町総合高等学校" : {
+         "location_area" : "十日町市",
+         "owner_type" : "県立",
+         "short_name" : "十日町総合高校"
+      },
+      "新潟県立十日町高等学校" : {
+         "location_area" : "十日町市",
+         "owner_type" : "県立",
+         "short_name" : "十日町高校"
+      },
+      "新潟県立吉田高等学校" : {
+         "location_area" : "燕市",
+         "owner_type" : "県立",
+         "short_name" : "吉田高校"
+      },
+      "新潟県立国際情報高等学校" : {
+         "location_area" : "南魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "国際情報高校"
+      },
+      "新潟県立堀之内高等学校" : {
+         "location_area" : "魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "堀之内高校"
+      },
+      "新潟県立塩沢商工高等学校" : {
+         "location_area" : "南魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "塩沢商工高校"
+      },
+      "新潟県立安塚高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "安塚高校"
+      },
+      "新潟県立安塚高等学校松之山分校" : {
+         "location_area" : "十日町市",
+         "owner_type" : "県立",
+         "short_name" : "安塚高校松之山分校"
+      },
+      "新潟県立小出高等学校" : {
+         "location_area" : "魚沼市",
+         "owner_type" : "県立",
+         "short_name" : "小出高校"
+      },
+      "新潟県立小千谷西高等学校" : {
+         "location_area" : "小千谷市",
+         "owner_type" : "県立",
+         "short_name" : "小千谷西高校"
+      },
+      "新潟県立小千谷高等学校" : {
+         "location_area" : "小千谷市",
+         "owner_type" : "県立",
+         "short_name" : "小千谷高校"
+      },
+      "新潟県立川西高等学校" : {
+         "location_area" : "十日町市",
+         "owner_type" : "県立",
+         "short_name" : "川西高校"
+      },
+      "新潟県立巻総合高等学校" : {
+         "location_area" : "西蒲区",
+         "owner_type" : "県立",
+         "short_name" : "巻総合高校"
+      },
+      "新潟県立巻高等学校" : {
+         "location_area" : "西蒲区",
+         "owner_type" : "県立",
+         "short_name" : "巻高校"
+      },
+      "新潟県立新井高等学校" : {
+         "location_area" : "妙高市",
+         "owner_type" : "県立",
+         "short_name" : "新井高校"
+      },
+      "新潟県立新津南高等学校" : {
+         "location_area" : "秋葉区",
+         "owner_type" : "県立",
+         "short_name" : "新津南高校"
+      },
+      "新潟県立新津工業高等学校" : {
+         "location_area" : "秋葉区",
+         "owner_type" : "県立",
+         "short_name" : "新津工業高校"
+      },
+      "新潟県立新津高等学校" : {
+         "location_area" : "秋葉区",
+         "owner_type" : "県立",
+         "short_name" : "新津高校"
+      },
+      "新潟県立新潟中央高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "新潟中央高校"
+      },
+      "新潟県立新潟北高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "県立",
+         "short_name" : "新潟北高校"
+      },
+      "新潟県立新潟南高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "新潟南高校"
+      },
+      "新潟県立新潟向陽高等学校" : {
+         "location_area" : "江南区",
+         "owner_type" : "県立",
+         "short_name" : "新潟向陽高校"
+      },
+      "新潟県立新潟商業高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "新潟商業高校"
+      },
+      "新潟県立新潟工業高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "新潟工業高校"
+      },
+      "新潟県立新潟東工業高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "県立",
+         "short_name" : "新潟東工業高校"
+      },
+      "新潟県立新潟東高等学校" : {
+         "location_area" : "東区",
+         "owner_type" : "県立",
+         "short_name" : "新潟東高校"
+      },
+      "新潟県立新潟江南高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "新潟江南高校"
+      },
+      "新潟県立新潟県央工業高等学校" : {
+         "location_area" : "三条市",
+         "owner_type" : "県立",
+         "short_name" : "新潟県央工業高校"
+      },
+      "新潟県立新潟翠江高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "新潟翠江高校"
+      },
+      "新潟県立新潟西高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "県立",
+         "short_name" : "新潟西高校"
+      },
+      "新潟県立新潟高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "県立",
+         "short_name" : "新潟高校"
+      },
+      "新潟県立新発田南高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "新発田南高校"
+      },
+      "新潟県立新発田南高等学校豊浦分校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "新発田南高校豊浦分校"
+      },
+      "新潟県立新発田商業高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "新発田商業高校"
+      },
+      "新潟県立新発田農業高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "新発田農業高校"
+      },
+      "新潟県立新発田高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "新発田高校"
+      },
+      "新潟県立有恒高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "有恒高校"
+      },
+      "新潟県立村上桜ヶ丘高等学校" : {
+         "location_area" : "村上市",
+         "owner_type" : "県立",
+         "short_name" : "村上桜ヶ丘高校"
+      },
+      "新潟県立村上高等学校" : {
+         "location_area" : "村上市",
+         "owner_type" : "県立",
+         "short_name" : "村上高校"
+      },
+      "新潟県立村松高等学校" : {
+         "location_area" : "五泉市",
+         "owner_type" : "県立",
+         "short_name" : "村松高校"
+      },
+      "新潟県立松代高等学校" : {
+         "location_area" : "十日町市",
+         "owner_type" : "県立",
+         "short_name" : "松代高校"
+      },
+      "新潟県立柏崎工業高等学校" : {
+         "location_area" : "柏崎市",
+         "owner_type" : "県立",
+         "short_name" : "柏崎工業高校"
+      },
+      "新潟県立柏崎常盤高等学校" : {
+         "location_area" : "柏崎市",
+         "owner_type" : "県立",
+         "short_name" : "柏崎常盤高校"
+      },
+      "新潟県立柏崎総合高等学校" : {
+         "location_area" : "柏崎市",
+         "owner_type" : "県立",
+         "short_name" : "柏崎総合高校"
+      },
+      "新潟県立柏崎高等学校" : {
+         "location_area" : "柏崎市",
+         "owner_type" : "県立",
+         "short_name" : "柏崎高校"
+      },
+      "新潟県立栃尾高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "栃尾高校"
+      },
+      "新潟県立正徳館高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "正徳館高校"
+      },
+      "新潟県立海洋高等学校" : {
+         "location_area" : "糸魚川市",
+         "owner_type" : "県立",
+         "short_name" : "海洋高校"
+      },
+      "新潟県立燕高等学校" : {
+         "location_area" : "燕市",
+         "owner_type" : "県立",
+         "short_name" : "燕高校"
+      },
+      "新潟県立白根高等学校" : {
+         "location_area" : "南区",
+         "owner_type" : "県立",
+         "short_name" : "白根高校"
+      },
+      "新潟県立直江津高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "直江津高校"
+      },
+      "新潟県立相川高等学校" : {
+         "location_area" : "佐渡市",
+         "owner_type" : "県立",
+         "short_name" : "相川高校"
+      },
+      "新潟県立糸魚川白嶺高等学校" : {
+         "location_area" : "糸魚川市",
+         "owner_type" : "県立",
+         "short_name" : "糸魚川白嶺高校"
+      },
+      "新潟県立糸魚川高等学校" : {
+         "location_area" : "糸魚川市",
+         "owner_type" : "県立",
+         "short_name" : "糸魚川高校"
+      },
+      "新潟県立羽茂高等学校" : {
+         "location_area" : "佐渡市",
+         "owner_type" : "県立",
+         "short_name" : "羽茂高校"
+      },
+      "新潟県立荒川高等学校" : {
+         "location_area" : "村上市",
+         "owner_type" : "県立",
+         "short_name" : "荒川高校"
+      },
+      "新潟県立西川竹園高等学校" : {
+         "location_area" : "西蒲区",
+         "owner_type" : "県立",
+         "short_name" : "西川竹園高校"
+      },
+      "新潟県立西新発田高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "県立",
+         "short_name" : "西新発田高校"
+      },
+      "新潟県立見附高等学校" : {
+         "location_area" : "見附市",
+         "owner_type" : "県立",
+         "short_name" : "見附高校"
+      },
+      "新潟県立豊栄高等学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "豊栄高校"
+      },
+      "新潟県立長岡向陵高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡向陵高校"
+      },
+      "新潟県立長岡商業高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡商業高校"
+      },
+      "新潟県立長岡大手高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡大手高校"
+      },
+      "新潟県立長岡工業高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡工業高校"
+      },
+      "新潟県立長岡明徳高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡明徳高校"
+      },
+      "新潟県立長岡農業高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡農業高校"
+      },
+      "新潟県立長岡高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "県立",
+         "short_name" : "長岡高校"
+      },
+      "新潟県立阿賀野高等学校" : {
+         "location_area" : "阿賀野市",
+         "owner_type" : "県立",
+         "short_name" : "阿賀野高校"
+      },
+      "新潟県立阿賀黎明高等学校" : {
+         "location_area" : "阿賀町",
+         "owner_type" : "県立",
+         "short_name" : "阿賀黎明高校",
+         "wikipedia_name" : "新潟県立阿賀黎明中学校・高等学校"
+      },
+      "新潟県立高田北城高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "高田北城高校"
+      },
+      "新潟県立高田南城高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "高田南城高校"
+      },
+      "新潟県立高田商業高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "高田商業高校"
+      },
+      "新潟県立高田農業高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "高田農業高校"
+      },
+      "新潟県立高田高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "県立",
+         "short_name" : "高田高校"
+      },
+      "新潟第一高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "新潟第一高校",
+         "wikipedia_name" : "新潟第一中学校・高等学校"
+      },
+      "新潟青陵高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "新潟青陵高校"
+      },
+      "新発田中央高等学校" : {
+         "location_area" : "新発田市",
+         "owner_type" : "私立",
+         "short_name" : "新発田中央高校"
+      },
+      "日本文理高等学校" : {
+         "location_area" : "西区",
+         "owner_type" : "私立",
+         "short_name" : "日本文理高校"
+      },
+      "日本海聖高等学校" : {
+         "location_area" : "見附市",
+         "owner_type" : "私立",
+         "short_name" : "日本海聖高校"
+      },
+      "東京学館新潟高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "東京学館新潟高校"
+      },
+      "英智ウィル学院高等学校" : {
+         "location_area" : "長岡市",
+         "owner_type" : "私立",
+         "short_name" : "英智ウィル学院高校"
+      },
+      "開志学園高等学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "short_name" : "開志学園高校"
+      },
+      "関根学園高等学校" : {
+         "location_area" : "上越市",
+         "owner_type" : "私立",
+         "short_name" : "関根学園高校"
+      }
+   }
+}
