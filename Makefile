@@ -43,7 +43,7 @@ cache-tech-colleges:
 	    $(JA_CURRENT_XML)
 
 cache-univs:
-	$(PREPARE_CACHES_BY_PATTERN) '^(?:東|西)?日本の(?:短期)?大学一覧' \
+	$(PREPARE_CACHES_BY_PATTERN) '^(?:東|西)?日本の(?:短期)?大学一覧|^大学校' \
 	    $(JA_CURRENT_XML)
 
 ## License: Public Domain.

@@ -5,6 +5,7 @@ use Path::Class;
 use lib file (__FILE__)->dir->parent->subdir ('lib')->stringify;
 use lib glob file (__FILE__)->dir->parent->subdir ('modules/*/lib');
 use utf8;
+use MediaWikiXML::PageExtractor;
 use Wikipedia::Ja::Schools;
 use JSON;
 binmode STDERR, ':utf8';
@@ -14,6 +15,53 @@ my $data_d = $root_d->subdir ('data');
 
 my $current_d = $data_d->subdir ('schools')->subdir ('univ');
 $current_d->mkpath;
+
+{
+  my $f = $current_d->file ('special-univs.json');
+  my $file = $f->openw;
+  
+  my $p = MediaWikiXML::PageExtractor->get_text_from_cache (q[大学校]) or die;
+  if ($p =~ /\n\{\|.+?学位を取得できる大学校一覧(.+?)\n\|\}\n/s) {
+    my $table = $1;
+    my $data = {};
+    for (split /\n/, $table) {
+      if (/\[\[(\S*大学校)\]\]/) {
+        my $name = $1;
+        my $props = {
+        ## Source: Wikipedia
+          '防衛大学校' => {
+            abbr_name => '防衛大',
+            location_area => '神奈川県',
+          },
+          '防衛医科大学校' => {
+            abbr_name => '防衛医大',
+            location_area => '埼玉県',
+          },
+          '海上保安大学校' => {
+            abbr_name => '海保大',
+            location_area => '広島県',
+          },
+          '気象大学校' => {
+            abbr_name => '気大校',
+            location_area => '千葉県',
+          },
+          '国立看護大学校' => {
+            location_area => '東京都',
+          },
+          '水産大学校' => {
+            abbr_name => '水大校',
+            location_area => '山口県',
+          },
+          '職業能力開発総合大学校' => {
+            abbr_name => '職業大',
+            location_area => '神奈川県',
+          },
+        }->{$name} || {};
+        $data->{$name} = $props;      }
+    }
+    print $file JSON->new->pretty->canonical->utf8->encode ($data);
+  }
+}
 
 {
   my $f = $current_d->file ('junior-colleges.json');
