@@ -40,7 +40,7 @@ sub parse_text ($) {
       my $name = $2;
       my $level = length $1;
       my $wikipedia_name;
-      next if $name =~ /^(?:北学区は、|第I+類は|なお、|..学区|近々|\[\[専門学科\]\]と|よって|以下、|「|平成\d+年|これ以外の|県内の|\d+年度|-->$)/;
+      next if $name =~ /^(?:北学区は、|第I+類は|なお、|..学区|近々|\[\[専門学科\]\]と|よって|以下、|「|平成\d+年|これ以外の|県内の|\d+年度|-->$|※)/;
       next if $name =~ /存在しない/;
       next if $name eq 'なし';
       $name =~ s/^\s*[^\[\]]+学[園院館]\[\[/\[\[/;
@@ -66,10 +66,11 @@ sub parse_text ($) {
       s/｛.*?｝// for $name;
       s/（.*?）// for $name;
       s/\s*\((.*?キャンパス)\)/$1/ for $name;
+      $name =~ s/\[\[([^\|\[\]]+)\|([^\|\[\]]+)\]\]/$2/g;
       $name =~ s/\s+/ /g;
       $name =~ s/^ //;
       $name =~ s/ $//;
-      if ($name =~ /^[^学校]+分校$|^[^学校]{2,3}校$/ and $level > 1 and $prev_name) {
+      if ($name =~ /^[^学校]+分(?:校|教室)$|^[^学校]{2,3}校$|^高等部$|^[^学校]+高校分教室$|^小学部[^学校]+分教室$/ and $level > 1 and $prev_name) {
         $name = $prev_name . $name;
       } else {
         $prev_name = $name;
@@ -93,6 +94,8 @@ sub parse_text ($) {
           その他(?:の専門学科高校)?|
           (?:地区|県内)全域から受験可能な学校|普通科高等学校|分校|専門(?:高校|学科)|
           公立・私立高等学校|
+          [^学立]+立特別支援学校|(?:視覚|聴覚|特別)?支援学校|
+          旧?(?:養護学校|ろう学校|聾学校|盲学校)|
           工業・工科高校|
           [商農]業高校|
           [商農工]業高等学校|
@@ -163,6 +166,14 @@ sub parse_text ($) {
       my $v_mode;
       if ($name =~ /中等教育学校[^校]*$/) {
         $v_mode = 'high_schools';
+      } elsif ($name =~ /
+        (?:支援学校|養護学校|ろう学校|聾学校|盲学校)
+          (?:小学部|高等部)?
+          (?:[^学校]+(?:学園|校|分教室|高校分教室|学園内教室|学園分[室校]|大学(?:医学部)?[^学校]+?(?:分(?:校|教室)|院内学級)|校舎|分校[^学校]+分教室|分級|学園[^学校]+分校|院内学級))?$|
+        聾話学校$|都立.+?学園$|区立.+?学校$|^特別支援学校|訓盲学院|
+        ことばの?教室
+      /x) {
+        $v_mode = 'special_schools';
       } elsif ($name =~ /高等学校[^校]*(?:分校|校舎|校地)?$|高等(?:科|部|学[院部])$/) {
         $v_mode = 'senior_high_schools';
       } elsif ($name =~ /高等学校[^学校分院科園]+校$/) {
@@ -183,6 +194,8 @@ sub parse_text ($) {
           '明倫館学院' => '_', # サポート校 (Source: Wikipedia)
           '大垣文化総合専門学校' => '_', # 連携校 (Source: Wikipedia)
           '首都大学東京' => 'univs',
+          '福岡県立北九州高等学園' => 'special_schools', # Source: Web site
+          '福岡県立福岡高等学園' => 'special_schools', # Source: Web site
         }->{$name} || 'misc_schools';
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
@@ -193,7 +206,7 @@ sub parse_text ($) {
       s/（.*?）// for $name;
       $headings = [@$headings[0..($level - 1)], $name];
       splice @$headings, $level + 1, $#$headings - $level - 1, ();
-      undef $mode if $name =~ /関連|外部|リンク|改称した|再編|広域通信制の学習センター等|サポート校|通称|かつて|特記事項/;
+      undef $mode if $name =~ /関連|外部|リンク|改称した|再編|広域通信制の学習センター等|サポート校|通称|かつて|特記事項|廃校/;
     } elsif ($t =~ /^'''\s*(.+?)\s*'''\s*$/) {
       my $level = 7;
       my $name = $1;
@@ -210,7 +223,7 @@ sub as_hashref ($) {
   my $r = {};
   for (qw(
     high_schools senior_high_schools tech_colleges junior_colleges
-    univs graduate_schools misc_schools
+    univs graduate_schools misc_schools special_schools
   )) {
     $r->{$_} = $self->{$_} if $self->{$_};
   }
