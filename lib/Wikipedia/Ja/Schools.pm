@@ -75,29 +75,86 @@ sub parse_text ($) {
       } else {
         $prev_name = $name;
       }
-      if ($name =~ /中学校・高等学校$/) {
+      if ($name =~ /小学校・中学校・高等学校$|初等部・中等部・高等部$/) {
         my $title = $self->title;
         if ($title =~ /中学校/) {
-          $name =~ s/高等学校$//;
+          $name =~ s/小学校・中学校・高等学校$/中学校/;
+          $name =~ s/初等部・中等部・高等部$/中等部/;
+        } elsif ($title =~ /小学校/) {
+          $name =~ s/小学校・中学校・高等学校$/小学校/;
+          $name =~ s/初等部・中等部・高等部$/初等部/;
         } elsif ($title =~ /高等学校/) {
-          $name =~ s/中学校・高等学校$/高等学校/;
+          $name =~ s/小学校・中学校・高等学校$/高等学校/;
+          $name =~ s/初等部・中等部・高等部$/高等部/;
         }
-      } elsif ($name eq '尚学館中学校・高等部') {
+      } elsif ($name =~ /小学校・中学校$|初等部・中等部$/) {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name =~ s/小学校・中学校$/中学校/;
+          $name =~ s/初等部・中等部$/中等部/;
+        } elsif ($title =~ /小学校/) {
+          $name =~ s/小学校・中学校$/小学校/;
+          $name =~ s/初等部・中等部$/初等部/;
+        }
+      } elsif ($name =~ /中[学等](?:校|部|)・高等(?:学校|部)$/) {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name =~ s/中学校?・高等(?:学校|部)$/中学校/;
+          $name =~ s/中等部・高等(?:学校|部)$/中等部/;
+        } elsif ($title =~ /高等学校/) {
+          $name =~ s/中学(?:校|部|)・(高等(?:学校|部))$/$1/;
+        }
+      } elsif ($name =~ /高等学校・附属中学校$/) {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name =~ s/高等学校・附属中学校$/附属中学校/;
+        } elsif ($title =~ /高等学校/) {
+          $name =~ s/高等学校・附属中学校$/高等学校/;
+        }
+      } elsif ($name =~ /中学校・[^高等学校]+高等学校$/) {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name =~ s/中学校・.+?$/中学校/;
+        } elsif ($title =~ /高等学校/) {
+          $name =~ s/(立)[^中学校]+中学校・([^高等学校]+)高等学校$/$1$2高等学校/;
+        }
+      } elsif ($name eq '広島三育学院高等学校・中学校・大和小学校') {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name = '広島三育学院中学校';
+        } elsif ($title =~ /小学校/) {
+          $name = '広島三育学院大和小学校';
+        } elsif ($title =~ /高等学校/) {
+          $name = '広島三育学院高等学校';
+        }
+      } elsif ($name eq '早稲田実業学校') {
         ## Source: Web site
         my $title = $self->title;
-        if ($title =~ /中学校/) {
-          $name = '尚学館中学校';
-        } elsif ($title =~ /高等学校/) {
-          $name = '尚学館高等部';
+        $name = '早稲田大学系属' . $name;
+        if ($title =~ /高等学校/) {
+          $name .= '高等部';
+        } elsif ($title =~ /中学校/) {
+          $name .= '中等部';
+        } elsif ($title =~ /小学校/) {
+          $name .= '初等部';
         }
-      } elsif ($name eq '佐賀県立香楠中学校・鳥栖高等学校') {
+      } elsif ($name eq '箕面市立止々呂美小中一貫校') {
+        ## Source: Web site.
         my $title = $self->title;
         if ($title =~ /中学校/) {
-          $name = '佐賀県立香楠中学校';
-        } elsif ($title =~ /高等学校/) {
-          $name = '佐賀県立鳥栖高等学校';
+          $name = '箕面市立とどろみの森学園 (箕面市立止々呂美中学校)';
+        } elsif ($title =~ /小学校/) {
+          $name = '箕面市立とどろみの森学園 (箕面市立止々呂美小学校)';
         }
       }
+      $name = {
+        '鹿児島育英館高等部' => '鹿児島育英館高等学校', # Source: Web site
+        'ウィングハイスクール' => '日本航空高等学校通信制課程', # Source: Wikipedia
+        'クラ・ゼミ 輝高等学院・[[クラ・ゼミ 輝高等学校]]浜松校' => 'クラ・ゼミ 輝高等学校浜松校',
+        '尾山台高等学校' => '藤花学園尾山台高等学校', # Source: Wikipedia
+        '古川学園' => '向陽台高等学校古川学園キャンパス', # Source: Web site
+        '法政大学第二中' => '法政大学第二中学校', # Source: Web site
+      }->{$name} || $name;
       next if $name =~ /^.{2,3}学区$/;
       if ($name =~ /・/) {
         warn "Name with \"・\": |$name|\n";
@@ -105,18 +162,27 @@ sub parse_text ($) {
 
       my $props = {};
       for (grep {$_} @$headings) {
-        if (/^([国都道府県公市区町村私]立)(?:高等学校|中等教育学校)?$/) {
-          $props->{owner_type} = $1;
-          if ($props->{owner_type} eq '公立') {
+        if (/^
+          ([国都道府県公市区町村私]立|市町村立|市・町・組合立)
+          (?:中学校|高等学校|中等教育学校(?:及び県立中学校)?|中学校(?:及び|および)中等教育学校|中高一貫校)?
+        $/x) {
+          $props->{owner_type} = $1 if 2 == length $1;
+          if (not $props->{owner_type} or $props->{owner_type} eq '公立') {
             if ($name =~ /([県市区町村]立)/) {
               $props->{owner_type} = $1;
             }
           }
+        } elsif (/^組合立中学校$/) {
+          $props->{owner_type} = '組合';
+        } elsif (/^北海道立$/) {
+          $props->{owner_type} = '道立';
         } elsif (/(?:学区|通学圏)$/) {
           $props->{school_area} = $_;
-        } elsif (/[都道府県市郡区町村]$/) {
-          $props->{location_area} = $_;
+          $props->{school_area} =~ s/^.+課程・//;
+        } elsif (/^(.+?[都道府県市郡区町村])(?: \(..国\))?$/) {
+          $props->{location_area} = $1;
         } elsif (/^(?:
+          町村立中学校|岩手県立|東京都立|宮崎市立|宮崎県立|都城市立|
           (?:市町村|府|組合)立高等学校|
           その他(?:の専門学科高校)?|
           (?:地区|県内)全域から受験可能な学校|普通科高等学校|分校|専門(?:高校|学科)|
@@ -143,7 +209,7 @@ sub parse_text ($) {
           定時制・通信制のみ設置|定時制・通信制|定時制・通信制両課程を置く高校|
           高等専修学校|短期大学|
           男子校|女子校|共学校|
-          名古屋市内|三河[東西]部|尾張[東西]部|知多|渥美|
+          名古屋市内|三河(?:[東西]部)?|尾張(?:[東西]部)?|知多|渥美|島嶼部|
           九州・沖縄県\|沖縄|近畿|中部|関東|東北|中国|四国|
           地域別の一覧|
           .*と合併する.*
@@ -156,24 +222,6 @@ sub parse_text ($) {
       if ($name =~ /高等学校[^学校]+([市町村][立])[^学校]+校$/) {
         $props->{owner_type} = $1;
       }
-      if ($name eq '早稲田実業学校') { # Source: Web site
-        my $title = $self->title;
-        $name = '早稲田大学系属' . $name;
-        if ($title =~ /高等学校/) {
-          $name .= '高等部';
-        } elsif ($title =~ /中学校/) {
-          $name .= '中等部';
-        } elsif ($title =~ /小学校/) {
-          $name .= '初等部';
-        }
-      }
-      $name = {
-          '鹿児島育英館高等部' => '鹿児島育英館高等学校', # Source: Web site
-          'ウィングハイスクール' => '日本航空高等学校通信制課程', # Source: Wikipedia
-          'クラ・ゼミ 輝高等学院・[[クラ・ゼミ 輝高等学校]]浜松校' => 'クラ・ゼミ 輝高等学校浜松校',
-          '尾山台高等学校' => '藤花学園尾山台高等学校', # Source: Wikipedia
-          '古川学園' => '向陽台高等学校古川学園キャンパス', # Source: Web site
-      }->{$name} || $name;
       $props->{wikipedia_name} = $wikipedia_name
           if $wikipedia_name and $name ne $wikipedia_name;
 
@@ -189,11 +237,20 @@ sub parse_text ($) {
         '藤花学園尾山台高等学校' => '尾山台高校',
         '大多和学園 開星中学校' => '開星中学校',
         '大多和学園 開星高等学校' => '開星高校',
+        '箕面市立とどろみの森学園 (箕面市立止々呂美中学校)' => 'とどろみの森学園',
+        '箕面市立とどろみの森学園 (箕面市立止々呂美小学校)' => 'とどろみの森学園',
       }->{$name} || $short_name;
       $props->{short_name} = $short_name if $name ne $short_name;
 
       my $v_mode;
-      if ($name =~ /中等教育学校[^校]*$/) {
+      if ($name =~ /
+        (?:中学[校部]|中等[部科])
+        (?:[^学校]+(?:分[校室]|学園分校|校舎?)|夜間学級|二部|特学分校|男子部|女子部)?
+      $/x) {
+        $v_mode = 'junior_high_schools';
+      } elsif ($name =~ /小中一貫校..学園$/) {
+        $v_mode = 'primary_and_secondary_schools';
+      } elsif ($name =~ /中等教育学校[^校]*$/) {
         $v_mode = 'high_schools';
       } elsif ($name =~ /
         (?:支援学校|養護学校|ろう学校|聾学校|盲学校)
@@ -217,14 +274,20 @@ sub parse_text ($) {
         $v_mode = 'univs';
       } else {
         $v_mode = {
-          '国立唐津海上技術学校' => 'senior_high_school', # Source: Web site
-          '向陽橘香館' => 'senior_high_school', # Source: Web site
+          '国立唐津海上技術学校' => 'senior_high_schools', # Source: Web site
+          '向陽橘香館' => 'senior_high_schools', # Source: Web site
           '九州国際高等学園' => '_', # 高等専修学校 (Source: Wikipedia)
           '明倫館学院' => '_', # サポート校 (Source: Wikipedia)
           '大垣文化総合専門学校' => '_', # 連携校 (Source: Wikipedia)
           '首都大学東京' => 'univs',
           '福岡県立北九州高等学園' => 'special_schools', # Source: Web site
           '福岡県立福岡高等学園' => 'special_schools', # Source: Web site
+          '札幌市立東米里小・中学校ひまわり分校' => 'primary_and_secondary_schools',
+          '鴨川市立長狭学園' => 'primary_and_secondary_schools', # Source: Web site
+          '箕面市立とどろみの森学園 (箕面市立止々呂美中学校)' => 'junior_high_schools',
+          '箕面市立とどろみの森学園 (箕面市立止々呂美小学校)' => 'elementary_schools',
+          '八王子市立高尾山学園' => 'primary_and_secondary_schools', # Source: Web site
+          '慶應義塾普通部' => 'junior_high_schools', # Source: Web site
         }->{$name} || 'misc_schools';
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
@@ -251,6 +314,7 @@ sub as_hashref ($) {
   my $self = shift;
   my $r = {};
   for (qw(
+    junior_high_schools
     high_schools senior_high_schools tech_colleges junior_colleges
     univs graduate_schools misc_schools special_schools
   )) {

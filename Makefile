@@ -3,6 +3,7 @@ JA_CURRENT_XML = cache/xml/jawiki-latest-pages-meta-current.xml
 ROOTDIR = .
 BINDIR = $(ROOTDIR)/bin
 PREPARE_CACHES_BY_PATTERN = perl $(BINDIR)/prepare-caches-by-pattern.pl
+EXTRACT_JP_JUNIOR_HIGH_SCHOOLS = perl $(BINDIR)/extract-jp-junior-high-schools.pl
 EXTRACT_JP_SENIOR_HIGH_SCHOOLS = perl $(BINDIR)/extract-jp-senior-high-schools.pl
 EXTRACT_JP_TECH_COLLEGES = perl $(BINDIR)/extract-jp-tech-colleges.pl
 EXTRACT_JP_UNIVS = perl $(BINDIR)/extract-jp-univs.pl
@@ -22,8 +23,13 @@ $(JA_CURRENT_XML).bz2:
 	-mkdir cache/xml
 	wget -O $@ http://download.wikimedia.org/jawiki/latest/jawiki-latest-pages-meta-current.xml.bz2
 
-schools: list-senior-high-schools list-senior-tech-colleges list-univs \
+schools: \
+    list-junior-high-schools list-senior-high-schools \
+    list-senior-tech-colleges list-univs \
     list-special-schools
+
+list-junior-high-schools:
+	$(EXTRACT_JP_JUNIOR_HIGH_SCHOOLS)
 
 list-senior-high-schools:
 	$(EXTRACT_JP_SENIOR_HIGH_SCHOOLS)
@@ -37,7 +43,13 @@ list-univs:
 list-special-schools:
 	$(EXTRACT_JP_SPECIAL_SCHOOLS)
 
-schools-cache: cache-senior-high-schools cache-tech-colleges cache-univs
+schools-cache: \
+    cache-junior-high-schools cache-senior-high-schools \
+    cache-tech-colleges cache-univs
+
+cache-junior-high-schools: #$(JA_CURRENT_XML)
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)中学校一覧' <\
+	    $(JA_CURRENT_XML)
 
 cache-senior-high-schools: #$(JA_CURRENT_XML)
 	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)高等学校一覧' <\
