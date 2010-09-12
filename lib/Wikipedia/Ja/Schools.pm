@@ -167,11 +167,13 @@ sub parse_text ($) {
           (?:中学校|高等学校|中等教育学校(?:及び県立中学校)?|中学校(?:及び|および)中等教育学校|中高一貫校)?
         $/x) {
           $props->{owner_type} = $1 if 2 == length $1;
-          if (not $props->{owner_type} or $props->{owner_type} eq '公立') {
+          ## Note that "国立中学校及び中等教育学校" means "either national
+          ## junior high school, or high school".
+          #if (not $props->{owner_type} or $props->{owner_type} eq '公立') {
             if ($name =~ /([県市区町村]立)/) {
               $props->{owner_type} = $1;
             }
-          }
+          #}
         } elsif (/^組合立中学校$/) {
           $props->{owner_type} = '組合';
         } elsif (/^北海道立$/) {
