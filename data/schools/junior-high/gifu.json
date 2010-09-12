@@ -1,0 +1,988 @@
+{
+   "junior_high_schools" : {
+      "七宗町立上麻生中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "上麻生中学校"
+      },
+      "七宗町立神渕中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "神渕中学校"
+      },
+      "下呂市立下呂中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "下呂中学校"
+      },
+      "下呂市立小坂中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "小坂中学校"
+      },
+      "下呂市立竹原中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "竹原中学校"
+      },
+      "下呂市立萩原北中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "萩原北中学校"
+      },
+      "下呂市立萩原南中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "萩原南中学校"
+      },
+      "下呂市立金山中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "金山中学校"
+      },
+      "下呂市立馬瀬中学校" : {
+         "location_area" : "下呂市",
+         "owner_type" : "市立",
+         "short_name" : "馬瀬中学校"
+      },
+      "中津川市立付知中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "付知中学校"
+      },
+      "中津川市立加子母中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "加子母中学校"
+      },
+      "中津川市立坂下中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "坂下中学校"
+      },
+      "中津川市立坂本中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "坂本中学校"
+      },
+      "中津川市立神坂中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "神坂中学校"
+      },
+      "中津川市立福岡中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "福岡中学校"
+      },
+      "中津川市立第一中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "中津川市立第二中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "中津川市立苗木中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "苗木中学校"
+      },
+      "中津川市立落合中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "落合中学校"
+      },
+      "中津川市立蛭川中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "蛭川中学校"
+      },
+      "中津川市立阿木中学校" : {
+         "location_area" : "中津川市",
+         "owner_type" : "市立",
+         "short_name" : "阿木中学校"
+      },
+      "八百津町立八百津中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "八百津中学校"
+      },
+      "八百津町立八百津東部中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "八百津東部中学校"
+      },
+      "北方町立北方中学校" : {
+         "location_area" : "本巣郡",
+         "owner_type" : "町立",
+         "short_name" : "北方中学校"
+      },
+      "可児市御嵩町中学校組合立共和中学校" : {
+         "location_area" : "可児郡",
+         "owner_type" : "組合"
+      },
+      "可児市立中部中学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "市立",
+         "short_name" : "中部中学校"
+      },
+      "可児市立広陵中学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "市立",
+         "short_name" : "広陵中学校"
+      },
+      "可児市立東可児中学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "市立",
+         "short_name" : "東可児中学校"
+      },
+      "可児市立蘇南中学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "市立",
+         "short_name" : "蘇南中学校"
+      },
+      "可児市立西可児中学校" : {
+         "location_area" : "可児市",
+         "owner_type" : "市立",
+         "short_name" : "西可児中学校"
+      },
+      "各務原市立中央中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "各務原市立川島中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "川島中学校"
+      },
+      "各務原市立桜丘中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "桜丘中学校"
+      },
+      "各務原市立稲羽中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "稲羽中学校"
+      },
+      "各務原市立緑陽中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "緑陽中学校"
+      },
+      "各務原市立蘇原中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "蘇原中学校"
+      },
+      "各務原市立那加中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "那加中学校"
+      },
+      "各務原市立鵜沼中学校" : {
+         "location_area" : "各務原市",
+         "owner_type" : "市立",
+         "short_name" : "鵜沼中学校"
+      },
+      "土岐市立土岐津中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "土岐津中学校"
+      },
+      "土岐市立泉中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "泉中学校"
+      },
+      "土岐市立濃南中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "濃南中学校"
+      },
+      "土岐市立肥田中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "肥田中学校"
+      },
+      "土岐市立西陵中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "西陵中学校"
+      },
+      "土岐市立駄知中学校" : {
+         "location_area" : "土岐市",
+         "owner_type" : "市立",
+         "short_name" : "駄知中学校"
+      },
+      "坂祝町立坂祝中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "坂祝中学校"
+      },
+      "垂井町立不破中学校" : {
+         "location_area" : "不破郡",
+         "owner_type" : "町立",
+         "short_name" : "不破中学校"
+      },
+      "垂井町立北中学校" : {
+         "location_area" : "不破郡",
+         "owner_type" : "町立",
+         "short_name" : "北中学校"
+      },
+      "多治見市立北陵中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "北陵中学校"
+      },
+      "多治見市立南ヶ丘中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "南ヶ丘中学校"
+      },
+      "多治見市立南姫中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "南姫中学校"
+      },
+      "多治見市立多治見中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "多治見中学校"
+      },
+      "多治見市立小泉中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "小泉中学校"
+      },
+      "多治見市立平和中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "平和中学校"
+      },
+      "多治見市立笠原中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "笠原中学校"
+      },
+      "多治見市立陶都中学校" : {
+         "location_area" : "多治見市",
+         "owner_type" : "市立",
+         "short_name" : "陶都中学校"
+      },
+      "多治見西高等学校附属中学校" : {
+         "owner_type" : "私立",
+         "short_name" : "多治見西高校附属中学校"
+      },
+      "大垣市立上石津中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "上石津中学校"
+      },
+      "大垣市立北中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "北中学校"
+      },
+      "大垣市立南中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "大垣市立星和中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "星和中学校"
+      },
+      "大垣市立東中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "大垣市立江並中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "江並中学校"
+      },
+      "大垣市立興文中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "興文中学校"
+      },
+      "大垣市立西中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "大垣市立西部中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "西部中学校"
+      },
+      "大垣市立赤坂中学校" : {
+         "location_area" : "大垣市",
+         "owner_type" : "市立",
+         "short_name" : "赤坂中学校"
+      },
+      "大野町立大野中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "大野中学校"
+      },
+      "大野町立大野中学校大野分校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "大野中学校大野分校"
+      },
+      "大野町立揖東中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "揖東中学校"
+      },
+      "安八町大垣市学校組合立東安中学校" : {
+         "location_area" : "安八郡",
+         "owner_type" : "組合"
+      },
+      "安八町立登龍中学校" : {
+         "location_area" : "安八郡",
+         "owner_type" : "町立",
+         "short_name" : "登龍中学校"
+      },
+      "山県市立伊自良中学校" : {
+         "location_area" : "山県市",
+         "owner_type" : "市立",
+         "short_name" : "伊自良中学校"
+      },
+      "山県市立美山中学校" : {
+         "location_area" : "山県市",
+         "owner_type" : "市立",
+         "short_name" : "美山中学校"
+      },
+      "山県市立高富中学校" : {
+         "location_area" : "山県市",
+         "owner_type" : "市立",
+         "short_name" : "高富中学校"
+      },
+      "岐南町立岐南中学校" : {
+         "location_area" : "羽島郡",
+         "owner_type" : "町立",
+         "short_name" : "岐南中学校"
+      },
+      "岐阜大学教育学部附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "岐阜市立三輪中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "三輪中学校"
+      },
+      "岐阜市立伊奈波中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "伊奈波中学校"
+      },
+      "岐阜市立加納中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "加納中学校"
+      },
+      "岐阜市立厚見中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "厚見中学校"
+      },
+      "岐阜市立境川中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "境川中学校"
+      },
+      "岐阜市立岐北中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "岐北中学校"
+      },
+      "岐阜市立岐阜西中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "岐阜西中学校"
+      },
+      "岐阜市立岩野田中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "岩野田中学校"
+      },
+      "岐阜市立島中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "島中学校"
+      },
+      "岐阜市立明郷中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "明郷中学校"
+      },
+      "岐阜市立本荘中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "本荘中学校"
+      },
+      "岐阜市立東長良中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "東長良中学校"
+      },
+      "岐阜市立梅林中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "梅林中学校"
+      },
+      "岐阜市立精華中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "精華中学校"
+      },
+      "岐阜市立藍川中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "藍川中学校"
+      },
+      "岐阜市立藍川北中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "藍川北中学校"
+      },
+      "岐阜市立藍川東中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "藍川東中学校"
+      },
+      "岐阜市立長森中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "長森中学校"
+      },
+      "岐阜市立長森南中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "長森南中学校"
+      },
+      "岐阜市立長良中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "長良中学校"
+      },
+      "岐阜市立陽南中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "陽南中学校"
+      },
+      "岐阜市立青山中学校" : {
+         "location_area" : "岐阜市",
+         "owner_type" : "市立",
+         "short_name" : "青山中学校"
+      },
+      "岐阜東中学校" : {
+         "owner_type" : "私立"
+      },
+      "岐阜聖徳学園大学附属中学校" : {
+         "owner_type" : "私立"
+      },
+      "川辺町立川辺中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "川辺中学校"
+      },
+      "帝京大学可児中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "帝京大学可児高等学校中学校"
+      },
+      "御嵩町立上之郷中学校" : {
+         "location_area" : "可児郡",
+         "owner_type" : "町立",
+         "short_name" : "上之郷中学校"
+      },
+      "御嵩町立向陽中学校" : {
+         "location_area" : "可児郡",
+         "owner_type" : "町立",
+         "short_name" : "向陽中学校"
+      },
+      "恵那市立上矢作中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "上矢作中学校"
+      },
+      "恵那市立串原中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "串原中学校"
+      },
+      "恵那市立山岡中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "山岡中学校"
+      },
+      "恵那市立岩邑中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "岩邑中学校"
+      },
+      "恵那市立恵那北中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "恵那北中学校"
+      },
+      "恵那市立恵那東中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "恵那東中学校"
+      },
+      "恵那市立恵那西中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "恵那西中学校"
+      },
+      "恵那市立明智中学校" : {
+         "location_area" : "恵那市",
+         "owner_type" : "市立",
+         "short_name" : "明智中学校"
+      },
+      "揖斐川町立久瀬中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "久瀬中学校"
+      },
+      "揖斐川町立北和中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "北和中学校"
+      },
+      "揖斐川町立坂内中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "坂内中学校"
+      },
+      "揖斐川町立揖斐川中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "揖斐川中学校"
+      },
+      "揖斐川町立春日中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "春日中学校"
+      },
+      "揖斐川町立谷汲中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "谷汲中学校"
+      },
+      "本巣市立本巣中学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "市立",
+         "short_name" : "本巣中学校"
+      },
+      "本巣市立根尾中学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "市立",
+         "short_name" : "根尾中学校"
+      },
+      "本巣市立真正中学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "市立",
+         "short_name" : "真正中学校"
+      },
+      "本巣市立糸貫中学校" : {
+         "location_area" : "本巣市",
+         "owner_type" : "市立",
+         "short_name" : "糸貫中学校"
+      },
+      "東白川村立東白川中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "村立",
+         "short_name" : "東白川中学校"
+      },
+      "池田町立池田中学校" : {
+         "location_area" : "揖斐郡",
+         "owner_type" : "町立",
+         "short_name" : "池田中学校",
+         "wikipedia_name" : "池田町立池田中学校 (岐阜県)"
+      },
+      "海津市立南濃中学校" : {
+         "location_area" : "海津市",
+         "owner_type" : "市立",
+         "short_name" : "南濃中学校"
+      },
+      "海津市立城南中学校" : {
+         "location_area" : "海津市",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "海津市立平田中学校" : {
+         "location_area" : "海津市",
+         "owner_type" : "市立",
+         "short_name" : "平田中学校"
+      },
+      "海津市立日新中学校" : {
+         "location_area" : "海津市",
+         "owner_type" : "市立",
+         "short_name" : "日新中学校"
+      },
+      "瑞浪市立日吉中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "日吉中学校"
+      },
+      "瑞浪市立瑞浪中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "瑞浪中学校"
+      },
+      "瑞浪市立瑞陵中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "瑞陵中学校"
+      },
+      "瑞浪市立稲津中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "稲津中学校"
+      },
+      "瑞浪市立釜戸中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "釜戸中学校"
+      },
+      "瑞浪市立陶中学校" : {
+         "location_area" : "瑞浪市",
+         "owner_type" : "市立",
+         "short_name" : "陶中学校"
+      },
+      "瑞穂市立巣南中学校" : {
+         "location_area" : "瑞穂市",
+         "owner_type" : "市立",
+         "short_name" : "巣南中学校"
+      },
+      "瑞穂市立穂積中学校" : {
+         "location_area" : "瑞穂市",
+         "owner_type" : "市立",
+         "short_name" : "穂積中学校"
+      },
+      "瑞穂市立穂積北中学校" : {
+         "location_area" : "瑞穂市",
+         "owner_type" : "市立",
+         "short_name" : "穂積北中学校"
+      },
+      "白川村立白川中学校" : {
+         "location_area" : "大野郡",
+         "owner_type" : "村立",
+         "short_name" : "白川中学校"
+      },
+      "白川町立佐見中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "佐見中学校"
+      },
+      "白川町立白川中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "白川中学校"
+      },
+      "白川町立黒川中学校" : {
+         "location_area" : "加茂郡",
+         "owner_type" : "町立",
+         "short_name" : "黒川中学校"
+      },
+      "神戸町立神戸中学校" : {
+         "location_area" : "安八郡",
+         "owner_type" : "町立",
+         "short_name" : "神戸中学校"
+      },
+      "笠松町立笠松中学校" : {
+         "location_area" : "羽島郡",
+         "owner_type" : "町立",
+         "short_name" : "笠松中学校"
+      },
+      "美濃加茂中学校" : {
+         "owner_type" : "私立"
+      },
+      "美濃加茂市富加町中学校組合立双葉中学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "組合"
+      },
+      "美濃加茂市立東中学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "美濃加茂市立西中学校" : {
+         "location_area" : "美濃加茂市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "美濃市立昭和中学校" : {
+         "location_area" : "美濃市",
+         "owner_type" : "市立",
+         "short_name" : "昭和中学校"
+      },
+      "美濃市立美濃中学校" : {
+         "location_area" : "美濃市",
+         "owner_type" : "市立",
+         "short_name" : "美濃中学校"
+      },
+      "美濃市立美濃北中学校" : {
+         "location_area" : "美濃市",
+         "owner_type" : "市立",
+         "short_name" : "美濃北中学校"
+      },
+      "羽島市立中央中学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "羽島市立中島中学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "市立",
+         "short_name" : "中島中学校"
+      },
+      "羽島市立桑原中学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "市立",
+         "short_name" : "桑原中学校"
+      },
+      "羽島市立竹鼻中学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "市立",
+         "short_name" : "竹鼻中学校"
+      },
+      "羽島市立羽島中学校" : {
+         "location_area" : "羽島市",
+         "owner_type" : "市立",
+         "short_name" : "羽島中学校"
+      },
+      "聖マリア女学院中学校" : {
+         "owner_type" : "私立"
+      },
+      "輪之内町立輪之内中学校" : {
+         "location_area" : "安八郡",
+         "owner_type" : "町立",
+         "short_name" : "輪之内中学校"
+      },
+      "郡上市立八幡中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "八幡中学校"
+      },
+      "郡上市立八幡西中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "八幡西中学校"
+      },
+      "郡上市立和良中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "和良中学校"
+      },
+      "郡上市立大和中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "大和中学校"
+      },
+      "郡上市立明宝中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "明宝中学校"
+      },
+      "郡上市立白鳥中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "白鳥中学校"
+      },
+      "郡上市立西和良中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "西和良中学校"
+      },
+      "郡上市立郡南中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "郡南中学校"
+      },
+      "郡上市立高鷲中学校" : {
+         "location_area" : "郡上市",
+         "owner_type" : "市立",
+         "short_name" : "高鷲中学校"
+      },
+      "関ケ原町立今須小中学校" : {
+         "location_area" : "不破郡",
+         "owner_type" : "町立",
+         "short_name" : "今須小中学校"
+      },
+      "関ケ原町立関ヶ原中学校" : {
+         "location_area" : "不破郡",
+         "owner_type" : "町立",
+         "short_name" : "関ヶ原中学校"
+      },
+      "関市立上之保中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "上之保中学校"
+      },
+      "関市立下有知中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "下有知中学校"
+      },
+      "関市立富野中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "富野中学校"
+      },
+      "関市立小金田中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "小金田中学校"
+      },
+      "関市立旭ケ丘中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "旭ケ丘中学校"
+      },
+      "関市立板取中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "板取中学校"
+      },
+      "関市立桜ケ丘中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "桜ケ丘中学校"
+      },
+      "関市立武儀中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "武儀中学校"
+      },
+      "関市立武芸川中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "武芸川中学校"
+      },
+      "関市立洞戸中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "洞戸中学校"
+      },
+      "関市立緑ヶ丘中学校" : {
+         "location_area" : "関市",
+         "owner_type" : "市立",
+         "short_name" : "緑ヶ丘中学校"
+      },
+      "飛騨市立古川中学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "市立",
+         "short_name" : "古川中学校"
+      },
+      "飛騨市立宮川中学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "市立",
+         "short_name" : "宮川中学校"
+      },
+      "飛騨市立山之村中学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "市立",
+         "short_name" : "山之村中学校"
+      },
+      "飛騨市立河合中学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "市立",
+         "short_name" : "河合中学校"
+      },
+      "飛騨市立神岡中学校" : {
+         "location_area" : "飛騨市",
+         "owner_type" : "市立",
+         "short_name" : "神岡中学校"
+      },
+      "養老町立東部中学校" : {
+         "location_area" : "養老郡",
+         "owner_type" : "町立",
+         "short_name" : "東部中学校"
+      },
+      "養老町立高田中学校" : {
+         "location_area" : "養老郡",
+         "owner_type" : "町立",
+         "short_name" : "高田中学校"
+      },
+      "高山市立中山中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "中山中学校"
+      },
+      "高山市立丹生川中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "丹生川中学校"
+      },
+      "高山市立久々野中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "久々野中学校"
+      },
+      "高山市立北稜中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "北稜中学校"
+      },
+      "高山市立国府中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "国府中学校"
+      },
+      "高山市立宮中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "宮中学校"
+      },
+      "高山市立日枝中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "日枝中学校"
+      },
+      "高山市立朝日中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "朝日中学校"
+      },
+      "高山市立東山中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "東山中学校"
+      },
+      "高山市立松倉中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "松倉中学校"
+      },
+      "高山市立清見中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "清見中学校"
+      },
+      "高山市立荘川中学校" : {
+         "location_area" : "高山市",
+         "owner_type" : "市立",
+         "short_name" : "荘川中学校"
+      },
+      "鶯谷中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "鶯谷中学・高等学校"
+      },
+      "麗澤瑞浪中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "麗澤瑞浪中学校・高等学校"
+      }
+   }
+}

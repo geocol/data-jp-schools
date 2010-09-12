@@ -1,0 +1,4031 @@
+{
+   "high_schools" : {
+      "千代田区立九段中等教育学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "区立",
+         "short_name" : "九段中等教育学校"
+      },
+      "東京大学教育学部附属中等教育学校" : {
+         "owner_type" : "国立"
+      },
+      "東京学芸大学附属国際中等教育学校" : {
+         "owner_type" : "国立"
+      },
+      "東京都立三鷹中等教育学校" : {
+         "owner_type" : "公立",
+         "short_name" : "三鷹中等教育学校"
+      },
+      "東京都立南多摩中等教育学校" : {
+         "owner_type" : "公立",
+         "short_name" : "南多摩中等教育学校"
+      },
+      "東京都立小石川中等教育学校" : {
+         "owner_type" : "公立",
+         "short_name" : "小石川中等教育学校"
+      },
+      "東京都立桜修館中等教育学校" : {
+         "owner_type" : "公立",
+         "short_name" : "桜修館中等教育学校"
+      },
+      "東京都立立川国際中等教育学校" : {
+         "owner_type" : "公立",
+         "short_name" : "立川国際中等教育学校"
+      }
+   },
+   "junior_high_schools" : {
+      "あきる野市立五日市中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "五日市中学校"
+      },
+      "あきる野市立増戸中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "増戸中学校"
+      },
+      "あきる野市立御堂中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "御堂中学校"
+      },
+      "あきる野市立東中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "あきる野市立秋多中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "秋多中学校"
+      },
+      "あきる野市立西中学校" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "お茶の水女子大学附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "かえつ有明中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "かえつ有明中学校・高等学校"
+      },
+      "サレジオ中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "サレジオ小学校・中学校"
+      },
+      "トキワ松学園中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "トキワ松学園中学校・高等学校"
+      },
+      "三宅村立三宅中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "三宅中学校"
+      },
+      "三輪田学園中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "三輪田学園中学校・高等学校"
+      },
+      "三鷹市立第一中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "三鷹市立第七中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第七中学校"
+      },
+      "三鷹市立第三中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "三鷹市立第二中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "三鷹市立第五中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "三鷹市立第六中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "三鷹市立第四中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "上野学園中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "上野学園中学校・高等学校"
+      },
+      "世田谷区立三宿中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "三宿中学校"
+      },
+      "世田谷区立上祖師谷中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "上祖師谷中学校"
+      },
+      "世田谷区立八幡中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "八幡中学校"
+      },
+      "世田谷区立北沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "北沢中学校"
+      },
+      "世田谷区立千歳中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "千歳中学校"
+      },
+      "世田谷区立喜多見中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "喜多見中学校"
+      },
+      "世田谷区立太子堂中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "太子堂中学校"
+      },
+      "世田谷区立奥沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "奥沢中学校"
+      },
+      "世田谷区立富士中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "富士中学校"
+      },
+      "世田谷区立尾山台中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "尾山台中学校"
+      },
+      "世田谷区立山崎中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "山崎中学校"
+      },
+      "世田谷区立希望丘中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "希望丘中学校"
+      },
+      "世田谷区立弦巻中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "弦巻中学校"
+      },
+      "世田谷区立東深沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "東深沢中学校"
+      },
+      "世田谷区立松沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "松沢中学校"
+      },
+      "世田谷区立桜丘中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "桜丘中学校"
+      },
+      "世田谷区立桜木中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "桜木中学校"
+      },
+      "世田谷区立梅丘中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "梅丘中学校"
+      },
+      "世田谷区立深沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "深沢中学校"
+      },
+      "世田谷区立瀬田中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "瀬田中学校"
+      },
+      "世田谷区立烏山中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "烏山中学校"
+      },
+      "世田谷区立玉川中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "玉川中学校"
+      },
+      "世田谷区立用賀中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "用賀中学校"
+      },
+      "世田谷区立砧中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "砧中学校"
+      },
+      "世田谷区立砧南中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "砧南中学校"
+      },
+      "世田谷区立緑丘中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "緑丘中学校"
+      },
+      "世田谷区立船橋中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "船橋中学校"
+      },
+      "世田谷区立芦花中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "芦花中学校"
+      },
+      "世田谷区立若林中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "若林中学校"
+      },
+      "世田谷区立駒沢中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "駒沢中学校"
+      },
+      "世田谷区立駒留中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "区立",
+         "short_name" : "駒留中学校"
+      },
+      "世田谷学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "世田谷学園中学校・高等学校"
+      },
+      "中央区立佃中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "区立",
+         "short_name" : "佃中学校"
+      },
+      "中央区立日本橋中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "区立",
+         "short_name" : "日本橋中学校"
+      },
+      "中央区立晴海中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "区立",
+         "short_name" : "晴海中学校"
+      },
+      "中央区立銀座中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "区立",
+         "short_name" : "銀座中学校"
+      },
+      "中央大学附属中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "中央大学附属中学校・高等学校"
+      },
+      "中村中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "中村中学校・高等学校"
+      },
+      "中野区立中央中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "中央中学校"
+      },
+      "中野区立北中野中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "北中野中学校"
+      },
+      "中野区立南中野中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "南中野中学校"
+      },
+      "中野区立第七中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第七中学校"
+      },
+      "中野区立第三中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第三中学校"
+      },
+      "中野区立第九中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第九中学校"
+      },
+      "中野区立第二中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第二中学校"
+      },
+      "中野区立第五中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第五中学校"
+      },
+      "中野区立第八中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第八中学校"
+      },
+      "中野区立第十中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第十中学校"
+      },
+      "中野区立第四中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "第四中学校"
+      },
+      "中野区立緑野中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "区立",
+         "short_name" : "緑野中学校"
+      },
+      "京北中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "京北中学校・高等学校"
+      },
+      "京華中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "京華中学高等学校"
+      },
+      "京華女子中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "京華女子中学高等学校"
+      },
+      "佼成学園中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "佼成学園中学校・高等学校"
+      },
+      "佼成学園女子中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "佼成学園女子中学校・高等学校"
+      },
+      "修徳学園中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "修徳学園中学校・修徳高等学校"
+      },
+      "光塩女子学院中等科" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "光塩女子学院中等科・高等科"
+      },
+      "八丈町立三原中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "三原中学校"
+      },
+      "八丈町立大賀郷中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "大賀郷中学校"
+      },
+      "八丈町立富士中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "富士中学校"
+      },
+      "八王子実践中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "八王子実践中学校・高等学校"
+      },
+      "八王子市立ひよどり山中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "ひよどり山中学校"
+      },
+      "八王子市立みなみ野中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "みなみ野中学校"
+      },
+      "八王子市立七国中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "七国中学校"
+      },
+      "八王子市立上柚木中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "上柚木中学校"
+      },
+      "八王子市立中山中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "中山中学校"
+      },
+      "八王子市立元八王子中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "元八王子中学校"
+      },
+      "八王子市立別所中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "別所中学校"
+      },
+      "八王子市立加住中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "加住中学校"
+      },
+      "八王子市立南大沢中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "南大沢中学校"
+      },
+      "八王子市立四谷中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "四谷中学校"
+      },
+      "八王子市立城山中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "城山中学校"
+      },
+      "八王子市立宮上中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "宮上中学校"
+      },
+      "八王子市立川口中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "川口中学校"
+      },
+      "八王子市立恩方中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "恩方中学校"
+      },
+      "八王子市立打越中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "打越中学校"
+      },
+      "八王子市立松が谷中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "松が谷中学校"
+      },
+      "八王子市立松木中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "松木中学校"
+      },
+      "八王子市立椚田中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "椚田中学校"
+      },
+      "八王子市立楢原中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "楢原中学校"
+      },
+      "八王子市立横山中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "横山中学校"
+      },
+      "八王子市立横川中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "横川中学校"
+      },
+      "八王子市立浅川中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "浅川中学校"
+      },
+      "八王子市立由井中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "由井中学校"
+      },
+      "八王子市立由木中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "由木中学校"
+      },
+      "八王子市立甲ノ原中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "甲ノ原中学校"
+      },
+      "八王子市立石川中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "石川中学校"
+      },
+      "八王子市立第一中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "八王子市立第七中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第七中学校"
+      },
+      "八王子市立第三中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "八王子市立第二中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "八王子市立第五中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "八王子市立第六中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "八王子市立第四中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "八王子市立鑓水中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "鑓水中学校"
+      },
+      "八王子市立長房中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "長房中学校"
+      },
+      "八王子市立陵南中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "陵南中学校"
+      },
+      "八王子市立館中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "市立",
+         "short_name" : "館中学校"
+      },
+      "八雲学園中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "八雲学園中学校・高等学校"
+      },
+      "共栄学園中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "共栄学園中学高等学校"
+      },
+      "共立女子中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "共立女子中学高等学校"
+      },
+      "共立女子第二中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "共立女子第二中学校・高等学校"
+      },
+      "利島村立利島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "利島中学校"
+      },
+      "創価中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "創価中学校・高等学校"
+      },
+      "北区立十条富士見中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "十条富士見中学校"
+      },
+      "北区立堀船中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "堀船中学校"
+      },
+      "北区立明桜中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "明桜中学校"
+      },
+      "北区立桐ヶ丘中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "桐ヶ丘中学校"
+      },
+      "北区立浮間中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "浮間中学校"
+      },
+      "北区立滝野川紅葉中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "滝野川紅葉中学校"
+      },
+      "北区立王子桜中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "王子桜中学校"
+      },
+      "北区立田端中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "田端中学校"
+      },
+      "北区立神谷中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "神谷中学校"
+      },
+      "北区立稲付中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "稲付中学校"
+      },
+      "北区立赤羽岩淵中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "赤羽岩淵中学校"
+      },
+      "北区立飛鳥中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "区立",
+         "short_name" : "飛鳥中学校"
+      },
+      "北豊島中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "北豊島中学校・高等学校"
+      },
+      "十文字中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "十文字中学・高等学校"
+      },
+      "千代田区立神田一橋中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "区立",
+         "short_name" : "神田一橋中学校"
+      },
+      "千代田区立麹町中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "区立",
+         "short_name" : "麹町中学校"
+      },
+      "千代田女学園中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "千代田女学園中学校・高等学校"
+      },
+      "台東区立上野中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "上野中学校"
+      },
+      "台東区立御徒町台東中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "御徒町台東中学校"
+      },
+      "台東区立忍岡中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "忍岡中学校"
+      },
+      "台東区立柏葉中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "柏葉中学校"
+      },
+      "台東区立桜橋中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "桜橋中学校"
+      },
+      "台東区立浅草中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "浅草中学校"
+      },
+      "台東区立駒形中学校" : {
+         "location_area" : "台東区",
+         "owner_type" : "区立",
+         "short_name" : "駒形中学校"
+      },
+      "吉祥女子中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "吉祥女子中学校・高等学校"
+      },
+      "和光中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人和光学園"
+      },
+      "和洋九段女子中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "和洋九段女子中学校・高等学校"
+      },
+      "品川区立冨士見台中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "冨士見台中学校"
+      },
+      "品川区立城南中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "城南中学校"
+      },
+      "品川区立大崎中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "大崎中学校"
+      },
+      "品川区立戸越台中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "戸越台中学校"
+      },
+      "品川区立東海中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "東海中学校"
+      },
+      "品川区立浜川中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "浜川中学校"
+      },
+      "品川区立荏原平塚中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原平塚中学校"
+      },
+      "品川区立荏原第一中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原第一中学校"
+      },
+      "品川区立荏原第三中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原第三中学校"
+      },
+      "品川区立荏原第五中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原第五中学校"
+      },
+      "品川区立荏原第六中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原第六中学校"
+      },
+      "品川区立荏原第四中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "荏原第四中学校"
+      },
+      "品川区立鈴ヶ森中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "区立",
+         "short_name" : "鈴ヶ森中学校"
+      },
+      "品川女子学院中等部" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "品川女子学院中等部・高等部"
+      },
+      "啓明学園中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "啓明学園中学校・高等学校"
+      },
+      "国分寺市立第一中学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "国分寺市立第三中学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "国分寺市立第二中学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "国分寺市立第五中学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "国分寺市立第四中学校" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "国士舘中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "国士舘中学校・高等学校"
+      },
+      "国本女子中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "国本女子中学校・高等学校"
+      },
+      "国立市立国立第一中学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "市立"
+      },
+      "国立市立国立第三中学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "市立"
+      },
+      "国立市立国立第二中学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "市立"
+      },
+      "国立音楽大学附属中学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "国立音楽大学附属中学校・高等学校"
+      },
+      "國學院大學久我山中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "國學院大學久我山中学高等学校"
+      },
+      "城北中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "城北中学校・高等学校"
+      },
+      "城西大学附属城西中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "城西大学附属城西中学校・高等学校"
+      },
+      "墨田区立両国中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "両国中学校"
+      },
+      "墨田区立向島中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "向島中学校"
+      },
+      "墨田区立吾嬬第一中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "吾嬬第一中学校"
+      },
+      "墨田区立吾嬬第二中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "吾嬬第二中学校"
+      },
+      "墨田区立墨田中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "墨田中学校"
+      },
+      "墨田区立寺島中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "寺島中学校"
+      },
+      "墨田区立文花中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "文花中学校"
+      },
+      "墨田区立本所中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "本所中学校"
+      },
+      "墨田区立立花中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "立花中学校"
+      },
+      "墨田区立竪川中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "竪川中学校"
+      },
+      "墨田区立錦糸中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "錦糸中学校"
+      },
+      "墨田区立鐘淵中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "区立",
+         "short_name" : "鐘淵中学校"
+      },
+      "多摩大学目黒中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "多摩大学目黒中学校・高等学校"
+      },
+      "多摩大学附属聖ヶ丘中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "多摩大学附属聖ヶ丘中学校・高等学校"
+      },
+      "多摩市立和田中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "和田中学校"
+      },
+      "多摩市立多摩中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "多摩中学校"
+      },
+      "多摩市立多摩永山中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "多摩永山中学校"
+      },
+      "多摩市立東愛宕中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "東愛宕中学校"
+      },
+      "多摩市立聖ヶ丘中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "聖ヶ丘中学校"
+      },
+      "多摩市立落合中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "落合中学校"
+      },
+      "多摩市立諏訪中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "諏訪中学校"
+      },
+      "多摩市立青陵中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "青陵中学校"
+      },
+      "多摩市立鶴牧中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "市立",
+         "short_name" : "鶴牧中学校"
+      },
+      "大妻中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "大妻中学高等学校"
+      },
+      "大妻中野中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "大妻中野中学校・高等学校"
+      },
+      "大妻多摩中学校" : {
+         "location_area" : "多摩市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "大妻多摩高等学校・中学校"
+      },
+      "大島町立第一中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "第一中学校"
+      },
+      "大島町立第三中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "第三中学校"
+      },
+      "大島町立第二中学校" : {
+         "owner_type" : "町立",
+         "short_name" : "第二中学校"
+      },
+      "大田区立六郷中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "六郷中学校"
+      },
+      "大田区立出雲中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "出雲中学校"
+      },
+      "大田区立南六郷中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "南六郷中学校"
+      },
+      "大田区立大森東中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森東中学校"
+      },
+      "大田区立大森第一中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第一中学校"
+      },
+      "大田区立大森第七中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第七中学校"
+      },
+      "大田区立大森第三中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第三中学校"
+      },
+      "大田区立大森第二中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第二中学校"
+      },
+      "大田区立大森第八中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第八中学校"
+      },
+      "大田区立大森第六中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第六中学校"
+      },
+      "大田区立大森第十中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第十中学校"
+      },
+      "大田区立大森第四中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "大森第四中学校"
+      },
+      "大田区立安方中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "安方中学校"
+      },
+      "大田区立御園中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "御園中学校"
+      },
+      "大田区立志茂田中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "志茂田中学校"
+      },
+      "大田区立東蒲中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "東蒲中学校"
+      },
+      "大田区立東調布中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "東調布中学校"
+      },
+      "大田区立田園調布中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "田園調布中学校"
+      },
+      "大田区立矢口中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "矢口中学校"
+      },
+      "大田区立石川台中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "石川台中学校"
+      },
+      "大田区立糀谷中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "糀谷中学校"
+      },
+      "大田区立羽田中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "羽田中学校"
+      },
+      "大田区立蒲田中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "蒲田中学校"
+      },
+      "大田区立蓮沼中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "蓮沼中学校"
+      },
+      "大田区立貝塚中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "貝塚中学校"
+      },
+      "大田区立雪谷中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "雪谷中学校"
+      },
+      "大田区立馬込中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "馬込中学校"
+      },
+      "大田区立馬込東中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "区立",
+         "short_name" : "馬込東中学校"
+      },
+      "奥多摩町立氷川中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "氷川中学校"
+      },
+      "奧多摩町立古里中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "古里中学校"
+      },
+      "女子学院中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "女子学院中学校・高等学校"
+      },
+      "女子美術大学付属中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "女子美術大学付属高等学校・中学校"
+      },
+      "女子聖学院中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "女子聖学院中学校・高等学校"
+      },
+      "学習院中等科" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立"
+      },
+      "学習院女子中等科" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学習院女子中・高等科"
+      },
+      "安田学園中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "安田学園中学校・高等学校"
+      },
+      "宝仙学園中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "宝仙学園中学校・高等学校"
+      },
+      "実践女子学園中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "実践女子学園中学校・高等学校"
+      },
+      "実践学園中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "実践学園中学・高等学校"
+      },
+      "富士見丘中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "富士見丘中学校・高等学校"
+      },
+      "富士見中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "富士見中学高等学校"
+      },
+      "小平市立上水中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "上水中学校"
+      },
+      "小平市立小平第一中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第一中学校"
+      },
+      "小平市立小平第三中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第三中学校"
+      },
+      "小平市立小平第二中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第二中学校"
+      },
+      "小平市立小平第五中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第五中学校"
+      },
+      "小平市立小平第六中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第六中学校"
+      },
+      "小平市立小平第四中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "小平第四中学校"
+      },
+      "小平市立花小金井南中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "市立",
+         "short_name" : "花小金井南中学校"
+      },
+      "小笠原村立小笠原中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "小笠原中学校"
+      },
+      "小笠原村立母島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "母島中学校"
+      },
+      "小野学園女子中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "小野学園女子中学・高等学校"
+      },
+      "小金井市立南中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "小金井市立小金井第一中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "市立",
+         "short_name" : "小金井第一中学校"
+      },
+      "小金井市立小金井第二中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "市立",
+         "short_name" : "小金井第二中学校"
+      },
+      "小金井市立東中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "小金井市立緑中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "市立",
+         "short_name" : "緑中学校"
+      },
+      "山脇学園中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "山脇学園中学校・高等学校"
+      },
+      "川村中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "川村中学校・高等学校"
+      },
+      "巣鴨中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "巣鴨中学校・高等学校"
+      },
+      "工学院大学附属中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立"
+      },
+      "帝京八王子中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "帝京八王子中学校・高等学校"
+      },
+      "帝京大学中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "帝京大学中学校高等学校"
+      },
+      "帝京大学系属帝京中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "帝京大学系属帝京中学校・高等学校"
+      },
+      "広尾学園中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "広尾学園中学校・高等学校"
+      },
+      "府中市立府中第一中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第一中学校"
+      },
+      "府中市立府中第七中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第七中学校"
+      },
+      "府中市立府中第三中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第三中学校"
+      },
+      "府中市立府中第九中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第九中学校"
+      },
+      "府中市立府中第二中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第二中学校"
+      },
+      "府中市立府中第五中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第五中学校"
+      },
+      "府中市立府中第八中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第八中学校"
+      },
+      "府中市立府中第六中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第六中学校"
+      },
+      "府中市立府中第十中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第十中学校"
+      },
+      "府中市立府中第四中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "府中第四中学校"
+      },
+      "府中市立浅間中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "市立",
+         "short_name" : "浅間中学校"
+      },
+      "御蔵島村立御蔵島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "御蔵島中学校"
+      },
+      "恵泉女学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "恵泉女学園中学・高等学校"
+      },
+      "愛国中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "愛国中学校・高等学校"
+      },
+      "慶應義塾中等部" : {
+         "location_area" : "港区",
+         "owner_type" : "私立"
+      },
+      "成城中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "成城中学校・高等学校"
+      },
+      "成城学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "成城学園中学校高等学校"
+      },
+      "成女学園中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "成女学園中学校・高等学校"
+      },
+      "成立学園中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "成立学園中学校・高等学校"
+      },
+      "成蹊中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "成蹊中学校・高等学校"
+      },
+      "戸板中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "戸板中学校・女子高等学校"
+      },
+      "攻玉社中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "攻玉社中学校・高等学校"
+      },
+      "文京区立文林中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "文林中学校"
+      },
+      "文京区立本郷台中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "本郷台中学校"
+      },
+      "文京区立第一中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第一中学校"
+      },
+      "文京区立第三中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第三中学校"
+      },
+      "文京区立第九中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第九中学校"
+      },
+      "文京区立第八中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第八中学校"
+      },
+      "文京区立第六中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第六中学校"
+      },
+      "文京区立第十中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "第十中学校"
+      },
+      "文京区立茗台中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "茗台中学校"
+      },
+      "文京区立音羽中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "区立",
+         "short_name" : "音羽中学校"
+      },
+      "文京学院大学女子中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "文京学院大学女子中学校・高等学校"
+      },
+      "文化女子大学附属杉並中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "文化女子大学附属杉並中学校・高等学校"
+      },
+      "文教大学付属中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "文教大学付属中学校・高等学校"
+      },
+      "文華女子中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "文華女子中学校・高等学校"
+      },
+      "新宿区立四谷中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "四谷中学校"
+      },
+      "新宿区立新宿中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "新宿中学校"
+      },
+      "新宿区立牛込第一中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "牛込第一中学校"
+      },
+      "新宿区立牛込第三中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "牛込第三中学校"
+      },
+      "新宿区立牛込第二中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "牛込第二中学校"
+      },
+      "新宿区立落合中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "落合中学校"
+      },
+      "新宿区立落合第二中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "落合第二中学校"
+      },
+      "新宿区立西戸山中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "西戸山中学校"
+      },
+      "新宿区立西戸山第二中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "西戸山第二中学校"
+      },
+      "新宿区立西新宿中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "西新宿中学校"
+      },
+      "新宿区立西早稲田中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "区立",
+         "short_name" : "西早稲田中学校"
+      },
+      "新島村立式根島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "式根島中学校"
+      },
+      "新島村立新島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "新島中学校"
+      },
+      "新渡戸文化中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "新渡戸文化中学校・高等学校"
+      },
+      "日の出町立大久野中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "大久野中学校"
+      },
+      "日の出町立平井中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "平井中学校"
+      },
+      "日出中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日出中学校・高等学校"
+      },
+      "日本大学第一中学校" : {
+         "location_area" : "墨田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本大学第一中学校・高等学校"
+      },
+      "日本大学第三中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本大学第三中学校・高等学校"
+      },
+      "日本大学第二中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本大学第二中学校・高等学校"
+      },
+      "日本大学豊山中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本大学豊山中学校・高等学校"
+      },
+      "日本大学豊山女子中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本大学豊山女子中学校・高等学校"
+      },
+      "日本学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本学園中学校・高等学校"
+      },
+      "日本工業大学駒場中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本工業大学駒場中学校・高等学校"
+      },
+      "日本橋女学館中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "日本橋女学館中学校・高等学校"
+      },
+      "日野市立七生中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "七生中学校"
+      },
+      "日野市立三沢中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "三沢中学校"
+      },
+      "日野市立大坂上中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "大坂上中学校"
+      },
+      "日野市立平山中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "平山中学校"
+      },
+      "日野市立日野第一中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "日野第一中学校"
+      },
+      "日野市立日野第三中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "日野第三中学校"
+      },
+      "日野市立日野第二中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "日野第二中学校"
+      },
+      "日野市立日野第四中学校" : {
+         "location_area" : "日野市",
+         "owner_type" : "市立",
+         "short_name" : "日野第四中学校"
+      },
+      "早稲田中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "早稲田中学校・高等学校"
+      },
+      "早稲田大学系属早稲田実業学校中等部" : {
+         "location_area" : "国分寺市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "早稲田大学系属早稲田実業学校初等部・中等部・高等部"
+      },
+      "早稲田大学高等学院中学部" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "早稲田大学高等学院・中学部"
+      },
+      "明星中学校" : {
+         "location_area" : "府中市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明星中学高等学校"
+      },
+      "明星学園中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人明星学園"
+      },
+      "明治大学付属中野中学校" : {
+         "location_area" : "中野区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明治大学付属中野中学校・高等学校"
+      },
+      "明治大学付属中野八王子中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明治大学付属中野八王子中学校・高等学校"
+      },
+      "明治大学付属明治中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明治大学付属明治高等学校・中学校"
+      },
+      "明治学院中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明治学院中学校・明治学院東村山高等学校"
+      },
+      "明法中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明法中学・高等学校"
+      },
+      "星美学園中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "星美学園中学校・高等学校"
+      },
+      "昭和女子大学附属昭和中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "昭和女子大学附属昭和中学校・高等学校"
+      },
+      "昭島市立多摩辺中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "多摩辺中学校"
+      },
+      "昭島市立拝島中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "拝島中学校"
+      },
+      "昭島市立昭和中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "昭和中学校"
+      },
+      "昭島市立清泉中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "清泉中学校"
+      },
+      "昭島市立瑞雲中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "瑞雲中学校"
+      },
+      "昭島市立福島中学校" : {
+         "location_area" : "昭島市",
+         "owner_type" : "市立",
+         "short_name" : "福島中学校"
+      },
+      "晃華学園中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "晃華学園中学校・高等学校"
+      },
+      "普連土学園中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "普連土学園中学校・高等学校"
+      },
+      "暁星中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "暁星中学校・高等学校"
+      },
+      "本郷中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "本郷中学校・高等学校"
+      },
+      "杉並区立中瀬中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "中瀬中学校"
+      },
+      "杉並区立井草中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "井草中学校"
+      },
+      "杉並区立井荻中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "井荻中学校"
+      },
+      "杉並区立向陽中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "向陽中学校"
+      },
+      "杉並区立和泉中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "和泉中学校"
+      },
+      "杉並区立和田中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "和田中学校"
+      },
+      "杉並区立大宮中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "大宮中学校"
+      },
+      "杉並区立天沼中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "天沼中学校"
+      },
+      "杉並区立宮前中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "宮前中学校"
+      },
+      "杉並区立富士見丘中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "富士見丘中学校"
+      },
+      "杉並区立杉森中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "杉森中学校"
+      },
+      "杉並区立東原中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "東原中学校"
+      },
+      "杉並区立東田中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "東田中学校"
+      },
+      "杉並区立松ノ木中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "松ノ木中学校"
+      },
+      "杉並区立松渓中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "松渓中学校"
+      },
+      "杉並区立泉南中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "泉南中学校"
+      },
+      "杉並区立神明中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "神明中学校"
+      },
+      "杉並区立荻窪中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "荻窪中学校"
+      },
+      "杉並区立西宮中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "西宮中学校"
+      },
+      "杉並区立阿佐ヶ谷中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "阿佐ヶ谷中学校"
+      },
+      "杉並区立高井戸中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "高井戸中学校"
+      },
+      "杉並区立高円寺中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "高円寺中学校"
+      },
+      "杉並区立高南中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "区立",
+         "short_name" : "高南中学校"
+      },
+      "杉並学院中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "杉並学院中学高等学校"
+      },
+      "村田学園小石川女子中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "村田学園小石川女子中学校・村田女子高等学校"
+      },
+      "東久留米市立中央中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "東久留米市立中里中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "中里中学校"
+      },
+      "東久留米市立久留米中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "久留米中学校"
+      },
+      "東久留米市立南中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "東久留米市立大門中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "大門中学校"
+      },
+      "東久留米市立東中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "東久留米市立西中学校" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "東京女子学園中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京女子学園中学校・高等学校"
+      },
+      "東京女子学院中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京女子学院中学校・高等学校"
+      },
+      "東京女学館中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京女学館中学校・高等学校"
+      },
+      "東京学芸大学附属世田谷中学校" : {
+         "owner_type" : "国立"
+      },
+      "東京学芸大学附属大泉中学校" : {
+         "owner_type" : "国立"
+      },
+      "東京学芸大学附属小金井中学校" : {
+         "owner_type" : "国立"
+      },
+      "東京学芸大学附属竹早中学校" : {
+         "owner_type" : "国立"
+      },
+      "東京家政大学附属女子中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京家政大学附属女子中学校・高等学校"
+      },
+      "東京家政学院中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京家政学院中学校・高等学校"
+      },
+      "東京成徳大学中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京成徳大学中学校・高等学校"
+      },
+      "東京立正中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京立正中学校・高等学校"
+      },
+      "東京純心女子中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京純心女子中学校・高等学校"
+      },
+      "東京都市大学付属中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京都市大学付属中学校・高等学校"
+      },
+      "東京都市大学等々力中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京都市大学等々力中学校・高等学校"
+      },
+      "東京都立両国附属中学校" : {
+         "owner_type" : "公立",
+         "short_name" : "両国附属中学校",
+         "wikipedia_name" : "東京都立両国高等学校・附属中学校"
+      },
+      "東京都立大泉附属中学校" : {
+         "owner_type" : "公立",
+         "short_name" : "大泉附属中学校",
+         "wikipedia_name" : "東京都立大泉高等学校・附属中学校"
+      },
+      "東京都立富士附属中学校" : {
+         "owner_type" : "公立",
+         "short_name" : "富士附属中学校",
+         "wikipedia_name" : "東京都立富士高等学校・附属中学校"
+      },
+      "東京都立武蔵附属中学校" : {
+         "owner_type" : "公立",
+         "short_name" : "武蔵附属中学校",
+         "wikipedia_name" : "東京都立武蔵高等学校・附属中学校"
+      },
+      "東京都立白鴎附属中学校" : {
+         "owner_type" : "公立",
+         "short_name" : "白鴎附属中学校",
+         "wikipedia_name" : "東京都立白鴎高等学校・附属中学校"
+      },
+      "東京電機大学中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東京電機大学中学校・高等学校"
+      },
+      "東大和市立第一中学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "東大和市立第三中学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "東大和市立第二中学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "東大和市立第五中学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "東大和市立第四中学校" : {
+         "location_area" : "東大和市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "東星学園中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東星学園中学校・高等学校"
+      },
+      "東村山市立東村山第一中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第一中学校"
+      },
+      "東村山市立東村山第七中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第七中学校"
+      },
+      "東村山市立東村山第三中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第三中学校"
+      },
+      "東村山市立東村山第三中学校萩山分校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第三中学校萩山分校"
+      },
+      "東村山市立東村山第二中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第二中学校"
+      },
+      "東村山市立東村山第五中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第五中学校"
+      },
+      "東村山市立東村山第六中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第六中学校"
+      },
+      "東村山市立東村山第四中学校" : {
+         "location_area" : "東村山市",
+         "owner_type" : "市立",
+         "short_name" : "東村山第四中学校"
+      },
+      "東洋英和女学院中学部" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東洋英和女学院中学部・高等部"
+      },
+      "東海大学付属高輪台高等学校中等部" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "short_name" : "東海大学付属高輪台高校中等部",
+         "wikipedia_name" : "東海大学付属高輪台高等学校・中等部"
+      },
+      "東海大学菅生高等学校中等部" : {
+         "location_area" : "あきる野市",
+         "owner_type" : "私立",
+         "short_name" : "東海大学菅生高校中等部",
+         "wikipedia_name" : "東海大学菅生高等学校・中等部"
+      },
+      "東邦音楽大学附属東邦中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東邦音楽大学附属東邦中学校・高等学校"
+      },
+      "松蔭中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "松蔭中学校・高等学校 (東京都)"
+      },
+      "板橋区立上板橋第一中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "上板橋第一中学校"
+      },
+      "板橋区立上板橋第三中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "上板橋第三中学校"
+      },
+      "板橋区立上板橋第二中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "上板橋第二中学校"
+      },
+      "板橋区立中台中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "中台中学校"
+      },
+      "板橋区立加賀中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "加賀中学校"
+      },
+      "板橋区立向原中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "向原中学校"
+      },
+      "板橋区立志村第一中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "志村第一中学校"
+      },
+      "板橋区立志村第三中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "志村第三中学校"
+      },
+      "板橋区立志村第二中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "志村第二中学校"
+      },
+      "板橋区立志村第五中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "志村第五中学校"
+      },
+      "板橋区立志村第四中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "志村第四中学校"
+      },
+      "板橋区立板橋第一中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "板橋第一中学校"
+      },
+      "板橋区立板橋第三中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "板橋第三中学校"
+      },
+      "板橋区立板橋第二中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "板橋第二中学校"
+      },
+      "板橋区立板橋第五中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "板橋第五中学校"
+      },
+      "板橋区立桜川中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "桜川中学校"
+      },
+      "板橋区立西台中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "西台中学校"
+      },
+      "板橋区立赤塚第一中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "赤塚第一中学校"
+      },
+      "板橋区立赤塚第三中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "赤塚第三中学校"
+      },
+      "板橋区立赤塚第二中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "赤塚第二中学校"
+      },
+      "板橋区立高島第一中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "高島第一中学校"
+      },
+      "板橋区立高島第三中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "高島第三中学校"
+      },
+      "板橋区立高島第二中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "区立",
+         "short_name" : "高島第二中学校"
+      },
+      "桐朋中学校" : {
+         "location_area" : "国立市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "桐朋中学校・高等学校"
+      },
+      "桐朋女子中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "桐朋女子中学校・高等学校"
+      },
+      "桜丘中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "桜丘中学・高等学校 (東京都)"
+      },
+      "桜美林中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "桜美林中学校・高等学校"
+      },
+      "桜蔭中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "桜蔭中学校・高等学校"
+      },
+      "檜原村立檜原中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "村立",
+         "short_name" : "檜原中学校"
+      },
+      "武蔵中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "武蔵中学校・高等学校"
+      },
+      "武蔵村山市立第一中学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "武蔵村山市立第三中学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "武蔵村山市立第二中学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "武蔵村山市立第五中学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "武蔵村山市立第四中学校" : {
+         "location_area" : "武蔵村山市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "武蔵野中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "武蔵野中学校・高等学校"
+      },
+      "武蔵野女子学院中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "武蔵野女子学院中学校・高等学校"
+      },
+      "武蔵野市立第一中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "武蔵野市立第三中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "武蔵野市立第二中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "武蔵野市立第五中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "武蔵野市立第六中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "武蔵野市立第四中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "武蔵野東中学校" : {
+         "location_area" : "小金井市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人武蔵野東学園"
+      },
+      "江戸川区立上一色中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "上一色中学校"
+      },
+      "江戸川区立二之江中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "二之江中学校"
+      },
+      "江戸川区立南葛西中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "南葛西中学校"
+      },
+      "江戸川区立南葛西第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "南葛西第二中学校"
+      },
+      "江戸川区立小岩第一中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小岩第一中学校"
+      },
+      "江戸川区立小岩第三中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小岩第三中学校"
+      },
+      "江戸川区立小岩第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小岩第二中学校"
+      },
+      "江戸川区立小岩第五中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小岩第五中学校"
+      },
+      "江戸川区立小岩第四中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小岩第四中学校"
+      },
+      "江戸川区立小松川第一中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小松川第一中学校"
+      },
+      "江戸川区立小松川第三中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小松川第三中学校"
+      },
+      "江戸川区立小松川第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "小松川第二中学校"
+      },
+      "江戸川区立春江中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "春江中学校"
+      },
+      "江戸川区立東葛西中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "東葛西中学校"
+      },
+      "江戸川区立松江第一中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第一中学校"
+      },
+      "江戸川区立松江第三中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第三中学校"
+      },
+      "江戸川区立松江第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第二中学校"
+      },
+      "江戸川区立松江第五中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第五中学校"
+      },
+      "江戸川区立松江第六中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第六中学校"
+      },
+      "江戸川区立松江第四中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "松江第四中学校"
+      },
+      "江戸川区立清新第一中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "清新第一中学校"
+      },
+      "江戸川区立清新第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "清新第二中学校"
+      },
+      "江戸川区立瑞江中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "瑞江中学校"
+      },
+      "江戸川区立瑞江第三中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "瑞江第三中学校"
+      },
+      "江戸川区立瑞江第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "瑞江第二中学校"
+      },
+      "江戸川区立篠崎中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "篠崎中学校"
+      },
+      "江戸川区立篠崎第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "篠崎第二中学校"
+      },
+      "江戸川区立葛西中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "葛西中学校"
+      },
+      "江戸川区立葛西第三中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "葛西第三中学校"
+      },
+      "江戸川区立葛西第二中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "葛西第二中学校"
+      },
+      "江戸川区立西葛西中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "西葛西中学校"
+      },
+      "江戸川区立鹿本中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "鹿本中学校"
+      },
+      "江戸川区立鹿骨中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "区立",
+         "short_name" : "鹿骨中学校"
+      },
+      "江戸川女子中学校" : {
+         "location_area" : "江戸川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "江戸川女子中学校・高等学校"
+      },
+      "江東区立亀戸中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "亀戸中学校"
+      },
+      "江東区立南砂中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "南砂中学校"
+      },
+      "江東区立大島中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "大島中学校"
+      },
+      "江東区立大島西中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "大島西中学校"
+      },
+      "江東区立東陽中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "東陽中学校"
+      },
+      "江東区立深川第一中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第一中学校"
+      },
+      "江東区立深川第七中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第七中学校"
+      },
+      "江東区立深川第三中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第三中学校"
+      },
+      "江東区立深川第二中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第二中学校"
+      },
+      "江東区立深川第五中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第五中学校"
+      },
+      "江東区立深川第八中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第八中学校"
+      },
+      "江東区立深川第六中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第六中学校"
+      },
+      "江東区立深川第四中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "深川第四中学校"
+      },
+      "江東区立砂町中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "砂町中学校"
+      },
+      "江東区立第三亀戸中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第三亀戸中学校"
+      },
+      "江東区立第三砂町中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第三砂町中学校"
+      },
+      "江東区立第二亀戸中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第二亀戸中学校"
+      },
+      "江東区立第二南砂中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第二南砂中学校"
+      },
+      "江東区立第二大島中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第二大島中学校"
+      },
+      "江東区立第二砂町中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第二砂町中学校"
+      },
+      "江東区立第四砂町中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "第四砂町中学校"
+      },
+      "江東区立辰巳中学校" : {
+         "location_area" : "江東区",
+         "owner_type" : "区立",
+         "short_name" : "辰巳中学校"
+      },
+      "法政大学中学校" : {
+         "location_area" : "三鷹市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "法政大学中学高等学校"
+      },
+      "海城中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "海城中学校・高等学校"
+      },
+      "淑徳SC中等部" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "淑徳SC中等部・高等部"
+      },
+      "淑徳中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "淑徳中学校・高等学校"
+      },
+      "淑徳巣鴨中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "淑徳巣鴨中学校・高等学校"
+      },
+      "清明学園中学校" : {
+         "location_area" : "大田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "清明学園幼稚園・初等学校・中学校"
+      },
+      "清瀬市立清瀬中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "市立",
+         "short_name" : "清瀬中学校"
+      },
+      "清瀬市立清瀬第三中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "市立",
+         "short_name" : "清瀬第三中学校"
+      },
+      "清瀬市立清瀬第二中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "市立",
+         "short_name" : "清瀬第二中学校"
+      },
+      "清瀬市立清瀬第五中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "市立",
+         "short_name" : "清瀬第五中学校"
+      },
+      "清瀬市立清瀬第四中学校" : {
+         "location_area" : "清瀬市",
+         "owner_type" : "市立",
+         "short_name" : "清瀬第四中学校"
+      },
+      "渋谷区立上原中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "上原中学校"
+      },
+      "渋谷区立代々木中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "代々木中学校"
+      },
+      "渋谷区立原宿外苑中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "原宿外苑中学校"
+      },
+      "渋谷区立広尾中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "広尾中学校"
+      },
+      "渋谷区立本町中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "本町中学校"
+      },
+      "渋谷区立松濤中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "松濤中学校"
+      },
+      "渋谷区立笹塚中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "笹塚中学校"
+      },
+      "渋谷区立鉢山中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "区立",
+         "short_name" : "鉢山中学校"
+      },
+      "渋谷教育学園渋谷中学校" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "渋谷教育学園渋谷中学校・高等学校"
+      },
+      "港区立三田中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "三田中学校"
+      },
+      "港区立六本木中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "六本木中学校"
+      },
+      "港区立御成門中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "御成門中学校"
+      },
+      "港区立朝日中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "朝日中学校"
+      },
+      "港区立港南中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "港南中学校"
+      },
+      "港区立港陽中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "港陽中学校"
+      },
+      "港区立赤坂中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "赤坂中学校"
+      },
+      "港区立青山中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "青山中学校"
+      },
+      "港区立高松中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "高松中学校"
+      },
+      "港区立高陵中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "区立",
+         "short_name" : "高陵中学校"
+      },
+      "瀧野川女子学園中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "瀧野川女子学園中学校・高等学校"
+      },
+      "狛江市立狛江第一中学校" : {
+         "location_area" : "狛江市",
+         "owner_type" : "市立",
+         "short_name" : "狛江第一中学校"
+      },
+      "狛江市立狛江第三中学校" : {
+         "location_area" : "狛江市",
+         "owner_type" : "市立",
+         "short_name" : "狛江第三中学校"
+      },
+      "狛江市立狛江第二中学校" : {
+         "location_area" : "狛江市",
+         "owner_type" : "市立",
+         "short_name" : "狛江第二中学校"
+      },
+      "狛江市立狛江第四中学校" : {
+         "location_area" : "狛江市",
+         "owner_type" : "市立",
+         "short_name" : "狛江第四中学校"
+      },
+      "獨協中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "獨協中学校・高等学校"
+      },
+      "玉川学園中等部" : {
+         "location_area" : "町田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人玉川学園"
+      },
+      "玉川聖学院中等部" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "玉川聖学院中等部・高等部"
+      },
+      "瑞穂町立瑞穂中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "瑞穂中学校"
+      },
+      "瑞穂町立瑞穂第二中学校" : {
+         "location_area" : "西多摩郡",
+         "owner_type" : "町立",
+         "short_name" : "瑞穂第二中学校"
+      },
+      "田園調布学園中等部" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "田園調布学園中等部・高等部"
+      },
+      "田園調布雙葉中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "田園調布雙葉中学校・高等学校"
+      },
+      "町田市立つくし野中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "つくし野中学校"
+      },
+      "町田市立南中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "町田市立南大谷中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "南大谷中学校"
+      },
+      "町田市立南成瀬中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "南成瀬中学校"
+      },
+      "町田市立堺中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "堺中学校"
+      },
+      "町田市立小山田中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "小山田中学校"
+      },
+      "町田市立山崎中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "山崎中学校"
+      },
+      "町田市立忠生中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "忠生中学校"
+      },
+      "町田市立成瀬台中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "成瀬台中学校"
+      },
+      "町田市立木曽中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "木曽中学校"
+      },
+      "町田市立本町田中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "本町田中学校"
+      },
+      "町田市立武蔵岡中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "武蔵岡中学校"
+      },
+      "町田市立町田第一中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "町田第一中学校"
+      },
+      "町田市立町田第三中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "町田第三中学校"
+      },
+      "町田市立町田第二中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "町田第二中学校"
+      },
+      "町田市立真光寺中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "真光寺中学校"
+      },
+      "町田市立薬師中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "薬師中学校"
+      },
+      "町田市立金井中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "金井中学校"
+      },
+      "町田市立鶴川中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "鶴川中学校"
+      },
+      "町田市立鶴川第二中学校" : {
+         "location_area" : "町田市",
+         "owner_type" : "市立",
+         "short_name" : "鶴川第二中学校"
+      },
+      "白梅学園清修中学校" : {
+         "location_area" : "小平市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "白梅学園高等学校・清修中学校"
+      },
+      "白百合学園中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "白百合学園中学校・高等学校"
+      },
+      "目白研心中学校" : {
+         "location_area" : "新宿区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "目白研心中学校・高等学校"
+      },
+      "目黒区立東山中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "東山中学校"
+      },
+      "目黒区立目黒中央中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "目黒中央中学校"
+      },
+      "目黒区立第一中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第一中学校"
+      },
+      "目黒区立第七中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第七中学校"
+      },
+      "目黒区立第三中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第三中学校"
+      },
+      "目黒区立第九中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第九中学校"
+      },
+      "目黒区立第八中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第八中学校"
+      },
+      "目黒区立第十一中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第十一中学校"
+      },
+      "目黒区立第十中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第十中学校"
+      },
+      "目黒区立第四中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "区立",
+         "short_name" : "第四中学校"
+      },
+      "目黒学院中学校" : {
+         "location_area" : "目黒区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "目黒学院中学校・高等学校"
+      },
+      "目黒星美学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "目黒星美学園中学校・高等学校"
+      },
+      "神津島村立神津中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "神津中学校"
+      },
+      "神田女学園中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "神田女学園中学校・高等学校"
+      },
+      "福生市立福生第一中学校" : {
+         "location_area" : "福生市",
+         "owner_type" : "市立",
+         "short_name" : "福生第一中学校"
+      },
+      "福生市立福生第三中学校" : {
+         "location_area" : "福生市",
+         "owner_type" : "市立",
+         "short_name" : "福生第三中学校"
+      },
+      "福生市立福生第二中学校" : {
+         "location_area" : "福生市",
+         "owner_type" : "市立",
+         "short_name" : "福生第二中学校"
+      },
+      "稲城市立稲城第一中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第一中学校"
+      },
+      "稲城市立稲城第三中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第三中学校"
+      },
+      "稲城市立稲城第二中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第二中学校"
+      },
+      "稲城市立稲城第五中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第五中学校"
+      },
+      "稲城市立稲城第六中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第六中学校"
+      },
+      "稲城市立稲城第四中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "市立",
+         "short_name" : "稲城第四中学校"
+      },
+      "穎明館中学校" : {
+         "location_area" : "八王子市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "穎明館中学・高等学校"
+      },
+      "立川市立立川第一中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第七中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第三中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第九中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第二中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第五中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第八中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第六中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立川市立立川第四中学校" : {
+         "location_area" : "立川市",
+         "owner_type" : "市立"
+      },
+      "立教女学院中学校" : {
+         "location_area" : "杉並区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "立教女学院中学校・高等学校"
+      },
+      "立教池袋中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "立教池袋中学校・高等学校"
+      },
+      "立正大学付属立正中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "立正大学付属立正中学校・高等学校"
+      },
+      "筑波大学附属中学校" : {
+         "owner_type" : "国立",
+         "wikipedia_name" : "筑波大学附属中学校・高等学校"
+      },
+      "筑波大学附属駒場中学校" : {
+         "owner_type" : "国立",
+         "wikipedia_name" : "筑波大学附属駒場中学校・高等学校"
+      },
+      "練馬区立三原台中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "三原台中学校"
+      },
+      "練馬区立上石神井中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "上石神井中学校"
+      },
+      "練馬区立中村中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "中村中学校"
+      },
+      "練馬区立光が丘第一中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "光が丘第一中学校"
+      },
+      "練馬区立光が丘第三中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "光が丘第三中学校"
+      },
+      "練馬区立光が丘第二中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "光が丘第二中学校"
+      },
+      "練馬区立光が丘第四中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "光が丘第四中学校"
+      },
+      "練馬区立八坂中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "八坂中学校"
+      },
+      "練馬区立北町中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "北町中学校"
+      },
+      "練馬区立南が丘中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "南が丘中学校"
+      },
+      "練馬区立大泉中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉中学校"
+      },
+      "練馬区立大泉北中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉北中学校"
+      },
+      "練馬区立大泉学園中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉学園中学校"
+      },
+      "練馬区立大泉学園桜中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉学園桜中学校"
+      },
+      "練馬区立大泉第二中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉第二中学校"
+      },
+      "練馬区立大泉西中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "大泉西中学校"
+      },
+      "練馬区立旭丘中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "旭丘中学校"
+      },
+      "練馬区立田柄中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "田柄中学校"
+      },
+      "練馬区立石神井中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "石神井中学校"
+      },
+      "練馬区立石神井南中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "石神井南中学校"
+      },
+      "練馬区立石神井東中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "石神井東中学校"
+      },
+      "練馬区立石神井西中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "石神井西中学校"
+      },
+      "練馬区立練馬中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "練馬中学校"
+      },
+      "練馬区立練馬東中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "練馬東中学校"
+      },
+      "練馬区立谷原中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "谷原中学校"
+      },
+      "練馬区立豊渓中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "豊渓中学校"
+      },
+      "練馬区立豊玉中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "豊玉中学校"
+      },
+      "練馬区立豊玉第二中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "豊玉第二中学校"
+      },
+      "練馬区立貫井中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "貫井中学校"
+      },
+      "練馬区立開進第一中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "開進第一中学校"
+      },
+      "練馬区立開進第三中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "開進第三中学校"
+      },
+      "練馬区立開進第二中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "開進第二中学校"
+      },
+      "練馬区立開進第四中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "開進第四中学校"
+      },
+      "練馬区立関中学校" : {
+         "location_area" : "練馬区",
+         "owner_type" : "区立",
+         "short_name" : "関中学校"
+      },
+      "羽村市立羽村第一中学校" : {
+         "location_area" : "羽村市",
+         "owner_type" : "市立",
+         "short_name" : "羽村第一中学校"
+      },
+      "羽村市立羽村第三中学校" : {
+         "location_area" : "羽村市",
+         "owner_type" : "市立",
+         "short_name" : "羽村第三中学校"
+      },
+      "羽村市立羽村第二中学校" : {
+         "location_area" : "羽村市",
+         "owner_type" : "市立",
+         "short_name" : "羽村第二中学校"
+      },
+      "聖ドミニコ学園中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖ドミニコ学園中学校・高等学校"
+      },
+      "聖学院中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖学院中学校・高等学校"
+      },
+      "聖徳学園中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖徳学園中学校・高等学校"
+      },
+      "聖心女子学院中等科" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖心女子学院中等科・高等科"
+      },
+      "自由学園中等部" : {
+         "location_area" : "東久留米市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人自由学園"
+      },
+      "芝中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "芝中学校・高等学校"
+      },
+      "芝浦工業大学中学校" : {
+         "location_area" : "板橋区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "芝浦工業大学中学高等学校"
+      },
+      "荒川区立南千住第二中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "南千住第二中学校"
+      },
+      "荒川区立原中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "原中学校"
+      },
+      "荒川区立尾久八幡中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "尾久八幡中学校"
+      },
+      "荒川区立第一中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第一中学校"
+      },
+      "荒川区立第七中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第七中学校"
+      },
+      "荒川区立第三中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第三中学校"
+      },
+      "荒川区立第九中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第九中学校"
+      },
+      "荒川区立第五中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第五中学校"
+      },
+      "荒川区立第四中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "第四中学校"
+      },
+      "荒川区立諏訪台中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "区立",
+         "short_name" : "諏訪台中学校"
+      },
+      "葛飾区立一之台中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "一之台中学校"
+      },
+      "葛飾区立上平井中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "上平井中学校"
+      },
+      "葛飾区立中川中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "中川中学校"
+      },
+      "葛飾区立亀有中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "亀有中学校"
+      },
+      "葛飾区立双葉中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "双葉中学校"
+      },
+      "葛飾区立双葉中学校夜間学級" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "双葉中学校夜間学級"
+      },
+      "葛飾区立四ツ木中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "四ツ木中学校"
+      },
+      "葛飾区立堀切中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "堀切中学校"
+      },
+      "葛飾区立大道中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "大道中学校"
+      },
+      "葛飾区立奥戸中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "奥戸中学校"
+      },
+      "葛飾区立小松中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "小松中学校"
+      },
+      "葛飾区立常盤中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "常盤中学校"
+      },
+      "葛飾区立新宿中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "新宿中学校"
+      },
+      "葛飾区立新小岩中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "新小岩中学校"
+      },
+      "葛飾区立本田中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "本田中学校"
+      },
+      "葛飾区立東金町中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "東金町中学校"
+      },
+      "葛飾区立桜道中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "桜道中学校"
+      },
+      "葛飾区立水元中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "水元中学校"
+      },
+      "葛飾区立立石中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "立石中学校"
+      },
+      "葛飾区立綾瀬中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "綾瀬中学校"
+      },
+      "葛飾区立葛美中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "葛美中学校"
+      },
+      "葛飾区立金町中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "金町中学校"
+      },
+      "葛飾区立青戸中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "青戸中学校"
+      },
+      "葛飾区立青葉中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "青葉中学校"
+      },
+      "葛飾区立高砂中学校" : {
+         "location_area" : "葛飾区",
+         "owner_type" : "区立",
+         "short_name" : "高砂中学校"
+      },
+      "藤村女子中学校" : {
+         "location_area" : "武蔵野市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "藤村女子中学校・高等学校"
+      },
+      "西東京市立ひばりが丘中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "ひばりが丘中学校"
+      },
+      "西東京市立保谷中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "保谷中学校"
+      },
+      "西東京市立明保中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "明保中学校"
+      },
+      "西東京市立柳沢中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "柳沢中学校"
+      },
+      "西東京市立田無第一中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "田無第一中学校"
+      },
+      "西東京市立田無第三中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "田無第三中学校"
+      },
+      "西東京市立田無第二中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "田無第二中学校"
+      },
+      "西東京市立田無第四中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "田無第四中学校"
+      },
+      "西東京市立青嵐中学校" : {
+         "location_area" : "西東京市",
+         "owner_type" : "市立",
+         "short_name" : "青嵐中学校"
+      },
+      "調布市立神代中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "神代中学校"
+      },
+      "調布市立第七中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第七中学校"
+      },
+      "調布市立第三中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "調布市立第五中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "調布市立第八中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第八中学校"
+      },
+      "調布市立第六中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "調布市立第四中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "調布市立調布中学校" : {
+         "location_area" : "調布市",
+         "owner_type" : "市立",
+         "short_name" : "調布中学校"
+      },
+      "豊島区立千川中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "千川中学校"
+      },
+      "豊島区立千登世橋中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "千登世橋中学校"
+      },
+      "豊島区立巣鴨北中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "巣鴨北中学校"
+      },
+      "豊島区立明豊中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "明豊中学校"
+      },
+      "豊島区立池袋中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "池袋中学校"
+      },
+      "豊島区立西巣鴨中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "西巣鴨中学校"
+      },
+      "豊島区立西池袋中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "西池袋中学校"
+      },
+      "豊島区立駒込中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "区立",
+         "short_name" : "駒込中学校"
+      },
+      "豊島岡女子学園中学校" : {
+         "location_area" : "豊島区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "豊島岡女子学園中学校・高等学校"
+      },
+      "貞静学園中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "貞静学園中学高等学校"
+      },
+      "足立区立上沼田中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立伊興中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立入谷中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立入谷南中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立六月中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立加賀中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立千寿桜堤中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立千寿青葉中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立扇中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立新田中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立東島根中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立東綾瀬中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立栗島中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立江北中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立江南中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立渕江中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立竹の塚中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第一中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第七中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第九中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第五中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第八中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第六中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第十一中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第十三中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第十中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第十二中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第十四中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立第四中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立花保中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立花畑中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立花畑北中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立蒲原中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立西新井中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立谷中中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立青井中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立区立鹿浜中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "区立"
+      },
+      "足立学園中学校" : {
+         "location_area" : "足立区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "足立学園中学校・高等学校"
+      },
+      "跡見学園中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "跡見学園中学校・高等学校"
+      },
+      "郁文館中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "郁文館中学校・高等学校"
+      },
+      "開成中学校" : {
+         "location_area" : "荒川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "開成中学校・高等学校"
+      },
+      "雙葉中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "雙葉中学校・高等学校"
+      },
+      "青ヶ島村立青ヶ島中学校" : {
+         "owner_type" : "村立",
+         "short_name" : "青ヶ島中学校"
+      },
+      "青山学院中等部" : {
+         "location_area" : "渋谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "青山学院中等部・高等部"
+      },
+      "青梅市立吹上中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "吹上中学校"
+      },
+      "青梅市立新町中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "新町中学校"
+      },
+      "青梅市立東中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "青梅市立泉中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "泉中学校"
+      },
+      "青梅市立第一中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "青梅市立第七中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "第七中学校"
+      },
+      "青梅市立第三中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "青梅市立第二中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "青梅市立第六中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "青梅市立西中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "青梅市立霞台中学校" : {
+         "location_area" : "青梅市",
+         "owner_type" : "市立",
+         "short_name" : "霞台中学校"
+      },
+      "青稜中学校" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "青稜中学校・高等学校"
+      },
+      "順天中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "順天中学校・高等学校"
+      },
+      "頌栄女子学院中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "頌栄女子学院中学校・高等学校"
+      },
+      "香蘭女学校中等科" : {
+         "location_area" : "品川区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "香蘭女学校中等科・高等科"
+      },
+      "駒場東邦中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "駒場東邦中学校・高等学校"
+      },
+      "駒沢学園女子中学校" : {
+         "location_area" : "稲城市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "駒沢学園女子中学校・高等学校"
+      },
+      "駒込中学校" : {
+         "location_area" : "文京区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "駒込中学校・高等学校"
+      },
+      "駿台学園中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "駿台学園中学校・高等学校"
+      },
+      "高輪中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "高輪中学校・高等学校"
+      },
+      "鴎友学園女子中学校" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "鴎友学園女子中学校・高等学校"
+      },
+      "麹町学園女子中学校" : {
+         "location_area" : "千代田区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "麹町学園女子中学校・高等学校"
+      },
+      "麻布中学校" : {
+         "location_area" : "港区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "麻布中学校・高等学校"
+      }
+   },
+   "misc_schools" : {
+      "セント・メリーズ・インターナショナル・スクール" : {
+         "location_area" : "世田谷区",
+         "owner_type" : "私立"
+      }
+   }
+}

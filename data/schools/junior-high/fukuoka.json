@@ -1,0 +1,1871 @@
+{
+   "high_schools" : {
+      "福岡県立輝翔館中等教育学校" : {
+         "owner_type" : "県立",
+         "short_name" : "輝翔館中等教育学校"
+      }
+   },
+   "junior_high_schools" : {
+      "うきは市立吉井中学校" : {
+         "location_area" : "うきは市",
+         "owner_type" : "市立",
+         "short_name" : "吉井中学校"
+      },
+      "うきは市立浮羽中学校" : {
+         "location_area" : "うきは市",
+         "owner_type" : "市立",
+         "short_name" : "浮羽中学校"
+      },
+      "みやこ町立伊良原中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "伊良原中学校"
+      },
+      "みやこ町立勝山中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "勝山中学校"
+      },
+      "みやこ町立犀川中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "犀川中学校"
+      },
+      "みやこ町立豊津中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "豊津中学校"
+      },
+      "みやま市立山川中学校" : {
+         "location_area" : "みやま市",
+         "owner_type" : "市立",
+         "short_name" : "山川中学校"
+      },
+      "みやま市立東山中学校" : {
+         "location_area" : "みやま市",
+         "owner_type" : "市立",
+         "short_name" : "東山中学校"
+      },
+      "みやま市立瀬高中学校" : {
+         "location_area" : "みやま市",
+         "owner_type" : "市立",
+         "short_name" : "瀬高中学校"
+      },
+      "みやま市立高田中学校" : {
+         "location_area" : "みやま市",
+         "owner_type" : "市立",
+         "short_name" : "高田中学校"
+      },
+      "上毛町立築上東中学校" : {
+         "location_area" : "築上郡",
+         "owner_type" : "町立",
+         "short_name" : "築上東中学校"
+      },
+      "中村学園三陽中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "中村学園三陽中学校・高等学校"
+      },
+      "中村学園女子中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "中村学園女子中学校・高等学校"
+      },
+      "中間市立中間中学校" : {
+         "location_area" : "中間市",
+         "owner_type" : "市立",
+         "short_name" : "中間中学校"
+      },
+      "中間市立中間北中学校" : {
+         "location_area" : "中間市",
+         "owner_type" : "市立",
+         "short_name" : "中間北中学校"
+      },
+      "中間市立中間南中学校" : {
+         "location_area" : "中間市",
+         "owner_type" : "市立",
+         "short_name" : "中間南中学校"
+      },
+      "中間市立中間東中学校" : {
+         "location_area" : "中間市",
+         "owner_type" : "市立",
+         "short_name" : "中間東中学校"
+      },
+      "久山町立久山中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "久山中学校"
+      },
+      "久留米信愛女学院中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "久留米信愛女学院中学校・高等学校"
+      },
+      "久留米大学附設中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "久留米大学附設中学校・高等学校"
+      },
+      "久留米市立三潴中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "三潴中学校"
+      },
+      "久留米市立北野中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "北野中学校"
+      },
+      "久留米市立城南中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "久留米市立城島中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "城島中学校"
+      },
+      "久留米市立宮ノ陣中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "宮ノ陣中学校"
+      },
+      "久留米市立屏水中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "屏水中学校"
+      },
+      "久留米市立明星中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "明星中学校"
+      },
+      "久留米市立櫛原中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "櫛原中学校"
+      },
+      "久留米市立江南中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "江南中学校"
+      },
+      "久留米市立牟田山中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "牟田山中学校"
+      },
+      "久留米市立田主丸中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "田主丸中学校"
+      },
+      "久留米市立筑邦西中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "筑邦西中学校"
+      },
+      "久留米市立良山中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "良山中学校"
+      },
+      "久留米市立荒木中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "荒木中学校"
+      },
+      "久留米市立諏訪中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "諏訪中学校"
+      },
+      "久留米市立青陵中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "青陵中学校"
+      },
+      "久留米市立高牟礼中学校" : {
+         "location_area" : "久留米市",
+         "owner_type" : "市立",
+         "short_name" : "高牟礼中学校"
+      },
+      "九州国際大学付属中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "九州国際大学付属中学校・高等学校"
+      },
+      "八女学院中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "八女学院中学校・高等学校"
+      },
+      "八女市立上陽中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "上陽中学校"
+      },
+      "八女市立南中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "八女市立星野中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "星野中学校"
+      },
+      "八女市立矢部中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "矢部中学校"
+      },
+      "八女市立福島中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "福島中学校"
+      },
+      "八女市立立花中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "立花中学校"
+      },
+      "八女市立筑南中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "筑南中学校"
+      },
+      "八女市立西中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "八女市立見崎中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "見崎中学校"
+      },
+      "八女市立黒木中学校" : {
+         "location_area" : "八女市",
+         "owner_type" : "市立",
+         "short_name" : "黒木中学校"
+      },
+      "北九州市立上津役中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "上津役中学校"
+      },
+      "北九州市立中原中学校" : {
+         "location_area" : "戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "中原中学校"
+      },
+      "北九州市立中央中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "北九州市立二島中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "二島中学校"
+      },
+      "北九州市立企救中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "企救中学校"
+      },
+      "北九州市立八児中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "八児中学校"
+      },
+      "北九州市立則松中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "則松中学校"
+      },
+      "北九州市立千代中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "千代中学校"
+      },
+      "北九州市立南小倉中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "南小倉中学校"
+      },
+      "北九州市立南曽根中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "南曽根中学校"
+      },
+      "北九州市立吉田中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "吉田中学校"
+      },
+      "北九州市立向洋中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "向洋中学校"
+      },
+      "北九州市立城南中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "北九州市立大蔵中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "大蔵中学校"
+      },
+      "北九州市立大谷中学校" : {
+         "location_area" : "戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "大谷中学校"
+      },
+      "北九州市立守恒中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "守恒中学校"
+      },
+      "北九州市立富野中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "富野中学校"
+      },
+      "北九州市立尾倉中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "尾倉中学校"
+      },
+      "北九州市立広徳中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "広徳中学校"
+      },
+      "北九州市立引野中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "引野中学校"
+      },
+      "北九州市立志徳中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "志徳中学校"
+      },
+      "北九州市立思永中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "思永中学校"
+      },
+      "北九州市立戸ノ上中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "戸ノ上中学校"
+      },
+      "北九州市立折尾中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "折尾中学校"
+      },
+      "北九州市立早鞆中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "早鞆中学校"
+      },
+      "北九州市立曽根中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "曽根中学校"
+      },
+      "北九州市立木屋瀬中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "木屋瀬中学校"
+      },
+      "北九州市立本城中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "本城中学校"
+      },
+      "北九州市立東谷中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "東谷中学校"
+      },
+      "北九州市立東郷中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "東郷中学校"
+      },
+      "北九州市立松ヶ江中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "松ヶ江中学校"
+      },
+      "北九州市立板櫃中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "板櫃中学校"
+      },
+      "北九州市立枝光台中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "枝光台中学校"
+      },
+      "北九州市立柳西中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "柳西中学校"
+      },
+      "北九州市立槻田中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "槻田中学校"
+      },
+      "北九州市立横代中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "横代中学校"
+      },
+      "北九州市立永犬丸中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "永犬丸中学校"
+      },
+      "北九州市立沖田中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "沖田中学校"
+      },
+      "北九州市立沼中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "沼中学校"
+      },
+      "北九州市立洞北中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "洞北中学校"
+      },
+      "北九州市立浅川中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "浅川中学校"
+      },
+      "北九州市立湯川中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "湯川中学校"
+      },
+      "北九州市立熊西中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "熊西中学校"
+      },
+      "北九州市立田原中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "田原中学校"
+      },
+      "北九州市立白銀中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "白銀中学校"
+      },
+      "北九州市立石峯中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "石峯中学校"
+      },
+      "北九州市立穴生中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "穴生中学校"
+      },
+      "北九州市立篠崎中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "篠崎中学校"
+      },
+      "北九州市立緑丘中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "緑丘中学校"
+      },
+      "北九州市立花尾中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "花尾中学校"
+      },
+      "北九州市立若松中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "若松中学校"
+      },
+      "北九州市立菅生中学校" : {
+         "location_area" : "小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "菅生中学校"
+      },
+      "北九州市立菊陵中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "菊陵中学校"
+      },
+      "北九州市立足立中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "足立中学校"
+      },
+      "北九州市立門司中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "門司中学校"
+      },
+      "北九州市立霧丘中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "霧丘中学校"
+      },
+      "北九州市立風師中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "市立",
+         "short_name" : "風師中学校"
+      },
+      "北九州市立飛幡中学校" : {
+         "location_area" : "戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "飛幡中学校"
+      },
+      "北九州市立香月中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "香月中学校"
+      },
+      "北九州市立高生中学校" : {
+         "location_area" : "戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "高生中学校"
+      },
+      "北九州市立高見中学校" : {
+         "location_area" : "八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "高見中学校"
+      },
+      "北九州市立高須中学校" : {
+         "location_area" : "若松区",
+         "owner_type" : "市立",
+         "short_name" : "高須中学校"
+      },
+      "北九州市立黒崎中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "黒崎中学校"
+      },
+      "博多女子中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "博多女子中学校・高等学校"
+      },
+      "古賀市立古賀中学校" : {
+         "location_area" : "古賀市",
+         "owner_type" : "市立",
+         "short_name" : "古賀中学校"
+      },
+      "古賀市立古賀北中学校" : {
+         "location_area" : "古賀市",
+         "owner_type" : "市立",
+         "short_name" : "古賀北中学校"
+      },
+      "古賀市立古賀東中学校" : {
+         "location_area" : "古賀市",
+         "owner_type" : "市立",
+         "short_name" : "古賀東中学校"
+      },
+      "吉富町立吉富中学校" : {
+         "location_area" : "築上郡",
+         "owner_type" : "町立",
+         "short_name" : "吉富中学校"
+      },
+      "嘉麻市立嘉穂中学校" : {
+         "location_area" : "嘉麻市",
+         "owner_type" : "市立",
+         "short_name" : "嘉穂中学校"
+      },
+      "嘉麻市立山田中学校" : {
+         "location_area" : "嘉麻市",
+         "owner_type" : "市立",
+         "short_name" : "山田中学校"
+      },
+      "嘉麻市立碓井中学校" : {
+         "location_area" : "嘉麻市",
+         "owner_type" : "市立",
+         "short_name" : "碓井中学校"
+      },
+      "嘉麻市立稲築中学校" : {
+         "location_area" : "嘉麻市",
+         "owner_type" : "市立",
+         "short_name" : "稲築中学校"
+      },
+      "嘉麻市立稲築東中学校" : {
+         "location_area" : "嘉麻市",
+         "owner_type" : "市立",
+         "short_name" : "稲築東中学校"
+      },
+      "大任町立大任中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "大任中学校"
+      },
+      "大刀洗町立大刀洗中学校" : {
+         "location_area" : "三井郡",
+         "owner_type" : "町立",
+         "short_name" : "大刀洗中学校"
+      },
+      "大川市立三又中学校" : {
+         "location_area" : "大川市",
+         "owner_type" : "市立",
+         "short_name" : "三又中学校"
+      },
+      "大川市立大川中学校" : {
+         "location_area" : "大川市",
+         "owner_type" : "市立",
+         "short_name" : "大川中学校"
+      },
+      "大川市立大川南中学校" : {
+         "location_area" : "大川市",
+         "owner_type" : "市立",
+         "short_name" : "大川南中学校"
+      },
+      "大川市立大川東中学校" : {
+         "location_area" : "大川市",
+         "owner_type" : "市立",
+         "short_name" : "大川東中学校"
+      },
+      "大木町立大木中学校" : {
+         "location_area" : "三潴郡",
+         "owner_type" : "町立",
+         "short_name" : "大木中学校"
+      },
+      "大牟田中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "大牟田中学校・高等学校"
+      },
+      "大牟田市立勝立中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "勝立中学校"
+      },
+      "大牟田市立右京中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "右京中学校"
+      },
+      "大牟田市立延命中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "延命中学校"
+      },
+      "大牟田市立松原中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "松原中学校"
+      },
+      "大牟田市立橘中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "橘中学校"
+      },
+      "大牟田市立歴木中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "歴木中学校"
+      },
+      "大牟田市立甘木中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "甘木中学校"
+      },
+      "大牟田市立田隈中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "田隈中学校"
+      },
+      "大牟田市立白光中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "白光中学校"
+      },
+      "大牟田市立米生中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "米生中学校"
+      },
+      "大牟田市立船津中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "市立",
+         "short_name" : "船津中学校"
+      },
+      "大野城市立大利中学校" : {
+         "location_area" : "大野城市",
+         "owner_type" : "市立",
+         "short_name" : "大利中学校"
+      },
+      "大野城市立大野中学校" : {
+         "location_area" : "大野城市",
+         "owner_type" : "市立",
+         "short_name" : "大野中学校"
+      },
+      "大野城市立大野東中学校" : {
+         "location_area" : "大野城市",
+         "owner_type" : "市立",
+         "short_name" : "大野東中学校"
+      },
+      "大野城市立平野中学校" : {
+         "location_area" : "大野城市",
+         "owner_type" : "市立",
+         "short_name" : "平野中学校"
+      },
+      "大野城市立御陵中学校" : {
+         "location_area" : "大野城市",
+         "owner_type" : "市立",
+         "short_name" : "御陵中学校"
+      },
+      "太宰府市立太宰府中学校" : {
+         "location_area" : "太宰府市",
+         "owner_type" : "市立",
+         "short_name" : "太宰府中学校"
+      },
+      "太宰府市立太宰府東中学校" : {
+         "location_area" : "太宰府市",
+         "owner_type" : "市立",
+         "short_name" : "太宰府東中学校"
+      },
+      "太宰府市立太宰府西中学校" : {
+         "location_area" : "太宰府市",
+         "owner_type" : "市立",
+         "short_name" : "太宰府西中学校"
+      },
+      "太宰府市立学業院中学校" : {
+         "location_area" : "太宰府市",
+         "owner_type" : "市立",
+         "short_name" : "学業院中学校"
+      },
+      "宇美町立宇美中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "宇美中学校"
+      },
+      "宇美町立宇美南中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "宇美南中学校"
+      },
+      "宇美町立宇美東中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "宇美東中学校"
+      },
+      "宗像市立中央中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "宗像市立城山中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "城山中学校"
+      },
+      "宗像市立大島中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "大島中学校"
+      },
+      "宗像市立日の里中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "日の里中学校"
+      },
+      "宗像市立河東中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "河東中学校"
+      },
+      "宗像市立玄海中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "玄海中学校"
+      },
+      "宗像市立自由ヶ丘中学校" : {
+         "location_area" : "宗像市",
+         "owner_type" : "市立",
+         "short_name" : "自由ヶ丘中学校"
+      },
+      "宮若市立宮田中学校" : {
+         "location_area" : "宮若市",
+         "owner_type" : "市立",
+         "short_name" : "宮田中学校"
+      },
+      "宮若市立宮田光陵中学校" : {
+         "location_area" : "宮若市",
+         "owner_type" : "市立",
+         "short_name" : "宮田光陵中学校"
+      },
+      "宮若市立宮田西中学校" : {
+         "location_area" : "宮若市",
+         "owner_type" : "市立",
+         "short_name" : "宮田西中学校"
+      },
+      "宮若市立若宮中学校" : {
+         "location_area" : "宮若市",
+         "owner_type" : "市立",
+         "short_name" : "若宮中学校"
+      },
+      "小倉日新館中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "私立"
+      },
+      "小竹町立小竹中学校" : {
+         "location_area" : "鞍手郡",
+         "owner_type" : "町立",
+         "short_name" : "小竹中学校"
+      },
+      "小郡市立三国中学校" : {
+         "location_area" : "小郡市",
+         "owner_type" : "市立",
+         "short_name" : "三国中学校"
+      },
+      "小郡市立大原中学校" : {
+         "location_area" : "小郡市",
+         "owner_type" : "市立",
+         "short_name" : "大原中学校"
+      },
+      "小郡市立宝城中学校" : {
+         "location_area" : "小郡市",
+         "owner_type" : "市立",
+         "short_name" : "宝城中学校"
+      },
+      "小郡市立小郡中学校" : {
+         "location_area" : "小郡市",
+         "owner_type" : "市立",
+         "short_name" : "小郡中学校"
+      },
+      "小郡市立立石中学校" : {
+         "location_area" : "小郡市",
+         "owner_type" : "市立",
+         "short_name" : "立石中学校"
+      },
+      "岡垣町立岡垣中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "岡垣中学校"
+      },
+      "岡垣町立岡垣東中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "岡垣東中学校"
+      },
+      "川崎町立川崎中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "川崎中学校"
+      },
+      "川崎町立池尻中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "池尻中学校"
+      },
+      "川崎町立鷹峰中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "鷹峰中学校"
+      },
+      "広川町立広川中学校" : {
+         "location_area" : "八女郡",
+         "owner_type" : "町立",
+         "short_name" : "広川中学校"
+      },
+      "志免町立志免中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "志免中学校"
+      },
+      "志免町立志免東中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "志免東中学校"
+      },
+      "折尾愛真中学校" : {
+         "location_area" : "八幡西区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "折尾愛真中学校・高等学校"
+      },
+      "敬愛中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "敬愛中学校・高等学校"
+      },
+      "新宮町立新宮中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "新宮中学校"
+      },
+      "新宮町立新宮中学校相島分校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "新宮中学校相島分校"
+      },
+      "明光学園中学校" : {
+         "location_area" : "大牟田市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明光学園中学校・高等学校"
+      },
+      "明治学園中学校" : {
+         "location_area" : "戸畑区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明治学園小学校・中学校・高等学校"
+      },
+      "春日市立春日中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日中学校"
+      },
+      "春日市立春日北中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日北中学校"
+      },
+      "春日市立春日南中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日南中学校"
+      },
+      "春日市立春日東中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日東中学校"
+      },
+      "春日市立春日西中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日西中学校"
+      },
+      "春日市立春日野中学校" : {
+         "location_area" : "春日市",
+         "owner_type" : "市立",
+         "short_name" : "春日野中学校"
+      },
+      "朝倉市立十文字中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "十文字中学校"
+      },
+      "朝倉市立南陵中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "南陵中学校"
+      },
+      "朝倉市立杷木中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "杷木中学校"
+      },
+      "朝倉市立比良松中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "比良松中学校"
+      },
+      "朝倉市立甘木中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "甘木中学校"
+      },
+      "朝倉市立秋月中学校" : {
+         "location_area" : "朝倉市",
+         "owner_type" : "市立",
+         "short_name" : "秋月中学校"
+      },
+      "東峰村立東峰中学校" : {
+         "location_area" : "朝倉郡",
+         "owner_type" : "村立",
+         "short_name" : "東峰中学校"
+      },
+      "東福岡自彊館中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東福岡自彊館中学校・東福岡高等学校"
+      },
+      "柳川市立三橋中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "三橋中学校"
+      },
+      "柳川市立大和中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "大和中学校"
+      },
+      "柳川市立昭代中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "昭代中学校"
+      },
+      "柳川市立柳南中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "柳南中学校"
+      },
+      "柳川市立柳城中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "柳城中学校"
+      },
+      "柳川市立蒲池中学校" : {
+         "location_area" : "柳川市",
+         "owner_type" : "市立",
+         "short_name" : "蒲池中学校"
+      },
+      "桂川町立桂川中学校" : {
+         "location_area" : "嘉穂郡",
+         "owner_type" : "町立",
+         "short_name" : "桂川中学校"
+      },
+      "水巻町立水巻中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "水巻中学校"
+      },
+      "水巻町立水巻南中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "水巻南中学校"
+      },
+      "沖学園隆徳館中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "沖学園隆徳館中学校・沖学園高等学校"
+      },
+      "泰星中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "泰星中学校・高等学校"
+      },
+      "添田町立添田中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "添田中学校"
+      },
+      "添田町立英彦中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "英彦中学校"
+      },
+      "照曜館中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "東筑紫学園高等学校・照曜館中学校"
+      },
+      "田川市立中央中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "中央中学校"
+      },
+      "田川市立伊田中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "伊田中学校"
+      },
+      "田川市立弓削田中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "弓削田中学校"
+      },
+      "田川市立後藤寺中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "後藤寺中学校"
+      },
+      "田川市立猪位金中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "猪位金中学校"
+      },
+      "田川市立田川中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "田川中学校"
+      },
+      "田川市立金川中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "金川中学校"
+      },
+      "田川市立鎮西中学校" : {
+         "location_area" : "田川市",
+         "owner_type" : "市立",
+         "short_name" : "鎮西中学校"
+      },
+      "直方市立植木中学校" : {
+         "location_area" : "直方市",
+         "owner_type" : "市立",
+         "short_name" : "植木中学校"
+      },
+      "直方市立直方第一中学校" : {
+         "location_area" : "直方市",
+         "owner_type" : "市立",
+         "short_name" : "直方第一中学校"
+      },
+      "直方市立直方第三中学校" : {
+         "location_area" : "直方市",
+         "owner_type" : "市立",
+         "short_name" : "直方第三中学校"
+      },
+      "直方市立直方第二中学校" : {
+         "location_area" : "直方市",
+         "owner_type" : "市立",
+         "short_name" : "直方第二中学校"
+      },
+      "福岡大学附属大濠中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "福岡大学附属大濠中学校・高等学校"
+      },
+      "福岡女学院中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "福岡女学院中学校・高等学校"
+      },
+      "福岡市立三宅中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "三宅中学校"
+      },
+      "福岡市立三筑中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "三筑中学校"
+      },
+      "福岡市立下山門中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "下山門中学校"
+      },
+      "福岡市立住吉中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "住吉中学校"
+      },
+      "福岡市立元岡中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "元岡中学校"
+      },
+      "福岡市立内浜中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "内浜中学校"
+      },
+      "福岡市立北崎中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "北崎中学校"
+      },
+      "福岡市立千代中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "千代中学校"
+      },
+      "福岡市立博多中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "博多中学校"
+      },
+      "福岡市立原中央中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "原中央中学校"
+      },
+      "福岡市立原中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "原中学校"
+      },
+      "福岡市立原北中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "原北中学校"
+      },
+      "福岡市立友泉中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "友泉中学校"
+      },
+      "福岡市立吉塚中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "吉塚中学校"
+      },
+      "福岡市立和白丘中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "和白丘中学校"
+      },
+      "福岡市立和白中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "和白中学校"
+      },
+      "福岡市立城南中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "福岡市立城西中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "市立",
+         "short_name" : "城西中学校"
+      },
+      "福岡市立城香中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "城香中学校"
+      },
+      "福岡市立壱岐ヶ丘中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "壱岐ヶ丘中学校"
+      },
+      "福岡市立壱岐中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "壱岐中学校"
+      },
+      "福岡市立多々良中央中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "多々良中央中学校"
+      },
+      "福岡市立多々良中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "多々良中学校"
+      },
+      "福岡市立姪浜中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "姪浜中学校"
+      },
+      "福岡市立宮竹中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "宮竹中学校"
+      },
+      "福岡市立小呂中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "小呂中学校"
+      },
+      "福岡市立席田中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "席田中学校"
+      },
+      "福岡市立平尾中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "平尾中学校"
+      },
+      "福岡市立当仁中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "当仁中学校"
+      },
+      "福岡市立志賀中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "志賀中学校"
+      },
+      "福岡市立早良中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "早良中学校"
+      },
+      "福岡市立春吉中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "春吉中学校"
+      },
+      "福岡市立曰佐中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "曰佐中学校"
+      },
+      "福岡市立東住吉中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "東住吉中学校"
+      },
+      "福岡市立東光中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "東光中学校"
+      },
+      "福岡市立松崎中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "松崎中学校"
+      },
+      "福岡市立板付中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "板付中学校"
+      },
+      "福岡市立柏原中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "柏原中学校"
+      },
+      "福岡市立梅林中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "市立",
+         "short_name" : "梅林中学校"
+      },
+      "福岡市立横手中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "横手中学校"
+      },
+      "福岡市立次郎丸中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "次郎丸中学校"
+      },
+      "福岡市立片江中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "市立",
+         "short_name" : "片江中学校"
+      },
+      "福岡市立玄洋中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "玄洋中学校"
+      },
+      "福岡市立玄界中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "玄界中学校"
+      },
+      "福岡市立田隈中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "田隈中学校"
+      },
+      "福岡市立百道中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "百道中学校"
+      },
+      "福岡市立福岡中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "福岡中学校"
+      },
+      "福岡市立筑紫丘中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "筑紫丘中学校"
+      },
+      "福岡市立箱崎中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "箱崎中学校"
+      },
+      "福岡市立箱崎清松中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "箱崎清松中学校"
+      },
+      "福岡市立老司中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "老司中学校"
+      },
+      "福岡市立能古中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "能古中学校"
+      },
+      "福岡市立舞鶴中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "舞鶴中学校"
+      },
+      "福岡市立花畑中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "花畑中学校"
+      },
+      "福岡市立西福岡中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "西福岡中学校"
+      },
+      "福岡市立西陵中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "市立",
+         "short_name" : "西陵中学校"
+      },
+      "福岡市立警固中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "市立",
+         "short_name" : "警固中学校"
+      },
+      "福岡市立那珂中学校" : {
+         "location_area" : "博多区",
+         "owner_type" : "市立",
+         "short_name" : "那珂中学校"
+      },
+      "福岡市立野間中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "野間中学校"
+      },
+      "福岡市立金武中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "金武中学校"
+      },
+      "福岡市立長丘中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "長丘中学校"
+      },
+      "福岡市立長尾中学校" : {
+         "location_area" : "城南区",
+         "owner_type" : "市立",
+         "short_name" : "長尾中学校"
+      },
+      "福岡市立青葉中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "青葉中学校"
+      },
+      "福岡市立香椎第一中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "香椎第一中学校"
+      },
+      "福岡市立香椎第三中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "香椎第三中学校"
+      },
+      "福岡市立香椎第二中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "香椎第二中学校"
+      },
+      "福岡市立高取中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "市立",
+         "short_name" : "高取中学校"
+      },
+      "福岡市立高宮中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "高宮中学校"
+      },
+      "福岡教育大学附属久留米中学校" : {
+         "owner_type" : "国立"
+      },
+      "福岡教育大学附属小倉中学校" : {
+         "owner_type" : "国立"
+      },
+      "福岡教育大学附属福岡中学校" : {
+         "owner_type" : "国立"
+      },
+      "福岡県立育徳館中学校" : {
+         "owner_type" : "県立",
+         "short_name" : "育徳館中学校"
+      },
+      "福岡県立門司学園中学校" : {
+         "location_area" : "門司区",
+         "owner_type" : "県立",
+         "short_name" : "門司学園中学校"
+      },
+      "福岡舞鶴中学校" : {
+         "location_area" : "西区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "福岡舞鶴中学校・高等学校"
+      },
+      "福岡雙葉中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "福岡雙葉中学校・高等学校"
+      },
+      "福智町立方城中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "方城中学校"
+      },
+      "福智町立赤池中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "赤池中学校"
+      },
+      "福智町立金田中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "金田中学校"
+      },
+      "福津市立津屋崎中学校" : {
+         "location_area" : "福津市",
+         "owner_type" : "市立",
+         "short_name" : "津屋崎中学校"
+      },
+      "福津市立福間中学校" : {
+         "location_area" : "福津市",
+         "owner_type" : "市立",
+         "short_name" : "福間中学校"
+      },
+      "福津市立福間東中学校" : {
+         "location_area" : "福津市",
+         "owner_type" : "市立",
+         "short_name" : "福間東中学校"
+      },
+      "筑前町立三輪中学校" : {
+         "location_area" : "朝倉郡",
+         "owner_type" : "町立",
+         "short_name" : "三輪中学校"
+      },
+      "筑前町立夜須中学校" : {
+         "location_area" : "朝倉郡",
+         "owner_type" : "町立",
+         "short_name" : "夜須中学校"
+      },
+      "筑後市立筑後中学校" : {
+         "location_area" : "筑後市",
+         "owner_type" : "市立",
+         "short_name" : "筑後中学校"
+      },
+      "筑後市立筑後北中学校" : {
+         "location_area" : "筑後市",
+         "owner_type" : "市立",
+         "short_name" : "筑後北中学校"
+      },
+      "筑後市立羽犬塚中学校" : {
+         "location_area" : "筑後市",
+         "owner_type" : "市立",
+         "short_name" : "羽犬塚中学校"
+      },
+      "筑紫女学園中学校" : {
+         "location_area" : "中央区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "筑紫女学園中学校・高等学校"
+      },
+      "筑紫野市立二日市中学校" : {
+         "location_area" : "筑紫野市",
+         "owner_type" : "市立",
+         "short_name" : "二日市中学校"
+      },
+      "筑紫野市立天拝中学校" : {
+         "location_area" : "筑紫野市",
+         "owner_type" : "市立",
+         "short_name" : "天拝中学校"
+      },
+      "筑紫野市立筑山中学校" : {
+         "location_area" : "筑紫野市",
+         "owner_type" : "市立",
+         "short_name" : "筑山中学校"
+      },
+      "筑紫野市立筑紫野中学校" : {
+         "location_area" : "筑紫野市",
+         "owner_type" : "市立",
+         "short_name" : "筑紫野中学校"
+      },
+      "筑紫野市立筑紫野南中学校" : {
+         "location_area" : "筑紫野市",
+         "owner_type" : "市立",
+         "short_name" : "筑紫野南中学校"
+      },
+      "筑陽学園中学校" : {
+         "location_area" : "太宰府市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "筑陽学園中学校・高等学校"
+      },
+      "築上町立椎田中学校" : {
+         "location_area" : "築上郡",
+         "owner_type" : "町立",
+         "short_name" : "椎田中学校"
+      },
+      "築上町立築城中学校" : {
+         "location_area" : "築上郡",
+         "owner_type" : "町立",
+         "short_name" : "築城中学校"
+      },
+      "篠栗町立篠栗中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "篠栗中学校"
+      },
+      "篠栗町立篠栗北中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "篠栗北中学校"
+      },
+      "粕屋町立粕屋中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "粕屋中学校"
+      },
+      "粕屋町立粕屋東中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "粕屋東中学校"
+      },
+      "糸島市立二丈中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "二丈中学校"
+      },
+      "糸島市立前原中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "前原中学校"
+      },
+      "糸島市立前原東中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "前原東中学校"
+      },
+      "糸島市立前原西中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "前原西中学校"
+      },
+      "糸島市立志摩中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "志摩中学校"
+      },
+      "糸島市立志摩中学校姫島分校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "志摩中学校姫島分校"
+      },
+      "糸島市立福吉中学校" : {
+         "location_area" : "糸島市",
+         "owner_type" : "市立",
+         "short_name" : "福吉中学校"
+      },
+      "糸田町立糸田中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "糸田中学校"
+      },
+      "芦屋町立芦屋中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "芦屋中学校"
+      },
+      "苅田町立新津中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "新津中学校"
+      },
+      "苅田町立苅田中学校" : {
+         "location_area" : "京都郡",
+         "owner_type" : "町立",
+         "short_name" : "苅田中学校"
+      },
+      "行橋市立中京中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "中京中学校"
+      },
+      "行橋市立今元中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "今元中学校"
+      },
+      "行橋市立仲津中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "仲津中学校"
+      },
+      "行橋市立泉中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "泉中学校"
+      },
+      "行橋市立行橋中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "行橋中学校"
+      },
+      "行橋市立長峡中学校" : {
+         "location_area" : "行橋市",
+         "owner_type" : "市立",
+         "short_name" : "長峡中学校"
+      },
+      "西南女学院中学校" : {
+         "location_area" : "小倉北区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "西南女学院中学校・高等学校"
+      },
+      "西南学院中学校" : {
+         "location_area" : "早良区",
+         "owner_type" : "私立",
+         "wikipedia_name" : "西南学院中学校・高等学校"
+      },
+      "豊前市立八屋中学校" : {
+         "location_area" : "豊前市",
+         "owner_type" : "市立",
+         "short_name" : "八屋中学校"
+      },
+      "豊前市立千束中学校" : {
+         "location_area" : "豊前市",
+         "owner_type" : "市立",
+         "short_name" : "千束中学校"
+      },
+      "豊前市立合岩中学校" : {
+         "location_area" : "豊前市",
+         "owner_type" : "市立",
+         "short_name" : "合岩中学校"
+      },
+      "豊前市立角田中学校" : {
+         "location_area" : "豊前市",
+         "owner_type" : "市立",
+         "short_name" : "角田中学校"
+      },
+      "赤村立赤中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "村立",
+         "short_name" : "赤中学校"
+      },
+      "遠賀町立遠賀中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "遠賀中学校"
+      },
+      "遠賀町立遠賀南中学校" : {
+         "location_area" : "遠賀郡",
+         "owner_type" : "町立",
+         "short_name" : "遠賀南中学校"
+      },
+      "那珂川町立那珂川中学校" : {
+         "location_area" : "筑紫郡",
+         "owner_type" : "町立",
+         "short_name" : "那珂川中学校"
+      },
+      "那珂川町立那珂川北中学校" : {
+         "location_area" : "筑紫郡",
+         "owner_type" : "町立",
+         "short_name" : "那珂川北中学校"
+      },
+      "那珂川町立那珂川南中学校" : {
+         "location_area" : "筑紫郡",
+         "owner_type" : "町立",
+         "short_name" : "那珂川南中学校"
+      },
+      "鞍手町立鞍手北中学校" : {
+         "location_area" : "鞍手郡",
+         "owner_type" : "町立",
+         "short_name" : "鞍手北中学校"
+      },
+      "鞍手町立鞍手南中学校" : {
+         "location_area" : "鞍手郡",
+         "owner_type" : "町立",
+         "short_name" : "鞍手南中学校"
+      },
+      "須恵町立須恵中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "須恵中学校"
+      },
+      "須恵町立須恵東中学校" : {
+         "location_area" : "糟屋郡",
+         "owner_type" : "町立",
+         "short_name" : "須恵東中学校"
+      },
+      "飯塚市立二瀬中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "二瀬中学校"
+      },
+      "飯塚市立幸袋中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "幸袋中学校"
+      },
+      "飯塚市立庄内中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "庄内中学校"
+      },
+      "飯塚市立穂波東中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "穂波東中学校"
+      },
+      "飯塚市立穂波西中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "穂波西中学校"
+      },
+      "飯塚市立筑穂中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "筑穂中学校"
+      },
+      "飯塚市立菰田中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "菰田中学校"
+      },
+      "飯塚市立鎮西中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "鎮西中学校"
+      },
+      "飯塚市立頴田中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "頴田中学校"
+      },
+      "飯塚市立飯塚第一中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "飯塚第一中学校"
+      },
+      "飯塚市立飯塚第三中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "飯塚第三中学校"
+      },
+      "飯塚市立飯塚第二中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "市立",
+         "short_name" : "飯塚第二中学校"
+      },
+      "飯塚日新館中学校" : {
+         "location_area" : "飯塚市",
+         "owner_type" : "私立"
+      },
+      "香春町立勾金中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "勾金中学校"
+      },
+      "香春町立香春中学校" : {
+         "location_area" : "田川郡",
+         "owner_type" : "町立",
+         "short_name" : "香春中学校"
+      }
+   }
+}

@@ -1,0 +1,706 @@
+{
+   "junior_high_schools" : {
+      "中津市立三光中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "三光中学校"
+      },
+      "中津市立中津中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "中津中学校"
+      },
+      "中津市立今津中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "今津中学校"
+      },
+      "中津市立城北中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "城北中学校"
+      },
+      "中津市立山国中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "山国中学校"
+      },
+      "中津市立本耶馬溪中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "本耶馬溪中学校"
+      },
+      "中津市立東中津中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "東中津中学校"
+      },
+      "中津市立緑ケ丘中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "緑ケ丘中学校"
+      },
+      "中津市立耶馬溪中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "耶馬溪中学校"
+      },
+      "中津市立豊陽中学校" : {
+         "location_area" : "中津市",
+         "owner_type" : "市立",
+         "short_name" : "豊陽中学校"
+      },
+      "九重町立南山田中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "南山田中学校"
+      },
+      "九重町立東飯田中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "東飯田中学校"
+      },
+      "九重町立野上中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "野上中学校"
+      },
+      "九重町立飯田中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "飯田中学校"
+      },
+      "佐伯市立佐伯南中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "佐伯南中学校"
+      },
+      "佐伯市立佐伯城南中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "佐伯城南中学校"
+      },
+      "佐伯市立大入島中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "大入島中学校"
+      },
+      "佐伯市立大島中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "大島中学校"
+      },
+      "佐伯市立宇目緑豊中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "宇目緑豊中学校"
+      },
+      "佐伯市立彦陽中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "彦陽中学校"
+      },
+      "佐伯市立昭和中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "昭和中学校"
+      },
+      "佐伯市立本匠中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "本匠中学校"
+      },
+      "佐伯市立東雲中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "東雲中学校"
+      },
+      "佐伯市立直川中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "直川中学校"
+      },
+      "佐伯市立米水津中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "米水津中学校"
+      },
+      "佐伯市立蒲江翔南中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "蒲江翔南中学校"
+      },
+      "佐伯市立鶴見中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "鶴見中学校"
+      },
+      "佐伯市立鶴谷中学校" : {
+         "location_area" : "佐伯市",
+         "owner_type" : "市立",
+         "short_name" : "鶴谷中学校"
+      },
+      "別府市立中部中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "中部中学校"
+      },
+      "別府市立北部中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "別府市立山の手中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "山の手中学校"
+      },
+      "別府市立朝日中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "朝日中学校"
+      },
+      "別府市立東山中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "東山中学校"
+      },
+      "別府市立浜脇中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "浜脇中学校"
+      },
+      "別府市立青山中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "青山中学校"
+      },
+      "別府市立鶴見台中学校" : {
+         "location_area" : "別府市",
+         "owner_type" : "市立",
+         "short_name" : "鶴見台中学校"
+      },
+      "向陽中学校" : {
+         "owner_type" : "私立"
+      },
+      "国東市立国東中学校" : {
+         "location_area" : "国東市",
+         "owner_type" : "市立",
+         "short_name" : "国東中学校"
+      },
+      "国東市立国見中学校" : {
+         "location_area" : "国東市",
+         "owner_type" : "市立",
+         "short_name" : "国見中学校"
+      },
+      "国東市立安岐中学校" : {
+         "location_area" : "国東市",
+         "owner_type" : "市立",
+         "short_name" : "安岐中学校"
+      },
+      "国東市立武蔵中学校" : {
+         "location_area" : "国東市",
+         "owner_type" : "市立",
+         "short_name" : "武蔵中学校"
+      },
+      "大分中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "大分中学校・高等学校"
+      },
+      "大分大学教育福祉科学部附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "大分市立上野ヶ丘中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "上野ヶ丘中学校"
+      },
+      "大分市立佐賀関中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "佐賀関中学校"
+      },
+      "大分市立判田中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "判田中学校"
+      },
+      "大分市立南大分中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "南大分中学校"
+      },
+      "大分市立原川中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "原川中学校"
+      },
+      "大分市立吉野中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "吉野中学校"
+      },
+      "大分市立坂ノ市中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "坂ノ市中学校"
+      },
+      "大分市立城南中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "大分市立城東中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "城東中学校"
+      },
+      "大分市立大分西中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "大分西中学校"
+      },
+      "大分市立大在中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "大在中学校"
+      },
+      "大分市立大東中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "大東中学校"
+      },
+      "大分市立戸次中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "戸次中学校"
+      },
+      "大分市立明野中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "明野中学校"
+      },
+      "大分市立東陽中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "東陽中学校"
+      },
+      "大分市立滝尾中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "滝尾中学校"
+      },
+      "大分市立王子中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "王子中学校"
+      },
+      "大分市立碩田中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "碩田中学校"
+      },
+      "大分市立神崎中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "神崎中学校"
+      },
+      "大分市立稙田中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "稙田中学校"
+      },
+      "大分市立稙田南中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "稙田南中学校"
+      },
+      "大分市立稙田東中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "稙田東中学校"
+      },
+      "大分市立稙田西中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "稙田西中学校"
+      },
+      "大分市立竹中中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "竹中中学校"
+      },
+      "大分市立賀来小中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "賀来小中学校"
+      },
+      "大分市立野津原中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "野津原中学校"
+      },
+      "大分市立鶴崎中学校" : {
+         "location_area" : "大分市",
+         "owner_type" : "市立",
+         "short_name" : "鶴崎中学校"
+      },
+      "大分県立大分豊府中学校" : {
+         "owner_type" : "県立",
+         "short_name" : "大分豊府中学校"
+      },
+      "姫島村立姫島中学校" : {
+         "location_area" : "東国東郡",
+         "owner_type" : "村立",
+         "short_name" : "姫島中学校"
+      },
+      "宇佐市立北部中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "宇佐市立宇佐中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "宇佐中学校"
+      },
+      "宇佐市立安心院中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "安心院中学校"
+      },
+      "宇佐市立津房中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "津房中学校"
+      },
+      "宇佐市立深見中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "深見中学校"
+      },
+      "宇佐市立西部中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "西部中学校"
+      },
+      "宇佐市立長洲中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "長洲中学校"
+      },
+      "宇佐市立院内中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "院内中学校"
+      },
+      "宇佐市立駅川中学校" : {
+         "location_area" : "宇佐市",
+         "owner_type" : "市立",
+         "short_name" : "駅川中学校"
+      },
+      "岩田中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "岩田中学校・高等学校"
+      },
+      "日出町立南端中学校" : {
+         "location_area" : "速見郡",
+         "owner_type" : "町立",
+         "short_name" : "南端中学校"
+      },
+      "日出町立大神中学校" : {
+         "location_area" : "速見郡",
+         "owner_type" : "町立",
+         "short_name" : "大神中学校"
+      },
+      "日出町立日出中学校" : {
+         "location_area" : "速見郡",
+         "owner_type" : "町立",
+         "short_name" : "日出中学校"
+      },
+      "日田市立三隈中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "三隈中学校"
+      },
+      "日田市立五馬中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "五馬中学校"
+      },
+      "日田市立前津江中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "前津江中学校"
+      },
+      "日田市立北部中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "日田市立南部中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "南部中学校"
+      },
+      "日田市立大山中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "大山中学校"
+      },
+      "日田市立大明中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "大明中学校"
+      },
+      "日田市立戸山中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "戸山中学校"
+      },
+      "日田市立東有田中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "東有田中学校"
+      },
+      "日田市立東渓中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "東渓中学校"
+      },
+      "日田市立東部中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "東部中学校"
+      },
+      "日田市立津江中学校" : {
+         "location_area" : "日田市",
+         "owner_type" : "市立",
+         "short_name" : "津江中学校"
+      },
+      "明豊中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "明豊中学校・高等学校"
+      },
+      "杵築市立大田中学校" : {
+         "location_area" : "杵築市",
+         "owner_type" : "市立",
+         "short_name" : "大田中学校"
+      },
+      "杵築市立宗近中学校" : {
+         "location_area" : "杵築市",
+         "owner_type" : "市立",
+         "short_name" : "宗近中学校"
+      },
+      "杵築市立山香中学校" : {
+         "location_area" : "杵築市",
+         "owner_type" : "市立",
+         "short_name" : "山香中学校"
+      },
+      "杵築市立杵築中学校" : {
+         "location_area" : "杵築市",
+         "owner_type" : "市立",
+         "short_name" : "杵築中学校"
+      },
+      "津久見市立保戸島中学校" : {
+         "location_area" : "津久見市",
+         "owner_type" : "市立",
+         "short_name" : "保戸島中学校"
+      },
+      "津久見市立四浦東中学校" : {
+         "location_area" : "津久見市",
+         "owner_type" : "市立",
+         "short_name" : "四浦東中学校"
+      },
+      "津久見市立第一中学校" : {
+         "location_area" : "津久見市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "津久見市立第二中学校" : {
+         "location_area" : "津久見市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "玖珠町立八幡中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "八幡中学校"
+      },
+      "玖珠町立北山田中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "北山田中学校"
+      },
+      "玖珠町立古後中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "古後中学校"
+      },
+      "玖珠町立山浦中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "山浦中学校"
+      },
+      "玖珠町立日出生中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "日出生中学校"
+      },
+      "玖珠町立森中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "森中学校"
+      },
+      "玖珠町立玖珠中学校" : {
+         "location_area" : "玖珠郡",
+         "owner_type" : "町立",
+         "short_name" : "玖珠中学校"
+      },
+      "由布市立庄内中学校" : {
+         "location_area" : "由布市",
+         "owner_type" : "市立",
+         "short_name" : "庄内中学校"
+      },
+      "由布市立挾間中学校" : {
+         "location_area" : "由布市",
+         "owner_type" : "市立",
+         "short_name" : "挾間中学校"
+      },
+      "由布市立湯布院中学校" : {
+         "location_area" : "由布市",
+         "owner_type" : "市立",
+         "short_name" : "湯布院中学校"
+      },
+      "竹田市立久住中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "久住中学校"
+      },
+      "竹田市立双城中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "双城中学校"
+      },
+      "竹田市立直入中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "直入中学校"
+      },
+      "竹田市立竹田中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "竹田中学校"
+      },
+      "竹田市立竹田南部中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "竹田南部中学校"
+      },
+      "竹田市立緑ヶ丘中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "緑ヶ丘中学校"
+      },
+      "竹田市立都野中学校" : {
+         "location_area" : "竹田市",
+         "owner_type" : "市立",
+         "short_name" : "都野中学校"
+      },
+      "臼杵市立北中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "北中学校"
+      },
+      "臼杵市立南中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "臼杵市立東中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "臼杵市立深江中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "深江中学校"
+      },
+      "臼杵市立豊洋中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "豊洋中学校"
+      },
+      "臼杵市立野津中学校" : {
+         "location_area" : "臼杵市",
+         "owner_type" : "市立",
+         "short_name" : "野津中学校"
+      },
+      "豊後大野市立三重中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "三重中学校"
+      },
+      "豊後大野市立千歳中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "千歳中学校"
+      },
+      "豊後大野市立大野中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "大野中学校"
+      },
+      "豊後大野市立朝地中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "朝地中学校"
+      },
+      "豊後大野市立清川中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "清川中学校"
+      },
+      "豊後大野市立犬飼中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "犬飼中学校"
+      },
+      "豊後大野市立緒方中学校" : {
+         "location_area" : "豊後大野市",
+         "owner_type" : "市立",
+         "short_name" : "緒方中学校"
+      },
+      "豊後高田市立河内中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "河内中学校"
+      },
+      "豊後高田市立田染中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "田染中学校"
+      },
+      "豊後高田市立真玉中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "真玉中学校"
+      },
+      "豊後高田市立都甲中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "都甲中学校"
+      },
+      "豊後高田市立香々地中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "香々地中学校"
+      },
+      "豊後高田市立高田中学校" : {
+         "location_area" : "豊後高田市",
+         "owner_type" : "市立",
+         "short_name" : "高田中学校"
+      }
+   }
+}

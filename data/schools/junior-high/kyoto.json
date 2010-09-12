@@ -1,0 +1,972 @@
+{
+   "junior_high_schools" : {
+      "ノートルダム女学院中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "ノートルダム女学院中学校・高等学校"
+      },
+      "一燈園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "一燈園小学校・中学校・高等学校"
+      },
+      "与謝野町宮津市中学校組合立橋立中学校" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "組合"
+      },
+      "与謝野町立加悦中学校" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "加悦中学校"
+      },
+      "与謝野町立江陽中学校" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "江陽中学校"
+      },
+      "久御山町立久御山中学校" : {
+         "location_area" : "久世郡",
+         "owner_type" : "町立",
+         "short_name" : "久御山中学校"
+      },
+      "亀岡市立亀岡中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "亀岡中学校"
+      },
+      "亀岡市立別院中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "別院中学校"
+      },
+      "亀岡市立南桑中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "南桑中学校"
+      },
+      "亀岡市立大成中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "大成中学校"
+      },
+      "亀岡市立東輝中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "東輝中学校"
+      },
+      "亀岡市立育親中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "育親中学校"
+      },
+      "亀岡市立詳徳中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "詳徳中学校"
+      },
+      "亀岡市立高田中学校" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "高田中学校"
+      },
+      "井手町立泉ヶ丘中学校" : {
+         "location_area" : "綴喜郡",
+         "owner_type" : "町立",
+         "short_name" : "泉ヶ丘中学校"
+      },
+      "京丹後市立久美浜中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "久美浜中学校"
+      },
+      "京丹後市立大宮中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "大宮中学校"
+      },
+      "京丹後市立宇川中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "宇川中学校"
+      },
+      "京丹後市立峰山中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "峰山中学校"
+      },
+      "京丹後市立弥栄中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "弥栄中学校"
+      },
+      "京丹後市立橘中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "橘中学校"
+      },
+      "京丹後市立網野中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "網野中学校"
+      },
+      "京丹後市立間人中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "間人中学校"
+      },
+      "京丹後市立高龍中学校" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "高龍中学校"
+      },
+      "京丹波町立和知中学校" : {
+         "location_area" : "船井郡",
+         "owner_type" : "町立",
+         "short_name" : "和知中学校"
+      },
+      "京丹波町立瑞穂中学校" : {
+         "location_area" : "船井郡",
+         "owner_type" : "町立",
+         "short_name" : "瑞穂中学校"
+      },
+      "京丹波町立蒲生野中学校" : {
+         "location_area" : "船井郡",
+         "owner_type" : "町立",
+         "short_name" : "蒲生野中学校"
+      },
+      "京田辺市立培良中学校" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "培良中学校"
+      },
+      "京田辺市立大住中学校" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "大住中学校"
+      },
+      "京田辺市立田辺中学校" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "田辺中学校"
+      },
+      "京都光華中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都光華中学校・高等学校"
+      },
+      "京都共栄学園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都共栄学園中学校・高等学校"
+      },
+      "京都国際中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都国際中学校・高等学校"
+      },
+      "京都女子中学校" : {
+         "owner_type" : "私立"
+      },
+      "京都学園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都学園高等学校"
+      },
+      "京都市立七条中学校" : {
+         "location_area" : "下京区",
+         "owner_type" : "市立",
+         "short_name" : "七条中学校"
+      },
+      "京都市立上京中学校" : {
+         "location_area" : "上京区",
+         "owner_type" : "市立",
+         "short_name" : "上京中学校"
+      },
+      "京都市立下京中学校" : {
+         "location_area" : "下京区",
+         "owner_type" : "市立",
+         "short_name" : "下京中学校"
+      },
+      "京都市立下鴨中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "下鴨中学校"
+      },
+      "京都市立中京中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "中京中学校"
+      },
+      "京都市立久世中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "久世中学校"
+      },
+      "京都市立九条中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "九条中学校"
+      },
+      "京都市立二条中学校" : {
+         "location_area" : "上京区",
+         "owner_type" : "市立",
+         "short_name" : "二条中学校"
+      },
+      "京都市立京都御池中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "京都御池中学校"
+      },
+      "京都市立伏見中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "伏見中学校"
+      },
+      "京都市立修学院中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "修学院中学校"
+      },
+      "京都市立八条中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "八条中学校"
+      },
+      "京都市立加茂川中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "加茂川中学校"
+      },
+      "京都市立勧修中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "勧修中学校"
+      },
+      "京都市立北野中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "北野中学校"
+      },
+      "京都市立双ヶ丘中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "双ヶ丘中学校"
+      },
+      "京都市立向島中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "向島中学校"
+      },
+      "京都市立向島東中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "向島東中学校"
+      },
+      "京都市立周山中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "周山中学校"
+      },
+      "京都市立嘉楽中学校" : {
+         "location_area" : "上京区",
+         "owner_type" : "市立",
+         "short_name" : "嘉楽中学校"
+      },
+      "京都市立四条中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "四条中学校"
+      },
+      "京都市立大原中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "大原中学校"
+      },
+      "京都市立大原野中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "大原野中学校"
+      },
+      "京都市立大宅中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "大宅中学校"
+      },
+      "京都市立大枝中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "大枝中学校"
+      },
+      "京都市立大淀中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "大淀中学校"
+      },
+      "京都市立太秦中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "太秦中学校"
+      },
+      "京都市立安祥寺中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "安祥寺中学校"
+      },
+      "京都市立宕陰中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "宕陰中学校"
+      },
+      "京都市立小栗栖中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "小栗栖中学校"
+      },
+      "京都市立山科中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "山科中学校"
+      },
+      "京都市立岡崎中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "岡崎中学校"
+      },
+      "京都市立嵯峨中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "嵯峨中学校"
+      },
+      "京都市立弥栄中学校" : {
+         "location_area" : "東山区",
+         "owner_type" : "市立",
+         "short_name" : "弥栄中学校"
+      },
+      "京都市立旭丘中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "旭丘中学校"
+      },
+      "京都市立春日丘中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "春日丘中学校"
+      },
+      "京都市立月輪中学校" : {
+         "location_area" : "東山区",
+         "owner_type" : "市立",
+         "short_name" : "月輪中学校"
+      },
+      "京都市立朱雀中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "朱雀中学校"
+      },
+      "京都市立松原中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "松原中学校"
+      },
+      "京都市立松尾中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "松尾中学校"
+      },
+      "京都市立栗陵中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "栗陵中学校"
+      },
+      "京都市立桂中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "桂中学校"
+      },
+      "京都市立桂川中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "桂川中学校"
+      },
+      "京都市立桃山中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "桃山中学校"
+      },
+      "京都市立桃陵中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "桃陵中学校"
+      },
+      "京都市立梅津中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "梅津中学校"
+      },
+      "京都市立樫原中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "樫原中学校"
+      },
+      "京都市立洛北中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "洛北中学校"
+      },
+      "京都市立洛南中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "洛南中学校"
+      },
+      "京都市立洛友中学校" : {
+         "location_area" : "下京区",
+         "owner_type" : "市立",
+         "short_name" : "洛友中学校"
+      },
+      "京都市立洛東中学校" : {
+         "location_area" : "東山区",
+         "owner_type" : "市立",
+         "short_name" : "洛東中学校"
+      },
+      "京都市立洛水中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "洛水中学校"
+      },
+      "京都市立洛西中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "洛西中学校"
+      },
+      "京都市立深草中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "深草中学校"
+      },
+      "京都市立烏丸中学校" : {
+         "location_area" : "上京区",
+         "owner_type" : "市立",
+         "short_name" : "烏丸中学校"
+      },
+      "京都市立神川中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "神川中学校"
+      },
+      "京都市立花山中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "花山中学校"
+      },
+      "京都市立花背第一中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "花背第一中学校"
+      },
+      "京都市立花背第二中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "花背第二中学校"
+      },
+      "京都市立藤森中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "藤森中学校"
+      },
+      "京都市立蜂ヶ岡中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "蜂ヶ岡中学校"
+      },
+      "京都市立衣笠中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "衣笠中学校"
+      },
+      "京都市立西ノ京中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "西ノ京中学校"
+      },
+      "京都市立西京極中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "西京極中学校"
+      },
+      "京都市立西京高等学校附属中学校" : {
+         "location_area" : "中京区",
+         "owner_type" : "市立",
+         "short_name" : "西京高校附属中学校"
+      },
+      "京都市立西賀茂中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "西賀茂中学校"
+      },
+      "京都市立西院中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "西院中学校"
+      },
+      "京都市立西陵中学校" : {
+         "location_area" : "西京区",
+         "owner_type" : "市立",
+         "short_name" : "西陵中学校"
+      },
+      "京都市立近衛中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "近衛中学校"
+      },
+      "京都市立醍醐中学校" : {
+         "location_area" : "伏見区",
+         "owner_type" : "市立",
+         "short_name" : "醍醐中学校"
+      },
+      "京都市立陶化中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "陶化中学校"
+      },
+      "京都市立雲ケ畑中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "雲ケ畑中学校"
+      },
+      "京都市立音羽中学校" : {
+         "location_area" : "山科区",
+         "owner_type" : "市立",
+         "short_name" : "音羽中学校"
+      },
+      "京都市立高野中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "市立",
+         "short_name" : "高野中学校"
+      },
+      "京都市立高雄中学校" : {
+         "location_area" : "右京区",
+         "owner_type" : "市立",
+         "short_name" : "高雄中学校"
+      },
+      "京都府立園部高等学校附属中学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "府立",
+         "short_name" : "園部高校附属中学校"
+      },
+      "京都府立洛北高等学校附属中学校" : {
+         "location_area" : "左京区",
+         "owner_type" : "府立",
+         "short_name" : "洛北高校附属中学校",
+         "wikipedia_name" : "京都府立洛北高等学校・附属中学校"
+      },
+      "京都教育大学附属京都中学校" : {
+         "owner_type" : "国立"
+      },
+      "京都教育大学附属桃山中学校" : {
+         "owner_type" : "国立"
+      },
+      "京都文教中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都文教中学校・高等学校"
+      },
+      "京都産業大学付属中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "京都産業大学附属中学校・高等学校"
+      },
+      "京都精華女子中学校" : {
+         "owner_type" : "私立"
+      },
+      "伊根町立伊根中学校" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "伊根中学校"
+      },
+      "伊根町立本庄中学校" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "本庄中学校"
+      },
+      "八幡市立男山中学校" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "男山中学校"
+      },
+      "八幡市立男山東中学校" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "男山東中学校"
+      },
+      "八幡市立男山第三中学校" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "男山第三中学校"
+      },
+      "八幡市立男山第二中学校" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "男山第二中学校"
+      },
+      "南丹市立八木中学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "八木中学校"
+      },
+      "南丹市立園部中学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "園部中学校"
+      },
+      "南丹市立殿田中学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "殿田中学校"
+      },
+      "南丹市立美山中学校" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "美山中学校"
+      },
+      "同志社中学校" : {
+         "owner_type" : "私立"
+      },
+      "同志社国際中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "同志社国際中学校・高等学校"
+      },
+      "同志社女子中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "同志社女子中学校・高等学校"
+      },
+      "向日市立勝山中学校" : {
+         "location_area" : "向日市",
+         "owner_type" : "市立",
+         "short_name" : "勝山中学校"
+      },
+      "向日市立寺戸中学校" : {
+         "location_area" : "向日市",
+         "owner_type" : "市立",
+         "short_name" : "寺戸中学校"
+      },
+      "向日市立西ノ岡中学校" : {
+         "location_area" : "向日市",
+         "owner_type" : "市立",
+         "short_name" : "西ノ岡中学校"
+      },
+      "城陽市立北城陽中学校" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "北城陽中学校"
+      },
+      "城陽市立南城陽中学校" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "南城陽中学校"
+      },
+      "城陽市立城陽中学校" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "城陽中学校"
+      },
+      "城陽市立東城陽中学校" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "東城陽中学校"
+      },
+      "城陽市立西城陽中学校" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "西城陽中学校"
+      },
+      "大山崎町立大山崎中学校" : {
+         "location_area" : "乙訓郡",
+         "owner_type" : "町立",
+         "short_name" : "大山崎中学校",
+         "wikipedia_name" : "大山崎町立大山崎中学校 "
+      },
+      "大谷中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "大谷中学校・高等学校 (京都)"
+      },
+      "宇治市立北宇治中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "北宇治中学校"
+      },
+      "宇治市立南宇治中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "南宇治中学校"
+      },
+      "宇治市立宇治中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "宇治中学校"
+      },
+      "宇治市立広野中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "広野中学校"
+      },
+      "宇治市立木幡中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "木幡中学校"
+      },
+      "宇治市立東宇治中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "東宇治中学校"
+      },
+      "宇治市立槇島中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "槇島中学校"
+      },
+      "宇治市立西宇治中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "西宇治中学校"
+      },
+      "宇治市立西小倉中学校" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "西小倉中学校"
+      },
+      "宇治田原町立維孝館中学校" : {
+         "location_area" : "綴喜郡",
+         "owner_type" : "町立",
+         "short_name" : "維孝館中学校"
+      },
+      "宮津市立宮津中学校" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "宮津中学校"
+      },
+      "宮津市立日置中学校" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "日置中学校"
+      },
+      "宮津市立栗田中学校" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "栗田中学校"
+      },
+      "宮津市立養老中学校" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "養老中学校"
+      },
+      "平安女学院中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "平安女学院中学校・高等学校"
+      },
+      "木津川市立山城中学校" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "山城中学校"
+      },
+      "木津川市立木津中学校" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "木津中学校"
+      },
+      "木津川市立木津第二中学校" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "木津第二中学校"
+      },
+      "木津川市立泉川中学校" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "泉川中学校"
+      },
+      "東山中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "東山中学校・高等学校"
+      },
+      "洛南高等学校附属中学校" : {
+         "owner_type" : "私立",
+         "short_name" : "洛南高校附属中学校"
+      },
+      "洛星中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "洛星中学・高等学校"
+      },
+      "相楽東部広域連合立和束中学校" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "組合"
+      },
+      "相楽東部広域連合立笠置中学校" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "組合"
+      },
+      "福知山市立三和中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "三和中学校"
+      },
+      "福知山市立六人部中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "六人部中学校"
+      },
+      "福知山市立南陵中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "南陵中学校"
+      },
+      "福知山市立夜久野中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "夜久野中学校"
+      },
+      "福知山市立大江中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "大江中学校"
+      },
+      "福知山市立川口中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "川口中学校"
+      },
+      "福知山市立成和中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "成和中学校"
+      },
+      "福知山市立日新中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "日新中学校"
+      },
+      "福知山市立桃映中学校" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "桃映中学校"
+      },
+      "立命館中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "立命館中学校・高等学校"
+      },
+      "立命館宇治中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "立命館宇治中学校・高等学校"
+      },
+      "精華町立精華中学校" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "町立",
+         "short_name" : "精華中学校"
+      },
+      "精華町立精華南中学校" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "町立",
+         "short_name" : "精華南中学校"
+      },
+      "精華町立精華西中学校" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "町立",
+         "short_name" : "精華西中学校"
+      },
+      "綾部市立上林中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "上林中学校"
+      },
+      "綾部市立何北中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "何北中学校"
+      },
+      "綾部市立八田中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "八田中学校"
+      },
+      "綾部市立東綾中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "東綾中学校"
+      },
+      "綾部市立綾部中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "綾部中学校"
+      },
+      "綾部市立豊里中学校" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "豊里中学校"
+      },
+      "聖母学院中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "聖母学院中学高等学校"
+      },
+      "舞鶴市立和田中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "和田中学校"
+      },
+      "舞鶴市立城北中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "城北中学校"
+      },
+      "舞鶴市立城南中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "舞鶴市立岡田中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "岡田中学校"
+      },
+      "舞鶴市立由良川中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "由良川中学校"
+      },
+      "舞鶴市立白糸中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "白糸中学校"
+      },
+      "舞鶴市立若浦中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "若浦中学校"
+      },
+      "舞鶴市立青葉中学校" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "青葉中学校"
+      },
+      "花園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "花園中学校・高等学校"
+      },
+      "華頂女子中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "華頂女子中学校・高等学校"
+      },
+      "長岡京市立長岡中学校" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "市立",
+         "short_name" : "長岡中学校"
+      },
+      "長岡京市立長岡第三中学校" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "市立",
+         "short_name" : "長岡第三中学校"
+      },
+      "長岡京市立長岡第二中学校" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "市立",
+         "short_name" : "長岡第二中学校"
+      },
+      "長岡京市立長岡第四中学校" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "市立",
+         "short_name" : "長岡第四中学校"
+      },
+      "龍谷大学付属平安中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "龍谷大学付属平安中学校・高等学校"
+      }
+   }
+}

@@ -1,0 +1,588 @@
+{
+   "high_schools" : {
+      "奈良女子大学附属中等教育学校" : {
+         "owner_type" : "国立"
+      },
+      "聖心学園中等教育学校" : {
+         "owner_type" : "私立"
+      }
+   },
+   "junior_high_schools" : {
+      "三郷町立三郷中学校" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "三郷中学校"
+      },
+      "上北山村立上北山中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "上北山中学校"
+      },
+      "上牧町立上牧中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "上牧中学校"
+      },
+      "上牧町立上牧第二中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "上牧第二中学校"
+      },
+      "下北山村立下北山中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "下北山中学校"
+      },
+      "下市町立下市中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "下市中学校"
+      },
+      "五條市立五條中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "五條中学校"
+      },
+      "五條市立五條東中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "五條東中学校"
+      },
+      "五條市立五條西中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "五條西中学校"
+      },
+      "五條市立大塔中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "大塔中学校"
+      },
+      "五條市立西吉野中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "西吉野中学校"
+      },
+      "五條市立野原中学校" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "野原中学校"
+      },
+      "十津川村立上野地中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "上野地中学校"
+      },
+      "十津川村立小原中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "小原中学校"
+      },
+      "十津川村立折立中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "折立中学校"
+      },
+      "十津川村立西川中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "西川中学校"
+      },
+      "吉野町立吉野中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "吉野中学校"
+      },
+      "大和郡山市立片桐中学校" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "片桐中学校"
+      },
+      "大和郡山市立郡山中学校" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山中学校"
+      },
+      "大和郡山市立郡山南中学校" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山南中学校"
+      },
+      "大和郡山市立郡山東中学校" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山東中学校"
+      },
+      "大和郡山市立郡山西中学校" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山西中学校"
+      },
+      "大和高田市立片塩中学校" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "片塩中学校"
+      },
+      "大和高田市立高田中学校" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "高田中学校"
+      },
+      "大和高田市立高田西中学校" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "高田西中学校"
+      },
+      "大淀町立大淀中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "大淀中学校"
+      },
+      "天川村立天川中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "天川中学校"
+      },
+      "天川村立洞川中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "洞川中学校"
+      },
+      "天理中学校" : {
+         "owner_type" : "私立"
+      },
+      "天理市立北中学校" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "北中学校"
+      },
+      "天理市立北中学校夜間学級" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "北中学校夜間学級"
+      },
+      "天理市立南中学校" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "天理市立福住中学校" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "福住中学校"
+      },
+      "天理市立西中学校" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "奈良学園中学校" : {
+         "owner_type" : "私立"
+      },
+      "奈良市立三笠中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "三笠中学校"
+      },
+      "奈良市立二名中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "二名中学校"
+      },
+      "奈良市立京西中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "京西中学校"
+      },
+      "奈良市立伏見中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "伏見中学校"
+      },
+      "奈良市立富雄中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "富雄中学校"
+      },
+      "奈良市立富雄南中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "富雄南中学校"
+      },
+      "奈良市立平城中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "平城中学校"
+      },
+      "奈良市立平城東中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "平城東中学校"
+      },
+      "奈良市立平城西中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "平城西中学校"
+      },
+      "奈良市立春日中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "春日中学校"
+      },
+      "奈良市立月ヶ瀬中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "月ヶ瀬中学校"
+      },
+      "奈良市立柳生中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "柳生中学校"
+      },
+      "奈良市立田原中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "田原中学校"
+      },
+      "奈良市立登美ヶ丘中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "登美ヶ丘中学校"
+      },
+      "奈良市立登美ヶ丘北中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "登美ヶ丘北中学校"
+      },
+      "奈良市立興東中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "興東中学校"
+      },
+      "奈良市立若草中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "若草中学校"
+      },
+      "奈良市立都南中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "都南中学校"
+      },
+      "奈良市立都祁中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "都祁中学校"
+      },
+      "奈良市立都跡中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "都跡中学校"
+      },
+      "奈良市立飛鳥中学校" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "飛鳥中学校"
+      },
+      "奈良教育大学附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "奈良育英中学校" : {
+         "owner_type" : "私立"
+      },
+      "宇陀市立大宇陀中学校" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "大宇陀中学校"
+      },
+      "宇陀市立室生中学校" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "室生中学校"
+      },
+      "宇陀市立榛原中学校" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "榛原中学校"
+      },
+      "宇陀市立菟田野中学校" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "菟田野中学校"
+      },
+      "安堵町立安堵中学校" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "安堵中学校"
+      },
+      "山添村立山添中学校" : {
+         "location_area" : "山辺郡",
+         "owner_type" : "村立",
+         "short_name" : "山添中学校"
+      },
+      "川上村立川上中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "川上中学校"
+      },
+      "川西町三宅町式下中学校組合立式下中学校" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "組合"
+      },
+      "帝塚山中学校" : {
+         "owner_type" : "私立"
+      },
+      "平群町立平群中学校" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "平群中学校"
+      },
+      "広陵町立広陵中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "広陵中学校"
+      },
+      "広陵町立真美ヶ丘中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "真美ヶ丘中学校"
+      },
+      "御所市立大正中学校" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "大正中学校"
+      },
+      "御所市立御所中学校" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "御所中学校"
+      },
+      "御所市立葛上中学校" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "葛上中学校"
+      },
+      "御所市立葛中学校" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "葛中学校"
+      },
+      "御杖村立御杖中学校" : {
+         "location_area" : "宇陀郡",
+         "owner_type" : "村立",
+         "short_name" : "御杖中学校"
+      },
+      "斑鳩町立斑鳩中学校" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "斑鳩中学校"
+      },
+      "斑鳩町立斑鳩南中学校" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "斑鳩南中学校"
+      },
+      "明日香村立聖徳中学校" : {
+         "location_area" : "高市郡",
+         "owner_type" : "村立",
+         "short_name" : "聖徳中学校"
+      },
+      "智辯学園中学校" : {
+         "owner_type" : "私立"
+      },
+      "智辯学園奈良カレッジ中学部" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "智辯学園奈良カレッジ小学部・中学部・高等部"
+      },
+      "曽爾村立曽爾中学校" : {
+         "location_area" : "宇陀郡",
+         "owner_type" : "村立",
+         "short_name" : "曽爾中学校"
+      },
+      "東吉野村立東吉野中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "東吉野中学校"
+      },
+      "東大寺学園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "東大寺学園"
+      },
+      "桜井市立大三輪中学校" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "大三輪中学校"
+      },
+      "桜井市立桜井中学校" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "桜井中学校"
+      },
+      "桜井市立桜井東中学校" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "桜井東中学校"
+      },
+      "桜井市立桜井西中学校" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "桜井西中学校"
+      },
+      "橿原市立光陽中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "光陽中学校"
+      },
+      "橿原市立八木中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "八木中学校"
+      },
+      "橿原市立大成中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "大成中学校"
+      },
+      "橿原市立橿原中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "橿原中学校"
+      },
+      "橿原市立畝傍中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "畝傍中学校"
+      },
+      "橿原市立畝傍中学校二部" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "畝傍中学校二部"
+      },
+      "橿原市立白橿中学校" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "白橿中学校"
+      },
+      "河合町立河合第一中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "河合第一中学校"
+      },
+      "河合町立河合第二中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "河合第二中学校"
+      },
+      "王寺町立王寺中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "王寺中学校"
+      },
+      "王寺町立王寺南中学校" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "王寺南中学校"
+      },
+      "生駒市立上中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "上中学校"
+      },
+      "生駒市立光明中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "光明中学校"
+      },
+      "生駒市立大瀬中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "大瀬中学校"
+      },
+      "生駒市立生駒中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "生駒中学校"
+      },
+      "生駒市立生駒北中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "生駒北中学校"
+      },
+      "生駒市立生駒南中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "生駒南中学校"
+      },
+      "生駒市立緑ヶ丘中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "緑ヶ丘中学校"
+      },
+      "生駒市立鹿ノ台中学校" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "鹿ノ台中学校"
+      },
+      "田原本町立北中学校" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "北中学校"
+      },
+      "田原本町立田原本中学校" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "田原本中学校"
+      },
+      "育英西中学校" : {
+         "owner_type" : "私立"
+      },
+      "葛城市立新庄中学校" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "新庄中学校"
+      },
+      "葛城市立白鳳中学校" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "白鳳中学校"
+      },
+      "西大和学園中学校" : {
+         "owner_type" : "私立"
+      },
+      "野迫川村立野迫川中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "野迫川中学校"
+      },
+      "香芝市立香芝中学校" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "香芝中学校"
+      },
+      "香芝市立香芝北中学校" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "香芝北中学校"
+      },
+      "香芝市立香芝東中学校" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "香芝東中学校"
+      },
+      "香芝市立香芝西中学校" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "香芝西中学校"
+      },
+      "高取町立高取中学校" : {
+         "location_area" : "高市郡",
+         "owner_type" : "町立",
+         "short_name" : "高取中学校"
+      },
+      "黒滝村立黒滝中学校" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "黒滝中学校"
+      }
+   }
+}

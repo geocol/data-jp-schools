@@ -1,0 +1,663 @@
+{
+   "junior_high_schools" : {
+      "にかほ市立仁賀保中学校" : {
+         "location_area" : "にかほ市",
+         "owner_type" : "市立",
+         "short_name" : "仁賀保中学校"
+      },
+      "にかほ市立象潟中学校" : {
+         "location_area" : "にかほ市",
+         "owner_type" : "市立",
+         "short_name" : "象潟中学校"
+      },
+      "にかほ市立金浦中学校" : {
+         "location_area" : "にかほ市",
+         "owner_type" : "市立",
+         "short_name" : "金浦中学校"
+      },
+      "にかほ市立釜ヶ台中学校" : {
+         "location_area" : "にかほ市",
+         "owner_type" : "市立",
+         "short_name" : "釜ヶ台中学校"
+      },
+      "三種町立八竜中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "八竜中学校"
+      },
+      "三種町立山本中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "山本中学校"
+      },
+      "三種町立琴丘中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "琴丘中学校"
+      },
+      "上小阿仁村立上小阿仁中学校" : {
+         "location_area" : "北秋田郡",
+         "owner_type" : "村立",
+         "short_name" : "上小阿仁中学校"
+      },
+      "五城目町立五城目第一中学校" : {
+         "location_area" : "南秋田郡",
+         "owner_type" : "町立",
+         "short_name" : "五城目第一中学校"
+      },
+      "井川町立井川中学校" : {
+         "location_area" : "南秋田郡",
+         "owner_type" : "町立",
+         "short_name" : "井川中学校"
+      },
+      "仙北市立桧木内中学校" : {
+         "location_area" : "仙北市",
+         "owner_type" : "市立",
+         "short_name" : "桧木内中学校"
+      },
+      "仙北市立生保内中学校" : {
+         "location_area" : "仙北市",
+         "owner_type" : "市立",
+         "short_name" : "生保内中学校"
+      },
+      "仙北市立神代中学校" : {
+         "location_area" : "仙北市",
+         "owner_type" : "市立",
+         "short_name" : "神代中学校"
+      },
+      "仙北市立西明寺中学校" : {
+         "location_area" : "仙北市",
+         "owner_type" : "市立",
+         "short_name" : "西明寺中学校"
+      },
+      "仙北市立角館中学校" : {
+         "location_area" : "仙北市",
+         "owner_type" : "市立",
+         "short_name" : "角館中学校"
+      },
+      "八峰町立八森中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "八森中学校"
+      },
+      "八峰町立峰浜中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "峰浜中学校"
+      },
+      "八郎潟町立八郎潟中学校" : {
+         "location_area" : "南秋田郡",
+         "owner_type" : "町立",
+         "short_name" : "八郎潟中学校"
+      },
+      "北秋田市立合川中学校" : {
+         "location_area" : "北秋田市",
+         "owner_type" : "市立",
+         "short_name" : "合川中学校"
+      },
+      "北秋田市立森吉中学校" : {
+         "location_area" : "北秋田市",
+         "owner_type" : "市立",
+         "short_name" : "森吉中学校"
+      },
+      "北秋田市立阿仁中学校" : {
+         "location_area" : "北秋田市",
+         "owner_type" : "市立",
+         "short_name" : "阿仁中学校"
+      },
+      "北秋田市立鷹巣中学校" : {
+         "location_area" : "北秋田市",
+         "owner_type" : "市立",
+         "short_name" : "鷹巣中学校"
+      },
+      "北秋田市立鷹巣南中学校" : {
+         "location_area" : "北秋田市",
+         "owner_type" : "市立",
+         "short_name" : "鷹巣南中学校"
+      },
+      "大仙市立中仙中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "中仙中学校"
+      },
+      "大仙市立仙北中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "仙北中学校"
+      },
+      "大仙市立協和中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "協和中学校"
+      },
+      "大仙市立南外中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "南外中学校"
+      },
+      "大仙市立大曲中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "大曲中学校"
+      },
+      "大仙市立大曲南中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "大曲南中学校"
+      },
+      "大仙市立大曲西中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "大曲西中学校"
+      },
+      "大仙市立太田中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "太田中学校"
+      },
+      "大仙市立平和中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "平和中学校"
+      },
+      "大仙市立西仙北東中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "西仙北東中学校"
+      },
+      "大仙市立西仙北西中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "西仙北西中学校"
+      },
+      "大仙市立豊成中学校" : {
+         "location_area" : "大仙市",
+         "owner_type" : "市立",
+         "short_name" : "豊成中学校"
+      },
+      "大潟村立大潟中学校" : {
+         "location_area" : "南秋田郡",
+         "owner_type" : "村立",
+         "short_name" : "大潟中学校"
+      },
+      "大館市立下川沿中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "下川沿中学校"
+      },
+      "大館市立南中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "大館市立成章中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "成章中学校"
+      },
+      "大館市立東中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "大館市立比内中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "比内中学校"
+      },
+      "大館市立田代中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "田代中学校"
+      },
+      "大館市立矢立中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "矢立中学校"
+      },
+      "大館市立第一中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "大館市立第二中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "大館市立花岡中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "市立",
+         "short_name" : "花岡中学校"
+      },
+      "小坂町立十和田中学校" : {
+         "location_area" : "鹿角郡",
+         "owner_type" : "町立",
+         "short_name" : "十和田中学校"
+      },
+      "小坂町立小坂中学校" : {
+         "location_area" : "鹿角郡",
+         "owner_type" : "町立",
+         "short_name" : "小坂中学校"
+      },
+      "東成瀬村立東成瀬中学校" : {
+         "location_area" : "雄勝郡",
+         "owner_type" : "村立",
+         "short_name" : "東成瀬中学校"
+      },
+      "横手市立十文字中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "十文字中学校"
+      },
+      "横手市立十文字西中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "十文字西中学校"
+      },
+      "横手市立増田中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "増田中学校"
+      },
+      "横手市立大森中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "大森中学校"
+      },
+      "横手市立大雄中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "大雄中学校"
+      },
+      "横手市立山内中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "山内中学校"
+      },
+      "横手市立平鹿中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "平鹿中学校"
+      },
+      "横手市立横手南中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "横手南中学校"
+      },
+      "横手市立横手西中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "横手西中学校"
+      },
+      "横手市立金沢中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "金沢中学校"
+      },
+      "横手市立雄物川中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "雄物川中学校"
+      },
+      "横手市立鳳中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "市立",
+         "short_name" : "鳳中学校"
+      },
+      "湯沢市立山田中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "山田中学校"
+      },
+      "湯沢市立湯沢北中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "湯沢北中学校"
+      },
+      "湯沢市立湯沢南中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "湯沢南中学校"
+      },
+      "湯沢市立皆瀬中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "皆瀬中学校"
+      },
+      "湯沢市立稲川中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "稲川中学校"
+      },
+      "湯沢市立雄勝中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "雄勝中学校"
+      },
+      "湯沢市立須川中学校" : {
+         "location_area" : "湯沢市",
+         "owner_type" : "市立",
+         "short_name" : "須川中学校"
+      },
+      "潟上市立天王中学校" : {
+         "location_area" : "潟上市",
+         "owner_type" : "市立",
+         "short_name" : "天王中学校"
+      },
+      "潟上市立天王南中学校" : {
+         "location_area" : "潟上市",
+         "owner_type" : "市立",
+         "short_name" : "天王南中学校"
+      },
+      "潟上市立羽城中学校" : {
+         "location_area" : "潟上市",
+         "owner_type" : "市立",
+         "short_name" : "羽城中学校"
+      },
+      "由利本荘市立出羽中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "出羽中学校"
+      },
+      "由利本荘市立大内中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "大内中学校"
+      },
+      "由利本荘市立岩城中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "岩城中学校"
+      },
+      "由利本荘市立本荘北中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "本荘北中学校"
+      },
+      "由利本荘市立本荘南中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "本荘南中学校"
+      },
+      "由利本荘市立本荘東中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "本荘東中学校"
+      },
+      "由利本荘市立東由利中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "東由利中学校"
+      },
+      "由利本荘市立由利中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "由利中学校"
+      },
+      "由利本荘市立矢島中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "矢島中学校"
+      },
+      "由利本荘市立西目中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "西目中学校"
+      },
+      "由利本荘市立鳥海中学校" : {
+         "location_area" : "由利本荘市",
+         "owner_type" : "市立",
+         "short_name" : "鳥海中学校"
+      },
+      "男鹿市立潟西中学校" : {
+         "location_area" : "男鹿市",
+         "owner_type" : "市立",
+         "short_name" : "潟西中学校"
+      },
+      "男鹿市立男鹿北中学校" : {
+         "location_area" : "男鹿市",
+         "owner_type" : "市立",
+         "short_name" : "男鹿北中学校"
+      },
+      "男鹿市立男鹿南中学校" : {
+         "location_area" : "男鹿市",
+         "owner_type" : "市立",
+         "short_name" : "男鹿南中学校"
+      },
+      "男鹿市立男鹿東中学校" : {
+         "location_area" : "男鹿市",
+         "owner_type" : "市立",
+         "short_name" : "男鹿東中学校"
+      },
+      "秋田大学教育文化学部附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "秋田市立下北手中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "下北手中学校"
+      },
+      "秋田市立下浜中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "下浜中学校"
+      },
+      "秋田市立勝平中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "勝平中学校"
+      },
+      "秋田市立土崎中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "土崎中学校"
+      },
+      "秋田市立城南中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "城南中学校"
+      },
+      "秋田市立城東中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "城東中学校"
+      },
+      "秋田市立外旭川中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "外旭川中学校"
+      },
+      "秋田市立太平中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "太平中学校"
+      },
+      "秋田市立将軍野中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "将軍野中学校"
+      },
+      "秋田市立山王中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "山王中学校"
+      },
+      "秋田市立岩見三内中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "岩見三内中学校"
+      },
+      "秋田市立御所野学院中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "御所野学院中学校"
+      },
+      "秋田市立御野場中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "御野場中学校"
+      },
+      "秋田市立桜中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "桜中学校"
+      },
+      "秋田市立河辺中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "河辺中学校"
+      },
+      "秋田市立泉中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "泉中学校"
+      },
+      "秋田市立秋田北中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "秋田北中学校"
+      },
+      "秋田市立秋田南中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "秋田南中学校"
+      },
+      "秋田市立秋田東中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "秋田東中学校"
+      },
+      "秋田市立秋田西中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "秋田西中学校"
+      },
+      "秋田市立豊岩中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "豊岩中学校"
+      },
+      "秋田市立雄和中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "雄和中学校"
+      },
+      "秋田市立飯島中学校" : {
+         "location_area" : "秋田市",
+         "owner_type" : "市立",
+         "short_name" : "飯島中学校"
+      },
+      "秋田県立大館国際情報学院中学校" : {
+         "location_area" : "大館市",
+         "owner_type" : "県立",
+         "short_name" : "大館国際情報学院中学校"
+      },
+      "秋田県立横手清陵学院中学校" : {
+         "location_area" : "横手市",
+         "owner_type" : "県立",
+         "short_name" : "横手清陵学院中学校",
+         "wikipedia_name" : "秋田県立横手清陵学院高等学校"
+      },
+      "美郷町立仙南中学校" : {
+         "location_area" : "仙北郡",
+         "owner_type" : "町立",
+         "short_name" : "仙南中学校"
+      },
+      "美郷町立六郷中学校" : {
+         "location_area" : "仙北郡",
+         "owner_type" : "町立",
+         "short_name" : "六郷中学校"
+      },
+      "美郷町立千畑中学校" : {
+         "location_area" : "仙北郡",
+         "owner_type" : "町立",
+         "short_name" : "千畑中学校"
+      },
+      "羽後町立三輪中学校" : {
+         "location_area" : "雄勝郡",
+         "owner_type" : "町立",
+         "short_name" : "三輪中学校"
+      },
+      "羽後町立羽後中学校" : {
+         "location_area" : "雄勝郡",
+         "owner_type" : "町立",
+         "short_name" : "羽後中学校"
+      },
+      "羽後町立高瀬中学校" : {
+         "location_area" : "雄勝郡",
+         "owner_type" : "町立",
+         "short_name" : "高瀬中学校"
+      },
+      "聖霊女子短期大学付属中学校" : {
+         "owner_type" : "私立",
+         "short_name" : "聖霊女子短大付属中学校",
+         "wikipedia_name" : "聖霊女子短期大学付属中学校・高等学校"
+      },
+      "能代市立二ツ井中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "二ツ井中学校"
+      },
+      "能代市立常盤中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "常盤中学校"
+      },
+      "能代市立東雲中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "東雲中学校"
+      },
+      "能代市立能代南中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "能代南中学校"
+      },
+      "能代市立能代東中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "能代東中学校"
+      },
+      "能代市立能代第一中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "能代第一中学校"
+      },
+      "能代市立能代第二中学校" : {
+         "location_area" : "能代市",
+         "owner_type" : "市立",
+         "short_name" : "能代第二中学校"
+      },
+      "藤里町立藤里中学校" : {
+         "location_area" : "山本郡",
+         "owner_type" : "町立",
+         "short_name" : "藤里中学校"
+      },
+      "鹿角市立八幡平中学校" : {
+         "location_area" : "鹿角市",
+         "owner_type" : "市立",
+         "short_name" : "八幡平中学校"
+      },
+      "鹿角市立十和田中学校" : {
+         "location_area" : "鹿角市",
+         "owner_type" : "市立",
+         "short_name" : "十和田中学校"
+      },
+      "鹿角市立尾去沢中学校" : {
+         "location_area" : "鹿角市",
+         "owner_type" : "市立",
+         "short_name" : "尾去沢中学校"
+      },
+      "鹿角市立花輪第一中学校" : {
+         "location_area" : "鹿角市",
+         "owner_type" : "市立",
+         "short_name" : "花輪第一中学校"
+      },
+      "鹿角市立花輪第二中学校" : {
+         "location_area" : "鹿角市",
+         "owner_type" : "市立",
+         "short_name" : "花輪第二中学校"
+      }
+   }
+}

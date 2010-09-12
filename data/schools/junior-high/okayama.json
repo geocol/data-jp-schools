@@ -1,0 +1,865 @@
+{
+   "high_schools" : {
+      "岡山県立岡山大安寺中等教育学校" : {
+         "location_area" : "北区",
+         "owner_type" : "県立",
+         "short_name" : "岡山大安寺中等教育学校"
+      }
+   },
+   "junior_high_schools" : {
+      "久米南町立久米南中学校" : {
+         "location_area" : "久米郡",
+         "owner_type" : "町立",
+         "short_name" : "久米南中学校"
+      },
+      "井原市立井原中学校" : {
+         "location_area" : "井原市",
+         "owner_type" : "市立",
+         "short_name" : "井原中学校"
+      },
+      "井原市立木之子中学校" : {
+         "location_area" : "井原市",
+         "owner_type" : "市立",
+         "short_name" : "木之子中学校"
+      },
+      "井原市立美星中学校" : {
+         "location_area" : "井原市",
+         "owner_type" : "市立",
+         "short_name" : "美星中学校"
+      },
+      "井原市立芳井中学校" : {
+         "location_area" : "井原市",
+         "owner_type" : "市立",
+         "short_name" : "芳井中学校"
+      },
+      "井原市立高屋中学校" : {
+         "location_area" : "井原市",
+         "owner_type" : "市立",
+         "short_name" : "高屋中学校"
+      },
+      "倉敷市立下津井中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "下津井中学校"
+      },
+      "倉敷市立倉敷第一中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "倉敷第一中学校"
+      },
+      "倉敷市立児島中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "児島中学校"
+      },
+      "倉敷市立北中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "北中学校"
+      },
+      "倉敷市立南中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "南中学校"
+      },
+      "倉敷市立味野中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "味野中学校"
+      },
+      "倉敷市立多津美中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "多津美中学校"
+      },
+      "倉敷市立庄中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "庄中学校"
+      },
+      "倉敷市立新田中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "新田中学校"
+      },
+      "倉敷市立東中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "倉敷市立東陽中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "東陽中学校"
+      },
+      "倉敷市立玉島北中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "玉島北中学校"
+      },
+      "倉敷市立玉島東中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "玉島東中学校"
+      },
+      "倉敷市立玉島西中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "玉島西中学校"
+      },
+      "倉敷市立琴浦中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "琴浦中学校"
+      },
+      "倉敷市立真備中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "真備中学校"
+      },
+      "倉敷市立真備東中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "真備東中学校"
+      },
+      "倉敷市立福田中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "福田中学校"
+      },
+      "倉敷市立福田南中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "福田南中学校"
+      },
+      "倉敷市立船穂中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "船穂中学校"
+      },
+      "倉敷市立西中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "倉敷市立連島中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "連島中学校"
+      },
+      "倉敷市立連島南中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "連島南中学校"
+      },
+      "倉敷市立郷内中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "郷内中学校"
+      },
+      "倉敷市立黒崎中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "市立",
+         "short_name" : "黒崎中学校"
+      },
+      "備前市立三石中学校" : {
+         "location_area" : "備前市",
+         "owner_type" : "市立",
+         "short_name" : "三石中学校"
+      },
+      "備前市立伊里中学校" : {
+         "location_area" : "備前市",
+         "owner_type" : "市立",
+         "short_name" : "伊里中学校"
+      },
+      "備前市立備前中学校" : {
+         "location_area" : "備前市",
+         "owner_type" : "市立",
+         "short_name" : "備前中学校"
+      },
+      "備前市立吉永中学校" : {
+         "location_area" : "備前市",
+         "owner_type" : "市立",
+         "short_name" : "吉永中学校"
+      },
+      "備前市立日生中学校" : {
+         "location_area" : "備前市",
+         "owner_type" : "市立",
+         "short_name" : "日生中学校"
+      },
+      "勝央町立勝央中学校" : {
+         "location_area" : "勝田郡",
+         "owner_type" : "町立",
+         "short_name" : "勝央中学校"
+      },
+      "吉備中央町立加茂川中学校" : {
+         "location_area" : "加賀郡",
+         "owner_type" : "町立",
+         "short_name" : "加茂川中学校"
+      },
+      "吉備中央町立吉川中学校" : {
+         "location_area" : "加賀郡",
+         "owner_type" : "町立",
+         "short_name" : "吉川中学校"
+      },
+      "吉備中央町立大和中学校" : {
+         "location_area" : "加賀郡",
+         "owner_type" : "町立",
+         "short_name" : "大和中学校"
+      },
+      "吉備中央町立竹荘中学校" : {
+         "location_area" : "加賀郡",
+         "owner_type" : "町立",
+         "short_name" : "竹荘中学校"
+      },
+      "吉備高原希望中学校" : {
+         "owner_type" : "私立"
+      },
+      "和気町立佐伯中学校" : {
+         "location_area" : "和気郡",
+         "owner_type" : "町立",
+         "short_name" : "佐伯中学校"
+      },
+      "和気町立和気中学校" : {
+         "location_area" : "和気郡",
+         "owner_type" : "町立",
+         "short_name" : "和気中学校"
+      },
+      "奈義町立奈義中学校" : {
+         "location_area" : "勝田郡",
+         "owner_type" : "町立",
+         "short_name" : "奈義中学校"
+      },
+      "就実中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "就実中学校・高等学校"
+      },
+      "山陽女子中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "山陽女子中学校・高等学校"
+      },
+      "岡山中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "岡山中学校・高等学校"
+      },
+      "岡山大学教育学部附属中学校" : {
+         "owner_type" : "国立",
+         "wikipedia_name" : "岡山大学教育学部附属小学校・中学校"
+      },
+      "岡山市立上南中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "上南中学校"
+      },
+      "岡山市立上道中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "上道中学校"
+      },
+      "岡山市立中山中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "中山中学校"
+      },
+      "岡山市立京山中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "京山中学校"
+      },
+      "岡山市立光南台中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "光南台中学校"
+      },
+      "岡山市立吉備中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "吉備中学校"
+      },
+      "岡山市立妹尾中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "妹尾中学校"
+      },
+      "岡山市立富山中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "富山中学校"
+      },
+      "岡山市立山南中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "山南中学校"
+      },
+      "岡山市立岡北中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "岡北中学校"
+      },
+      "岡山市立岡山中央中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "岡山中央中学校"
+      },
+      "岡山市立岡山後楽館中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "岡山後楽館中学校"
+      },
+      "岡山市立岡輝中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "岡輝中学校"
+      },
+      "岡山市立建部中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "建部中学校"
+      },
+      "岡山市立御南中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "御南中学校"
+      },
+      "岡山市立操南中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "操南中学校"
+      },
+      "岡山市立操山中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "操山中学校"
+      },
+      "岡山市立旭東中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "旭東中学校"
+      },
+      "岡山市立東山中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "東山中学校"
+      },
+      "岡山市立桑田中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "桑田中学校"
+      },
+      "岡山市立瀬戸中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "瀬戸中学校"
+      },
+      "岡山市立灘崎中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "灘崎中学校"
+      },
+      "岡山市立石井中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "石井中学校"
+      },
+      "岡山市立福南中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "福南中学校"
+      },
+      "岡山市立福浜中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "福浜中学校"
+      },
+      "岡山市立福田中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "福田中学校"
+      },
+      "岡山市立竜操中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "竜操中学校"
+      },
+      "岡山市立興除中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "興除中学校"
+      },
+      "岡山市立芳泉中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "芳泉中学校"
+      },
+      "岡山市立芳田中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "芳田中学校"
+      },
+      "岡山市立藤田中学校" : {
+         "location_area" : "南区",
+         "owner_type" : "市立",
+         "short_name" : "藤田中学校"
+      },
+      "岡山市立西大寺中学校" : {
+         "location_area" : "東区",
+         "owner_type" : "市立",
+         "short_name" : "西大寺中学校"
+      },
+      "岡山市立足守中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "足守中学校"
+      },
+      "岡山市立香和中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "香和中学校"
+      },
+      "岡山市立高島中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "市立",
+         "short_name" : "高島中学校"
+      },
+      "岡山市立高松中学校" : {
+         "location_area" : "北区",
+         "owner_type" : "市立",
+         "short_name" : "高松中学校"
+      },
+      "岡山理科大学附属中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "岡山理科大学附属中学校・高等学校"
+      },
+      "岡山白陵中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "岡山白陵中学校・高等学校"
+      },
+      "岡山県立倉敷天城中学校" : {
+         "location_area" : "倉敷市",
+         "owner_type" : "県立",
+         "short_name" : "倉敷天城中学校",
+         "wikipedia_name" : "岡山県立倉敷天城中学校・高等学校"
+      },
+      "岡山県立岡山操山中学校" : {
+         "location_area" : "中区",
+         "owner_type" : "県立",
+         "short_name" : "岡山操山中学校"
+      },
+      "新庄村立新庄中学校" : {
+         "location_area" : "真庭郡",
+         "owner_type" : "村立",
+         "short_name" : "新庄中学校"
+      },
+      "新見市立井倉中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "井倉中学校"
+      },
+      "新見市立千屋中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "千屋中学校"
+      },
+      "新見市立哲多中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "哲多中学校"
+      },
+      "新見市立哲西中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "哲西中学校"
+      },
+      "新見市立大佐中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "大佐中学校"
+      },
+      "新見市立新見第一中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "新見第一中学校"
+      },
+      "新見市立熊谷中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "熊谷中学校"
+      },
+      "新見市立美郷中学校" : {
+         "location_area" : "新見市",
+         "owner_type" : "市立",
+         "short_name" : "美郷中学校"
+      },
+      "早島町立早島中学校" : {
+         "location_area" : "都窪郡",
+         "owner_type" : "町立",
+         "short_name" : "早島中学校"
+      },
+      "朝日塾中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "朝日塾中学高等学校"
+      },
+      "津山市立中道中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "中道中学校"
+      },
+      "津山市立久米中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "久米中学校"
+      },
+      "津山市立加茂中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "加茂中学校"
+      },
+      "津山市立勝北中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "勝北中学校"
+      },
+      "津山市立北陵中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "北陵中学校"
+      },
+      "津山市立津山東中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "津山東中学校"
+      },
+      "津山市立津山西中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "津山西中学校"
+      },
+      "津山市立鶴山中学校" : {
+         "location_area" : "津山市",
+         "owner_type" : "市立",
+         "short_name" : "鶴山中学校"
+      },
+      "浅口市立寄島中学校" : {
+         "location_area" : "浅口市",
+         "owner_type" : "市立",
+         "short_name" : "寄島中学校"
+      },
+      "浅口市立金光中学校" : {
+         "location_area" : "浅口市",
+         "owner_type" : "市立",
+         "short_name" : "金光中学校"
+      },
+      "浅口市立鴨方中学校" : {
+         "location_area" : "浅口市",
+         "owner_type" : "市立",
+         "short_name" : "鴨方中学校"
+      },
+      "清心中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "清心中学校・清心女子高等学校"
+      },
+      "瀬戸内市立牛窓中学校" : {
+         "location_area" : "瀬戸内市",
+         "owner_type" : "市立",
+         "short_name" : "牛窓中学校"
+      },
+      "瀬戸内市立邑久中学校" : {
+         "location_area" : "瀬戸内市",
+         "owner_type" : "市立",
+         "short_name" : "邑久中学校"
+      },
+      "瀬戸内市立長船中学校" : {
+         "location_area" : "瀬戸内市",
+         "owner_type" : "市立",
+         "short_name" : "長船中学校"
+      },
+      "玉野市立八浜中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "八浜中学校"
+      },
+      "玉野市立宇野中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "宇野中学校"
+      },
+      "玉野市立山田中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "山田中学校"
+      },
+      "玉野市立日比中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "日比中学校"
+      },
+      "玉野市立東児中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "東児中学校"
+      },
+      "玉野市立玉中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "玉中学校"
+      },
+      "玉野市立荘内中学校" : {
+         "location_area" : "玉野市",
+         "owner_type" : "市立",
+         "short_name" : "荘内中学校"
+      },
+      "真庭市立久世中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "久世中学校"
+      },
+      "真庭市立勝山中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "勝山中学校"
+      },
+      "真庭市立北房中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "北房中学校"
+      },
+      "真庭市立湯原中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "湯原中学校"
+      },
+      "真庭市立美甘中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "美甘中学校"
+      },
+      "真庭市立落合中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "落合中学校"
+      },
+      "真庭市立蒜山中学校" : {
+         "location_area" : "真庭市",
+         "owner_type" : "市立",
+         "short_name" : "蒜山中学校"
+      },
+      "矢掛町立矢掛中学校" : {
+         "location_area" : "小田郡",
+         "owner_type" : "町立",
+         "short_name" : "矢掛中学校"
+      },
+      "笠岡市矢掛町中学校組合立小北中学校" : {
+         "location_area" : "小田郡",
+         "owner_type" : "組合"
+      },
+      "笠岡市立六島中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "六島中学校"
+      },
+      "笠岡市立北木中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "北木中学校"
+      },
+      "笠岡市立大島中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "大島中学校"
+      },
+      "笠岡市立新吉中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "新吉中学校"
+      },
+      "笠岡市立東中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "笠岡市立白石中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "白石中学校"
+      },
+      "笠岡市立真鍋中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "真鍋中学校"
+      },
+      "笠岡市立神島外中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "神島外中学校"
+      },
+      "笠岡市立西中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "西中学校"
+      },
+      "笠岡市立金浦中学校" : {
+         "location_area" : "笠岡市",
+         "owner_type" : "市立",
+         "short_name" : "金浦中学校"
+      },
+      "総社市立昭和中学校" : {
+         "location_area" : "総社市",
+         "owner_type" : "市立",
+         "short_name" : "昭和中学校"
+      },
+      "総社市立総社中学校" : {
+         "location_area" : "総社市",
+         "owner_type" : "市立",
+         "short_name" : "総社中学校"
+      },
+      "総社市立総社東中学校" : {
+         "location_area" : "総社市",
+         "owner_type" : "市立",
+         "short_name" : "総社東中学校"
+      },
+      "総社市立総社西中学校" : {
+         "location_area" : "総社市",
+         "owner_type" : "市立",
+         "short_name" : "総社西中学校"
+      },
+      "美作市立作東中学校" : {
+         "location_area" : "美作市",
+         "owner_type" : "市立",
+         "short_name" : "作東中学校"
+      },
+      "美作市立勝田中学校" : {
+         "location_area" : "美作市",
+         "owner_type" : "市立",
+         "short_name" : "勝田中学校"
+      },
+      "美作市立大原中学校" : {
+         "location_area" : "美作市",
+         "owner_type" : "市立",
+         "short_name" : "大原中学校"
+      },
+      "美作市立美作中学校" : {
+         "location_area" : "美作市",
+         "owner_type" : "市立",
+         "short_name" : "美作中学校"
+      },
+      "美作市立英田中学校" : {
+         "location_area" : "美作市",
+         "owner_type" : "市立",
+         "short_name" : "英田中学校"
+      },
+      "美咲町立中央中学校" : {
+         "location_area" : "久米郡",
+         "owner_type" : "町立",
+         "short_name" : "中央中学校"
+      },
+      "美咲町立旭中学校" : {
+         "location_area" : "久米郡",
+         "owner_type" : "町立",
+         "short_name" : "旭中学校"
+      },
+      "美咲町立柵原中学校" : {
+         "location_area" : "久米郡",
+         "owner_type" : "町立",
+         "short_name" : "柵原中学校"
+      },
+      "西粟倉村立西粟倉中学校" : {
+         "location_area" : "英田郡",
+         "owner_type" : "村立",
+         "short_name" : "西粟倉中学校"
+      },
+      "赤磐市立吉井中学校" : {
+         "location_area" : "赤磐市",
+         "owner_type" : "市立",
+         "short_name" : "吉井中学校"
+      },
+      "赤磐市立桜が丘中学校" : {
+         "location_area" : "赤磐市",
+         "owner_type" : "市立",
+         "short_name" : "桜が丘中学校"
+      },
+      "赤磐市立磐梨中学校" : {
+         "location_area" : "赤磐市",
+         "owner_type" : "市立",
+         "short_name" : "磐梨中学校"
+      },
+      "赤磐市立赤坂中学校" : {
+         "location_area" : "赤磐市",
+         "owner_type" : "市立",
+         "short_name" : "赤坂中学校"
+      },
+      "赤磐市立高陽中学校" : {
+         "location_area" : "赤磐市",
+         "owner_type" : "市立",
+         "short_name" : "高陽中学校"
+      },
+      "里庄町立里庄中学校" : {
+         "location_area" : "浅口郡",
+         "owner_type" : "町立",
+         "short_name" : "里庄中学校"
+      },
+      "金光学園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "金光学園中学校・高等学校"
+      },
+      "鏡野町立上齋原中学校" : {
+         "location_area" : "苫田郡",
+         "owner_type" : "町立",
+         "short_name" : "上齋原中学校"
+      },
+      "鏡野町立奥津中学校" : {
+         "location_area" : "苫田郡",
+         "owner_type" : "町立",
+         "short_name" : "奥津中学校"
+      },
+      "鏡野町立富中学校" : {
+         "location_area" : "苫田郡",
+         "owner_type" : "町立",
+         "short_name" : "富中学校"
+      },
+      "鏡野町立鏡野中学校" : {
+         "location_area" : "苫田郡",
+         "owner_type" : "町立",
+         "short_name" : "鏡野中学校"
+      },
+      "高梁市立備中中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "備中中学校"
+      },
+      "高梁市立川上中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "川上中学校"
+      },
+      "高梁市立成羽中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "成羽中学校"
+      },
+      "高梁市立有漢中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "有漢中学校"
+      },
+      "高梁市立湯野中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "湯野中学校"
+      },
+      "高梁市立高梁中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "高梁中学校"
+      },
+      "高梁市立高梁北中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "高梁北中学校"
+      },
+      "高梁市立高梁東中学校" : {
+         "location_area" : "高梁市",
+         "owner_type" : "市立",
+         "short_name" : "高梁東中学校"
+      }
+   }
+}

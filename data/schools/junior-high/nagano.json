@@ -1,0 +1,979 @@
+{
+   "junior_high_schools" : {
+      "どんぐり向方中学校" : {
+         "owner_type" : "私立"
+      },
+      "上松町立上松中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "上松中学校"
+      },
+      "上田市・長和町組合立依田窪南部中学校" : {
+         "location_area" : "小県郡",
+         "owner_type" : "組合"
+      },
+      "上田市立丸子中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "丸子中学校"
+      },
+      "上田市立丸子北中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "丸子北中学校"
+      },
+      "上田市立塩田中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "塩田中学校"
+      },
+      "上田市立真田中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "真田中学校"
+      },
+      "上田市立第一中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "上田市立第三中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "上田市立第二中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "上田市立第五中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第五中学校"
+      },
+      "上田市立第六中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第六中学校"
+      },
+      "上田市立第四中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校"
+      },
+      "上田市立第四中学校原峠分室" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "第四中学校原峠分室"
+      },
+      "上田市立菅平中学校" : {
+         "location_area" : "上田市",
+         "owner_type" : "市立",
+         "short_name" : "菅平中学校",
+         "wikipedia_name" : "上田市立菅平小中学校"
+      },
+      "下條村立下條中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "下條中学校"
+      },
+      "下諏訪町立下諏訪中学校" : {
+         "location_area" : "諏訪郡",
+         "owner_type" : "町立",
+         "short_name" : "下諏訪中学校"
+      },
+      "下諏訪町立下諏訪社中学校" : {
+         "location_area" : "諏訪郡",
+         "owner_type" : "町立",
+         "short_name" : "下諏訪社中学校"
+      },
+      "中川村立中川中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "中川中学校"
+      },
+      "中野市立中野平中学校" : {
+         "location_area" : "中野市",
+         "owner_type" : "市立",
+         "short_name" : "中野平中学校"
+      },
+      "中野市立南宮中学校" : {
+         "location_area" : "中野市",
+         "owner_type" : "市立",
+         "short_name" : "南宮中学校"
+      },
+      "中野市立豊田中学校" : {
+         "location_area" : "中野市",
+         "owner_type" : "市立",
+         "short_name" : "豊田中学校"
+      },
+      "中野市立高社中学校" : {
+         "location_area" : "中野市",
+         "owner_type" : "市立",
+         "short_name" : "高社中学校"
+      },
+      "伊那市立伊那中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "伊那中学校"
+      },
+      "伊那市立春富中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "春富中学校"
+      },
+      "伊那市立東部中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "東部中学校"
+      },
+      "伊那市立西箕輪中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "西箕輪中学校"
+      },
+      "伊那市立長谷中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "長谷中学校"
+      },
+      "伊那市立高遠中学校" : {
+         "location_area" : "伊那市",
+         "owner_type" : "市立",
+         "short_name" : "高遠中学校"
+      },
+      "佐久市立中込中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "中込中学校"
+      },
+      "佐久市立望月中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "望月中学校"
+      },
+      "佐久市立東中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "佐久市立浅科中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "浅科中学校"
+      },
+      "佐久市立浅間中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "浅間中学校"
+      },
+      "佐久市立臼田中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "臼田中学校"
+      },
+      "佐久市立野沢中学校" : {
+         "location_area" : "佐久市",
+         "owner_type" : "市立",
+         "short_name" : "野沢中学校"
+      },
+      "佐久穂町立佐久中学校" : {
+         "location_area" : "南佐久郡",
+         "owner_type" : "町立",
+         "short_name" : "佐久中学校"
+      },
+      "佐久穂町立八千穂中学校" : {
+         "location_area" : "南佐久郡",
+         "owner_type" : "町立",
+         "short_name" : "八千穂中学校"
+      },
+      "佐久長聖中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "佐久長聖中学校・高等学校"
+      },
+      "信州大学教育学部附属松本中学校" : {
+         "owner_type" : "国立"
+      },
+      "信州大学教育学部附属長野中学校" : {
+         "owner_type" : "国立"
+      },
+      "信濃町立信濃中学校" : {
+         "location_area" : "上水内郡",
+         "owner_type" : "町立",
+         "short_name" : "信濃中学校"
+      },
+      "千曲市立埴生中学校" : {
+         "location_area" : "千曲市",
+         "owner_type" : "市立",
+         "short_name" : "埴生中学校"
+      },
+      "千曲市立屋代中学校" : {
+         "location_area" : "千曲市",
+         "owner_type" : "市立",
+         "short_name" : "屋代中学校"
+      },
+      "千曲市立戸倉上山田中学校" : {
+         "location_area" : "千曲市",
+         "owner_type" : "市立",
+         "short_name" : "戸倉上山田中学校"
+      },
+      "千曲市立更埴西中学校" : {
+         "location_area" : "千曲市",
+         "owner_type" : "市立",
+         "short_name" : "更埴西中学校"
+      },
+      "南木曽町立南木曽中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "南木曽中学校"
+      },
+      "南牧村立南牧中学校" : {
+         "location_area" : "南佐久郡",
+         "owner_type" : "村立",
+         "short_name" : "南牧中学校"
+      },
+      "南箕輪村立南箕輪中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "南箕輪中学校"
+      },
+      "原村立原中学校" : {
+         "location_area" : "諏訪郡",
+         "owner_type" : "村立",
+         "short_name" : "原中学校"
+      },
+      "喬木村立喬木中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "喬木中学校"
+      },
+      "坂城町立坂城中学校" : {
+         "location_area" : "埴科郡",
+         "owner_type" : "町立",
+         "short_name" : "坂城中学校"
+      },
+      "塩尻市立丘中学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "市立",
+         "short_name" : "丘中学校"
+      },
+      "塩尻市立塩尻中学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "市立",
+         "short_name" : "塩尻中学校"
+      },
+      "塩尻市立塩尻西部中学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "市立",
+         "short_name" : "塩尻西部中学校"
+      },
+      "塩尻市立広陵中学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "市立",
+         "short_name" : "広陵中学校"
+      },
+      "塩尻市立楢川中学校" : {
+         "location_area" : "塩尻市",
+         "owner_type" : "市立",
+         "short_name" : "楢川中学校"
+      },
+      "塩尻市辰野町中学校組合立両小野中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "組合"
+      },
+      "売木村立売木中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "売木中学校"
+      },
+      "大桑村立大桑中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "村立",
+         "short_name" : "大桑中学校"
+      },
+      "大町市立仁科台中学校" : {
+         "location_area" : "大町市",
+         "owner_type" : "市立",
+         "short_name" : "仁科台中学校"
+      },
+      "大町市立八坂中学校" : {
+         "location_area" : "大町市",
+         "owner_type" : "市立",
+         "short_name" : "八坂中学校"
+      },
+      "大町市立第一中学校" : {
+         "location_area" : "大町市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "大町市立美麻中学校" : {
+         "location_area" : "大町市",
+         "owner_type" : "市立",
+         "short_name" : "美麻中学校"
+      },
+      "大鹿村立大鹿中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "大鹿中学校"
+      },
+      "天龍村立天龍中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "天龍中学校"
+      },
+      "安曇野市立三郷中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "三郷中学校"
+      },
+      "安曇野市立堀金中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "堀金中学校"
+      },
+      "安曇野市立明科中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "明科中学校"
+      },
+      "安曇野市立穂高東中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "穂高東中学校"
+      },
+      "安曇野市立穂高西中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "穂高西中学校"
+      },
+      "安曇野市立豊科北中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "豊科北中学校"
+      },
+      "安曇野市立豊科南中学校" : {
+         "location_area" : "安曇野市",
+         "owner_type" : "市立",
+         "short_name" : "豊科南中学校"
+      },
+      "宮田村立宮田中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "宮田中学校"
+      },
+      "富士見町立富士見中学校" : {
+         "location_area" : "諏訪郡",
+         "owner_type" : "町立",
+         "short_name" : "富士見中学校"
+      },
+      "小川村立小川中学校" : {
+         "location_area" : "上水内郡",
+         "owner_type" : "村立",
+         "short_name" : "小川中学校"
+      },
+      "小布施町立小布施中学校" : {
+         "location_area" : "上高井郡",
+         "owner_type" : "町立",
+         "short_name" : "小布施中学校"
+      },
+      "小海町北相木村南相木村中学校組合立小海中学校" : {
+         "location_area" : "南佐久郡",
+         "owner_type" : "組合"
+      },
+      "小諸市立小諸東中学校" : {
+         "location_area" : "小諸市",
+         "owner_type" : "市立",
+         "short_name" : "小諸東中学校"
+      },
+      "小諸市立芦原中学校" : {
+         "location_area" : "小諸市",
+         "owner_type" : "市立",
+         "short_name" : "芦原中学校"
+      },
+      "小谷村立小谷中学校" : {
+         "location_area" : "北安曇郡",
+         "owner_type" : "村立",
+         "short_name" : "小谷中学校"
+      },
+      "山ノ内町立山ノ内中学校" : {
+         "location_area" : "下高井郡",
+         "owner_type" : "町立",
+         "short_name" : "山ノ内中学校"
+      },
+      "岡谷市立岡谷北部中学校" : {
+         "location_area" : "岡谷市",
+         "owner_type" : "市立",
+         "short_name" : "岡谷北部中学校"
+      },
+      "岡谷市立岡谷南部中学校" : {
+         "location_area" : "岡谷市",
+         "owner_type" : "市立",
+         "short_name" : "岡谷南部中学校"
+      },
+      "岡谷市立岡谷東部中学校" : {
+         "location_area" : "岡谷市",
+         "owner_type" : "市立",
+         "short_name" : "岡谷東部中学校"
+      },
+      "岡谷市立岡谷西部中学校" : {
+         "location_area" : "岡谷市",
+         "owner_type" : "市立",
+         "short_name" : "岡谷西部中学校"
+      },
+      "川上村立川上中学校" : {
+         "location_area" : "南佐久郡",
+         "owner_type" : "村立",
+         "short_name" : "川上中学校"
+      },
+      "平谷村立平谷中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "平谷中学校"
+      },
+      "御代田町立御代田中学校" : {
+         "location_area" : "北佐久郡",
+         "owner_type" : "町立",
+         "short_name" : "御代田中学校"
+      },
+      "才教学園中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "才教学園小学校・中学校"
+      },
+      "木島平村立木島平中学校" : {
+         "location_area" : "下高井郡",
+         "owner_type" : "村立",
+         "short_name" : "木島平中学校"
+      },
+      "木曽町立三岳中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "三岳中学校"
+      },
+      "木曽町立日義中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "日義中学校"
+      },
+      "木曽町立福島中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "福島中学校"
+      },
+      "木曽町立開田中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "町立",
+         "short_name" : "開田中学校"
+      },
+      "木祖村立木祖中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "村立",
+         "short_name" : "木祖中学校"
+      },
+      "東御市立北御牧中学校" : {
+         "location_area" : "東御市",
+         "owner_type" : "市立",
+         "short_name" : "北御牧中学校"
+      },
+      "東御市立東部中学校" : {
+         "location_area" : "東御市",
+         "owner_type" : "市立",
+         "short_name" : "東部中学校"
+      },
+      "松川村立松川中学校" : {
+         "location_area" : "北安曇郡",
+         "owner_type" : "村立",
+         "short_name" : "松川中学校"
+      },
+      "松川町立松川中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "松川中学校"
+      },
+      "松本市山形村朝日村中学校組合立鉢盛中学校" : {
+         "location_area" : "東筑摩郡",
+         "owner_type" : "組合"
+      },
+      "松本市立丸の内中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "丸の内中学校"
+      },
+      "松本市立会田中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "会田中学校"
+      },
+      "松本市立信明中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "信明中学校"
+      },
+      "松本市立大野川中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "大野川中学校"
+      },
+      "松本市立奈川小中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "奈川小中学校"
+      },
+      "松本市立女鳥羽中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "女鳥羽中学校"
+      },
+      "松本市立安曇中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "安曇中学校"
+      },
+      "松本市立山辺中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "山辺中学校"
+      },
+      "松本市立旭町中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "旭町中学校"
+      },
+      "松本市立明善中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "明善中学校"
+      },
+      "松本市立松島中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "松島中学校"
+      },
+      "松本市立梓川中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "梓川中学校"
+      },
+      "松本市立波田中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "波田中学校"
+      },
+      "松本市立清水中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "清水中学校"
+      },
+      "松本市立筑摩野中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "筑摩野中学校"
+      },
+      "松本市立菅野中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "菅野中学校"
+      },
+      "松本市立鎌田中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "鎌田中学校"
+      },
+      "松本市立開成中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "開成中学校"
+      },
+      "松本市立高綱中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "高綱中学校"
+      },
+      "栄村立栄中学校" : {
+         "location_area" : "下水内郡",
+         "owner_type" : "村立",
+         "short_name" : "栄中学校"
+      },
+      "根羽村立根羽中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "根羽中学校"
+      },
+      "池田町立高瀬中学校" : {
+         "location_area" : "北安曇郡",
+         "owner_type" : "町立",
+         "short_name" : "高瀬中学校"
+      },
+      "泰阜村立泰阜中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "泰阜中学校"
+      },
+      "王滝村立王滝中学校" : {
+         "location_area" : "木曽郡",
+         "owner_type" : "村立",
+         "short_name" : "王滝中学校"
+      },
+      "生坂村立生坂中学校" : {
+         "location_area" : "東筑摩郡",
+         "owner_type" : "村立",
+         "short_name" : "生坂中学校"
+      },
+      "白馬村立白馬中学校" : {
+         "location_area" : "北安曇郡",
+         "owner_type" : "村立",
+         "short_name" : "白馬中学校"
+      },
+      "立科町立立科中学校" : {
+         "location_area" : "北佐久郡",
+         "owner_type" : "町立"
+      },
+      "筑北村立聖南中学校" : {
+         "location_area" : "東筑摩郡",
+         "owner_type" : "村立",
+         "short_name" : "聖南中学校"
+      },
+      "箕輪町立箕輪中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "箕輪中学校"
+      },
+      "茅野市立北部中学校" : {
+         "location_area" : "茅野市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "茅野市立東部中学校" : {
+         "location_area" : "茅野市",
+         "owner_type" : "市立",
+         "short_name" : "東部中学校"
+      },
+      "茅野市立永明中学校" : {
+         "location_area" : "茅野市",
+         "owner_type" : "市立",
+         "short_name" : "永明中学校"
+      },
+      "茅野市立長峰中学校" : {
+         "location_area" : "茅野市",
+         "owner_type" : "市立",
+         "short_name" : "長峰中学校"
+      },
+      "諏訪市立上諏訪中学校" : {
+         "location_area" : "諏訪市",
+         "owner_type" : "市立",
+         "short_name" : "上諏訪中学校"
+      },
+      "諏訪市立諏訪中学校" : {
+         "location_area" : "諏訪市",
+         "owner_type" : "市立",
+         "short_name" : "諏訪中学校"
+      },
+      "諏訪市立諏訪南中学校" : {
+         "location_area" : "諏訪市",
+         "owner_type" : "市立",
+         "short_name" : "諏訪南中学校"
+      },
+      "諏訪市立諏訪西中学校" : {
+         "location_area" : "諏訪市",
+         "owner_type" : "市立",
+         "short_name" : "諏訪西中学校"
+      },
+      "豊丘村立豊丘中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "豊丘中学校"
+      },
+      "軽井沢町立軽井沢中学校" : {
+         "location_area" : "北佐久郡",
+         "owner_type" : "町立",
+         "short_name" : "軽井沢中学校"
+      },
+      "辰野町立辰野中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "辰野中学校"
+      },
+      "野沢温泉村立野沢温泉中学校" : {
+         "location_area" : "下高井郡",
+         "owner_type" : "村立",
+         "short_name" : "野沢温泉中学校"
+      },
+      "長和町立和田中学校" : {
+         "location_area" : "小県郡",
+         "owner_type" : "町立",
+         "short_name" : "和田中学校"
+      },
+      "長野市立七二会中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "七二会中学校"
+      },
+      "長野市立三陽中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "三陽中学校"
+      },
+      "長野市立中条中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "中条中学校"
+      },
+      "長野市立信州新町中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "信州新町中学校"
+      },
+      "長野市立北部中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "長野市立大岡中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "大岡中学校"
+      },
+      "長野市立川中島中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "川中島中学校"
+      },
+      "長野市立広徳中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "広徳中学校"
+      },
+      "長野市立戸隠中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "戸隠中学校"
+      },
+      "長野市立更北中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "更北中学校"
+      },
+      "長野市立東北中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "東北中学校"
+      },
+      "長野市立東部中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "東部中学校"
+      },
+      "長野市立松代中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "松代中学校"
+      },
+      "長野市立柳町中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "柳町中学校"
+      },
+      "長野市立櫻ヶ岡中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "櫻ヶ岡中学校"
+      },
+      "長野市立犀陵中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "犀陵中学校"
+      },
+      "長野市立篠ノ井東中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "篠ノ井東中学校"
+      },
+      "長野市立篠ノ井西中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "篠ノ井西中学校"
+      },
+      "長野市立芋井中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "芋井中学校"
+      },
+      "長野市立若穂中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "若穂中学校"
+      },
+      "長野市立裾花中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "裾花中学校"
+      },
+      "長野市立西部中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "西部中学校"
+      },
+      "長野市立豊野中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "豊野中学校"
+      },
+      "長野市立鬼無里中学校" : {
+         "location_area" : "長野市",
+         "owner_type" : "市立",
+         "short_name" : "鬼無里中学校"
+      },
+      "長野日本大学中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "長野日本大学中学校・高等学校"
+      },
+      "長野清泉女学院中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "長野清泉女学院中学校・高等学校"
+      },
+      "阿南町立阿南第一中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "阿南第一中学校"
+      },
+      "阿南町立阿南第二中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "阿南第二中学校"
+      },
+      "阿智村立浪合中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "浪合中学校"
+      },
+      "阿智村立清内路中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "清内路中学校"
+      },
+      "阿智村立阿智中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "村立",
+         "short_name" : "阿智中学校"
+      },
+      "青木村立青木中学校" : {
+         "location_area" : "小県郡",
+         "owner_type" : "村立",
+         "short_name" : "青木中学校"
+      },
+      "須坂市立墨坂中学校" : {
+         "location_area" : "須坂市",
+         "owner_type" : "市立",
+         "short_name" : "墨坂中学校"
+      },
+      "須坂市立常盤中学校" : {
+         "location_area" : "須坂市",
+         "owner_type" : "市立",
+         "short_name" : "常盤中学校"
+      },
+      "須坂市立東中学校" : {
+         "location_area" : "須坂市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "須坂市立相森中学校" : {
+         "location_area" : "須坂市",
+         "owner_type" : "市立",
+         "short_name" : "相森中学校"
+      },
+      "飯山市立第一中学校" : {
+         "location_area" : "飯山市",
+         "owner_type" : "市立",
+         "short_name" : "第一中学校"
+      },
+      "飯山市立第三中学校" : {
+         "location_area" : "飯山市",
+         "owner_type" : "市立",
+         "short_name" : "第三中学校"
+      },
+      "飯山市立第二中学校" : {
+         "location_area" : "飯山市",
+         "owner_type" : "市立",
+         "short_name" : "第二中学校"
+      },
+      "飯島町立飯島中学校" : {
+         "location_area" : "上伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "飯島中学校"
+      },
+      "飯田市立旭ヶ丘中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "旭ヶ丘中学校"
+      },
+      "飯田市立竜峡中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "竜峡中学校"
+      },
+      "飯田市立竜東中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "竜東中学校"
+      },
+      "飯田市立緑ヶ丘中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "緑ヶ丘中学校"
+      },
+      "飯田市立遠山中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "遠山中学校"
+      },
+      "飯田市立飯田東中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "飯田東中学校"
+      },
+      "飯田市立飯田西中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "飯田西中学校"
+      },
+      "飯田市立高陵中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "高陵中学校"
+      },
+      "飯田市立鼎中学校" : {
+         "location_area" : "飯田市",
+         "owner_type" : "市立",
+         "short_name" : "鼎中学校"
+      },
+      "飯綱町立飯綱中学校" : {
+         "location_area" : "上水内郡",
+         "owner_type" : "町立",
+         "short_name" : "飯綱中学校"
+      },
+      "駒ヶ根市立東中学校" : {
+         "location_area" : "駒ヶ根市",
+         "owner_type" : "市立",
+         "short_name" : "東中学校"
+      },
+      "駒ヶ根市立赤穂中学校" : {
+         "location_area" : "駒ヶ根市",
+         "owner_type" : "市立",
+         "short_name" : "赤穂中学校"
+      },
+      "高山村立高山中学校" : {
+         "location_area" : "上高井郡",
+         "owner_type" : "村立",
+         "short_name" : "高山中学校"
+      },
+      "高森町立高森中学校" : {
+         "location_area" : "下伊那郡",
+         "owner_type" : "町立",
+         "short_name" : "高森中学校"
+      },
+      "麻績村筑北村学校組合立筑北中学校" : {
+         "location_area" : "東筑摩郡",
+         "owner_type" : "組合"
+      }
+   }
+}

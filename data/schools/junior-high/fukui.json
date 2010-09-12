@@ -1,0 +1,394 @@
+{
+   "junior_high_schools" : {
+      "あわら市立芦原中学校" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "芦原中学校"
+      },
+      "あわら市立金津中学校" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "金津中学校"
+      },
+      "おおい町立名田庄中学校" : {
+         "location_area" : "大飯郡",
+         "owner_type" : "町立",
+         "short_name" : "名田庄中学校"
+      },
+      "おおい町立大飯中学校" : {
+         "location_area" : "大飯郡",
+         "owner_type" : "町立",
+         "short_name" : "大飯中学校"
+      },
+      "かつやま子どもの村中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "学校法人きのくに子どもの村学園"
+      },
+      "勝山市立勝山中部中学校" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "勝山中部中学校"
+      },
+      "勝山市立北部中学校" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "北部中学校"
+      },
+      "勝山市立南部中学校" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "南部中学校"
+      },
+      "北陸学園北陸中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "北陸中学校"
+      },
+      "南越前町立今庄中学校" : {
+         "location_area" : "南条郡",
+         "owner_type" : "町立",
+         "short_name" : "今庄中学校"
+      },
+      "南越前町立南条中学校" : {
+         "location_area" : "南条郡",
+         "owner_type" : "町立",
+         "short_name" : "南条中学校"
+      },
+      "南越前町立河野中学校" : {
+         "location_area" : "南条郡",
+         "owner_type" : "町立",
+         "short_name" : "河野中学校"
+      },
+      "坂井市立三国中学校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "三国中学校"
+      },
+      "坂井市立丸岡中学校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "丸岡中学校"
+      },
+      "坂井市立丸岡中学校竹田分校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "丸岡中学校竹田分校"
+      },
+      "坂井市立丸岡南中学校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "丸岡南中学校"
+      },
+      "坂井市立坂井中学校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "坂井中学校"
+      },
+      "坂井市立春江中学校" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "春江中学校"
+      },
+      "大野市上庄中学校" : {
+         "location_area" : "大野市",
+         "owner_type" : "公立"
+      },
+      "大野市和泉中学校" : {
+         "location_area" : "大野市",
+         "owner_type" : "公立"
+      },
+      "大野市尚徳中学校" : {
+         "location_area" : "大野市",
+         "owner_type" : "公立"
+      },
+      "大野市開成中学校" : {
+         "location_area" : "大野市",
+         "owner_type" : "公立"
+      },
+      "大野市陽明中学校" : {
+         "location_area" : "大野市",
+         "owner_type" : "公立"
+      },
+      "小浜市立小浜中学校" : {
+         "location_area" : "小浜市",
+         "owner_type" : "市立",
+         "short_name" : "小浜中学校"
+      },
+      "小浜市立小浜第二中学校" : {
+         "location_area" : "小浜市",
+         "owner_type" : "市立",
+         "short_name" : "小浜第二中学校"
+      },
+      "敦賀市立東浦中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "東浦中学校"
+      },
+      "敦賀市立松陵中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "松陵中学校"
+      },
+      "敦賀市立気比中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "気比中学校"
+      },
+      "敦賀市立粟野中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "粟野中学校"
+      },
+      "敦賀市立西浦中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "西浦中学校"
+      },
+      "敦賀市立角鹿中学校" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "角鹿中学校"
+      },
+      "敦賀気比高等学校付属中学校" : {
+         "owner_type" : "私立",
+         "short_name" : "敦賀気比高校付属中学校"
+      },
+      "永平寺町立上志比中学校" : {
+         "location_area" : "吉田郡",
+         "owner_type" : "町立",
+         "short_name" : "上志比中学校"
+      },
+      "永平寺町立松岡中学校" : {
+         "location_area" : "吉田郡",
+         "owner_type" : "町立",
+         "short_name" : "松岡中学校"
+      },
+      "永平寺町立永平寺中学校" : {
+         "location_area" : "吉田郡",
+         "owner_type" : "町立",
+         "short_name" : "永平寺中学校"
+      },
+      "池田町立池田中学校" : {
+         "location_area" : "今立郡",
+         "owner_type" : "町立",
+         "short_name" : "池田中学校",
+         "wikipedia_name" : "池田町立池田中学校 (福井県)"
+      },
+      "福井大学教育地域科学部附属中学校" : {
+         "owner_type" : "国立"
+      },
+      "福井工業大学附属福井中学校" : {
+         "owner_type" : "私立",
+         "wikipedia_name" : "福井工業大学附属福井中学校・高等学校"
+      },
+      "福井市立光陽中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "光陽中学校"
+      },
+      "福井市立国見中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "国見中学校"
+      },
+      "福井市立大安寺中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "大安寺中学校"
+      },
+      "福井市立大東中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "大東中学校"
+      },
+      "福井市立安居中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "安居中学校"
+      },
+      "福井市立川西中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "川西中学校"
+      },
+      "福井市立成和中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "成和中学校"
+      },
+      "福井市立明倫中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "明倫中学校"
+      },
+      "福井市立明道中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "明道中学校"
+      },
+      "福井市立棗中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "棗中学校"
+      },
+      "福井市立森田中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "森田中学校"
+      },
+      "福井市立殿下中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "殿下中学校"
+      },
+      "福井市立清水中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "清水中学校"
+      },
+      "福井市立灯明寺中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "灯明寺中学校"
+      },
+      "福井市立社中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "社中学校"
+      },
+      "福井市立美山中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "美山中学校"
+      },
+      "福井市立至民中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "至民中学校"
+      },
+      "福井市立藤島中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "藤島中学校"
+      },
+      "福井市立越廼中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "越廼中学校"
+      },
+      "福井市立足羽中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "足羽中学校"
+      },
+      "福井市立足羽第一中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "足羽第一中学校"
+      },
+      "福井市立進明中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "進明中学校"
+      },
+      "福井市立鷹巣中学校" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "鷹巣中学校"
+      },
+      "美浜町立美浜中学校" : {
+         "location_area" : "三方郡",
+         "owner_type" : "町立",
+         "short_name" : "美浜中学校"
+      },
+      "美浜町立美浜中学校丹生分校" : {
+         "location_area" : "三方郡",
+         "owner_type" : "町立",
+         "short_name" : "美浜中学校丹生分校"
+      },
+      "若狭町立三方中学校" : {
+         "location_area" : "三方上中郡",
+         "owner_type" : "町立",
+         "short_name" : "三方中学校"
+      },
+      "若狭町立三方中学校岬分校" : {
+         "location_area" : "三方上中郡",
+         "owner_type" : "町立",
+         "short_name" : "三方中学校岬分校"
+      },
+      "若狭町立上中中学校" : {
+         "location_area" : "三方上中郡",
+         "owner_type" : "町立",
+         "short_name" : "上中中学校"
+      },
+      "越前市万葉中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市南越中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市武生第一中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市武生第三中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市武生第二中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市武生第五中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前市武生第六中学校" : {
+         "location_area" : "越前市",
+         "owner_type" : "公立"
+      },
+      "越前町立宮崎中学校" : {
+         "location_area" : "丹生郡",
+         "owner_type" : "町立",
+         "short_name" : "宮崎中学校"
+      },
+      "越前町立朝日中学校" : {
+         "location_area" : "丹生郡",
+         "owner_type" : "町立",
+         "short_name" : "朝日中学校"
+      },
+      "越前町立織田中学校" : {
+         "location_area" : "丹生郡",
+         "owner_type" : "町立",
+         "short_name" : "織田中学校"
+      },
+      "越前町立越前中学校" : {
+         "location_area" : "丹生郡",
+         "owner_type" : "町立",
+         "short_name" : "越前中学校"
+      },
+      "高浜町立内浦中学校" : {
+         "location_area" : "大飯郡",
+         "owner_type" : "町立",
+         "short_name" : "内浦中学校"
+      },
+      "高浜町立高浜中学校" : {
+         "location_area" : "大飯郡",
+         "owner_type" : "町立",
+         "short_name" : "高浜中学校"
+      },
+      "鯖江市中央中学校" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "公立"
+      },
+      "鯖江市東陽中学校" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "公立"
+      },
+      "鯖江市鯖江中学校" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "公立"
+      }
+   }
+}
