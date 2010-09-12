@@ -56,7 +56,8 @@ sub get_text_from_cache ($$) {
     $text =~ s/&gt;/>/g;
     $text =~ s/&quot;/\x22/g;
     $text =~ s/&amp;/&/g;
-    return $text;
+    require Encode;
+    return Encode::decode ('utf-8', $text);
   } else {
     return undef;
   }
