@@ -1,0 +1,27 @@
+=head1 NAME
+
+Geo::Area::Jp::Prefectures - List of Japanese prefectures
+
+=head1 SYNOPSIS
+
+  require Geo::Area::Jp::Prefectures;
+  warn @Geo::Area::Jp::Prefectures::JpanLongName;
+  warn @Geo::Area::Jp::Prefectures::JpanShortName;
+  warn @Geo::Area::Jp::Prefectures::LatnLongName;
+  warn @Geo::Area::Jp::Prefectures::LatnShortName;
+
+=head1 DESCRIPTION
+
+The C<Geo::Area::Jp::Prefectures> module provides lists of names of
+prefectures in Japan in various forms.
+
+=head1 Author
+
+Wakaba <w@suika.fam.cx>.
+
+=head1 LICENSE
+
+Public Domain.
+
+=cut
+
