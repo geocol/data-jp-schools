@@ -40,7 +40,7 @@ sub parse_text ($) {
       my $name = $2;
       my $level = length $1;
       my $wikipedia_name;
-      next if $name =~ /^(?:北学区は、|第I+類は|なお、|..学区|近々|\[\[専門学科\]\]と|よって|以下、|「|平成\d+年|これ以外の|県内の|\d+年度)/;
+      next if $name =~ /^(?:北学区は、|第I+類は|なお、|..学区|近々|\[\[専門学科\]\]と|よって|以下、|「|平成\d+年|これ以外の|県内の|\d+年度|-->$)/;
       next if $name =~ /存在しない/;
       next if $name eq 'なし';
       $name =~ s/^\s*[^\[\]]+学[園院館]\[\[/\[\[/;
@@ -111,9 +111,10 @@ sub parse_text ($) {
           専門高校・総合学科高校など|
           (?:定時制|通信制|全日制(?:普通科)?)(?:課程)?|
           定時制・通信制のみ設置|定時制・通信制|定時制・通信制両課程を置く高校|
-          高等専修学校|
+          高等専修学校|短期大学|
           男子校|女子校|共学校|
           名古屋市内|三河[東西]部|尾張[東西]部|知多|渥美|
+          九州・沖縄県\|沖縄|近畿|中部|関東|東北|中国|四国|
           地域別の一覧|
           .*と合併する.*
         )$/x) {
@@ -149,7 +150,9 @@ sub parse_text ($) {
       my $short_name = $name;
       $short_name =~ s/高等学校/高校/;
       $short_name =~ s/高等専門学校/高専/;
-      $short_name =~ s/^(?:[^立]+?[都府県市区町村]立|北海道|長野県|宮城県)//;
+      $short_name =~ s/^(?:[^立]+?[都府県市区町村]立|北海道|長野県|宮城県)//
+          unless $short_name =~ /大学$/;
+      $short_name =~ s/短期大学/短大/g;
       $short_name = {
         '日本航空高等学校通信制課程' => 'ウィングハイスクール',
         'クラ・ゼミ 輝高等学校浜松校' => '輝高等学校浜松校',
@@ -166,6 +169,12 @@ sub parse_text ($) {
         $v_mode = 'senior_high_schools';
       } elsif ($name =~ /高等専門学校$/) {
         $v_mode = 'tech_colleges';
+      } elsif ($name =~ /短期大学部?(?:[^学]+キャンパス)?$/) {
+        $v_mode = 'junior_colleges';
+      } elsif ($name =~ /大学院大学(?:[^学]+キャンパス)?$/) {
+        $v_mode = 'graduate_schools';
+      } elsif ($name =~ /大[学學](?:.+?キャンパス)?$/) {
+        $v_mode = 'univs';
       } else {
         $v_mode = {
           '国立唐津海上技術学校' => 'senior_high_school', # Source: Web site
@@ -173,6 +182,7 @@ sub parse_text ($) {
           '九州国際高等学園' => '_', # 高等専修学校 (Source: Wikipedia)
           '明倫館学院' => '_', # サポート校 (Source: Wikipedia)
           '大垣文化総合専門学校' => '_', # 連携校 (Source: Wikipedia)
+          '首都大学東京' => 'univs',
         }->{$name} || 'misc_schools';
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
@@ -198,7 +208,10 @@ sub parse_text ($) {
 sub as_hashref ($) {
   my $self = shift;
   my $r = {};
-  for (qw(high_schools senior_high_schools tech_colleges misc_schools)) {
+  for (qw(
+    high_schools senior_high_schools tech_colleges junior_colleges
+    univs graduate_schools misc_schools
+  )) {
     $r->{$_} = $self->{$_} if $self->{$_};
   }
   return $r;
