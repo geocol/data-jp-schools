@@ -42,6 +42,7 @@ sub parse_text ($) {
       my $wikipedia_name;
       next if $name =~ /^(?:北学区は、|第I+類は|なお、|..学区|近々|\[\[専門学科\]\]と|よって|以下、|「|平成\d+年|これ以外の|県内の|\d+年度)/;
       next if $name =~ /存在しない/;
+      next if $name eq 'なし';
       $name =~ s/^\s*[^\[\]]+学[園院館]\[\[/\[\[/;
       $name =~ s/^\s*\[\[[^\[\]]+学[園院館]\]\]\[\[/\[\[/;
       $name =~ s/^\s*株式会社[^\[\]]+\[\[/\[\[/;
@@ -85,7 +86,7 @@ sub parse_text ($) {
           }
         } elsif (/(?:学区|通学圏)$/) {
           $props->{school_area} = $_;
-        } elsif (/[市郡区町村]$/) {
+        } elsif (/[都道府県市郡区町村]$/) {
           $props->{location_area} = $_;
         } elsif (/^(?:
           (?:市町村|府|組合)立高等学校|
@@ -112,7 +113,9 @@ sub parse_text ($) {
           定時制・通信制のみ設置|定時制・通信制|定時制・通信制両課程を置く高校|
           高等専修学校|
           男子校|女子校|共学校|
-          名古屋市内|三河[東西]部|尾張[東西]部|知多|渥美
+          名古屋市内|三河[東西]部|尾張[東西]部|知多|渥美|
+          地域別の一覧|
+          .*と合併する.*
         )$/x) {
           #
         } else {
@@ -145,6 +148,7 @@ sub parse_text ($) {
 
       my $short_name = $name;
       $short_name =~ s/高等学校/高校/;
+      $short_name =~ s/高等専門学校/高専/;
       $short_name =~ s/^(?:[^立]+?[都府県市区町村]立|北海道|長野県|宮城県)//;
       $short_name = {
         '日本航空高等学校通信制課程' => 'ウィングハイスクール',
@@ -160,6 +164,8 @@ sub parse_text ($) {
         $v_mode = 'senior_high_schools';
       } elsif ($name =~ /高等学校[^学校分院科園]+校$/) {
         $v_mode = 'senior_high_schools';
+      } elsif ($name =~ /高等専門学校$/) {
+        $v_mode = 'tech_colleges';
       } else {
         $v_mode = {
           '国立唐津海上技術学校' => 'senior_high_school', # Source: Web site
@@ -178,6 +184,13 @@ sub parse_text ($) {
       $headings = [@$headings[0..($level - 1)], $name];
       splice @$headings, $level + 1, $#$headings - $level - 1, ();
       undef $mode if $name =~ /関連|外部|リンク|改称した|再編|広域通信制の学習センター等|サポート校|通称|かつて|特記事項/;
+    } elsif ($t =~ /^'''\s*(.+?)\s*'''\s*$/) {
+      my $level = 7;
+      my $name = $1;
+      $name =~ s/\[\[(.*?)\]\]/$1/g;
+      s/（.*?）// for $name;
+      $headings = [@$headings[0..($level - 1)], $name];
+      splice @$headings, $level + 1, $#$headings - $level - 1, ();
     }
   }
 } # parse_text
@@ -185,7 +198,7 @@ sub parse_text ($) {
 sub as_hashref ($) {
   my $self = shift;
   my $r = {};
-  for (qw(high_schools senior_high_schools misc_schools)) {
+  for (qw(high_schools senior_high_schools tech_colleges misc_schools)) {
     $r->{$_} = $self->{$_} if $self->{$_};
   }
   return $r;
