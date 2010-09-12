@@ -75,7 +75,34 @@ sub parse_text ($) {
       } else {
         $prev_name = $name;
       }
+      if ($name =~ /中学校・高等学校$/) {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name =~ s/高等学校$//;
+        } elsif ($title =~ /高等学校/) {
+          $name =~ s/中学校・高等学校$/高等学校/;
+        }
+      } elsif ($name eq '尚学館中学校・高等部') {
+        ## Source: Web site
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name = '尚学館中学校';
+        } elsif ($title =~ /高等学校/) {
+          $name = '尚学館高等部';
+        }
+      } elsif ($name eq '佐賀県立香楠中学校・鳥栖高等学校') {
+        my $title = $self->title;
+        if ($title =~ /中学校/) {
+          $name = '佐賀県立香楠中学校';
+        } elsif ($title =~ /高等学校/) {
+          $name = '佐賀県立鳥栖高等学校';
+        }
+      }
       next if $name =~ /^.{2,3}学区$/;
+      if ($name =~ /・/) {
+        warn "Name with \"・\": |$name|\n";
+      }
+
       my $props = {};
       for (grep {$_} @$headings) {
         if (/^([国都道府県公市区町村私]立)(?:高等学校|中等教育学校)?$/) {
@@ -160,6 +187,8 @@ sub parse_text ($) {
         '日本航空高等学校通信制課程' => 'ウィングハイスクール',
         'クラ・ゼミ 輝高等学校浜松校' => '輝高等学校浜松校',
         '藤花学園尾山台高等学校' => '尾山台高校',
+        '大多和学園 開星中学校' => '開星中学校',
+        '大多和学園 開星高等学校' => '開星高校',
       }->{$name} || $short_name;
       $props->{short_name} = $short_name if $name ne $short_name;
 
