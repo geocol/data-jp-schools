@@ -1,0 +1,663 @@
+{
+   "kindergartens" : {
+      "あけぼの幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "あさひ幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "あづま幼稚園" : {
+         "location_area" : "紫波郡",
+         "owner_type" : "私立"
+      },
+      "おさなご幼稚園" : {
+         "location_area" : "上閉伊郡",
+         "owner_type" : "私立"
+      },
+      "こじか幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "こばと幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "そけい幼稚園" : {
+         "location_area" : "宮古市",
+         "owner_type" : "私立"
+      },
+      "つつみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "つばめ幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "なでしこ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "のぞみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "ひかり幼稚園" : {
+         "location_area" : "宮古市",
+         "owner_type" : "私立"
+      },
+      "ひがし幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "ひなぎく幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "ひまわり幼稚園" : {
+         "location_area" : "二戸市",
+         "owner_type" : "私立"
+      },
+      "ふじなでしこ幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "ふじみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "みどりが丘幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "みどり幼稚園" : {
+         "location_area" : "上閉伊郡",
+         "owner_type" : "私立"
+      },
+      "みなみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "むらさきの幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "めぐみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "もみじが丘幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "やさか幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "やよい幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "ゆもと幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "わかば幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "カトリック清心幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      },
+      "スコーレ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "一戸町立一戸幼稚園" : {
+         "location_area" : "二戸郡",
+         "owner_type" : "町立",
+         "short_name" : "一戸幼稚園"
+      },
+      "一関市立いずみの森幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "いずみの森幼稚園"
+      },
+      "一関市立げいび幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "げいび幼稚園"
+      },
+      "一関市立厳美幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "厳美幼稚園"
+      },
+      "一関市立弥栄幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "弥栄幼稚園"
+      },
+      "一関市立摺沢幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "摺沢幼稚園"
+      },
+      "一関市立狐禅寺幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "狐禅寺幼稚園"
+      },
+      "一関市立真滝幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "真滝幼稚園"
+      },
+      "一関市立舞川幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "舞川幼稚園"
+      },
+      "一関市立萩荘幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "萩荘幼稚園"
+      },
+      "一関市立赤荻幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "市立",
+         "short_name" : "赤荻幼稚園"
+      },
+      "一関幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      },
+      "中央みのり幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "久慈幼稚園" : {
+         "location_area" : "久慈市",
+         "owner_type" : "私立"
+      },
+      "九戸村立伊保内幼稚園" : {
+         "location_area" : "九戸郡",
+         "owner_type" : "村立",
+         "short_name" : "伊保内幼稚園"
+      },
+      "仁王幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "仙北町幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "修紅短期大学附属幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立",
+         "short_name" : "修紅短大附属幼稚園"
+      },
+      "光の園幼稚園" : {
+         "location_area" : "遠野市",
+         "owner_type" : "私立"
+      },
+      "八日市幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "北上市立岩崎幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "岩崎幼稚園"
+      },
+      "北上市立更木幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "更木幼稚園"
+      },
+      "北上市立横川目幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "横川目幼稚園"
+      },
+      "北上市立江釣子幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "江釣子幼稚園"
+      },
+      "北上市立藤根幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "藤根幼稚園"
+      },
+      "北上市立黒沢尻幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "市立",
+         "short_name" : "黒沢尻幼稚園"
+      },
+      "千厩小羊幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      },
+      "双葉幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "大堤幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "大船渡市立吉浜幼稚園" : {
+         "location_area" : "大船渡市",
+         "owner_type" : "市立",
+         "short_name" : "吉浜幼稚園"
+      },
+      "大船渡市立綾里幼稚園" : {
+         "location_area" : "大船渡市",
+         "owner_type" : "市立",
+         "short_name" : "綾里幼稚園"
+      },
+      "大船渡市立越喜来幼稚園" : {
+         "location_area" : "大船渡市",
+         "owner_type" : "市立",
+         "short_name" : "越喜来幼稚園"
+      },
+      "大谷幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "大釜幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "奥州市立上姉体幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "上姉体幼稚園"
+      },
+      "奥州市立下三照幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "下三照幼稚園"
+      },
+      "奥州市立佐倉河幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "佐倉河幼稚園"
+      },
+      "奥州市立前沢北幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "前沢北幼稚園"
+      },
+      "奥州市立前沢南幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "前沢南幼稚園"
+      },
+      "奥州市立前沢東幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "前沢東幼稚園"
+      },
+      "奥州市立南都田幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "南都田幼稚園"
+      },
+      "奥州市立小山東幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "小山東幼稚園"
+      },
+      "奥州市立小山西幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "小山西幼稚園"
+      },
+      "奥州市立岩谷堂幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "岩谷堂幼稚園"
+      },
+      "奥州市立水沢西幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "水沢西幼稚園"
+      },
+      "奥州市立羽田幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "羽田幼稚園"
+      },
+      "奥州市立若柳幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "若柳幼稚園"
+      },
+      "奥州市立衣川幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "衣川幼稚園"
+      },
+      "奥州市立衣里幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "衣里幼稚園"
+      },
+      "奥州市立黒石幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "市立",
+         "short_name" : "黒石幼稚園"
+      },
+      "姉体幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "宮古市立川井幼稚園" : {
+         "location_area" : "宮古市",
+         "owner_type" : "市立",
+         "short_name" : "川井幼稚園"
+      },
+      "宮古泉幼稚園" : {
+         "location_area" : "宮古市",
+         "owner_type" : "私立"
+      },
+      "専修大学北上幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "小百合幼稚園" : {
+         "location_area" : "宮古市",
+         "owner_type" : "私立"
+      },
+      "山田幼稚園" : {
+         "location_area" : "下閉伊郡",
+         "owner_type" : "私立"
+      },
+      "山田町立さくら幼稚園" : {
+         "location_area" : "下閉伊郡",
+         "owner_type" : "町立",
+         "short_name" : "さくら幼稚園"
+      },
+      "山田町立わかば幼稚園" : {
+         "location_area" : "下閉伊郡",
+         "owner_type" : "町立",
+         "short_name" : "わかば幼稚園"
+      },
+      "岩手中央幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "岩手大学教育学部附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "岩泉町立岩泉幼稚園" : {
+         "location_area" : "下閉伊郡",
+         "owner_type" : "町立",
+         "short_name" : "岩泉幼稚園"
+      },
+      "常盤幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "平泉町立平泉幼稚園" : {
+         "location_area" : "西磐井郡",
+         "owner_type" : "町立",
+         "short_name" : "平泉幼稚園"
+      },
+      "愛心幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      },
+      "日詰幼稚園" : {
+         "location_area" : "紫波郡",
+         "owner_type" : "私立"
+      },
+      "日高幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "暁の星幼稚園" : {
+         "location_area" : "北上市",
+         "owner_type" : "私立"
+      },
+      "月が丘幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "松の丸幼稚園" : {
+         "location_area" : "二戸市",
+         "owner_type" : "私立"
+      },
+      "桜幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "正福寺幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "私立"
+      },
+      "水沢幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "水道橋くるみ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "洋野町立種市幼稚園" : {
+         "location_area" : "九戸郡",
+         "owner_type" : "町立",
+         "short_name" : "種市幼稚園"
+      },
+      "湯口大谷幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "甲東幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "私立"
+      },
+      "白梅幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡三育幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡大学附属厨川幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡大学附属松園幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡市立つなぎ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "市立",
+         "short_name" : "つなぎ幼稚園"
+      },
+      "盛岡市立太田幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "市立",
+         "short_name" : "太田幼稚園"
+      },
+      "盛岡市立好摩幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "市立",
+         "short_name" : "好摩幼稚園"
+      },
+      "盛岡市立米内幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "市立",
+         "short_name" : "米内幼稚園"
+      },
+      "盛岡幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡白百合学園幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "盛岡聖心幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "真城幼稚園" : {
+         "location_area" : "奥州市",
+         "owner_type" : "私立"
+      },
+      "矢巾中央幼稚園" : {
+         "location_area" : "紫波郡",
+         "owner_type" : "私立"
+      },
+      "福岡幼稚園" : {
+         "location_area" : "二戸市",
+         "owner_type" : "私立"
+      },
+      "聖パウロ幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "聖母幼稚園" : {
+         "location_area" : "久慈市",
+         "owner_type" : "私立"
+      },
+      "花巻ささま幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "花巻たかき幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "花巻みなみ幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "私立"
+      },
+      "花巻市立土沢幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "市立",
+         "short_name" : "土沢幼稚園"
+      },
+      "花巻市立花巻幼稚園" : {
+         "location_area" : "花巻市",
+         "owner_type" : "市立",
+         "short_name" : "花巻幼稚園"
+      },
+      "花泉幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      },
+      "葛巻幼稚園" : {
+         "location_area" : "岩手郡",
+         "owner_type" : "私立"
+      },
+      "藤沢町立藤沢幼稚園" : {
+         "location_area" : "東磐井郡",
+         "owner_type" : "町立",
+         "short_name" : "藤沢幼稚園"
+      },
+      "藤沢町立黄海幼稚園" : {
+         "location_area" : "東磐井郡",
+         "owner_type" : "町立",
+         "short_name" : "黄海幼稚園"
+      },
+      "赤石幼稚園" : {
+         "location_area" : "紫波郡",
+         "owner_type" : "私立"
+      },
+      "軽米町立軽米幼稚園" : {
+         "location_area" : "九戸郡",
+         "owner_type" : "町立",
+         "short_name" : "軽米幼稚園"
+      },
+      "遠野市立宮守幼稚園" : {
+         "location_area" : "遠野市",
+         "owner_type" : "市立",
+         "short_name" : "宮守幼稚園"
+      },
+      "遠野市立達曽部幼稚園" : {
+         "location_area" : "遠野市",
+         "owner_type" : "市立",
+         "short_name" : "達曽部幼稚園"
+      },
+      "遠野市立鱒沢幼稚園" : {
+         "location_area" : "遠野市",
+         "owner_type" : "市立",
+         "short_name" : "鱒沢幼稚園"
+      },
+      "遠野聖光幼稚園" : {
+         "location_area" : "遠野市",
+         "owner_type" : "私立"
+      },
+      "都南幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "金ケ崎町立三ケ尻幼稚園" : {
+         "location_area" : "胆沢郡",
+         "owner_type" : "町立",
+         "short_name" : "三ケ尻幼稚園"
+      },
+      "金ケ崎町立六原幼稚園" : {
+         "location_area" : "胆沢郡",
+         "owner_type" : "町立",
+         "short_name" : "六原幼稚園"
+      },
+      "金ケ崎町立南方幼稚園" : {
+         "location_area" : "胆沢郡",
+         "owner_type" : "町立",
+         "short_name" : "南方幼稚園"
+      },
+      "金ケ崎町立永岡幼稚園" : {
+         "location_area" : "胆沢郡",
+         "owner_type" : "町立",
+         "short_name" : "永岡幼稚園"
+      },
+      "釜石南幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "私立"
+      },
+      "釜石市立小川幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "市立",
+         "short_name" : "小川幼稚園"
+      },
+      "釜石市立平田幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "市立",
+         "short_name" : "平田幼稚園"
+      },
+      "釜石市立第一幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "市立",
+         "short_name" : "第一幼稚園"
+      },
+      "釜石市立鵜住居幼稚園" : {
+         "location_area" : "釜石市",
+         "owner_type" : "市立",
+         "short_name" : "鵜住居幼稚園"
+      },
+      "青山幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "青葉幼稚園" : {
+         "location_area" : "盛岡市",
+         "owner_type" : "私立"
+      },
+      "龍澤寺幼稚園" : {
+         "location_area" : "一関市",
+         "owner_type" : "私立"
+      }
+   }
+}

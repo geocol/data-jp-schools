@@ -1,0 +1,993 @@
+{
+   "kindergartens" : {
+      "いさがわ幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "くちなし幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "私立"
+      },
+      "さくら幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "私立"
+      },
+      "せいか幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "私立"
+      },
+      "だいどう幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "私立"
+      },
+      "のぞみ幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "私立"
+      },
+      "ひかり幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "エンゼル幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "私立"
+      },
+      "ハルナ幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "私立"
+      },
+      "三宅町立三宅幼児園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "三宅幼児園"
+      },
+      "三郷町立南畑幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "南畑幼稚園"
+      },
+      "上牧町立上牧幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "上牧幼稚園"
+      },
+      "下市町立下市南幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "下市南幼稚園"
+      },
+      "下市町立下市幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "下市幼稚園"
+      },
+      "下市町立阿知賀幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "阿知賀幼稚園"
+      },
+      "五條市立五條幼稚園" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "五條幼稚園"
+      },
+      "五條市立白銀北幼稚園" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "白銀北幼稚園"
+      },
+      "五條市立賀名生幼稚園" : {
+         "location_area" : "五條市",
+         "owner_type" : "市立",
+         "short_name" : "賀名生幼稚園"
+      },
+      "信貴幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "私立"
+      },
+      "北野幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "私立"
+      },
+      "十津川村立平谷幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "平谷幼稚園"
+      },
+      "吉野町立わかば幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "わかば幼稚園"
+      },
+      "吉野町立吉野幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "吉野幼稚園"
+      },
+      "吉野町立国栖幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "国栖幼稚園"
+      },
+      "大和郡山カトリック幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "私立"
+      },
+      "大和郡山市立平和幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "平和幼稚園"
+      },
+      "大和郡山市立昭和幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "昭和幼稚園"
+      },
+      "大和郡山市立治道幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "治道幼稚園"
+      },
+      "大和郡山市立片桐幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "片桐幼稚園"
+      },
+      "大和郡山市立片桐西幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "片桐西幼稚園"
+      },
+      "大和郡山市立矢田南幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "矢田南幼稚園"
+      },
+      "大和郡山市立矢田幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "矢田幼稚園"
+      },
+      "大和郡山市立筒井幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "筒井幼稚園"
+      },
+      "大和郡山市立郡山北幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山北幼稚園"
+      },
+      "大和郡山市立郡山南幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山南幼稚園"
+      },
+      "大和郡山市立郡山西幼稚園" : {
+         "location_area" : "大和郡山市",
+         "owner_type" : "市立",
+         "short_name" : "郡山西幼稚園"
+      },
+      "大和高田市立土庫幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "土庫幼稚園"
+      },
+      "大和高田市立浮孔幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "浮孔幼稚園"
+      },
+      "大和高田市立浮孔西幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "浮孔西幼稚園"
+      },
+      "大和高田市立片塩幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "片塩幼稚園"
+      },
+      "大和高田市立磐園幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "磐園幼稚園"
+      },
+      "大和高田市立菅原幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "菅原幼稚園"
+      },
+      "大和高田市立陵西幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "陵西幼稚園"
+      },
+      "大和高田市立高田幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "市立",
+         "short_name" : "高田幼稚園"
+      },
+      "大淀町立大淀幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "大淀幼稚園"
+      },
+      "大淀町立東部幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "東部幼稚園"
+      },
+      "大淀町立西部幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "町立",
+         "short_name" : "西部幼稚園"
+      },
+      "天川村立天川幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "天川幼稚園"
+      },
+      "天理市立丹波市幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "丹波市幼稚園"
+      },
+      "天理市立二階堂幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "二階堂幼稚園"
+      },
+      "天理市立井戸堂幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "井戸堂幼稚園"
+      },
+      "天理市立前栽幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "前栽幼稚園"
+      },
+      "天理市立山の辺幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "山の辺幼稚園"
+      },
+      "天理市立朝和幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "朝和幼稚園"
+      },
+      "天理市立柳本幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "柳本幼稚園"
+      },
+      "天理市立櫟本幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "櫟本幼稚園"
+      },
+      "天理市立福住幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "市立",
+         "short_name" : "福住幼稚園"
+      },
+      "天理幼稚園" : {
+         "location_area" : "天理市",
+         "owner_type" : "私立"
+      },
+      "奈良カトリック幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "奈良佐保短期大学附属生駒幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "私立",
+         "short_name" : "奈良佐保短大附属生駒幼稚園"
+      },
+      "奈良保育学院付属幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "奈良大学付属幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "奈良女子大学附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "奈良市立あやめ池幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "あやめ池幼稚園"
+      },
+      "奈良市立三碓幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "三碓幼稚園"
+      },
+      "奈良市立二名幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "二名幼稚園"
+      },
+      "奈良市立伏見南幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "伏見南幼稚園"
+      },
+      "奈良市立伏見幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "伏見幼稚園"
+      },
+      "奈良市立佐保台幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "佐保台幼稚園"
+      },
+      "奈良市立佐保幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "佐保幼稚園"
+      },
+      "奈良市立佐紀幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "佐紀幼稚園"
+      },
+      "奈良市立六条幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "六条幼稚園"
+      },
+      "奈良市立右京幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "右京幼稚園"
+      },
+      "奈良市立大安寺幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "大安寺幼稚園"
+      },
+      "奈良市立大安寺西幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "大安寺西幼稚園"
+      },
+      "奈良市立大宮幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "大宮幼稚園"
+      },
+      "奈良市立大柳生幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "大柳生幼稚園"
+      },
+      "奈良市立富雄北幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "富雄北幼稚園"
+      },
+      "奈良市立富雄南幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "富雄南幼稚園"
+      },
+      "奈良市立富雄第三幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "富雄第三幼稚園"
+      },
+      "奈良市立左京幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "左京幼稚園"
+      },
+      "奈良市立帯解幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "帯解幼稚園"
+      },
+      "奈良市立平城幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "平城幼稚園"
+      },
+      "奈良市立平城西幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "平城西幼稚園"
+      },
+      "奈良市立明治幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "明治幼稚園"
+      },
+      "奈良市立朱雀幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "朱雀幼稚園"
+      },
+      "奈良市立東市幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "東市幼稚園"
+      },
+      "奈良市立東登美ケ丘幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "東登美ケ丘幼稚園"
+      },
+      "奈良市立済美幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "済美幼稚園"
+      },
+      "奈良市立狭川幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "狭川幼稚園"
+      },
+      "奈良市立田原幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "田原幼稚園"
+      },
+      "奈良市立登美ケ丘幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "登美ケ丘幼稚園"
+      },
+      "奈良市立神功幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "神功幼稚園"
+      },
+      "奈良市立精華幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "精華幼稚園"
+      },
+      "奈良市立西大寺北幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "西大寺北幼稚園"
+      },
+      "奈良市立辰市幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "辰市幼稚園"
+      },
+      "奈良市立都跡幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "都跡幼稚園"
+      },
+      "奈良市立青和幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "青和幼稚園"
+      },
+      "奈良市立飛鳥幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "飛鳥幼稚園"
+      },
+      "奈良市立鳥見幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "鳥見幼稚園"
+      },
+      "奈良市立鶴舞幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "鶴舞幼稚園"
+      },
+      "奈良市立鼓阪北幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "鼓阪北幼稚園"
+      },
+      "奈良市立鼓阪幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "市立",
+         "short_name" : "鼓阪幼稚園"
+      },
+      "奈良教育大学附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "奈良文化女子短期大学付属幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "私立",
+         "short_name" : "奈良文化女子短大付属幼稚園"
+      },
+      "奈良育英幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "学園前ネオポリス幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "宇陀市立大宇陀幼稚園" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "大宇陀幼稚園"
+      },
+      "宇陀市立室生幼稚園" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "室生幼稚園"
+      },
+      "宇陀市立榛原幼稚園" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "榛原幼稚園"
+      },
+      "宇陀市立榛原東幼稚園" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "榛原東幼稚園"
+      },
+      "宇陀市立榛原西幼稚園" : {
+         "location_area" : "宇陀市",
+         "owner_type" : "市立",
+         "short_name" : "榛原西幼稚園"
+      },
+      "川西町立川西幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "川西幼稚園"
+      },
+      "帝塚山幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "常盤幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "私立"
+      },
+      "平群北幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "私立"
+      },
+      "平群町立平群幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "平群幼稚園"
+      },
+      "広陵町立広陵北幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "広陵北幼稚園"
+      },
+      "広陵町立広陵東小学校附属幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "広陵東小学校附属幼稚園"
+      },
+      "広陵町立広陵西幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "広陵西幼稚園"
+      },
+      "広陵町立広陵西第二幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "広陵西第二幼稚園"
+      },
+      "広陵町立真美ヶ丘第一小学校附属幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "真美ヶ丘第一小学校附属幼稚園"
+      },
+      "広陵町立真美ヶ丘第二小学校附属幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "真美ヶ丘第二小学校附属幼稚園"
+      },
+      "御所市立大正幼稚園" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "大正幼稚園"
+      },
+      "御所市立御所幼稚園" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "御所幼稚園"
+      },
+      "御所市立秋津幼稚園" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "秋津幼稚園"
+      },
+      "御所市立葛幼稚園" : {
+         "location_area" : "御所市",
+         "owner_type" : "市立",
+         "short_name" : "葛幼稚園"
+      },
+      "愛の園幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "私立"
+      },
+      "愛恵幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "私立"
+      },
+      "愛染幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "斑鳩町立斑鳩幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "斑鳩幼稚園"
+      },
+      "斑鳩町立斑鳩東幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "斑鳩東幼稚園"
+      },
+      "斑鳩町立斑鳩西幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "町立",
+         "short_name" : "斑鳩西幼稚園"
+      },
+      "明日香村立明日香幼稚園" : {
+         "location_area" : "高市郡",
+         "owner_type" : "村立",
+         "short_name" : "明日香幼稚園"
+      },
+      "東吉野村立小川幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "小川幼稚園"
+      },
+      "東吉野村立高見幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "高見幼稚園"
+      },
+      "東大寺幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "桜井市立三輪幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "三輪幼稚園"
+      },
+      "桜井市立安倍幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "安倍幼稚園"
+      },
+      "桜井市立桜井南幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "桜井南幼稚園"
+      },
+      "桜井市立桜井西幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "桜井西幼稚園"
+      },
+      "桜井市立織田幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "織田幼稚園"
+      },
+      "桜井市立纒向幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "市立",
+         "short_name" : "纒向幼稚園"
+      },
+      "橿原市立今井幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "今井幼稚園"
+      },
+      "橿原市立新沢幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "新沢幼稚園"
+      },
+      "橿原市立晩成幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "晩成幼稚園"
+      },
+      "橿原市立畝傍北幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "畝傍北幼稚園"
+      },
+      "橿原市立畝傍南幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "畝傍南幼稚園"
+      },
+      "橿原市立畝傍東幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "畝傍東幼稚園"
+      },
+      "橿原市立白橿北幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "白橿北幼稚園"
+      },
+      "橿原市立白橿南幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "白橿南幼稚園"
+      },
+      "橿原市立真菅北幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "真菅北幼稚園"
+      },
+      "橿原市立真菅幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "真菅幼稚園"
+      },
+      "橿原市立耳成南幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "耳成南幼稚園"
+      },
+      "橿原市立耳成幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "耳成幼稚園"
+      },
+      "橿原市立耳成西幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "耳成西幼稚園"
+      },
+      "橿原市立金橋幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "金橋幼稚園"
+      },
+      "橿原市立香久山幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "香久山幼稚園"
+      },
+      "橿原市立鴨公幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "市立",
+         "short_name" : "鴨公幼稚園"
+      },
+      "河合町立河合幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "河合幼稚園"
+      },
+      "法隆寺幼稚園" : {
+         "location_area" : "生駒郡",
+         "owner_type" : "私立"
+      },
+      "片岡台幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "私立"
+      },
+      "王寺町立王寺北幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "王寺北幼稚園"
+      },
+      "王寺町立王寺南幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "王寺南幼稚園"
+      },
+      "王寺町立王寺幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "町立",
+         "short_name" : "王寺幼稚園"
+      },
+      "生駒市立あすか野幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "あすか野幼稚園"
+      },
+      "生駒市立なばた幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "なばた幼稚園"
+      },
+      "生駒市立俵口幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "俵口幼稚園"
+      },
+      "生駒市立南幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "南幼稚園"
+      },
+      "生駒市立壱分幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "壱分幼稚園"
+      },
+      "生駒市立桜ヶ丘幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "桜ヶ丘幼稚園"
+      },
+      "生駒市立生駒台幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "生駒台幼稚園"
+      },
+      "生駒市立生駒幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "生駒幼稚園"
+      },
+      "生駒市立高山幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "市立",
+         "short_name" : "高山幼稚園"
+      },
+      "田原本町立北幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "北幼稚園"
+      },
+      "田原本町立南幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "南幼稚園"
+      },
+      "田原本町立平野幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "平野幼稚園"
+      },
+      "田原本町立東幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "東幼稚園"
+      },
+      "田原本町立田原本幼稚園" : {
+         "location_area" : "磯城郡",
+         "owner_type" : "町立",
+         "short_name" : "田原本幼稚園"
+      },
+      "畿央大学付属幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "私立"
+      },
+      "登美ヶ丘カトリック幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "白百合幼稚園" : {
+         "location_area" : "生駒市",
+         "owner_type" : "私立"
+      },
+      "聖心幼稚園" : {
+         "location_area" : "橿原市",
+         "owner_type" : "私立"
+      },
+      "育成幼稚園" : {
+         "location_area" : "桜井市",
+         "owner_type" : "私立"
+      },
+      "葛カトリック幼稚園" : {
+         "location_area" : "御所市",
+         "owner_type" : "私立"
+      },
+      "葛城市立忍海小学校附属幼稚園" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "忍海小学校附属幼稚園"
+      },
+      "葛城市立新庄北小学校附属幼稚園" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "新庄北小学校附属幼稚園"
+      },
+      "葛城市立新庄小学校附属幼稚園" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "新庄小学校附属幼稚園"
+      },
+      "葛城市立當麻小学校附属幼稚園" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "當麻小学校附属幼稚園"
+      },
+      "葛城市立磐城小学校附属幼稚園" : {
+         "location_area" : "葛城市",
+         "owner_type" : "市立",
+         "short_name" : "磐城小学校附属幼稚園"
+      },
+      "西大和双葉幼稚園" : {
+         "location_area" : "北葛城郡",
+         "owner_type" : "私立"
+      },
+      "西大寺幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "親愛幼稚園" : {
+         "location_area" : "奈良市",
+         "owner_type" : "私立"
+      },
+      "香芝市立三和幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "三和幼稚園"
+      },
+      "香芝市立下田幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "下田幼稚園"
+      },
+      "香芝市立二上幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "二上幼稚園"
+      },
+      "香芝市立五位堂幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "五位堂幼稚園"
+      },
+      "香芝市立志都美幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "志都美幼稚園"
+      },
+      "香芝市立旭ヶ丘幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "旭ヶ丘幼稚園"
+      },
+      "香芝市立真美ヶ丘東幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "真美ヶ丘東幼稚園"
+      },
+      "香芝市立鎌田幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "鎌田幼稚園"
+      },
+      "香芝市立関屋幼稚園" : {
+         "location_area" : "香芝市",
+         "owner_type" : "市立",
+         "short_name" : "関屋幼稚園"
+      },
+      "高取町立育成幼稚園" : {
+         "location_area" : "高市郡",
+         "owner_type" : "町立",
+         "short_name" : "育成幼稚園"
+      },
+      "高取町立高取幼稚園" : {
+         "location_area" : "高市郡",
+         "owner_type" : "町立",
+         "short_name" : "高取幼稚園"
+      },
+      "高田カトリック幼稚園" : {
+         "location_area" : "大和高田市",
+         "owner_type" : "私立"
+      },
+      "黒滝村立黒滝幼稚園" : {
+         "location_area" : "吉野郡",
+         "owner_type" : "村立",
+         "short_name" : "黒滝幼稚園"
+      }
+   }
+}

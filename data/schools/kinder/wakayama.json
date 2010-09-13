@@ -1,0 +1,541 @@
+{
+   "kindergartens" : {
+      "あおば幼稚園" : {
+         "location_area" : "紀の川市",
+         "owner_type" : "私立"
+      },
+      "あやの台幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "私立"
+      },
+      "いさお幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "うえのやま幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "おのみなと紀泉台幼稚園" : {
+         "location_area" : "岩出市",
+         "owner_type" : "私立"
+      },
+      "かつらぎ町立大谷幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "大谷幼稚園"
+      },
+      "かつらぎ町立妙寺幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "妙寺幼稚園"
+      },
+      "かつらぎ町立渋田幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "渋田幼稚園"
+      },
+      "かつらぎ町立笠田幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "笠田幼稚園"
+      },
+      "かつらぎ町立花園幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "花園幼稚園"
+      },
+      "さくら幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "たから幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "たちばな幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "ぶっとく幼稚園" : {
+         "location_area" : "有田市",
+         "owner_type" : "私立"
+      },
+      "まつえ幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "みどり幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "みなべ町立南部幼稚園" : {
+         "location_area" : "日高郡",
+         "owner_type" : "町立",
+         "short_name" : "南部幼稚園"
+      },
+      "シオン幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "ナザレ幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "マリア幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "私立"
+      },
+      "三宝幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "三石台幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "私立"
+      },
+      "串本町立串本幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "串本幼稚園"
+      },
+      "串本町立出雲幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "出雲幼稚園"
+      },
+      "串本町立潮岬幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "潮岬幼稚園"
+      },
+      "串本町立西向幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "西向幼稚園"
+      },
+      "九度山町立九度山幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "九度山幼稚園"
+      },
+      "九度山町立古澤幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "古澤幼稚園"
+      },
+      "九度山町立河根幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "町立",
+         "short_name" : "河根幼稚園"
+      },
+      "初島幼稚園" : {
+         "location_area" : "有田市",
+         "owner_type" : "私立"
+      },
+      "勝浦幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "私立"
+      },
+      "印南町立印南幼稚園" : {
+         "location_area" : "日高郡",
+         "owner_type" : "町立",
+         "short_name" : "印南幼稚園"
+      },
+      "印南町立稲原幼稚園" : {
+         "location_area" : "日高郡",
+         "owner_type" : "町立",
+         "short_name" : "稲原幼稚園"
+      },
+      "名草幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "和歌山ひかり幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "和歌山中央幼稚園" : {
+         "location_area" : "岩出市",
+         "owner_type" : "私立"
+      },
+      "和歌山信愛女子短期大学附属幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立",
+         "short_name" : "和歌山信愛女子短大附属幼稚園"
+      },
+      "和歌山市立中之島幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "中之島幼稚園"
+      },
+      "和歌山市立加太幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "加太幼稚園"
+      },
+      "和歌山市立和佐幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "和佐幼稚園"
+      },
+      "和歌山市立宮前幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "宮前幼稚園"
+      },
+      "和歌山市立山口幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "山口幼稚園"
+      },
+      "和歌山市立岡山幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "岡山幼稚園"
+      },
+      "和歌山市立本町幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "本町幼稚園"
+      },
+      "和歌山市立湊幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "湊幼稚園"
+      },
+      "和歌山市立紀伊幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "紀伊幼稚園"
+      },
+      "和歌山市立芦原幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "芦原幼稚園"
+      },
+      "和歌山市立西和佐幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "西和佐幼稚園"
+      },
+      "和歌山市立西脇幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "西脇幼稚園"
+      },
+      "和歌山市立雑賀崎幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "市立",
+         "short_name" : "雑賀崎幼稚園"
+      },
+      "太地町立太地幼稚園" : {
+         "location_area" : "東牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "太地幼稚園"
+      },
+      "安原幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "岩田幼稚園" : {
+         "location_area" : "西牟婁郡",
+         "owner_type" : "私立"
+      },
+      "広川町立広川幼稚園" : {
+         "location_area" : "有田郡",
+         "owner_type" : "町立",
+         "short_name" : "広川幼稚園"
+      },
+      "御坊はこぶね幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "私立"
+      },
+      "御坊市立名田幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "市立",
+         "short_name" : "名田幼稚園"
+      },
+      "御坊市立塩屋幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "市立",
+         "short_name" : "塩屋幼稚園"
+      },
+      "御坊市立大成幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "市立",
+         "short_name" : "大成幼稚園"
+      },
+      "御坊市立湯川幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "市立",
+         "short_name" : "湯川幼稚園"
+      },
+      "御坊幼稚園" : {
+         "location_area" : "御坊市",
+         "owner_type" : "私立"
+      },
+      "愛の光幼稚園" : {
+         "location_area" : "紀の川市",
+         "owner_type" : "私立"
+      },
+      "愛の園幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "愛徳幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "新宮市立三輪崎幼稚園" : {
+         "location_area" : "新宮市",
+         "owner_type" : "市立",
+         "short_name" : "三輪崎幼稚園"
+      },
+      "新宮市立丹鶴幼稚園" : {
+         "location_area" : "新宮市",
+         "owner_type" : "市立",
+         "short_name" : "丹鶴幼稚園"
+      },
+      "新宮市立千穂幼稚園" : {
+         "location_area" : "新宮市",
+         "owner_type" : "市立",
+         "short_name" : "千穂幼稚園"
+      },
+      "新宮市立王子幼稚園" : {
+         "location_area" : "新宮市",
+         "owner_type" : "市立",
+         "short_name" : "王子幼稚園"
+      },
+      "新宮市立蓬莱幼稚園" : {
+         "location_area" : "新宮市",
+         "owner_type" : "市立",
+         "short_name" : "蓬莱幼稚園"
+      },
+      "日前幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "昭和幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "智徳幼稚園" : {
+         "location_area" : "紀の川市",
+         "owner_type" : "私立"
+      },
+      "東山東幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "橋本市立兵庫幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "兵庫幼稚園"
+      },
+      "橋本市立境原幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "境原幼稚園"
+      },
+      "橋本市立学文路幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "学文路幼稚園"
+      },
+      "橋本市立山内幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "山内幼稚園"
+      },
+      "橋本市立応其幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "応其幼稚園"
+      },
+      "橋本市立恋野幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "恋野幼稚園"
+      },
+      "橋本市立柱本幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "柱本幼稚園"
+      },
+      "橋本市立橋本幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "橋本幼稚園"
+      },
+      "橋本市立清水幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "清水幼稚園"
+      },
+      "橋本市立紀見幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "紀見幼稚園"
+      },
+      "橋本市立隅田幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "隅田幼稚園"
+      },
+      "橋本市立高野口幼稚園" : {
+         "location_area" : "橋本市",
+         "owner_type" : "市立",
+         "short_name" : "高野口幼稚園"
+      },
+      "海南市立下津幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "下津幼稚園"
+      },
+      "海南市立中野上幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "中野上幼稚園"
+      },
+      "海南市立亀川幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "亀川幼稚園"
+      },
+      "海南市立仁義幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "仁義幼稚園"
+      },
+      "海南市立内海幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "内海幼稚園"
+      },
+      "海南市立加茂第一幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "加茂第一幼稚園"
+      },
+      "海南市立加茂第二幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "加茂第二幼稚園"
+      },
+      "海南市立塩津幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "塩津幼稚園"
+      },
+      "海南市立大崎幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "大崎幼稚園"
+      },
+      "海南市立大東幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "大東幼稚園"
+      },
+      "海南市立大野幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "大野幼稚園"
+      },
+      "海南市立巽幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "巽幼稚園"
+      },
+      "海南市立日方幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "日方幼稚園"
+      },
+      "海南市立黒江幼稚園" : {
+         "location_area" : "海南市",
+         "owner_type" : "市立",
+         "short_name" : "黒江幼稚園"
+      },
+      "湯浅幼稚園" : {
+         "location_area" : "有田郡",
+         "owner_type" : "私立"
+      },
+      "田辺市立三栖幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "市立",
+         "short_name" : "三栖幼稚園"
+      },
+      "田辺市立上秋津幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "市立",
+         "short_name" : "上秋津幼稚園"
+      },
+      "田辺市立中芳養幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "市立",
+         "short_name" : "中芳養幼稚園"
+      },
+      "田辺市立新庄幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "市立",
+         "short_name" : "新庄幼稚園"
+      },
+      "田辺幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "白梅幼稚園" : {
+         "location_area" : "日高郡",
+         "owner_type" : "私立"
+      },
+      "白浜町立富田幼稚園" : {
+         "location_area" : "西牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "富田幼稚園"
+      },
+      "白浜町立白浜第一幼稚園" : {
+         "location_area" : "西牟婁郡",
+         "owner_type" : "町立",
+         "short_name" : "白浜第一幼稚園"
+      },
+      "立正幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "紀南幼稚園" : {
+         "location_area" : "田辺市",
+         "owner_type" : "私立"
+      },
+      "美浜町立ひまわりこども園" : {
+         "location_area" : "日高郡",
+         "owner_type" : "町立",
+         "short_name" : "ひまわりこども園"
+      },
+      "聖心幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "私立"
+      },
+      "聖愛幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "野崎幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "雄湊幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      },
+      "高野山幼稚園" : {
+         "location_area" : "伊都郡",
+         "owner_type" : "私立"
+      },
+      "鷺森幼稚園" : {
+         "location_area" : "和歌山市",
+         "owner_type" : "私立"
+      }
+   }
+}

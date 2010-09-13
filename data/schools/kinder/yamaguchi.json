@@ -1,0 +1,836 @@
+{
+   "kindergartens" : {
+      "あおい幼稚園" : {
+         "location_area" : "長門市",
+         "owner_type" : "私立"
+      },
+      "あおば幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "いちょう幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "えんしん幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "たちばな幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "みはと幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "めぐみ幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "もみじ幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "るんびに幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "マリア幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "万倉幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "三輪幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "上関町立室津幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "町立",
+         "short_name" : "室津幼稚園"
+      },
+      "下松幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "下松慈光幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "下松暁の星幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "下関国際高校附属幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "下関天使幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "下関市立内日幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "内日幼稚園"
+      },
+      "下関市立向山幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "向山幼稚園"
+      },
+      "下関市立垢田幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "垢田幼稚園"
+      },
+      "下関市立室津幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "室津幼稚園"
+      },
+      "下関市立小串幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "小串幼稚園"
+      },
+      "下関市立岡枝幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "岡枝幼稚園"
+      },
+      "下関市立川中幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "川中幼稚園"
+      },
+      "下関市立川中西幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "川中西幼稚園"
+      },
+      "下関市立川棚幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "川棚幼稚園"
+      },
+      "下関市立桜山幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "桜山幼稚園"
+      },
+      "下関市立楢崎幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "楢崎幼稚園"
+      },
+      "下関市立江浦幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "江浦幼稚園"
+      },
+      "下関市立清末幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "清末幼稚園"
+      },
+      "下関市立生野幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "生野幼稚園"
+      },
+      "下関市立神玉幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "神玉幼稚園"
+      },
+      "下関市立第一幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "第一幼稚園"
+      },
+      "下関市立第三幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "第三幼稚園"
+      },
+      "下関市立第二幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "第二幼稚園"
+      },
+      "下関市立第五幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "第五幼稚園"
+      },
+      "下関市立第四幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "第四幼稚園"
+      },
+      "下関市立西山幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "西山幼稚園"
+      },
+      "下関市立西市幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "西市幼稚園"
+      },
+      "下関市立豊東幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "豊東幼稚園"
+      },
+      "下関市立豊浦幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "豊浦幼稚園"
+      },
+      "下関市立黒井幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "市立",
+         "short_name" : "黒井幼稚園"
+      },
+      "下関短期大学付属第一幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立",
+         "short_name" : "下関短大付属第一幼稚園"
+      },
+      "下関短期大学付属第二幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立",
+         "short_name" : "下関短大付属第二幼稚園"
+      },
+      "中関幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "久保幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "亀山幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "今津幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "伊佐中央幼稚園" : {
+         "location_area" : "美祢市",
+         "owner_type" : "私立"
+      },
+      "佐波幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "光天使幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "光市立さつき幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "市立",
+         "short_name" : "さつき幼稚園"
+      },
+      "光市立つるみ幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "市立",
+         "short_name" : "つるみ幼稚園"
+      },
+      "光市立やよい幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "市立",
+         "short_name" : "やよい幼稚園"
+      },
+      "光照幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "光華幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "光顔幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "北河内幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "南陽幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "厚東幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "原中央幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "双葉幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "右田幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "周南小さき花幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "周南市立今宿幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "今宿幼稚園"
+      },
+      "周南市立八代幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "八代幼稚園"
+      },
+      "周南市立周栄幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "周栄幼稚園"
+      },
+      "周南市立夜市幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "夜市幼稚園"
+      },
+      "周南市立大津島幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "大津島幼稚園"
+      },
+      "周南市立富田東幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "富田東幼稚園"
+      },
+      "周南市立富田西幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "富田西幼稚園"
+      },
+      "周南市立桜田幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "桜田幼稚園"
+      },
+      "周南市立楠木幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "楠木幼稚園"
+      },
+      "周南市立湯野幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "湯野幼稚園"
+      },
+      "周南市立福川南幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "福川南幼稚園"
+      },
+      "周南市立菊川幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "菊川幼稚園"
+      },
+      "周南市立須々万幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "須々万幼稚園"
+      },
+      "周南市立鹿野幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "市立",
+         "short_name" : "鹿野幼稚園"
+      },
+      "周東幼稚園" : {
+         "location_area" : "玖珂郡",
+         "owner_type" : "私立"
+      },
+      "和木町立和木幼稚園" : {
+         "location_area" : "玖珂郡",
+         "owner_type" : "町立",
+         "short_name" : "和木幼稚園"
+      },
+      "四恩幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "多々良学園附属幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "大河内幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "妹背幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "宇部さゆり幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "宇部フロンティア大学付属幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "宇部市立博愛幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "市立",
+         "short_name" : "博愛幼稚園"
+      },
+      "宇部鴻城高校付属幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "安岡幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "室木幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "富田幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "小さき花幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "小松原幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "小羽山幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "小郡幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "小野田めぐみ幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "小野田小百合幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "小鳩幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "山口中央幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "山口大学教育学部附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "山口天使幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "山口市立二島幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "二島幼稚園"
+      },
+      "山口市立仁保幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "仁保幼稚園"
+      },
+      "山口市立吉敷幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "吉敷幼稚園"
+      },
+      "山口市立名田島幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "名田島幼稚園"
+      },
+      "山口市立大内幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "大内幼稚園"
+      },
+      "山口市立宮野幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "宮野幼稚園"
+      },
+      "山口市立小鯖幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "小鯖幼稚園"
+      },
+      "山口市立平川幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "平川幼稚園"
+      },
+      "山口市立秋穂幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "秋穂幼稚園"
+      },
+      "山口市立鋳銭司幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "市立",
+         "short_name" : "鋳銭司幼稚園"
+      },
+      "山口県鴻城高校付属幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "山口短期大学附属幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立",
+         "short_name" : "山口短大附属幼稚園"
+      },
+      "山陽小野田市立埴生幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "市立",
+         "short_name" : "埴生幼稚園"
+      },
+      "岩国むつみ幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国めぐみ幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国中央幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国南幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国川下幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国市立ちどり幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "市立",
+         "short_name" : "ちどり幼稚園"
+      },
+      "岩国市立玖珂幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "市立",
+         "short_name" : "玖珂幼稚園"
+      },
+      "岩国幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国東幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国染香幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "岩国聖母幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "平生町立平生幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "町立",
+         "short_name" : "平生幼稚園"
+      },
+      "徳山めぐみ幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "徳山中央幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "恩田幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "愛光幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "慈光幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "於福幼稚園" : {
+         "location_area" : "美祢市",
+         "owner_type" : "私立"
+      },
+      "日の出幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "日照幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "旭ヶ丘幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "旭幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "明光幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "明星幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "明星幼稚園 (山口県)"
+      },
+      "明照幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "暁の星幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "末光幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "束荷幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "東牟礼幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "松崎幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "柳井幼稚園" : {
+         "location_area" : "柳井市",
+         "owner_type" : "私立"
+      },
+      "柳美幼稚園" : {
+         "location_area" : "柳井市",
+         "owner_type" : "私立"
+      },
+      "梅光学院幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "江口幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "河原幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "泉幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "法寿幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "海の星幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "深川幼稚園" : {
+         "location_area" : "長門市",
+         "owner_type" : "私立"
+      },
+      "湯田幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "灘幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "牟礼幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "玉祖幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "玖珂中央幼稚園" : {
+         "location_area" : "玖珂郡",
+         "owner_type" : "私立"
+      },
+      "瑞祥幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "田布施幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      },
+      "真珠幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "福王幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "笠戸島幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "第二るんびに幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "第二四恩幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "第二慈光幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "管内幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "精華幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "美祢幼稚園" : {
+         "location_area" : "美祢市",
+         "owner_type" : "私立"
+      },
+      "聖光幼稚園" : {
+         "location_area" : "光市",
+         "owner_type" : "私立"
+      },
+      "聖和幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "船木幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "若蔦幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "華城幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "萩光塩学院幼稚園" : {
+         "location_area" : "萩市",
+         "owner_type" : "私立"
+      },
+      "萩幼稚園" : {
+         "location_area" : "萩市",
+         "owner_type" : "私立"
+      },
+      "蓮生まこと幼稚園" : {
+         "location_area" : "周南市",
+         "owner_type" : "私立"
+      },
+      "藤河幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "藤生幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "西円寺幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "西宇部小百合幼稚園" : {
+         "location_area" : "宇部市",
+         "owner_type" : "私立"
+      },
+      "西浦幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "野田学園幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "野田学園中学校・高等学校"
+      },
+      "鋼鈑幼稚園" : {
+         "location_area" : "下松市",
+         "owner_type" : "私立"
+      },
+      "長府幼稚園" : {
+         "location_area" : "下関市",
+         "owner_type" : "私立"
+      },
+      "長門市立宗頭幼稚園" : {
+         "location_area" : "長門市",
+         "owner_type" : "市立",
+         "short_name" : "宗頭幼稚園"
+      },
+      "阿知須幼稚園" : {
+         "location_area" : "山口市",
+         "owner_type" : "私立"
+      },
+      "鞠生幼稚園" : {
+         "location_area" : "防府市",
+         "owner_type" : "私立"
+      },
+      "顕真幼稚園" : {
+         "location_area" : "岩国市",
+         "owner_type" : "私立"
+      },
+      "高千帆小百合幼稚園" : {
+         "location_area" : "山陽小野田市",
+         "owner_type" : "私立"
+      },
+      "麻郷幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      }
+   }
+}

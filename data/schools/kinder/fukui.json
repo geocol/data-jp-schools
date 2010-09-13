@@ -1,0 +1,587 @@
+{
+   "kindergartens" : {
+      "あわら市立伊井幼稚園" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "伊井幼稚園"
+      },
+      "あわら市立吉崎幼稚園" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "吉崎幼稚園"
+      },
+      "あわら市立細呂木幼稚園" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "細呂木幼稚園"
+      },
+      "あわら市立金津幼稚園" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "金津幼稚園"
+      },
+      "あわら市立金津東幼稚園" : {
+         "location_area" : "あわら市",
+         "owner_type" : "市立",
+         "short_name" : "金津東幼稚園"
+      },
+      "おおい町立大飯幼稚園" : {
+         "location_area" : "大飯郡",
+         "owner_type" : "町立",
+         "short_name" : "大飯幼稚園"
+      },
+      "つぼみ幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "ひかり幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "私立"
+      },
+      "みどり幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "丈生幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "私立"
+      },
+      "丈生神山幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "私立"
+      },
+      "仁愛女子短期大学附属幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立",
+         "short_name" : "仁愛女子短大附属幼稚園"
+      },
+      "光の子幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "勝山市立上庄幼稚園" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "上庄幼稚園"
+      },
+      "勝山市立乾側幼稚園" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "乾側幼稚園"
+      },
+      "勝山市立富田幼稚園" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "富田幼稚園"
+      },
+      "勝山市立小山幼稚園" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "小山幼稚園"
+      },
+      "勝山市立阪谷幼稚園" : {
+         "location_area" : "勝山市",
+         "owner_type" : "市立",
+         "short_name" : "阪谷幼稚園"
+      },
+      "南越前町立今庄幼稚園" : {
+         "location_area" : "南条郡",
+         "owner_type" : "町立",
+         "short_name" : "今庄幼稚園"
+      },
+      "南越前町立南条幼稚園" : {
+         "location_area" : "南条郡",
+         "owner_type" : "町立",
+         "short_name" : "南条幼稚園"
+      },
+      "坂井市立三国北幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "三国北幼稚園"
+      },
+      "坂井市立三国南幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "三国南幼稚園"
+      },
+      "坂井市立三国西幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "三国西幼稚園"
+      },
+      "坂井市立今福幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "今福幼保園"
+      },
+      "坂井市立八ヶ幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "八ヶ幼保園"
+      },
+      "坂井市立兵庫幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "兵庫幼稚園"
+      },
+      "坂井市立加戸幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "加戸幼稚園"
+      },
+      "坂井市立大石幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "大石幼稚園"
+      },
+      "坂井市立大関幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "大関幼稚園"
+      },
+      "坂井市立安田幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "安田幼保園"
+      },
+      "坂井市立平章幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "平章幼保園"
+      },
+      "坂井市立春江幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "春江幼稚園"
+      },
+      "坂井市立春江西幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "春江西幼稚園"
+      },
+      "坂井市立木部幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "木部幼稚園"
+      },
+      "坂井市立東十郷幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "東十郷幼稚園"
+      },
+      "坂井市立磯部東幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "磯部東幼保園"
+      },
+      "坂井市立磯部西幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "磯部西幼保園"
+      },
+      "坂井市立竹田幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "竹田幼保園"
+      },
+      "坂井市立長畝幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "長畝幼保園"
+      },
+      "坂井市立雄島幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "雄島幼稚園"
+      },
+      "坂井市立霞幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "霞幼保園"
+      },
+      "坂井市立高椋幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "高椋幼保園"
+      },
+      "坂井市立鳴鹿幼保園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "市立",
+         "short_name" : "鳴鹿幼保園"
+      },
+      "城之橋幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "報徳幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "大野市立上庄幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "市立",
+         "short_name" : "上庄幼稚園"
+      },
+      "大野市立乾側幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "市立",
+         "short_name" : "乾側幼稚園"
+      },
+      "大野市立富田幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "市立",
+         "short_name" : "富田幼稚園"
+      },
+      "大野市立小山幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "市立",
+         "short_name" : "小山幼稚園"
+      },
+      "大野市立阪谷幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "市立",
+         "short_name" : "阪谷幼稚園"
+      },
+      "大野幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "私立"
+      },
+      "小浜市立小浜幼稚園" : {
+         "location_area" : "小浜市",
+         "owner_type" : "市立",
+         "short_name" : "小浜幼稚園"
+      },
+      "小鳩幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "尾上幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "常葉幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "恩恵幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "私立"
+      },
+      "敦賀市立敦賀北幼稚園" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "敦賀北幼稚園"
+      },
+      "敦賀市立松陵幼稚園" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "市立",
+         "short_name" : "松陵幼稚園"
+      },
+      "敦賀教会幼稚園" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "私立"
+      },
+      "新田塚幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "早翠幼稚園" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "私立"
+      },
+      "旭幼稚園" : {
+         "location_area" : "大野市",
+         "owner_type" : "私立"
+      },
+      "昭和幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "暁幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "栄冠幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "梅圃幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "永平寺町立吉野幼稚園" : {
+         "location_area" : "吉田郡",
+         "owner_type" : "町立",
+         "short_name" : "吉野幼稚園"
+      },
+      "永平寺町立松岡幼稚園" : {
+         "location_area" : "吉田郡",
+         "owner_type" : "町立",
+         "short_name" : "松岡幼稚園"
+      },
+      "池田町立池田幼稚園" : {
+         "location_area" : "今立郡",
+         "owner_type" : "町立",
+         "short_name" : "池田幼稚園"
+      },
+      "福井エンゼル幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "福井佼成幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "福井大学教育地域科学部附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "福井市立一乗幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "一乗幼稚園"
+      },
+      "福井市立上文殊幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "上文殊幼稚園"
+      },
+      "福井市立下宇坂幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "下宇坂幼稚園"
+      },
+      "福井市立六条幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "六条幼稚園"
+      },
+      "福井市立大安寺幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "大安寺幼稚園"
+      },
+      "福井市立岡保幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "岡保幼稚園"
+      },
+      "福井市立文殊幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "文殊幼稚園"
+      },
+      "福井市立本郷幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "本郷幼稚園"
+      },
+      "福井市立東藤島幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "東藤島幼稚園"
+      },
+      "福井市立東郷幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "東郷幼稚園"
+      },
+      "福井市立棗幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "棗幼稚園"
+      },
+      "福井市立殿下幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "殿下幼稚園"
+      },
+      "福井市立清水南幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "清水南幼稚園"
+      },
+      "福井市立美山啓明幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "美山啓明幼稚園"
+      },
+      "福井市立羽生幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "羽生幼稚園"
+      },
+      "福井市立酒生幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "酒生幼稚園"
+      },
+      "福井市立長橋幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "長橋幼稚園"
+      },
+      "福井市立鶉幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "鶉幼稚園"
+      },
+      "福井市立鶉幼稚園東部分園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "鶉幼稚園東部分園"
+      },
+      "福井市立鷹巣幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "鷹巣幼稚園"
+      },
+      "福井市立麻生津幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "市立",
+         "short_name" : "麻生津幼稚園"
+      },
+      "第二早翠幼稚園" : {
+         "location_area" : "敦賀市",
+         "owner_type" : "私立"
+      },
+      "緑幼稚園" : {
+         "location_area" : "坂井市",
+         "owner_type" : "私立"
+      },
+      "聖ルカ幼稚園" : {
+         "location_area" : "小浜市",
+         "owner_type" : "私立"
+      },
+      "聖三一幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "聖徳幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "花園幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "藤島幼稚園" : {
+         "location_area" : "福井市",
+         "owner_type" : "私立"
+      },
+      "越前市立北日野幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "北日野幼稚園"
+      },
+      "越前市立南中山幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "南中山幼稚園"
+      },
+      "越前市立吉野幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "吉野幼稚園"
+      },
+      "越前市立味真野幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "味真野幼稚園"
+      },
+      "越前市立国高幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "国高幼稚園"
+      },
+      "越前市立坂口幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "坂口幼稚園"
+      },
+      "越前市立大虫幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "大虫幼稚園"
+      },
+      "越前市立岡本幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "岡本幼稚園"
+      },
+      "越前市立服間幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "服間幼稚園"
+      },
+      "越前市立武生南幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "武生南幼稚園"
+      },
+      "越前市立武生東幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "武生東幼稚園"
+      },
+      "越前市立武生西幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "武生西幼稚園"
+      },
+      "越前市立王子保幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "王子保幼稚園"
+      },
+      "越前市立白山幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "白山幼稚園"
+      },
+      "越前市立神山幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "神山幼稚園"
+      },
+      "越前市立花筐幼稚園" : {
+         "location_area" : "越前市",
+         "owner_type" : "市立",
+         "short_name" : "花筐幼稚園"
+      },
+      "鯖江市立北中山幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "北中山幼稚園"
+      },
+      "鯖江市立片上幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "片上幼稚園"
+      },
+      "鯖江市立神明幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "神明幼稚園"
+      },
+      "鯖江市立豊幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "豊幼稚園"
+      },
+      "鯖江市立進徳幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "進徳幼稚園"
+      },
+      "鯖江市立鯖江幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "鯖江幼稚園"
+      },
+      "鯖江市立鯖江東幼稚園" : {
+         "location_area" : "鯖江市",
+         "owner_type" : "市立",
+         "short_name" : "鯖江東幼稚園"
+      }
+   }
+}

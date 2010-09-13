@@ -1,0 +1,993 @@
+{
+   "kindergartens" : {
+      "あいら幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "私立"
+      },
+      "あおい幼稚園" : {
+         "location_area" : "出水郡",
+         "owner_type" : "私立"
+      },
+      "あおば幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "あけぼの幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "あさひ幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "いずみ幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "いちき串木野市立市来幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "市立",
+         "short_name" : "市来幼稚園"
+      },
+      "いちき串木野市立旭幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "市立",
+         "short_name" : "旭幼稚園"
+      },
+      "いにしき幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "うちの幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "こまつばら幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "さくら幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "さつき幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "さつま町立求名幼稚園" : {
+         "location_area" : "薩摩郡",
+         "owner_type" : "町立",
+         "short_name" : "求名幼稚園"
+      },
+      "さつま町立鶴田幼稚園" : {
+         "location_area" : "薩摩郡",
+         "owner_type" : "町立",
+         "short_name" : "鶴田幼稚園"
+      },
+      "さみどり幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "しゃら幼稚園" : {
+         "location_area" : "曽於市",
+         "owner_type" : "私立"
+      },
+      "すみれ幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      },
+      "つばき幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "のぞみ幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "はなぶさ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "ひばり幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "ひまわり幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "みくに幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "みどり幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "みのり幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "むらさき幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立",
+         "wikipedia_name" : "むらさき幼稚園 (鹿児島市)"
+      },
+      "めぐみ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "ゆかり幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      },
+      "よしだルンビニー幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "アソカ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "エミール幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "私立"
+      },
+      "カトリックカリタス幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "カトリック国分幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "カトリック志布志幼稚園" : {
+         "location_area" : "志布志市",
+         "owner_type" : "私立"
+      },
+      "カトレア幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "コスモス幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "与論町立与論小学校付属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "与論小学校付属幼稚園"
+      },
+      "与論町立茶花小学校付属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "茶花小学校付属幼稚園"
+      },
+      "与論町立那間小学校付属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "那間小学校付属幼稚園"
+      },
+      "中央幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      },
+      "串木野ひばり幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "私立"
+      },
+      "串木野幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "私立"
+      },
+      "串良幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "亀津カトリック幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "私立"
+      },
+      "伊仙町立伊仙小学校附属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "伊仙小学校附属幼稚園"
+      },
+      "伊仙町立犬田布小学校附属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "犬田布小学校附属幼稚園"
+      },
+      "伊仙町立面縄小学校附属幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "面縄小学校附属幼稚園"
+      },
+      "伊敷幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "伊集院幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "私立"
+      },
+      "信愛幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "八幡幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "共研幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "共立幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "出水市立切通幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "切通幼稚園"
+      },
+      "出水市立東出水小学校附属幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "東出水小学校附属幼稚園"
+      },
+      "出水市立米ノ津幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "米ノ津幼稚園"
+      },
+      "出水市立米ノ津東幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "米ノ津東幼稚園"
+      },
+      "出水市立紫翠幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "紫翠幼稚園"
+      },
+      "出水市立荘幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "荘幼稚園"
+      },
+      "出水市立野田小学校附属幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "市立",
+         "short_name" : "野田小学校附属幼稚園"
+      },
+      "出水聖母幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "私立"
+      },
+      "加世田しらうめ幼稚園" : {
+         "location_area" : "南さつま市",
+         "owner_type" : "私立"
+      },
+      "加世田聖母幼稚園" : {
+         "location_area" : "南さつま市",
+         "owner_type" : "私立"
+      },
+      "加世田聖母幼稚園枕崎分園" : {
+         "location_area" : "枕崎市",
+         "owner_type" : "私立"
+      },
+      "勝目幼稚園" : {
+         "location_area" : "南九州市",
+         "owner_type" : "私立"
+      },
+      "千年幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "南さつま市立加世田幼稚園" : {
+         "location_area" : "南さつま市",
+         "owner_type" : "市立",
+         "short_name" : "加世田幼稚園"
+      },
+      "南さつま市立坊津幼稚園" : {
+         "location_area" : "南さつま市",
+         "owner_type" : "市立",
+         "short_name" : "坊津幼稚園"
+      },
+      "南さつま市立大浦幼稚園" : {
+         "location_area" : "南さつま市",
+         "owner_type" : "市立",
+         "short_name" : "大浦幼稚園"
+      },
+      "南九州市立中福良幼稚園" : {
+         "location_area" : "南九州市",
+         "owner_type" : "市立",
+         "short_name" : "中福良幼稚園"
+      },
+      "南九州市立知覧幼稚園" : {
+         "location_area" : "南九州市",
+         "owner_type" : "市立",
+         "short_name" : "知覧幼稚園"
+      },
+      "南九州市立頴娃幼稚園" : {
+         "location_area" : "南九州市",
+         "owner_type" : "市立",
+         "short_name" : "頴娃幼稚園"
+      },
+      "南部幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "友愛幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "私立"
+      },
+      "可愛幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "吉田南幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "吉野幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "吹上中央幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "私立"
+      },
+      "和光幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "和泊町立和泊幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "和泊幼稚園"
+      },
+      "啓明幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "私立"
+      },
+      "喜入幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "喜界町立坂嶺幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "坂嶺幼稚園"
+      },
+      "喜界町立早町幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "早町幼稚園"
+      },
+      "喜界町立滝川幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "滝川幼稚園"
+      },
+      "国分幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "国分愛の国幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "坂元幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "垂水カトリック幼稚園" : {
+         "location_area" : "垂水市",
+         "owner_type" : "私立"
+      },
+      "基督幼稚園" : {
+         "location_area" : "西之表市",
+         "owner_type" : "私立"
+      },
+      "大口幼稚園" : {
+         "location_area" : "伊佐市",
+         "owner_type" : "私立"
+      },
+      "大崎幼稚園" : {
+         "location_area" : "曽於郡",
+         "owner_type" : "私立"
+      },
+      "大根占幼稚園" : {
+         "location_area" : "肝属郡",
+         "owner_type" : "私立"
+      },
+      "大空幼稚園" : {
+         "location_area" : "肝属郡",
+         "owner_type" : "私立"
+      },
+      "大谷幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "大隈中央幼稚園" : {
+         "location_area" : "曽於市",
+         "owner_type" : "私立"
+      },
+      "天城カトリック幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "私立"
+      },
+      "太陽の子幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "奄美市立名瀬小学校附属幼稚園" : {
+         "location_area" : "奄美市",
+         "owner_type" : "市立",
+         "short_name" : "名瀬小学校附属幼稚園"
+      },
+      "奄美市立小宿小学校附属幼稚園" : {
+         "location_area" : "奄美市",
+         "owner_type" : "市立",
+         "short_name" : "小宿小学校附属幼稚園"
+      },
+      "奄美市立朝日小学校附属幼稚園" : {
+         "location_area" : "奄美市",
+         "owner_type" : "市立",
+         "short_name" : "朝日小学校附属幼稚園"
+      },
+      "奄美市立赤木名小学校附属幼稚園" : {
+         "location_area" : "奄美市",
+         "owner_type" : "市立",
+         "short_name" : "赤木名小学校附属幼稚園"
+      },
+      "姶良市立帖佐幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "市立",
+         "short_name" : "帖佐幼稚園"
+      },
+      "姶良市立建昌幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "市立",
+         "short_name" : "建昌幼稚園"
+      },
+      "姶良市立蒲生幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "市立",
+         "short_name" : "蒲生幼稚園"
+      },
+      "学校法人加治木キリスト学園双葉幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "私立"
+      },
+      "宇宿幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "宮之城聖母幼稚園" : {
+         "location_area" : "薩摩郡",
+         "owner_type" : "私立"
+      },
+      "宮内幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "川上幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "川内幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "川内純心幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "川内聖母幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "川辺幼稚園" : {
+         "location_area" : "南九州市",
+         "owner_type" : "私立"
+      },
+      "徳之島町立亀徳幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "亀徳幼稚園"
+      },
+      "徳之島町立山幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "山幼稚園"
+      },
+      "徳之島町立神之嶺幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "神之嶺幼稚園"
+      },
+      "徳之島町立花徳幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "花徳幼稚園"
+      },
+      "志布志幼稚園" : {
+         "location_area" : "志布志市",
+         "owner_type" : "私立"
+      },
+      "恵光幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "慈光幼稚園" : {
+         "location_area" : "出水市",
+         "owner_type" : "私立"
+      },
+      "慈恩幼稚園" : {
+         "location_area" : "垂水市",
+         "owner_type" : "私立"
+      },
+      "指宿幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "敬愛幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "日の出幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "日当山幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "日置市立伊集院北幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "市立",
+         "short_name" : "伊集院北幼稚園"
+      },
+      "日置市立土橋幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "市立",
+         "short_name" : "土橋幼稚園"
+      },
+      "日置市立日置小学校附属幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "市立",
+         "short_name" : "日置小学校附属幼稚園"
+      },
+      "日置市立東市来幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "市立",
+         "short_name" : "東市来幼稚園"
+      },
+      "日置市立飯牟礼幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "市立",
+         "short_name" : "飯牟礼幼稚園"
+      },
+      "明朗幼稚園" : {
+         "location_area" : "西之表市",
+         "owner_type" : "私立"
+      },
+      "星ヶ峯幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "星幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "昭和幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "朝日ヶ丘幼稚園" : {
+         "location_area" : "日置市",
+         "owner_type" : "私立"
+      },
+      "末吉中央幼稚園" : {
+         "location_area" : "曽於市",
+         "owner_type" : "私立"
+      },
+      "東俣幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "松下幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "枕崎幼稚園" : {
+         "location_area" : "枕崎市",
+         "owner_type" : "私立"
+      },
+      "柳和幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "柴原幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "桜ヶ丘中央幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "榕城幼稚園" : {
+         "location_area" : "西之表市",
+         "owner_type" : "私立"
+      },
+      "武岡むらさき幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "武岡幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "武幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "清谿幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "湧水町立吉松幼稚園" : {
+         "location_area" : "姶良郡",
+         "owner_type" : "町立",
+         "short_name" : "吉松幼稚園"
+      },
+      "玉里善き牧者幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "田上幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "田代幼稚園" : {
+         "location_area" : "肝属郡",
+         "owner_type" : "私立"
+      },
+      "白百合幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "知名町立田皆幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "田皆幼稚園"
+      },
+      "知名町立知名幼稚園" : {
+         "location_area" : "大島郡",
+         "owner_type" : "町立",
+         "short_name" : "知名幼稚園"
+      },
+      "研明舎幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "神村学園附属幼稚園" : {
+         "location_area" : "いちき串木野市",
+         "owner_type" : "私立"
+      },
+      "竹の子幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "第一鹿屋幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "細山田幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "聖亜幼稚園" : {
+         "location_area" : "指宿市",
+         "owner_type" : "私立"
+      },
+      "聖母幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "肝付町立内之浦幼稚園" : {
+         "location_area" : "肝属郡",
+         "owner_type" : "町立",
+         "short_name" : "内之浦幼稚園"
+      },
+      "若葉幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "草牟田幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "薩摩川内市立中津幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "中津幼稚園"
+      },
+      "薩摩川内市立亀山幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "亀山幼稚園"
+      },
+      "薩摩川内市立入来幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "入来幼稚園"
+      },
+      "薩摩川内市立八幡幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "八幡幼稚園"
+      },
+      "薩摩川内市立副田幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "副田幼稚園"
+      },
+      "薩摩川内市立城上幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "城上幼稚園"
+      },
+      "薩摩川内市立大馬越幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "大馬越幼稚園"
+      },
+      "薩摩川内市立寄田幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "寄田幼稚園"
+      },
+      "薩摩川内市立市比野幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "市比野幼稚園"
+      },
+      "薩摩川内市立手打幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "手打幼稚園"
+      },
+      "薩摩川内市立朝陽幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "朝陽幼稚園"
+      },
+      "薩摩川内市立東郷幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "東郷幼稚園"
+      },
+      "薩摩川内市立樋脇幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "樋脇幼稚園"
+      },
+      "薩摩川内市立湯田幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "湯田幼稚園"
+      },
+      "薩摩川内市立祁答院幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "祁答院幼稚園"
+      },
+      "薩摩川内市立里小学校附属幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "里小学校附属幼稚園"
+      },
+      "薩摩川内市立長浜幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "長浜幼稚園"
+      },
+      "薩摩川内市立陽成幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "陽成幼稚園"
+      },
+      "薩摩川内市立青瀬幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "青瀬幼稚園"
+      },
+      "薩摩川内市立鹿島幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "市立",
+         "short_name" : "鹿島幼稚園"
+      },
+      "薫光幼稚園" : {
+         "location_area" : "姶良市",
+         "owner_type" : "私立"
+      },
+      "西之表幼稚園" : {
+         "location_area" : "西之表市",
+         "owner_type" : "私立"
+      },
+      "西原幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "谷山善き牧者幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "谷山幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "辻ヶ丘幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "野間幼稚園" : {
+         "location_area" : "熊毛郡",
+         "owner_type" : "私立"
+      },
+      "錦ヶ丘幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "錦城幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "長島町立鷹巣幼稚園" : {
+         "location_area" : "出水郡",
+         "owner_type" : "町立",
+         "short_name" : "鷹巣幼稚園"
+      },
+      "長野幼稚園" : {
+         "location_area" : "枕崎市",
+         "owner_type" : "私立"
+      },
+      "阿久根めぐみ幼稚園" : {
+         "location_area" : "阿久根市",
+         "owner_type" : "私立"
+      },
+      "阿久根幼稚園" : {
+         "location_area" : "阿久根市",
+         "owner_type" : "私立"
+      },
+      "隼人ひまわり幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "集成幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "霧島市立三体幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "三体幼稚園"
+      },
+      "霧島市立大田幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "大田幼稚園"
+      },
+      "霧島市立富隈幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "富隈幼稚園"
+      },
+      "霧島市立牧之原幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "牧之原幼稚園"
+      },
+      "霧島市立福山幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "福山幼稚園"
+      },
+      "霧島市立陵南幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "市立",
+         "short_name" : "陵南幼稚園"
+      },
+      "青山幼稚園" : {
+         "location_area" : "薩摩川内市",
+         "owner_type" : "私立"
+      },
+      "高千穂幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "高山幼稚園" : {
+         "location_area" : "肝属郡",
+         "owner_type" : "私立"
+      },
+      "鴨池しらうめ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鴨池幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鹿児島おおとり幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鹿児島こばと幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鹿児島三育幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鹿児島大学教育学部附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "鹿児島女子短期大学附属かもめ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立",
+         "short_name" : "鹿児島女子短大附属かもめ幼稚園"
+      },
+      "鹿児島女子短期大学附属すみれ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立",
+         "short_name" : "鹿児島女子短大附属すみれ幼稚園"
+      },
+      "鹿児島女子短期大学附属なでしこ幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立",
+         "short_name" : "鹿児島女子短大附属なでしこ幼稚園"
+      },
+      "鹿児島市立宮川幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "市立",
+         "short_name" : "宮川幼稚園"
+      },
+      "鹿児島市立松元幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "市立",
+         "short_name" : "松元幼稚園"
+      },
+      "鹿児島市立桜峰幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "市立",
+         "short_name" : "桜峰幼稚園"
+      },
+      "鹿児島市立皆与志幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "市立",
+         "short_name" : "皆与志幼稚園"
+      },
+      "鹿児島幼稚園" : {
+         "location_area" : "鹿児島市",
+         "owner_type" : "私立"
+      },
+      "鹿児島第一幼稚園" : {
+         "location_area" : "霧島市",
+         "owner_type" : "私立"
+      },
+      "鹿屋カトリック幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      },
+      "鹿屋幼稚園" : {
+         "location_area" : "鹿屋市",
+         "owner_type" : "私立"
+      }
+   }
+}

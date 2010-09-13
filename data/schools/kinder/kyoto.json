@@ -1,0 +1,976 @@
+{
+   "kindergartens" : {
+      "あかね幼稚園" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "私立"
+      },
+      "あぐい幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "いずみ幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "うぐいす宇治田原幼稚園" : {
+         "location_area" : "綴喜郡",
+         "owner_type" : "私立"
+      },
+      "うぐいす幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "うぐいす第二幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "かおり幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "かもがわ幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "くるみ幼稚園" : {
+         "location_area" : "京都市南区",
+         "owner_type" : "私立"
+      },
+      "くろたに幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "こざくら幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "さかいだに幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "さがの幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "さくら幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "さつき幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "しらとり幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立"
+      },
+      "すみれ幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "とうりん幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "ときわ幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "なるみ幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "私立"
+      },
+      "ひかり幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "私立"
+      },
+      "ひばり幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "ひまわり幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "ふじのき幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "ふたば幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "まこと幼稚園" : {
+         "location_area" : "向日市",
+         "owner_type" : "私立"
+      },
+      "みかのはら幼稚園" : {
+         "location_area" : "木津川市",
+         "owner_type" : "私立"
+      },
+      "みのり幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "むらさき幼稚園" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "私立"
+      },
+      "アソカ幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "アヴェ・マリア幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "コドモのイエ幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "シオン幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "マクリン幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "一里塚幼稚園" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "私立"
+      },
+      "七条幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "三鶴幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "下鴨幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "与謝野町立三河内幼稚園" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "三河内幼稚園"
+      },
+      "与謝野町立岩滝幼稚園" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "町立",
+         "short_name" : "岩滝幼稚園"
+      },
+      "中舞鶴幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "久御山町立佐山小学校附属幼稚園" : {
+         "location_area" : "久世郡",
+         "owner_type" : "町立",
+         "short_name" : "佐山小学校附属幼稚園"
+      },
+      "久御山町立御牧小学校附属幼稚園" : {
+         "location_area" : "久世郡",
+         "owner_type" : "町立",
+         "short_name" : "御牧小学校附属幼稚園"
+      },
+      "久御山町立東角小学校附属幼稚園" : {
+         "location_area" : "久世郡",
+         "owner_type" : "町立",
+         "short_name" : "東角小学校附属幼稚園"
+      },
+      "亀岡市立一の宮幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "一の宮幼稚園"
+      },
+      "亀岡市立亀岡幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "亀岡幼稚園"
+      },
+      "亀岡市立第二亀岡幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "市立",
+         "short_name" : "第二亀岡幼稚園"
+      },
+      "京丹後市立峰山幼稚園" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "峰山幼稚園"
+      },
+      "京丹後市立網野幼稚園" : {
+         "location_area" : "京丹後市",
+         "owner_type" : "市立",
+         "short_name" : "網野幼稚園"
+      },
+      "京丹波町立須知幼稚園" : {
+         "location_area" : "船井郡",
+         "owner_type" : "町立",
+         "short_name" : "須知幼稚園"
+      },
+      "京和幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "京田辺市立三山木幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "三山木幼稚園"
+      },
+      "京田辺市立大住幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "大住幼稚園"
+      },
+      "京田辺市立普賢寺幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "普賢寺幼稚園"
+      },
+      "京田辺市立松井ケ丘幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "松井ケ丘幼稚園"
+      },
+      "京田辺市立田辺幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "田辺幼稚園"
+      },
+      "京田辺市立田辺東幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "田辺東幼稚園"
+      },
+      "京田辺市立草内幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "草内幼稚園"
+      },
+      "京田辺市立薪幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "市立",
+         "short_name" : "薪幼稚園"
+      },
+      "京都がくえん幼稚園" : {
+         "location_area" : "乙訓郡",
+         "owner_type" : "私立"
+      },
+      "京都カトリック信愛幼稚園" : {
+         "location_area" : "京都市中京区",
+         "owner_type" : "私立"
+      },
+      "京都三ノ宮幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "京都市立みつば幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "市立",
+         "short_name" : "みつば幼稚園"
+      },
+      "京都市立上賀茂幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "市立",
+         "short_name" : "上賀茂幼稚園"
+      },
+      "京都市立中京もえぎ幼稚園" : {
+         "location_area" : "京都市中京区",
+         "owner_type" : "市立",
+         "short_name" : "中京もえぎ幼稚園"
+      },
+      "京都市立乾隆幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "市立",
+         "short_name" : "乾隆幼稚園"
+      },
+      "京都市立京極幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "市立",
+         "short_name" : "京極幼稚園"
+      },
+      "京都市立伏見住吉幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "市立",
+         "short_name" : "伏見住吉幼稚園"
+      },
+      "京都市立伏見南浜幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "市立",
+         "short_name" : "伏見南浜幼稚園"
+      },
+      "京都市立伏見板橋幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "市立",
+         "short_name" : "伏見板橋幼稚園"
+      },
+      "京都市立待賢幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "市立",
+         "short_name" : "待賢幼稚園"
+      },
+      "京都市立明徳幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "市立",
+         "short_name" : "明徳幼稚園"
+      },
+      "京都市立楊梅幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "市立",
+         "short_name" : "楊梅幼稚園"
+      },
+      "京都市立深草幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "市立",
+         "short_name" : "深草幼稚園"
+      },
+      "京都市立竹田幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "市立",
+         "short_name" : "竹田幼稚園"
+      },
+      "京都市立翔鸞幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "市立",
+         "short_name" : "翔鸞幼稚園"
+      },
+      "京都市立西院幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "市立",
+         "short_name" : "西院幼稚園"
+      },
+      "京都市立貞教幼稚園" : {
+         "location_area" : "京都市東山区",
+         "owner_type" : "市立",
+         "short_name" : "貞教幼稚園"
+      },
+      "京都市立開智幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "市立",
+         "short_name" : "開智幼稚園"
+      },
+      "京都幼稚園" : {
+         "location_area" : "京都市東山区",
+         "owner_type" : "私立"
+      },
+      "京都教育大学附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "京都文教短期大学附属家政城陽幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立",
+         "short_name" : "京都文教短大附属家政城陽幼稚園"
+      },
+      "今宮幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "佐伯幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立"
+      },
+      "佛教大学付属幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "倉梯幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "光が丘幼稚園" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "私立"
+      },
+      "光徳幼稚園" : {
+         "location_area" : "京都市南区",
+         "owner_type" : "私立"
+      },
+      "光明幼稚園" : {
+         "location_area" : "京都市中京区",
+         "owner_type" : "私立"
+      },
+      "光華幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "八幡市立八幡幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "八幡幼稚園"
+      },
+      "八幡市立八幡第三幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "八幡第三幼稚園"
+      },
+      "八幡市立八幡第二幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "八幡第二幼稚園"
+      },
+      "八幡市立八幡第四幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "八幡第四幼稚園"
+      },
+      "八幡市立有都幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "有都幼稚園"
+      },
+      "八幡市立橋本幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "市立",
+         "short_name" : "橋本幼稚園"
+      },
+      "八条幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "其枝幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "加悦聖三一幼稚園" : {
+         "location_area" : "与謝郡",
+         "owner_type" : "私立"
+      },
+      "北白川幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "北野幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "千代川幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "私立"
+      },
+      "南丹市立八木中央幼稚園" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "八木中央幼稚園"
+      },
+      "南丹市立園部幼稚園" : {
+         "location_area" : "南丹市",
+         "owner_type" : "市立",
+         "short_name" : "園部幼稚園"
+      },
+      "南殿幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "吉田幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "同志社幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "向島幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "向陽幼稚園" : {
+         "location_area" : "向日市",
+         "owner_type" : "私立"
+      },
+      "善導幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "城陽市立富野幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "富野幼稚園"
+      },
+      "城陽市立深谷幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "市立",
+         "short_name" : "深谷幼稚園"
+      },
+      "堀池幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "夢窓幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "大原野幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "大谷幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "天授ヶ岡幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "太秦幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "宇治市立大久保幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "大久保幼稚園"
+      },
+      "宇治市立木幡幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "木幡幼稚園"
+      },
+      "宇治市立東宇治幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "東宇治幼稚園"
+      },
+      "宇治市立神明幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "市立",
+         "short_name" : "神明幼稚園"
+      },
+      "宇治幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "安井幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "安町幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "私立"
+      },
+      "宮津市立宮津幼稚園" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "宮津幼稚園"
+      },
+      "宮津市立栗田幼稚園" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "栗田幼稚園"
+      },
+      "宮津市立由良幼稚園" : {
+         "location_area" : "宮津市",
+         "owner_type" : "市立",
+         "short_name" : "由良幼稚園"
+      },
+      "宮津暁星幼稚園" : {
+         "location_area" : "宮津市",
+         "owner_type" : "私立"
+      },
+      "寺之内幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "寺西幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "小さき花幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立"
+      },
+      "小倉幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "小野幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "山科幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "岩倉幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "嵯峨幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "川西幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "平川幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立"
+      },
+      "広野幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "御室幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "復活幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "志楽幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "慧日幼稚園" : {
+         "location_area" : "京都市東山区",
+         "owner_type" : "私立"
+      },
+      "成安幼稚園" : {
+         "location_area" : "向日市",
+         "owner_type" : "私立"
+      },
+      "早苗幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "私立"
+      },
+      "明幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "星の光幼稚園" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "私立"
+      },
+      "春日幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "朝日幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "朝来幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "木津川市立木津幼稚園" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "木津幼稚園"
+      },
+      "木津川市立相楽幼稚園" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "相楽幼稚園"
+      },
+      "木津川市立高の原幼稚園" : {
+         "location_area" : "木津川市",
+         "owner_type" : "市立",
+         "short_name" : "高の原幼稚園"
+      },
+      "本願寺中央幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "東山幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "東舞鶴幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "松原幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "松尾幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "栄光幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "桂陽幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "桃山幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "森の子ら幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "橘幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "歩学園幼稚園" : {
+         "location_area" : "八幡市",
+         "owner_type" : "私立"
+      },
+      "永観堂幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "池内幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "泉山幼稚園" : {
+         "location_area" : "京都市東山区",
+         "owner_type" : "私立"
+      },
+      "洛北せいか幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "洛東幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "洛西せいか幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "洛西花園幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "洛陽幼稚園" : {
+         "location_area" : "京都市中京区",
+         "owner_type" : "私立"
+      },
+      "洛陽第二幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "浄福寺幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "清水台幼稚園" : {
+         "location_area" : "京都市山科区",
+         "owner_type" : "私立"
+      },
+      "相愛幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "睦美幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "石田幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "砂川幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "福知山市立三岳幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "三岳幼稚園"
+      },
+      "福知山市立大正幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "大正幼稚園"
+      },
+      "福知山市立川口幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "川口幼稚園"
+      },
+      "福知山市立成仁幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "成仁幼稚園"
+      },
+      "福知山市立昭和幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "昭和幼稚園"
+      },
+      "福知山市立福知山幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "福知山幼稚園"
+      },
+      "福知山市立遷喬幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "遷喬幼稚園"
+      },
+      "福知山市立雀部幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "市立",
+         "short_name" : "雀部幼稚園"
+      },
+      "竹の里幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "篠村幼稚園" : {
+         "location_area" : "亀岡市",
+         "owner_type" : "私立"
+      },
+      "精華聖マリア幼稚園" : {
+         "location_area" : "相楽郡",
+         "owner_type" : "私立"
+      },
+      "紫明幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "紫野幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "綾部市立東八田幼稚園" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "東八田幼稚園"
+      },
+      "綾部市立綾部幼稚園" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "綾部幼稚園"
+      },
+      "綾部市立西八田幼稚園" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "西八田幼稚園"
+      },
+      "綾部市立豊里幼稚園" : {
+         "location_area" : "綾部市",
+         "owner_type" : "市立",
+         "short_name" : "豊里幼稚園"
+      },
+      "聖テレジア幼稚園" : {
+         "location_area" : "福知山市",
+         "owner_type" : "私立"
+      },
+      "聖ドミニコ学院京都幼稚園" : {
+         "location_area" : "京都市上京区",
+         "owner_type" : "私立"
+      },
+      "聖マリア幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "聖三一幼稚園" : {
+         "location_area" : "京都市中京区",
+         "owner_type" : "私立"
+      },
+      "聖光幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "聖家族幼稚園" : {
+         "location_area" : "南丹市",
+         "owner_type" : "私立"
+      },
+      "聖愛幼稚園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "私立"
+      },
+      "聖母学院幼稚園" : {
+         "location_area" : "京都市伏見区",
+         "owner_type" : "私立"
+      },
+      "自然幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "舞鶴市立舞鶴幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "市立",
+         "short_name" : "舞鶴幼稚園"
+      },
+      "舞鶴聖母幼稚園" : {
+         "location_area" : "舞鶴市",
+         "owner_type" : "私立"
+      },
+      "芽生え幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立"
+      },
+      "菊の花幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "華頂短期大学附属幼稚園" : {
+         "location_area" : "京都市東山区",
+         "owner_type" : "私立",
+         "short_name" : "華頂短大附属幼稚園"
+      },
+      "葉室幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "衣笠幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "西京極幼稚園" : {
+         "location_area" : "京都市右京区",
+         "owner_type" : "私立"
+      },
+      "西小倉幼稚園" : {
+         "location_area" : "宇治市",
+         "owner_type" : "私立"
+      },
+      "西山幼稚園" : {
+         "location_area" : "京都市西京区",
+         "owner_type" : "私立"
+      },
+      "錦綾幼稚園" : {
+         "location_area" : "京都市北区",
+         "owner_type" : "私立"
+      },
+      "長岡カトリック幼稚園" : {
+         "location_area" : "長岡京市",
+         "owner_type" : "私立"
+      },
+      "陶化幼稚園" : {
+         "location_area" : "京都市南区",
+         "owner_type" : "私立"
+      },
+      "青谷聖家族幼稚園" : {
+         "location_area" : "城陽市",
+         "owner_type" : "私立"
+      },
+      "高倉幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      },
+      "鴨東幼稚園" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "龍谷幼稚園" : {
+         "location_area" : "京都市下京区",
+         "owner_type" : "私立"
+      }
+   },
+   "misc_schools" : {
+      "こども芸術大学" : {
+         "location_area" : "京都市左京区",
+         "owner_type" : "私立"
+      },
+      "そよかぜ学園" : {
+         "location_area" : "京田辺市",
+         "owner_type" : "私立"
+      }
+   }
+}

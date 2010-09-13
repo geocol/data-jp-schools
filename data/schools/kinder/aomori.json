@@ -1,0 +1,542 @@
+{
+   "kindergartens" : {
+      "あかね幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "私立"
+      },
+      "あすなろ幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "あたご幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "いずみ幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "私立"
+      },
+      "いちい幼稚園" : {
+         "location_area" : "三沢市",
+         "owner_type" : "私立"
+      },
+      "おおわに文化幼稚園" : {
+         "location_area" : "南津軽郡",
+         "owner_type" : "私立"
+      },
+      "かもめ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "こすもす幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "こばと幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "さくら幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "さつき幼稚園" : {
+         "location_area" : "十和田市",
+         "owner_type" : "私立"
+      },
+      "しもだ幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "すぎのこ幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "たんぽぽ幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "つがる市立車力幼稚園" : {
+         "location_area" : "つがる市",
+         "owner_type" : "市立",
+         "short_name" : "車力幼稚園"
+      },
+      "つきかげ幼稚園" : {
+         "location_area" : "北津軽郡",
+         "owner_type" : "私立"
+      },
+      "ひなづる幼稚園" : {
+         "location_area" : "北津軽郡",
+         "owner_type" : "私立"
+      },
+      "ひばり幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "ひまわり幼稚園" : {
+         "location_area" : "五所川原市",
+         "owner_type" : "私立"
+      },
+      "まほろば幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "みどり幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "むつひまわり幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "イメルダ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "ファチマ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "マリアンハウス幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "マーガレット幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "レイクタウン幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "七戸町立七戸幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "町立",
+         "short_name" : "七戸幼稚園"
+      },
+      "三戸紫苑幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "私立"
+      },
+      "三沢カトリック幼稚園" : {
+         "location_area" : "三沢市",
+         "owner_type" : "私立"
+      },
+      "三沢第一幼稚園" : {
+         "location_area" : "三沢市",
+         "owner_type" : "私立"
+      },
+      "中泊町立小泊幼稚園" : {
+         "location_area" : "北津軽郡",
+         "owner_type" : "町立",
+         "short_name" : "小泊幼稚園"
+      },
+      "中里幼稚園" : {
+         "location_area" : "北津軽郡",
+         "owner_type" : "私立"
+      },
+      "五戸カトリック幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "私立"
+      },
+      "五所川原幼稚園" : {
+         "location_area" : "五所川原市",
+         "owner_type" : "私立"
+      },
+      "八戸めぐみ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "八戸小中野幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "八戸市立豊崎幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "市立",
+         "short_name" : "豊崎幼稚園"
+      },
+      "八戸幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "八戸文化幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "八戸短期大学附属びわの幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立",
+         "short_name" : "八戸短大附属びわの幼稚園"
+      },
+      "八戸短期大学附属幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立",
+         "short_name" : "八戸短大附属幼稚園"
+      },
+      "八戸短期大学附属第二しののめ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立",
+         "short_name" : "八戸短大附属第二しののめ幼稚園"
+      },
+      "八戸短期大学附属聖アンナ幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立",
+         "short_name" : "八戸短大附属聖アンナ幼稚園"
+      },
+      "八戸聖ウルスラ学院幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "六戸幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "十和田みなみ幼稚園" : {
+         "location_area" : "十和田市",
+         "owner_type" : "私立"
+      },
+      "十和田カトリック幼稚園" : {
+         "location_area" : "十和田市",
+         "owner_type" : "私立"
+      },
+      "十和田市立沢田幼稚園" : {
+         "location_area" : "十和田市",
+         "owner_type" : "市立",
+         "short_name" : "沢田幼稚園"
+      },
+      "千葉幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "南部町立南部幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "町立",
+         "short_name" : "南部幼稚園"
+      },
+      "南部町立名川幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "町立",
+         "short_name" : "名川幼稚園"
+      },
+      "大湊カトリック幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "大湊幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "大間町立大間幼稚園" : {
+         "location_area" : "下北郡",
+         "owner_type" : "町立",
+         "short_name" : "大間幼稚園"
+      },
+      "富士幼稚園" : {
+         "location_area" : "五所川原市",
+         "owner_type" : "私立"
+      },
+      "小松ヶ丘幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "山彦幼稚園" : {
+         "location_area" : "東津軽郡",
+         "owner_type" : "私立"
+      },
+      "平賀幼稚園" : {
+         "location_area" : "平川市",
+         "owner_type" : "私立"
+      },
+      "弘前みなみ幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "弘前カトリック幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "弘前大学教育学部附属幼稚園" : {
+         "owner_type" : "国立"
+      },
+      "弘前大谷幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "弘前市立和徳幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "市立",
+         "short_name" : "和徳幼稚園"
+      },
+      "弘前明の星幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "愛育幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "文化幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "旭ヶ丘幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "明星幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "星美幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "映徳学園大谷幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "木造西幼稚園" : {
+         "location_area" : "つがる市",
+         "owner_type" : "私立"
+      },
+      "東奥幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "東通村立尻労幼稚園" : {
+         "location_area" : "下北郡",
+         "owner_type" : "村立",
+         "short_name" : "尻労幼稚園"
+      },
+      "東通村立尻屋幼稚園" : {
+         "location_area" : "下北郡",
+         "owner_type" : "村立",
+         "short_name" : "尻屋幼稚園"
+      },
+      "東通村立田屋幼稚園" : {
+         "location_area" : "下北郡",
+         "owner_type" : "村立",
+         "short_name" : "田屋幼稚園"
+      },
+      "東通村立白糠幼稚園" : {
+         "location_area" : "下北郡",
+         "owner_type" : "村立",
+         "short_name" : "白糠幼稚園"
+      },
+      "東雲幼稚園" : {
+         "location_area" : "黒石市",
+         "owner_type" : "私立"
+      },
+      "松園幼稚園" : {
+         "location_area" : "三沢市",
+         "owner_type" : "私立"
+      },
+      "松森幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "柴田幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "桔梗野幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "森田中央幼稚園" : {
+         "location_area" : "つがる市",
+         "owner_type" : "私立"
+      },
+      "江渡幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "私立"
+      },
+      "油川幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "浪打カトリック幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "源内幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "王恵幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "田名部カトリック幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "田名部幼稚園" : {
+         "location_area" : "むつ市",
+         "owner_type" : "私立"
+      },
+      "田子町立田子幼稚園" : {
+         "location_area" : "三戸郡",
+         "owner_type" : "町立",
+         "short_name" : "田子幼稚園"
+      },
+      "甲田幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "白ゆり幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "百石幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "第一南幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "第三千葉幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "第二すぎのこ幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "第二千葉幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "第二青森幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "筒井りんご幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "聖アルバン幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "聖テレジア幼稚園" : {
+         "location_area" : "黒石市",
+         "owner_type" : "私立"
+      },
+      "聖マリア幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "聖ヤコブ幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "聖心幼稚園" : {
+         "location_area" : "五所川原市",
+         "owner_type" : "私立"
+      },
+      "育実幼稚園" : {
+         "location_area" : "つがる市",
+         "owner_type" : "私立"
+      },
+      "若草幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "藤崎幼稚園" : {
+         "location_area" : "南津軽郡",
+         "owner_type" : "私立"
+      },
+      "蟹田幼稚園" : {
+         "location_area" : "東津軽郡",
+         "owner_type" : "私立"
+      },
+      "野辺地カトリック幼稚園" : {
+         "location_area" : "上北郡",
+         "owner_type" : "私立"
+      },
+      "金木幼稚園" : {
+         "location_area" : "五所川原市",
+         "owner_type" : "私立"
+      },
+      "長者幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "青森中央短期大学附属第一幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立",
+         "short_name" : "青森中央短大附属第一幼稚園"
+      },
+      "青森中央短期大学附属第三幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立",
+         "short_name" : "青森中央短大附属第三幼稚園"
+      },
+      "青森中央短期大学附属第二幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立",
+         "short_name" : "青森中央短大附属第二幼稚園"
+      },
+      "青森大学附属北園幼稚園" : {
+         "location_area" : "十和田市",
+         "owner_type" : "私立"
+      },
+      "青森大学附属呉竹幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森大学附属螢ヶ丘幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森大谷幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森文化幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森明の星短期大学附属幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立",
+         "short_name" : "青森明の星短大附属幼稚園"
+      },
+      "青森第一うとう幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森藤幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "青森西幼稚園" : {
+         "location_area" : "青森市",
+         "owner_type" : "私立"
+      },
+      "養生幼稚園" : {
+         "location_area" : "弘前市",
+         "owner_type" : "私立"
+      },
+      "駒沢幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "高館幼稚園" : {
+         "location_area" : "八戸市",
+         "owner_type" : "私立"
+      },
+      "黒石市立黒石幼稚園" : {
+         "location_area" : "黒石市",
+         "owner_type" : "市立",
+         "short_name" : "黒石幼稚園"
+      }
+   }
+}
