@@ -72,12 +72,13 @@ sub parse_text ($) {
       if ($name =~ /^\s*\[\[([^\|\]]+?)\]\]/) {
         $wikipedia_name = $name = $1;
       }
+      s/\s*\((.*?キャンパス)\)/$1/ for $name;
       s/｛.*?｝// for $name;
       s/（.*?）// for $name;
       s/ \(.*?\)// for $name;
-      s/\s*\((.*?キャンパス)\)/$1/ for $name;
       $name =~ s[\s*/\s*$][];
       $name =~ s/\[\[([^\|\[\]]+)\|([^\|\[\]]+)\]\]/$2/g;
+      $name =~ s[\s*\[http://[\x21-\x7E]+?\]\s*$][];
       $name =~ s[\s*http://[\x21-\x7E]+\s*$][];
       $name =~ s/：\[\[.+$//;
       $name =~ s/\s+/ /g;
