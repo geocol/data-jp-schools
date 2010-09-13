@@ -34,6 +34,7 @@ sub parse_text ($) {
   my $mode = 'schools';
   my $headings = [];
   my $prev_name;
+  $text =~ s[<!--.*?-->][]gs;
   for my $t (split /\n/, $text) {
     if ($t =~ /^(\*+)\s*(.+)/) {
       next unless $mode;
@@ -47,6 +48,7 @@ sub parse_text ($) {
       $name =~ s/^\s*[^\[\]]+学[園院館]\[\[/\[\[/;
       $name =~ s/^\s*\[\[[^\[\]]+学[園院館]\]\]\[\[/\[\[/;
       $name =~ s/^\s*株式会社[^\[\]]+\[\[/\[\[/;
+      $name =~ s[<ref>.*?</ref>][]g;
       if ($name =~ /^\s*'''(.+?)'''/) {
         $name = $1;
       }
@@ -54,6 +56,9 @@ sub parse_text ($) {
         $name = $1;
       }
       if ($name =~ /^\s*\[([^\|\]]+?)\]\[http:([^\|\]]*?)\]/) {
+        $name = $1;
+      }
+      if ($name =~ m{^\s*\[http://[\x21-\x7E]+\s+([^\|\]]+?)\]}) {
         $name = $1;
       }
       if ($name =~ /^\s*\[\[([^\|\]]+?)\|([^\|\]]*?)\]\]/) {
@@ -69,8 +74,12 @@ sub parse_text ($) {
       }
       s/｛.*?｝// for $name;
       s/（.*?）// for $name;
+      s/ \(.*?\)// for $name;
       s/\s*\((.*?キャンパス)\)/$1/ for $name;
+      $name =~ s[\s*/\s*$][];
       $name =~ s/\[\[([^\|\[\]]+)\|([^\|\[\]]+)\]\]/$2/g;
+      $name =~ s[\s*http://[\x21-\x7E]+\s*$][];
+      $name =~ s/：\[\[.+$//;
       $name =~ s/\s+/ /g;
       $name =~ s/^ //;
       $name =~ s/ $//;
@@ -160,17 +169,25 @@ sub parse_text ($) {
         '法政大学第二中' => '法政大学第二中学校', # Source: Web site
         '練馬区立光が丘四季の香学校' => '練馬区立光が丘四季の香小学校', # Source: newspaper
         '名古屋市立吉根学校' => '名古屋市立吉根小学校', # Source: Web site
+        '久留米あかつき幼稚国' => '久留米あかつき幼稚園', # Source: Web site
+        '吉岡バプテスト光の園' => '吉岡バプテストひかりの園', # Source: Web site
       }->{$name} || $name;
       next if $name =~ /^.{2,3}学区$/;
       if ($name =~ /・/) {
         warn "Name with \"・\": |$name|\n";
+      } elsif ($name eq '川棚町立川棚小学校') {
+        my $title = $self->title;
+        next if $title =~ /幼稚園一覧/;
+      } elsif ($name eq '学校法人白百合学園') {
+        my $title = $self->title;
+        $name = '白百合幼稚園' if $title eq '福島県幼稚園一覧';
       }
 
       my $props = {};
       for (grep {$_} @$headings) {
         if (/^
           ([国都道府県公市区町村私]立|市?町村立|市・町・組合立|組合立)
-          (?:[小中]学校|高等学校|中等教育学校(?:及び県立中学校)?|中学校(?:及び|および)中等教育学校|中高一貫校)?
+          (?:幼稚園|[小中]学校|高等学校|中等教育学校(?:及び県立中学校)?|中学校(?:及び|および)中等教育学校|中高一貫校)?
         $/x) {
           $props->{owner_type} = $1 if 2 == length $1;
           ## Note that "国立中学校及び中等教育学校" means "either national
@@ -219,6 +236,7 @@ sub parse_text ($) {
           定時制・通信制のみ設置|定時制・通信制|定時制・通信制両課程を置く高校|
           高等専修学校|短期大学|
           男子校|女子校|共学校|
+          長崎市私立幼稚園協会|
           名古屋市内|三河(?:[東西]部)?|尾張(?:[東西]部)?|知多|渥美|島嶼部|
           九州・沖縄県\|沖縄|近畿|中部|関東|東北|中国|四国|
           地域別の一覧|
@@ -253,7 +271,18 @@ sub parse_text ($) {
       $props->{short_name} = $short_name if $name ne $short_name;
 
       my $v_mode;
-      if ($name =~ /小中学校$|小中一貫校..学園$/) {
+      if ($v_mode = {
+        'こども芸術大学' => 'misc_schools', ## Source: Web site
+        '慶應義塾幼稚舎' => 'elementary_schools',
+      }->{$name}) {
+        #
+      } elsif ($name =~ /
+        (?:幼稚[園部舎]部?|キンダー学園|こども園|幼保園|天使園|幼児センター|幼児園|児童園|なかよしセンター|子ども園)
+        (?:[^園校]+(?:分[園室]|園舎?))?|
+        幼児教育センター|幼保園
+      $/x) {
+        $v_mode = 'kindergartens';
+      } elsif ($name =~ /小中学校$|小中一貫校..学園$/) {
         $v_mode = 'primary_and_secondary_schools';
       } elsif ($name =~ /
         (?:小学[校部]|初等学?[部科]|初等学校)
@@ -302,8 +331,13 @@ sub parse_text ($) {
           '箕面市立とどろみの森学園 (箕面市立止々呂美中学校)' => 'junior_high_schools',
           '箕面市立とどろみの森学園 (箕面市立止々呂美小学校)' => 'elementary_schools',
           '八王子市立高尾山学園' => 'primary_and_secondary_schools', # Source: Web site
-          '慶應義塾幼稚舎' => 'elementary_schools', # Source: Web site
           '慶應義塾普通部' => 'junior_high_schools', # Source: Web site
+          '高岡第一学園福岡ひばり園' => 'kindergartens', # Source: Web site
+          '品川区立のびっこ園台場' => 'kindergartens', # 幼保一体 (Source: Web site)
+          '品川区立二葉すこやか園' => 'kindergartens', # 幼保一体 (Source: Web site)
+          '慶光ブライトンアカデミーフォーヤングラーナーズ' => 'kindergartens', # Source: Web site
+          '広島光明学園' => 'kindergartens', # 幼保一体 (Source: Web site)
+          '吉岡バプテストひかりの園' => 'kindergartens', # Source: Web site
         }->{$name} || 'misc_schools';
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
@@ -330,6 +364,7 @@ sub as_hashref ($) {
   my $self = shift;
   my $r = {};
   for (qw(
+    kindergartens
     elementary_schools junior_high_schools primary_and_secondary_schools
     high_schools senior_high_schools tech_colleges junior_colleges
     univs graduate_schools misc_schools special_schools
