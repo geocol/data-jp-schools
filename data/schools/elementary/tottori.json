@@ -1,0 +1,717 @@
+{
+   "elementary_schools" : {
+      "三朝町立南小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "南小学校"
+      },
+      "三朝町立東小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "東小学校"
+      },
+      "三朝町立西小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "西小学校"
+      },
+      "伯耆町立二部小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "二部小学校"
+      },
+      "伯耆町立八郷小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "八郷小学校"
+      },
+      "伯耆町立岸本小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "岸本小学校"
+      },
+      "伯耆町立日光小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "日光小学校"
+      },
+      "伯耆町立日光小学校添谷分校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "日光小学校添谷分校"
+      },
+      "伯耆町立溝口小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "溝口小学校"
+      },
+      "倉吉市立上北条小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "上北条小学校"
+      },
+      "倉吉市立上小鴨小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "上小鴨小学校"
+      },
+      "倉吉市立上小鴨小学校広瀬分校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "上小鴨小学校広瀬分校"
+      },
+      "倉吉市立上灘小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "上灘小学校"
+      },
+      "倉吉市立北谷小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "北谷小学校"
+      },
+      "倉吉市立小鴨小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "小鴨小学校"
+      },
+      "倉吉市立山守小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "山守小学校"
+      },
+      "倉吉市立成徳小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "成徳小学校"
+      },
+      "倉吉市立明倫小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "明倫小学校"
+      },
+      "倉吉市立河北小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "河北小学校"
+      },
+      "倉吉市立灘手小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "灘手小学校"
+      },
+      "倉吉市立社小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "社小学校"
+      },
+      "倉吉市立西郷小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "西郷小学校"
+      },
+      "倉吉市立関金小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "関金小学校"
+      },
+      "倉吉市立高城小学校" : {
+         "location_area" : "倉吉市",
+         "owner_type" : "市立",
+         "short_name" : "高城小学校"
+      },
+      "八頭町立丹比小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "丹比小学校"
+      },
+      "八頭町立八東小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "八東小学校"
+      },
+      "八頭町立大江小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "大江小学校"
+      },
+      "八頭町立安部小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "安部小学校"
+      },
+      "八頭町立船岡小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "船岡小学校"
+      },
+      "八頭町立郡家東小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "郡家東小学校"
+      },
+      "八頭町立郡家西小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "郡家西小学校"
+      },
+      "八頭町立隼小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "隼小学校"
+      },
+      "北栄町立北条小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "北条小学校"
+      },
+      "北栄町立大栄小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "大栄小学校"
+      },
+      "南部町立会見小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "会見小学校"
+      },
+      "南部町立会見第二小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "会見第二小学校"
+      },
+      "南部町立西伯小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "西伯小学校"
+      },
+      "境港市立上道小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "上道小学校"
+      },
+      "境港市立中浜小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "中浜小学校"
+      },
+      "境港市立余子小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "余子小学校"
+      },
+      "境港市立境小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "境小学校"
+      },
+      "境港市立外江小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "外江小学校"
+      },
+      "境港市立渡小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "渡小学校"
+      },
+      "境港市立誠道小学校" : {
+         "location_area" : "境港市",
+         "owner_type" : "市立",
+         "short_name" : "誠道小学校"
+      },
+      "大山町立中山小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "中山小学校"
+      },
+      "大山町立名和小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "名和小学校"
+      },
+      "大山町立大山小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "大山小学校"
+      },
+      "大山町立大山小学校赤松分校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "大山小学校赤松分校"
+      },
+      "大山町立大山西小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "町立",
+         "short_name" : "大山西小学校"
+      },
+      "岩美町立岩美北小学校" : {
+         "location_area" : "岩美郡",
+         "owner_type" : "町立",
+         "short_name" : "岩美北小学校"
+      },
+      "岩美町立岩美南小学校" : {
+         "location_area" : "岩美郡",
+         "owner_type" : "町立",
+         "short_name" : "岩美南小学校"
+      },
+      "岩美町立岩美西小学校" : {
+         "location_area" : "岩美郡",
+         "owner_type" : "町立",
+         "short_name" : "岩美西小学校"
+      },
+      "日南町立日南小学校" : {
+         "location_area" : "日野郡",
+         "owner_type" : "町立",
+         "short_name" : "日南小学校"
+      },
+      "日吉津村立日吉津小学校" : {
+         "location_area" : "西伯郡",
+         "owner_type" : "村立",
+         "short_name" : "日吉津小学校"
+      },
+      "日野町立根雨小学校" : {
+         "location_area" : "日野郡",
+         "owner_type" : "町立",
+         "short_name" : "根雨小学校"
+      },
+      "日野町立黒坂小学校" : {
+         "location_area" : "日野郡",
+         "owner_type" : "町立",
+         "short_name" : "黒坂小学校"
+      },
+      "智頭町立土師小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "土師小学校"
+      },
+      "智頭町立富沢小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "富沢小学校"
+      },
+      "智頭町立山形小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "山形小学校"
+      },
+      "智頭町立山郷小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "山郷小学校"
+      },
+      "智頭町立智頭小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "智頭小学校"
+      },
+      "智頭町立那岐小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "那岐小学校"
+      },
+      "江府町立江府小学校" : {
+         "location_area" : "日野郡",
+         "owner_type" : "町立",
+         "short_name" : "江府小学校"
+      },
+      "湯梨浜町立東郷小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "東郷小学校"
+      },
+      "湯梨浜町立泊小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "泊小学校"
+      },
+      "湯梨浜町立羽合小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "羽合小学校"
+      },
+      "琴浦町立以西小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "以西小学校"
+      },
+      "琴浦町立八橋小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "八橋小学校"
+      },
+      "琴浦町立古布庄小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "古布庄小学校"
+      },
+      "琴浦町立安田小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "安田小学校"
+      },
+      "琴浦町立成美小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "成美小学校"
+      },
+      "琴浦町立東伯小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "東伯小学校"
+      },
+      "琴浦町立浦安小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "浦安小学校"
+      },
+      "琴浦町立赤碕小学校" : {
+         "location_area" : "東伯郡",
+         "owner_type" : "町立",
+         "short_name" : "赤碕小学校"
+      },
+      "米子市立五千石小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "五千石小学校"
+      },
+      "米子市立伯仙小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "伯仙小学校"
+      },
+      "米子市立住吉小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "住吉小学校"
+      },
+      "米子市立加茂小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "加茂小学校"
+      },
+      "米子市立和田小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "和田小学校"
+      },
+      "米子市立啓成小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "啓成小学校"
+      },
+      "米子市立大篠津小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "大篠津小学校"
+      },
+      "米子市立尚徳小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "尚徳小学校"
+      },
+      "米子市立就将小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "就将小学校"
+      },
+      "米子市立崎津小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "崎津小学校"
+      },
+      "米子市立弓ヶ浜小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "弓ヶ浜小学校"
+      },
+      "米子市立彦名小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "彦名小学校"
+      },
+      "米子市立成実小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "成実小学校"
+      },
+      "米子市立明道小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "明道小学校"
+      },
+      "米子市立河崎小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "河崎小学校"
+      },
+      "米子市立淀江小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "淀江小学校"
+      },
+      "米子市立福生東小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "福生東小学校"
+      },
+      "米子市立福生西小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "福生西小学校"
+      },
+      "米子市立福米東小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "福米東小学校"
+      },
+      "米子市立福米西小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "福米西小学校"
+      },
+      "米子市立箕蚊屋小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "箕蚊屋小学校"
+      },
+      "米子市立義方小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "義方小学校"
+      },
+      "米子市立車尾小学校" : {
+         "location_area" : "米子市",
+         "owner_type" : "市立",
+         "short_name" : "車尾小学校"
+      },
+      "若桜町立若桜小学校" : {
+         "location_area" : "八頭郡",
+         "owner_type" : "町立",
+         "short_name" : "若桜小学校"
+      },
+      "鳥取大学附属小学校" : {
+         "owner_type" : "国立"
+      },
+      "鳥取市立世紀小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "世紀小学校"
+      },
+      "鳥取市立中ノ郷小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "中ノ郷小学校"
+      },
+      "鳥取市立久松小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "久松小学校"
+      },
+      "鳥取市立佐治小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "佐治小学校"
+      },
+      "鳥取市立修立小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "修立小学校"
+      },
+      "鳥取市立倉田小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "倉田小学校"
+      },
+      "鳥取市立国府東小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "国府東小学校"
+      },
+      "鳥取市立城北小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "城北小学校"
+      },
+      "鳥取市立大正小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "大正小学校"
+      },
+      "鳥取市立宝木小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "宝木小学校"
+      },
+      "鳥取市立宮ノ下小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "宮ノ下小学校"
+      },
+      "鳥取市立富桑小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "富桑小学校"
+      },
+      "鳥取市立岩倉小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "岩倉小学校"
+      },
+      "鳥取市立散岐小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "散岐小学校"
+      },
+      "鳥取市立日進小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "日進小学校"
+      },
+      "鳥取市立明徳小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "明徳小学校"
+      },
+      "鳥取市立明治小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "明治小学校"
+      },
+      "鳥取市立末恒小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "末恒小学校"
+      },
+      "鳥取市立東郷小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "東郷小学校"
+      },
+      "鳥取市立河原第一小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "河原第一小学校"
+      },
+      "鳥取市立津ノ井小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "津ノ井小学校"
+      },
+      "鳥取市立浜坂小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "浜坂小学校"
+      },
+      "鳥取市立浜村小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "浜村小学校"
+      },
+      "鳥取市立湖南学園小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "湖南学園小学校"
+      },
+      "鳥取市立湖山小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "湖山小学校"
+      },
+      "鳥取市立湖山西小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "湖山西小学校"
+      },
+      "鳥取市立瑞穂小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "瑞穂小学校"
+      },
+      "鳥取市立用瀬小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "用瀬小学校"
+      },
+      "鳥取市立神戸小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "神戸小学校"
+      },
+      "鳥取市立福部小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "福部小学校"
+      },
+      "鳥取市立稲葉山小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "稲葉山小学校"
+      },
+      "鳥取市立米里小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "米里小学校"
+      },
+      "鳥取市立美保南小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "美保南小学校"
+      },
+      "鳥取市立美保小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "美保小学校"
+      },
+      "鳥取市立美和小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "美和小学校"
+      },
+      "鳥取市立若葉台小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "若葉台小学校"
+      },
+      "鳥取市立西郷小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "西郷小学校"
+      },
+      "鳥取市立賀露小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "賀露小学校"
+      },
+      "鳥取市立逢坂小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "逢坂小学校"
+      },
+      "鳥取市立遷喬小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "遷喬小学校"
+      },
+      "鳥取市立醇風小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "醇風小学校"
+      },
+      "鳥取市立青谷小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "青谷小学校"
+      },
+      "鳥取市立面影小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "面影小学校"
+      },
+      "鳥取市立鹿野小学校" : {
+         "location_area" : "鳥取市",
+         "owner_type" : "市立",
+         "short_name" : "鹿野小学校"
+      }
+   }
+}
