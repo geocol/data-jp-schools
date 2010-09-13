@@ -122,7 +122,7 @@
       },
       "可児市御嵩町中学校組合立共和中学校" : {
          "location_area" : "可児郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "可児市立中部中学校" : {
          "location_area" : "可児市",
@@ -345,7 +345,7 @@
       },
       "安八町大垣市学校組合立東安中学校" : {
          "location_area" : "安八郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "安八町立登龍中学校" : {
          "location_area" : "安八郡",
@@ -711,7 +711,7 @@
       },
       "美濃加茂市富加町中学校組合立双葉中学校" : {
          "location_area" : "美濃加茂市",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "美濃加茂市立東中学校" : {
          "location_area" : "美濃加茂市",
@@ -815,11 +815,6 @@
          "location_area" : "郡上市",
          "owner_type" : "市立",
          "short_name" : "高鷲中学校"
-      },
-      "関ケ原町立今須小中学校" : {
-         "location_area" : "不破郡",
-         "owner_type" : "町立",
-         "short_name" : "今須小中学校"
       },
       "関ケ原町立関ヶ原中学校" : {
          "location_area" : "不破郡",
@@ -983,6 +978,13 @@
       "麗澤瑞浪中学校" : {
          "owner_type" : "私立",
          "wikipedia_name" : "麗澤瑞浪中学校・高等学校"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "関ケ原町立今須小中学校" : {
+         "location_area" : "不破郡",
+         "owner_type" : "町立",
+         "short_name" : "今須小中学校"
       }
    }
 }

@@ -282,11 +282,6 @@
          "owner_type" : "市立",
          "short_name" : "清水ヶ丘中学校"
       },
-      "室戸市立中川内小中学校" : {
-         "location_area" : "室戸市",
-         "owner_type" : "市立",
-         "short_name" : "中川内小中学校"
-      },
       "室戸市立佐喜浜中学校" : {
          "location_area" : "室戸市",
          "owner_type" : "市立",
@@ -349,7 +344,7 @@
       },
       "日高村佐川町学校組合立加茂中学校" : {
          "location_area" : "高岡郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "日高村立日高中学校" : {
          "location_area" : "高岡郡",
@@ -362,7 +357,7 @@
       },
       "本山町土佐町中学校組合立嶺北中学校" : {
          "location_area" : "長岡郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "東洋町立甲浦中学校" : {
          "location_area" : "安芸郡",
@@ -612,6 +607,13 @@
          "location_area" : "幡多郡",
          "owner_type" : "町立",
          "short_name" : "大方中学校"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "室戸市立中川内小中学校" : {
+         "location_area" : "室戸市",
+         "owner_type" : "市立",
+         "short_name" : "中川内小中学校"
       }
    }
 }

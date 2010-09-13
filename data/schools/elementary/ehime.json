@@ -1702,5 +1702,22 @@
          "owner_type" : "町立",
          "short_name" : "近永小学校"
       }
+   },
+   "primary_and_secondary_schools" : {
+      "四国中央市立新宮小中学校" : {
+         "location_area" : "四国中央市",
+         "owner_type" : "市立",
+         "short_name" : "新宮小中学校"
+      },
+      "新居浜市立別子小中学校" : {
+         "location_area" : "新居浜市",
+         "owner_type" : "市立",
+         "short_name" : "別子小中学校"
+      },
+      "松山市立日浦小中学校" : {
+         "location_area" : "松山市",
+         "owner_type" : "市立",
+         "short_name" : "日浦小中学校"
+      }
    }
 }

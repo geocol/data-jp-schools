@@ -478,7 +478,7 @@
       },
       "氷川町及び八代市中学校組合立氷川中学校" : {
          "location_area" : "八代郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "氷川町立竜北中学校" : {
          "location_area" : "八代郡",
@@ -779,10 +779,6 @@
          "owner_type" : "町立",
          "short_name" : "甲佐中学校"
       },
-      "益城町及び御船町中小学校組合立袴野小中学校" : {
-         "location_area" : "上益城郡",
-         "owner_type" : "組合"
-      },
       "益城町立木山中学校" : {
          "location_area" : "上益城郡",
          "owner_type" : "町立",
@@ -952,6 +948,12 @@
          "location_area" : "阿蘇郡",
          "owner_type" : "町立",
          "short_name" : "高森東中学校"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "益城町及び御船町中小学校組合立袴野小中学校" : {
+         "location_area" : "上益城郡",
+         "owner_type" : "公立"
       }
    }
 }

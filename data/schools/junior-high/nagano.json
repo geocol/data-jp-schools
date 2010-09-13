@@ -10,7 +10,7 @@
       },
       "上田市・長和町組合立依田窪南部中学校" : {
          "location_area" : "小県郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "上田市立丸子中学校" : {
          "location_area" : "上田市",
@@ -280,7 +280,7 @@
       },
       "塩尻市辰野町中学校組合立両小野中学校" : {
          "location_area" : "上伊那郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "売木村立売木中学校" : {
          "location_area" : "下伊那郡",
@@ -379,7 +379,7 @@
       },
       "小海町北相木村南相木村中学校組合立小海中学校" : {
          "location_area" : "南佐久郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "小諸市立小諸東中学校" : {
          "location_area" : "小諸市",
@@ -492,7 +492,7 @@
       },
       "松本市山形村朝日村中学校組合立鉢盛中学校" : {
          "location_area" : "東筑摩郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "松本市立丸の内中学校" : {
          "location_area" : "松本市",
@@ -513,11 +513,6 @@
          "location_area" : "松本市",
          "owner_type" : "市立",
          "short_name" : "大野川中学校"
-      },
-      "松本市立奈川小中学校" : {
-         "location_area" : "松本市",
-         "owner_type" : "市立",
-         "short_name" : "奈川小中学校"
       },
       "松本市立女鳥羽中学校" : {
          "location_area" : "松本市",
@@ -973,7 +968,14 @@
       },
       "麻績村筑北村学校組合立筑北中学校" : {
          "location_area" : "東筑摩郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "松本市立奈川小中学校" : {
+         "location_area" : "松本市",
+         "owner_type" : "市立",
+         "short_name" : "奈川小中学校"
       }
    }
 }

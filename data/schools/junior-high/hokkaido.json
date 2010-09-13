@@ -2244,11 +2244,6 @@
          "owner_type" : "市立",
          "short_name" : "歯舞中学校"
       },
-      "根室市立海星小中学校" : {
-         "location_area" : "根室市",
-         "owner_type" : "市立",
-         "short_name" : "海星小中学校"
-      },
       "根室市立落石中学校" : {
          "location_area" : "根室市",
          "owner_type" : "市立",
@@ -3360,6 +3355,13 @@
          "location_area" : "寿都郡",
          "owner_type" : "町立",
          "short_name" : "黒松内中学校"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "根室市立海星小中学校" : {
+         "location_area" : "根室市",
+         "owner_type" : "市立",
+         "short_name" : "海星小中学校"
       }
    }
 }

@@ -271,11 +271,6 @@
          "owner_type" : "市立",
          "short_name" : "川之江南中学校"
       },
-      "四国中央市立新宮小中学校" : {
-         "location_area" : "四国中央市",
-         "owner_type" : "市立",
-         "short_name" : "新宮小中学校"
-      },
       "大洲市立大洲北中学校" : {
          "location_area" : "大洲市",
          "owner_type" : "市立",
@@ -401,11 +396,6 @@
          "location_area" : "新居浜市",
          "owner_type" : "市立",
          "short_name" : "中萩中学校"
-      },
-      "新居浜市立別子小中学校" : {
-         "location_area" : "新居浜市",
-         "owner_type" : "市立",
-         "short_name" : "別子小中学校"
       },
       "新居浜市立北中学校" : {
          "location_area" : "新居浜市",
@@ -562,11 +552,6 @@
          "owner_type" : "市立",
          "short_name" : "拓南中学校"
       },
-      "松山市立日浦小中学校" : {
-         "location_area" : "松山市",
-         "owner_type" : "市立",
-         "short_name" : "日浦小中学校"
-      },
       "松山市立旭中学校" : {
          "location_area" : "松山市",
          "owner_type" : "市立",
@@ -718,7 +703,7 @@
       },
       "高知県宿毛市愛媛県南宇和郡愛南町篠山小中学校組合立篠山中学校" : {
          "location_area" : "南宇和郡",
-         "owner_type" : "組合"
+         "owner_type" : "公立"
       },
       "鬼北町立広見中学校" : {
          "location_area" : "北宇和郡",
@@ -729,6 +714,23 @@
          "location_area" : "北宇和郡",
          "owner_type" : "町立",
          "short_name" : "日吉中学校"
+      }
+   },
+   "primary_and_secondary_schools" : {
+      "四国中央市立新宮小中学校" : {
+         "location_area" : "四国中央市",
+         "owner_type" : "市立",
+         "short_name" : "新宮小中学校"
+      },
+      "新居浜市立別子小中学校" : {
+         "location_area" : "新居浜市",
+         "owner_type" : "市立",
+         "short_name" : "別子小中学校"
+      },
+      "松山市立日浦小中学校" : {
+         "location_area" : "松山市",
+         "owner_type" : "市立",
+         "short_name" : "日浦小中学校"
       }
    }
 }
