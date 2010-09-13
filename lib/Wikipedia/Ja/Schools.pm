@@ -257,8 +257,8 @@ sub parse_text ($) {
         $v_mode = 'primary_and_secondary_schools';
       } elsif ($name =~ /
         (?:小学[校部]|初等学?[部科]|初等学校)
-        (?:[^学校]+(?:分[校室]|校舎))?
-      /x) {
+        (?:[^学校]+(?:分[校室]|校舎)|分校)?
+      $/x) {
         $v_mode = 'elementary_schools';
       } elsif ($name =~ /
         (?:中学[校部]|中等[部科])
@@ -271,7 +271,7 @@ sub parse_text ($) {
         (?:支援学校|養護学校|ろう学校|聾学校|盲学校)
           (?:小学部|高等部)?
           (?:[^学校]+(?:学園|校|分教室|高校分教室|学園内教室|学園分[室校]|大学(?:医学部)?[^学校]+?(?:分(?:校|教室)|院内学級)|校舎|分校[^学校]+分教室|分級|学園[^学校]+分校|院内学級))?$|
-        聾話学校$|都立[小中高]+?学園$|区立[小中高]+?学校$|^特別支援学校|訓盲学院|
+        聾話学校$|都立[^小中高]+?学園$|区立[^小中高]+?学校$|^特別支援学校|訓盲学院|
         ことばの?教室
       /x) {
         $v_mode = 'special_schools';
@@ -330,7 +330,7 @@ sub as_hashref ($) {
   my $self = shift;
   my $r = {};
   for (qw(
-    elementary_schools junior_high_schools
+    elementary_schools junior_high_schools primary_and_secondary_schools
     high_schools senior_high_schools tech_colleges junior_colleges
     univs graduate_schools misc_schools special_schools
   )) {
