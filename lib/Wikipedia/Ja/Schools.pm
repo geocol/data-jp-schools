@@ -288,7 +288,10 @@ sub parse_text ($) {
         幼児教育センター|幼保園
       $/x) {
         $v_mode = 'kindergartens';
-      } elsif ($name =~ /小中学校$|小中一貫校..学園$/) {
+      } elsif ($name =~ /
+          小・?中学校(?:[^学校]+分校)?$|
+          小中一貫校..学園$
+      /x) {
         $v_mode = 'primary_and_secondary_schools';
       } elsif ($name =~ /
         (?:小学[校部]|初等学?[部科]|初等学校)
