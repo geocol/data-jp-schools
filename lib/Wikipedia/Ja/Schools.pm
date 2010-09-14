@@ -251,6 +251,11 @@ sub parse_text ($) {
       if ($name =~ /高等学校[^学校]+([市町村][立])[^学校]+校$/) {
         $props->{owner_type} = $1;
       }
+      if ($props->{location_area} and $props->{location_area} =~ /郡$/) {
+        if ($name =~ /^(.+?[町村])立/) {
+          $props->{location_area} .= $1;
+        }
+      }
       $props->{wikipedia_name} = $wikipedia_name
           if $wikipedia_name and $name ne $wikipedia_name;
 
