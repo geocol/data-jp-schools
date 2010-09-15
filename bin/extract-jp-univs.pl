@@ -91,7 +91,11 @@ $current_d->mkpath;
     $s->load_text_from_cache (q[西日本の大学一覧]);
     $s->parse_text;
     my $data = $s->as_hashref;
-    $all_data = {%$all_data, %$data};
+    for my $type (keys %$data) {
+      for my $name (keys %{$data->{$type}}) {
+        $all_data->{$type}->{$name} = $data->{$type}->{$name};
+      }
+    }
   }
 
   print $file JSON->new->pretty->canonical->utf8->encode ($all_data);
