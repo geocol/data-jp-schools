@@ -222,6 +222,7 @@ sub parse_text ($) {
           }
           $props->{location_area} =~ s/^[^地区]+地区//;
           $props->{location_area} =~ s/^[東西中]濃(?!郡)//;
+          delete $props->{location_area} unless $props->{location_area};
         } elsif (/^(?:
           岩手県立|東京都立|宮崎市立|宮崎県立|都城市立|
           多摩地域|佐土原|檍南|高岡|赤江[東西南]|中央[東西]|青島|大宮東|田野|大塚|小戸|木花|檍北|大宮西|住吉|橘|大淀西|生目|北|大塚台|大淀東|生目台|
