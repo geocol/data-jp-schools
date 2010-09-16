@@ -22,12 +22,27 @@ for my $i (0..46) {
   my $f = $current_d->file ($file_name . '.json');
   my $file = $f->openw;
   print STDERR "$title -> $f...\n";
-  
-  my $s = Wikipedia::Ja::Schools->new;
-  $s->load_text_from_cache ($title . q[幼稚園一覧]);
-  $s->parse_text;
-  my $data = $s->as_hashref;
-  print $file JSON->new->pretty->canonical->utf8->encode ($data);
+
+  my $all_data;
+  {
+    my $s = Wikipedia::Ja::Schools->new;
+    $s->load_text_from_cache ($title . q[幼稚園一覧]);
+    $s->parse_text;
+    my $data = $s->as_hashref;
+    $all_data = $data;
+  }
+  {
+    my $s = Wikipedia::Ja::Schools->new;
+    $s->load_text_from_cache ($title . q[保育所一覧]);
+    $s->parse_text;
+    my $data = $s->as_hashref;
+    for my $type (keys %$data) {
+      for my $name (keys %{$data->{$type}}) {
+        $all_data->{$type}->{$name} = $data->{$type}->{$name};
+      }
+    }
+  }
+  print $file JSON->new->pretty->canonical->utf8->encode ($all_data);
 }
 
 __END__
