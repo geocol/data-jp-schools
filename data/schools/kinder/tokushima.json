@@ -1,6 +1,26 @@
 {
    "kindergartens" : {
+      "あゆみ保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "おおぎ保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "くるみ保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "さくら保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "さゆり幼稚園" : {
+         "owner_type" : "私立"
+      },
+      "すぎのこ保育所" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       },
       "つるぎ町立八千代幼稚園" : {
@@ -33,12 +53,48 @@
          "owner_type" : "町立",
          "short_name" : "貞光幼稚園"
       },
+      "なかよし保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "はのうら幼稚園" : {
+         "owner_type" : "私立"
+      },
+      "ひまわり保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "みずほ保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "みどり保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "みのり保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "めだか保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "もとしろ保育所" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       },
       "わかくさ幼稚園" : {
          "owner_type" : "私立",
          "wikipedia_name" : "わかくさ幼稚園 (徳島市)"
+      },
+      "わかば保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "ナーサリー富田幼児園" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
       },
       "三好市立三縄幼稚園" : {
          "location_area" : "三好市",
@@ -149,6 +205,22 @@
          "owner_type" : "私立",
          "wikipedia_name" : "信愛幼稚園 (徳島市)"
       },
+      "光花保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "出来島保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "前川乳児保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "助任保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "北島町立北島北幼稚園" : {
          "location_area" : "板野郡北島町",
          "owner_type" : "町立",
@@ -163,6 +235,10 @@
          "location_area" : "板野郡北島町",
          "owner_type" : "町立",
          "short_name" : "北島幼稚園"
+      },
+      "南佐古保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
       },
       "吉野川市立上浦幼稚園" : {
          "location_area" : "吉野川市",
@@ -239,7 +315,19 @@
          "owner_type" : "市立",
          "short_name" : "鴨島幼稚園"
       },
+      "四国大学附属保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "四国大学附属幼稚園" : {
+         "owner_type" : "私立"
+      },
+      "城南保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "大原保育所" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       },
       "小松島市立児安幼稚園" : {
@@ -297,20 +385,48 @@
          "owner_type" : "市立",
          "short_name" : "芝田幼稚園"
       },
+      "島田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "川内わかば保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "徳島市立一宮保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "一宮保育所"
+      },
       "徳島市立一宮幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "一宮幼稚園"
+      },
+      "徳島市立丈六保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "丈六保育所"
       },
       "徳島市立上八万幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "上八万幼稚園"
       },
+      "徳島市立不動保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "不動保育所"
+      },
       "徳島市立不動幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "不動幼稚園"
+      },
+      "徳島市立佐古保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "佐古保育所"
       },
       "徳島市立佐古幼稚園" : {
          "location_area" : "徳島市",
@@ -322,6 +438,11 @@
          "owner_type" : "市立",
          "short_name" : "入田幼稚園"
       },
+      "徳島市立八万保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "八万保育所"
+      },
       "徳島市立八万南幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
@@ -332,10 +453,35 @@
          "owner_type" : "市立",
          "short_name" : "八万幼稚園"
       },
+      "徳島市立八万東保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "八万東保育所"
+      },
+      "徳島市立八多保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "八多保育所"
+      },
+      "徳島市立内町保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "内町保育所"
+      },
       "徳島市立内町幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "内町幼稚園"
+      },
+      "徳島市立加茂保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "加茂保育所"
+      },
+      "徳島市立加茂名保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "加茂名保育所"
       },
       "徳島市立加茂名南幼稚園" : {
          "location_area" : "徳島市",
@@ -352,20 +498,45 @@
          "owner_type" : "市立",
          "short_name" : "助任幼稚園"
       },
+      "徳島市立北井上保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "北井上保育所"
+      },
       "徳島市立北井上幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "北井上幼稚園"
+      },
+      "徳島市立北島田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "北島田保育所"
       },
       "徳島市立千松幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "千松幼稚園"
       },
+      "徳島市立南井上保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "南井上保育所"
+      },
       "徳島市立南井上幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "南井上幼稚園"
+      },
+      "徳島市立名東保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "名東保育所"
+      },
+      "徳島市立国府保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "国府保育所"
       },
       "徳島市立国府幼稚園" : {
          "location_area" : "徳島市",
@@ -377,15 +548,35 @@
          "owner_type" : "市立",
          "short_name" : "城東幼稚園"
       },
+      "徳島市立多家良保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "多家良保育所"
+      },
+      "徳島市立大松保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "大松保育所"
+      },
       "徳島市立大松幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "大松幼稚園"
       },
+      "徳島市立富田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "富田保育所"
+      },
       "徳島市立富田幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "富田幼稚園"
+      },
+      "徳島市立川内保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "川内保育所"
       },
       "徳島市立川内北幼稚園" : {
          "location_area" : "徳島市",
@@ -397,6 +588,11 @@
          "owner_type" : "市立",
          "short_name" : "川内南幼稚園"
       },
+      "徳島市立応神保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "応神保育所"
+      },
       "徳島市立応神幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
@@ -407,32 +603,106 @@
          "owner_type" : "市立",
          "short_name" : "応神幼稚園古川分園"
       },
+      "徳島市立新浜保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "新浜保育所"
+      },
+      "徳島市立新浜西保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "新浜西保育所"
+      },
       "徳島市立新町幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "新町幼稚園"
+      },
+      "徳島市立方上保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "方上保育所"
+      },
+      "徳島市立明善保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "明善保育所"
+      },
+      "徳島市立昭和保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "昭和保育所"
       },
       "徳島市立昭和幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "昭和幼稚園"
       },
+      "徳島市立沖洲保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "沖洲保育所"
+      },
       "徳島市立沖洲幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "沖洲幼稚園"
+      },
+      "徳島市立津田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "津田保育所"
       },
       "徳島市立津田幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "津田幼稚園"
       },
+      "徳島市立渋野保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "渋野保育所"
+      },
+      "徳島市立渭北保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "渭北保育所"
+      },
+      "徳島市立渭東保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "渭東保育所"
+      },
       "徳島市立福島幼稚園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
          "short_name" : "福島幼稚園"
       },
+      "徳島市立芝原保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "芝原保育所"
+      },
+      "徳島市立西富田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "西富田保育所"
+      },
+      "徳島市立論田保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "論田保育所"
+      },
+      "徳島市立飯谷保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "市立",
+         "short_name" : "飯谷保育所"
+      },
       "徳島文理大学附属幼稚園" : {
+         "owner_type" : "私立"
+      },
+      "春日保育所" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       },
       "東みよし町立三庄幼稚園" : {
@@ -504,6 +774,10 @@
          "location_area" : "板野郡板野町",
          "owner_type" : "町立",
          "short_name" : "板野西幼稚園"
+      },
+      "梅の花保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
       },
       "海陽町立浅川幼稚園" : {
          "location_area" : "海部郡海陽町",
@@ -639,7 +913,15 @@
          "owner_type" : "市立",
          "short_name" : "重清西幼稚園"
       },
+      "育英保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "花星幼稚園" : {
+         "owner_type" : "私立"
+      },
+      "若松保育所" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       },
       "藍住町立藍住北幼稚園" : {
@@ -661,6 +943,10 @@
          "location_area" : "板野郡藍住町",
          "owner_type" : "町立",
          "short_name" : "藍住西幼稚園"
+      },
+      "西富田乳児保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
       },
       "那賀町立あい幼稚園" : {
          "location_area" : "那賀郡那賀町",
@@ -745,6 +1031,10 @@
       "阿南聖母幼稚園" : {
          "owner_type" : "私立"
       },
+      "阿波国慈恵院保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
       "阿波市立一条幼稚園" : {
          "location_area" : "阿波市",
          "owner_type" : "市立",
@@ -789,6 +1079,14 @@
          "location_area" : "阿波市",
          "owner_type" : "市立",
          "short_name" : "柿原幼稚園"
+      },
+      "青嵐保育園" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
+      },
+      "青葉保育所" : {
+         "location_area" : "徳島市",
+         "owner_type" : "私立"
       },
       "鳴門市立北灘東幼稚園" : {
          "location_area" : "鳴門市",
@@ -884,6 +1182,12 @@
          "owner_type" : "国立"
       },
       "鳴門聖母幼稚園" : {
+         "owner_type" : "私立"
+      }
+   },
+   "misc_schools" : {
+      "川内南アコール" : {
+         "location_area" : "徳島市",
          "owner_type" : "私立"
       }
    }

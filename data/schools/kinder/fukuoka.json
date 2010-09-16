@@ -1,11 +1,23 @@
 {
    "kindergartens" : {
+      "あおば乳児保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "あおば保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
       "あおば幼稚園" : {
          "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
       "あかし幼稚園" : {
          "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "あかつき保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "あかつき幼稚園" : {
@@ -16,12 +28,28 @@
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
+      "あけぼの保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "あけぼの幼稚園" : {
          "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
+      "あさひ保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "あすなろ保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
       "あすなろ幼稚園" : {
          "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "あたごはま保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "あたごはま幼稚園" : {
@@ -32,16 +60,40 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "いずみ保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "いちご保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "いづみ幼稚園" : {
          "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "うさぎ保育所" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "えびつ幼稚園" : {
          "location_area" : "遠賀郡",
          "owner_type" : "私立"
       },
+      "えんぜる保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "おひさま保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "おひさま幼稚園" : {
          "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "おぶね保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "お宮の里幼稚園" : {
@@ -52,8 +104,20 @@
          "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
+      "かんな保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "きくが丘保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "きらきら星幼稚園" : {
          "location_area" : "行橋市",
+         "owner_type" : "私立"
+      },
+      "きりん保育園" : {
+         "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
       "きりん幼稚園" : {
@@ -68,6 +132,10 @@
          "location_area" : "春日市",
          "owner_type" : "私立"
       },
+      "くるみ保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "くるめ天心幼稚園" : {
          "location_area" : "久留米市",
          "owner_type" : "私立"
@@ -80,8 +148,20 @@
          "location_area" : "福岡市中央区",
          "owner_type" : "私立"
       },
+      "こぐま保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "こじか保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "こじか幼稚園" : {
          "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "こばと保育園" : {
+         "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "こみね幼稚園" : {
@@ -96,6 +176,10 @@
          "location_area" : "八女市",
          "owner_type" : "私立"
       },
+      "さかえ保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "さかえ幼稚園" : {
          "location_area" : "八女市",
          "owner_type" : "私立"
@@ -108,12 +192,40 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "さわらび保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "さわら保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "しあわせの星保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "しかた保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
       "しぜん幼稚園" : {
          "location_area" : "八女郡",
          "owner_type" : "私立"
       },
+      "しもやまと保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "しろがね幼稚園" : {
          "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "すみれ保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "すみれ保育所" : {
+         "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "せいし幼稚園" : {
@@ -132,7 +244,19 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "たちばな保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "ちどり保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "つきぐま幼稚園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "つくし保育園" : {
          "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
@@ -140,8 +264,16 @@
          "location_area" : "八女市",
          "owner_type" : "私立"
       },
+      "つばさ保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
       "つぶくいま幼稚園" : {
          "location_area" : "久留米市",
+         "owner_type" : "私立"
+      },
+      "つぼみ保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "つぼみ幼稚園" : {
@@ -150,6 +282,10 @@
       },
       "ときわ幼稚園" : {
          "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "どろんこ保育園" : {
+         "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "なかよし幼稚園" : {
@@ -162,6 +298,10 @@
       },
       "ながずみ幼稚園" : {
          "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "のぞみ保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "のびのび幼稚園" : {
@@ -184,8 +324,24 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "ひかり保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "ひかり幼稚園" : {
          "location_area" : "柳川市",
+         "owner_type" : "私立"
+      },
+      "ひなぎく保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "ひばり保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "ひまわり保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "ひまわり幼稚園" : {
@@ -200,8 +356,20 @@
          "location_area" : "八女郡",
          "owner_type" : "私立"
       },
+      "ふたば保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
       "ふたば幼稚園" : {
          "location_area" : "柳川市",
+         "owner_type" : "私立"
+      },
+      "まごころ保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "まつぼっくり保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "みかさ幼稚園" : {
@@ -216,19 +384,55 @@
          "location_area" : "行橋市",
          "owner_type" : "私立"
       },
+      "みずほ野保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "みそら保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "みとま保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "みどりがおか幼稚園" : {
          "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "みどり保育園" : {
+         "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
       "みどり幼稚園" : {
          "location_area" : "嘉穂郡",
          "owner_type" : "私立"
       },
+      "みなと保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "みなと保育所" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
       "みなみ幼稚園" : {
          "location_area" : "朝倉郡",
          "owner_type" : "私立"
       },
+      "みのり保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "みやけ保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
       "みやこ幼稚園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "みやたけ保育園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
@@ -248,6 +452,10 @@
          "location_area" : "久留米市",
          "owner_type" : "私立"
       },
+      "めぐみ保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "めぐみ幼稚園" : {
          "location_area" : "大牟田市",
          "owner_type" : "私立"
@@ -260,6 +468,10 @@
          "location_area" : "行橋市",
          "owner_type" : "私立"
       },
+      "やまびこ保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
       "やまびこ幼稚園" : {
          "location_area" : "古賀市",
          "owner_type" : "私立"
@@ -268,8 +480,40 @@
          "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
+      "ゆたか保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "ゆなの木保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "ゆりか保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "りんどう保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "れんげの花保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "れんげ乳児保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "わかば保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "わかば幼稚園" : {
          "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "わかひさ保育園" : {
+         "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "わしみね幼稚園" : {
@@ -280,11 +524,27 @@
          "location_area" : "糸島市",
          "owner_type" : "私立"
       },
+      "エミール保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "オリーブ保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "カトリック光丘幼稚園" : {
          "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "カトリック聖クララ幼稚園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "キンダーポート保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "コスモス保育園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
@@ -304,6 +564,14 @@
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
+      "ナーサリーライムスクール" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "ナーランダ保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "フレンズ幼稚園" : {
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
@@ -316,8 +584,16 @@
          "location_area" : "柳川市",
          "owner_type" : "私立"
       },
+      "マリア保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "ランビニ幼稚園" : {
          "location_area" : "久留米市",
+         "owner_type" : "私立"
+      },
+      "ルンビニー保育園" : {
+         "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "レバノン幼稚園" : {
@@ -328,8 +604,16 @@
          "location_area" : "大川市",
          "owner_type" : "私立"
       },
+      "一枝保育所" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
       "一枝幼稚園" : {
          "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "三ツ葉保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "三井幼稚園" : {
@@ -344,8 +628,20 @@
          "location_area" : "柳川市",
          "owner_type" : "私立"
       },
+      "三萩野保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "三葉幼稚園" : {
          "location_area" : "糟屋郡",
+         "owner_type" : "私立"
+      },
+      "三郎丸保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "上富野保育所" : {
+         "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
       "上津役幼稚園" : {
@@ -362,6 +658,14 @@
       },
       "下山門幼稚園" : {
          "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "中原保育園" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "中央保育園" : {
+         "location_area" : "福岡市中央区",
          "owner_type" : "私立"
       },
       "中村学園付属あさひ幼稚園" : {
@@ -459,20 +763,80 @@
          "location_area" : "糸島市",
          "owner_type" : "私立"
       },
+      "二島保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
       "二日市カトリック幼稚園" : {
          "location_area" : "太宰府市",
+         "owner_type" : "私立"
+      },
+      "五十川保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "井堀保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "井尻保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "仁愛保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "今宿保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "今津保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "伊岐須幼稚園" : {
          "location_area" : "飯塚市",
          "owner_type" : "私立"
       },
+      "信和保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "信愛保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "信明保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "信明保育園梅林分園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
       "元岡幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
+      "光の園保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "光の子幼稚園" : {
          "location_area" : "大牟田市",
+         "owner_type" : "私立"
+      },
+      "光保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "光和保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "光応寺保育園" : {
+         "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "光明幼稚園" : {
@@ -483,8 +847,24 @@
          "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
+      "光沢寺保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "光沢寺幼稚園" : {
          "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "光沢寺第二保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "光法保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "光薫寺保育園" : {
+         "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "光貞幼稚園" : {
@@ -503,6 +883,10 @@
          "location_area" : "北九州市八幡東区",
          "owner_type" : "私立"
       },
+      "内浜保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "円龍幼稚園" : {
          "location_area" : "福岡市中央区",
          "owner_type" : "私立"
@@ -515,6 +899,26 @@
          "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
+      "別所保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "到津乳児保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "到津保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "則松保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "前之園保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "前原幼稚園" : {
          "location_area" : "糸島市",
          "owner_type" : "私立"
@@ -523,10 +927,55 @@
          "location_area" : "京都郡",
          "owner_type" : "私立"
       },
+      "北九州市立三六保育所" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "三六保育所"
+      },
+      "北九州市立下富野保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "下富野保育所"
+      },
+      "北九州市立中央保育所" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "中央保育所"
+      },
+      "北九州市立今町保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "今町保育所"
+      },
+      "北九州市立修多羅保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "市立",
+         "short_name" : "修多羅保育所"
+      },
       "北九州市立八幡東幼稚園" : {
          "location_area" : "北九州市八幡東区",
          "owner_type" : "市立",
          "short_name" : "八幡東幼稚園"
+      },
+      "北九州市立初音保育所" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "初音保育所"
+      },
+      "北九州市立吉野保育所" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "市立",
+         "short_name" : "吉野保育所"
+      },
+      "北九州市立堂山保育所" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "市立",
+         "short_name" : "堂山保育所"
+      },
+      "北九州市立天籟寺保育所" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "天籟寺保育所"
       },
       "北九州市立小倉南幼稚園" : {
          "location_area" : "北九州市小倉南区",
@@ -538,15 +987,90 @@
          "owner_type" : "市立",
          "short_name" : "小倉幼稚園"
       },
+      "北九州市立徳力保育所" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "徳力保育所"
+      },
+      "北九州市立徳吉保育所" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "徳吉保育所"
+      },
+      "北九州市立折尾保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "折尾保育所"
+      },
+      "北九州市立新門司保育所" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "市立",
+         "short_name" : "新門司保育所"
+      },
+      "北九州市立早鞆保育所" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "市立",
+         "short_name" : "早鞆保育所"
+      },
+      "北九州市立東篠崎保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "東篠崎保育所"
+      },
       "北九州市立松ヶ江幼稚園" : {
          "location_area" : "北九州市門司区",
          "owner_type" : "市立",
          "short_name" : "松ヶ江幼稚園"
       },
+      "北九州市立畑保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "市立",
+         "short_name" : "畑保育所"
+      },
+      "北九州市立白銀保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "白銀保育所"
+      },
+      "北九州市立積徳保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "市立",
+         "short_name" : "積徳保育所"
+      },
+      "北九州市立穴生保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "穴生保育所"
+      },
+      "北九州市立篠崎保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "市立",
+         "short_name" : "篠崎保育所"
+      },
+      "北九州市立若松コスモス保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "市立",
+         "short_name" : "若松コスモス保育所"
+      },
       "北九州市立若松幼稚園" : {
          "location_area" : "北九州市若松区",
          "owner_type" : "市立",
          "short_name" : "若松幼稚園"
+      },
+      "北九州市立蜷田保育所" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "蜷田保育所"
+      },
+      "北九州市立西戸畑保育所" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "市立",
+         "short_name" : "西戸畑保育所"
+      },
+      "北九州市立貫保育所" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "市立",
+         "short_name" : "貫保育所"
       },
       "北九州市立足原幼稚園" : {
          "location_area" : "北九州市小倉北区",
@@ -558,10 +1082,23 @@
          "owner_type" : "市立",
          "short_name" : "鷹の巣幼稚園"
       },
+      "北九州市立黒崎保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "市立",
+         "short_name" : "黒崎保育所"
+      },
       "北九州市立黒崎幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "市立",
          "short_name" : "黒崎幼稚園"
+      },
+      "北崎保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "北方なかよし保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
       },
       "北野おおぞら幼稚園" : {
          "location_area" : "三井郡",
@@ -569,6 +1106,10 @@
       },
       "千早幼稚園" : {
          "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "千里保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "南ケ丘幼稚園" : {
@@ -579,11 +1120,23 @@
          "location_area" : "大野城市",
          "owner_type" : "私立"
       },
+      "南丘保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "南福岡保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "南福岡幼稚園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "博多中央幼稚園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "博多保育園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
@@ -611,6 +1164,22 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "原町乳児保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
+      "原西保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "双葉保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "古城保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
       "可也幼稚園" : {
          "location_area" : "糸島市",
          "owner_type" : "私立"
@@ -627,6 +1196,10 @@
          "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
+      "吉塚カトリック保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "吉富町立吉富幼稚園" : {
          "location_area" : "築上郡吉富町",
          "owner_type" : "町立",
@@ -640,11 +1213,19 @@
          "location_area" : "大牟田市",
          "owner_type" : "私立"
       },
+      "名島保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "周船寺幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "周船寺第二幼稚園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "和光保育園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
@@ -668,6 +1249,10 @@
          "location_area" : "柳川市",
          "owner_type" : "私立"
       },
+      "城北保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "城北幼稚園" : {
          "location_area" : "朝倉郡",
          "owner_type" : "私立"
@@ -680,8 +1265,28 @@
          "location_area" : "三潴郡",
          "owner_type" : "私立"
       },
+      "城浜保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "城野保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "堅粕保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "塔野保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "塩原幼稚園" : {
          "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "多々良保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "夜須幼稚園" : {
@@ -698,6 +1303,10 @@
       },
       "大善寺幼稚園" : {
          "location_area" : "久留米市",
+         "owner_type" : "私立"
+      },
+      "大川保育園" : {
+         "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "大川市立大野島幼稚園" : {
@@ -720,6 +1329,14 @@
          "owner_type" : "市立",
          "short_name" : "東大川幼稚園"
       },
+      "大手門保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "大日保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "大木光の子幼稚園" : {
          "location_area" : "三潴郡",
          "owner_type" : "私立"
@@ -730,6 +1347,14 @@
       },
       "大江幼稚園" : {
          "location_area" : "みやま市",
+         "owner_type" : "私立"
+      },
+      "大浜保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "大濠保育園" : {
+         "location_area" : "福岡市中央区",
          "owner_type" : "私立"
       },
       "大濠聖母幼稚園" : {
@@ -748,6 +1373,10 @@
          "location_area" : "朝倉郡",
          "owner_type" : "私立"
       },
+      "大蔵保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
       "大谷幼稚園" : {
          "location_area" : "久留米市",
          "owner_type" : "私立"
@@ -758,6 +1387,10 @@
       },
       "大野東幼稚園" : {
          "location_area" : "大野城市",
+         "owner_type" : "私立"
+      },
+      "大鳥居保育園" : {
+         "location_area" : "北九州市若松区",
          "owner_type" : "私立"
       },
       "大鳥幼稚園" : {
@@ -780,7 +1413,15 @@
          "location_area" : "太宰府市",
          "owner_type" : "私立"
       },
+      "太郎保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "奈多幼稚園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "奈多愛育園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
@@ -794,6 +1435,10 @@
       },
       "宇美幼稚園" : {
          "location_area" : "糟屋郡",
+         "owner_type" : "私立"
+      },
+      "守恒保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "宗像市立玄海幼稚園" : {
@@ -878,12 +1523,28 @@
          "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
+      "専城乳児保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "小倉カトリック幼稚園" : {
          "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
       "小倉瞳幼稚園" : {
          "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "小呂保育所" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "小百合保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
+      "小石保育所" : {
+         "location_area" : "北九州市若松区",
          "owner_type" : "私立"
       },
       "小石幼稚園" : {
@@ -926,6 +1587,10 @@
          "location_area" : "北九州市八幡東区",
          "owner_type" : "私立"
       },
+      "屋形原保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
       "山の手学院幼稚園" : {
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
@@ -950,6 +1615,10 @@
          "location_area" : "遠賀郡",
          "owner_type" : "私立"
       },
+      "岩崎保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "岩田幼稚園" : {
          "location_area" : "みやま市",
          "owner_type" : "私立"
@@ -971,16 +1640,44 @@
          "location_area" : "大牟田市",
          "owner_type" : "私立"
       },
+      "平尾保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "幸幼稚園" : {
          "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "幸神保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "広川幼稚園" : {
          "location_area" : "八女郡",
          "owner_type" : "私立"
       },
+      "広徳保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "広済寺保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "引野保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "弥永保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
       "弥生幼稚園" : {
          "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "御幸保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "御笠野幼稚園" : {
@@ -1011,6 +1708,10 @@
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
+      "恒見保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
       "恵星幼稚園" : {
          "location_area" : "春日市",
          "owner_type" : "私立"
@@ -1019,8 +1720,20 @@
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
+      "恵美保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "愛の園保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "愛光幼稚園" : {
          "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "愛咲美保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "愛宕幼稚園" : {
@@ -1035,8 +1748,16 @@
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
+      "慈光保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
       "慶光ブライトンアカデミーフォーヤングラーナーズ" : {
          "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "成徳保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "成松幼稚園" : {
@@ -1047,8 +1768,16 @@
          "location_area" : "久留米市",
          "owner_type" : "私立"
       },
+      "戸畑保育所わかば園" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
       "戸畑天使園" : {
          "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "折尾丸山保育所" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "教学寺幼稚園" : {
@@ -1087,12 +1816,20 @@
          "owner_type" : "町立",
          "short_name" : "立花幼稚園"
       },
+      "新星保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "日の丸幼稚園" : {
          "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "日の里幼稚園" : {
          "location_area" : "宗像市",
+         "owner_type" : "私立"
+      },
+      "日吉保育園" : {
+         "location_area" : "北九州市若松区",
          "owner_type" : "私立"
       },
       "日吉幼稚園" : {
@@ -1108,8 +1845,20 @@
          "location_area" : "久留米市",
          "owner_type" : "私立"
       },
+      "日豊保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "早緑子供の園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "早良幼稚園" : {
          "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "旭ヶ丘保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "明治幼稚園" : {
@@ -1128,12 +1877,24 @@
          "location_area" : "中間市",
          "owner_type" : "私立"
       },
+      "星の原団地保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
       "星の原幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "星の子保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "星和台幼稚園" : {
          "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "春の町保育園" : {
+         "location_area" : "北九州市八幡東区",
          "owner_type" : "私立"
       },
       "春吉幼稚園" : {
@@ -1160,24 +1921,64 @@
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
+      "曽根保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "曽根幼稚園" : {
          "location_area" : "糸島市",
+         "owner_type" : "私立"
+      },
+      "月のうさぎ保育園" : {
+         "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "月の浦幼稚園" : {
          "location_area" : "大野城市",
          "owner_type" : "私立"
       },
+      "月隈保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "朝倉幼稚園" : {
          "location_area" : "朝倉郡",
+         "owner_type" : "私立"
+      },
+      "木の実保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "木屋瀬保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "本城東幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
+      "本城西保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "本城西幼稚園" : {
          "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "朽網保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "杉の子保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "杉の実乳児保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
+      "東住吉保育園" : {
+         "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
       "東海大学附属自由ヶ丘幼稚園" : {
@@ -1190,6 +1991,10 @@
       },
       "東福岡幼稚園" : {
          "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "東筑保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "東筑紫短期大学附属幼稚園" : {
@@ -1209,12 +2014,28 @@
          "location_area" : "朝倉郡",
          "owner_type" : "私立"
       },
+      "松原保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "松原幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "私立",
          "wikipedia_name" : "松原幼稚園(福岡)"
       },
       "松崎幼稚園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "松月保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "松美保育園" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
+      "松翠保育園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
@@ -1228,6 +2049,14 @@
       },
       "柳川幼稚園" : {
          "location_area" : "柳川市",
+         "owner_type" : "私立"
+      },
+      "柳瀬保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "栄美保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "栄美幼稚園" : {
@@ -1259,6 +2088,10 @@
          "location_area" : "築上郡",
          "owner_type" : "私立"
       },
+      "楠橋保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "楠橋幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
@@ -1280,6 +2113,10 @@
          "owner_type" : "私立"
       },
       "正法寺ルンビニー幼稚園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "正法寺保育園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
@@ -1307,6 +2144,10 @@
          "location_area" : "遠賀郡",
          "owner_type" : "私立"
       },
+      "永犬丸保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "永福寺幼稚園" : {
          "location_area" : "久留米市",
          "owner_type" : "私立"
@@ -1315,12 +2156,24 @@
          "location_area" : "福岡市中央区",
          "owner_type" : "私立"
       },
+      "池田保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "油山幼稚園" : {
          "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
       "泉ヶ丘幼稚園" : {
          "location_area" : "春日市",
+         "owner_type" : "私立"
+      },
+      "泰幸保育園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "洗心保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "洞清寺あかつき幼稚園" : {
@@ -1337,6 +2190,10 @@
       },
       "浄福寺幼稚園" : {
          "location_area" : "直方市",
+         "owner_type" : "私立"
+      },
+      "浅川保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "浅川幼稚園" : {
@@ -1364,8 +2221,20 @@
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
+      "清心保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
       "清星幼稚園" : {
          "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "清水保育所" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "清滝保育園" : {
+         "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "済世第一幼稚園" : {
@@ -1376,12 +2245,40 @@
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
+      "済美保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "湯川カトリック幼稚園" : {
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "瀬高大谷幼稚園" : {
          "location_area" : "みやま市",
+         "owner_type" : "私立"
+      },
+      "熊西保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "片江保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "片野保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
+      "牧山保育園" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "玄界島保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "玉川保育園" : {
+         "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "玉水幼稚園" : {
@@ -1406,6 +2303,10 @@
       },
       "甘木聖和幼稚園" : {
          "location_area" : "朝倉市",
+         "owner_type" : "私立"
+      },
+      "田島保育園" : {
+         "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
       "田川カトリック幼稚園" : {
@@ -1446,12 +2347,24 @@
          "location_area" : "大牟田市",
          "owner_type" : "私立"
       },
+      "白百合保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
       "白百合幼稚園" : {
          "location_area" : "八女市",
          "owner_type" : "私立"
       },
       "白菊幼稚園" : {
          "location_area" : "福津市",
+         "owner_type" : "私立"
+      },
+      "白野江保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "白鳩保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "白鷺幼稚園" : {
@@ -1466,8 +2379,16 @@
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
+      "石峰保育所" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
       "石崎幼稚園" : {
          "location_area" : "筑紫野市",
+         "owner_type" : "私立"
+      },
+      "神岳保育園" : {
+         "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
       "神愛幼稚園" : {
@@ -1476,6 +2397,10 @@
       },
       "神理幼稚園" : {
          "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "神田杉の実保育園" : {
+         "location_area" : "北九州市八幡東区",
          "owner_type" : "私立"
       },
       "神興幼稚園" : {
@@ -1494,6 +2419,10 @@
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
+      "福岡リズム保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "福岡名島幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
@@ -1506,40 +2435,130 @@
          "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
+      "福岡市立入部保育所" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "市立",
+         "short_name" : "入部保育所"
+      },
       "福岡市立入部幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "市立",
          "short_name" : "入部幼稚園"
+      },
+      "福岡市立内野保育所" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "市立",
+         "short_name" : "内野保育所"
       },
       "福岡市立内野幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "市立",
          "short_name" : "内野幼稚園"
       },
+      "福岡市立千代保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "千代保育所"
+      },
+      "福岡市立南庄保育所" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "市立",
+         "short_name" : "南庄保育所"
+      },
       "福岡市立和白幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
          "short_name" : "和白幼稚園"
+      },
+      "福岡市立城の原保育所" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "市立",
+         "short_name" : "城の原保育所"
+      },
+      "福岡市立壱岐保育所" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "市立",
+         "short_name" : "壱岐保育所"
+      },
+      "福岡市立大井保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "大井保育所"
+      },
+      "福岡市立姪浜保育所" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "市立",
+         "short_name" : "姪浜保育所"
       },
       "福岡市立姪浜幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "市立",
          "short_name" : "姪浜幼稚園"
       },
+      "福岡市立志賀島保育所" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "市立",
+         "short_name" : "志賀島保育所"
+      },
+      "福岡市立東清水保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "東清水保育所"
+      },
+      "福岡市立清水保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "清水保育所"
+      },
+      "福岡市立田隈保育所" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "市立",
+         "short_name" : "田隈保育所"
+      },
+      "福岡市立脇山保育所" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "市立",
+         "short_name" : "脇山保育所"
+      },
+      "福岡市立西戸崎保育所" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "市立",
+         "short_name" : "西戸崎保育所"
+      },
       "福岡市立赤坂幼稚園" : {
          "location_area" : "福岡市中央区",
          "owner_type" : "市立",
          "short_name" : "赤坂幼稚園"
+      },
+      "福岡市立那珂保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "那珂保育所"
       },
       "福岡市立金武幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "市立",
          "short_name" : "金武幼稚園"
       },
+      "福岡市立隅田保育所" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "市立",
+         "short_name" : "隅田保育所"
+      },
       "福岡市立雁の巣幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
          "short_name" : "雁の巣幼稚園"
+      },
+      "福岡市立香椎保育所" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "市立",
+         "short_name" : "香椎保育所"
+      },
+      "福岡市立馬出保育所" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "市立",
+         "short_name" : "馬出保育所"
       },
       "福岡幼稚園" : {
          "location_area" : "福岡市城南区",
@@ -1578,8 +2597,16 @@
          "owner_type" : "市立",
          "short_name" : "神興幼稚園"
       },
+      "福浜保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "福浜幼稚園" : {
          "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "福重保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "稲築中央幼稚園" : {
@@ -1598,6 +2625,18 @@
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
+      "竜光保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "第2どろんこ夜間保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "第2ひまわり保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "第一幼稚園" : {
          "location_area" : "筑紫野市",
          "owner_type" : "私立"
@@ -1606,12 +2645,20 @@
          "location_area" : "行橋市",
          "owner_type" : "私立"
       },
+      "第二光和保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "第二文化幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "第二明泉寺幼稚園" : {
          "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "第二高取保育園" : {
+         "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
       "笹丘カトリック幼稚園" : {
@@ -1624,6 +2671,10 @@
       },
       "筑後中央幼稚園" : {
          "location_area" : "筑後市",
+         "owner_type" : "私立"
+      },
+      "筑紫ケ丘保育園" : {
+         "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "筑紫丘幼稚園" : {
@@ -1703,6 +2754,10 @@
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
+      "綾杉保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "緑ケ丘幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
@@ -1739,24 +2794,64 @@
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
+      "聖愛保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
       "聖愛幼稚園" : {
          "location_area" : "福津市",
+         "owner_type" : "私立"
+      },
+      "聖母園保育園" : {
+         "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "聖母幼稚園" : {
          "location_area" : "久留米市",
          "owner_type" : "私立"
       },
+      "能古保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "舞鶴保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
       "舞鶴幼稚園" : {
          "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "芙蓉保育園" : {
+         "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
       "芦屋中央幼稚園" : {
          "location_area" : "遠賀郡",
          "owner_type" : "私立"
       },
+      "花かご保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "花ぞの保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
+      "花園保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "花園幼稚園" : {
          "location_area" : "久留米市",
+         "owner_type" : "私立"
+      },
+      "花畑ナーサリー" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "花畑保育園" : {
+         "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
       "花畑幼稚園" : {
@@ -1779,8 +2874,24 @@
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
+      "若園保育所" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "若宮保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "若木台幼稚園" : {
          "location_area" : "福津市",
+         "owner_type" : "私立"
+      },
+      "若杉保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "若松乳児保育所" : {
+         "location_area" : "北九州市若松区",
          "owner_type" : "私立"
       },
       "若松天使園" : {
@@ -1793,6 +2904,14 @@
       },
       "若津幼稚園" : {
          "location_area" : "大川市",
+         "owner_type" : "私立"
+      },
+      "若竹保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "若草保育園" : {
+         "location_area" : "福岡市城南区",
          "owner_type" : "私立"
       },
       "若草幼稚園" : {
@@ -1811,12 +2930,24 @@
          "location_area" : "福岡市中央区",
          "owner_type" : "私立"
       },
+      "荒江保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
       "荘島幼稚園" : {
          "location_area" : "久留米市",
          "owner_type" : "私立"
       },
       "華頂幼稚園" : {
          "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
+      "萩ヶ丘保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "萩原保育所" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "萬徳寺幼稚園" : {
@@ -1827,8 +2958,20 @@
          "location_area" : "福岡市博多区",
          "owner_type" : "私立"
       },
+      "葛原保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
       "藤ケ丘幼稚園" : {
          "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "藤松保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "藤田保育園" : {
+         "location_area" : "北九州市八幡西区",
          "owner_type" : "私立"
       },
       "行学幼稚園" : {
@@ -1837,6 +2980,14 @@
       },
       "行橋カトリック幼稚園" : {
          "location_area" : "行橋市",
+         "owner_type" : "私立"
+      },
+      "西中原保育園" : {
+         "location_area" : "北九州市戸畑区",
+         "owner_type" : "私立"
+      },
+      "西光保育園" : {
+         "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
       "西南女学院短期大学附属シオン山幼稚園" : {
@@ -1852,8 +3003,20 @@
          "location_area" : "直方市",
          "owner_type" : "私立"
       },
+      "西教寺乳児保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "西新カトリック幼稚園" : {
          "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "西新保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "西浦保育園" : {
+         "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
       "西照寺みのり幼稚園" : {
@@ -1872,6 +3035,10 @@
          "location_area" : "福岡市西区",
          "owner_type" : "私立"
       },
+      "観音寺保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "豊前幼稚園" : {
          "location_area" : "豊前市",
          "owner_type" : "私立"
@@ -1880,12 +3047,24 @@
          "location_area" : "みやま市",
          "owner_type" : "私立"
       },
+      "豊庄保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
       "貝塚幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
+      "貴船保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "赤間くるみ幼稚園" : {
          "location_area" : "宗像市",
+         "owner_type" : "私立"
+      },
+      "足原だきしめ保育園" : {
+         "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
       },
       "近畿大学九州短期大学附属幼稚園" : {
@@ -1921,8 +3100,20 @@
          "location_area" : "太宰府市",
          "owner_type" : "私立"
       },
+      "野ばら保育園" : {
+         "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "野方保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "野方幼稚園" : {
          "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
+      "野芥保育園" : {
+         "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       },
       "野菊幼稚園" : {
@@ -1933,11 +3124,23 @@
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
+      "金田保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "銀水幼稚園" : {
          "location_area" : "大牟田市",
          "owner_type" : "私立"
       },
+      "鎮西保育園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
       "長丘幼稚園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "長住保育園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
@@ -1945,11 +3148,23 @@
          "location_area" : "嘉麻市",
          "owner_type" : "私立"
       },
+      "長尾保育園" : {
+         "location_area" : "福岡市城南区",
+         "owner_type" : "私立"
+      },
+      "長浜保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "長行幼稚園" : {
          "location_area" : "北九州市小倉南区",
          "owner_type" : "私立"
       },
       "門司こばと幼稚園" : {
+         "location_area" : "北九州市門司区",
+         "owner_type" : "私立"
+      },
+      "門司保育所みどり園" : {
          "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
@@ -1965,6 +3180,14 @@
          "location_area" : "北九州市門司区",
          "owner_type" : "私立"
       },
+      "陣山乳児保育所" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "雑餉隈保育園" : {
+         "location_area" : "福岡市博多区",
+         "owner_type" : "私立"
+      },
       "霧ケ丘幼稚園" : {
          "location_area" : "北九州市小倉北区",
          "owner_type" : "私立"
@@ -1977,12 +3200,20 @@
          "location_area" : "柳川市",
          "owner_type" : "私立"
       },
+      "静ケ丘保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "鞍手北幼稚園" : {
          "location_area" : "鞍手郡",
          "owner_type" : "私立"
       },
       "鞍手幼稚園" : {
          "location_area" : "鞍手郡",
+         "owner_type" : "私立"
+      },
+      "順和保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "須恵町立須恵南幼稚園" : {
@@ -2025,8 +3256,16 @@
          "location_area" : "飯塚市",
          "owner_type" : "私立"
       },
+      "飯盛保育園" : {
+         "location_area" : "福岡市西区",
+         "owner_type" : "私立"
+      },
       "養巴幼稚園" : {
          "location_area" : "福岡市中央区",
+         "owner_type" : "私立"
+      },
+      "香住ケ丘保育園" : {
+         "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
       "香春町立香春幼稚園" : {
@@ -2035,6 +3274,10 @@
          "short_name" : "香春幼稚園"
       },
       "香椎幼稚園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
+      "香椎浜保育園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "私立"
       },
@@ -2057,6 +3300,14 @@
          "owner_type" : "私立",
          "short_name" : "香蘭女子短大附属香蘭幼稚園"
       },
+      "高倉保育園" : {
+         "location_area" : "北九州市小倉南区",
+         "owner_type" : "私立"
+      },
+      "高取保育園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
       "高取幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "私立"
@@ -2065,12 +3316,28 @@
          "location_area" : "大牟田市",
          "owner_type" : "私立"
       },
+      "高坊保育園" : {
+         "location_area" : "北九州市小倉北区",
+         "owner_type" : "私立"
+      },
       "高宮カトリック幼稚園" : {
          "location_area" : "福岡市南区",
          "owner_type" : "私立"
       },
+      "高槻保育園" : {
+         "location_area" : "北九州市八幡東区",
+         "owner_type" : "私立"
+      },
+      "高美台保育園" : {
+         "location_area" : "福岡市東区",
+         "owner_type" : "私立"
+      },
       "高良内幼稚園" : {
          "location_area" : "久留米市",
+         "owner_type" : "私立"
+      },
+      "高見の森保育園" : {
+         "location_area" : "北九州市八幡東区",
          "owner_type" : "私立"
       },
       "高見幼稚園" : {
@@ -2081,8 +3348,34 @@
          "location_area" : "太宰府市",
          "owner_type" : "私立"
       },
+      "高須保育園" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
       "高須幼稚園" : {
          "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      },
+      "鳴水保育園" : {
+         "location_area" : "北九州市八幡西区",
+         "owner_type" : "私立"
+      },
+      "鴨生田保育園" : {
+         "location_area" : "北九州市若松区",
+         "owner_type" : "私立"
+      }
+   },
+   "misc_schools" : {
+      "いずみ保育園東花畑小学校分園" : {
+         "location_area" : "福岡市南区",
+         "owner_type" : "私立"
+      },
+      "こぐま保育園有住小学校分園" : {
+         "location_area" : "福岡市早良区",
+         "owner_type" : "私立"
+      },
+      "こぐま保育園賀茂小学校分園" : {
+         "location_area" : "福岡市早良区",
          "owner_type" : "私立"
       }
    }

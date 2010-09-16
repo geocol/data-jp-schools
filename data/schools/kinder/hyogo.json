@@ -8,8 +8,16 @@
          "location_area" : "川辺郡",
          "owner_type" : "私立"
       },
+      "あけぼの保育園" : {
+         "location_area" : "三木市",
+         "owner_type" : "私立"
+      },
       "あけぼの幼稚園" : {
          "location_area" : "神戸市長田区",
+         "owner_type" : "私立"
+      },
+      "いずみ保育園" : {
+         "location_area" : "三木市",
          "owner_type" : "私立"
       },
       "いずみ幼稚園" : {
@@ -26,6 +34,10 @@
       },
       "いるか幼稚園" : {
          "location_area" : "西宮市",
+         "owner_type" : "私立"
+      },
+      "えびす保育園" : {
+         "location_area" : "三木市",
          "owner_type" : "私立"
       },
       "かおる幼稚園" : {
@@ -183,6 +195,10 @@
          "location_area" : "神戸市北区",
          "owner_type" : "私立"
       },
+      "ひろの保育園" : {
+         "location_area" : "三木市",
+         "owner_type" : "私立"
+      },
       "ふじ幼稚園" : {
          "location_area" : "三田市",
          "owner_type" : "私立"
@@ -213,6 +229,10 @@
       },
       "やよい幼稚園" : {
          "location_area" : "三田市",
+         "owner_type" : "私立"
+      },
+      "エンゼル保育園" : {
+         "location_area" : "三木市",
          "owner_type" : "私立"
       },
       "エンゼル学園幼稚園" : {
@@ -249,6 +269,10 @@
       },
       "ロザリオ幼稚園" : {
          "location_area" : "伊丹市",
+         "owner_type" : "私立"
+      },
+      "一粒園保育所" : {
+         "location_area" : "三木市",
          "owner_type" : "私立"
       },
       "一里山幼稚園" : {
@@ -403,6 +427,10 @@
       "三田慈愛幼稚園" : {
          "location_area" : "三田市",
          "owner_type" : "私立"
+      },
+      "上の丸保育所" : {
+         "location_area" : "三木市",
+         "owner_type" : "公立"
       },
       "上甲子園幼稚園" : {
          "location_area" : "西宮市",
@@ -698,6 +726,10 @@
          "location_area" : "加古川市",
          "owner_type" : "私立"
       },
+      "別所保育所" : {
+         "location_area" : "三木市",
+         "owner_type" : "公立"
+      },
       "加古川市立しかた幼稚園" : {
          "location_area" : "加古川市",
          "owner_type" : "市立",
@@ -898,6 +930,10 @@
          "location_area" : "南あわじ市",
          "owner_type" : "市立",
          "short_name" : "阿那賀幼稚園"
+      },
+      "吉川保育所" : {
+         "location_area" : "三木市",
+         "owner_type" : "公立"
       },
       "名倉みふね幼稚園" : {
          "location_area" : "神戸市長田区",
@@ -1457,6 +1493,10 @@
          "location_area" : "神戸市灘区",
          "owner_type" : "私立"
       },
+      "志染保育所" : {
+         "location_area" : "三木市",
+         "owner_type" : "公立"
+      },
       "愛の光幼稚園" : {
          "location_area" : "加西市",
          "owner_type" : "私立"
@@ -1901,6 +1941,10 @@
          "location_area" : "川西市",
          "owner_type" : "私立"
       },
+      "清心保育園" : {
+         "location_area" : "三木市",
+         "owner_type" : "私立"
+      },
       "渦が森幼稚園" : {
          "location_area" : "神戸市東灘区",
          "owner_type" : "私立"
@@ -2056,6 +2100,10 @@
          "location_area" : "神戸市兵庫区",
          "owner_type" : "私立"
       },
+      "神和保育園" : {
+         "location_area" : "三木市",
+         "owner_type" : "私立"
+      },
       "神戸YMCAちとせ幼稚園" : {
          "location_area" : "神戸市須磨区",
          "owner_type" : "私立"
@@ -2086,6 +2134,11 @@
          "owner_type" : "市立",
          "short_name" : "おしんべ幼稚園"
       },
+      "神戸市立からと保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "からと保育所"
+      },
       "神戸市立からと幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
@@ -2096,10 +2149,25 @@
          "owner_type" : "市立",
          "short_name" : "くすのき幼稚園"
       },
+      "神戸市立しりいけ保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "しりいけ保育所"
+      },
       "神戸市立すずかぜ幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "すずかぜ幼稚園"
+      },
+      "神戸市立たかとり保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "たかとり保育所"
+      },
+      "神戸市立たちばな保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "たちばな保育所"
       },
       "神戸市立たまつ幼稚園" : {
          "location_area" : "神戸市西区",
@@ -2116,35 +2184,110 @@
          "owner_type" : "市立",
          "short_name" : "たるみ幼稚園"
       },
+      "神戸市立ひよどり台保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "ひよどり台保育所"
+      },
       "神戸市立みどりのまち幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "みどりのまち幼稚園"
+      },
+      "神戸市立みなと保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "みなと保育所"
       },
       "神戸市立やまびこ幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "やまびこ幼稚園"
       },
+      "神戸市立上高丸保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "上高丸保育所"
+      },
+      "神戸市立中野保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "中野保育所"
+      },
       "神戸市立丸山ひばり幼稚園" : {
          "location_area" : "神戸市長田区",
          "owner_type" : "市立",
          "short_name" : "丸山ひばり幼稚園"
+      },
+      "神戸市立乙木保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "乙木保育所"
+      },
+      "神戸市立二宮保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "二宮保育所"
+      },
+      "神戸市立五位ノ池保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "五位ノ池保育所"
+      },
+      "神戸市立住吉公園保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "住吉公園保育所"
       },
       "神戸市立住吉幼稚園" : {
          "location_area" : "神戸市東灘区",
          "owner_type" : "市立",
          "short_name" : "住吉幼稚園"
       },
+      "神戸市立倉石保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "倉石保育所"
+      },
       "神戸市立八多幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "八多幼稚園"
       },
+      "神戸市立八幡保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "八幡保育所"
+      },
       "神戸市立六甲山幼稚園" : {
          "location_area" : "神戸市灘区",
          "owner_type" : "市立",
          "short_name" : "六甲山幼稚園"
+      },
+      "神戸市立兵庫保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "兵庫保育所"
+      },
+      "神戸市立北青木保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "北青木保育所"
+      },
+      "神戸市立千歳保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "千歳保育所"
+      },
+      "神戸市立千鳥が丘保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "千鳥が丘保育所"
+      },
+      "神戸市立古湊保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "古湊保育所"
       },
       "神戸市立名谷あおぞら幼稚園" : {
          "location_area" : "神戸市須磨区",
@@ -2161,10 +2304,30 @@
          "owner_type" : "市立",
          "short_name" : "名谷こすもす幼稚園"
       },
+      "神戸市立向陽保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "向陽保育所"
+      },
+      "神戸市立君影保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "君影保育所"
+      },
       "神戸市立多聞ひまわり幼稚園" : {
          "location_area" : "神戸市垂水区",
          "owner_type" : "市立",
          "short_name" : "多聞ひまわり幼稚園"
+      },
+      "神戸市立多聞台保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "多聞台保育所"
+      },
+      "神戸市立大同保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "大同保育所"
       },
       "神戸市立大沢幼稚園" : {
          "location_area" : "神戸市北区",
@@ -2181,15 +2344,35 @@
          "owner_type" : "市立",
          "short_name" : "奥の池幼稚園"
       },
+      "神戸市立奥ノ池保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "奥ノ池保育所"
+      },
       "神戸市立好徳幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "好徳幼稚園"
       },
+      "神戸市立宮本保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "宮本保育所"
+      },
       "神戸市立小束山幼稚園" : {
          "location_area" : "神戸市垂水区",
          "owner_type" : "市立",
          "short_name" : "小束山幼稚園"
+      },
+      "神戸市立小河保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "小河保育所"
+      },
+      "神戸市立山の街保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "山の街保育所"
       },
       "神戸市立山田幼稚園" : {
          "location_area" : "神戸市北区",
@@ -2201,15 +2384,65 @@
          "owner_type" : "市立",
          "short_name" : "岩岡幼稚園"
       },
+      "神戸市立川原保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "川原保育所"
+      },
+      "神戸市立平野保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "平野保育所"
+      },
       "神戸市立平野幼稚園" : {
          "location_area" : "神戸市西区",
          "owner_type" : "市立",
          "short_name" : "平野幼稚園"
       },
+      "神戸市立御崎保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "御崎保育所"
+      },
+      "神戸市立御影保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "御影保育所"
+      },
       "神戸市立御影幼稚園" : {
          "location_area" : "神戸市東灘区",
          "owner_type" : "市立",
          "short_name" : "御影幼稚園"
+      },
+      "神戸市立房王寺保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "房王寺保育所"
+      },
+      "神戸市立押部谷保育所" : {
+         "location_area" : "神戸市西区",
+         "owner_type" : "市立",
+         "short_name" : "押部谷保育所"
+      },
+      "神戸市立新長田保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "新長田保育所"
+      },
+      "神戸市立旗塚保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "旗塚保育所"
+      },
+      "神戸市立明泉寺保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "明泉寺保育所"
+      },
+      "神戸市立星陵台保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "星陵台保育所"
       },
       "神戸市立有野幼稚園" : {
          "location_area" : "神戸市北区",
@@ -2221,15 +2454,80 @@
          "owner_type" : "市立",
          "short_name" : "木津幼稚園"
       },
+      "神戸市立本多聞保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "本多聞保育所"
+      },
+      "神戸市立本山保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "本山保育所"
+      },
+      "神戸市立本庄保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "本庄保育所"
+      },
+      "神戸市立村雨保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "村雨保育所"
+      },
       "神戸市立東灘のぞみ幼稚園" : {
          "location_area" : "神戸市東灘区",
          "owner_type" : "市立",
          "short_name" : "東灘のぞみ幼稚園"
       },
+      "神戸市立東灘本庄保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "東灘本庄保育所"
+      },
+      "神戸市立東高丸保育所" : {
+         "location_area" : "神戸市垂水区",
+         "owner_type" : "市立",
+         "short_name" : "東高丸保育所"
+      },
+      "神戸市立松原保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "松原保育所"
+      },
+      "神戸市立枝吉保育所" : {
+         "location_area" : "神戸市西区",
+         "owner_type" : "市立",
+         "short_name" : "枝吉保育所"
+      },
+      "神戸市立桜の宮保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "桜の宮保育所"
+      },
+      "神戸市立桜ヶ丘保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "桜ヶ丘保育所"
+      },
+      "神戸市立桜ヶ丘保育所鶴甲分室" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "桜ヶ丘保育所鶴甲分室"
+      },
       "神戸市立櫨谷幼稚園" : {
          "location_area" : "神戸市西区",
          "owner_type" : "市立",
          "short_name" : "櫨谷幼稚園"
+      },
+      "神戸市立浜御影保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "浜御影保育所"
+      },
+      "神戸市立浪松保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "浪松保育所"
       },
       "神戸市立淡河幼稚園" : {
          "location_area" : "神戸市北区",
@@ -2241,20 +2539,60 @@
          "owner_type" : "市立",
          "short_name" : "清風幼稚園"
       },
+      "神戸市立渦森台保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "渦森台保育所"
+      },
       "神戸市立港島幼稚園" : {
          "location_area" : "神戸市中央区",
          "owner_type" : "市立",
          "short_name" : "港島幼稚園"
+      },
+      "神戸市立瀬戸保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "瀬戸保育所"
       },
       "神戸市立灘すずかけ幼稚園" : {
          "location_area" : "神戸市灘区",
          "owner_type" : "市立",
          "short_name" : "灘すずかけ幼稚園"
       },
+      "神戸市立灘保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "灘保育所"
+      },
+      "神戸市立玉津保育所" : {
+         "location_area" : "神戸市西区",
+         "owner_type" : "市立",
+         "short_name" : "玉津保育所"
+      },
       "神戸市立玉津第二幼稚園" : {
          "location_area" : "神戸市西区",
          "owner_type" : "市立",
          "short_name" : "玉津第二幼稚園"
+      },
+      "神戸市立王塚台保育所" : {
+         "location_area" : "神戸市西区",
+         "owner_type" : "市立",
+         "short_name" : "王塚台保育所"
+      },
+      "神戸市立生田保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "生田保育所"
+      },
+      "神戸市立田中保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "田中保育所"
+      },
+      "神戸市立石屋川保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "石屋川保育所"
       },
       "神戸市立神出幼稚園" : {
          "location_area" : "神戸市西区",
@@ -2266,35 +2604,145 @@
          "owner_type" : "市立",
          "short_name" : "神戸幼稚園"
       },
+      "神戸市立神楽保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "神楽保育所"
+      },
+      "神戸市立神若保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "神若保育所"
+      },
+      "神戸市立禅昌寺保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "禅昌寺保育所"
+      },
+      "神戸市立竜が台保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "竜が台保育所"
+      },
+      "神戸市立細田保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "細田保育所"
+      },
+      "神戸市立羽坂保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "羽坂保育所"
+      },
+      "神戸市立菅の台保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "菅の台保育所"
+      },
+      "神戸市立菅原保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "菅原保育所"
+      },
+      "神戸市立葺合保育所" : {
+         "location_area" : "神戸市中央区",
+         "owner_type" : "市立",
+         "short_name" : "葺合保育所"
+      },
       "神戸市立藍那幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "藍那幼稚園"
+      },
+      "神戸市立西灘保育所" : {
+         "location_area" : "神戸市灘区",
+         "owner_type" : "市立",
+         "short_name" : "西灘保育所"
       },
       "神戸市立西野幼稚園" : {
          "location_area" : "神戸市長田区",
          "owner_type" : "市立",
          "short_name" : "西野幼稚園"
       },
+      "神戸市立西鈴蘭台保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "西鈴蘭台保育所"
+      },
       "神戸市立遊喜幼稚園" : {
          "location_area" : "神戸市東灘区",
          "owner_type" : "市立",
          "short_name" : "遊喜幼稚園"
+      },
+      "神戸市立運南保育所" : {
+         "location_area" : "神戸市兵庫区",
+         "owner_type" : "市立",
+         "short_name" : "運南保育所"
       },
       "神戸市立道場幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "道場幼稚園"
       },
+      "神戸市立重池保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "重池保育所"
+      },
+      "神戸市立鈴蘭台南町保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "鈴蘭台南町保育所"
+      },
+      "神戸市立鈴蘭台西町保育所" : {
+         "location_area" : "神戸市北区",
+         "owner_type" : "市立",
+         "short_name" : "鈴蘭台西町保育所"
+      },
       "神戸市立長尾幼稚園" : {
          "location_area" : "神戸市北区",
          "owner_type" : "市立",
          "short_name" : "長尾幼稚園"
       },
+      "神戸市立長田保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "長田保育所"
+      },
+      "神戸市立長田東保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "長田東保育所"
+      },
       "神戸市立青山台こばと幼稚園" : {
          "location_area" : "神戸市垂水区",
          "owner_type" : "市立",
          "short_name" : "青山台こばと幼稚園"
+      },
+      "神戸市立須磨保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "須磨保育所"
+      },
+      "神戸市立駒ヶ林保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "駒ヶ林保育所"
+      },
+      "神戸市立駒栄保育所" : {
+         "location_area" : "神戸市長田区",
+         "owner_type" : "市立",
+         "short_name" : "駒栄保育所"
+      },
+      "神戸市立高倉台保育所" : {
+         "location_area" : "神戸市須磨区",
+         "owner_type" : "市立",
+         "short_name" : "高倉台保育所"
+      },
+      "神戸市立魚崎保育所" : {
+         "location_area" : "神戸市東灘区",
+         "owner_type" : "市立",
+         "short_name" : "魚崎保育所"
       },
       "神戸市立魚崎幼稚園" : {
          "location_area" : "神戸市東灘区",
@@ -2513,6 +2961,10 @@
          "location_area" : "神戸市東灘区",
          "owner_type" : "私立"
       },
+      "羽場保育園" : {
+         "location_area" : "三木市",
+         "owner_type" : "私立"
+      },
       "聖マリアの園幼稚園" : {
          "location_area" : "神戸市垂水区",
          "owner_type" : "私立"
@@ -2539,6 +2991,10 @@
       },
       "自然幼稚園" : {
          "location_area" : "宝塚市",
+         "owner_type" : "私立"
+      },
+      "自由ヶ丘保育園" : {
+         "location_area" : "三木市",
          "owner_type" : "私立"
       },
       "舞子幼稚園" : {

@@ -1,5 +1,9 @@
 {
    "kindergartens" : {
+      "ALS英会話保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
+      },
       "あおば台幼稚園" : {
          "location_area" : "土浦市",
          "owner_type" : "私立"
@@ -36,6 +40,14 @@
          "location_area" : "東茨城郡",
          "owner_type" : "私立"
       },
+      "かつらぎ保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
+      "かなめ保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
       "きぬ幼稚園" : {
          "location_area" : "常総市",
          "owner_type" : "私立"
@@ -62,6 +74,10 @@
       },
       "こもりや幼稚園" : {
          "location_area" : "古河市",
+         "owner_type" : "私立"
+      },
+      "さくら学園保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "さくら幼稚園" : {
@@ -98,40 +114,158 @@
          "owner_type" : "市立",
          "short_name" : "わかくさ幼稚園"
       },
+      "つくばみらい市立伊奈第一保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "伊奈第一保育所"
+      },
+      "つくばみらい市立伊奈第三保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "伊奈第三保育所"
+      },
+      "つくばみらい市立伊奈第二保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "伊奈第二保育所"
+      },
+      "つくばみらい市立伊奈第四保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "伊奈第四保育所"
+      },
       "つくばみらい市立谷和原幼稚園" : {
          "location_area" : "つくばみらい市",
          "owner_type" : "市立",
          "short_name" : "谷和原幼稚園"
+      },
+      "つくばみらい市立谷和原第一保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "谷和原第一保育所"
+      },
+      "つくばみらい市立谷和原第三保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "谷和原第三保育所"
+      },
+      "つくばみらい市立谷和原第二保育所" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "市立",
+         "short_name" : "谷和原第二保育所"
+      },
+      "つくば国際松並保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
+      },
+      "つくば国際百合ケ丘保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
       },
       "つくば国際短期大学附属幼稚園" : {
          "location_area" : "土浦市",
          "owner_type" : "私立",
          "short_name" : "つくば国際短大附属幼稚園"
       },
+      "つくば市立上ノ室保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "上ノ室保育所"
+      },
+      "つくば市立上境保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "上境保育所"
+      },
+      "つくば市立上広岡保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "上広岡保育所"
+      },
+      "つくば市立上横場保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "上横場保育所"
+      },
+      "つくば市立上郷保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "上郷保育所"
+      },
       "つくば市立上郷幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "上郷幼稚園"
+      },
+      "つくば市立並木保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "並木保育所"
       },
       "つくば市立並木幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "並木幼稚園"
       },
+      "つくば市立二の宮保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "二の宮保育所"
+      },
       "つくば市立二の宮幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "二の宮幼稚園"
+      },
+      "つくば市立今鹿島保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "今鹿島保育所"
+      },
+      "つくば市立作岡保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "作岡保育所"
+      },
+      "つくば市立北条保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "北条保育所"
+      },
+      "つくば市立吾妻保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "吾妻保育所"
       },
       "つくば市立吾妻幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "吾妻幼稚園"
       },
+      "つくば市立城山保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "城山保育所"
+      },
+      "つくば市立大穂保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "大穂保育所"
+      },
       "つくば市立大穂幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "大穂幼稚園"
+      },
+      "つくば市立小田保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "小田保育所"
+      },
+      "つくば市立岩崎保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "岩崎保育所"
       },
       "つくば市立岩崎幼稚園" : {
          "location_area" : "つくば市",
@@ -143,6 +277,11 @@
          "owner_type" : "市立",
          "short_name" : "島名幼稚園"
       },
+      "つくば市立手代木南保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "手代木南保育所"
+      },
       "つくば市立手代木南幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
@@ -153,10 +292,20 @@
          "owner_type" : "市立",
          "short_name" : "東幼稚園"
       },
+      "つくば市立松代保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "松代保育所"
+      },
       "つくば市立松代幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "松代幼稚園"
+      },
+      "つくば市立桜南保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "桜南保育所"
       },
       "つくば市立桜南幼稚園" : {
          "location_area" : "つくば市",
@@ -168,10 +317,30 @@
          "owner_type" : "市立",
          "short_name" : "桜幼稚園"
       },
+      "つくば市立沼田保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "沼田保育所"
+      },
+      "つくば市立真瀬保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "真瀬保育所"
+      },
       "つくば市立真瀬幼稚園" : {
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "真瀬幼稚園"
+      },
+      "つくば市立稲岡保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "稲岡保育所"
+      },
+      "つくば市立竹園保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "竹園保育所"
       },
       "つくば市立竹園東幼稚園" : {
          "location_area" : "つくば市",
@@ -197,6 +366,11 @@
          "location_area" : "つくば市",
          "owner_type" : "市立",
          "short_name" : "高崎幼稚園"
+      },
+      "つくば市立高見原保育所" : {
+         "location_area" : "つくば市",
+         "owner_type" : "市立",
+         "short_name" : "高見原保育所"
       },
       "つくば幼稚園" : {
          "location_area" : "結城市",
@@ -284,6 +458,10 @@
          "location_area" : "牛久市",
          "owner_type" : "私立"
       },
+      "ひまわり保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
       "ひまわり幼稚園" : {
          "location_area" : "古河市",
          "owner_type" : "私立"
@@ -294,6 +472,14 @@
       },
       "ふたば文化幼稚園" : {
          "location_area" : "下妻市",
+         "owner_type" : "私立"
+      },
+      "まつぼっくり保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
+      "まつやま保育園" : {
+         "location_area" : "守谷市",
          "owner_type" : "私立"
       },
       "まなべすみれ幼稚園" : {
@@ -352,8 +538,20 @@
          "location_area" : "日立市",
          "owner_type" : "私立"
       },
+      "もりり保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
+      },
       "ゆりかご幼稚園" : {
          "location_area" : "古河市",
+         "owner_type" : "私立"
+      },
+      "わかばのもり保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
+      },
+      "わかば保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "アカデミア幼稚園" : {
@@ -372,6 +570,10 @@
          "location_area" : "高萩市",
          "owner_type" : "私立"
       },
+      "ケアーズ保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
       "チューリップ幼稚園" : {
          "location_area" : "取手市",
          "owner_type" : "私立"
@@ -386,6 +588,14 @@
       },
       "ナザレ幼稚園" : {
          "location_area" : "那珂市",
+         "owner_type" : "私立"
+      },
+      "ピジョンランド常総保育園" : {
+         "location_area" : "つくばみらい市",
+         "owner_type" : "私立"
+      },
+      "フラワーチャイルド保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "フレンド幼稚園" : {
@@ -490,6 +700,10 @@
          "location_area" : "筑西市",
          "owner_type" : "私立"
       },
+      "九重保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
       "二葉幼稚園" : {
          "location_area" : "日立市",
          "owner_type" : "私立"
@@ -575,6 +789,10 @@
       },
       "古河白梅幼稚園" : {
          "location_area" : "古河市",
+         "owner_type" : "私立"
+      },
+      "吉沼保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "吉沼幼稚園" : {
@@ -765,6 +983,20 @@
          "location_area" : "守谷市",
          "owner_type" : "私立"
       },
+      "守谷保育園" : {
+         "location_area" : "守谷市",
+         "owner_type" : "私立"
+      },
+      "守谷市立北園保育所" : {
+         "location_area" : "守谷市",
+         "owner_type" : "市立",
+         "short_name" : "北園保育所"
+      },
+      "守谷市立土塔中央保育所" : {
+         "location_area" : "守谷市",
+         "owner_type" : "市立",
+         "short_name" : "土塔中央保育所"
+      },
       "富士見幼稚園" : {
          "location_area" : "龍ケ崎市",
          "owner_type" : "私立"
@@ -824,6 +1056,10 @@
       },
       "岩間第一幼稚園" : {
          "location_area" : "笠間市",
+         "owner_type" : "私立"
+      },
+      "島名杉の子保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "常磐大学幼稚園" : {
@@ -1057,6 +1293,10 @@
          "location_area" : "北茨城市",
          "owner_type" : "私立"
       },
+      "東平塚保育園" : {
+         "location_area" : "つくば市",
+         "owner_type" : "私立"
+      },
       "東成沢幼稚園" : {
          "location_area" : "日立市",
          "owner_type" : "私立"
@@ -1129,6 +1369,11 @@
          "location_area" : "東茨城郡",
          "owner_type" : "私立"
       },
+      "水戸市立一の牧保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "一の牧保育所"
+      },
       "水戸市立上大野幼稚園" : {
          "location_area" : "水戸市",
          "owner_type" : "市立",
@@ -1144,10 +1389,20 @@
          "owner_type" : "市立",
          "short_name" : "五軒幼稚園"
       },
+      "水戸市立内原保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "内原保育所"
+      },
       "水戸市立千波幼稚園" : {
          "location_area" : "水戸市",
          "owner_type" : "市立",
          "short_name" : "千波幼稚園"
+      },
+      "水戸市立双葉台保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "双葉台保育所"
       },
       "水戸市立吉田が丘幼稚園" : {
          "location_area" : "水戸市",
@@ -1158,6 +1413,11 @@
          "location_area" : "水戸市",
          "owner_type" : "市立",
          "short_name" : "国田幼稚園"
+      },
+      "水戸市立城東保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "城東保育所"
       },
       "水戸市立城東幼稚園" : {
          "location_area" : "水戸市",
@@ -1184,10 +1444,30 @@
          "owner_type" : "市立",
          "short_name" : "山根幼稚園"
       },
+      "水戸市立常澄保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "常澄保育所"
+      },
       "水戸市立常盤幼稚園" : {
          "location_area" : "水戸市",
          "owner_type" : "市立",
          "short_name" : "常盤幼稚園"
+      },
+      "水戸市立平須保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "平須保育所"
+      },
+      "水戸市立新原保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "新原保育所"
+      },
+      "水戸市立杉山保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "杉山保育所"
       },
       "水戸市立柳河幼稚園" : {
          "location_area" : "水戸市",
@@ -1199,10 +1479,25 @@
          "owner_type" : "市立",
          "short_name" : "梅が丘幼稚園"
       },
+      "水戸市立河和田保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "河和田保育所"
+      },
       "水戸市立浜田幼稚園" : {
          "location_area" : "水戸市",
          "owner_type" : "市立",
          "short_name" : "浜田幼稚園"
+      },
+      "水戸市立渡里保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "渡里保育所"
+      },
+      "水戸市立白梅保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "白梅保育所"
       },
       "水戸市立石川幼稚園" : {
          "location_area" : "水戸市",
@@ -1219,10 +1514,20 @@
          "owner_type" : "市立",
          "short_name" : "稲荷第二幼稚園"
       },
+      "水戸市立緑岡保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "緑岡保育所"
+      },
       "水戸市立緑岡幼稚園" : {
          "location_area" : "水戸市",
          "owner_type" : "市立",
          "short_name" : "緑岡幼稚園"
+      },
+      "水戸市立若宮保育所" : {
+         "location_area" : "水戸市",
+         "owner_type" : "市立",
+         "short_name" : "若宮保育所"
       },
       "水戸市立見川幼稚園" : {
          "location_area" : "水戸市",
@@ -1308,6 +1613,10 @@
       },
       "牛久文化幼稚園" : {
          "location_area" : "牛久市",
+         "owner_type" : "私立"
+      },
+      "田中保育園" : {
+         "location_area" : "つくば市",
          "owner_type" : "私立"
       },
       "白山幼稚園" : {

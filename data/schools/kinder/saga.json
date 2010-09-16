@@ -1,7 +1,15 @@
 {
    "kindergartens" : {
+      "あおぞら保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "あかさかルンビニー幼稚園" : {
          "location_area" : "西松浦郡",
+         "owner_type" : "私立"
+      },
+      "あかつき保育園" : {
+         "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
@@ -16,8 +24,16 @@
          "location_area" : "武雄市",
          "owner_type" : "私立"
       },
+      "ちえんかん保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "ちとせ幼稚園" : {
          "location_area" : "神埼市",
+         "owner_type" : "私立"
+      },
+      "なかよし保育園" : {
+         "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
       "のぞみ幼稚園" : {
@@ -64,6 +80,10 @@
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "三瀬保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "三田川幼稚園" : {
          "location_area" : "神埼郡",
          "owner_type" : "私立"
@@ -78,6 +98,10 @@
       },
       "中原幼稚園" : {
          "location_area" : "三養基郡",
+         "owner_type" : "私立"
+      },
+      "中央保育園" : {
+         "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
       "中川副幼稚園" : {
@@ -114,15 +138,47 @@
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "佐賀保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "佐賀保育園分園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "佐賀大学文化教育学部附属幼稚園" : {
          "owner_type" : "国立"
+      },
+      "佐賀市立城東保育所" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "市立",
+         "short_name" : "城東保育所"
+      },
+      "佐賀市立川原保育所" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "市立",
+         "short_name" : "川原保育所"
+      },
+      "佐賀市立成章保育所" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "市立",
+         "short_name" : "成章保育所"
       },
       "佐賀市立本庄幼稚園" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
          "short_name" : "本庄幼稚園"
       },
+      "佐賀市立若葉保育所" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "市立",
+         "short_name" : "若葉保育所"
+      },
       "信光幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "光明保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -130,11 +186,23 @@
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "兵庫保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "北川副幼稚園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "北部保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "千布幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "南部保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -153,6 +221,10 @@
       },
       "和光幼稚園" : {
          "location_area" : "嬉野市",
+         "owner_type" : "私立"
+      },
+      "和泉ふたば保育園" : {
+         "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
       "和泉幼稚園" : {
@@ -177,11 +249,31 @@
          "owner_type" : "市立",
          "short_name" : "唐津幼稚園"
       },
+      "嘉瀬保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "嘉瀬幼稚園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "城北保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "城北保育園分園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "城北幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "城南保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "城西保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -240,7 +332,19 @@
          "location_area" : "小城市",
          "owner_type" : "私立"
       },
+      "小部保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "小鹿幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "尚賢保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "川上保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -256,6 +360,10 @@
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "巨勢保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "布津原幼稚園" : {
          "location_area" : "鳥栖市",
          "owner_type" : "私立"
@@ -264,7 +372,23 @@
          "location_area" : "杵島郡",
          "owner_type" : "私立"
       },
+      "愛の泉保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "掘江保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "掘江保育園分園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "新栄幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "日新保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -274,6 +398,10 @@
       },
       "明朗幼稚園" : {
          "location_area" : "鹿島市",
+         "owner_type" : "私立"
+      },
+      "春日保育園" : {
+         "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
       "昭和幼稚園" : {
@@ -375,6 +503,10 @@
          "location_area" : "三養基郡",
          "owner_type" : "私立"
       },
+      "諸富保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "諸富北幼稚園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
@@ -391,7 +523,15 @@
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
+      "鍋島保育園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
       "鍋島幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "開成保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -400,6 +540,10 @@
          "owner_type" : "私立"
       },
       "高岸幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      },
+      "高木保育園" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       },
@@ -424,6 +568,12 @@
          "owner_type" : "私立"
       },
       "龍谷幼稚園" : {
+         "location_area" : "佐賀市",
+         "owner_type" : "私立"
+      }
+   },
+   "misc_schools" : {
+      "保育園ひなた村自然塾" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立"
       }
