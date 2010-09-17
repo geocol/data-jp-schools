@@ -288,7 +288,8 @@
       "下関市立豊浦小学校" : {
          "location_area" : "下関市",
          "owner_type" : "市立",
-         "short_name" : "豊浦小学校"
+         "short_name" : "豊浦小学校",
+         "sort_name" : "しものせきしりつとよら"
       },
       "下関市立豊田下小学校" : {
          "location_area" : "下関市",
@@ -676,9 +677,13 @@
          "short_name" : "川上小学校"
       },
       "宇部市立常盤小学校" : {
+         "location" : "山口県宇部市大字西岐波字論瀬1337-12",
          "location_area" : "宇部市",
+         "location_zipcode" : "755-0151",
          "owner_type" : "市立",
-         "short_name" : "常盤小学校"
+         "short_name" : "常盤小学校",
+         "sort_name" : "うへしりつときわしよう",
+         "url" : "http://www.ube-ygc.ed.jp/twe/"
       },
       "宇部市立恩田小学校" : {
          "location_area" : "宇部市",
@@ -686,9 +691,13 @@
          "short_name" : "恩田小学校"
       },
       "宇部市立新川小学校" : {
+         "location" : "山口県宇部市西小串一丁目4番25号",
          "location_area" : "宇部市",
+         "location_zipcode" : "755-0049",
          "owner_type" : "市立",
-         "short_name" : "新川小学校"
+         "short_name" : "新川小学校",
+         "sort_name" : "うへしりつしんかわしよう",
+         "url" : "http://www.ube-ygc.ed.jp/ske/"
       },
       "宇部市立東岐波小学校" : {
          "location_area" : "宇部市",
@@ -741,10 +750,18 @@
          "short_name" : "黒石小学校"
       },
       "山口大学教育学部附属光小学校" : {
-         "owner_type" : "国立"
+         "location" : "山口県光市室積八丁目4番1号",
+         "location_zipcode" : "743-0007",
+         "owner_type" : "国立",
+         "sort_name" : "やまくちたいかくきよういくかくふふそくひかりしよう",
+         "url" : "http://www.hikari-es.yamaguchi-u.ac.jp/html/sense.html"
       },
       "山口大学教育学部附属山口小学校" : {
-         "owner_type" : "国立"
+         "location" : "山口県山口市白石三丁目1番1号",
+         "location_zipcode" : "753-0070",
+         "owner_type" : "国立",
+         "sort_name" : "やまくちたいかくきよういくかくふふそくやまくちしよう",
+         "url" : "http://www.ymg-es.yamaguchi-u.ac.jp/"
       },
       "山口市立さくら小学校" : {
          "location_area" : "山口市",
@@ -809,12 +826,14 @@
       "山口市立大内南小学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "大内南小学校"
+         "short_name" : "大内南小学校",
+         "sort_name" : "やまくちしりつおおうちみなみ"
       },
       "山口市立大内小学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "大内小学校"
+         "short_name" : "大内小学校",
+         "sort_name" : "やまくちしりつおおうち"
       },
       "山口市立大内小学校氷上分室" : {
          "location_area" : "山口市",
@@ -829,7 +848,8 @@
       "山口市立大殿小学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "大殿小学校"
+         "short_name" : "大殿小学校",
+         "sort_name" : "やまくちしりつおおとの"
       },
       "山口市立大海小学校" : {
          "location_area" : "山口市",
@@ -839,7 +859,8 @@
       "山口市立宮野小学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "宮野小学校"
+         "short_name" : "宮野小学校",
+         "sort_name" : "やまくちしりつみやの"
       },
       "山口市立小郡南小学校" : {
          "location_area" : "山口市",
@@ -937,14 +958,22 @@
          "short_name" : "厚陽小学校"
       },
       "山陽小野田市立埴生小学校" : {
+         "location" : "山口県山陽小野田市埴生1996",
          "location_area" : "山陽小野田市",
+         "location_zipcode" : "757-0012",
          "owner_type" : "市立",
-         "short_name" : "埴生小学校"
+         "short_name" : "埴生小学校",
+         "sort_name" : "さんようおのたしりつはふ",
+         "url" : "http://www.edu.cty-so.jp/habu-es/"
       },
       "山陽小野田市立小野田小学校" : {
+         "location" : "山口県山陽小野田市中川3丁目2-1",
          "location_area" : "山陽小野田市",
+         "location_zipcode" : "756-0806",
          "owner_type" : "市立",
-         "short_name" : "小野田小学校"
+         "short_name" : "小野田小学校",
+         "sort_name" : "さんようおのたしりつおのたしようかつこう",
+         "url" : "http://www.edu.cty-so.jp/onoda-es/"
       },
       "山陽小野田市立有帆小学校" : {
          "location_area" : "山陽小野田市",
@@ -1097,9 +1126,13 @@
          "short_name" : "玖珂小学校"
       },
       "岩国市立由宇小学校" : {
+         "location" : "山口県岩国市由宇町中央2丁目10番1号",
          "location_area" : "岩国市",
+         "location_zipcode" : "740-1428",
          "owner_type" : "市立",
-         "short_name" : "由宇小学校"
+         "short_name" : "由宇小学校",
+         "sort_name" : "いわくにしりつゆうしようかつこう",
+         "url" : "http://www.yue.edu.city.iwakuni.yamaguchi.jp/"
       },
       "岩国市立由西小学校" : {
          "location_area" : "岩国市",
@@ -1422,14 +1455,22 @@
          "short_name" : "川上小学校"
       },
       "萩市立弥富小学校" : {
+         "location" : "山口県萩市大字弥富下4083-1|",
          "location_area" : "萩市",
+         "location_zipcode" : "759-3302",
          "owner_type" : "市立",
-         "short_name" : "弥富小学校"
+         "short_name" : "弥富小学校",
+         "sort_name" : "はきしりつやとみしようかつこう",
+         "url" : "http://www.haginet.ne.jp/users/yasyo/"
       },
       "萩市立明倫小学校" : {
+         "location" : "山口県萩市江向602番地|",
          "location_area" : "萩市",
+         "location_zipcode" : "758-0041",
          "owner_type" : "市立",
-         "short_name" : "明倫小学校"
+         "short_name" : "明倫小学校",
+         "sort_name" : "はきしりつめいりんしようかつこう",
+         "url" : "http://www.haginet.ne.jp/users/meirin-e/"
       },
       "萩市立明木小学校" : {
          "location_area" : "萩市",
@@ -1497,7 +1538,9 @@
          "short_name" : "仙崎小学校"
       },
       "長門市立伊上小学校" : {
+         "location" : "山口県長門市油谷伊上上り野2391",
          "location_area" : "長門市",
+         "location_zipcode" : "759-4505",
          "owner_type" : "市立",
          "short_name" : "伊上小学校"
       },
@@ -1537,9 +1580,13 @@
          "short_name" : "油谷小学校"
       },
       "長門市立浅田小学校" : {
+         "location" : "山口県長門市三隅下字浅田",
          "location_area" : "長門市",
+         "location_zipcode" : "759-3803",
          "owner_type" : "市立",
-         "short_name" : "浅田小学校"
+         "short_name" : "浅田小学校",
+         "sort_name" : "なかとしりつあさたしようかつこう",
+         "url" : "http://member.hot-cha.tv/~asadasho/"
       },
       "長門市立深川小学校" : {
          "location_area" : "長門市",
@@ -1627,9 +1674,13 @@
          "short_name" : "華城小学校"
       },
       "防府市立華浦小学校" : {
+         "location" : "山口県防府市華浦2-2-2",
          "location_area" : "防府市",
+         "location_zipcode" : "747-0816",
          "owner_type" : "市立",
-         "short_name" : "華浦小学校"
+         "short_name" : "華浦小学校",
+         "sort_name" : "ほうふしりつかほしようかつこう",
+         "url" : "http://www.c-able.ne.jp/~kahoes/"
       },
       "防府市立西浦小学校" : {
          "location_area" : "防府市",

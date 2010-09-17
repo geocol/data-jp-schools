@@ -36,9 +36,12 @@
          "short_name" : "福岡西小学校"
       },
       "みどり市立笠懸北小学校" : {
+         "location" : "群馬県みどり市笠懸町阿左美3730",
          "location_area" : "みどり市",
+         "location_zipcode" : "379-2311",
          "owner_type" : "市立",
-         "short_name" : "笠懸北小学校"
+         "short_name" : "笠懸北小学校",
+         "url" : "http://www.kasakakemachi-gnm.ed.jp/kitasho/"
       },
       "みどり市立笠懸小学校" : {
          "location_area" : "みどり市",
@@ -121,9 +124,14 @@
          "short_name" : "馬山小学校"
       },
       "中之条町立中之条小学校" : {
+         "location" : "群馬県吾妻郡中之条町大字伊勢町1035-1",
          "location_area" : "吾妻郡中之条町",
+         "location_wikipedia_latlon" : "|36|35|20|N|138|51|05|E|",
+         "location_zipcode" : "377-0423",
          "owner_type" : "町立",
-         "short_name" : "中之条小学校"
+         "short_name" : "中之条小学校",
+         "sort_name" : "なかのしようちようりつなかのしようしよう",
+         "url" : "http://www15.wind.ne.jp/~nakanojou-es/"
       },
       "中之条町立伊参小学校" : {
          "location_area" : "吾妻郡中之条町",
@@ -338,7 +346,8 @@
       "前橋市立大胡小学校" : {
          "location_area" : "前橋市",
          "owner_type" : "市立",
-         "short_name" : "大胡小学校"
+         "short_name" : "大胡小学校",
+         "sort_name" : "まえはししりつおおこしよう"
       },
       "前橋市立大胡東小学校" : {
          "location_area" : "前橋市",
@@ -486,9 +495,14 @@
          "short_name" : "細井小学校"
       },
       "前橋市立総社小学校" : {
+         "location" : "群馬県前橋市総社町総社1625番地",
          "location_area" : "前橋市",
+         "location_wikipedia_latlon" : "|36|24|33|N|139|02|17|E|",
+         "location_zipcode" : "371-0852",
          "owner_type" : "市立",
-         "short_name" : "総社小学校"
+         "short_name" : "総社小学校",
+         "sort_name" : "まえはししりつそうしやしよう",
+         "url" : "http://www.souja-es.menet.ed.jp/"
       },
       "前橋市立芳賀小学校" : {
          "location_area" : "前橋市",
@@ -546,24 +560,40 @@
          "short_name" : "駒寄小学校"
       },
       "大泉町立北小学校" : {
+         "location" : "群馬県邑楽郡大泉町城之内一丁目21番1号",
          "location_area" : "邑楽郡大泉町",
+         "location_zipcode" : "370-0518",
          "owner_type" : "町立",
-         "short_name" : "北小学校"
+         "short_name" : "北小学校",
+         "sort_name" : "おおいすみちようりつきたしよう",
+         "url" : "http://www.ooizumitown-kita-e.ed.jp/"
       },
       "大泉町立南小学校" : {
+         "location" : "群馬県邑楽郡大泉町仙石二丁目1番1号",
          "location_area" : "邑楽郡大泉町",
+         "location_zipcode" : "370-0533",
          "owner_type" : "町立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "おおいすみちようりつみなみしよう",
+         "url" : "http://www.ooizumitown-minami-e.ed.jp/"
       },
       "大泉町立東小学校" : {
+         "location" : "群馬県邑楽郡大泉町朝日三丁目7番1号",
          "location_area" : "邑楽郡大泉町",
+         "location_zipcode" : "370-0514",
          "owner_type" : "町立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "おおいすみちようりつひかししよう",
+         "url" : "http://www.ooizumitown-higashi-e.ed.jp/"
       },
       "大泉町立西小学校" : {
+         "location" : "群馬県邑楽郡大泉町大字古氷106番地の1",
          "location_area" : "邑楽郡大泉町",
+         "location_zipcode" : "370-0536",
          "owner_type" : "町立",
-         "short_name" : "西小学校"
+         "short_name" : "西小学校",
+         "sort_name" : "おおいすみちようりつにししよう",
+         "url" : "http://www.ooizumitown-nishi-e.ed.jp/"
       },
       "太田市立世良田小学校" : {
          "location_area" : "太田市",
@@ -573,22 +603,29 @@
       "太田市立中央小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "おおたしりつちゆうおうしよう"
       },
       "太田市立九合小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "九合小学校"
+         "short_name" : "九合小学校",
+         "sort_name" : "おおたしりつくあいしよう"
       },
       "太田市立休泊小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "休泊小学校"
+         "short_name" : "休泊小学校",
+         "sort_name" : "おおたしりつきゆうはくしよう"
       },
       "太田市立南小学校" : {
+         "location" : "群馬県太田市高林南町1372番地",
          "location_area" : "太田市",
+         "location_zipcode" : "373-0825",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "おおたしりつみなみしよう",
+         "url" : "http://www.ota.ed.jp/minami/"
       },
       "太田市立城西小学校" : {
          "location_area" : "太田市",
@@ -598,12 +635,14 @@
       "太田市立太田小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "太田小学校"
+         "short_name" : "太田小学校",
+         "sort_name" : "おおたしりつおおたしよう"
       },
       "太田市立太田東小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "太田東小学校"
+         "short_name" : "太田東小学校",
+         "sort_name" : "おおたしりつおおたひかししよう"
       },
       "太田市立宝泉南小学校" : {
          "location_area" : "太田市",
@@ -628,22 +667,26 @@
       "太田市立強戸小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "強戸小学校"
+         "short_name" : "強戸小学校",
+         "sort_name" : "おおたしりつこうとしよう"
       },
       "太田市立旭小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "旭小学校"
+         "short_name" : "旭小学校",
+         "sort_name" : "おおたしりつあさひしよう"
       },
       "太田市立木崎小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "木崎小学校"
+         "short_name" : "木崎小学校",
+         "sort_name" : "おおたしりつきさきしよう"
       },
       "太田市立毛里田小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "毛里田小学校"
+         "short_name" : "毛里田小学校",
+         "sort_name" : "おおたしりつもりたしよう"
       },
       "太田市立沢野中央小学校" : {
          "location_area" : "太田市",
@@ -658,12 +701,14 @@
       "太田市立生品小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "生品小学校"
+         "short_name" : "生品小学校",
+         "sort_name" : "おおたしりついくしなしよう"
       },
       "太田市立綿打小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "綿打小学校"
+         "short_name" : "綿打小学校",
+         "sort_name" : "おおたしりつわたうちしよう"
       },
       "太田市立薮塚南小学校" : {
          "location_area" : "太田市",
@@ -678,22 +723,26 @@
       "太田市立韮川小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "韮川小学校"
+         "short_name" : "韮川小学校",
+         "sort_name" : "おおたしりつにらかわしよう"
       },
       "太田市立韮川西小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "韮川西小学校"
+         "short_name" : "韮川西小学校",
+         "sort_name" : "おおたしりつにらかわにししよう"
       },
       "太田市立駒形小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "駒形小学校"
+         "short_name" : "駒形小学校",
+         "sort_name" : "おおたしりつこまかたしよう"
       },
       "太田市立鳥之郷小学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "鳥之郷小学校"
+         "short_name" : "鳥之郷小学校",
+         "sort_name" : "おおたしりつとりのこうしよう"
       },
       "嬬恋村立干俣小学校" : {
          "location_area" : "吾妻郡嬬恋村",
@@ -928,17 +977,23 @@
       "桐生市立北小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "北小学校"
+         "short_name" : "北小学校",
+         "sort_name" : "きりゆうしりつきたしよう"
       },
       "桐生市立南小学校" : {
+         "location" : "群馬県桐生市新宿二丁目7番1号",
          "location_area" : "桐生市",
+         "location_zipcode" : "376-0006",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "きりゆうしりつみなみしよう",
+         "url" : "http://www.kiryu-minami-e.ed.jp/"
       },
       "桐生市立境野小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "境野小学校"
+         "short_name" : "境野小学校",
+         "sort_name" : "きりゆうしりつさかいのしよう"
       },
       "桐生市立天沼小学校" : {
          "location_area" : "桐生市",
@@ -948,72 +1003,86 @@
       "桐生市立川内小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "川内小学校"
+         "short_name" : "川内小学校",
+         "sort_name" : "きりゆうしりつかわうちしよう"
       },
       "桐生市立広沢小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "広沢小学校"
+         "short_name" : "広沢小学校",
+         "sort_name" : "きりゆうしりつひろさわしよう"
       },
       "桐生市立新里中央小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "新里中央小学校"
+         "short_name" : "新里中央小学校",
+         "sort_name" : "きりゆうしりつにいさとちゆうおうしよう"
       },
       "桐生市立新里北小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "新里北小学校"
+         "short_name" : "新里北小学校",
+         "sort_name" : "きりゆうしりつにいさときたしよう"
       },
       "桐生市立新里東小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "新里東小学校"
+         "short_name" : "新里東小学校",
+         "sort_name" : "きりゆうしりつにいさとひかししよう"
       },
       "桐生市立昭和小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "昭和小学校"
+         "short_name" : "昭和小学校",
+         "sort_name" : "きりゆうしりつしようわしよう"
       },
       "桐生市立東小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "きりゆうしりつひかししよう"
       },
       "桐生市立桜木小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "桜木小学校"
+         "short_name" : "桜木小学校",
+         "sort_name" : "きりゆうしりつさくらきしよう"
       },
       "桐生市立梅田南小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "梅田南小学校"
+         "short_name" : "梅田南小学校",
+         "sort_name" : "きりゆうしりつうめたみなみしよう"
       },
       "桐生市立相生小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "相生小学校"
+         "short_name" : "相生小学校",
+         "sort_name" : "きりゆうしりつあいおいしよう"
       },
       "桐生市立神明小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "神明小学校"
+         "short_name" : "神明小学校",
+         "sort_name" : "きりゆうしりつしんめいしよう"
       },
       "桐生市立菱小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "菱小学校"
+         "short_name" : "菱小学校",
+         "sort_name" : "きりゆうしりつひししよう"
       },
       "桐生市立西小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "西小学校"
+         "short_name" : "西小学校",
+         "sort_name" : "きりゆうしりつにししよう"
       },
       "桐生市立黒保根小学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "黒保根小学校"
+         "short_name" : "黒保根小学校",
+         "sort_name" : "きりゆうしりつくろほねしよう"
       },
       "榛東村立北小学校" : {
          "location_area" : "北群馬郡榛東村",
@@ -1061,9 +1130,13 @@
          "short_name" : "平川小学校"
       },
       "沼田市立池田小学校" : {
+         "location" : "群馬県沼田市発知新田町533",
          "location_area" : "沼田市",
+         "location_zipcode" : "378-0073",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "ぬまたしりついけたしよう",
+         "url" : "http://www.n-ikeda-es.gsn.ed.jp/"
       },
       "沼田市立沼田北小学校" : {
          "location_area" : "沼田市",
@@ -1148,12 +1221,17 @@
       "渋川市立渋川北小学校" : {
          "location_area" : "渋川市",
          "owner_type" : "市立",
-         "short_name" : "渋川北小学校"
+         "short_name" : "渋川北小学校",
+         "sort_name" : "しふかわしりつしふかわきたしよう"
       },
       "渋川市立渋川南小学校" : {
+         "location" : "群馬県渋川市渋川2573番地1",
          "location_area" : "渋川市",
+         "location_zipcode" : "377-0008",
          "owner_type" : "市立",
-         "short_name" : "渋川南小学校"
+         "short_name" : "渋川南小学校",
+         "sort_name" : "しふかわしりつしふかわみなみしよう",
+         "url" : "http://www.shibukawa-minami-e.ed.jp/"
       },
       "渋川市立渋川西小学校" : {
          "location_area" : "渋川市",
@@ -1246,7 +1324,11 @@
          "short_name" : "万場小学校"
       },
       "群馬大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "群馬県前橋市若宮町2-8-1",
+         "location_zipcode" : "371-0032",
+         "owner_type" : "国立",
+         "sort_name" : "くんまたいかくきよういくかくふふそくしよう",
+         "url" : "http://www.fuzoku-es.menet.ed.jp//"
       },
       "草津町立草津小学校" : {
          "location_area" : "吾妻郡草津町",
@@ -1256,7 +1338,8 @@
       "藤岡市立小野小学校" : {
          "location_area" : "藤岡市",
          "owner_type" : "市立",
-         "short_name" : "小野小学校"
+         "short_name" : "小野小学校",
+         "sort_name" : "ふしおかしりつおのしよう"
       },
       "藤岡市立平井小学校" : {
          "location_area" : "藤岡市",
@@ -1271,7 +1354,8 @@
       "藤岡市立神流小学校" : {
          "location_area" : "藤岡市",
          "owner_type" : "市立",
-         "short_name" : "神流小学校"
+         "short_name" : "神流小学校",
+         "sort_name" : "ふしおかしりつかんなしよう"
       },
       "藤岡市立美九里東小学校" : {
          "location_area" : "藤岡市",
@@ -1296,7 +1380,8 @@
       "藤岡市立藤岡第二小学校" : {
          "location_area" : "藤岡市",
          "owner_type" : "市立",
-         "short_name" : "藤岡第二小学校"
+         "short_name" : "藤岡第二小学校",
+         "sort_name" : "ふしおかしりつふしおかたい2しよう"
       },
       "藤岡市立鬼石北小学校" : {
          "location_area" : "藤岡市",
@@ -1361,7 +1446,8 @@
       "館林市立第三小学校" : {
          "location_area" : "館林市",
          "owner_type" : "市立",
-         "short_name" : "第三小学校"
+         "short_name" : "第三小学校",
+         "sort_name" : "たてはやししりつたい03しよう"
       },
       "館林市立第九小学校" : {
          "location_area" : "館林市",
@@ -1389,14 +1475,21 @@
          "short_name" : "第六小学校"
       },
       "館林市立第十小学校" : {
+         "location" : "群馬県館林市近藤町178-39",
          "location_area" : "館林市",
+         "location_zipcode" : "374-0042",
          "owner_type" : "市立",
-         "short_name" : "第十小学校"
+         "short_name" : "第十小学校",
+         "url" : "http://www.city.tatebayashi.gunma.jp/school/sho.daiju/"
       },
       "館林市立第四小学校" : {
+         "location" : "群馬県館林市大島町4355",
          "location_area" : "館林市",
+         "location_zipcode" : "374-0001",
          "owner_type" : "市立",
-         "short_name" : "第四小学校"
+         "short_name" : "第四小学校",
+         "sort_name" : "たてはやししりつたい04しよう",
+         "url" : "http://www.city.tatebayashi.gunma.jp/school/sho.daiyon/"
       },
       "館林市立美園小学校" : {
          "location_area" : "館林市",

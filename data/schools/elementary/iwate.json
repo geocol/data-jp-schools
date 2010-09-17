@@ -216,9 +216,12 @@
          "short_name" : "長坂小学校"
       },
       "一関市立門崎小学校" : {
+         "location" : "岩手県一関市川崎町門崎字宮畑5",
          "location_area" : "一関市",
+         "location_zipcode" : "029-0201",
          "owner_type" : "市立",
-         "short_name" : "門崎小学校"
+         "short_name" : "門崎小学校",
+         "sort_name" : "いちのせきしりつかんさきしよう"
       },
       "久慈市立久喜小学校" : {
          "location_area" : "久慈市",
@@ -231,9 +234,13 @@
          "short_name" : "久慈小学校"
       },
       "久慈市立久慈湊小学校" : {
+         "location" : "岩手県久慈市湊町第15地割10-1",
          "location_area" : "久慈市",
+         "location_zipcode" : "028-0011",
          "owner_type" : "市立",
-         "short_name" : "久慈湊小学校"
+         "short_name" : "久慈湊小学校",
+         "sort_name" : "くししりつくしみなとしよう",
+         "url" : "http://www.city.kuji.iwate.jp/school/kujiminato-sho/"
       },
       "久慈市立侍浜小学校" : {
          "location_area" : "久慈市",
@@ -358,7 +365,8 @@
       "二戸市立中央小学校" : {
          "location_area" : "二戸市",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "にのへしりつちゆうおう"
       },
       "二戸市立二戸西小学校" : {
          "location_area" : "二戸市",
@@ -383,7 +391,8 @@
       "二戸市立石切所小学校" : {
          "location_area" : "二戸市",
          "owner_type" : "市立",
-         "short_name" : "石切所小学校"
+         "short_name" : "石切所小学校",
+         "sort_name" : "にのへしりついしきりところ"
       },
       "二戸市立福岡小学校" : {
          "location_area" : "二戸市",
@@ -476,9 +485,12 @@
          "short_name" : "二子小学校"
       },
       "北上市立南小学校" : {
+         "location" : "岩手県北上市相去町葛西檀12-2",
          "location_area" : "北上市",
+         "location_zipcode" : "024-0051",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "きたかみしりつみなみしよう"
       },
       "北上市立口内小学校" : {
          "location_area" : "北上市",
@@ -546,9 +558,12 @@
          "short_name" : "黒沢尻北小学校"
       },
       "北上市立黒沢尻東小学校" : {
+         "location" : "岩手県北上市中野町1丁目8－1",
          "location_area" : "北上市",
+         "location_zipcode" : "〒024-0024",
          "owner_type" : "市立",
-         "short_name" : "黒沢尻東小学校"
+         "short_name" : "黒沢尻東小学校",
+         "sort_name" : "きたかみしりつひがししようがつこう"
       },
       "北上市立黒沢尻西小学校" : {
          "location_area" : "北上市",
@@ -566,9 +581,13 @@
          "short_name" : "大槌北小学校"
       },
       "大槌町立大槌小学校" : {
+         "location" : "岩手県上閉伊郡上閉伊郡大槌町上町1-3",
          "location_area" : "上閉伊郡大槌町",
+         "location_zipcode" : "028-1115",
          "owner_type" : "町立",
-         "short_name" : "大槌小学校"
+         "short_name" : "大槌小学校",
+         "sort_name" : "おおつちちようりつおおつちしようかつこう",
+         "url" : "http://www.town.otsuchi.iwate.jp/public_info/gakkou.html"
       },
       "大槌町立安渡小学校" : {
          "location_area" : "上閉伊郡大槌町",
@@ -1001,7 +1020,11 @@
          "short_name" : "轟木小学校"
       },
       "岩手大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "岩手県盛岡市加賀野二丁目6番1号",
+         "location_zipcode" : "020-0807",
+         "owner_type" : "国立",
+         "sort_name" : "いわてたいかくきよういくかくふふそくしよう",
+         "url" : "http://www.edu.iwate-u.ac.jp/fusho/"
       },
       "岩手町立一方井小学校" : {
          "location_area" : "岩手郡岩手町",
@@ -1304,9 +1327,13 @@
          "short_name" : "城北小学校"
       },
       "盛岡市立城南小学校" : {
+         "location" : "岩手県盛岡市若園町9番20号",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0886",
          "owner_type" : "市立",
-         "short_name" : "城南小学校"
+         "short_name" : "城南小学校",
+         "sort_name" : "もりおかしりつしようなんしよう",
+         "url" : "http://www.ictnet.ne.jp/~johnan.es/"
       },
       "盛岡市立外山小学校" : {
          "location_area" : "盛岡市",
@@ -1374,9 +1401,13 @@
          "short_name" : "本宮小学校"
       },
       "盛岡市立杜陵小学校" : {
+         "location" : "岩手県盛岡市肴町1-6",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0878",
          "owner_type" : "市立",
-         "short_name" : "杜陵小学校"
+         "short_name" : "杜陵小学校",
+         "sort_name" : "もりおかしりつとりようしよう",
+         "url" : "http://www.ictnet.ne.jp/~toryou.es/"
       },
       "盛岡市立東松園小学校" : {
          "location_area" : "盛岡市",
@@ -1627,9 +1658,13 @@
          "short_name" : "新堀小学校"
       },
       "花巻市立桜台小学校" : {
+         "location" : "岩手県花巻市下幅292番地",
          "location_area" : "花巻市",
+         "location_zipcode" : "025-0068",
          "owner_type" : "市立",
-         "short_name" : "桜台小学校"
+         "short_name" : "桜台小学校",
+         "sort_name" : "はなまきしりつさくらたいしよう",
+         "url" : "http://www.city.hanamaki.iwate.jp/sakurash/"
       },
       "花巻市立浮田小学校" : {
          "location_area" : "花巻市",
@@ -1774,7 +1809,8 @@
       "軽米町立晴山小学校" : {
          "location_area" : "九戸郡軽米町",
          "owner_type" : "町立",
-         "short_name" : "晴山小学校"
+         "short_name" : "晴山小学校",
+         "sort_name" : "かるまいちようりつはれやましよう"
       },
       "軽米町立笹渡小学校" : {
          "location_area" : "九戸郡軽米町",

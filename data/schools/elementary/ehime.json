@@ -28,7 +28,8 @@
       "久万高原町立久万小学校" : {
          "location_area" : "上浮穴郡久万高原町",
          "owner_type" : "町立",
-         "short_name" : "久万小学校"
+         "short_name" : "久万小学校",
+         "sort_name" : "くまこうけんちようりつくましようかつこう"
       },
       "久万高原町立仕七川小学校" : {
          "location_area" : "上浮穴郡久万高原町",
@@ -48,7 +49,8 @@
       "久万高原町立父二峰小学校" : {
          "location_area" : "上浮穴郡久万高原町",
          "owner_type" : "町立",
-         "short_name" : "父二峰小学校"
+         "short_name" : "父二峰小学校",
+         "sort_name" : "くまこうけんちようりつふしみね"
       },
       "久万高原町立畑野川小学校" : {
          "location_area" : "上浮穴郡久万高原町",
@@ -96,14 +98,20 @@
          "short_name" : "九和小学校"
       },
       "今治市立亀岡小学校" : {
+         "location" : "愛媛県今治市菊間町種52",
          "location_area" : "今治市",
+         "location_wikipedia_latlon" : "|34|03|17|N|132|52|22|E|",
+         "location_zipcode" : "799-2302",
          "owner_type" : "市立",
-         "short_name" : "亀岡小学校"
+         "short_name" : "亀岡小学校",
+         "sort_name" : "いまはりしりつかめおかしようかつこう",
+         "url" : "http://kameoka-e.esnet.ed.jp/"
       },
       "今治市立今治小学校" : {
          "location_area" : "今治市",
          "owner_type" : "市立",
-         "short_name" : "今治小学校"
+         "short_name" : "今治小学校",
+         "sort_name" : "いまはりしりついまはりしようかつこう"
       },
       "今治市立伯方小学校" : {
          "location_area" : "今治市",
@@ -136,9 +144,14 @@
          "short_name" : "大三島小学校"
       },
       "今治市立大西小学校" : {
+         "location" : "愛媛県今治市大西町大井浜103",
          "location_area" : "今治市",
+         "location_wikipedia_latlon" : "|34|03|50|N|132|55|23|E|",
+         "location_zipcode" : "799-2204",
          "owner_type" : "市立",
-         "short_name" : "大西小学校"
+         "short_name" : "大西小学校",
+         "sort_name" : "いまはりしりつおおにししようかつこう",
+         "url" : "http://ohnishi-e.esnet.ed.jp/"
       },
       "今治市立宮窪小学校" : {
          "location_area" : "今治市",
@@ -151,9 +164,13 @@
          "short_name" : "富田小学校"
       },
       "今治市立岡村小学校" : {
+         "location" : "愛媛県今治市関前村岡村甲415番地",
          "location_area" : "今治市",
+         "location_zipcode" : "794-1101",
          "owner_type" : "市立",
-         "short_name" : "岡村小学校"
+         "short_name" : "岡村小学校",
+         "sort_name" : "いまはりしりつおかむらしようかつこう",
+         "url" : "http://okamura-e.esnet.ed.jp/"
       },
       "今治市立常盤小学校" : {
          "location_area" : "今治市",
@@ -191,9 +208,14 @@
          "short_name" : "清水小学校"
       },
       "今治市立立花小学校" : {
+         "location" : "愛媛県今治市立花町4丁目3-45",
          "location_area" : "今治市",
+         "location_wikipedia_latlon" : "|34|02|52|N|133|00|07|E|",
+         "location_zipcode" : "794-0821",
          "owner_type" : "市立",
-         "short_name" : "立花小学校"
+         "short_name" : "立花小学校",
+         "sort_name" : "いまはりしりつたちはなしようかつこう",
+         "url" : "http://imabari-tachibana-e.esnet.ed.jp/"
       },
       "今治市立美須賀小学校" : {
          "location_area" : "今治市",
@@ -256,9 +278,12 @@
          "short_name" : "由並小学校"
       },
       "伊予市立翠小学校" : {
+         "location" : "愛媛県伊予市双海町上灘甲452番地1",
          "location_area" : "伊予市",
+         "location_zipcode" : "799-3202",
          "owner_type" : "市立",
-         "short_name" : "翠小学校"
+         "short_name" : "翠小学校",
+         "sort_name" : "いよしりつみとりしようかつこう"
       },
       "伊予市立郡中小学校" : {
          "location_area" : "伊予市",
@@ -346,9 +371,12 @@
          "short_name" : "川之石小学校"
       },
       "八幡浜市立日土小学校" : {
+         "location" : "愛媛県八幡浜市日土町2番耕地851",
          "location_area" : "八幡浜市",
+         "location_zipcode" : "796-0170",
          "owner_type" : "市立",
-         "short_name" : "日土小学校"
+         "short_name" : "日土小学校",
+         "sort_name" : "やわたはましりつひつちしよう"
       },
       "八幡浜市立日土東小学校" : {
          "location_area" : "八幡浜市",
@@ -591,9 +619,14 @@
          "short_name" : "大成小学校"
       },
       "大洲市立大洲小学校" : {
+         "location" : "愛媛県大洲市大洲711",
          "location_area" : "大洲市",
+         "location_wikipedia_latlon" : "|33|30|25|N|132|32|32|E|",
+         "location_zipcode" : "795-0012",
          "owner_type" : "市立",
-         "short_name" : "大洲小学校"
+         "short_name" : "大洲小学校",
+         "sort_name" : "おおすしりつおおすしようかつこう",
+         "url" : "http://ehm-ohzu-e.esnet.ed.jp/xoops/"
       },
       "大洲市立大谷小学校" : {
          "location_area" : "大洲市",
@@ -606,9 +639,14 @@
          "short_name" : "平小学校"
       },
       "大洲市立平野小学校" : {
+         "location" : "愛媛県大洲市平野町平地47",
          "location_area" : "大洲市",
+         "location_wikipedia_latlon" : "|33|29|52|N|132|30|58|E|",
+         "location_zipcode" : "795-0022",
          "owner_type" : "市立",
-         "short_name" : "平野小学校"
+         "short_name" : "平野小学校",
+         "sort_name" : "おおすしりつひらのしようかつこう",
+         "url" : "http://hirano-e.esnet.ed.jp/"
       },
       "大洲市立戒川小学校" : {
          "location_area" : "大洲市",
@@ -786,9 +824,12 @@
          "short_name" : "日振島小学校"
       },
       "宇和島市立明倫小学校" : {
+         "location" : "愛媛県宇和島市文京町4-1",
          "location_area" : "宇和島市",
+         "location_zipcode" : "798-0066",
          "owner_type" : "市立",
-         "short_name" : "明倫小学校"
+         "short_name" : "明倫小学校",
+         "url" : "http://uwajima-meirin-e.esnet.ed.jp/html/"
       },
       "宇和島市立曽根小学校" : {
          "location_area" : "宇和島市",
@@ -906,9 +947,13 @@
          "short_name" : "家串小学校"
       },
       "愛南町立平城小学校" : {
+         "location" : "愛媛県南宇和郡愛南町御荘平城2332",
          "location_area" : "南宇和郡愛南町",
+         "location_zipcode" : "789-4110",
          "owner_type" : "町立",
-         "short_name" : "平城小学校"
+         "short_name" : "平城小学校",
+         "sort_name" : "あいなんちようりつひらしよう",
+         "url" : "http://hirajo-e.esnet.ed.jp/"
       },
       "愛南町立東海小学校" : {
          "location_area" : "南宇和郡愛南町",
@@ -961,7 +1006,8 @@
          "short_name" : "長月小学校"
       },
       "愛媛大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "えひめたいかくきよういくかくふふそくしよう"
       },
       "新居浜市立中萩小学校" : {
          "location_area" : "新居浜市",
@@ -984,9 +1030,13 @@
          "short_name" : "大島小学校"
       },
       "新居浜市立大生院小学校" : {
+         "location" : "愛媛県新居浜市大生院1070番地1",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0060",
          "owner_type" : "市立",
-         "short_name" : "大生院小学校"
+         "short_name" : "大生院小学校",
+         "sort_name" : "にいはましりつおおしよういんしようかつこう",
+         "url" : "http://es.hearts.ne.jp/users/oojyouin/"
       },
       "新居浜市立宮西小学校" : {
          "location_area" : "新居浜市",
@@ -1004,9 +1054,13 @@
          "short_name" : "新居浜小学校"
       },
       "新居浜市立泉川小学校" : {
+         "location" : "新居浜市岸の上1-13-68",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0815",
          "owner_type" : "市立",
-         "short_name" : "泉川小学校"
+         "short_name" : "泉川小学校",
+         "sort_name" : "にいはましりついすみかわしようかつこう",
+         "url" : "http://es.hearts.ne.jp/users/izumigawa/"
       },
       "新居浜市立浮島小学校" : {
          "location_area" : "新居浜市",
@@ -1089,9 +1143,12 @@
          "short_name" : "北伊予小学校"
       },
       "松前町立岡田小学校" : {
+         "location" : "愛媛県伊予郡松前町西高柳156",
          "location_area" : "伊予郡松前町",
+         "location_zipcode" : "791-3132",
          "owner_type" : "町立",
-         "short_name" : "岡田小学校"
+         "short_name" : "岡田小学校",
+         "sort_name" : "まさきちようりつおかたしようかつこう"
       },
       "松前町立松前小学校" : {
          "location_area" : "伊予郡松前町",
@@ -1114,9 +1171,14 @@
          "short_name" : "みどり小学校"
       },
       "松山市立三津浜小学校" : {
+         "location" : "愛媛県松山市梅田町2-42",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|51|36|N|132|42|53|E|",
+         "location_zipcode" : "791-8051",
          "owner_type" : "市立",
-         "short_name" : "三津浜小学校"
+         "short_name" : "三津浜小学校",
+         "sort_name" : "まつやましりつみつはましようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.mitsu/index.html"
       },
       "松山市立中島小学校" : {
          "location_area" : "松山市",
@@ -1154,14 +1216,24 @@
          "short_name" : "八坂小学校"
       },
       "松山市立北久米小学校" : {
+         "location" : "愛媛県松山市福音寺町9",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|49|14|N|132|47|53|E|",
+         "location_zipcode" : "790-0921",
          "owner_type" : "市立",
-         "short_name" : "北久米小学校"
+         "short_name" : "北久米小学校",
+         "sort_name" : "まつやましりつきたくめしようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.kitaku/"
       },
       "松山市立北条小学校" : {
+         "location" : "愛媛県松山市北条辻64番地",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|58|31|N|132|46|44|E|",
+         "location_zipcode" : "799-2430",
          "owner_type" : "市立",
-         "short_name" : "北条小学校"
+         "short_name" : "北条小学校",
+         "sort_name" : "まつやましりつほうしようしようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s-houjo/"
       },
       "松山市立双葉小学校" : {
          "location_area" : "松山市",
@@ -1204,14 +1276,19 @@
          "short_name" : "堀江小学校"
       },
       "松山市立姫山小学校" : {
+         "location" : "愛媛県松山市山越3-800",
          "location_area" : "松山市",
+         "location_zipcode" : "791-8013",
          "owner_type" : "市立",
-         "short_name" : "姫山小学校"
+         "short_name" : "姫山小学校",
+         "sort_name" : "まつやましりつひめやましようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.hime"
       },
       "松山市立宮前小学校" : {
          "location_area" : "松山市",
          "owner_type" : "市立",
-         "short_name" : "宮前小学校"
+         "short_name" : "宮前小学校",
+         "sort_name" : "まつやましりつみやまえ"
       },
       "松山市立小野小学校" : {
          "location_area" : "松山市",
@@ -1224,9 +1301,13 @@
          "short_name" : "怒和小学校"
       },
       "松山市立新玉小学校" : {
+         "location" : "愛媛県松山市千舟町八丁目89",
          "location_area" : "松山市",
+         "location_zipcode" : "790-0011",
          "owner_type" : "市立",
-         "short_name" : "新玉小学校"
+         "short_name" : "新玉小学校",
+         "sort_name" : "まつやましりつあらたましようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.aratam/index/"
       },
       "松山市立東雲小学校" : {
          "location_area" : "松山市",
@@ -1276,7 +1357,8 @@
       "松山市立湯山小学校" : {
          "location_area" : "松山市",
          "owner_type" : "市立",
-         "short_name" : "湯山小学校"
+         "short_name" : "湯山小学校",
+         "sort_name" : "まつやましりつゆつきしようかつこう"
       },
       "松山市立湯築小学校" : {
          "location_area" : "松山市",
@@ -1314,9 +1396,14 @@
          "short_name" : "石井東小学校"
       },
       "松山市立福音小学校" : {
+         "location" : "愛媛県松山市福音寺町355-1",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|49|17|N|132|47|26|E|",
+         "location_zipcode" : "790-0921",
          "owner_type" : "市立",
-         "short_name" : "福音小学校"
+         "short_name" : "福音小学校",
+         "sort_name" : "まつやましりつふくおんしようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.fukuon/"
       },
       "松山市立窪田小学校" : {
          "location_area" : "松山市",
@@ -1334,9 +1421,12 @@
          "short_name" : "粟井小学校"
       },
       "松山市立素鵞小学校" : {
+         "location" : "松山市小坂1丁目4番48号",
          "location_area" : "松山市",
+         "location_zipcode" : "790-0963",
          "owner_type" : "市立",
-         "short_name" : "素鵞小学校"
+         "short_name" : "素鵞小学校",
+         "sort_name" : "まつやましりつそかしようかつこう"
       },
       "松山市立興居島小学校" : {
          "location_area" : "松山市",
@@ -1364,9 +1454,14 @@
          "short_name" : "難波小学校"
       },
       "松山市立高浜小学校" : {
+         "location" : "愛媛県松山市梅津寺町1352-2",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|52|34|N|132|42|30|E|",
+         "location_zipcode" : "791-8082",
          "owner_type" : "市立",
-         "short_name" : "高浜小学校"
+         "short_name" : "高浜小学校",
+         "sort_name" : "まつやましりつたかはましようかつこう",
+         "url" : "http://www.matsuyama-edu.ed.jp/~s.takaha/"
       },
       "松野町立松野南小学校" : {
          "location_area" : "北宇和郡松野町",
@@ -1659,9 +1754,13 @@
          "short_name" : "禎瑞小学校"
       },
       "西条市立西条小学校" : {
+         "location" : "愛媛県西条市神拝乙112番地",
          "location_area" : "西条市",
+         "location_zipcode" : "793-0021",
          "owner_type" : "市立",
-         "short_name" : "西条小学校"
+         "short_name" : "西条小学校",
+         "sort_name" : "さいしようしりつさいしよう",
+         "url" : "http://ehm-saijo-e.esnet.ed.jp/"
       },
       "西条市立飯岡小学校" : {
          "location_area" : "西条市",
@@ -1698,9 +1797,14 @@
          "short_name" : "泉小学校"
       },
       "鬼北町立近永小学校" : {
+         "location" : "愛媛県北宇和郡鬼北町大字奈良3774",
          "location_area" : "北宇和郡鬼北町",
+         "location_wikipedia_latlon" : "|33|15|03|N|132|40|20|E|",
+         "location_zipcode" : "798-1351",
          "owner_type" : "町立",
-         "short_name" : "近永小学校"
+         "short_name" : "近永小学校",
+         "sort_name" : "きほくちようりつちかなかしようかつこう",
+         "url" : "http://chikanaga-e.esnet.ed.jp/"
       }
    },
    "primary_and_secondary_schools" : {

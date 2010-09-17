@@ -326,14 +326,20 @@
          "short_name" : "下吉田東小学校"
       },
       "富士吉田市立下吉田第一小学校" : {
+         "location" : "山梨県富士吉田市下吉田5222",
          "location_area" : "富士吉田市",
+         "location_wikipedia_latlon" : "|35|29|44|N|138|48|09|E|",
+         "location_zipcode" : "403-0004",
          "owner_type" : "市立",
-         "short_name" : "下吉田第一小学校"
+         "short_name" : "下吉田第一小学校",
+         "sort_name" : "ふしよしたしりつしもよしたたい1しよう"
       },
       "富士吉田市立下吉田第二小学校" : {
          "location_area" : "富士吉田市",
+         "location_wikipedia_latlon" : "|35|29|39|N|138|47|39|E|",
          "owner_type" : "市立",
-         "short_name" : "下吉田第二小学校"
+         "short_name" : "下吉田第二小学校",
+         "sort_name" : "ふしよしたしりつしもよしたたい2しよう"
       },
       "富士吉田市立吉田小学校" : {
          "location_area" : "富士吉田市",
@@ -416,9 +422,13 @@
          "short_name" : "精進小学校"
       },
       "富士河口湖町立船津小学校" : {
+         "location" : "山梨県南都留郡富士河口湖町船津3737",
          "location_area" : "南都留郡富士河口湖町",
+         "location_wikipedia_latlon" : "|35|30|00|N|138|46|04|E|",
+         "location_zipcode" : "401-0301",
          "owner_type" : "町立",
-         "short_name" : "船津小学校"
+         "short_name" : "船津小学校",
+         "sort_name" : "ふしかわくちこちようりつふなつしよう"
       },
       "富士河口湖町立西浜小学校" : {
          "location_area" : "南都留郡富士河口湖町",
@@ -442,10 +452,16 @@
       },
       "山梨大学教育人間科学部附属小学校" : {
          "owner_type" : "国立",
+         "sort_name" : "やまなしたいかくきよういくにんけんかかくふふそく",
          "wikipedia_name" : "山梨大学教育人間科学部附属小学校・中学校"
       },
       "山梨学院大学附属小学校" : {
-         "owner_type" : "私立"
+         "location" : "山梨県甲府市酒折1-11-1",
+         "location_wikipedia_latlon" : "|35|39|25.0|N|138|35|58.6|E|",
+         "location_zipcode" : "400-0805",
+         "owner_type" : "私立",
+         "sort_name" : "やまなしかくいんたいかくふそくしようかつこう",
+         "url" : "http://www.yges.ed.jp/"
       },
       "山梨市立三富小学校" : {
          "location_area" : "山梨市",
@@ -645,7 +661,8 @@
       "甲府市立伊勢小学校" : {
          "location_area" : "甲府市",
          "owner_type" : "市立",
-         "short_name" : "伊勢小学校"
+         "short_name" : "伊勢小学校",
+         "sort_name" : "こうふしりついせ"
       },
       "甲府市立北新小学校" : {
          "location_area" : "甲府市",
@@ -658,9 +675,13 @@
          "short_name" : "千代田小学校"
       },
       "甲府市立千塚小学校" : {
+         "location" : "山梨県甲府市千塚1-2-16",
          "location_area" : "甲府市",
+         "location_zipcode" : "400-0074",
          "owner_type" : "市立",
-         "short_name" : "千塚小学校"
+         "short_name" : "千塚小学校",
+         "sort_name" : "こうふしりつちつかしよう",
+         "url" : "http://www.chizuka-e.kofu-ymn.ed.jp/"
       },
       "甲府市立国母小学校" : {
          "location_area" : "甲府市",
@@ -678,9 +699,12 @@
          "short_name" : "大里小学校"
       },
       "甲府市立富士川小学校" : {
+         "location" : "山梨県甲府市中央三丁目3番1号",
          "location_area" : "甲府市",
+         "location_zipcode" : "400-0032",
          "owner_type" : "市立",
-         "short_name" : "富士川小学校"
+         "short_name" : "富士川小学校",
+         "url" : "http://www.fujikawa-e.kofu-ymn.ed.jp/"
       },
       "甲府市立山城小学校" : {
          "location_area" : "甲府市",
@@ -693,9 +717,13 @@
          "short_name" : "新田小学校"
       },
       "甲府市立新紺屋小学校" : {
+         "location" : "山梨県甲府市武田1-3-34",
          "location_area" : "甲府市",
+         "location_zipcode" : "400-0016",
          "owner_type" : "市立",
-         "short_name" : "新紺屋小学校"
+         "short_name" : "新紺屋小学校",
+         "sort_name" : "こうふしりつしんこんやしよう",
+         "url" : "http://www.shinkonya-e.kofu-ymn.ed.jp/"
       },
       "甲府市立朝日小学校" : {
          "location_area" : "甲府市",
@@ -708,9 +736,13 @@
          "short_name" : "東小学校"
       },
       "甲府市立池田小学校" : {
+         "location" : "山梨県甲府市長松寺町7-1",
          "location_area" : "甲府市",
+         "location_zipcode" : "400-0067",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "こうふしりついけた",
+         "url" : "http://www.ikeda-e.kofu-ymn.ed.jp/"
       },
       "甲府市立湯田小学校" : {
          "location_area" : "甲府市",
@@ -733,9 +765,13 @@
          "short_name" : "甲運小学校"
       },
       "甲府市立相川小学校" : {
+         "location" : "山梨県甲府市古府中町1501",
          "location_area" : "甲府市",
+         "location_zipcode" : "400-0014",
          "owner_type" : "市立",
-         "short_name" : "相川小学校"
+         "short_name" : "相川小学校",
+         "sort_name" : "こうふしりつあいかわしよう",
+         "url" : "http://www.aikawa-e.kofu-ymn.ed.jp/"
       },
       "甲府市立石田小学校" : {
          "location_area" : "甲府市",
@@ -978,8 +1014,13 @@
          "short_name" : "谷村第二小学校"
       },
       "都留文科大学附属小学校" : {
+         "location" : "山梨県都留市大野396番地",
          "location_area" : "都留市",
-         "owner_type" : "公立"
+         "location_wikipedia_latlon" : "|35|31|43.06|N|138|55|15.77|E|",
+         "location_zipcode" : "402-0023",
+         "owner_type" : "公立",
+         "sort_name" : "つるふんかたいかくふそくしよう",
+         "url" : "http://school.tsuru.jp:8081/fuzoku"
       },
       "韮崎市立甘利小学校" : {
          "location_area" : "韮崎市",

@@ -84,9 +84,13 @@
          "short_name" : "高屋小学校"
       },
       "倉敷市立万寿小学校" : {
+         "location" : "岡山県倉敷市浜町2丁目3番1号",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0062",
          "owner_type" : "市立",
-         "short_name" : "万寿小学校"
+         "short_name" : "万寿小学校",
+         "sort_name" : "くらしきしりつますしようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/masu-e/"
       },
       "倉敷市立万寿東小学校" : {
          "location_area" : "倉敷市",
@@ -121,7 +125,8 @@
       "倉敷市立中洲小学校" : {
          "location_area" : "倉敷市",
          "owner_type" : "市立",
-         "short_name" : "中洲小学校"
+         "short_name" : "中洲小学校",
+         "sort_name" : "くらしきしりつなかすしようかつこう"
       },
       "倉敷市立乙島小学校" : {
          "location_area" : "倉敷市",
@@ -144,19 +149,33 @@
          "short_name" : "倉敷東小学校"
       },
       "倉敷市立倉敷西小学校" : {
+         "location" : "岡山県倉敷市中央1丁目21番1号",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|35|29.9|N|133|46|16.2|E|",
+         "location_zipcode" : "710-0046",
          "owner_type" : "市立",
-         "short_name" : "倉敷西小学校"
+         "short_name" : "倉敷西小学校",
+         "sort_name" : "くらしきしりつくらしきにししようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/kuranishi-e/index.htm"
       },
       "倉敷市立児島小学校" : {
+         "location" : "岡山県倉敷市児島柳田町851",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|29|23|N|133|47|59|E|",
+         "location_zipcode" : "711-0936",
          "owner_type" : "市立",
-         "short_name" : "児島小学校"
+         "short_name" : "児島小学校",
+         "sort_name" : "くらしきしりつこしましようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/kojima-e/"
       },
       "倉敷市立南浦小学校" : {
+         "location" : "倉敷市玉島黒崎8402",
          "location_area" : "倉敷市",
+         "location_zipcode" : "713-8126",
          "owner_type" : "市立",
-         "short_name" : "南浦小学校"
+         "short_name" : "南浦小学校",
+         "sort_name" : "くらしきしりつなんほしようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/nanpo-e/"
       },
       "倉敷市立呉妹小学校" : {
          "location_area" : "倉敷市",
@@ -249,14 +268,24 @@
          "short_name" : "琴浦北小学校"
       },
       "倉敷市立琴浦南小学校" : {
+         "location" : "岡山県倉敷市児島下の町2丁目16番17号",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|28|12|N|133|49|21|E|",
+         "location_zipcode" : "711-0906",
          "owner_type" : "市立",
-         "short_name" : "琴浦南小学校"
+         "short_name" : "琴浦南小学校",
+         "sort_name" : "くらしきしりつことうらみなみしようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/kotominami-e/"
       },
       "倉敷市立琴浦東小学校" : {
+         "location" : "岡山県倉敷市児島田の口3丁目13-1",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|28|28|N|133|50|40|E|",
+         "location_zipcode" : "711-0903",
          "owner_type" : "市立",
-         "short_name" : "琴浦東小学校"
+         "short_name" : "琴浦東小学校",
+         "sort_name" : "くらしきしりつことうらひかししようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/kotohigashi-e/"
       },
       "倉敷市立琴浦西小学校" : {
          "location_area" : "倉敷市",
@@ -309,9 +338,13 @@
          "short_name" : "緑丘小学校"
       },
       "倉敷市立老松小学校" : {
+         "location" : "岡山県倉敷市老松町4丁目10番1号",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0826",
          "owner_type" : "市立",
-         "short_name" : "老松小学校"
+         "short_name" : "老松小学校",
+         "sort_name" : "くらしきしりつおいまつしようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/oimatu-e//"
       },
       "倉敷市立船穂小学校" : {
          "location_area" : "倉敷市",
@@ -349,9 +382,14 @@
          "short_name" : "豊洲小学校"
       },
       "倉敷市立赤崎小学校" : {
+         "location" : "岡山県倉敷市児島赤崎2丁目1番59号",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|27|21|N|133|47|58|E|",
+         "location_zipcode" : "711-0931",
          "owner_type" : "市立",
-         "short_name" : "赤崎小学校"
+         "short_name" : "赤崎小学校",
+         "sort_name" : "くらしきしりつあかさきしようかつこう",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/akasaki-e/"
       },
       "倉敷市立連島北小学校" : {
          "location_area" : "倉敷市",
@@ -557,6 +595,7 @@
       },
       "岡山大学教育学部附属小学校" : {
          "owner_type" : "国立",
+         "sort_name" : "おかやまたいかくきよういくかくふふそく",
          "wikipedia_name" : "岡山大学教育学部附属小学校・中学校"
       },
       "岡山市立七区小学校" : {
@@ -595,9 +634,13 @@
          "short_name" : "加茂小学校"
       },
       "岡山市立千種小学校" : {
+         "location" : "岡山県岡山市東区瀬戸町鍛冶屋391番地",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "709-0845",
          "owner_type" : "市立",
-         "short_name" : "千種小学校"
+         "short_name" : "千種小学校",
+         "sort_name" : "おかやましりつちくさしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~chikusas/"
       },
       "岡山市立南輝小学校" : {
          "location_area" : "岡山市南区",
@@ -640,9 +683,13 @@
          "short_name" : "大宮小学校"
       },
       "岡山市立大野小学校" : {
+         "location" : "岡山県岡山市北区大安寺南町二丁目8番36号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0064",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "おかやましりつおおのしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~oonos/"
       },
       "岡山市立太伯小学校" : {
          "location_area" : "岡山市東区",
@@ -675,9 +722,13 @@
          "short_name" : "岡南小学校"
       },
       "岡山市立岡山中央小学校" : {
+         "location" : "岡山県岡山市北区弓之町9番27号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0817",
          "owner_type" : "市立",
-         "short_name" : "岡山中央小学校"
+         "short_name" : "岡山中央小学校",
+         "sort_name" : "おかやましりつおかやまちゆうおうしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~chuos/"
       },
       "岡山市立幡多小学校" : {
          "location_area" : "岡山市中区",
@@ -755,9 +806,13 @@
          "short_name" : "操南小学校"
       },
       "岡山市立操明小学校" : {
+         "location" : "岡山県岡山市中区藤崎721-3",
          "location_area" : "岡山市中区",
+         "location_zipcode" : "702-8006",
          "owner_type" : "市立",
-         "short_name" : "操明小学校"
+         "short_name" : "操明小学校",
+         "sort_name" : "おかやましりつそうめいしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~someis/"
       },
       "岡山市立政田小学校" : {
          "location_area" : "岡山市東区",
@@ -770,9 +825,13 @@
          "short_name" : "旭操小学校"
       },
       "岡山市立旭東小学校" : {
+         "location" : "岡山県岡山市中区門田屋敷本町1-17",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "703-8267",
          "owner_type" : "市立",
-         "short_name" : "旭東小学校"
+         "short_name" : "旭東小学校",
+         "sort_name" : "おかやましりつきよくとうしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~kyokutos/"
       },
       "岡山市立旭竜小学校" : {
          "location_area" : "岡山市中区",
@@ -795,9 +854,13 @@
          "short_name" : "東疇小学校"
       },
       "岡山市立桃丘小学校" : {
+         "location" : "岡山県岡山市北区芳賀5111番地の22",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-1221",
          "owner_type" : "市立",
-         "short_name" : "桃丘小学校"
+         "short_name" : "桃丘小学校",
+         "sort_name" : "おかやましりつももおかしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~momos/"
       },
       "岡山市立横井小学校" : {
          "location_area" : "岡山市北区",
@@ -805,14 +868,21 @@
          "short_name" : "横井小学校"
       },
       "岡山市立江西小学校" : {
+         "location" : "岡山県岡山市東区瀬戸町江尻1399-2",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "709-0854",
          "owner_type" : "市立",
-         "short_name" : "江西小学校"
+         "short_name" : "江西小学校",
+         "sort_name" : "おかやましりつこうさいしようかつこう"
       },
       "岡山市立津島小学校" : {
+         "location" : "岡山県岡山市北区津島本町19番1号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0089",
          "owner_type" : "市立",
-         "short_name" : "津島小学校"
+         "short_name" : "津島小学校",
+         "sort_name" : "おかやましりつつしましようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~tsushimas/"
       },
       "岡山市立浦安小学校" : {
          "location_area" : "岡山市南区",
@@ -840,9 +910,13 @@
          "short_name" : "灘崎小学校迫川分校"
       },
       "岡山市立牧石小学校" : {
+         "location" : "岡山県岡山市北区玉柏2108番地",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-2142",
          "owner_type" : "市立",
-         "short_name" : "牧石小学校"
+         "short_name" : "牧石小学校",
+         "sort_name" : "おかやましりつまきいししようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~makiisis/"
       },
       "岡山市立甲浦小学校" : {
          "location_area" : "岡山市南区",
@@ -860,9 +934,13 @@
          "short_name" : "福島小学校"
       },
       "岡山市立福浜小学校" : {
+         "location" : "岡山県岡山市南区福富東一丁目1番1号",
          "location_area" : "岡山市南区",
+         "location_zipcode" : "702-8033",
          "owner_type" : "市立",
-         "short_name" : "福浜小学校"
+         "short_name" : "福浜小学校",
+         "sort_name" : "おかやましりつふくはましようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~fukuhamas/index.htm"
       },
       "岡山市立福渡小学校" : {
          "location_area" : "岡山市北区",
@@ -885,9 +963,13 @@
          "short_name" : "竜之口小学校"
       },
       "岡山市立竹枝小学校" : {
+         "location" : "岡山県岡山市北区建部町吉田1504",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "709-3122",
          "owner_type" : "市立",
-         "short_name" : "竹枝小学校"
+         "short_name" : "竹枝小学校",
+         "sort_name" : "おかやましりたけえたしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~takeedas/"
       },
       "岡山市立第一藤田小学校" : {
          "location_area" : "岡山市南区",
@@ -945,9 +1027,13 @@
          "short_name" : "西大寺南小学校"
       },
       "岡山市立西大寺小学校" : {
+         "location" : "岡山県岡山市東区西大寺上一丁目19-21",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "704-8112",
          "owner_type" : "市立",
-         "short_name" : "西大寺小学校"
+         "short_name" : "西大寺小学校",
+         "sort_name" : "おかやましりつさいたいししようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~saidaijis/"
       },
       "岡山市立西小学校" : {
          "location_area" : "岡山市北区",
@@ -995,9 +1081,13 @@
          "short_name" : "雄神小学校"
       },
       "岡山市立馬屋上小学校" : {
+         "location" : "岡山県岡山市北区富吉2944番地2",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-1133",
          "owner_type" : "市立",
-         "short_name" : "馬屋上小学校"
+         "short_name" : "馬屋上小学校",
+         "sort_name" : "おかやましりつまやかみしようかつこう",
+         "url" : "http://www.city-okayama.ed.jp/~mayakamis/"
       },
       "岡山市立馬屋下小学校" : {
          "location_area" : "岡山市北区",
@@ -1060,9 +1150,12 @@
          "short_name" : "塩城小学校"
       },
       "新見市立思誠小学校" : {
+         "location" : "岡山県新見市新見1970番地の1",
          "location_area" : "新見市",
+         "location_zipcode" : "718-0011",
          "owner_type" : "市立",
-         "short_name" : "思誠小学校"
+         "short_name" : "思誠小学校",
+         "url" : "http://www.ed-niimi.niimi-p.jp/shisei-s/index.htm"
       },
       "新見市立明新小学校" : {
          "location_area" : "新見市",
@@ -1110,7 +1203,11 @@
          "short_name" : "早島小学校"
       },
       "朝日塾小学校" : {
-         "owner_type" : "私立"
+         "location" : "岡山県岡山市北区吉宗856",
+         "location_zipcode" : "701-1143",
+         "owner_type" : "私立",
+         "sort_name" : "あさひしゆくしようかつこう",
+         "url" : "http://www.asahijuku.ac.jp/elem.html"
       },
       "津山市立一宮小学校" : {
          "location_area" : "津山市",
@@ -1158,9 +1255,13 @@
          "short_name" : "喬松小学校"
       },
       "津山市立大崎小学校" : {
+         "location" : "岡山県津山市金井76番地",
          "location_area" : "津山市",
+         "location_zipcode" : "708-0855",
          "owner_type" : "市立",
-         "short_name" : "大崎小学校"
+         "short_name" : "大崎小学校",
+         "sort_name" : "つやましりつおおさきしようかつこう",
+         "url" : "http://www.city.tsuyama.lg.jp/index.cfm/21,18557,141,435,html"
       },
       "津山市立広戸小学校" : {
          "location_area" : "津山市",
@@ -1348,9 +1449,13 @@
          "short_name" : "大崎小学校"
       },
       "玉野市立宇野小学校" : {
+         "location" : "岡山県玉野市宇野2丁目23番1号",
          "location_area" : "玉野市",
+         "location_zipcode" : "706-0011",
          "owner_type" : "市立",
-         "short_name" : "宇野小学校"
+         "short_name" : "宇野小学校",
+         "sort_name" : "たまのしりつうのしようかつこう",
+         "url" : "http://www.ednet.tamano.okayama.jp/ps-uno//"
       },
       "玉野市立山田小学校" : {
          "location_area" : "玉野市",
@@ -1403,9 +1508,13 @@
          "short_name" : "胸上小学校石島分校"
       },
       "玉野市立荘内小学校" : {
+         "location" : "岡山県玉野市木目498番地",
          "location_area" : "玉野市",
+         "location_zipcode" : "706-0143",
          "owner_type" : "市立",
-         "short_name" : "荘内小学校"
+         "short_name" : "荘内小学校",
+         "sort_name" : "たまのしりつしようないしようかつこう",
+         "url" : "http://www.ednet.tamano.okayama.jp/ps-shonai/"
       },
       "玉野市立鉾立小学校" : {
          "location_area" : "玉野市",
@@ -1548,9 +1657,13 @@
          "short_name" : "落合小学校"
       },
       "真庭市立遷喬小学校" : {
+         "location" : "岡山県真庭市久世100番地",
          "location_area" : "真庭市",
+         "location_wikipedia_latlon" : "|35|4|57|N|133|45|2|E|region:JP",
+         "location_zipcode" : "719-3201",
          "owner_type" : "市立",
-         "short_name" : "遷喬小学校"
+         "short_name" : "遷喬小学校",
+         "url" : "http://med.city.maniwa.okayama.jp/es/es-senkyo/"
       },
       "真庭市立阿口小学校" : {
          "location_area" : "真庭市",
@@ -1690,7 +1803,8 @@
       "総社市立山手小学校" : {
          "location_area" : "総社市",
          "owner_type" : "市立",
-         "short_name" : "山手小学校"
+         "short_name" : "山手小学校",
+         "sort_name" : "そうしやしりつやまてしようかつこう"
       },
       "総社市立常盤小学校" : {
          "location_area" : "総社市",
@@ -1708,9 +1822,12 @@
          "short_name" : "昭和小学校"
       },
       "総社市立池田小学校" : {
+         "location" : "岡山県総社市見延699",
          "location_area" : "総社市",
+         "location_zipcode" : "719-1152",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "そうしやしりついけたしようかつこう"
       },
       "総社市立清音小学校" : {
          "location_area" : "総社市",
@@ -1745,7 +1862,8 @@
       "総社市立総社小学校" : {
          "location_area" : "総社市",
          "owner_type" : "市立",
-         "short_name" : "総社小学校"
+         "short_name" : "総社小学校",
+         "sort_name" : "そうしやしりつそうしやしようかつこう"
       },
       "総社市立総社東小学校" : {
          "location_area" : "総社市",
@@ -1778,9 +1896,14 @@
          "short_name" : "土居小学校"
       },
       "美作市立大原小学校" : {
+         "location" : "岡山県美作市古町1665番地",
          "location_area" : "美作市",
+         "location_wikipedia_latlon" : "|35|07|16|N|134|19|37|E|",
+         "location_zipcode" : "707-0417",
          "owner_type" : "市立",
-         "short_name" : "大原小学校"
+         "short_name" : "大原小学校",
+         "sort_name" : "みまさかしりつおおはらしようかつこう",
+         "url" : "http://www.mimasaka-city.jp/ohara_es/index.html"
       },
       "美作市立東粟倉小学校" : {
          "location_area" : "美作市",
@@ -1843,9 +1966,13 @@
          "short_name" : "美咲中央小学校"
       },
       "西粟倉村立西粟倉小学校" : {
+         "location" : "岡山県英田郡西粟倉村長尾1555",
          "location_area" : "英田郡西粟倉村",
+         "location_zipcode" : "707-0504",
          "owner_type" : "村立",
-         "short_name" : "西粟倉小学校"
+         "short_name" : "西粟倉小学校",
+         "sort_name" : "にしあわくらそんりつにしあわくら",
+         "url" : "http://www.e-village.jp/school/nishiawakura/main/index.html"
       },
       "赤磐市立仁美小学校" : {
          "location_area" : "赤磐市",

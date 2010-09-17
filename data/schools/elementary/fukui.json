@@ -11,9 +11,13 @@
          "short_name" : "北潟小学校"
       },
       "あわら市立吉崎小学校" : {
+         "location" : "福井県あわら市吉崎8-55",
          "location_area" : "あわら市",
+         "location_zipcode" : "922-0679",
          "owner_type" : "市立",
-         "short_name" : "吉崎小学校"
+         "short_name" : "吉崎小学校",
+         "sort_name" : "あわらしりつよしさきしようかつこう",
+         "url" : "http://www.awara-kyouiku.jp/~yosi-sho/"
       },
       "あわら市立新郷小学校" : {
          "location_area" : "あわら市",
@@ -237,7 +241,8 @@
       "坂井市立鳴鹿小学校" : {
          "location_area" : "坂井市",
          "owner_type" : "市立",
-         "short_name" : "鳴鹿小学校"
+         "short_name" : "鳴鹿小学校",
+         "sort_name" : "さかいしりつなるか"
       },
       "大野市立上庄小学校" : {
          "location_area" : "大野市",
@@ -470,17 +475,29 @@
          "short_name" : "松岡小学校"
       },
       "池田町立池田第一小学校" : {
+         "location" : "福井県今立郡池田町稲荷6-1",
          "location_area" : "今立郡池田町",
+         "location_zipcode" : "910-25",
          "owner_type" : "町立",
-         "short_name" : "池田第一小学校"
+         "short_name" : "池田第一小学校",
+         "sort_name" : "いけたちようりついけたたいいちしよう",
+         "url" : "http://www.town.ikeda.fukui.jp/dai1/index.html"
       },
       "池田町立池田第三小学校" : {
+         "location" : "福井県今立郡池田町菅生23-42",
          "location_area" : "今立郡池田町",
+         "location_zipcode" : "910-2535",
          "owner_type" : "町立",
-         "short_name" : "池田第三小学校"
+         "short_name" : "池田第三小学校",
+         "sort_name" : "いけたちようりついけたたいさんしよう",
+         "url" : "http://www.town.ikeda.fukui.jp/dai3/index.htm"
       },
       "福井大学教育地域科学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "福井県福井市二の宮4丁目45番1号",
+         "location_zipcode" : "910-0015",
+         "owner_type" : "国立",
+         "sort_name" : "ふくいたいかくふそく",
+         "url" : "http://www.f-edu.fukui-u.ac.jp/~fuzoku-e/index.htm"
       },
       "福井市立一乗小学校" : {
          "location_area" : "福井市",
@@ -498,9 +515,14 @@
          "short_name" : "下宇坂小学校"
       },
       "福井市立中藤小学校" : {
+         "location" : "福井県福井市高木町64-12",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|6|1.1|N|136|14|1.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "910-0806",
          "owner_type" : "市立",
-         "short_name" : "中藤小学校"
+         "short_name" : "中藤小学校",
+         "sort_name" : "ふくいしりつなかふししようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/na-fuji-e/"
       },
       "福井市立六条小学校" : {
          "location_area" : "福井市",
@@ -508,19 +530,30 @@
          "short_name" : "六条小学校"
       },
       "福井市立円山小学校" : {
+         "location" : "福井県福井市北四ツ居3丁目15-17",
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "円山小学校"
+         "short_name" : "円山小学校",
+         "sort_name" : "ふくいしりつえんさん",
+         "url" : "http://www.fukui-city.ed.jp/enzan-e/"
       },
       "福井市立和田小学校" : {
+         "location" : "福井県福井市和田1-2-1",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8238",
          "owner_type" : "市立",
-         "short_name" : "和田小学校"
+         "short_name" : "和田小学校",
+         "sort_name" : "ふくいしりつわたしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/wada-e/"
       },
       "福井市立啓蒙小学校" : {
+         "location" : "福井県福井市開発1丁目1008番地",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0842",
          "owner_type" : "市立",
-         "short_name" : "啓蒙小学校"
+         "short_name" : "啓蒙小学校",
+         "sort_name" : "ふくいしりつけいもう",
+         "url" : "http://www.fukui-city.ed.jp/keimou-e/"
       },
       "福井市立国見小学校" : {
          "location_area" : "福井市",
@@ -533,14 +566,22 @@
          "short_name" : "大安寺小学校"
       },
       "福井市立安居小学校" : {
+         "location" : "福井県福井市本堂町4-12",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|3|41.3|N|136|8|4.7|E|display=inline,title|type:edu_region:JP",
+         "location_zipcode" : "918-8076",
          "owner_type" : "市立",
-         "short_name" : "安居小学校"
+         "short_name" : "安居小学校",
+         "sort_name" : "ふくいしりつあこしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/ago-j/"
       },
       "福井市立宝永小学校" : {
+         "location" : "福井県福井市松本3丁目15-1",
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "宝永小学校"
+         "short_name" : "宝永小学校",
+         "sort_name" : "ふくいしりつほうえい",
+         "url" : "http://www.fukui-city.ed.jp/hoei-e/"
       },
       "福井市立岡保小学校" : {
          "location_area" : "福井市",
@@ -553,44 +594,75 @@
          "short_name" : "文殊小学校"
       },
       "福井市立日之出小学校" : {
+         "location" : "福井県福井市日之出5-11-1",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0859",
          "owner_type" : "市立",
-         "short_name" : "日之出小学校"
+         "short_name" : "日之出小学校",
+         "sort_name" : "ふくいしりつひのて",
+         "url" : "http://www.fukui-city.ed.jp/hinode-e/"
       },
       "福井市立日新小学校" : {
+         "location" : "福井県福井市文京5丁目25-30",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0017",
          "owner_type" : "市立",
-         "short_name" : "日新小学校"
+         "short_name" : "日新小学校",
+         "sort_name" : "ふくいしりつにつしんしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/nissin-e/"
       },
       "福井市立旭小学校" : {
+         "location" : "福井県福井市手寄2丁目2-5",
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "旭小学校"
+         "short_name" : "旭小学校",
+         "sort_name" : "ふくいしりつあさひ",
+         "url" : "http://www.fukui-city.ed.jp/asahi-e/"
       },
       "福井市立明新小学校" : {
+         "location" : "福井県福井市灯明寺1丁目2101",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0063",
          "owner_type" : "市立",
-         "short_name" : "明新小学校"
+         "short_name" : "明新小学校",
+         "sort_name" : "ふくいしりつめいしんしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/meishin-e/"
       },
       "福井市立春山小学校" : {
+         "location" : "福井県福井市文京3丁目13-1",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0017",
          "owner_type" : "市立",
-         "short_name" : "春山小学校"
+         "short_name" : "春山小学校",
+         "sort_name" : "ふくいしりつはるやま",
+         "url" : "http://www.fukui-city.ed.jp/haruyama-e/"
       },
       "福井市立木田小学校" : {
+         "location" : "福井県福井市木田1丁目1360",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8105",
          "owner_type" : "市立",
-         "short_name" : "木田小学校"
+         "short_name" : "木田小学校",
+         "sort_name" : "ふくいしりつきた",
+         "url" : "http://www.fukui-city.ed.jp/kida-e/"
       },
       "福井市立本郷小学校" : {
+         "location" : "福井県福井市大年町65-32",
          "location_area" : "福井市",
+         "location_zipcode" : "910-3255",
          "owner_type" : "市立",
-         "short_name" : "本郷小学校"
+         "short_name" : "本郷小学校",
+         "sort_name" : "ふくいしりつほんこう",
+         "url" : "http://www.fukui-city.ed.jp/hongo-e/"
       },
       "福井市立東安居小学校" : {
+         "location" : "福井県福井市水越2丁目503",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8065",
          "owner_type" : "市立",
-         "short_name" : "東安居小学校"
+         "short_name" : "東安居小学校",
+         "sort_name" : "ふくいしりつひかしあこ",
+         "url" : "http://www.fukui-city.ed.jp/h-ago-e/"
       },
       "福井市立東藤島小学校" : {
          "location_area" : "福井市",
@@ -603,9 +675,12 @@
          "short_name" : "東郷小学校"
       },
       "福井市立松本小学校" : {
+         "location" : "福井県福井市町屋3丁目14-20",
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "松本小学校"
+         "short_name" : "松本小学校",
+         "sort_name" : "ふくいしりつまつもと",
+         "url" : "http://www.fukui-city.ed.jp/matsumoto-e/"
       },
       "福井市立棗小学校" : {
          "location_area" : "福井市",
@@ -613,9 +688,13 @@
          "short_name" : "棗小学校"
       },
       "福井市立森田小学校" : {
+         "location" : "福井県福井市下森田新町19-67",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0143",
          "owner_type" : "市立",
-         "short_name" : "森田小学校"
+         "short_name" : "森田小学校",
+         "sort_name" : "ふくいしりつもりた",
+         "url" : "http://www.fukui-city.ed.jp/morita-e/"
       },
       "福井市立殿下小学校" : {
          "location_area" : "福井市",
@@ -628,9 +707,13 @@
          "short_name" : "河合小学校"
       },
       "福井市立清明小学校" : {
+         "location" : "福井県福井市下荒井町13-240",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8017",
          "owner_type" : "市立",
-         "short_name" : "清明小学校"
+         "short_name" : "清明小学校",
+         "sort_name" : "ふくいしりつせいめい",
+         "url" : "http://www.fukui-city.ed.jp/seimei-e/"
       },
       "福井市立清水北小学校" : {
          "location_area" : "福井市",
@@ -648,24 +731,40 @@
          "short_name" : "清水東小学校"
       },
       "福井市立清水西小学校" : {
+         "location" : "福井県福井市大森町9-2",
          "location_area" : "福井市",
+         "location_zipcode" : "910-3634",
          "owner_type" : "市立",
-         "short_name" : "清水西小学校"
+         "short_name" : "清水西小学校",
+         "sort_name" : "ふくいしりつしみすにし",
+         "url" : "http://www.fukui-city.ed.jp/shimizuw-e/"
       },
       "福井市立湊小学校" : {
+         "location" : "福井県福井市学園1丁目4-8",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0028",
          "owner_type" : "市立",
-         "short_name" : "湊小学校"
+         "short_name" : "湊小学校",
+         "sort_name" : "ふくいしりつみなと",
+         "url" : "http://www.fukui-city.ed.jp/minato-e/"
       },
       "福井市立社北小学校" : {
+         "location" : "福井県福井市若杉4丁目143",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8055",
          "owner_type" : "市立",
-         "short_name" : "社北小学校"
+         "short_name" : "社北小学校",
+         "sort_name" : "ふくいしりつやしろきたしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/y-kita-e/"
       },
       "福井市立社南小学校" : {
+         "location" : "福井県福井市種池2丁目128",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8031",
          "owner_type" : "市立",
-         "short_name" : "社南小学校"
+         "short_name" : "社南小学校",
+         "sort_name" : "ふくいしりつやしろみなみ",
+         "url" : "http://www.fukui-city.ed.jp/y-minami-e/"
       },
       "福井市立社西小学校" : {
          "location_area" : "福井市",
@@ -690,7 +789,8 @@
       "福井市立豊小学校" : {
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "豊小学校"
+         "short_name" : "豊小学校",
+         "sort_name" : "ふくいしりつみのり"
       },
       "福井市立越廼小学校" : {
          "location_area" : "福井市",
@@ -698,14 +798,22 @@
          "short_name" : "越廼小学校"
       },
       "福井市立足羽小学校" : {
+         "location" : "福井県福井市足羽3丁目1-1",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8007",
          "owner_type" : "市立",
-         "short_name" : "足羽小学校"
+         "short_name" : "足羽小学校",
+         "sort_name" : "ふくいしりつあすわ",
+         "url" : "http://www.fukui-city.ed.jp/asuwa-e/"
       },
       "福井市立酒生小学校" : {
+         "location" : "福井県福井市成願寺町5-1",
          "location_area" : "福井市",
+         "location_zipcode" : "910-2147",
          "owner_type" : "市立",
-         "short_name" : "酒生小学校"
+         "short_name" : "酒生小学校",
+         "sort_name" : "ふくいしりつさこうしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/sakou-e/"
       },
       "福井市立長橋小学校" : {
          "location_area" : "福井市",
@@ -713,14 +821,21 @@
          "short_name" : "長橋小学校"
       },
       "福井市立順化小学校" : {
+         "location" : "福井県福井市大手3丁目16-1",
          "location_area" : "福井市",
          "owner_type" : "市立",
-         "short_name" : "順化小学校"
+         "short_name" : "順化小学校",
+         "sort_name" : "ふくいしりつしゆんか",
+         "url" : "http://www.fukui-city.ed.jp/junka-e/"
       },
       "福井市立鶉小学校" : {
+         "location" : "福井県福井市砂子坂町4-31",
          "location_area" : "福井市",
+         "location_zipcode" : "910-3143",
          "owner_type" : "市立",
-         "short_name" : "鶉小学校"
+         "short_name" : "鶉小学校",
+         "sort_name" : "ふくいしりつうすら",
+         "url" : "http://www.fukui-city.ed.jp/uzura-e/"
       },
       "福井市立鷹巣小学校" : {
          "location_area" : "福井市",
@@ -728,9 +843,13 @@
          "short_name" : "鷹巣小学校"
       },
       "福井市立麻生津小学校" : {
+         "location" : "福井県福井市浅水二日町28－5",
          "location_area" : "福井市",
+         "location_zipcode" : "918-8182",
          "owner_type" : "市立",
-         "short_name" : "麻生津小学校"
+         "short_name" : "麻生津小学校",
+         "sort_name" : "ふくいしりあそうつしようかつこう",
+         "url" : "http://www.fukui-city.ed.jp/asozu-e/"
       },
       "美浜町立丹生小学校" : {
          "location_area" : "三方郡美浜町",

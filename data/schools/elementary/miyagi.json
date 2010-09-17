@@ -63,7 +63,8 @@
       "丸森町立舘矢間小学校" : {
          "location_area" : "伊具郡丸森町",
          "owner_type" : "町立",
-         "short_name" : "舘矢間小学校"
+         "short_name" : "舘矢間小学校",
+         "sort_name" : "まるもりちようりつたてやましよう"
       },
       "丸森町立金山小学校" : {
          "location_area" : "伊具郡丸森町",
@@ -88,7 +89,8 @@
       "亘理町立逢隈小学校" : {
          "location_area" : "亘理郡亘理町",
          "owner_type" : "町立",
-         "short_name" : "逢隈小学校"
+         "short_name" : "逢隈小学校",
+         "sort_name" : "わたりちようりつおおくましよう"
       },
       "亘理町立長瀞小学校" : {
          "location_area" : "亘理郡亘理町",
@@ -111,14 +113,21 @@
          "short_name" : "七郷小学校"
       },
       "仙台市立上愛子小学校" : {
+         "location" : "仙台市青葉区上愛子字白沢14",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3124",
          "owner_type" : "市立",
-         "short_name" : "上愛子小学校"
+         "short_name" : "上愛子小学校",
+         "sort_name" : "せんたいしりつかみあやし",
+         "url" : "http://www.sendai-c.ed.jp/~ayashi80/index.html"
       },
       "仙台市立上杉山通小学校" : {
+         "location" : "宮城県仙台市青葉区上杉一丁目10番1号",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "980-0011",
          "owner_type" : "市立",
-         "short_name" : "上杉山通小学校"
+         "short_name" : "上杉山通小学校",
+         "url" : "http://www.sendai-c.ed.jp/~kami-sho/"
       },
       "仙台市立上野山小学校" : {
          "location_area" : "仙台市太白区",
@@ -158,7 +167,8 @@
       "仙台市立作並小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "作並小学校"
+         "short_name" : "作並小学校",
+         "sort_name" : "せんたいしりつさくなみ"
       },
       "仙台市立作並小学校新川分校" : {
          "location_area" : "仙台市青葉区",
@@ -176,14 +186,23 @@
          "short_name" : "八幡小学校"
       },
       "仙台市立八木山南小学校" : {
+         "location" : "仙台市太白区八木山南5-3-2",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0807",
          "owner_type" : "市立",
-         "short_name" : "八木山南小学校"
+         "short_name" : "八木山南小学校",
+         "sort_name" : "せんたいしりつやきやまみなみ",
+         "url" : "http://www.sendai-c.ed.jp/~yaginan/"
       },
       "仙台市立八木山小学校" : {
+         "location" : "仙台市太白区八木山本町1丁目40-1",
          "location_area" : "仙台市太白区",
+         "location_wikipedia_latlon" : "|38|14|21.93|N|140|50|53.64|E|scale:20000",
+         "location_zipcode" : "982-0801",
          "owner_type" : "市立",
-         "short_name" : "八木山小学校"
+         "short_name" : "八木山小学校",
+         "sort_name" : "せんたいしりつやきやま",
+         "url" : "http://www2.sendai-c.ed.jp/~yagisyo/"
       },
       "仙台市立八本松小学校" : {
          "location_area" : "仙台市太白区",
@@ -203,7 +222,8 @@
       "仙台市立北中山小学校" : {
          "location_area" : "仙台市泉区",
          "owner_type" : "市立",
-         "short_name" : "北中山小学校"
+         "short_name" : "北中山小学校",
+         "sort_name" : "せんたいしりつきたなかやましよう"
       },
       "仙台市立北仙台小学校" : {
          "location_area" : "仙台市青葉区",
@@ -231,9 +251,13 @@
          "short_name" : "南光台東小学校"
       },
       "仙台市立南吉成小学校" : {
+         "location" : "仙台市青葉区南吉成五丁目18-1",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3204",
          "owner_type" : "市立",
-         "short_name" : "南吉成小学校"
+         "short_name" : "南吉成小学校",
+         "sort_name" : "せんたいしりつみなみよしなりしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~nankichi/"
       },
       "仙台市立南小泉小学校" : {
          "location_area" : "仙台市若林区",
@@ -261,9 +285,13 @@
          "short_name" : "台原小学校"
       },
       "仙台市立吉成小学校" : {
+         "location" : "宮城県仙台市青葉区吉成1丁目12番2号",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3205",
          "owner_type" : "市立",
-         "short_name" : "吉成小学校"
+         "short_name" : "吉成小学校",
+         "sort_name" : "せんたいしりつよしなりしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~yosinari-el/index.yosi/indexA.htm"
       },
       "仙台市立向山小学校" : {
          "location_area" : "仙台市太白区",
@@ -293,7 +321,8 @@
       "仙台市立大倉小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "大倉小学校"
+         "short_name" : "大倉小学校",
+         "sort_name" : "せんたいしりつおおくらしよう"
       },
       "仙台市立大和小学校" : {
          "location_area" : "仙台市若林区",
@@ -301,9 +330,13 @@
          "short_name" : "大和小学校"
       },
       "仙台市立大沢小学校" : {
+         "location" : "仙台市青葉区芋沢字長坂22",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3212",
          "owner_type" : "市立",
-         "short_name" : "大沢小学校"
+         "short_name" : "大沢小学校",
+         "sort_name" : "せんたいしりつおおさわしよう",
+         "url" : "http://www.sendai-c.ed.jp/~oosawael/index.html"
       },
       "仙台市立大野田小学校" : {
          "location_area" : "仙台市太白区",
@@ -366,9 +399,13 @@
          "short_name" : "岩切小学校"
       },
       "仙台市立川前小学校" : {
+         "location" : "仙台市青葉区芋沢字赤坂16",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3212",
          "owner_type" : "市立",
-         "short_name" : "川前小学校"
+         "short_name" : "川前小学校",
+         "sort_name" : "せんたいしりつかわまえしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~kawamae/"
       },
       "仙台市立川平小学校" : {
          "location_area" : "仙台市青葉区",
@@ -391,19 +428,30 @@
          "short_name" : "幸町小学校"
       },
       "仙台市立広瀬小学校" : {
+         "location" : "仙台市青葉区下愛子字二本松40番地",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3125",
          "owner_type" : "市立",
-         "short_name" : "広瀬小学校"
+         "short_name" : "広瀬小学校",
+         "url" : "http://www2.sendai-c.ed.jp/~hirose/"
       },
       "仙台市立愛子小学校" : {
+         "location" : "仙台市青葉区上愛子字新宮前1番地",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "989-3124",
          "owner_type" : "市立",
-         "short_name" : "愛子小学校"
+         "short_name" : "愛子小学校",
+         "sort_name" : "せんたいしりつあやし",
+         "url" : "http://www2.sendai-c.ed.jp/~ayashi/"
       },
       "仙台市立折立小学校" : {
+         "location" : "仙台市青葉区折立4丁目2番1号",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "982-0261",
          "owner_type" : "市立",
-         "short_name" : "折立小学校"
+         "short_name" : "折立小学校",
+         "sort_name" : "せんたいしりつおりたてしよう",
+         "url" : "http://www.sendai-c.ed.jp/~oritates/"
       },
       "仙台市立新田小学校" : {
          "location_area" : "仙台市宮城野区",
@@ -418,7 +466,8 @@
       "仙台市立木町通小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "木町通小学校"
+         "short_name" : "木町通小学校",
+         "sort_name" : "せんたいしりつきまちとおりしよう"
       },
       "仙台市立東二番丁小学校" : {
          "location_area" : "仙台市青葉区",
@@ -476,14 +525,18 @@
          "short_name" : "枡江小学校"
       },
       "仙台市立柳生小学校" : {
+         "location" : "宮城県仙台市太白区柳生字台畑100",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "981-1106",
          "owner_type" : "市立",
-         "short_name" : "柳生小学校"
+         "short_name" : "柳生小学校",
+         "sort_name" : "せんたいしりつやなきうしようかつこう"
       },
       "仙台市立栗生小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "栗生小学校"
+         "short_name" : "栗生小学校",
+         "sort_name" : "せんたいしりつくりうしようかつこう"
       },
       "仙台市立根白石小学校" : {
          "location_area" : "仙台市泉区",
@@ -498,7 +551,8 @@
       "仙台市立桜丘小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "桜丘小学校"
+         "short_name" : "桜丘小学校",
+         "sort_name" : "せんたいしりつさくらかおかしよう"
       },
       "仙台市立榴岡小学校" : {
          "location_area" : "仙台市宮城野区",
@@ -533,7 +587,8 @@
       "仙台市立片平丁小学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "片平丁小学校"
+         "short_name" : "片平丁小学校",
+         "sort_name" : "せんたいしりつかたひらちようしよう"
       },
       "仙台市立生出小学校" : {
          "location_area" : "仙台市太白区",
@@ -561,19 +616,32 @@
          "short_name" : "福岡小学校"
       },
       "仙台市立秋保小学校" : {
+         "location" : "仙台市太白区秋保町長袋字町15",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0243",
          "owner_type" : "市立",
-         "short_name" : "秋保小学校"
+         "short_name" : "秋保小学校",
+         "sort_name" : "せんたいしりつあきうしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~akiu.syo/"
       },
       "仙台市立立町小学校" : {
+         "location" : "宮城県仙台市青葉区立町8番1号",
          "location_area" : "仙台市青葉区",
+         "location_wikipedia_latlon" : "|38|15|42|N|140|51|49|E|region:JP",
+         "location_zipcode" : "980-0822",
          "owner_type" : "市立",
-         "short_name" : "立町小学校"
+         "short_name" : "立町小学校",
+         "sort_name" : "せんたいしりつたちまちしよう",
+         "url" : "http://www.sendai-c.ed.jp/~tatimati/"
       },
       "仙台市立芦口小学校" : {
+         "location" : "仙台市太白区芦の口1番1号",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0824",
          "owner_type" : "市立",
-         "short_name" : "芦口小学校"
+         "short_name" : "芦口小学校",
+         "sort_name" : "せんたいしりつあしのくちしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~asibue/"
       },
       "仙台市立若林小学校" : {
          "location_area" : "仙台市若林区",
@@ -581,9 +649,13 @@
          "short_name" : "若林小学校"
       },
       "仙台市立茂庭台小学校" : {
+         "location" : "仙台市太白区茂庭台4-17-1",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0252",
          "owner_type" : "市立",
-         "short_name" : "茂庭台小学校"
+         "short_name" : "茂庭台小学校",
+         "sort_name" : "せんたいしりつもにわたいしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~moniwa/"
       },
       "仙台市立荒巻小学校" : {
          "location_area" : "仙台市青葉区",
@@ -616,9 +688,12 @@
          "short_name" : "袋原小学校"
       },
       "仙台市立西中田小学校" : {
+         "location" : "宮城県仙台市太白区西中田7丁目7-1",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "981-1105",
          "owner_type" : "市立",
-         "short_name" : "西中田小学校"
+         "short_name" : "西中田小学校",
+         "url" : "http://www2.sendai-c.ed.jp/~nisinaka/index.html"
       },
       "仙台市立西多賀小学校" : {
          "location_area" : "仙台市太白区",
@@ -631,9 +706,13 @@
          "short_name" : "西山小学校"
       },
       "仙台市立貝森小学校" : {
+         "location" : "仙台市青葉区貝ヶ森5-6-1",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "981-0942",
          "owner_type" : "市立",
-         "short_name" : "貝森小学校"
+         "short_name" : "貝森小学校",
+         "sort_name" : "せんたいしりつかいかもりしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~kaimori/"
       },
       "仙台市立通町小学校" : {
          "location_area" : "仙台市青葉区",
@@ -686,9 +765,13 @@
          "short_name" : "館小学校"
       },
       "仙台市立馬場小学校" : {
+         "location" : "仙台市太白区秋保町馬場字町北25",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0244",
          "owner_type" : "市立",
-         "short_name" : "馬場小学校"
+         "short_name" : "馬場小学校",
+         "sort_name" : "せんたいしりつははしようかつこう",
+         "url" : "http://www.sendai-c.ed.jp/~baba-syo/"
       },
       "仙台市立高森小学校" : {
          "location_area" : "仙台市泉区",
@@ -889,7 +972,8 @@
          "short_name" : "高舘小学校"
       },
       "啓明宮城小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "けいめいみやきしようかつこう"
       },
       "塩竈市立月見ヶ丘小学校" : {
          "location_area" : "塩竈市",
@@ -897,9 +981,12 @@
          "short_name" : "月見ヶ丘小学校"
       },
       "塩竈市立杉の入小学校" : {
+         "location" : "宮城県塩竈市杉の入一丁目19番1号",
          "location_area" : "塩竈市",
+         "location_zipcode" : "985-0005",
          "owner_type" : "市立",
-         "short_name" : "杉の入小学校"
+         "short_name" : "杉の入小学校",
+         "url" : "http://www.suginoiri-e.shiogama.ed.jp/"
       },
       "塩竈市立浦戸第二小学校" : {
          "location_area" : "塩竈市",
@@ -927,24 +1014,36 @@
          "short_name" : "第二小学校"
       },
       "多賀城市立城南小学校" : {
+         "location" : "宮城県多賀城市城南1丁目17番1号",
          "location_area" : "多賀城市",
+         "location_zipcode" : "985-0865",
          "owner_type" : "市立",
-         "short_name" : "城南小学校"
+         "short_name" : "城南小学校",
+         "url" : "http://homepage3.nifty.com/jonan-e/"
       },
       "多賀城市立多賀城八幡小学校" : {
+         "location" : "宮城県多賀城市八幡字六貫田172番地",
          "location_area" : "多賀城市",
+         "location_zipcode" : "985-0874",
          "owner_type" : "市立",
-         "short_name" : "多賀城八幡小学校"
+         "short_name" : "多賀城八幡小学校",
+         "url" : "http://homepage3.nifty.com/t-yawata/"
       },
       "多賀城市立多賀城小学校" : {
+         "location" : "宮城県多賀城市伝上山一丁目1番1号",
          "location_area" : "多賀城市",
+         "location_zipcode" : "985-0872",
          "owner_type" : "市立",
-         "short_name" : "多賀城小学校"
+         "short_name" : "多賀城小学校",
+         "url" : "http://homepage3.nifty.com/tagajo-e/index.html"
       },
       "多賀城市立多賀城東小学校" : {
+         "location" : "宮城県多賀城市笠神5-8-1",
          "location_area" : "多賀城市",
+         "location_zipcode" : "985-0831",
          "owner_type" : "市立",
-         "short_name" : "多賀城東小学校"
+         "short_name" : "多賀城東小学校",
+         "url" : "http://homepage3.nifty.com./tagajohigashi/"
       },
       "多賀城市立天真小学校" : {
          "location_area" : "多賀城市",
@@ -1212,7 +1311,8 @@
          "short_name" : "女川第四小学校"
       },
       "宮城教育大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "みやききよういくたいかくふそくしよう"
       },
       "富谷町立あけの平小学校" : {
          "location_area" : "黒川郡富谷町",
@@ -1410,9 +1510,13 @@
          "short_name" : "野蒜小学校"
       },
       "松島町立松島第一小学校" : {
+         "location" : "宮城県宮城郡松島町松島字道珍浜10",
          "location_area" : "宮城郡松島町",
+         "location_zipcode" : "981-0213",
          "owner_type" : "町立",
-         "short_name" : "松島第一小学校"
+         "short_name" : "松島第一小学校",
+         "sort_name" : "まつしまちようりつまつしまたいいち",
+         "url" : "http://matsu-1.myswan.ne.jp/"
       },
       "松島町立松島第二小学校" : {
          "location_area" : "宮城郡松島町",
@@ -1610,9 +1714,12 @@
          "short_name" : "九条小学校"
       },
       "気仙沼市立南気仙沼小学校" : {
+         "location" : "宮城県気仙沼市南郷25-1",
          "location_area" : "気仙沼市",
+         "location_zipcode" : "988",
          "owner_type" : "市立",
-         "short_name" : "南気仙沼小学校"
+         "short_name" : "南気仙沼小学校",
+         "sort_name" : "けせんぬましりつみなみけせんぬま"
       },
       "気仙沼市立唐桑小学校" : {
          "location_area" : "気仙沼市",
@@ -1660,9 +1767,13 @@
          "short_name" : "気仙沼小学校"
       },
       "気仙沼市立水梨小学校" : {
+         "location" : "宮城県気仙沼市物倉山6番地",
          "location_area" : "気仙沼市",
+         "location_zipcode" : "988-0169",
          "owner_type" : "市立",
-         "short_name" : "水梨小学校"
+         "short_name" : "水梨小学校",
+         "sort_name" : "けせんぬましりつみすなししよう",
+         "url" : "http://www8.ocn.ne.jp/~mizunasi/"
       },
       "気仙沼市立津谷小学校" : {
          "location_area" : "気仙沼市",
@@ -2156,10 +2267,15 @@
       },
       "聖ウルスラ学院英智小学校" : {
          "owner_type" : "私立",
+         "sort_name" : "せいうるすらかくいんえいち",
          "wikipedia_name" : "聖ウルスラ学院英智小学校・中学校"
       },
       "聖ドミニコ学院小学校" : {
-         "owner_type" : "私立"
+         "location" : "宮城県仙台市青葉区角五郎二丁目2番14号",
+         "location_zipcode" : "980-0874",
+         "owner_type" : "私立",
+         "sort_name" : "せいとみにこかくいんしよう",
+         "url" : "http://www.dominic.ac.jp/elem/"
       },
       "色麻町立清水小学校" : {
          "location_area" : "加美郡色麻町",

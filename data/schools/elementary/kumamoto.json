@@ -96,9 +96,14 @@
          "short_name" : "阿村小学校"
       },
       "上天草市立高戸小学校" : {
+         "location" : "熊本県上天草市龍ヶ岳町高戸2795",
          "location_area" : "上天草市",
+         "location_wikipedia_latlon" : "|32|23|50|N|130|23|55|E",
+         "location_zipcode" : "866-0202",
          "owner_type" : "市立",
-         "short_name" : "高戸小学校"
+         "short_name" : "高戸小学校",
+         "sort_name" : "かみあまくさしりつたかとしよう",
+         "url" : "http://www2.higo.ed.jp/es/takadoes/"
       },
       "五木村立五木北小学校" : {
          "location_area" : "球磨郡五木村",
@@ -116,9 +121,14 @@
          "short_name" : "中原小学校"
       },
       "人吉市立人吉東小学校" : {
+         "location" : "熊本県人吉市七日町100-1",
          "location_area" : "人吉市",
+         "location_wikipedia_latlon" : "|32|12|15|N|130|46|9|E",
+         "location_zipcode" : "868-0024",
          "owner_type" : "市立",
-         "short_name" : "人吉東小学校"
+         "short_name" : "人吉東小学校",
+         "sort_name" : "ひとよししりつひとよしひかししよう",
+         "url" : "http://www.hitoyoshi.net/higashisyou/"
       },
       "人吉市立人吉西小学校" : {
          "location_area" : "人吉市",
@@ -228,7 +238,8 @@
       "八代市立河俣小学校" : {
          "location_area" : "八代市",
          "owner_type" : "市立",
-         "short_name" : "河俣小学校"
+         "short_name" : "河俣小学校",
+         "sort_name" : "やつしろしりつかわまたしよう"
       },
       "八代市立河俣小学校坂より上分校" : {
          "location_area" : "八代市",
@@ -251,9 +262,13 @@
          "short_name" : "泉第二小学校"
       },
       "八代市立泉第八小学校" : {
+         "location" : "熊本県八代市泉町樅木137-4",
          "location_area" : "八代市",
+         "location_zipcode" : "869-4512",
          "owner_type" : "市立",
-         "short_name" : "泉第八小学校"
+         "short_name" : "泉第八小学校",
+         "sort_name" : "やつしろしりついすみたい8しよう",
+         "url" : "http://e.yatsushiro.jp/es-izumi8/"
       },
       "八代市立種山小学校" : {
          "location_area" : "八代市",
@@ -296,9 +311,13 @@
          "short_name" : "鏡西部小学校"
       },
       "八代市立高田小学校" : {
+         "location" : "熊本県八代市豊原中町317",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|29|9|N|130|37|8|E",
+         "location_zipcode" : "866-0062",
          "owner_type" : "市立",
-         "short_name" : "高田小学校"
+         "short_name" : "高田小学校",
+         "sort_name" : "やつしろしりつこうたしよう"
       },
       "八代市立麦島小学校" : {
          "location_area" : "八代市",
@@ -316,14 +335,22 @@
          "short_name" : "りんどうヶ丘小学校"
       },
       "南小国町立中原小学校" : {
+         "location" : "熊本県阿蘇郡南小国町中原2469",
          "location_area" : "阿蘇郡南小国町",
+         "location_zipcode" : "869-2403",
          "owner_type" : "町立",
-         "short_name" : "中原小学校"
+         "short_name" : "中原小学校",
+         "sort_name" : "みなみおくにちようりつなかはるしよう",
+         "url" : "http://www2.higo.ed.jp/es/nakabaru/"
       },
       "南小国町立市原小学校" : {
+         "location" : "熊本県阿蘇郡南小国町赤馬場1922",
          "location_area" : "阿蘇郡南小国町",
+         "location_zipcode" : "869-2401",
          "owner_type" : "町立",
-         "short_name" : "市原小学校"
+         "short_name" : "市原小学校",
+         "sort_name" : "みなみおくにちようりついちはらしよう",
+         "url" : "http://www2.higo.ed.jp/es/ichihara/index.html"
       },
       "南関町立南関第一小学校" : {
          "location_area" : "玉名郡南関町",
@@ -518,7 +545,8 @@
       "大津町立護川小学校" : {
          "location_area" : "菊池郡大津町",
          "owner_type" : "町立",
-         "short_name" : "護川小学校"
+         "short_name" : "護川小学校",
+         "sort_name" : "おおつちようりつもりかわしよう"
       },
       "天草市立一町田小学校" : {
          "location_area" : "天草市",
@@ -546,14 +574,21 @@
          "short_name" : "下田南小学校"
       },
       "天草市立久玉小学校" : {
+         "location" : "熊本県天草市久玉町1963",
          "location_area" : "天草市",
+         "location_zipcode" : "863-1902",
          "owner_type" : "市立",
-         "short_name" : "久玉小学校"
+         "short_name" : "久玉小学校",
+         "sort_name" : "あまくさしりつくたま"
       },
       "天草市立亀場小学校" : {
+         "location" : "熊本県天草市亀場町亀川1620",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0043",
          "owner_type" : "市立",
-         "short_name" : "亀場小学校"
+         "short_name" : "亀場小学校",
+         "sort_name" : "あまくさしりつかめはしよう",
+         "url" : "http://www2.higo.ed.jp/es/kameba/"
       },
       "天草市立二江小学校" : {
          "location_area" : "天草市",
@@ -601,9 +636,12 @@
          "short_name" : "天附小学校"
       },
       "天草市立宮地岳小学校" : {
+         "location" : "熊本県天草市宮地岳町5516",
          "location_area" : "天草市",
+         "location_zipcode" : "863-1161",
          "owner_type" : "市立",
-         "short_name" : "宮地岳小学校"
+         "short_name" : "宮地岳小学校",
+         "sort_name" : "あまくさしりつみやしたけしよう"
       },
       "天草市立宮野河内小学校" : {
          "location_area" : "天草市",
@@ -656,14 +694,22 @@
          "short_name" : "新和小学校"
       },
       "天草市立本渡北小学校" : {
+         "location" : "熊本県天草市浜崎町3-55",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0018",
          "owner_type" : "市立",
-         "short_name" : "本渡北小学校"
+         "short_name" : "本渡北小学校",
+         "sort_name" : "あまくさしりつほんときた",
+         "url" : "http://www4.ocn.ne.jp/~hondokes/"
       },
       "天草市立本渡南小学校" : {
+         "location" : "熊本県天草市川原町4-21",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0024",
          "owner_type" : "市立",
-         "short_name" : "本渡南小学校"
+         "short_name" : "本渡南小学校",
+         "sort_name" : "あまくさしりつほんとみなみ",
+         "url" : "http://www2.higo.ed.jp/es/hondomes/"
       },
       "天草市立本町小学校" : {
          "location_area" : "天草市",
@@ -671,9 +717,12 @@
          "short_name" : "本町小学校"
       },
       "天草市立枦宇土小学校" : {
+         "location" : "熊本県天草市枦宇土町1901-3",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0045",
          "owner_type" : "市立",
-         "short_name" : "枦宇土小学校"
+         "short_name" : "枦宇土小学校",
+         "sort_name" : "あまくさしりはしうと"
       },
       "天草市立栖本小学校" : {
          "location_area" : "天草市",
@@ -731,9 +780,13 @@
          "short_name" : "魚貫小学校"
       },
       "宇土市立宇土小学校" : {
+         "location" : "熊本県宇土市高柳町104-1",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-0452",
          "owner_type" : "市立",
-         "short_name" : "宇土小学校"
+         "short_name" : "宇土小学校",
+         "sort_name" : "うとしりつうとしよう",
+         "url" : "http://www.city.uto.kumamoto.jp/uto-sho/"
       },
       "宇土市立宇土東小学校" : {
          "location_area" : "宇土市",
@@ -741,24 +794,40 @@
          "short_name" : "宇土東小学校"
       },
       "宇土市立網津小学校" : {
+         "location" : "熊本県宇土市網津町2082-3",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-0461",
          "owner_type" : "市立",
-         "short_name" : "網津小学校"
+         "short_name" : "網津小学校",
+         "sort_name" : "うとしりつあみつしよう",
+         "url" : "http://www.city.uto.kumamoto.jp/amitsu-sho/"
       },
       "宇土市立網田小学校" : {
+         "location" : "熊本県宇土市下網田町1842",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-3173",
          "owner_type" : "市立",
-         "short_name" : "網田小学校"
+         "short_name" : "網田小学校",
+         "sort_name" : "うとしりつおうたしよう",
+         "url" : "http://www.city.uto.kumamoto.jp/ouda-sho/"
       },
       "宇土市立緑川小学校" : {
+         "location" : "熊本県宇土市野鶴町246",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-0463",
          "owner_type" : "市立",
-         "short_name" : "緑川小学校"
+         "short_name" : "緑川小学校",
+         "sort_name" : "うとしりつみとりかわしよう",
+         "url" : "http://www.city.uto.kumamoto.jp/midori-sho/"
       },
       "宇土市立花園小学校" : {
+         "location" : "熊本県宇土市立古保里町695",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-0415",
          "owner_type" : "市立",
-         "short_name" : "花園小学校"
+         "short_name" : "花園小学校",
+         "sort_name" : "うとしりつはなそのしよう",
+         "url" : "http://www.city.uto.kumamoto.jp/hana-sho/index.htm"
       },
       "宇土市立走潟小学校" : {
          "location_area" : "宇土市",
@@ -856,14 +925,22 @@
          "short_name" : "大野小学校"
       },
       "山都町立御岳小学校" : {
+         "location" : "熊本県上益城郡山都町川野1543",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3784",
          "owner_type" : "町立",
-         "short_name" : "御岳小学校"
+         "short_name" : "御岳小学校",
+         "sort_name" : "やまとちようりつみたけしよう",
+         "url" : "http://www2.higo.ed.jp/es/ymitake/index.htm"
       },
       "山都町立清和小学校" : {
+         "location" : "熊本県上益城郡山都町仮屋384",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3841",
          "owner_type" : "町立",
-         "short_name" : "清和小学校"
+         "short_name" : "清和小学校",
+         "sort_name" : "やまとちようりつせいわ",
+         "url" : "http://www2.higo.ed.jp/es/seiwasyo/"
       },
       "山都町立潤徳小学校" : {
          "location_area" : "上益城郡山都町",
@@ -871,9 +948,13 @@
          "short_name" : "潤徳小学校"
       },
       "山都町立矢部小学校" : {
+         "location" : "熊本県上益城郡山都町下馬尾17",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3512",
          "owner_type" : "町立",
-         "short_name" : "矢部小学校"
+         "short_name" : "矢部小学校",
+         "sort_name" : "やまとちようりつやへしよう",
+         "url" : "http://www2.higo.ed.jp/es/yabees/"
       },
       "山都町立菅尾小学校" : {
          "location_area" : "上益城郡山都町",
@@ -941,9 +1022,14 @@
          "short_name" : "山内小学校"
       },
       "山鹿市立山鹿小学校" : {
+         "location" : "熊本県山鹿市山鹿351",
          "location_area" : "山鹿市",
+         "location_wikipedia_latlon" : "|33|0|37|N|130|41|43|E",
+         "location_zipcode" : "861-0501",
          "owner_type" : "市立",
-         "short_name" : "山鹿小学校"
+         "short_name" : "山鹿小学校",
+         "sort_name" : "やまかしりつやまかしよう",
+         "url" : "http://www2.higo.ed.jp/es/yamagaes/"
       },
       "山鹿市立岩野小学校" : {
          "location_area" : "山鹿市",
@@ -1036,9 +1122,13 @@
          "short_name" : "久木野小学校"
       },
       "水俣市立水俣第一小学校" : {
+         "location" : "熊本県水俣市陣内1-1-2",
          "location_area" : "水俣市",
+         "location_wikipedia_latlon" : "|32|12|35|N|130|24|35|E",
+         "location_zipcode" : "867-0011",
          "owner_type" : "市立",
-         "short_name" : "水俣第一小学校"
+         "short_name" : "水俣第一小学校",
+         "sort_name" : "みなまたしりつみなまたたい1しよう"
       },
       "水俣市立水俣第一小学校浜分校" : {
          "location_area" : "水俣市",
@@ -1101,472 +1191,844 @@
          "short_name" : "湯前小学校"
       },
       "熊本大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "くまもとたいかくきよういくかくふふそくしよう"
       },
       "熊本市立一新小学校" : {
+         "location" : "熊本県熊本市新町3-10-45",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0004",
          "owner_type" : "市立",
-         "short_name" : "一新小学校"
+         "short_name" : "一新小学校",
+         "sort_name" : "くまもとしりついつしんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/issines/index.htm"
       },
       "熊本市立中島小学校" : {
+         "location" : "熊本県熊本市中島町538",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5272",
          "owner_type" : "市立",
-         "short_name" : "中島小学校"
+         "short_name" : "中島小学校",
+         "sort_name" : "くまもとしりつなかしましよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nakashimaes/index.htm"
       },
       "熊本市立中緑小学校" : {
+         "location" : "熊本県熊本市美登里町800",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4122",
          "owner_type" : "市立",
-         "short_name" : "中緑小学校"
+         "short_name" : "中緑小学校",
+         "sort_name" : "くまもとしりつなかみとりしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nakamidories/index.htm"
       },
       "熊本市立五福小学校" : {
+         "location" : "熊本県熊本市細工町2-25",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0041",
          "owner_type" : "市立",
-         "short_name" : "五福小学校"
+         "short_name" : "五福小学校",
+         "sort_name" : "くまもとしりつこふくしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/gofuku/index.htm"
       },
       "熊本市立健軍小学校" : {
+         "location" : "熊本県熊本市健軍二丁目25番56号",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0911",
          "owner_type" : "市立",
-         "short_name" : "健軍小学校"
+         "short_name" : "健軍小学校",
+         "sort_name" : "くまもとしりつけんくんしようかつこう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kengunes/index.htm"
       },
       "熊本市立健軍東小学校" : {
+         "location" : "熊本県熊本市東町4-15-2",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0901",
          "owner_type" : "市立",
-         "short_name" : "健軍東小学校"
+         "short_name" : "健軍東小学校",
+         "sort_name" : "くまもとしりつけんくんひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kengunhigashies/index.htm"
       },
       "熊本市立出水南小学校" : {
+         "location" : "熊本県熊本市出水4-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0941",
          "owner_type" : "市立",
-         "short_name" : "出水南小学校"
+         "short_name" : "出水南小学校",
+         "sort_name" : "くまもとしりついすみみなみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/izumiminamies/index.htm"
       },
       "熊本市立出水小学校" : {
+         "location" : "熊本県熊本市出水1-1-75",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0941",
          "owner_type" : "市立",
-         "short_name" : "出水小学校"
+         "short_name" : "出水小学校",
+         "sort_name" : "くまもとしりついすみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/izumi/"
       },
       "熊本市立力合小学校" : {
+         "location" : "熊本県熊本市刈草2-10-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4134",
          "owner_type" : "市立",
-         "short_name" : "力合小学校"
+         "short_name" : "力合小学校",
+         "sort_name" : "くまもとしりつりきこうしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/rikigoes/index.htm"
       },
       "熊本市立北部東小学校" : {
+         "location" : "熊本県熊本市鶴羽田町329",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5513",
          "owner_type" : "市立",
-         "short_name" : "北部東小学校"
+         "short_name" : "北部東小学校",
+         "sort_name" : "くまもとしりつほくふひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/hokubuhigasies/index.htm"
       },
       "熊本市立古町小学校" : {
+         "location" : "熊本県熊本市二本木4-9-65",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0051",
          "owner_type" : "市立",
-         "short_name" : "古町小学校"
+         "short_name" : "古町小学校",
+         "sort_name" : "くまもとしりつふるまちしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/furumachies/index.htm"
       },
       "熊本市立吉松小学校" : {
+         "location" : "熊本県熊本市植木町豊田474",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0106",
          "owner_type" : "市立",
-         "short_name" : "吉松小学校"
+         "short_name" : "吉松小学校",
+         "sort_name" : "くまもとしりつよしまつしよう",
+         "url" : "http://www.ueki-syousei.com/gakkou/yoshimatsu/index.html"
       },
       "熊本市立向山小学校" : {
+         "location" : "熊本県熊本市本山4-5-11",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0821",
          "owner_type" : "市立",
-         "short_name" : "向山小学校"
+         "short_name" : "向山小学校",
+         "sort_name" : "くまもとしりつこうさんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kozanes/index.htm"
       },
       "熊本市立城北小学校" : {
+         "location" : "熊本県熊本市清水新地1丁目4-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|50|58|N|130|43|50|E|",
+         "location_zipcode" : "860-0875",
          "owner_type" : "市立",
-         "short_name" : "城北小学校"
+         "short_name" : "城北小学校",
+         "sort_name" : "くまもとしりつしようほくしようかつこう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/johokues/index.html"
       },
       "熊本市立城南小学校" : {
+         "location" : "熊本県熊本市南高江4-2-70",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4106",
          "owner_type" : "市立",
-         "short_name" : "城南小学校"
+         "short_name" : "城南小学校",
+         "sort_name" : "くまもとしりつしようなんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/jyounanes/index.htm"
       },
       "熊本市立城山小学校" : {
+         "location" : "熊本県熊本市城山大塘1-23-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0067",
          "owner_type" : "市立",
-         "short_name" : "城山小学校"
+         "short_name" : "城山小学校",
+         "sort_name" : "くまもとしりつしようさんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/jozanes/index.htm"
       },
       "熊本市立城東小学校" : {
+         "location" : "熊本県熊本市千葉城町5番1号",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0001",
          "owner_type" : "市立",
-         "short_name" : "城東小学校"
+         "short_name" : "城東小学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/jotoes/index.htm"
       },
       "熊本市立城西小学校" : {
+         "location" : "熊本県熊本市島崎3-12-60",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0073",
          "owner_type" : "市立",
-         "short_name" : "城西小学校"
+         "short_name" : "城西小学校",
+         "sort_name" : "くまもとしりつしようせいしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/jyoseies/index.htm"
       },
       "熊本市立壺川小学校" : {
+         "location" : "熊本県熊本市壺川1-4-5",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0076",
          "owner_type" : "市立",
-         "short_name" : "壺川小学校"
+         "short_name" : "壺川小学校",
+         "sort_name" : "くまもとしりつこせんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kosenes/index.htm"
       },
       "熊本市立大江小学校" : {
+         "location" : "熊本県熊本市大江3-5-31",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0971",
          "owner_type" : "市立",
-         "short_name" : "大江小学校"
+         "short_name" : "大江小学校",
+         "sort_name" : "くまもとしりつおおえしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/ooees/index.htm"
       },
       "熊本市立奥古閑小学校" : {
+         "location" : "熊本県熊本市奥古閑町4072",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4125",
          "owner_type" : "市立",
-         "short_name" : "奥古閑小学校"
+         "short_name" : "奥古閑小学校",
+         "sort_name" : "くまもとしりつおくこかしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/okukogaes/index.htm"
       },
       "熊本市立富合小学校" : {
+         "location" : "熊本県熊本市富合町清藤472-472",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4151",
          "owner_type" : "市立",
-         "short_name" : "富合小学校"
+         "short_name" : "富合小学校",
+         "sort_name" : "くまもとしりつとみあいしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/tomiaies/index.htm"
       },
       "熊本市立小島小学校" : {
+         "location" : "熊本県熊本市小島下町618",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5284",
          "owner_type" : "市立",
-         "short_name" : "小島小学校"
+         "short_name" : "小島小学校",
+         "sort_name" : "くまもとしりつおしましよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/oshimaes/index.htm"
       },
       "熊本市立尾ノ上小学校" : {
+         "location" : "熊本県熊本市尾ノ上2-8-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0913",
          "owner_type" : "市立",
-         "short_name" : "尾ノ上小学校"
+         "short_name" : "尾ノ上小学校",
+         "sort_name" : "くまもとしりつおのうえしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/onoue/index.htm"
       },
       "熊本市立山ノ内小学校" : {
+         "location" : "熊本県熊本市山ノ内4-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0914",
          "owner_type" : "市立",
-         "short_name" : "山ノ内小学校"
+         "short_name" : "山ノ内小学校",
+         "sort_name" : "くまもとしりつやまのうちしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/yamanouchies/"
       },
       "熊本市立山本小学校" : {
+         "location" : "熊本県熊本市植木町内1424",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0102",
          "owner_type" : "市立",
-         "short_name" : "山本小学校"
+         "short_name" : "山本小学校",
+         "sort_name" : "くまもとしりつやまもとしよう",
+         "url" : "http://www2.higo.ed.jp/es/yamamoto/index.htm"
       },
       "熊本市立山東小学校" : {
+         "location" : "熊本県熊本市植木町有泉841",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0123",
          "owner_type" : "市立",
-         "short_name" : "山東小学校"
+         "short_name" : "山東小学校",
+         "sort_name" : "くまもとしりつさんとうしよう",
+         "url" : "http://www.ueki-syousei.com/gakkou/santou/"
       },
       "熊本市立川上小学校" : {
+         "location" : "熊本県熊本市西梶尾町480",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5516",
          "owner_type" : "市立",
-         "short_name" : "川上小学校"
+         "short_name" : "川上小学校",
+         "sort_name" : "くまもとしりつかわかみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kawakami/index.htm"
       },
       "熊本市立川口小学校" : {
+         "location" : "熊本県熊本市川口町3045",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4123",
          "owner_type" : "市立",
-         "short_name" : "川口小学校"
+         "short_name" : "川口小学校",
+         "sort_name" : "くまもとしりつかわくちしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kawaguchies/index.htm"
       },
       "熊本市立川尻小学校" : {
+         "location" : "熊本県熊本市川尻4-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4115",
          "owner_type" : "市立",
-         "short_name" : "川尻小学校"
+         "short_name" : "川尻小学校",
+         "sort_name" : "くまもとしりつかわしりしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kawashiries/index.htm"
       },
       "熊本市立帯山小学校" : {
+         "location" : "熊本県熊本市帯山4-11-11",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0924",
          "owner_type" : "市立",
-         "short_name" : "帯山小学校"
+         "short_name" : "帯山小学校",
+         "sort_name" : "くまもとしりつおひやましよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/obiyamaes/index.htm"
       },
       "熊本市立帯山西小学校" : {
+         "location" : "熊本県熊本市帯山1-29-8",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0924",
          "owner_type" : "市立",
-         "short_name" : "帯山西小学校"
+         "short_name" : "帯山西小学校",
+         "sort_name" : "くまもとしりつおひやまにししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/obiyamanishies/frame1.htm"
       },
       "熊本市立弓削小学校" : {
+         "location" : "熊本県熊本市龍田町弓削879-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8002",
          "owner_type" : "市立",
-         "short_name" : "弓削小学校"
+         "short_name" : "弓削小学校",
+         "sort_name" : "くまもとしりつゆけしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/yugees/index.htm"
       },
       "熊本市立御幸小学校" : {
+         "location" : "熊本県熊本市御幸笛田7-16-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4103",
          "owner_type" : "市立",
-         "short_name" : "御幸小学校"
+         "short_name" : "御幸小学校",
+         "sort_name" : "くまもとしりつみゆきしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/miyukies/index.html"
       },
       "熊本市立慶徳小学校" : {
+         "location" : "熊本県熊本市山崎町72",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0016",
          "owner_type" : "市立",
-         "short_name" : "慶徳小学校"
+         "short_name" : "慶徳小学校",
+         "sort_name" : "くまもとしりつけいとくしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/keitokues/index.htm"
       },
       "熊本市立日吉小学校" : {
+         "location" : "熊本県熊本市近見1-9-30",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4101",
          "owner_type" : "市立",
-         "short_name" : "日吉小学校"
+         "short_name" : "日吉小学校",
+         "sort_name" : "くまもとしりつひよししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/hiyoshies/index.htm"
       },
       "熊本市立日吉東小学校" : {
+         "location" : "熊本県熊本市近見5-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4101",
          "owner_type" : "市立",
-         "short_name" : "日吉東小学校"
+         "short_name" : "日吉東小学校",
+         "sort_name" : "くまもとしりつひよしひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/hiyoshihigashi/index.htm"
       },
       "熊本市立春日小学校" : {
+         "location" : "熊本県熊本市春日5-3-5",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0047",
          "owner_type" : "市立",
-         "short_name" : "春日小学校"
+         "short_name" : "春日小学校",
+         "sort_name" : "くまもとしりつかすかしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kasugaes/index.htm"
       },
       "熊本市立春竹小学校" : {
+         "location" : "熊本県熊本市琴平1-9-43",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0813",
          "owner_type" : "市立",
-         "short_name" : "春竹小学校"
+         "short_name" : "春竹小学校",
+         "sort_name" : "くまもとしりつはるたけしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/harutakees/index.htm"
       },
       "熊本市立月出小学校" : {
+         "location" : "熊本県熊本市月出六丁目2-40",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0920",
          "owner_type" : "市立",
-         "short_name" : "月出小学校"
+         "short_name" : "月出小学校",
+         "sort_name" : "くまもとしりつつきてしようかつこう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/tukidees/index.htm"
       },
       "熊本市立本荘小学校" : {
+         "location" : "熊本県熊本市本荘6-5-47",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0811",
          "owner_type" : "市立",
-         "short_name" : "本荘小学校"
+         "short_name" : "本荘小学校",
+         "sort_name" : "くまもとしりつほんしようしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/honjyoes/index.htm"
       },
       "熊本市立杉上小学校" : {
+         "location" : "熊本県熊本市城南町永505-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4234",
          "owner_type" : "市立",
-         "short_name" : "杉上小学校"
+         "short_name" : "杉上小学校",
+         "sort_name" : "くまもとしりつすきかみしよう",
+         "url" : "http://www2.higo.ed.jp/es/sugikami/"
       },
       "熊本市立東町小学校" : {
+         "location" : "熊本県熊本市東町3-3-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0901",
          "owner_type" : "市立",
-         "short_name" : "東町小学校"
+         "short_name" : "東町小学校",
+         "sort_name" : "くまもとしりつひかしまちしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/higashimachies/index/index.htm"
       },
       "熊本市立松尾北小学校" : {
+         "location" : "熊本県熊本市松尾町平山255",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5282",
          "owner_type" : "市立",
-         "short_name" : "松尾北小学校"
+         "short_name" : "松尾北小学校",
+         "sort_name" : "くまもとしりつまつおきたしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/matuokitaes/index.htm"
       },
       "熊本市立松尾東小学校" : {
+         "location" : "熊本県熊本市松尾町上松尾2880",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5283",
          "owner_type" : "市立",
-         "short_name" : "松尾東小学校"
+         "short_name" : "松尾東小学校",
+         "sort_name" : "くまもとしりつまつおひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/matuohigashies/index.htm"
       },
       "熊本市立松尾西小学校" : {
+         "location" : "熊本県熊本市松尾町上松尾4456-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5283",
          "owner_type" : "市立",
-         "short_name" : "松尾西小学校"
+         "short_name" : "松尾西小学校",
+         "sort_name" : "くまもとしりつまつおにししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/matuonishies/index.htm"
       },
       "熊本市立桜井小学校" : {
+         "location" : "熊本県熊本市植木町滴水2255",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0133",
          "owner_type" : "市立",
-         "short_name" : "桜井小学校"
+         "short_name" : "桜井小学校",
+         "sort_name" : "くまもとしりつさくらいしよう",
+         "url" : "http://www.ueki-syousei.com/gakkou/sakurai/index.html"
       },
       "熊本市立桜木小学校" : {
+         "location" : "熊本県熊本市花立2-23-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-2118",
          "owner_type" : "市立",
-         "short_name" : "桜木小学校"
+         "short_name" : "桜木小学校",
+         "sort_name" : "くまもとしりつさくらきしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/sakuragies/index.htm"
       },
       "熊本市立桜木東小学校" : {
+         "location" : "熊本県熊本市桜木6-10-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-2101",
          "owner_type" : "市立",
-         "short_name" : "桜木東小学校"
+         "short_name" : "桜木東小学校",
+         "sort_name" : "くまもとしりつさくらきひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/sakuragihigashi/index.htm"
       },
       "熊本市立植木小学校" : {
+         "location" : "熊本県熊本市植木町広住1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0131",
          "owner_type" : "市立",
-         "short_name" : "植木小学校"
+         "short_name" : "植木小学校",
+         "sort_name" : "くまもとしりつうえきしよう",
+         "url" : "http://www2.higo.ed.jp/es/uekies/"
       },
       "熊本市立楠小学校" : {
+         "location" : "熊本県熊本市楠5-15-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8003",
          "owner_type" : "市立",
-         "short_name" : "楠小学校"
+         "short_name" : "楠小学校",
+         "sort_name" : "くまもとしりつくすのきしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kusunokies/index.htm"
       },
       "熊本市立楡木小学校" : {
+         "location" : "熊本県熊本市楡木3-9-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0883",
          "owner_type" : "市立",
-         "short_name" : "楡木小学校"
+         "short_name" : "楡木小学校",
+         "sort_name" : "くまもとしりつにれのきしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nirenokies/index.htm"
       },
       "熊本市立武蔵小学校" : {
+         "location" : "熊本県熊本市武蔵ケ丘3-15-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8001",
          "owner_type" : "市立",
-         "short_name" : "武蔵小学校"
+         "short_name" : "武蔵小学校",
+         "sort_name" : "くまもとしりつむさししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/musashies/index.htm"
       },
       "熊本市立池上小学校" : {
+         "location" : "熊本県熊本市池上町850",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0048",
          "owner_type" : "市立",
-         "short_name" : "池上小学校"
+         "short_name" : "池上小学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/ikenouees/index.htm"
       },
       "熊本市立池田小学校" : {
+         "location" : "熊本県熊本市池田1-28-5",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0082",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "くまもとしりついけたしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/ikedaes/index.htm"
       },
       "熊本市立河内小学校" : {
+         "location" : "熊本県熊本市河内町船津2505-2",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5347",
          "owner_type" : "市立",
-         "short_name" : "河内小学校"
+         "short_name" : "河内小学校",
+         "sort_name" : "くまもとしりつかわちしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kawachies/index.htm"
       },
       "熊本市立河内小学校白浜分校" : {
+         "location" : "熊本県熊本市河内町白浜1018-6",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5348",
          "owner_type" : "市立",
-         "short_name" : "河内小学校白浜分校"
+         "short_name" : "河内小学校白浜分校",
+         "sort_name" : "くまもとしりつかわちしようしらはま",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kawachies/shirahama/top.htm"
       },
       "熊本市立泉ヶ丘小学校" : {
+         "location" : "熊本県熊本市水源1-7-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0907",
          "owner_type" : "市立",
-         "short_name" : "泉ヶ丘小学校"
+         "short_name" : "泉ヶ丘小学校",
+         "sort_name" : "くまもとしりついすみかおかしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/izumigaoka/index.htm"
       },
       "熊本市立清水小学校" : {
+         "location" : "熊本県熊本市清水本町14-58",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8074",
          "owner_type" : "市立",
-         "short_name" : "清水小学校"
+         "short_name" : "清水小学校",
+         "sort_name" : "くまもとしりつしみすしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/shimizues/index.htm"
       },
       "熊本市立田原小学校" : {
+         "location" : "熊本県熊本市植木町富応1302-4",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0162",
          "owner_type" : "市立",
-         "short_name" : "田原小学校"
+         "short_name" : "田原小学校",
+         "sort_name" : "くまもとしりつたはらしよう",
+         "url" : "http://www.ueki-syousei.com/gakkou/tabaru/index.html"
       },
       "熊本市立田底小学校" : {
+         "location" : "熊本県熊本市植木町正清499-3",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0117",
          "owner_type" : "市立",
-         "short_name" : "田底小学校"
+         "short_name" : "田底小学校",
+         "sort_name" : "くまもとしりつたそこしよう",
+         "url" : "http://www.town.ueki.kumamoto.jp/04nyugaku/tasoko/newpage1.html"
       },
       "熊本市立田迎南小学校" : {
+         "location" : "熊本県熊本市田井島3-12-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0965",
          "owner_type" : "市立",
-         "short_name" : "田迎南小学校"
+         "short_name" : "田迎南小学校",
+         "sort_name" : "くまもとしりつたむかえみなみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/tamukaeminamies/index.htm"
       },
       "熊本市立田迎小学校" : {
+         "location" : "熊本県熊本市出仲間8丁目3番30号",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0963",
          "owner_type" : "市立",
-         "short_name" : "田迎小学校"
+         "short_name" : "田迎小学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/tamukaees/index.htm"
       },
       "熊本市立画図小学校" : {
+         "location" : "熊本県熊本市下江津8-1-6",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0960",
          "owner_type" : "市立",
-         "short_name" : "画図小学校"
+         "short_name" : "画図小学校",
+         "sort_name" : "くまもとしりつえすしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/ezues/index.htm"
       },
       "熊本市立白坪小学校" : {
+         "location" : "熊本県熊本市蓮台寺4-4-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0055",
          "owner_type" : "市立",
-         "short_name" : "白坪小学校"
+         "short_name" : "白坪小学校",
+         "sort_name" : "くまもとしりつしらつほしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/shiratuboes/index.htm"
       },
       "熊本市立白山小学校" : {
+         "location" : "熊本県熊本市菅原町9-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0957",
          "owner_type" : "市立",
-         "short_name" : "白山小学校"
+         "short_name" : "白山小学校",
+         "sort_name" : "くまもとしりつはくさんしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/hakuzanes/index.htm"
       },
       "熊本市立白川小学校" : {
+         "location" : "熊本県熊本市新屋敷1-7-13",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0957",
          "owner_type" : "市立",
-         "short_name" : "白川小学校"
+         "short_name" : "白川小学校",
+         "sort_name" : "くまもとしりつしらかわしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/shirakawaes/index.htm"
       },
       "熊本市立砂取小学校" : {
+         "location" : "熊本県熊本市神水1-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0954",
          "owner_type" : "市立",
-         "short_name" : "砂取小学校"
+         "short_name" : "砂取小学校",
+         "sort_name" : "くまもとしりつすなとりしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/sunatories/top/top.htm"
       },
       "熊本市立碩台小学校" : {
+         "location" : "熊本県熊本市井川淵町4-8",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0841",
          "owner_type" : "市立",
-         "short_name" : "碩台小学校"
+         "short_name" : "碩台小学校",
+         "sort_name" : "くまもとしりつせきたいしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/sekidai/index.htm"
       },
       "熊本市立秋津小学校" : {
+         "location" : "熊本県熊本市秋津3-9-20",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-2104",
          "owner_type" : "市立",
-         "short_name" : "秋津小学校"
+         "short_name" : "秋津小学校",
+         "sort_name" : "くまもとしりつあきつしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/akitues/index.htm"
       },
       "熊本市立花園小学校" : {
+         "location" : "熊本県熊本市花園6-9-15",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0072",
          "owner_type" : "市立",
-         "short_name" : "花園小学校"
+         "short_name" : "花園小学校",
+         "sort_name" : "くまもとしりつはなそのしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/hanazonoes/index.htm"
       },
       "熊本市立芳野小学校" : {
+         "location" : "熊本県熊本市河内町野出1419",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5343",
          "owner_type" : "市立",
-         "short_name" : "芳野小学校"
+         "short_name" : "芳野小学校",
+         "sort_name" : "くまもとしりつよしのしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/yoshino/index.htm"
       },
       "熊本市立若葉小学校" : {
+         "location" : "熊本県熊本市若葉4丁目23-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|46|09|N|130|45|57|E|",
+         "location_zipcode" : "861-2103",
          "owner_type" : "市立",
-         "short_name" : "若葉小学校"
+         "short_name" : "若葉小学校",
+         "sort_name" : "くまもとしりつわかはしようかつこう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/wakabaes/index.htm"
       },
       "熊本市立菱形小学校" : {
+         "location" : "熊本県熊本市植木町円台寺124",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0153",
          "owner_type" : "市立",
-         "short_name" : "菱形小学校"
+         "short_name" : "菱形小学校",
+         "sort_name" : "くまもとしりつひしかたしよう",
+         "url" : "http://www.ueki-syousei.com/gakkou/hishigata/"
       },
       "熊本市立西原小学校" : {
+         "location" : "熊本県熊本市新南部3-4-60",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0928",
          "owner_type" : "市立",
-         "short_name" : "西原小学校"
+         "short_name" : "西原小学校",
+         "sort_name" : "くまもとしりつにしはるしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nishibaru/index.htm"
       },
       "熊本市立西里小学校" : {
+         "location" : "熊本県熊本市下硯川町1784",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5522",
          "owner_type" : "市立",
-         "short_name" : "西里小学校"
+         "short_name" : "西里小学校",
+         "sort_name" : "くまもとしりつにしさとしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nishizatoes/index.html"
       },
       "熊本市立託麻北小学校" : {
+         "location" : "熊本県熊本市上南部3-34-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8017",
          "owner_type" : "市立",
-         "short_name" : "託麻北小学校"
+         "short_name" : "託麻北小学校",
+         "sort_name" : "くまもとけんりつたくまきたしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takumakitaes/Home.html"
       },
       "熊本市立託麻南小学校" : {
+         "location" : "熊本県熊本市長嶺東3-2-20",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8017",
          "owner_type" : "市立",
-         "short_name" : "託麻南小学校"
+         "short_name" : "託麻南小学校",
+         "sort_name" : "くまもとしりつたくまみなみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takumaminamies/index.htm"
       },
       "熊本市立託麻原小学校" : {
+         "location" : "熊本県熊本市渡鹿2-3-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0970",
          "owner_type" : "市立",
-         "short_name" : "託麻原小学校"
+         "short_name" : "託麻原小学校",
+         "sort_name" : "くまもとしりつたくまはるしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takumabarues/index.htm"
       },
       "熊本市立託麻東小学校" : {
+         "location" : "熊本県熊本市戸島3-15-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0931",
          "owner_type" : "市立",
-         "short_name" : "託麻東小学校"
+         "short_name" : "託麻東小学校",
+         "sort_name" : "くまもとしりつたくまひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takumahigashies/index/framepage2.htm"
       },
       "熊本市立託麻西小学校" : {
+         "location" : "熊本県熊本市御領2-3-30",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0970",
          "owner_type" : "市立",
-         "short_name" : "託麻西小学校"
+         "short_name" : "託麻西小学校",
+         "sort_name" : "くまもとしりつたくまにし",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takumanishies/index.htm"
       },
       "熊本市立豊田小学校" : {
+         "location" : "熊本県熊本市城南町塚原259番地",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4226",
          "owner_type" : "市立",
-         "short_name" : "豊田小学校"
+         "short_name" : "豊田小学校",
+         "sort_name" : "くまもとしりつとよた",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/toyodaes/"
       },
       "熊本市立銭塘小学校" : {
+         "location" : "熊本県熊本市銭塘町990",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4126",
          "owner_type" : "市立",
-         "short_name" : "銭塘小学校"
+         "short_name" : "銭塘小学校",
+         "sort_name" : "くまもとしりつせんともしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/zendomoes/index.htm"
       },
       "熊本市立長嶺小学校" : {
+         "location" : "熊本県熊本市長嶺南7-22-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0939",
          "owner_type" : "市立",
-         "short_name" : "長嶺小学校"
+         "short_name" : "長嶺小学校",
+         "sort_name" : "くまもとしりつなかみねしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/nagaminees/index.htm"
       },
       "熊本市立隈庄小学校" : {
+         "location" : "熊本県熊本市城南町隈庄270番地",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4203",
          "owner_type" : "市立",
-         "short_name" : "隈庄小学校"
+         "short_name" : "隈庄小学校",
+         "sort_name" : "くまもとしりつくまのしようしよう",
+         "url" : "http://www2.higo.ed.jp/es/kumano-es/"
       },
       "熊本市立飽田南小学校" : {
+         "location" : "熊本県熊本市護藤町999",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4117",
          "owner_type" : "市立",
-         "short_name" : "飽田南小学校"
+         "short_name" : "飽田南小学校",
+         "sort_name" : "くまもとしりつあきたみなみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/akitaminamies/index.htm"
       },
       "熊本市立飽田東小学校" : {
+         "location" : "熊本県熊本市砂原町115",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5255",
          "owner_type" : "市立",
-         "short_name" : "飽田東小学校"
+         "short_name" : "飽田東小学校",
+         "sort_name" : "くまもとしりつあきたひかししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/akitahigashies/index.htm"
       },
       "熊本市立飽田西小学校" : {
+         "location" : "熊本県熊本市並建町1005",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5263",
          "owner_type" : "市立",
-         "short_name" : "飽田西小学校"
+         "short_name" : "飽田西小学校",
+         "sort_name" : "くまもとしりつあきたにししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/akitanisies/index.htm"
       },
       "熊本市立高平台小学校" : {
+         "location" : "熊本県熊本市高平1-17-28",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8074",
          "owner_type" : "市立",
-         "short_name" : "高平台小学校"
+         "short_name" : "高平台小学校",
+         "sort_name" : "くまもとしりつたかひらたいしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takahiradaies/index.htm"
       },
       "熊本市立高橋小学校" : {
+         "location" : "熊本県熊本市高橋町317",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0062",
          "owner_type" : "市立",
-         "short_name" : "高橋小学校"
+         "short_name" : "高橋小学校",
+         "sort_name" : "くまもとしりつたかはししよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/takahashies/index.html"
       },
       "熊本市立麻生田小学校" : {
+         "location" : "熊本県熊本市麻生田3-9-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8081",
          "owner_type" : "市立",
-         "short_name" : "麻生田小学校"
+         "short_name" : "麻生田小学校",
+         "sort_name" : "くまもとしりつあそうたしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/asoudaes/"
       },
       "熊本市立黒髪小学校" : {
+         "location" : "熊本県熊本市黒髪2-2-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0862",
          "owner_type" : "市立",
-         "short_name" : "黒髪小学校"
+         "short_name" : "黒髪小学校",
+         "sort_name" : "くまもとしりつくろかみしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/kurokamies/top/index1.htm"
       },
       "熊本市立龍田小学校" : {
+         "location" : "熊本県熊本市龍田7-7-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8006",
          "owner_type" : "市立",
-         "short_name" : "龍田小学校"
+         "short_name" : "龍田小学校",
+         "sort_name" : "くまもとしりつたつたしよう",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/e/tatsudaes/index.htm"
       },
       "玉名市立三ツ川小学校" : {
          "location_area" : "玉名市",
@@ -1624,19 +2086,31 @@
          "short_name" : "横島小学校"
       },
       "玉名市立滑石小学校" : {
+         "location" : "熊本県玉名市滑石1452",
          "location_area" : "玉名市",
+         "location_wikipedia_latlon" : "|32|53|55|N|130|31|55|E",
+         "location_zipcode" : "865-0056",
          "owner_type" : "市立",
-         "short_name" : "滑石小学校"
+         "short_name" : "滑石小学校",
+         "sort_name" : "たまなしりつなめいししよう"
       },
       "玉名市立玉名小学校" : {
+         "location" : "熊本県玉名市玉名856",
          "location_area" : "玉名市",
+         "location_zipcode" : "865-0005",
          "owner_type" : "市立",
-         "short_name" : "玉名小学校"
+         "short_name" : "玉名小学校",
+         "sort_name" : "たまなしりつたまなしよう"
       },
       "玉名市立玉名町小学校" : {
+         "location" : "熊本県玉名市岩崎1120",
          "location_area" : "玉名市",
+         "location_wikipedia_latlon" : "|32|55|43|N|130|33|25|E",
+         "location_zipcode" : "865-0016",
          "owner_type" : "市立",
-         "short_name" : "玉名町小学校"
+         "short_name" : "玉名町小学校",
+         "sort_name" : "たまなしりつたまなまちしよう",
+         "url" : "http://machi-es.tamana.ed.jp/"
       },
       "玉名市立玉水小学校" : {
          "location_area" : "玉名市",
@@ -1819,9 +2293,14 @@
          "short_name" : "都呂々小学校"
       },
       "荒尾市立中央小学校" : {
+         "location" : "熊本県荒尾市荒尾馬渡43",
          "location_area" : "荒尾市",
+         "location_wikipedia_latlon" : "|32|58|38|N|130|27|39|E",
+         "location_zipcode" : "864-0000",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "あらおしりつちゆうおうしよう",
+         "url" : "http://www2.higo.ed.jp/es/araoches/"
       },
       "荒尾市立八幡小学校" : {
          "location_area" : "荒尾市",
@@ -1854,9 +2333,13 @@
          "short_name" : "清里小学校"
       },
       "荒尾市立緑ヶ丘小学校" : {
+         "location" : "熊本県荒尾市荒尾4238",
          "location_area" : "荒尾市",
+         "location_wikipedia_latlon" : "|32|58|54|N|130|28|14|E",
+         "location_zipcode" : "864-0041",
          "owner_type" : "市立",
-         "short_name" : "緑ヶ丘小学校"
+         "short_name" : "緑ヶ丘小学校",
+         "sort_name" : "あらおしりつみとりかおかしよう"
       },
       "荒尾市立荒尾第一小学校" : {
          "location_area" : "荒尾市",
@@ -1924,9 +2407,14 @@
          "short_name" : "菊之池小学校"
       },
       "菊池市立菊池北小学校" : {
+         "location" : "熊本県菊池市隈府1530-1",
          "location_area" : "菊池市",
+         "location_wikipedia_latlon" : "|32|59|19|N|130|49|5|E",
+         "location_zipcode" : "861-1331",
          "owner_type" : "市立",
-         "short_name" : "菊池北小学校"
+         "short_name" : "菊池北小学校",
+         "sort_name" : "きくちしりつきくちきたしよう",
+         "url" : "http://www2.higo.ed.jp/es/kikunes/"
       },
       "菊池市立迫水小学校" : {
          "location_area" : "菊池市",
@@ -1934,9 +2422,14 @@
          "short_name" : "迫水小学校"
       },
       "菊池市立隈府小学校" : {
+         "location" : "熊本県菊池市隈府792",
          "location_area" : "菊池市",
+         "location_wikipedia_latlon" : "|32|58|31|N|130|48|48|E",
+         "location_zipcode" : "861-1331",
          "owner_type" : "市立",
-         "short_name" : "隈府小学校"
+         "short_name" : "隈府小学校",
+         "sort_name" : "きくちしりつわいふしよう",
+         "url" : "http://www2.higo.ed.jp/es/waifusyo/"
       },
       "菊池市立龍門小学校" : {
          "location_area" : "菊池市",
@@ -1954,14 +2447,21 @@
          "short_name" : "武蔵ヶ丘小学校"
       },
       "菊陽町立菊陽中部小学校" : {
+         "location" : "熊本県菊池郡菊陽町大字津久礼411",
          "location_area" : "菊池郡菊陽町",
+         "location_zipcode" : "869-1101",
          "owner_type" : "町立",
-         "short_name" : "菊陽中部小学校"
+         "short_name" : "菊陽中部小学校",
+         "sort_name" : "きくようちようりつきくようちゆうふしよう"
       },
       "菊陽町立菊陽北小学校" : {
+         "location" : "熊本県菊池郡菊陽町大字原水4652",
          "location_area" : "菊池郡菊陽町",
+         "location_wikipedia_latlon" : "|32|52|26|N|130|49|59|E",
+         "location_zipcode" : "869-1102",
          "owner_type" : "町立",
-         "short_name" : "菊陽北小学校"
+         "short_name" : "菊陽北小学校",
+         "sort_name" : "きくようちようりつきくようきた"
       },
       "菊陽町立菊陽南小学校" : {
          "location_area" : "菊池郡菊陽町",
@@ -2016,7 +2516,8 @@
       "長洲町立長洲小学校" : {
          "location_area" : "玉名郡長洲町",
          "owner_type" : "町立",
-         "short_name" : "長洲小学校"
+         "short_name" : "長洲小学校",
+         "sort_name" : "なかすちようりつなかすしよう"
       },
       "阿蘇市立中通小学校" : {
          "location_area" : "阿蘇市",
@@ -2029,9 +2530,13 @@
          "short_name" : "乙姫小学校"
       },
       "阿蘇市立内牧小学校" : {
+         "location" : "熊本県阿蘇市内牧1376",
          "location_area" : "阿蘇市",
+         "location_zipcode" : "869-2301",
          "owner_type" : "市立",
-         "short_name" : "内牧小学校"
+         "short_name" : "内牧小学校",
+         "sort_name" : "あそしりつうちのまきしよう",
+         "url" : "http://www.aso.ne.jp/~utimaki/"
       },
       "阿蘇市立古城小学校" : {
          "location_area" : "阿蘇市",
@@ -2054,9 +2559,13 @@
          "short_name" : "尾ヶ石東部小学校"
       },
       "阿蘇市立山田小学校" : {
+         "location" : "熊本県阿蘇市小野田567-2",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|58|11|N|131|05|23|E|",
+         "location_zipcode" : "869-2314",
          "owner_type" : "市立",
-         "short_name" : "山田小学校"
+         "short_name" : "山田小学校",
+         "sort_name" : "あそしりつやまたしよう"
       },
       "阿蘇市立波野小学校" : {
          "location_area" : "阿蘇市",
@@ -2064,9 +2573,14 @@
          "short_name" : "波野小学校"
       },
       "阿蘇市立碧水小学校" : {
+         "location" : "熊本県阿蘇市黒川1234-1",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|56|04|N|131|04|55|E|",
+         "location_zipcode" : "869-2225",
          "owner_type" : "市立",
-         "short_name" : "碧水小学校"
+         "short_name" : "碧水小学校",
+         "sort_name" : "あそしりつへきすいしよう",
+         "url" : "http://www.aso.ne.jp/~hekisui/"
       },
       "阿蘇市立阿蘇西小学校" : {
          "location_area" : "阿蘇市",
@@ -2086,8 +2600,12 @@
    },
    "primary_and_secondary_schools" : {
       "益城町及び御船町中小学校組合立袴野小中学校" : {
+         "location" : "熊本県上益城郡益城町大字福原4259",
          "location_area" : "上益城郡",
-         "owner_type" : "公立"
+         "location_zipcode" : "861-2211",
+         "owner_type" : "公立",
+         "sort_name" : "ましきまちおよひみふねまちちゆうしようかつこうくみあいりつはかまのしようちゆう",
+         "url" : "http://www.higo.ed.jp/jhs/hakamano/"
       }
    }
 }

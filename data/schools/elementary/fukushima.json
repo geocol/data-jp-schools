@@ -123,7 +123,8 @@
       "いわき市立小名浜第三小学校" : {
          "location_area" : "いわき市",
          "owner_type" : "市立",
-         "short_name" : "小名浜第三小学校"
+         "short_name" : "小名浜第三小学校",
+         "sort_name" : "いわきしりつおなはまたい3しよう"
       },
       "いわき市立小名浜第二小学校" : {
          "location_area" : "いわき市",
@@ -543,6 +544,7 @@
          "location_area" : "伊達市",
          "owner_type" : "市立",
          "short_name" : "伊達小学校",
+         "sort_name" : "たてしりつたてしよう ふくしま",
          "wikipedia_name" : "伊達市立伊達小学校 (福島県)"
       },
       "伊達市立伊達東小学校" : {
@@ -719,9 +721,13 @@
          "short_name" : "川南小学校"
       },
       "会津若松市立日新小学校" : {
+         "location" : "福島県会津若松市日新町7-40",
          "location_area" : "会津若松市",
+         "location_zipcode" : "965-0861",
          "owner_type" : "市立",
-         "short_name" : "日新小学校"
+         "short_name" : "日新小学校",
+         "sort_name" : "あいつわかまつしりつにつしんしようかつこう",
+         "url" : "http://www.nisshin-e.fks.ed.jp/index.html"
       },
       "会津若松市立東山小学校" : {
          "location_area" : "会津若松市",
@@ -1296,10 +1302,14 @@
       "本宮市立本宮まゆみ小学校" : {
          "location_area" : "本宮市",
          "owner_type" : "市立",
-         "short_name" : "本宮まゆみ小学校"
+         "short_name" : "本宮まゆみ小学校",
+         "sort_name" : "もとみやしりつもとみやまゆみしよう"
       },
       "本宮市立本宮小学校" : {
+         "location" : "福島県本宮市本宮字館ノ越48",
          "location_area" : "本宮市",
+         "location_wikipedia_latlon" : "|37|31|13|N|140|24|12|E|",
+         "location_zipcode" : "969-1121",
          "owner_type" : "市立",
          "short_name" : "本宮小学校"
       },
@@ -1664,7 +1674,8 @@
       "白河市立関辺小学校" : {
          "location_area" : "白河市",
          "owner_type" : "市立",
-         "short_name" : "関辺小学校"
+         "short_name" : "関辺小学校",
+         "sort_name" : "しらかわしりつせきへしよう"
       },
       "相馬市立中村第一小学校" : {
          "location_area" : "相馬市",
@@ -1807,7 +1818,8 @@
          "short_name" : "磐梯第二小学校"
       },
       "福島大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ふくしまたいかくふそくしよう"
       },
       "福島市立三河台小学校" : {
          "location_area" : "福島市",
@@ -1955,9 +1967,12 @@
          "short_name" : "清明小学校"
       },
       "福島市立清水小学校" : {
+         "location" : "福島県福島市南沢又字柳清水20",
          "location_area" : "福島市",
+         "location_zipcode" : "960-8254",
          "owner_type" : "市立",
-         "short_name" : "清水小学校"
+         "short_name" : "清水小学校",
+         "sort_name" : "ふくしましりつしみすしよう"
       },
       "福島市立渡利小学校" : {
          "location_area" : "福島市",
@@ -2403,9 +2418,13 @@
          "short_name" : "赤木小学校"
       },
       "郡山市立金透小学校" : {
+         "location" : "福島県郡山市堂前町5番21号",
          "location_area" : "郡山市",
+         "location_zipcode" : "963-8877",
          "owner_type" : "市立",
-         "short_name" : "金透小学校"
+         "short_name" : "金透小学校",
+         "sort_name" : "こおりやましりつきんとうしよう",
+         "url" : "http://www.edu.city.koriyama.fukushima.jp/kinto-e/"
       },
       "郡山市立開成小学校" : {
          "location_area" : "郡山市",
@@ -2425,7 +2444,8 @@
       "郡山市立高野小学校" : {
          "location_area" : "郡山市",
          "owner_type" : "市立",
-         "short_name" : "高野小学校"
+         "short_name" : "高野小学校",
+         "sort_name" : "こおりやましりつたかのしよう"
       },
       "郡山市立鬼生田小学校" : {
          "location_area" : "郡山市",
@@ -2473,9 +2493,12 @@
          "short_name" : "小塩江小学校"
       },
       "須賀川市立柏城小学校" : {
+         "location" : "福島県須賀川市滑川字東町127",
          "location_area" : "須賀川市",
+         "location_zipcode" : "962-0403",
          "owner_type" : "市立",
-         "short_name" : "柏城小学校"
+         "short_name" : "柏城小学校",
+         "sort_name" : "すかかわしりつかしわきしよう"
       },
       "須賀川市立白方小学校" : {
          "location_area" : "須賀川市",
@@ -2503,9 +2526,13 @@
          "short_name" : "第三小学校"
       },
       "須賀川市立第二小学校" : {
+         "location" : "福島県須賀川市弘法坦151",
          "location_area" : "須賀川市",
+         "location_zipcode" : "962-0848",
          "owner_type" : "市立",
-         "short_name" : "第二小学校"
+         "short_name" : "第二小学校",
+         "sort_name" : "すかかわしりつたい2しよう",
+         "url" : "http://gyousei1.city.sukagawa.fukushima.jp/cb/schoolhp/su2sho/"
       },
       "須賀川市立西袋第一小学校" : {
          "location_area" : "須賀川市",

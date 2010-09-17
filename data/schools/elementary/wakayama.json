@@ -1,9 +1,13 @@
 {
    "elementary_schools" : {
       "かつらぎ町立三谷小学校" : {
+         "location" : "和歌山県伊都郡かつらぎ町三谷(かつらぎ町)1650",
          "location_area" : "伊都郡かつらぎ町",
+         "location_zipcode" : "649-7133",
          "owner_type" : "町立",
-         "short_name" : "三谷小学校"
+         "short_name" : "三谷小学校",
+         "sort_name" : "かつらきちようりつみたに",
+         "url" : "http://www.katsuragicho-wky.ed.jp/mitanij/html/"
       },
       "かつらぎ町立四邑小学校" : {
          "location_area" : "伊都郡かつらぎ町",
@@ -200,9 +204,13 @@
          "short_name" : "河根小学校"
       },
       "北山村立北山小学校" : {
+         "location" : "和歌山県東牟婁郡北山村大沼569",
          "location_area" : "東牟婁郡北山村",
+         "location_zipcode" : "519-5603",
          "owner_type" : "村立",
-         "short_name" : "北山小学校"
+         "short_name" : "北山小学校",
+         "sort_name" : "きたやまそんりつきたやましよう",
+         "url" : "http://www.za.ztv.ne.jp/kitasho/index.html"
       },
       "印南町立切目小学校" : {
          "location_area" : "日高郡印南町",
@@ -240,12 +248,17 @@
          "short_name" : "高池小学校"
       },
       "和歌山大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "わかやまたいかくきよういくかくふふそくしよう"
       },
       "和歌山市立三田小学校" : {
+         "location" : "和歌山県和歌山市和田419-1",
          "location_area" : "和歌山市",
+         "location_zipcode" : "641-0004",
          "owner_type" : "市立",
-         "short_name" : "三田小学校"
+         "short_name" : "三田小学校",
+         "sort_name" : "わかやましりつさんたしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/santa/"
       },
       "和歌山市立中之島小学校" : {
          "location_area" : "和歌山市",
@@ -263,9 +276,14 @@
          "short_name" : "八幡台小学校"
       },
       "和歌山市立加太小学校" : {
+         "location" : "和歌山県和歌山市加太1210",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|16|29|N|135|04|34|E|",
+         "location_zipcode" : "640-0103",
          "owner_type" : "市立",
-         "short_name" : "加太小学校"
+         "short_name" : "加太小学校",
+         "sort_name" : "わかやましりつかたしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/kada-es/index.html"
       },
       "和歌山市立名草小学校" : {
          "location_area" : "和歌山市",
@@ -283,9 +301,13 @@
          "short_name" : "和佐小学校"
       },
       "和歌山市立和歌浦小学校" : {
+         "location" : "和歌山県和歌山市和歌浦西2丁目1-18",
          "location_area" : "和歌山市",
+         "location_zipcode" : "641-0021",
          "owner_type" : "市立",
-         "short_name" : "和歌浦小学校"
+         "short_name" : "和歌浦小学校",
+         "sort_name" : "わかやましりつわかうらしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/wakaura/"
       },
       "和歌山市立四箇郷北小学校" : {
          "location_area" : "和歌山市",
@@ -303,9 +325,13 @@
          "short_name" : "城北小学校"
       },
       "和歌山市立大新小学校" : {
+         "location" : "和歌山県和歌山市新大工町23",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8372",
          "owner_type" : "市立",
-         "short_name" : "大新小学校"
+         "short_name" : "大新小学校",
+         "sort_name" : "わかやましりつたいしんしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/daishin/"
       },
       "和歌山市立太田小学校" : {
          "location_area" : "和歌山市",
@@ -348,9 +374,14 @@
          "short_name" : "小倉小学校"
       },
       "和歌山市立山口小学校" : {
+         "location" : "和歌山県和歌山市里146",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|16|02|N|135|16|08|E|",
+         "location_zipcode" : "649-6311",
          "owner_type" : "市立",
-         "short_name" : "山口小学校"
+         "short_name" : "山口小学校",
+         "sort_name" : "わかやましりつやまくちしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/yamaguchi/index.html"
       },
       "和歌山市立山東小学校" : {
          "location_area" : "和歌山市",
@@ -363,9 +394,14 @@
          "short_name" : "岡崎小学校"
       },
       "和歌山市立川永小学校" : {
+         "location" : "和歌山県和歌山市楠本285",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|15|25|N|135|15|23|E|",
+         "location_zipcode" : "649-6313",
          "owner_type" : "市立",
-         "short_name" : "川永小学校"
+         "short_name" : "川永小学校",
+         "sort_name" : "わかやましりつかわなかしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/kawanaga/index.html"
       },
       "和歌山市立広瀬小学校" : {
          "location_area" : "和歌山市",
@@ -410,7 +446,8 @@
       "和歌山市立楠見小学校" : {
          "location_area" : "和歌山市",
          "owner_type" : "市立",
-         "short_name" : "楠見小学校"
+         "short_name" : "楠見小学校",
+         "sort_name" : "わかやましりつくすみしよう"
       },
       "和歌山市立楠見東小学校" : {
          "location_area" : "和歌山市",
@@ -448,9 +485,14 @@
          "short_name" : "福島小学校"
       },
       "和歌山市立紀伊小学校" : {
+         "location" : "和歌山県和歌山市弘西321",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|16|00|N|135|14|17|E|",
+         "location_zipcode" : "649-6339",
          "owner_type" : "市立",
-         "short_name" : "紀伊小学校"
+         "short_name" : "紀伊小学校",
+         "sort_name" : "わかやましりつきいしようかつこう",
+         "url" : "http://www.wakayama-wky.ed.jp/kii-es/index.html"
       },
       "和歌山市立芦原小学校" : {
          "location_area" : "和歌山市",
@@ -495,7 +537,8 @@
       "和歌山市立雑賀小学校" : {
          "location_area" : "和歌山市",
          "owner_type" : "市立",
-         "short_name" : "雑賀小学校"
+         "short_name" : "雑賀小学校",
+         "sort_name" : "わかやましりつさいか"
       },
       "和歌山市立雑賀崎小学校" : {
          "location_area" : "和歌山市",
@@ -518,9 +561,14 @@
          "short_name" : "太地小学校"
       },
       "岩出市立上岩出小学校" : {
+         "location" : "和歌山県岩出市水栖514",
          "location_area" : "岩出市",
+         "location_wikipedia_latlon" : "|34|16|13|N|135|19|34|E|",
+         "location_zipcode" : "649-6214",
          "owner_type" : "市立",
-         "short_name" : "上岩出小学校"
+         "short_name" : "上岩出小学校",
+         "sort_name" : "いわてしりつかみいわてしようかつこう",
+         "url" : "http://www.city.iwade.wakayama.jp/kakugakkou20/kamiiwadehp20/"
       },
       "岩出市立中央小学校" : {
          "location_area" : "岩出市",
@@ -533,14 +581,22 @@
          "short_name" : "山崎北小学校"
       },
       "岩出市立山崎小学校" : {
+         "location" : "和歌山県岩出市中黒100",
          "location_area" : "岩出市",
+         "location_wikipedia_latlon" : "|34|16|03|N|135|17|30|E|",
+         "location_zipcode" : "649-6248",
          "owner_type" : "市立",
-         "short_name" : "山崎小学校"
+         "short_name" : "山崎小学校",
+         "sort_name" : "いわてしりつやまさきしようかつこう"
       },
       "岩出市立岩出小学校" : {
+         "location" : "和歌山県岩出市清水45",
          "location_area" : "岩出市",
+         "location_wikipedia_latlon" : "|34|15|03|N|135|19|06|E|",
+         "location_zipcode" : "649-6227",
          "owner_type" : "市立",
-         "short_name" : "岩出小学校"
+         "short_name" : "岩出小学校",
+         "sort_name" : "いわてしりついわてしようかつこう"
       },
       "岩出市立根来小学校" : {
          "location_area" : "岩出市",
@@ -698,7 +754,12 @@
          "short_name" : "比井小学校"
       },
       "智辯学園和歌山小学校" : {
+         "location" : "和歌山県和歌山市冬野2066-1",
+         "location_wikipedia_latlon" : "|34|10|27.0|N|135|12|43.2|E|",
+         "location_zipcode" : "640-0392",
          "owner_type" : "私立",
+         "sort_name" : "ちへんかくえんわかやま",
+         "url" : "http://www.chiben.ac.jp/wakayama/",
          "wikipedia_name" : "智辯学園和歌山小学校・中学校・高等学校"
       },
       "有田川町立上六川小学校" : {
@@ -807,9 +868,12 @@
          "short_name" : "田鶴小学校"
       },
       "有田市立箕島小学校" : {
+         "location" : "和歌山県有田市箕島155番地",
          "location_area" : "有田市",
+         "location_zipcode" : "649-0304",
          "owner_type" : "市立",
-         "short_name" : "箕島小学校"
+         "short_name" : "箕島小学校",
+         "url" : "http://www1.ocn.ne.jp/~minosho/"
       },
       "有田市立糸我小学校" : {
          "location_area" : "有田市",
@@ -894,7 +958,8 @@
       "海南市立中野上小学校" : {
          "location_area" : "海南市",
          "owner_type" : "市立",
-         "short_name" : "中野上小学校"
+         "short_name" : "中野上小学校",
+         "sort_name" : "かいなんしりつなかのかみ"
       },
       "海南市立亀川小学校" : {
          "location_area" : "海南市",
@@ -957,7 +1022,9 @@
          "short_name" : "巽小学校"
       },
       "海南市立日方小学校" : {
+         "location" : "和歌山県海南市日方1257",
          "location_area" : "海南市",
+         "location_zipcode" : "642-0002",
          "owner_type" : "市立",
          "short_name" : "日方小学校"
       },
@@ -1062,9 +1129,12 @@
          "short_name" : "富里小学校"
       },
       "田辺市立新庄小学校" : {
+         "location" : "和歌山県田辺市新庄町2300",
          "location_area" : "田辺市",
+         "location_zipcode" : "646-0011",
          "owner_type" : "市立",
-         "short_name" : "新庄小学校"
+         "short_name" : "新庄小学校",
+         "sort_name" : "たなへしりつしんしようしようかつこう"
       },
       "田辺市立新庄第二小学校" : {
          "location_area" : "田辺市",
@@ -1084,7 +1154,8 @@
       "田辺市立田辺東部小学校" : {
          "location_area" : "田辺市",
          "owner_type" : "市立",
-         "short_name" : "田辺東部小学校"
+         "short_name" : "田辺東部小学校",
+         "sort_name" : "たなへしりつたなへとうふ"
       },
       "田辺市立田辺第一小学校" : {
          "location_area" : "田辺市",
@@ -1222,9 +1293,14 @@
          "short_name" : "中貴志小学校"
       },
       "紀の川市立丸栖小学校" : {
+         "location" : "和歌山県紀の川市貴志川町丸栖206",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|13|54|N|135|19|34|E|",
+         "location_zipcode" : "640-0401",
          "owner_type" : "市立",
-         "short_name" : "丸栖小学校"
+         "short_name" : "丸栖小学校",
+         "sort_name" : "きのかわしりつまるすしようかつこう",
+         "url" : "http://www.kishigawacho-wky.ed.jp/marusu-es/"
       },
       "紀の川市立名手小学校" : {
          "location_area" : "紀の川市",
@@ -1232,9 +1308,13 @@
          "short_name" : "名手小学校"
       },
       "紀の川市立安楽川小学校" : {
+         "location" : "和歌山県紀の川市桃山町市場2番地",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|14|27|N|135|20|59|E|",
+         "location_zipcode" : "649-6124",
          "owner_type" : "市立",
-         "short_name" : "安楽川小学校"
+         "short_name" : "安楽川小学校",
+         "sort_name" : "きのかわしりつあらかわしようかつこう"
       },
       "紀の川市立川原小学校" : {
          "location_area" : "紀の川市",
@@ -1249,17 +1329,27 @@
       "紀の川市立桃山小学校" : {
          "location_area" : "紀の川市",
          "owner_type" : "市立",
-         "short_name" : "桃山小学校"
+         "short_name" : "桃山小学校",
+         "sort_name" : "きのかわしりつももやましようかつこう"
       },
       "紀の川市立池田小学校" : {
+         "location" : "和歌山県紀の川市南中327",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|16|38|N|135|21|19|E|",
+         "location_zipcode" : "649-6431",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "きのかわしりついけたしようかつこう"
       },
       "紀の川市立田中小学校" : {
+         "location" : "和歌山県紀の川市打田1491",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|15|29|N|135|21|50|E|",
+         "location_zipcode" : "649-6414",
          "owner_type" : "市立",
-         "short_name" : "田中小学校"
+         "short_name" : "田中小学校",
+         "sort_name" : "きのかわしりつたなかしようかつこう",
+         "url" : "http://tasho-es.web.infoseek.co.jp/"
       },
       "紀の川市立田中小学校高野分校" : {
          "location_area" : "紀の川市",
@@ -1282,9 +1372,14 @@
          "short_name" : "西貴志小学校"
       },
       "紀の川市立調月小学校" : {
+         "location" : "和歌山県紀の川市桃山町調月1101",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|13|39|N|135|19|53|E|",
+         "location_zipcode" : "649-6112",
          "owner_type" : "市立",
-         "short_name" : "調月小学校"
+         "short_name" : "調月小学校",
+         "sort_name" : "きのかわしりつつかつきしようかつこう",
+         "url" : "http://www.naxnet.or.jp/~tsukasho1101/"
       },
       "紀の川市立長田小学校" : {
          "location_area" : "紀の川市",

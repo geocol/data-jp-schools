@@ -76,27 +76,36 @@
          "short_name" : "阿下喜小学校"
       },
       "三重大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "みえたいかくきよういくかくふふそくしよう"
       },
       "亀山市立亀山南小学校" : {
          "location_area" : "亀山市",
          "owner_type" : "市立",
-         "short_name" : "亀山南小学校"
+         "short_name" : "亀山南小学校",
+         "sort_name" : "かめやましりつかめやまみなみ"
       },
       "亀山市立亀山東小学校" : {
          "location_area" : "亀山市",
          "owner_type" : "市立",
-         "short_name" : "亀山東小学校"
+         "short_name" : "亀山東小学校",
+         "sort_name" : "かめやましりつかめやまひかし"
       },
       "亀山市立亀山西小学校" : {
          "location_area" : "亀山市",
          "owner_type" : "市立",
-         "short_name" : "亀山西小学校"
+         "short_name" : "亀山西小学校",
+         "sort_name" : "かめやましりつかめやまにし"
       },
       "亀山市立井田川小学校" : {
+         "location" : "三重県亀山市みどり町52",
          "location_area" : "亀山市",
+         "location_wikipedia_latlon" : "|34|52|12|N|136|28|57|E|",
+         "location_zipcode" : "519-0106",
          "owner_type" : "市立",
-         "short_name" : "井田川小学校"
+         "short_name" : "井田川小学校",
+         "sort_name" : "かめやましりついたかわ",
+         "url" : "http://www.kameyama-mie.jp/~idagawa/index.htm"
       },
       "亀山市立加太小学校" : {
          "location_area" : "亀山市",
@@ -104,9 +113,14 @@
          "short_name" : "加太小学校"
       },
       "亀山市立川崎小学校" : {
+         "location" : "三重県亀山市能褒野町77-22",
          "location_area" : "亀山市",
+         "location_wikipedia_latlon" : "|34|53|20|N|136|28|52|E|",
+         "location_zipcode" : "519-0212",
          "owner_type" : "市立",
-         "short_name" : "川崎小学校"
+         "short_name" : "川崎小学校",
+         "sort_name" : "かめやましりつかわさき",
+         "url" : "http://www.kameyama-mie.jp/~kawasaki/"
       },
       "亀山市立昼生小学校" : {
          "location_area" : "亀山市",
@@ -116,7 +130,8 @@
       "亀山市立白川小学校" : {
          "location_area" : "亀山市",
          "owner_type" : "市立",
-         "short_name" : "白川小学校"
+         "short_name" : "白川小学校",
+         "sort_name" : "かめやましりつしらかわ"
       },
       "亀山市立神辺小学校" : {
          "location_area" : "亀山市",
@@ -124,9 +139,13 @@
          "short_name" : "神辺小学校"
       },
       "亀山市立野登小学校" : {
+         "location" : "三重県亀山市両尾町2124",
          "location_area" : "亀山市",
+         "location_wikipedia_latlon" : "|34|54|05|N|136|26|00|E|",
+         "location_zipcode" : "519-0223",
          "owner_type" : "市立",
-         "short_name" : "野登小学校"
+         "short_name" : "野登小学校",
+         "sort_name" : "かめやましりつののほりしようかつこう"
       },
       "亀山市立関小学校" : {
          "location_area" : "亀山市",
@@ -134,124 +153,238 @@
          "short_name" : "関小学校"
       },
       "伊勢市立上野小学校" : {
+         "location" : "三重県伊勢市上野町長屋2841-2",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|26|4|N|136|39|15|E|",
+         "location_zipcode" : "516-1104",
          "owner_type" : "市立",
-         "short_name" : "上野小学校"
+         "short_name" : "上野小学校",
+         "sort_name" : "いせしりつうえのしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~ueno-e/"
       },
       "伊勢市立中島小学校" : {
+         "location" : "三重県伊勢市二俣一丁目2番17号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|33|N|136|41|32|E|",
+         "location_zipcode" : "516-0064",
          "owner_type" : "市立",
-         "short_name" : "中島小学校"
+         "short_name" : "中島小学校",
+         "sort_name" : "いせしりつなかしましようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~sousyu-e/"
       },
       "伊勢市立二見小学校" : {
+         "location" : "三重県伊勢市二見町荘1500番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|25|N|136|46|28|E|",
+         "location_zipcode" : "519-0606",
          "owner_type" : "市立",
-         "short_name" : "二見小学校"
+         "short_name" : "二見小学校",
+         "sort_name" : "いせしりつふたみしようかつこう"
       },
       "伊勢市立今一色小学校" : {
+         "location" : "三重県伊勢市二見町今一色3番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|31|6|N|136|45|2|E|",
+         "location_zipcode" : "519-0608",
          "owner_type" : "市立",
-         "short_name" : "今一色小学校"
+         "short_name" : "今一色小学校",
+         "sort_name" : "いせしりついまいしきしようかつこう"
       },
       "伊勢市立佐八小学校" : {
+         "location" : "三重県伊勢市佐八町2287番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|27|54|N|136|39|38|E|",
+         "location_zipcode" : "516-1102",
          "owner_type" : "市立",
-         "short_name" : "佐八小学校"
+         "short_name" : "佐八小学校",
+         "sort_name" : "いせしりつそうちしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~souchi-e/"
       },
       "伊勢市立修道小学校" : {
+         "location" : "三重県伊勢市久世戸町5番地",
          "location_area" : "伊勢市",
+         "location_zipcode" : "516-0015",
          "owner_type" : "市立",
-         "short_name" : "修道小学校"
+         "short_name" : "修道小学校",
+         "sort_name" : "いせしりつしゆうとうしよう",
+         "url" : "http://www.ise-mie.ed.jp/~syudou-e/"
       },
       "伊勢市立北浜小学校" : {
+         "location" : "三重県伊勢市村松町3292番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|32|37|N|136|41|26|E|",
+         "location_zipcode" : "516-0507",
          "owner_type" : "市立",
-         "short_name" : "北浜小学校"
+         "short_name" : "北浜小学校",
+         "sort_name" : "いせしりつきたはましようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~kitahama-e/"
       },
       "伊勢市立厚生小学校" : {
+         "location" : "三重県伊勢市一志町1番4号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|31|N|136|42|18|E|",
+         "location_zipcode" : "516-0075",
          "owner_type" : "市立",
-         "short_name" : "厚生小学校"
+         "short_name" : "厚生小学校",
+         "sort_name" : "いせしりつこうせいしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~kousei-e/"
       },
       "伊勢市立四郷小学校" : {
+         "location" : "三重県伊勢市楠部町2484",
          "location_area" : "伊勢市",
+         "location_zipcode" : "516-0014",
          "owner_type" : "市立",
-         "short_name" : "四郷小学校"
+         "short_name" : "四郷小学校",
+         "sort_name" : "いせしりつしこうしよう"
       },
       "伊勢市立城田小学校" : {
+         "location" : "三重県伊勢市上地町1478番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|27|N|136|39|49|E|",
+         "location_zipcode" : "516-0051",
          "owner_type" : "市立",
-         "short_name" : "城田小学校"
+         "short_name" : "城田小学校",
+         "sort_name" : "いせしりつきたしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~kida-e/"
       },
       "伊勢市立大湊小学校" : {
+         "location" : "三重県伊勢市大湊町1118-194番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|31|35.5|N|136|44|41.3|E|",
+         "location_zipcode" : "516-0001",
          "owner_type" : "市立",
-         "short_name" : "大湊小学校"
+         "short_name" : "大湊小学校",
+         "sort_name" : "いせしりつおおみなとしようかつこう",
+         "url" : "http://www.mie-c.ed.jp/eoomin/"
       },
       "伊勢市立宮山小学校" : {
+         "location" : "三重県伊勢市旭町349番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|28|26|N|136|41|51|E|",
+         "location_zipcode" : "516-0045",
          "owner_type" : "市立",
-         "short_name" : "宮山小学校"
+         "short_name" : "宮山小学校",
+         "sort_name" : "いせしりつみややましようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~miyayama-e/"
       },
       "伊勢市立小俣小学校" : {
+         "location" : "三重県伊勢市小俣町元町663-1",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|23|N|136|40|27|E|",
+         "location_zipcode" : "519-0503",
          "owner_type" : "市立",
-         "short_name" : "小俣小学校"
+         "short_name" : "小俣小学校",
+         "sort_name" : "いせしりつおはたしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~obata-e/"
       },
       "伊勢市立御薗小学校" : {
+         "location" : "三重県伊勢市御薗町長屋1074-9",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|29|N|136|42|33|E|",
+         "location_zipcode" : "516-0015",
          "owner_type" : "市立",
-         "short_name" : "御薗小学校"
+         "short_name" : "御薗小学校",
+         "sort_name" : "いせしりつみそのしようかつこう"
       },
       "伊勢市立早修小学校" : {
+         "location" : "三重県伊勢市常磐三丁目10番19号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|19|N|136|41|46|E|",
+         "location_zipcode" : "516-0041",
          "owner_type" : "市立",
-         "short_name" : "早修小学校"
+         "short_name" : "早修小学校",
+         "sort_name" : "いせしりつそうしゆうしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~sousyu-e/"
       },
       "伊勢市立明倫小学校" : {
+         "location" : "三重県伊勢市岡本一丁目18番21号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|3|N|136|42|37|E|",
+         "location_zipcode" : "516-0036",
          "owner_type" : "市立",
-         "short_name" : "明倫小学校"
+         "short_name" : "明倫小学校",
+         "sort_name" : "いせしりつめいりんしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~meirin-e/"
       },
       "伊勢市立明野小学校" : {
+         "location" : "三重県伊勢市小俣町明野1939",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|55|N|136|39|45|E|",
+         "location_zipcode" : "519-0501",
          "owner_type" : "市立",
-         "short_name" : "明野小学校"
+         "short_name" : "明野小学校",
+         "sort_name" : "いせしりつあけのしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~akeno-e/"
       },
       "伊勢市立有緝小学校" : {
+         "location" : "三重県伊勢市船江二丁目2番5号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|50|N|136|42|57|E|",
+         "location_zipcode" : "516-0008",
          "owner_type" : "市立",
-         "short_name" : "有緝小学校"
+         "short_name" : "有緝小学校",
+         "sort_name" : "いせしりつゆうしゆうしよう",
+         "url" : "http://www.ise-mie.ed.jp/"
       },
       "伊勢市立東大淀小学校" : {
+         "location" : "三重県伊勢市東大淀町351番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|33|23|N|136|39|47|E|",
+         "location_zipcode" : "516-0509",
          "owner_type" : "市立",
-         "short_name" : "東大淀小学校"
+         "short_name" : "東大淀小学校",
+         "sort_name" : "いせしりつひかしおいすしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~higasioizu-e/"
       },
       "伊勢市立浜郷小学校" : {
+         "location" : "三重県伊勢市黒瀬町1648番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|58|N|136|44|12|E|",
+         "location_zipcode" : "516-0018",
          "owner_type" : "市立",
-         "short_name" : "浜郷小学校"
+         "short_name" : "浜郷小学校",
+         "sort_name" : "いせしりつはまこうしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~hamagou-e/"
       },
       "伊勢市立神社小学校" : {
+         "location" : "三重県伊勢市神社港294番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|44|N|136|44|6|E|",
+         "location_zipcode" : "516-0004",
          "owner_type" : "市立",
-         "short_name" : "神社小学校"
+         "short_name" : "神社小学校",
+         "sort_name" : "いせしりつかみやしろしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~kamiyasiro-e/"
       },
       "伊勢市立豊浜東小学校" : {
+         "location" : "三重県伊勢市東豊浜町299番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|31|45|N|136|42|38|E|",
+         "location_zipcode" : "515-0502",
          "owner_type" : "市立",
-         "short_name" : "豊浜東小学校"
+         "short_name" : "豊浜東小学校",
+         "sort_name" : "いせしりつとよはまひかししようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~toyohigasi-e/"
       },
       "伊勢市立豊浜西小学校" : {
+         "location" : "三重県伊勢市西豊浜町1779番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|31|12|N|136|41|40|E|",
+         "location_zipcode" : "515-0505",
          "owner_type" : "市立",
-         "short_name" : "豊浜西小学校"
+         "short_name" : "豊浜西小学校",
+         "sort_name" : "いせしりつとよはまにししようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~toyonisi-e/"
       },
       "伊勢市立進修小学校" : {
+         "location" : "三重県伊勢市宇治浦田二丁目16-43",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|28|8|N|136|43|19|E|",
+         "location_zipcode" : "516-0026",
          "owner_type" : "市立",
-         "short_name" : "進修小学校"
+         "short_name" : "進修小学校",
+         "sort_name" : "いせしりつしんしゆうしようかつこう",
+         "url" : "http://www.ise-mie.ed.jp/~sinsyu-e/"
       },
       "伊賀市立三田小学校" : {
          "location_area" : "伊賀市",
@@ -504,14 +637,24 @@
          "short_name" : "三重北小学校"
       },
       "四日市市立三重小学校" : {
+         "location" : "三重県四日市市東坂部町222-2",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|34|59|40|N|136|35|56|E|",
+         "location_zipcode" : "512-0904",
          "owner_type" : "市立",
-         "short_name" : "三重小学校"
+         "short_name" : "三重小学校",
+         "sort_name" : "よつかいちしりつみえしようかつこう",
+         "url" : "http://www.yokkaichi.ed.jp/mie/"
       },
       "四日市市立三重西小学校" : {
+         "location" : "三重県四日市市三重3丁目129番地",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|34|59|25|N|136|35|11|E|",
+         "location_zipcode" : "512-0912",
          "owner_type" : "市立",
-         "short_name" : "三重西小学校"
+         "short_name" : "三重西小学校",
+         "sort_name" : "よつかいちしりつみえにししようかつこう",
+         "url" : "http://www.yokkaichi.ed.jp/mienisi/"
       },
       "四日市市立下野小学校" : {
          "location_area" : "四日市市",
@@ -519,9 +662,14 @@
          "short_name" : "下野小学校"
       },
       "四日市市立中央小学校" : {
+         "location" : "三重県四日市市元新町2番36号",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|34|58|02|N|136|37|41|E|",
+         "location_zipcode" : "510-0095",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "よつかいちしりつちゆうおうしようかつこう",
+         "url" : "http://www.yokkaichi.ed.jp/chuo/"
       },
       "四日市市立中部西小学校" : {
          "location_area" : "四日市市",
@@ -566,7 +714,8 @@
       "四日市市立大矢知興譲小学校" : {
          "location_area" : "四日市市",
          "owner_type" : "市立",
-         "short_name" : "大矢知興譲小学校"
+         "short_name" : "大矢知興譲小学校",
+         "sort_name" : "よつかいちしりつおおやちこうしようしようかつこう"
       },
       "四日市市立大谷台小学校" : {
          "location_area" : "四日市市",
@@ -659,9 +808,13 @@
          "short_name" : "県小学校"
       },
       "四日市市立神前小学校" : {
+         "location" : "三重県四日市市曽井町493番地の1",
          "location_area" : "四日市市",
+         "location_zipcode" : "512-0922",
          "owner_type" : "市立",
-         "short_name" : "神前小学校"
+         "short_name" : "神前小学校",
+         "sort_name" : "よつかいちしりつかんさきしようかつこう",
+         "url" : "http://www.yokkaichi.ed.jp/kanzaki/"
       },
       "四日市市立笹川東小学校" : {
          "location_area" : "四日市市",
@@ -689,9 +842,14 @@
          "short_name" : "西橋北小学校"
       },
       "四日市市立高花平小学校" : {
+         "location" : "三重県四日市市高花平2丁目1",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|34|57|13|N|136|33|14|E|",
+         "location_zipcode" : "510-0945",
          "owner_type" : "市立",
-         "short_name" : "高花平小学校"
+         "short_name" : "高花平小学校",
+         "sort_name" : "よつかいちしりつたかはなたいらしようかつこう",
+         "url" : "http://www.yokkaichi.ed.jp/takahana/"
       },
       "多気町立佐奈小学校" : {
          "location_area" : "多気郡多気町",
@@ -729,9 +887,13 @@
          "short_name" : "宮川小学校"
       },
       "大台町立川添小学校" : {
+         "location" : "三重県多気郡大台町大字上楠420",
          "location_area" : "多気郡大台町",
+         "location_wikipedia_latlon" : "|34|25|16|N|136|28|24|E|",
+         "location_zipcode" : "519-2427",
          "owner_type" : "町立",
-         "short_name" : "川添小学校"
+         "short_name" : "川添小学校",
+         "sort_name" : "おおたいちようりつかわそえしようかつこう"
       },
       "大台町立日進小学校" : {
          "location_area" : "多気郡大台町",
@@ -794,9 +956,14 @@
          "short_name" : "賀田小学校"
       },
       "川越町立川越北小学校" : {
+         "location" : "三重県三重郡川越町豊田一色69",
          "location_area" : "三重郡川越町",
+         "location_wikipedia_latlon" : "|35|01|25|N|136|40|11|E|",
+         "location_zipcode" : "510-8123",
          "owner_type" : "町立",
-         "short_name" : "川越北小学校"
+         "short_name" : "川越北小学校",
+         "sort_name" : "かわこえちようりつかわこえきたしようかつこう",
+         "url" : "http://www.ccnetmie.ne.jp/~kwkk/"
       },
       "川越町立川越南小学校" : {
          "location_area" : "三重郡川越町",
@@ -824,9 +991,13 @@
          "short_name" : "神志山小学校"
       },
       "御浜町立阿田和小学校" : {
+         "location" : "三重県南牟婁郡御浜町大字阿田和1791-1",
          "location_area" : "南牟婁郡御浜町",
+         "location_wikipedia_latlon" : "|33|47|46|N|136|02|16|E|",
+         "location_zipcode" : "519-5204",
          "owner_type" : "町立",
-         "short_name" : "阿田和小学校"
+         "short_name" : "阿田和小学校",
+         "sort_name" : "みはまちようりつあたわしようかつこう"
       },
       "志摩市立和具小学校" : {
          "location_area" : "志摩市",
@@ -939,9 +1110,14 @@
          "short_name" : "修正小学校"
       },
       "明和町立大淀小学校" : {
+         "location" : "三重県多気郡明和町大字大淀2650番地",
          "location_area" : "多気郡明和町",
+         "location_wikipedia_latlon" : "|34|33|58|N|136|39|14|E|",
+         "location_zipcode" : "515-0302",
          "owner_type" : "町立",
-         "short_name" : "大淀小学校"
+         "short_name" : "大淀小学校",
+         "sort_name" : "めいわちようりつおおよとしようかつこう",
+         "url" : "http://www.ma.mctv.ne.jp/~oyodo/"
       },
       "明和町立斎宮小学校" : {
          "location_area" : "多気郡明和町",
@@ -954,12 +1130,18 @@
          "short_name" : "明星小学校"
       },
       "暁小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "あかつきしようかつこう"
       },
       "朝日町立朝日小学校" : {
+         "location" : "三重県三重郡朝日町大字柿750",
          "location_area" : "三重郡朝日町",
+         "location_wikipedia_latlon" : "|35|02|01|N|136|39|56|E|",
+         "location_zipcode" : "512-0912",
          "owner_type" : "町立",
-         "short_name" : "朝日小学校"
+         "short_name" : "朝日小学校",
+         "sort_name" : "あさひちようりつあさひしようかつこう",
+         "url" : "http://www.town.asahi.mie.jp/asahi-primary/"
       },
       "木曽岬町立木曽岬小学校" : {
          "location_area" : "桑名郡木曽岬町",
@@ -997,194 +1179,306 @@
          "short_name" : "笹尾西小学校"
       },
       "松阪市立中原小学校" : {
+         "location" : "三重県松阪市嬉野田村町44",
          "location_area" : "松阪市",
+         "location_wikipedia_latlon" : "|34|36|38|N|136|29|12|E|",
+         "location_zipcode" : "515-2333",
          "owner_type" : "市立",
-         "short_name" : "中原小学校"
+         "short_name" : "中原小学校",
+         "sort_name" : "まつさかしりつなかはら",
+         "url" : "http://www.zb.ztv.ne.jp/ww3mas8w/"
       },
       "松阪市立中川小学校" : {
+         "location" : "三重県松阪市嬉野中川町1057",
          "location_area" : "松阪市",
+         "location_wikipedia_latlon" : "|34|38|8|N|136|28|22|E|",
+         "location_zipcode" : "515-2321",
          "owner_type" : "市立",
-         "short_name" : "中川小学校"
+         "short_name" : "中川小学校",
+         "sort_name" : "まつさかしりつなかかわ"
       },
       "松阪市立仁柿小学校" : {
+         "location" : "三重県松阪市飯南町上仁柿194",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1304",
          "owner_type" : "市立",
-         "short_name" : "仁柿小学校"
+         "short_name" : "仁柿小学校",
+         "sort_name" : "まつさかしりつにかき"
       },
       "松阪市立伊勢寺小学校" : {
+         "location" : "三重県松阪市伊勢寺町26",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0845",
          "owner_type" : "市立",
-         "short_name" : "伊勢寺小学校"
+         "short_name" : "伊勢寺小学校",
+         "sort_name" : "まつさかしりついせてら"
       },
       "松阪市立南小学校" : {
+         "location" : "三重県松阪市小片野町945",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "まつさかしりつみなみ"
       },
       "松阪市立大河内小学校" : {
+         "location" : "三重県松阪市矢津町1775",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1102",
          "owner_type" : "市立",
-         "short_name" : "大河内小学校"
+         "short_name" : "大河内小学校",
+         "sort_name" : "まつさかしりつおかわち"
       },
       "松阪市立天白小学校" : {
+         "location" : "三重県松阪市曽原町774",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-2112",
          "owner_type" : "市立",
-         "short_name" : "天白小学校"
+         "short_name" : "天白小学校",
+         "sort_name" : "まつさかしりつてんはく"
       },
       "松阪市立宮前小学校" : {
+         "location" : "三重県松阪市飯高町宮前1022",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1502",
          "owner_type" : "市立",
-         "short_name" : "宮前小学校"
+         "short_name" : "宮前小学校",
+         "sort_name" : "まつさかしりつみやまえ"
       },
       "松阪市立射和小学校" : {
+         "location" : "三重県松阪市射和町557-1",
          "location_area" : "松阪市",
+         "location_zipcode" : "519-2145",
          "owner_type" : "市立",
-         "short_name" : "射和小学校"
+         "short_name" : "射和小学校",
+         "sort_name" : "まつさかしりついさわ"
       },
       "松阪市立小野江小学校" : {
+         "location" : "三重県松阪市小野江町355",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-2109",
          "owner_type" : "市立",
-         "short_name" : "小野江小学校"
+         "short_name" : "小野江小学校",
+         "sort_name" : "まつさかしりつおのえ"
       },
       "松阪市立山室山小学校" : {
+         "location" : "三重県松阪市光町1",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "山室山小学校"
+         "short_name" : "山室山小学校",
+         "sort_name" : "まつさかしりつやまむろやま"
       },
       "松阪市立幸小学校" : {
+         "location" : "三重県松阪市殿町1198-2",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0073",
          "owner_type" : "市立",
-         "short_name" : "幸小学校"
+         "short_name" : "幸小学校",
+         "sort_name" : "まつさかしりつさいわい",
+         "url" : "http://www.mctv.ne.jp/~saiwa2es/"
       },
       "松阪市立徳和小学校" : {
+         "location" : "三重県松阪市上川町197-4",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0041",
          "owner_type" : "市立",
-         "short_name" : "徳和小学校"
+         "short_name" : "徳和小学校",
+         "sort_name" : "まつさかしりつとくわ"
       },
       "松阪市立揥水小学校" : {
+         "location" : "三重県松阪市豊原町1120",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "揥水小学校"
+         "short_name" : "揥水小学校",
+         "sort_name" : "まつさかしりつていすい"
       },
       "松阪市立有間野小学校" : {
+         "location" : "三重県松阪市飯南町有間野1064",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1413",
          "owner_type" : "市立",
-         "short_name" : "有間野小学校"
+         "short_name" : "有間野小学校",
+         "sort_name" : "まつさかしりつありまの"
       },
       "松阪市立朝見小学校" : {
+         "location" : "三重県松阪市大宮田町195",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0024",
          "owner_type" : "市立",
-         "short_name" : "朝見小学校"
+         "short_name" : "朝見小学校",
+         "sort_name" : "まつさかしりつあさみ"
       },
       "松阪市立東黒部小学校" : {
+         "location" : "三重県松阪市垣内田町6-1",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "東黒部小学校"
+         "short_name" : "東黒部小学校",
+         "sort_name" : "まつさかしりつひかしくろへ"
       },
       "松阪市立松ヶ崎小学校" : {
+         "location" : "三重県松阪市松崎浦町751-2",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "松ヶ崎小学校"
+         "short_name" : "松ヶ崎小学校",
+         "sort_name" : "まつさかしりつまつかさき"
       },
       "松阪市立松尾小学校" : {
+         "location" : "三重県松阪市丹生寺町566",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "松尾小学校"
+         "short_name" : "松尾小学校",
+         "sort_name" : "まつさかしりつまつお"
       },
       "松阪市立松江小学校" : {
+         "location" : "三重県松阪市川井町380-1",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "松江小学校"
+         "short_name" : "松江小学校",
+         "sort_name" : "まつさかしりつまつえ"
       },
       "松阪市立柿野小学校" : {
+         "location" : "三重県松阪市飯南町深野3688",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1301",
          "owner_type" : "市立",
-         "short_name" : "柿野小学校"
+         "short_name" : "柿野小学校",
+         "sort_name" : "まつさかしりつかきの"
       },
       "松阪市立機殿小学校" : {
+         "location" : "三重県松阪市六根町16-1",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "機殿小学校"
+         "short_name" : "機殿小学校",
+         "sort_name" : "まつさかしりつはたとの"
       },
       "松阪市立港小学校" : {
+         "location" : "三重県松阪市荒木町16",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "港小学校"
+         "short_name" : "港小学校",
+         "sort_name" : "まつさかしりつみなと"
       },
       "松阪市立漕代小学校" : {
+         "location" : "三重県松阪市目田町207",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0216",
          "owner_type" : "市立",
-         "short_name" : "漕代小学校"
+         "short_name" : "漕代小学校",
+         "sort_name" : "まつさかしりつこいしろ"
       },
       "松阪市立第一小学校" : {
+         "location" : "三重県松阪市殿町1349－1",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0073",
          "owner_type" : "市立",
-         "short_name" : "第一小学校"
+         "short_name" : "第一小学校",
+         "sort_name" : "まつさかしりつたい1"
       },
       "松阪市立第三小学校" : {
+         "location" : "三重県松阪市西之庄町150",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0816",
          "owner_type" : "市立",
-         "short_name" : "第三小学校"
+         "short_name" : "第三小学校",
+         "sort_name" : "まつさかしりつたい3"
       },
       "松阪市立第二小学校" : {
+         "location" : "三重県松阪市垣鼻町633",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0033",
          "owner_type" : "市立",
-         "short_name" : "第二小学校"
+         "short_name" : "第二小学校",
+         "sort_name" : "まつさかしりつたい2"
       },
       "松阪市立第五小学校" : {
+         "location" : "三重県松阪市久保町276",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0044",
          "owner_type" : "市立",
-         "short_name" : "第五小学校"
+         "short_name" : "第五小学校",
+         "sort_name" : "まつさかしりつたい5"
       },
       "松阪市立第四小学校" : {
+         "location" : "三重県松阪市鎌田町428-4",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0005",
          "owner_type" : "市立",
-         "short_name" : "第四小学校"
+         "short_name" : "第四小学校",
+         "sort_name" : "まつさかしりつたい4"
       },
       "松阪市立米ノ庄小学校" : {
+         "location" : "三重県松阪市市場庄町20",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-2121",
          "owner_type" : "市立",
-         "short_name" : "米ノ庄小学校"
+         "short_name" : "米ノ庄小学校",
+         "sort_name" : "まつさかしりつよねのしよう"
       },
       "松阪市立粥見小学校" : {
+         "location" : "三重県松阪市飯南町粥見3969",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1411",
          "owner_type" : "市立",
-         "short_name" : "粥見小学校"
+         "short_name" : "粥見小学校",
+         "sort_name" : "まつさかしりつかゆみ"
       },
       "松阪市立花岡小学校" : {
+         "location" : "三重県松阪市大黒田町757",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-0063",
          "owner_type" : "市立",
-         "short_name" : "花岡小学校"
+         "short_name" : "花岡小学校",
+         "sort_name" : "まつさかしりつはなおか",
+         "url" : "http://www.mctv.ne.jp/~hanao2es/"
       },
       "松阪市立西黒部小学校" : {
+         "location" : "三重県松阪市西黒部町713-1",
          "location_area" : "松阪市",
          "owner_type" : "市立",
-         "short_name" : "西黒部小学校"
+         "short_name" : "西黒部小学校",
+         "sort_name" : "まつさかしりつにしくろへ"
       },
       "松阪市立豊地小学校" : {
+         "location" : "三重県松阪市嬉野堀之内町229",
          "location_area" : "松阪市",
+         "location_wikipedia_latlon" : "|34|37|17|N|136|27|33|E|",
+         "location_zipcode" : "515-2353",
          "owner_type" : "市立",
-         "short_name" : "豊地小学校"
+         "short_name" : "豊地小学校",
+         "sort_name" : "まつさかしりつとよち"
       },
       "松阪市立豊田小学校" : {
+         "location" : "三重県松阪市嬉野川北町1338-2",
          "location_area" : "松阪市",
+         "location_wikipedia_latlon" : "|34|37|53|N|136|29|49|E|",
+         "location_zipcode" : "515-2316",
          "owner_type" : "市立",
-         "short_name" : "豊田小学校"
+         "short_name" : "豊田小学校",
+         "sort_name" : "まつさかしりつとよた"
       },
       "松阪市立阿坂小学校" : {
+         "location" : "三重県松阪市小阿坂町3325",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-2343",
          "owner_type" : "市立",
-         "short_name" : "阿坂小学校"
+         "short_name" : "阿坂小学校",
+         "sort_name" : "まつさかしりつあさか"
       },
       "松阪市立香肌小学校" : {
+         "location" : "三重県松阪市飯高町森1810-2",
          "location_area" : "松阪市",
+         "location_zipcode" : "515-1615",
          "owner_type" : "市立",
-         "short_name" : "香肌小学校"
+         "short_name" : "香肌小学校",
+         "sort_name" : "まつさかしりつかはた"
       },
       "松阪市立鵲小学校" : {
+         "location" : "三重県松阪市笠松町279",
          "location_area" : "松阪市",
+         "location_wikipedia_latlon" : "|34|38|7|N|136|31|36|E|",
+         "location_zipcode" : "515-2103",
          "owner_type" : "市立",
-         "short_name" : "鵲小学校"
+         "short_name" : "鵲小学校",
+         "sort_name" : "まつさかしりつかささき"
       },
       "桑名市立七和小学校" : {
          "location_area" : "桑名市",
@@ -1392,14 +1686,22 @@
          "short_name" : "安東小学校"
       },
       "津市立安濃小学校" : {
+         "location" : "三重県津市安濃町内多451番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2303",
          "owner_type" : "市立",
-         "short_name" : "安濃小学校"
+         "short_name" : "安濃小学校",
+         "sort_name" : "つしりつあのうしようかつこう",
+         "url" : "http://www.mie-c.ed.jp/eanou/"
       },
       "津市立安西小学校" : {
+         "location" : "三重県津市芸濃町北神山310番地",
          "location_area" : "津市",
+         "location_zipcode" : "〒514-2213",
          "owner_type" : "市立",
-         "short_name" : "安西小学校"
+         "short_name" : "安西小学校",
+         "sort_name" : "つしりつあんさいしようかつこう",
+         "url" : "http://www.res-edu.ed.jp/ansai/"
       },
       "津市立家城小学校" : {
          "location_area" : "津市",
@@ -1407,9 +1709,12 @@
          "short_name" : "家城小学校"
       },
       "津市立川口小学校" : {
+         "location" : "三重県津市白山町川口1991",
          "location_area" : "津市",
+         "location_zipcode" : "515-2603",
          "owner_type" : "市立",
-         "short_name" : "川口小学校"
+         "short_name" : "川口小学校",
+         "url" : "http://www.mie-c.ed.jp/ekawag/"
       },
       "津市立川合小学校" : {
          "location_area" : "津市",
@@ -1437,9 +1742,13 @@
          "short_name" : "新町小学校"
       },
       "津市立明合小学校" : {
+         "location" : "三重県津市安濃町粟加978番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2324",
          "owner_type" : "市立",
-         "short_name" : "明合小学校"
+         "short_name" : "明合小学校",
+         "sort_name" : "つしりつあけあいしようかつこう",
+         "url" : "http://www.res-edu.ed.jp/akeai/"
       },
       "津市立明小学校" : {
          "location_area" : "津市",
@@ -1447,9 +1756,13 @@
          "short_name" : "明小学校"
       },
       "津市立村主小学校" : {
+         "location" : "三重県津市安濃町連部68番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2312",
          "owner_type" : "市立",
-         "short_name" : "村主小学校"
+         "short_name" : "村主小学校",
+         "sort_name" : "つしりつすくりしようかつこう",
+         "url" : "http://www.res-edu.ed.jp/suguri/top.htm"
       },
       "津市立栗真小学校" : {
          "location_area" : "津市",
@@ -1472,9 +1785,12 @@
          "short_name" : "桃園小学校"
       },
       "津市立椋本小学校" : {
+         "location" : "三重県津市芸濃町椋本5133番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2211",
          "owner_type" : "市立",
-         "short_name" : "椋本小学校"
+         "short_name" : "椋本小学校",
+         "sort_name" : "つしりつむくもとしようかつこう"
       },
       "津市立榊原小学校" : {
          "location_area" : "津市",
@@ -1522,9 +1838,13 @@
          "short_name" : "育生小学校"
       },
       "津市立草生小学校" : {
+         "location" : "三重県津市安濃町草生4209番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2328",
          "owner_type" : "市立",
-         "short_name" : "草生小学校"
+         "short_name" : "草生小学校",
+         "sort_name" : "つしりつくさわしようかつこう",
+         "url" : "http://www.res-edu.ed.jp/kusawa/toppage1.shtml"
       },
       "津市立藤水小学校" : {
          "location_area" : "津市",
@@ -1534,7 +1854,9 @@
       "津市立西が丘小学校" : {
          "location_area" : "津市",
          "owner_type" : "市立",
-         "short_name" : "西が丘小学校"
+         "short_name" : "西が丘小学校",
+         "sort_name" : "つしりつにしかおか",
+         "url" : "http://www.res-edu.ed.jp/nisigaoka/"
       },
       "津市立誠之小学校" : {
          "location_area" : "津市",
@@ -1552,14 +1874,22 @@
          "short_name" : "豊津小学校"
       },
       "津市立辰水小学校" : {
+         "location" : "三重県津市美里町家所2045番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2104",
          "owner_type" : "市立",
-         "short_name" : "辰水小学校"
+         "short_name" : "辰水小学校",
+         "sort_name" : "つしりつたつみすしようかつこう",
+         "url" : "http://www.mie-c.ed.jp/etatum/"
       },
       "津市立長野小学校" : {
+         "location" : "三重県津市美里町北長野1435",
          "location_area" : "津市",
+         "location_zipcode" : "514-2112",
          "owner_type" : "市立",
-         "short_name" : "長野小学校"
+         "short_name" : "長野小学校",
+         "sort_name" : "つしりつなかのしようかつこう",
+         "url" : "http://www.mie-c.ed.jp/enagan/gakkou/gakkou.htm"
       },
       "津市立雲出小学校" : {
          "location_area" : "津市",
@@ -1567,9 +1897,13 @@
          "short_name" : "雲出小学校"
       },
       "津市立雲林院小学校" : {
+         "location" : "三重県津市芸濃町雲林院566番地",
          "location_area" : "津市",
+         "location_zipcode" : "〒514-2204",
          "owner_type" : "市立",
-         "short_name" : "雲林院小学校"
+         "short_name" : "雲林院小学校",
+         "sort_name" : "つしりつうしいしようかつこう",
+         "url" : "http://www.res-edu.ed.jp/uzii/"
       },
       "津市立養正小学校" : {
          "location_area" : "津市",
@@ -1675,14 +2009,21 @@
          "short_name" : "下外城田小学校"
       },
       "玉城町立外城田小学校" : {
+         "location" : "三重県度会郡玉城町蚊野2018",
          "location_area" : "度会郡玉城町",
+         "location_zipcode" : "519-0431",
          "owner_type" : "町立",
-         "short_name" : "外城田小学校"
+         "short_name" : "外城田小学校",
+         "sort_name" : "たまきちようりつときたしようかつこう"
       },
       "玉城町立有田小学校" : {
+         "location" : "三重県度会郡玉城町長更376番地",
          "location_area" : "度会郡玉城町",
+         "location_wikipedia_latlon" : "|34|30|23|N|136|38|22|E|",
+         "location_zipcode" : "519-0404",
          "owner_type" : "町立",
-         "short_name" : "有田小学校"
+         "short_name" : "有田小学校",
+         "sort_name" : "たまきちようりつうたしようかつこう"
       },
       "玉城町立田丸小学校" : {
          "location_area" : "度会郡玉城町",
@@ -1880,9 +2221,12 @@
          "short_name" : "河曲小学校"
       },
       "鈴鹿市立深伊沢小学校" : {
+         "location" : "三重県鈴鹿市伊船町1693",
          "location_area" : "鈴鹿市",
+         "location_zipcode" : "519-0323",
          "owner_type" : "市立",
-         "short_name" : "深伊沢小学校"
+         "short_name" : "深伊沢小学校",
+         "sort_name" : "すすかしりつふかいさわ"
       },
       "鈴鹿市立清和小学校" : {
          "location_area" : "鈴鹿市",
@@ -1905,9 +2249,12 @@
          "short_name" : "白子小学校"
       },
       "鈴鹿市立石薬師小学校" : {
+         "location" : "三重県鈴鹿市石薬師町1713",
          "location_area" : "鈴鹿市",
+         "location_zipcode" : "513-0012",
          "owner_type" : "市立",
-         "short_name" : "石薬師小学校"
+         "short_name" : "石薬師小学校",
+         "url" : "http://www.edu.city.suzuka.mie.jp/ishi-e/"
       },
       "鈴鹿市立神戸小学校" : {
          "location_area" : "鈴鹿市",

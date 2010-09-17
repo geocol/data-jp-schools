@@ -6,9 +6,13 @@
          "short_name" : "あげな小学校"
       },
       "うるま市立与那城小学校" : {
+         "location" : "沖縄県うるま市与那城屋慶名469",
          "location_area" : "うるま市",
+         "location_zipcode" : "904-2304",
          "owner_type" : "市立",
-         "short_name" : "与那城小学校"
+         "short_name" : "与那城小学校",
+         "sort_name" : "うるましりつよなしろ",
+         "url" : "http://www.rik.ne.jp/yonas/"
       },
       "うるま市立中原小学校" : {
          "location_area" : "うるま市",
@@ -31,9 +35,13 @@
          "short_name" : "兼原小学校"
       },
       "うるま市立勝連小学校" : {
+         "location" : "沖縄県うるま市勝連内間1173",
          "location_area" : "うるま市",
+         "location_zipcode" : "904-2313",
          "owner_type" : "市立",
-         "short_name" : "勝連小学校"
+         "short_name" : "勝連小学校",
+         "sort_name" : "うるましりつかつれん",
+         "url" : "http://www.katuren-elem.yonegrp.jp/"
       },
       "うるま市立南原小学校" : {
          "location_area" : "うるま市",
@@ -66,7 +74,9 @@
          "short_name" : "川崎小学校"
       },
       "うるま市立平敷屋小学校" : {
+         "location" : "沖縄県うるま市勝連平敷屋3850",
          "location_area" : "うるま市",
+         "location_zipcode" : "904-2314",
          "owner_type" : "市立",
          "short_name" : "平敷屋小学校"
       },
@@ -241,14 +251,22 @@
          "short_name" : "北玉小学校"
       },
       "北谷町立北谷小学校" : {
+         "location" : "沖縄県沖縄市南桃原4丁目13番1号",
          "location_area" : "中頭郡北谷町",
+         "location_zipcode" : "904-0035",
          "owner_type" : "町立",
-         "short_name" : "北谷小学校"
+         "short_name" : "北谷小学校",
+         "sort_name" : "ちやたんちようりつちやたんしようかつこう",
+         "url" : "http://www.chatan-e.chatan.jp/"
       },
       "北谷町立北谷第二小学校" : {
+         "location" : "沖縄県中頭郡北谷町字桑江567",
          "location_area" : "中頭郡北谷町",
+         "location_zipcode" : "904-0103",
          "owner_type" : "町立",
-         "short_name" : "北谷第二小学校"
+         "short_name" : "北谷第二小学校",
+         "sort_name" : "ちやたんちようりつちやたんたいにしようかつこう",
+         "url" : "http://www.chatan2-e.chatan.jp/1/328.html"
       },
       "北谷町立浜川小学校" : {
          "location_area" : "中頭郡北谷町",
@@ -356,9 +374,12 @@
          "short_name" : "安和小学校"
       },
       "名護市立屋我地小学校" : {
+         "location" : "沖縄県名護市饒平名159",
          "location_area" : "名護市",
+         "location_zipcode" : "905-1632",
          "owner_type" : "市立",
-         "short_name" : "屋我地小学校"
+         "short_name" : "屋我地小学校",
+         "sort_name" : "なこしりつやかししよう"
       },
       "名護市立屋部小学校" : {
          "location_area" : "名護市",
@@ -406,9 +427,12 @@
          "short_name" : "嘉手納小学校"
       },
       "嘉手納町立屋良小学校" : {
+         "location" : "沖縄県中頭郡嘉手納町屋良9番地",
          "location_area" : "中頭郡嘉手納町",
+         "location_zipcode" : "904-0202",
          "owner_type" : "町立",
-         "short_name" : "屋良小学校"
+         "short_name" : "屋良小学校",
+         "sort_name" : "かてなちようしりつやらしようかつこう"
       },
       "国頭村立佐手小学校" : {
          "location_area" : "国頭郡国頭村",
@@ -451,9 +475,12 @@
          "short_name" : "辺土名小学校"
       },
       "多良間村立多良間小学校" : {
+         "location" : "沖縄県宮古郡多良間村仲筋108",
          "location_area" : "宮古郡多良間村",
+         "location_zipcode" : "906-0602",
          "owner_type" : "村立",
-         "short_name" : "多良間小学校"
+         "short_name" : "多良間小学校",
+         "url" : "http://www2.miyako-ma.jp/taramaes/index.html"
       },
       "大宜味村立喜如嘉小学校" : {
          "location_area" : "国頭郡大宜味村",
@@ -721,15 +748,28 @@
          "short_name" : "高江小学校"
       },
       "沖縄カトリック小学校" : {
-         "owner_type" : "私立"
+         "location" : "沖縄県宜野湾市真栄原三丁目16番1号",
+         "location_wikipedia_latlon" : "|26|15|41.2|N|127|44|41.5|E|",
+         "location_zipcode" : "901-2215",
+         "owner_type" : "私立",
+         "sort_name" : "おきなわかとりつくしよう",
+         "url" : "http://oces.catholic-okinawa.ed.jp/index.jsp"
       },
       "沖縄三育小学校" : {
-         "owner_type" : "私立"
+         "location" : "沖縄県中頭郡北中城村荻道275-1",
+         "location_zipcode" : "901-2315",
+         "owner_type" : "私立",
+         "sort_name" : "おきなわさんいくしよう",
+         "url" : "http://www.saniku.ac.jp/okinawa/el/"
       },
       "沖縄市立コザ小学校" : {
+         "location" : "沖縄県沖縄市中央4丁目16番1号",
          "location_area" : "沖縄市",
+         "location_zipcode" : "904-0004",
          "owner_type" : "市立",
-         "short_name" : "コザ小学校"
+         "short_name" : "コザ小学校",
+         "sort_name" : "おきなわしりつこさしようかつこう",
+         "url" : "http://www02.bbc.city.okinawa.okinawa.jp/oki/school/spko/"
       },
       "沖縄市立中の町小学校" : {
          "location_area" : "沖縄市",
@@ -757,9 +797,13 @@
          "short_name" : "宮里小学校"
       },
       "沖縄市立山内小学校" : {
+         "location" : "沖縄県沖縄市山内2丁目32番2号",
          "location_area" : "沖縄市",
+         "location_zipcode" : "904-0034",
          "owner_type" : "市立",
-         "short_name" : "山内小学校"
+         "short_name" : "山内小学校",
+         "sort_name" : "おきなわしりつやまうちしようかつこう",
+         "url" : "http://www02.bbc.city.okinawa.okinawa.jp/oki/school/spya/"
       },
       "沖縄市立島袋小学校" : {
          "location_area" : "沖縄市",
@@ -772,9 +816,13 @@
          "short_name" : "泡瀬小学校"
       },
       "沖縄市立美原小学校" : {
+         "location" : "沖縄県沖縄市美原4丁目20番1号",
          "location_area" : "沖縄市",
+         "location_zipcode" : "904-2155",
          "owner_type" : "市立",
-         "short_name" : "美原小学校"
+         "short_name" : "美原小学校",
+         "sort_name" : "おきなわしりつみはらしようかつこう",
+         "url" : "http://www02.bbc.city.okinawa.okinawa.jp/oki/school/spmh/"
       },
       "沖縄市立美東小学校" : {
          "location_area" : "沖縄市",
@@ -812,9 +860,12 @@
          "short_name" : "内間小学校"
       },
       "浦添市立前田小学校" : {
+         "location" : "沖縄県浦添市字前田333番地",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2501",
          "owner_type" : "市立",
-         "short_name" : "前田小学校"
+         "short_name" : "前田小学校",
+         "url" : "http://urasoe.ed.jp/e11/"
       },
       "浦添市立宮城小学校" : {
          "location_area" : "浦添市",
@@ -822,14 +873,22 @@
          "short_name" : "宮城小学校"
       },
       "浦添市立当山小学校" : {
+         "location" : "沖縄県浦添市当山二丁目34番2号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2104",
          "owner_type" : "市立",
-         "short_name" : "当山小学校"
+         "short_name" : "当山小学校",
+         "sort_name" : "うらそえしりつとうやま",
+         "url" : "http://urasoe.ed.jp/e06/"
       },
       "浦添市立沢岻小学校" : {
+         "location" : "沖縄県浦添市沢岻998番地",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2134",
          "owner_type" : "市立",
-         "short_name" : "沢岻小学校"
+         "short_name" : "沢岻小学校",
+         "sort_name" : "うらそえしりつたくししようかつこう",
+         "url" : "http://urasoe.ed.jp/e10/"
       },
       "浦添市立浦城小学校" : {
          "location_area" : "浦添市",
@@ -837,9 +896,13 @@
          "short_name" : "浦城小学校"
       },
       "浦添市立浦添小学校" : {
+         "location" : "沖縄県浦添市仲間二丁目47番地1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2103",
          "owner_type" : "市立",
-         "short_name" : "浦添小学校"
+         "short_name" : "浦添小学校",
+         "sort_name" : "うらそえしりつうらそえ",
+         "url" : "http://www.urasoe.ed.jp/e01/"
       },
       "浦添市立港川小学校" : {
          "location_area" : "浦添市",
@@ -870,7 +933,11 @@
          "short_name" : "渡嘉敷小学校"
       },
       "琉球大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "沖縄県中頭郡西原町字千原1番地",
+         "location_zipcode" : "903-0213",
+         "owner_type" : "国立",
+         "sort_name" : "りゆうきゆうたいかくきよういくかくふふそくしよう",
+         "url" : "http://www.els.u-ryukyu.ac.jp/"
       },
       "石垣市立伊野田小学校" : {
          "location_area" : "石垣市",
@@ -1175,7 +1242,8 @@
       "那覇市立久茂地小学校" : {
          "location_area" : "那覇市",
          "owner_type" : "市立",
-         "short_name" : "久茂地小学校"
+         "short_name" : "久茂地小学校",
+         "sort_name" : "なはしりつくもししようかつこう"
       },
       "那覇市立仲井真小学校" : {
          "location_area" : "那覇市",
@@ -1235,7 +1303,8 @@
       "那覇市立大道小学校" : {
          "location_area" : "那覇市",
          "owner_type" : "市立",
-         "short_name" : "大道小学校"
+         "short_name" : "大道小学校",
+         "sort_name" : "なはしりつたいとう"
       },
       "那覇市立天妃小学校" : {
          "location_area" : "那覇市",
@@ -1283,9 +1352,13 @@
          "short_name" : "泊小学校"
       },
       "那覇市立真和志小学校" : {
+         "location" : "沖縄県那覇市寄宮3丁目1番1号",
          "location_area" : "那覇市",
+         "location_zipcode" : "902-0064",
          "owner_type" : "市立",
-         "short_name" : "真和志小学校"
+         "short_name" : "真和志小学校",
+         "sort_name" : "なはしりつまわししようかつこう",
+         "url" : "http://www.nahaken-okn.ed.jp/mawas-es/"
       },
       "那覇市立真嘉比小学校" : {
          "location_area" : "那覇市",
@@ -1303,9 +1376,13 @@
          "short_name" : "石嶺小学校"
       },
       "那覇市立神原小学校" : {
+         "location" : "沖縄県那覇市樋川2丁目7番1号",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-0022",
          "owner_type" : "市立",
-         "short_name" : "神原小学校"
+         "short_name" : "神原小学校",
+         "sort_name" : "なはしりつかみはらしようかつこう",
+         "url" : "http://www.nahaken-okn.ed.jp/kamih-es/"
       },
       "那覇市立若狭小学校" : {
          "location_area" : "那覇市",
@@ -1328,9 +1405,13 @@
          "short_name" : "銘苅小学校"
       },
       "那覇市立開南小学校" : {
+         "location" : "沖縄県那覇市泉崎1-1-6",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-0021",
          "owner_type" : "市立",
-         "short_name" : "開南小学校"
+         "short_name" : "開南小学校",
+         "sort_name" : "なはしりつかいなんしようかつこう",
+         "url" : "http://www.nahaken-okn.ed.jp/kaina-es/"
       },
       "那覇市立高良小学校" : {
          "location_area" : "那覇市",

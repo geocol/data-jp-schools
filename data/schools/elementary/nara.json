@@ -41,9 +41,13 @@
          "short_name" : "下北山小学校"
       },
       "下市町立下市小学校" : {
+         "location" : "奈良県吉野郡下市町大字下市3060",
          "location_area" : "吉野郡下市町",
+         "location_wikipedia_latlon" : "|34|22|07|N|135|47|22|E|",
+         "location_zipcode" : "638-0041",
          "owner_type" : "町立",
-         "short_name" : "下市小学校"
+         "short_name" : "下市小学校",
+         "sort_name" : "しもいちちようりつしもいちしようかつこう"
       },
       "下市町立阿知賀小学校" : {
          "location_area" : "吉野郡下市町",
@@ -56,9 +60,13 @@
          "short_name" : "阪合部小学校"
       },
       "五條市立五條小学校" : {
+         "location" : "奈良県五條市本町1丁目1番4号",
          "location_area" : "五條市",
+         "location_zipcode" : "637-0041",
          "owner_type" : "市立",
-         "short_name" : "五條小学校"
+         "short_name" : "五條小学校",
+         "sort_name" : "こしようしりつこしようしようかつこう",
+         "url" : "http://www.gojo-nar.ed.jp/gosho/"
       },
       "五條市立北宇智小学校" : {
          "location_area" : "五條市",
@@ -161,9 +169,13 @@
          "short_name" : "矢田小学校"
       },
       "大和郡山市立筒井小学校" : {
+         "location" : "奈良県大和郡山市筒井120",
          "location_area" : "大和郡山市",
+         "location_zipcode" : "639-1123",
          "owner_type" : "市立",
-         "short_name" : "筒井小学校"
+         "short_name" : "筒井小学校",
+         "sort_name" : "やまとこおりやましりつつついしようかつこう",
+         "url" : "http://www.city.yamatokoriyama.nara.jp/kurasi/kyoiku/gakkousyoukai/s_tutu/index.htm"
       },
       "大和郡山市立郡山北小学校" : {
          "location_area" : "大和郡山市",
@@ -211,9 +223,13 @@
          "short_name" : "菅原小学校"
       },
       "大和高田市立陵西小学校" : {
+         "location" : "奈良県大和高田市池田3",
          "location_area" : "大和高田市",
+         "location_zipcode" : "635-0077",
          "owner_type" : "市立",
-         "short_name" : "陵西小学校"
+         "short_name" : "陵西小学校",
+         "sort_name" : "やまとたかたしりつおかにし",
+         "url" : "http://www.asm.ne.jp/~okanishi/"
       },
       "大和高田市立高田小学校" : {
          "location_area" : "大和高田市",
@@ -264,9 +280,14 @@
          "short_name" : "前栽小学校"
       },
       "天理市立山の辺小学校" : {
+         "location" : "奈良県天理市別所町380番地",
          "location_area" : "天理市",
+         "location_wikipedia_latlon" : "|34|36|33|N|135|50|13|E|",
+         "location_zipcode" : "632-0018",
          "owner_type" : "市立",
-         "short_name" : "山の辺小学校"
+         "short_name" : "山の辺小学校",
+         "sort_name" : "てんりしりつやまのへしようかつこう",
+         "url" : "http://academic1.plala.or.jp/yamasyo/"
       },
       "天理市立朝和小学校" : {
          "location_area" : "天理市",
@@ -279,9 +300,14 @@
          "short_name" : "柳本小学校"
       },
       "天理市立櫟本小学校" : {
+         "location" : "奈良県天理市櫟本町2426番地の1",
          "location_area" : "天理市",
+         "location_wikipedia_latlon" : "|34|37|12|N|135|49|52|E|",
+         "location_zipcode" : "632-0004",
          "owner_type" : "市立",
-         "short_name" : "櫟本小学校"
+         "short_name" : "櫟本小学校",
+         "sort_name" : "てんりしりついちのもとしようかつこう",
+         "url" : "http://academic1.plala.or.jp/itisyo/"
       },
       "天理市立福住小学校" : {
          "location_area" : "天理市",
@@ -289,20 +315,26 @@
          "short_name" : "福住小学校"
       },
       "奈良女子大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ならしよしたいかくふそくしよう"
       },
       "奈良学園小学校" : {
          "owner_type" : "私立"
       },
       "奈良市立あやめ池小学校" : {
+         "location" : "奈良県奈良市あやめ池9丁目939-39",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0033",
          "owner_type" : "市立",
-         "short_name" : "あやめ池小学校"
+         "short_name" : "あやめ池小学校",
+         "sort_name" : "ならしりあやめいけしようかつこう",
+         "url" : "http://www.naracity.ed.jp/ayameike-e/"
       },
       "奈良市立二名小学校" : {
          "location_area" : "奈良市",
          "owner_type" : "市立",
-         "short_name" : "二名小学校"
+         "short_name" : "二名小学校",
+         "sort_name" : "ならしりつにみようしようかつこう"
       },
       "奈良市立伏見南小学校" : {
          "location_area" : "奈良市",
@@ -315,9 +347,13 @@
          "short_name" : "伏見小学校"
       },
       "奈良市立佐保台小学校" : {
+         "location" : "奈良県奈良市佐保台3丁目902-341",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-8105",
          "owner_type" : "市立",
-         "short_name" : "佐保台小学校"
+         "short_name" : "佐保台小学校",
+         "sort_name" : "ならしりさほたいしようかつこう",
+         "url" : "http://www.naracity.ed.jp/sahodai-e/"
       },
       "奈良市立佐保小学校" : {
          "location_area" : "奈良市",
@@ -335,9 +371,13 @@
          "short_name" : "六条小学校"
       },
       "奈良市立右京小学校" : {
+         "location" : "奈良県奈良市右京4丁目11-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0805",
          "owner_type" : "市立",
-         "short_name" : "右京小学校"
+         "short_name" : "右京小学校",
+         "sort_name" : "ならしりつうきようしようかつこう",
+         "url" : "http://www.naracity.ed.jp/ukyou-e/ukyoueHP/index.html"
       },
       "奈良市立大安寺小学校" : {
          "location_area" : "奈良市",
@@ -355,14 +395,22 @@
          "short_name" : "大宮小学校"
       },
       "奈良市立大柳生小学校" : {
+         "location" : "奈良県奈良市大柳生町832",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-",
          "owner_type" : "市立",
-         "short_name" : "大柳生小学校"
+         "short_name" : "大柳生小学校",
+         "sort_name" : "ならしりつおおやきゆうしようかつこう",
+         "url" : "http://www.naracity.ed.jp/ohyagyuu-e/"
       },
       "奈良市立富雄北小学校" : {
+         "location" : "奈良県奈良市富雄北1丁目13-6",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0076",
          "owner_type" : "市立",
-         "short_name" : "富雄北小学校"
+         "short_name" : "富雄北小学校",
+         "sort_name" : "ならしりつとみおきたしようかつこう",
+         "url" : "http://www.naracity.ed.jp/tomiokita-e/"
       },
       "奈良市立富雄南小学校" : {
          "location_area" : "奈良市",
@@ -370,29 +418,49 @@
          "short_name" : "富雄南小学校"
       },
       "奈良市立富雄第三小学校" : {
+         "location" : "奈良県奈良市帝塚山南2丁目11-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0064",
          "owner_type" : "市立",
-         "short_name" : "富雄第三小学校"
+         "short_name" : "富雄第三小学校",
+         "sort_name" : "ならしりつとみおたいさんしようかつこう",
+         "url" : "http://www.naracity.ed.jp/tomiodaisan-e/index.htm"
       },
       "奈良市立左京小学校" : {
+         "location" : "奈良県奈良市左京3丁目1-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0801",
          "owner_type" : "市立",
-         "short_name" : "左京小学校"
+         "short_name" : "左京小学校",
+         "sort_name" : "ならしりつさきようしようかつこう",
+         "url" : "http://www.naracity.ed.jp/sakyou-e/2008/index.htm"
       },
       "奈良市立帯解小学校" : {
+         "location" : "奈良県奈良市柴屋町9",
          "location_area" : "奈良市",
+         "location_wikipedia_latlon" : "|34|38|41|N|135|49|45|E|",
+         "location_zipcode" : "630-8433",
          "owner_type" : "市立",
-         "short_name" : "帯解小学校"
+         "short_name" : "帯解小学校",
+         "sort_name" : "ならしりつおひとけしようかつこう"
       },
       "奈良市立平城小学校" : {
+         "location" : "奈良県奈良市秋篠町1394",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0811",
          "owner_type" : "市立",
-         "short_name" : "平城小学校"
+         "short_name" : "平城小学校",
+         "sort_name" : "ならしりつへいしようしようかつこう",
+         "url" : "http://www.naracity.ed.jp/heijou-e/syoukai/syoukai.html"
       },
       "奈良市立平城西小学校" : {
+         "location" : "奈良県奈良市登美ヶ丘3丁目1093-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0002",
          "owner_type" : "市立",
-         "short_name" : "平城西小学校"
+         "short_name" : "平城西小学校",
+         "sort_name" : "ならしりつへいしようにししようかつこう",
+         "url" : "http://www.naracity.ed.jp/heijounishi-e/"
       },
       "奈良市立明治小学校" : {
          "location_area" : "奈良市",
@@ -400,9 +468,13 @@
          "short_name" : "明治小学校"
       },
       "奈良市立朱雀小学校" : {
+         "location" : "奈良県奈良市朱雀6丁目10-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0806",
          "owner_type" : "市立",
-         "short_name" : "朱雀小学校"
+         "short_name" : "朱雀小学校",
+         "sort_name" : "ならしりつすさくしようかつこう",
+         "url" : "http://www.naracity.ed.jp/suzaku-e/"
       },
       "奈良市立東市小学校" : {
          "location_area" : "奈良市",
@@ -410,9 +482,13 @@
          "short_name" : "東市小学校"
       },
       "奈良市立東登美ヶ丘小学校" : {
+         "location" : "奈良県奈良市東登美ヶ丘4丁目21-33",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0002",
          "owner_type" : "市立",
-         "short_name" : "東登美ヶ丘小学校"
+         "short_name" : "東登美ヶ丘小学校",
+         "sort_name" : "ならしりつひかしとみかおかしようかつこう",
+         "url" : "http://www.naracity.ed.jp/higashitomigaoka-e/"
       },
       "奈良市立柳生小学校" : {
          "location_area" : "奈良市",
@@ -440,9 +516,13 @@
          "short_name" : "田原小学校"
       },
       "奈良市立登美ヶ丘小学校" : {
+         "location" : "奈良市東登美ヶ丘4丁目21-33",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0002",
          "owner_type" : "市立",
-         "short_name" : "登美ヶ丘小学校"
+         "short_name" : "登美ヶ丘小学校",
+         "sort_name" : "ならしりつひかしとみかおかしようかつこう",
+         "url" : "http://www.naracity.ed.jp/higashitomigaoka-e/"
       },
       "奈良市立相和小学校" : {
          "location_area" : "奈良市",
@@ -460,9 +540,13 @@
          "short_name" : "精華小学校"
       },
       "奈良市立西大寺北小学校" : {
+         "location" : "奈良県奈良市西大寺赤田町1丁目6-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0818",
          "owner_type" : "市立",
-         "short_name" : "西大寺北小学校"
+         "short_name" : "西大寺北小学校",
+         "sort_name" : "ならしりさいたいしきたしようかつこう",
+         "url" : "http://www.naracity.ed.jp/saidaijikita-e/"
       },
       "奈良市立辰市小学校" : {
          "location_area" : "奈良市",
@@ -480,9 +564,13 @@
          "short_name" : "青和小学校"
       },
       "奈良市立飛鳥小学校" : {
+         "location" : "奈良県奈良市",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-",
          "owner_type" : "市立",
-         "short_name" : "飛鳥小学校"
+         "short_name" : "飛鳥小学校",
+         "sort_name" : "ならしりつあすかしようかつこう",
+         "url" : "http://www.naracity.ed.jp/asuka-e/"
       },
       "奈良市立鳥見小学校" : {
          "location_area" : "奈良市",
@@ -490,9 +578,13 @@
          "short_name" : "鳥見小学校"
       },
       "奈良市立鶴舞小学校" : {
+         "location" : "奈良県奈良市鶴舞東町2-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0021",
          "owner_type" : "市立",
-         "short_name" : "鶴舞小学校"
+         "short_name" : "鶴舞小学校",
+         "sort_name" : "ならしりつつるまいしようかつこう",
+         "url" : "http://www.naracity.ed.jp/tsurumai-e/top.html"
       },
       "奈良市立鼓阪北小学校" : {
          "location_area" : "奈良市",
@@ -502,18 +594,25 @@
       "奈良市立鼓阪小学校" : {
          "location_area" : "奈良市",
          "owner_type" : "市立",
-         "short_name" : "鼓阪小学校"
+         "short_name" : "鼓阪小学校",
+         "sort_name" : "ならしりつつさかしようかつこう"
       },
       "奈良教育大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ならきよういくたいかくふそく"
       },
       "奈良育英小学校" : {
          "owner_type" : "私立"
       },
       "宇陀市立大宇陀小学校" : {
+         "location" : "奈良県宇陀市大宇陀区西山72-2",
          "location_area" : "宇陀市",
+         "location_wikipedia_latlon" : "|34|28|59|N|135|55|44|E|",
+         "location_zipcode" : "633-2115",
          "owner_type" : "市立",
-         "short_name" : "大宇陀小学校"
+         "short_name" : "大宇陀小学校",
+         "sort_name" : "うたしりつおおうたしようかつこう",
+         "url" : "http://www.ouda-e.ed.city.uda.nara.jp/"
       },
       "宇陀市立室生東小学校" : {
          "location_area" : "宇陀市",
@@ -571,7 +670,11 @@
          "short_name" : "川西小学校"
       },
       "帝塚山小学校" : {
-         "owner_type" : "私立"
+         "location" : "奈良市学園南3－1－3",
+         "location_zipcode" : "631-0034",
+         "owner_type" : "私立",
+         "sort_name" : "てつかやま",
+         "url" : "http://www.tezukayama-e.ed.jp//"
       },
       "平群町立平群北小学校" : {
          "location_area" : "生駒郡平群町",
@@ -604,9 +707,12 @@
          "short_name" : "広陵東小学校"
       },
       "広陵町立広陵西小学校" : {
+         "location" : "奈良県北葛城郡広陵町大字平尾542",
          "location_area" : "北葛城郡広陵町",
+         "location_zipcode" : "635-0822",
          "owner_type" : "町立",
-         "short_name" : "広陵西小学校"
+         "short_name" : "広陵西小学校",
+         "sort_name" : "こうりようちようりつこうりようにししようかつこう"
       },
       "広陵町立真美ヶ丘第一小学校" : {
          "location_area" : "北葛城郡広陵町",
@@ -629,9 +735,14 @@
          "short_name" : "大正小学校"
       },
       "御所市立御所小学校" : {
+         "location" : "奈良県御所市610番地",
          "location_area" : "御所市",
+         "location_wikipedia_latlon" : "|34|27|50|N|135|44|29|E|",
+         "location_zipcode" : "639-2239",
          "owner_type" : "市立",
-         "short_name" : "御所小学校"
+         "short_name" : "御所小学校",
+         "sort_name" : "こせしりつこせしようかつこう",
+         "url" : "http://www5.kcn.ne.jp/~gose-sho/"
       },
       "御所市立掖上小学校" : {
          "location_area" : "御所市",
@@ -679,9 +790,14 @@
          "short_name" : "斑鳩西小学校"
       },
       "明日香村立明日香小学校" : {
+         "location" : "奈良県高市郡明日香村大字橘86",
          "location_area" : "高市郡明日香村",
+         "location_wikipedia_latlon" : "|34|28|09|N|135|48|44|E|",
+         "location_zipcode" : "634-0142",
          "owner_type" : "村立",
-         "short_name" : "明日香小学校"
+         "short_name" : "明日香小学校",
+         "sort_name" : "あすかそんりつあすかしようかつこう",
+         "url" : "http://www4.kcn.ne.jp/~s-asuka/"
       },
       "智辯学園奈良カレッジ小学部" : {
          "owner_type" : "私立",
@@ -778,9 +894,13 @@
          "short_name" : "畝傍南小学校"
       },
       "橿原市立畝傍東小学校" : {
+         "location" : "奈良県橿原市大軽町283",
          "location_area" : "橿原市",
+         "location_wikipedia_latlon" : "|34|28|47|N|135|48|05|E|",
+         "location_zipcode" : "634-0044",
          "owner_type" : "市立",
-         "short_name" : "畝傍東小学校"
+         "short_name" : "畝傍東小学校",
+         "sort_name" : "かしはらしりつうねひひかししようかつこう"
       },
       "橿原市立白橿北小学校" : {
          "location_area" : "橿原市",
@@ -835,7 +955,8 @@
       "河合町立河合第一小学校" : {
          "location_area" : "北葛城郡河合町",
          "owner_type" : "町立",
-         "short_name" : "河合第一小学校"
+         "short_name" : "河合第一小学校",
+         "sort_name" : "かわいちようりつかわいたいいちしよう"
       },
       "河合町立河合第三小学校" : {
          "location_area" : "北葛城郡河合町",
@@ -898,14 +1019,19 @@
          "short_name" : "生駒南第二小学校"
       },
       "生駒市立生駒小学校" : {
+         "location" : "奈良県生駒市山崎町4-44",
          "location_area" : "生駒市",
+         "location_zipcode" : "630-0252",
          "owner_type" : "市立",
-         "short_name" : "生駒小学校"
+         "short_name" : "生駒小学校",
+         "sort_name" : "いこましりついこま",
+         "url" : "http://www.ed.city.ikoma.nara.jp/school/ikoma-e/"
       },
       "生駒市立生駒東小学校" : {
          "location_area" : "生駒市",
          "owner_type" : "市立",
-         "short_name" : "生駒東小学校"
+         "short_name" : "生駒東小学校",
+         "sort_name" : "いこましりついこまひかししよう"
       },
       "生駒市立真弓小学校" : {
          "location_area" : "生駒市",
@@ -980,27 +1106,32 @@
       "香芝市立下田小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "下田小学校"
+         "short_name" : "下田小学校",
+         "sort_name" : "かしはしりつしもた"
       },
       "香芝市立二上小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "二上小学校"
+         "short_name" : "二上小学校",
+         "sort_name" : "かしはしりつにしよう"
       },
       "香芝市立五位堂小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "五位堂小学校"
+         "short_name" : "五位堂小学校",
+         "sort_name" : "かしはしりつこいとう"
       },
       "香芝市立志都美小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "志都美小学校"
+         "short_name" : "志都美小学校",
+         "sort_name" : "かしはしりつしすみ"
       },
       "香芝市立旭ヶ丘小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "旭ヶ丘小学校"
+         "short_name" : "旭ヶ丘小学校",
+         "sort_name" : "かしはしりつあさひかおか"
       },
       "香芝市立真美ヶ丘東小学校" : {
          "location_area" : "香芝市",
@@ -1015,7 +1146,8 @@
       "香芝市立鎌田小学校" : {
          "location_area" : "香芝市",
          "owner_type" : "市立",
-         "short_name" : "鎌田小学校"
+         "short_name" : "鎌田小学校",
+         "sort_name" : "かしはしりつかまたしようかつこう"
       },
       "香芝市立関屋小学校" : {
          "location_area" : "香芝市",

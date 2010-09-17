@@ -403,7 +403,8 @@
       "大館市立早口小学校" : {
          "location_area" : "大館市",
          "owner_type" : "市立",
-         "short_name" : "早口小学校"
+         "short_name" : "早口小学校",
+         "sort_name" : "おおたてしりつはやくちしようかつこう"
       },
       "大館市立有浦小学校" : {
          "location_area" : "大館市",
@@ -678,7 +679,8 @@
       "潟上市立大久保小学校" : {
          "location_area" : "潟上市",
          "owner_type" : "市立",
-         "short_name" : "大久保小学校"
+         "short_name" : "大久保小学校",
+         "sort_name" : "かたかみしりつおおくほ"
       },
       "潟上市立天王小学校" : {
          "location_area" : "潟上市",
@@ -721,9 +723,13 @@
          "short_name" : "亀田小学校"
       },
       "由利本荘市立八塩小学校" : {
+         "location" : "秋田県由利本荘市東由利舘合字舘野10",
          "location_area" : "由利本荘市",
+         "location_zipcode" : "015-0221",
          "owner_type" : "市立",
-         "short_name" : "八塩小学校"
+         "short_name" : "八塩小学校",
+         "sort_name" : "ゆりほんしようしりつやしおしよう",
+         "url" : "http://www2.chokai.ne.jp/~yashio/"
       },
       "由利本荘市立北内越小学校" : {
          "location_area" : "由利本荘市",
@@ -801,9 +807,13 @@
          "short_name" : "道川小学校"
       },
       "由利本荘市立高瀬小学校" : {
+         "location" : "秋田県由利本荘市東由利法内字宮の前243番地",
          "location_area" : "由利本荘市",
+         "location_zipcode" : "015-0201",
          "owner_type" : "市立",
-         "short_name" : "高瀬小学校"
+         "short_name" : "高瀬小学校",
+         "sort_name" : "ゆりほんしようしりつたかせしよう",
+         "url" : "http://www.city.yurihonjo.akita.jp/edu/takase-es/"
       },
       "由利本荘市立鶴舞小学校" : {
          "location_area" : "由利本荘市",
@@ -861,7 +871,8 @@
          "short_name" : "鵜木小学校"
       },
       "秋田大学教育文化学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "あきたたいかくきよういくふんかかくふふそくしよう"
       },
       "秋田市立上北手小学校" : {
          "location_area" : "秋田市",
@@ -909,9 +920,13 @@
          "short_name" : "八橋小学校"
       },
       "秋田市立勝平小学校" : {
+         "location" : "秋田市新屋松美ガ丘北町14番1号",
          "location_area" : "秋田市",
+         "location_zipcode" : "010-1618",
          "owner_type" : "市立",
-         "short_name" : "勝平小学校"
+         "short_name" : "勝平小学校",
+         "sort_name" : "あきたしりつかつひらしよう",
+         "url" : "http://www.edu.city.akita.akita.jp/~kth-s/"
       },
       "秋田市立四ツ小屋小学校" : {
          "location_area" : "秋田市",
@@ -929,9 +944,12 @@
          "short_name" : "土崎小学校"
       },
       "秋田市立外旭川小学校" : {
+         "location" : "秋田県秋田市外旭川字梶ノ目262番地2",
          "location_area" : "秋田市",
+         "location_zipcode" : "010-0802",
          "owner_type" : "市立",
-         "short_name" : "外旭川小学校"
+         "short_name" : "外旭川小学校",
+         "sort_name" : "あきたしりつそとあさひかわしようかつこう"
       },
       "秋田市立大住小学校" : {
          "location_area" : "秋田市",
@@ -994,9 +1012,13 @@
          "short_name" : "戸米川小学校"
       },
       "秋田市立日新小学校" : {
+         "location" : "秋田県秋田市新屋栗田町24-1",
          "location_area" : "秋田市",
+         "location_zipcode" : "010-1621",
          "owner_type" : "市立",
-         "short_name" : "日新小学校"
+         "short_name" : "日新小学校",
+         "sort_name" : "あきたしりつにつしんしよう",
+         "url" : "http://www.edu.city.akita.akita.jp/~nsn-s/index.htm"
       },
       "秋田市立旭北小学校" : {
          "location_area" : "秋田市",
@@ -1036,7 +1058,8 @@
       "秋田市立泉小学校" : {
          "location_area" : "秋田市",
          "owner_type" : "市立",
-         "short_name" : "泉小学校"
+         "short_name" : "泉小学校",
+         "sort_name" : "あきたしりついすみしよう"
       },
       "秋田市立浜田小学校" : {
          "location_area" : "秋田市",
@@ -1084,14 +1107,20 @@
          "short_name" : "飯島小学校"
       },
       "秋田市立高清水小学校" : {
+         "location" : "秋田県秋田市将軍野南一丁目2番16号",
          "location_area" : "秋田市",
+         "location_zipcode" : "011-0936",
          "owner_type" : "市立",
-         "short_name" : "高清水小学校"
+         "short_name" : "高清水小学校",
+         "sort_name" : "あきたしりつたかしみすしよう"
       },
       "美郷町立仙南東小学校" : {
+         "location" : "秋田県仙北郡美郷町飯詰字下鶴田22番地",
          "location_area" : "仙北郡美郷町",
+         "location_zipcode" : "019-1234",
          "owner_type" : "町立",
-         "short_name" : "仙南東小学校"
+         "short_name" : "仙南東小学校",
+         "sort_name" : "みさとちようりつせんなんひかししよう"
       },
       "美郷町立仙南西小学校" : {
          "location_area" : "仙北郡美郷町",
@@ -1141,7 +1170,8 @@
       "羽後町立羽後明成小学校" : {
          "location_area" : "雄勝郡羽後町",
          "owner_type" : "町立",
-         "short_name" : "羽後明成小学校"
+         "short_name" : "羽後明成小学校",
+         "sort_name" : "うこちようりつめいせいしようかつこう"
       },
       "羽後町立西馬音内小学校" : {
          "location_area" : "雄勝郡羽後町",

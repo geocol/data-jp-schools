@@ -33,7 +33,8 @@
       "上山市立南小学校" : {
          "location_area" : "上山市",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "かみのやましりつみなみしようかつこう"
       },
       "上山市立宮生小学校" : {
          "location_area" : "上山市",
@@ -116,9 +117,13 @@
          "short_name" : "三郷小学校"
       },
       "大江町立左沢小学校" : {
+         "location" : "山形県西村山郡大江町大字左沢816-2",
          "location_area" : "西村山郡大江町",
+         "location_zipcode" : "990-1101",
          "owner_type" : "町立",
-         "short_name" : "左沢小学校"
+         "short_name" : "左沢小学校",
+         "sort_name" : "おおえちようりつあてらさわ",
+         "url" : "http://www.town.oe.yamagata.jp/modules/town/index.php?content_id=26#aterazawa"
       },
       "大江町立本郷東小学校" : {
          "location_area" : "西村山郡大江町",
@@ -203,7 +208,8 @@
       "天童市立成生小学校" : {
          "location_area" : "天童市",
          "owner_type" : "市立",
-         "short_name" : "成生小学校"
+         "short_name" : "成生小学校",
+         "sort_name" : "てんとうしりつなりうしよう"
       },
       "天童市立津山小学校" : {
          "location_area" : "天童市",
@@ -226,9 +232,12 @@
          "short_name" : "長岡小学校"
       },
       "天童市立高擶小学校" : {
+         "location" : "山形県天童市大字高擶北239番地",
          "location_area" : "天童市",
+         "location_zipcode" : "994-0068",
          "owner_type" : "市立",
-         "short_name" : "高擶小学校"
+         "short_name" : "高擶小学校",
+         "url" : "http://www.takadama.jp/"
       },
       "寒河江市立三泉小学校" : {
          "location_area" : "寒河江市",
@@ -238,17 +247,20 @@
       "寒河江市立南部小学校" : {
          "location_area" : "寒河江市",
          "owner_type" : "市立",
-         "short_name" : "南部小学校"
+         "short_name" : "南部小学校",
+         "sort_name" : "さかえしりつなんふしよう"
       },
       "寒河江市立寒河江中部小学校" : {
          "location_area" : "寒河江市",
          "owner_type" : "市立",
-         "short_name" : "寒河江中部小学校"
+         "short_name" : "寒河江中部小学校",
+         "sort_name" : "さかえしりつさかえなんふしよう"
       },
       "寒河江市立寒河江小学校" : {
          "location_area" : "寒河江市",
          "owner_type" : "市立",
-         "short_name" : "寒河江小学校"
+         "short_name" : "寒河江小学校",
+         "sort_name" : "さかえしりつさかえしよう"
       },
       "寒河江市立幸生小学校" : {
          "location_area" : "寒河江市",
@@ -256,9 +268,13 @@
          "short_name" : "幸生小学校"
       },
       "寒河江市立柴橋小学校" : {
+         "location" : "山形県寒河江市大字柴橋金谷1923",
          "location_area" : "寒河江市",
+         "location_zipcode" : "991-0063",
          "owner_type" : "市立",
-         "short_name" : "柴橋小学校"
+         "short_name" : "柴橋小学校",
+         "sort_name" : "さかえしりつしははししようかつこう",
+         "url" : "http://academic3.plala.or.jp/sibahasi/"
       },
       "寒河江市立田代小学校" : {
          "location_area" : "寒河江市",
@@ -376,7 +392,8 @@
          "short_name" : "鶴子小学校"
       },
       "山形大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "やまかたたいかくふそくしよう"
       },
       "山形市立みはらしの丘小学校" : {
          "location_area" : "山形市",
@@ -469,9 +486,13 @@
          "short_name" : "楯山小学校"
       },
       "山形市立滝山小学校" : {
+         "location" : "山形県山形市小立四丁目13番86号",
          "location_area" : "山形市",
+         "location_zipcode" : "990-2402",
          "owner_type" : "市立",
-         "short_name" : "滝山小学校"
+         "short_name" : "滝山小学校",
+         "sort_name" : "やまかたしりつたきやましよう",
+         "url" : "http://www.takiyama-e.ymgt.ed.jp/"
       },
       "山形市立第一小学校" : {
          "location_area" : "山形市",
@@ -484,9 +505,13 @@
          "short_name" : "第七小学校"
       },
       "山形市立第三小学校" : {
+         "location" : "山形県山形市宮町五丁目7番58号",
          "location_area" : "山形市",
+         "location_zipcode" : "990-0057",
          "owner_type" : "市立",
-         "short_name" : "第三小学校"
+         "short_name" : "第三小学校",
+         "sort_name" : "やまかたしりつたい3しよう",
+         "url" : "http://www.dai3-e.ymgt.ed.jp/"
       },
       "山形市立第九小学校" : {
          "location_area" : "山形市",
@@ -496,7 +521,8 @@
       "山形市立第二小学校" : {
          "location_area" : "山形市",
          "owner_type" : "市立",
-         "short_name" : "第二小学校"
+         "short_name" : "第二小学校",
+         "sort_name" : "やまかたしりつたい2しよう"
       },
       "山形市立第五小学校" : {
          "location_area" : "山形市",
@@ -541,12 +567,14 @@
       "山形市立西小学校" : {
          "location_area" : "山形市",
          "owner_type" : "市立",
-         "short_name" : "西小学校"
+         "short_name" : "西小学校",
+         "sort_name" : "やまかたしりつにししよう"
       },
       "山形市立西山形小学校" : {
          "location_area" : "山形市",
          "owner_type" : "市立",
-         "short_name" : "西山形小学校"
+         "short_name" : "西山形小学校",
+         "sort_name" : "やまかたしりつにしやまかたしよう"
       },
       "山形市立金井小学校" : {
          "location_area" : "山形市",
@@ -556,7 +584,8 @@
       "山形市立鈴川小学校" : {
          "location_area" : "山形市",
          "owner_type" : "市立",
-         "short_name" : "鈴川小学校"
+         "short_name" : "鈴川小学校",
+         "sort_name" : "やまかたしりつすすかわしよう"
       },
       "山形市立高瀬小学校" : {
          "location_area" : "山形市",
@@ -739,9 +768,13 @@
          "short_name" : "富沢小学校"
       },
       "最上町立月楯小学校" : {
+         "location" : "山形県最上郡最上町月楯145-5",
          "location_area" : "最上郡最上町",
+         "location_zipcode" : "999-6215",
          "owner_type" : "町立",
-         "short_name" : "月楯小学校"
+         "short_name" : "月楯小学校",
+         "sort_name" : "もかみちようりつつきたてしようかつこう",
+         "url" : "http://tkdt43.exblog.jp/"
       },
       "最上町立東法田小学校" : {
          "location_area" : "最上郡最上町",
@@ -766,17 +799,20 @@
       "朝日町立大谷小学校" : {
          "location_area" : "西村山郡朝日町",
          "owner_type" : "町立",
-         "short_name" : "大谷小学校"
+         "short_name" : "大谷小学校",
+         "sort_name" : "あさひちようりつおおや"
       },
       "朝日町立宮宿小学校" : {
          "location_area" : "西村山郡朝日町",
          "owner_type" : "町立",
-         "short_name" : "宮宿小学校"
+         "short_name" : "宮宿小学校",
+         "sort_name" : "あさひちようりつみやしゆく"
       },
       "朝日町立西五百川小学校" : {
          "location_area" : "西村山郡朝日町",
          "owner_type" : "町立",
-         "short_name" : "西五百川小学校"
+         "short_name" : "西五百川小学校",
+         "sort_name" : "あさひちようりつにしいもかわ"
       },
       "村山市立冨本小学校" : {
          "location_area" : "村山市",
@@ -819,6 +855,7 @@
          "short_name" : "西郷小学校"
       },
       "東根市立さくらんぼ小学校" : {
+         "location" : "山形県東根市",
          "location_area" : "東根市",
          "owner_type" : "市立",
          "short_name" : "さくらんぼ小学校"
@@ -851,7 +888,8 @@
       "東根市立神町小学校" : {
          "location_area" : "東根市",
          "owner_type" : "市立",
-         "short_name" : "神町小学校"
+         "short_name" : "神町小学校",
+         "sort_name" : "ひかしねしりつしんまちしよう"
       },
       "東根市立長瀞小学校" : {
          "location_area" : "東根市",

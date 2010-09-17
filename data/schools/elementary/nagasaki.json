@@ -361,7 +361,9 @@
          "short_name" : "加津佐東小学校"
       },
       "南島原市立南有馬小学校" : {
+         "location" : "長崎県南島原市南有馬町乙991",
          "location_area" : "南島原市",
+         "location_zipcode" : "859-2412",
          "owner_type" : "市立",
          "short_name" : "南有馬小学校"
       },
@@ -968,7 +970,8 @@
       "平戸市立田平北小学校" : {
          "location_area" : "平戸市",
          "owner_type" : "市立",
-         "short_name" : "田平北小学校"
+         "short_name" : "田平北小学校",
+         "sort_name" : "ひらとしりつたひらきた"
       },
       "平戸市立田平南小学校" : {
          "location_area" : "平戸市",
@@ -1459,7 +1462,8 @@
          "owner_type" : "私立"
       },
       "長崎大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "なかさきたいかくきよういくかくふふそくしよう"
       },
       "長崎市立三重小学校" : {
          "location_area" : "長崎市",
@@ -1799,7 +1803,8 @@
       "長崎市立高島小学校" : {
          "location_area" : "長崎市",
          "owner_type" : "市立",
-         "short_name" : "高島小学校"
+         "short_name" : "高島小学校",
+         "sort_name" : "なかさきしりつたかしま"
       },
       "長崎市立鳴見台小学校" : {
          "location_area" : "長崎市",
@@ -1812,8 +1817,12 @@
          "short_name" : "黒崎東小学校"
       },
       "長崎精道小学校" : {
+         "location" : "長崎県長崎市三原二丁目23番33号",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8123",
          "owner_type" : "私立",
+         "sort_name" : "なかさきせいとう",
+         "url" : "http://www.nagasaki-seido.ed.jp",
          "wikipedia_name" : "長崎精道小学校・中学校"
       },
       "雲仙市立八斗木小学校" : {

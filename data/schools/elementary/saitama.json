@@ -6,9 +6,14 @@
          "short_name" : "つばさ小学校"
       },
       "さいたま市立七里小学校" : {
+         "location" : "埼玉県さいたま市見沼区大字東宮下312",
          "location_area" : "さいたま市見沼区",
+         "location_wikipedia_latlon" : "|35|55|45|N|139|40|34|E|scale:5000",
+         "location_zipcode" : "337-0012",
          "owner_type" : "市立",
-         "short_name" : "七里小学校"
+         "short_name" : "七里小学校",
+         "sort_name" : "さいたましりつななさとしよう",
+         "url" : "http://nanasato-e.saitama-city.ed.jp/"
       },
       "さいたま市立三室小学校" : {
          "location_area" : "さいたま市緑区",
@@ -88,12 +93,17 @@
       "さいたま市立北浦和小学校" : {
          "location_area" : "さいたま市浦和区",
          "owner_type" : "市立",
-         "short_name" : "北浦和小学校"
+         "short_name" : "北浦和小学校",
+         "sort_name" : "さいたましりつきたうらわしよう"
       },
       "さいたま市立南浦和小学校" : {
+         "location" : "埼玉県さいたま市南区白幡1-1-20",
          "location_area" : "さいたま市南区",
+         "location_zipcode" : "336-0022",
          "owner_type" : "市立",
-         "short_name" : "南浦和小学校"
+         "short_name" : "南浦和小学校",
+         "sort_name" : "さいたましりつみなみうらわしよう",
+         "url" : "http://minamiurawa-e.saitama-city.ed.jp/"
       },
       "さいたま市立原山小学校" : {
          "location_area" : "さいたま市緑区",
@@ -143,7 +153,8 @@
       "さいたま市立大宮別所小学校" : {
          "location_area" : "さいたま市北区",
          "owner_type" : "市立",
-         "short_name" : "大宮別所小学校"
+         "short_name" : "大宮別所小学校",
+         "sort_name" : "さいたましりつおおみやへつしよしよう"
       },
       "さいたま市立大宮北小学校" : {
          "location_area" : "さいたま市大宮区",
@@ -191,9 +202,13 @@
          "short_name" : "大牧小学校"
       },
       "さいたま市立大砂土小学校" : {
+         "location" : "埼玉県さいたま市北区本郷町1番地",
          "location_area" : "さいたま市北区",
+         "location_zipcode" : "331-0802",
          "owner_type" : "市立",
-         "short_name" : "大砂土小学校"
+         "short_name" : "大砂土小学校",
+         "sort_name" : "さいたましりつおおさとしよう",
+         "url" : "http://osato-e.saitama-city.ed.jp/"
       },
       "さいたま市立大砂土東小学校" : {
          "location_area" : "さいたま市見沼区",
@@ -216,9 +231,13 @@
          "short_name" : "大谷場東小学校"
       },
       "さいたま市立大谷小学校" : {
+         "location" : "埼玉県さいたま市見沼区大谷18",
          "location_area" : "さいたま市見沼区",
+         "location_zipcode" : "337-0014",
          "owner_type" : "市立",
-         "short_name" : "大谷小学校"
+         "short_name" : "大谷小学校",
+         "sort_name" : "さいたましりつおおやしよう",
+         "url" : "http://oya-e.saitama-city.ed.jp/"
       },
       "さいたま市立大門小学校" : {
          "location_area" : "さいたま市緑区",
@@ -238,7 +257,8 @@
       "さいたま市立宮原小学校" : {
          "location_area" : "さいたま市北区",
          "owner_type" : "市立",
-         "short_name" : "宮原小学校"
+         "short_name" : "宮原小学校",
+         "sort_name" : "さいたましりつみやはらしよう"
       },
       "さいたま市立尾間木小学校" : {
          "location_area" : "さいたま市緑区",
@@ -268,12 +288,14 @@
       "さいたま市立常盤北小学校" : {
          "location_area" : "さいたま市浦和区",
          "owner_type" : "市立",
-         "short_name" : "常盤北小学校"
+         "short_name" : "常盤北小学校",
+         "sort_name" : "さいたましりつときわきたしよう"
       },
       "さいたま市立常盤小学校" : {
          "location_area" : "さいたま市浦和区",
          "owner_type" : "市立",
-         "short_name" : "常盤小学校"
+         "short_name" : "常盤小学校",
+         "sort_name" : "さいたましりつときわしよう"
       },
       "さいたま市立徳力小学校" : {
          "location_area" : "さいたま市岩槻区",
@@ -308,7 +330,8 @@
       "さいたま市立新開小学校" : {
          "location_area" : "さいたま市桜区",
          "owner_type" : "市立",
-         "short_name" : "新開小学校"
+         "short_name" : "新開小学校",
+         "sort_name" : "さいたましりつしひらきしよう"
       },
       "さいたま市立日進北小学校" : {
          "location_area" : "さいたま市北区",
@@ -378,12 +401,17 @@
       "さいたま市立植水小学校" : {
          "location_area" : "さいたま市西区",
          "owner_type" : "市立",
-         "short_name" : "植水小学校"
+         "short_name" : "植水小学校",
+         "sort_name" : "さいたましりつうえみすしよう"
       },
       "さいたま市立植竹小学校" : {
+         "location" : "埼玉県さいたま市北区植竹町2番1号",
          "location_area" : "さいたま市北区",
+         "location_zipcode" : "331-0813",
          "owner_type" : "市立",
-         "short_name" : "植竹小学校"
+         "short_name" : "植竹小学校",
+         "sort_name" : "さいたましりつうえたけしよう",
+         "url" : "http://uetake-e.saitama-city.ed.jp/"
       },
       "さいたま市立河合小学校" : {
          "location_area" : "さいたま市岩槻区",
@@ -473,7 +501,8 @@
       "さいたま市立辻小学校" : {
          "location_area" : "さいたま市南区",
          "owner_type" : "市立",
-         "short_name" : "辻小学校"
+         "short_name" : "辻小学校",
+         "sort_name" : "さいたましりつつししよう"
       },
       "さいたま市立道祖土小学校" : {
          "location_area" : "さいたま市緑区",
@@ -511,12 +540,20 @@
          "short_name" : "高砂小学校"
       },
       "さとえ学園小学校" : {
-         "owner_type" : "私立"
+         "location" : "さいたま市北区本郷町1813",
+         "location_zipcode" : "331-0802",
+         "owner_type" : "私立",
+         "sort_name" : "さとえかくえん",
+         "url" : "http://www.satoe.ed.jp/"
       },
       "ときがわ町立明覚小学校" : {
+         "location" : "埼玉県比企郡ときがわ町関堀65",
          "location_area" : "比企郡ときがわ町",
+         "location_zipcode" : "355-0356",
          "owner_type" : "町立",
-         "short_name" : "明覚小学校"
+         "short_name" : "明覚小学校",
+         "sort_name" : "ときかわちようりつみようかくしよう",
+         "url" : "http://www.myoukaku-sho.ed.jp/"
       },
       "ときがわ町立玉川小学校" : {
          "location_area" : "比企郡ときがわ町",
@@ -524,9 +561,13 @@
          "short_name" : "玉川小学校"
       },
       "ときがわ町立萩ケ丘小学校" : {
+         "location" : "埼玉県比企郡ときがわ町西平1153",
          "location_area" : "比企郡ときがわ町",
+         "location_zipcode" : "355-0364",
          "owner_type" : "町立",
-         "short_name" : "萩ケ丘小学校"
+         "short_name" : "萩ケ丘小学校",
+         "sort_name" : "ときかわちようりつはきかおかしよう",
+         "url" : "http://www.hagigaoka-sho.ed.jp/"
       },
       "ふじみ野市立さぎの森小学校" : {
          "location_area" : "ふじみ野市",
@@ -769,9 +810,13 @@
          "short_name" : "大谷小学校"
       },
       "上尾市立富士見小学校" : {
+         "location" : "埼玉県上尾市柏座4-3",
          "location_area" : "上尾市",
+         "location_zipcode" : "362-0075",
          "owner_type" : "市立",
-         "short_name" : "富士見小学校"
+         "short_name" : "富士見小学校",
+         "sort_name" : "あけおしりつふしみしよう",
+         "url" : "http://www.city.ageo.lg.jp/kakubukakukaichiran/gakkoukyoiku/fujimisho/index.html"
       },
       "上尾市立尾山台小学校" : {
          "location_area" : "上尾市",
@@ -784,14 +829,22 @@
          "short_name" : "平方北小学校"
       },
       "上尾市立平方小学校" : {
+         "location" : "埼玉県上尾市大字平方1346-1",
          "location_area" : "上尾市",
+         "location_zipcode" : "362-0059",
          "owner_type" : "市立",
-         "short_name" : "平方小学校"
+         "short_name" : "平方小学校",
+         "sort_name" : "あけおしりつひらかたしよう",
+         "url" : "http://www.city.ageo.lg.jp/kakubukakukaichiran/gakkoukyoiku/hirakatasho/index.html"
       },
       "上尾市立平方東小学校" : {
+         "location" : "埼玉県上尾市大字平方4354-2",
          "location_area" : "上尾市",
+         "location_zipcode" : "362-0059",
          "owner_type" : "市立",
-         "short_name" : "平方東小学校"
+         "short_name" : "平方東小学校",
+         "sort_name" : "あけおしりつひらかたひかししよう",
+         "url" : "http://www.city.ageo.lg.jp/kakubukakukaichiran/gakkoukyoiku/hirakatahigashisho/index.html"
       },
       "上尾市立東小学校" : {
          "location_area" : "上尾市",
@@ -814,14 +867,22 @@
          "short_name" : "芝川小学校"
       },
       "上尾市立西小学校" : {
+         "location" : "埼玉県上尾市今泉一丁目7番2号",
          "location_area" : "上尾市",
+         "location_zipcode" : "362-0047",
          "owner_type" : "市立",
-         "short_name" : "西小学校"
+         "short_name" : "西小学校",
+         "sort_name" : "あけおしりつにししよう",
+         "url" : "http://www.city.ageo.lg.jp/kakubukakukaichiran/gakkoukyoiku/nishisho/index.html"
       },
       "上尾市立鴨川小学校" : {
+         "location" : "埼玉県上尾市西宮下4-400",
          "location_area" : "上尾市",
+         "location_zipcode" : "362-0043",
          "owner_type" : "市立",
-         "short_name" : "鴨川小学校"
+         "short_name" : "鴨川小学校",
+         "sort_name" : "あけおしりつかもかわしよう",
+         "url" : "http://www.city.ageo.lg.jp/kakubukakukaichiran/gakkoukyoiku/kamogawasho/"
       },
       "上里町立七本木小学校" : {
          "location_area" : "児玉郡上里町",
@@ -861,22 +922,26 @@
       "久喜市立久喜北小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "久喜北小学校"
+         "short_name" : "久喜北小学校",
+         "sort_name" : "くきしりつくききたしよう"
       },
       "久喜市立久喜小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "久喜小学校"
+         "short_name" : "久喜小学校",
+         "sort_name" : "くきしりつくきしよう"
       },
       "久喜市立久喜東小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "久喜東小学校"
+         "short_name" : "久喜東小学校",
+         "sort_name" : "くきしりつくきひかししよう"
       },
       "久喜市立太田小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "太田小学校"
+         "short_name" : "太田小学校",
+         "sort_name" : "くきしりつおおたしよう"
       },
       "久喜市立小林小学校" : {
          "location_area" : "久喜市",
@@ -886,7 +951,8 @@
       "久喜市立本町小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "本町小学校"
+         "short_name" : "本町小学校",
+         "sort_name" : "くきしりつほんちようしよう"
       },
       "久喜市立東鷲宮小学校" : {
          "location_area" : "久喜市",
@@ -921,12 +987,14 @@
       "久喜市立江面第一小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "江面第一小学校"
+         "short_name" : "江面第一小学校",
+         "sort_name" : "くきしりつえつらたい1しよう"
       },
       "久喜市立江面第二小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "江面第二小学校"
+         "short_name" : "江面第二小学校",
+         "sort_name" : "くきしりつえつらたい2しよう"
       },
       "久喜市立清久小学校" : {
          "location_area" : "久喜市",
@@ -951,12 +1019,14 @@
       "久喜市立青毛小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "青毛小学校"
+         "short_name" : "青毛小学校",
+         "sort_name" : "くきしりつあおけしよう"
       },
       "久喜市立青葉小学校" : {
          "location_area" : "久喜市",
          "owner_type" : "市立",
-         "short_name" : "青葉小学校"
+         "short_name" : "青葉小学校",
+         "sort_name" : "くきしりつあおはしよう"
       },
       "久喜市立鷲宮小学校" : {
          "location_area" : "久喜市",
@@ -1394,9 +1464,13 @@
          "short_name" : "北坂戸小学校"
       },
       "坂戸市立千代田小学校" : {
+         "location" : "埼玉県坂戸市千代田二丁目17番5号",
          "location_area" : "坂戸市",
+         "location_zipcode" : "355-0214",
          "owner_type" : "市立",
-         "short_name" : "千代田小学校"
+         "short_name" : "千代田小学校",
+         "sort_name" : "さかとしりつちよたしよう",
+         "url" : "http://academic2.plala.or.jp/chiyosho/"
       },
       "坂戸市立南小学校" : {
          "location_area" : "坂戸市",
@@ -1434,7 +1508,8 @@
          "short_name" : "片柳小学校"
       },
       "埼玉大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "さいたまたいかくきよういくかくふふそくしよう"
       },
       "宮代町立東小学校" : {
          "location_area" : "南埼玉郡宮代町",
@@ -1447,9 +1522,13 @@
          "short_name" : "百間小学校"
       },
       "宮代町立笠原小学校" : {
+         "location" : "埼玉県南埼玉郡宮代町字百間1105",
          "location_area" : "南埼玉郡宮代町",
+         "location_zipcode" : "345-0801",
          "owner_type" : "町立",
-         "short_name" : "笠原小学校"
+         "short_name" : "笠原小学校",
+         "sort_name" : "みやしろちようりつかさはらしよう",
+         "url" : "http://www.town.miyashiro.saitama.jp/WWW/gakkou.nsf/01KASAHARA?OpenFrameSet"
       },
       "宮代町立須賀小学校" : {
          "location_area" : "南埼玉郡宮代町",
@@ -1652,14 +1731,19 @@
          "short_name" : "前川東小学校"
       },
       "川口市立十二月田小学校" : {
+         "location" : "埼玉県川口市朝日一丁目11番1号",
          "location_area" : "川口市",
+         "location_zipcode" : "332-0001",
          "owner_type" : "市立",
-         "short_name" : "十二月田小学校"
+         "short_name" : "十二月田小学校",
+         "sort_name" : "かわくちしりつしわすたしよう",
+         "url" : "http://www.sch.kawaguchi.saitama.jp/shiwasuda-e/"
       },
       "川口市立原町小学校" : {
          "location_area" : "川口市",
          "owner_type" : "市立",
-         "short_name" : "原町小学校"
+         "short_name" : "原町小学校",
+         "sort_name" : "かわくちしりつはらまちしよう"
       },
       "川口市立在家小学校" : {
          "location_area" : "川口市",
@@ -1697,9 +1781,13 @@
          "short_name" : "戸塚北小学校"
       },
       "川口市立戸塚南小学校" : {
+         "location" : "埼玉県川口市大字戸塚4563-1",
          "location_area" : "川口市",
+         "location_zipcode" : "333-0811",
          "owner_type" : "市立",
-         "short_name" : "戸塚南小学校"
+         "short_name" : "戸塚南小学校",
+         "sort_name" : "かわくちしりつとつかみなみしよう",
+         "url" : "http://www.sch.kawaguchi.saitama.jp/tozukaminami-e/index.html"
       },
       "川口市立戸塚小学校" : {
          "location_area" : "川口市",
@@ -1854,7 +1942,8 @@
       "川島町立中山小学校" : {
          "location_area" : "比企郡川島町",
          "owner_type" : "町立",
-         "short_name" : "中山小学校"
+         "short_name" : "中山小学校",
+         "sort_name" : "かわしまちようりつなかやましよう"
       },
       "川島町立伊草小学校" : {
          "location_area" : "比企郡川島町",
@@ -1934,12 +2023,14 @@
       "川越市立山田小学校" : {
          "location_area" : "川越市",
          "owner_type" : "市立",
-         "short_name" : "山田小学校"
+         "short_name" : "山田小学校",
+         "sort_name" : "かわこえしりつやまたしよう"
       },
       "川越市立川越小学校" : {
          "location_area" : "川越市",
          "owner_type" : "市立",
-         "short_name" : "川越小学校"
+         "short_name" : "川越小学校",
+         "sort_name" : "かわこえしりつかわこえしよう"
       },
       "川越市立川越第一小学校" : {
          "location_area" : "川越市",
@@ -1984,7 +2075,8 @@
       "川越市立福原小学校" : {
          "location_area" : "川越市",
          "owner_type" : "市立",
-         "short_name" : "福原小学校"
+         "short_name" : "福原小学校",
+         "sort_name" : "かわこえしりつふくはらしよう"
       },
       "川越市立芳野小学校" : {
          "location_area" : "川越市",
@@ -1994,7 +2086,8 @@
       "川越市立霞ヶ関北小学校" : {
          "location_area" : "川越市",
          "owner_type" : "市立",
-         "short_name" : "霞ヶ関北小学校"
+         "short_name" : "霞ヶ関北小学校",
+         "sort_name" : "かわこえしりつかすみかせききたしよう"
       },
       "川越市立霞ヶ関南小学校" : {
          "location_area" : "川越市",
@@ -2144,12 +2237,14 @@
       "戸田市立戸田第一小学校" : {
          "location_area" : "戸田市",
          "owner_type" : "市立",
-         "short_name" : "戸田第一小学校"
+         "short_name" : "戸田第一小学校",
+         "sort_name" : "とたしりつとたたい1しよう"
       },
       "戸田市立戸田第二小学校" : {
          "location_area" : "戸田市",
          "owner_type" : "市立",
-         "short_name" : "戸田第二小学校"
+         "short_name" : "戸田第二小学校",
+         "sort_name" : "とたしりつとたたい2しよう"
       },
       "戸田市立新曽北小学校" : {
          "location_area" : "戸田市",
@@ -2159,7 +2254,8 @@
       "戸田市立新曽小学校" : {
          "location_area" : "戸田市",
          "owner_type" : "市立",
-         "short_name" : "新曽小学校"
+         "short_name" : "新曽小学校",
+         "sort_name" : "とたしりつにいそしよう"
       },
       "戸田市立笹目小学校" : {
          "location_area" : "戸田市",
@@ -2199,7 +2295,8 @@
       "所沢市立並木小学校" : {
          "location_area" : "所沢市",
          "owner_type" : "市立",
-         "short_name" : "並木小学校"
+         "short_name" : "並木小学校",
+         "sort_name" : "ところさわしりつなみきしよう"
       },
       "所沢市立中央小学校" : {
          "location_area" : "所沢市",
@@ -2207,9 +2304,13 @@
          "short_name" : "中央小学校"
       },
       "所沢市立中富小学校" : {
+         "location" : "埼玉県所沢市中富1004-1",
          "location_area" : "所沢市",
+         "location_zipcode" : "359-0002",
          "owner_type" : "市立",
-         "short_name" : "中富小学校"
+         "short_name" : "中富小学校",
+         "sort_name" : "ところさわしりつなかとみしよう",
+         "url" : "http://www.tokorozawa-stm.ed.jp/nakatomi-eh/"
       },
       "所沢市立伸栄小学校" : {
          "location_area" : "所沢市",
@@ -2329,7 +2430,8 @@
       "所沢市立若松小学校" : {
          "location_area" : "所沢市",
          "owner_type" : "市立",
-         "short_name" : "若松小学校"
+         "short_name" : "若松小学校",
+         "sort_name" : "ところさわしりつわかまつしよう"
       },
       "所沢市立若狭小学校" : {
          "location_area" : "所沢市",
@@ -2354,7 +2456,8 @@
       "新座市立大和田小学校" : {
          "location_area" : "新座市",
          "owner_type" : "市立",
-         "short_name" : "大和田小学校"
+         "short_name" : "大和田小学校",
+         "sort_name" : "にいさしりつおおわたしよう"
       },
       "新座市立新堀小学校" : {
          "location_area" : "新座市",
@@ -2392,14 +2495,18 @@
          "short_name" : "栗原小学校"
       },
       "新座市立池田小学校" : {
+         "location" : "埼玉県新座市池田四丁目8番49号",
          "location_area" : "新座市",
+         "location_zipcode" : "354-0085",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "url" : "http://www.c-niiza.ed.jp/e-ikeda/index.htm"
       },
       "新座市立片山小学校" : {
          "location_area" : "新座市",
          "owner_type" : "市立",
-         "short_name" : "片山小学校"
+         "short_name" : "片山小学校",
+         "sort_name" : "にいさしりつかたやましよう"
       },
       "新座市立石神小学校" : {
          "location_area" : "新座市",
@@ -2462,7 +2569,8 @@
          "short_name" : "高麗川小学校"
       },
       "星野学園小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ほしのかくえんしよう"
       },
       "春日部市立上沖小学校" : {
          "location_area" : "春日部市",
@@ -2585,9 +2693,12 @@
          "short_name" : "豊野小学校"
       },
       "朝霞市立朝霞第一小学校" : {
+         "location" : "埼玉県朝霞市膝折町四丁目11番7号",
          "location_area" : "朝霞市",
+         "location_zipcode" : "354-0014",
          "owner_type" : "市立",
-         "short_name" : "朝霞第一小学校"
+         "short_name" : "朝霞第一小学校",
+         "url" : "http://ed.city.asaka.saitama.jp/1shou/index.html"
       },
       "朝霞市立朝霞第七小学校" : {
          "location_area" : "朝霞市",
@@ -2815,9 +2926,13 @@
          "short_name" : "金杉小学校"
       },
       "桶川市立加納小学校" : {
+         "location" : "埼玉県桶川市坂田883",
          "location_area" : "桶川市",
+         "location_zipcode" : "363-0008",
          "owner_type" : "市立",
-         "short_name" : "加納小学校"
+         "short_name" : "加納小学校",
+         "sort_name" : "おけかわしりつかのうしよう",
+         "url" : "http://www.okegawakanou-es.ed.jp/"
       },
       "桶川市立川田谷小学校" : {
          "location_area" : "桶川市",
@@ -2835,9 +2950,13 @@
          "short_name" : "朝日小学校"
       },
       "桶川市立桶川小学校" : {
+         "location" : "埼玉県桶川市西一丁目4番27号",
          "location_area" : "桶川市",
+         "location_zipcode" : "363-0017",
          "owner_type" : "市立",
-         "short_name" : "桶川小学校"
+         "short_name" : "桶川小学校",
+         "sort_name" : "おけかわしりつおけかわしよう",
+         "url" : "http://www.okegawa-es.ed.jp/"
       },
       "桶川市立桶川東小学校" : {
          "location_area" : "桶川市",
@@ -2845,9 +2964,13 @@
          "short_name" : "桶川東小学校"
       },
       "桶川市立桶川西小学校" : {
+         "location" : "埼玉県桶川市下日出谷836-1",
          "location_area" : "桶川市",
+         "location_zipcode" : "363-0025",
          "owner_type" : "市立",
-         "short_name" : "桶川西小学校"
+         "short_name" : "桶川西小学校",
+         "sort_name" : "おけかわしりつおけかわにししよう",
+         "url" : "http://www.okegawanishi-es.ed.jp/"
       },
       "横瀬町立横瀬小学校" : {
          "location_area" : "秩父郡横瀬町",
@@ -3123,9 +3246,13 @@
          "short_name" : "秦小学校"
       },
       "熊谷市立籠原小学校" : {
+         "location" : "埼玉県熊谷市新堀1143",
          "location_area" : "熊谷市",
+         "location_zipcode" : "360-0841",
          "owner_type" : "市立",
-         "short_name" : "籠原小学校"
+         "short_name" : "籠原小学校",
+         "sort_name" : "くまかやしりつかこはらしよう",
+         "url" : "http://www.kagohara-e.ed.jp/"
       },
       "熊谷市立長井小学校" : {
          "location_area" : "熊谷市",
@@ -3175,7 +3302,8 @@
       "狭山市立山王小学校" : {
          "location_area" : "狭山市",
          "owner_type" : "市立",
-         "short_name" : "山王小学校"
+         "short_name" : "山王小学校",
+         "sort_name" : "さやましりつさんのうしよう"
       },
       "狭山市立広瀬小学校" : {
          "location_area" : "狭山市",
@@ -3288,9 +3416,13 @@
          "short_name" : "青柳小学校"
       },
       "秩父市立久那小学校" : {
+         "location" : "埼玉県秩父市久那2183番地1",
          "location_area" : "秩父市",
+         "location_zipcode" : "368-0053",
          "owner_type" : "市立",
-         "short_name" : "久那小学校"
+         "short_name" : "久那小学校",
+         "sort_name" : "ちちふしりつくなしよう",
+         "url" : "http://www.chichibu-stm.ed.jp/~kunasho/"
       },
       "秩父市立南小学校" : {
          "location_area" : "秩父市",
@@ -3393,9 +3525,12 @@
          "short_name" : "川俣小学校"
       },
       "羽生市立手子林小学校" : {
+         "location" : "埼玉県羽生市大字下手子林555番",
          "location_area" : "羽生市",
+         "location_zipcode" : "348-0022",
          "owner_type" : "市立",
-         "short_name" : "手子林小学校"
+         "short_name" : "手子林小学校",
+         "sort_name" : "はにゆうしりつてこはやししよう"
       },
       "羽生市立新郷第一小学校" : {
          "location_area" : "羽生市",
@@ -3578,9 +3713,13 @@
          "short_name" : "黒浜西小学校"
       },
       "蕨市立中央小学校" : {
+         "location" : "埼玉県蕨市中央六丁目8番25号",
          "location_area" : "蕨市",
+         "location_zipcode" : "335-0004",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "わらひしりつちゆうおうしよう",
+         "url" : "http://www.warabi.ne.jp/~chuosho/"
       },
       "蕨市立中央東小学校" : {
          "location_area" : "蕨市",
@@ -3866,7 +4005,12 @@
          "short_name" : "長瀞第二小学校"
       },
       "開智小学校" : {
+         "location" : "埼玉県さいたま市岩槻区大字徳力字西186",
+         "location_wikipedia_latlon" : "|35|58|19.3|N|139|42|46|E|",
+         "location_zipcode" : "339-0004",
          "owner_type" : "私立",
+         "sort_name" : "かいち",
+         "url" : "http://www.kaichigakuen.ed.jp/",
          "wikipedia_name" : "開智小学校・中学校・高等学校"
       },
       "飯能市立加治小学校" : {
@@ -4030,9 +4174,13 @@
          "short_name" : "広田小学校"
       },
       "鴻巣市立松原小学校" : {
+         "location" : "埼玉県鴻巣市原馬室2425",
          "location_area" : "鴻巣市",
+         "location_zipcode" : "365-0043",
          "owner_type" : "市立",
-         "short_name" : "松原小学校"
+         "short_name" : "松原小学校",
+         "sort_name" : "こうのすしりつまつはらしよう",
+         "url" : "http://www8.ocn.ne.jp/~matusyou/index.htm/"
       },
       "鴻巣市立田間宮小学校" : {
          "location_area" : "鴻巣市",
@@ -4070,9 +4218,13 @@
          "short_name" : "鴻巣中央小学校"
       },
       "鴻巣市立鴻巣北小学校" : {
+         "location" : "埼玉県鴻巣市神明三丁目18番10号",
          "location_area" : "鴻巣市",
+         "location_zipcode" : "365-0074",
          "owner_type" : "市立",
-         "short_name" : "鴻巣北小学校"
+         "short_name" : "鴻巣北小学校",
+         "sort_name" : "こうのすしりつこうのすきたしよう",
+         "url" : "http://www8.ocn.ne.jp/~kokita/m.htm"
       },
       "鴻巣市立鴻巣南小学校" : {
          "location_area" : "鴻巣市",
@@ -4105,9 +4257,13 @@
          "short_name" : "栄小学校"
       },
       "鶴ヶ島市立藤小学校" : {
+         "location" : "埼玉県鶴ヶ島市大字藤金330",
          "location_area" : "鶴ヶ島市",
+         "location_zipcode" : "350-2206",
          "owner_type" : "市立",
-         "short_name" : "藤小学校"
+         "short_name" : "藤小学校",
+         "sort_name" : "つるかしましりつふししよう",
+         "url" : "http://academic4.plala.or.jp/fuji-s/"
       },
       "鶴ヶ島市立長久保小学校" : {
          "location_area" : "鶴ヶ島市",
@@ -4115,9 +4271,13 @@
          "short_name" : "長久保小学校"
       },
       "鶴ヶ島市立鶴ヶ島第一小学校" : {
+         "location" : "埼玉県鶴ヶ島市大字脚折1855",
          "location_area" : "鶴ヶ島市",
+         "location_zipcode" : "350-2213",
          "owner_type" : "市立",
-         "short_name" : "鶴ヶ島第一小学校"
+         "short_name" : "鶴ヶ島第一小学校",
+         "sort_name" : "つるかしましりつつるかしまたい1しよう",
+         "url" : "http://academic4.plala.or.jp/turu1-s/"
       },
       "鶴ヶ島市立鶴ヶ島第二小学校" : {
          "location_area" : "鶴ヶ島市",

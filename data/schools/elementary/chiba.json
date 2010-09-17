@@ -88,7 +88,8 @@
       "佐倉市立下志津小学校" : {
          "location_area" : "佐倉市",
          "owner_type" : "市立",
-         "short_name" : "下志津小学校"
+         "short_name" : "下志津小学校",
+         "sort_name" : "さくらしりつしもしつしよう"
       },
       "佐倉市立井野小学校" : {
          "location_area" : "佐倉市",
@@ -143,12 +144,17 @@
       "佐倉市立山王小学校" : {
          "location_area" : "佐倉市",
          "owner_type" : "市立",
-         "short_name" : "山王小学校"
+         "short_name" : "山王小学校",
+         "sort_name" : "さくらしりつさんのうしよう"
       },
       "佐倉市立弥富小学校" : {
+         "location" : "千葉県佐倉市岩富町145番地",
          "location_area" : "佐倉市",
+         "location_zipcode" : "285-0072",
          "owner_type" : "市立",
-         "short_name" : "弥富小学校"
+         "short_name" : "弥富小学校",
+         "sort_name" : "さくらしりつやとみしよう",
+         "url" : "http://www.catv296.ne.jp/~yatomi-sho/"
       },
       "佐倉市立志津小学校" : {
          "location_area" : "佐倉市",
@@ -244,14 +250,22 @@
          "short_name" : "大和田南小学校"
       },
       "八千代市立大和田小学校" : {
+         "location" : "千葉県八千代市萱田町628",
          "location_area" : "八千代市",
+         "location_zipcode" : "276-0044",
          "owner_type" : "市立",
-         "short_name" : "大和田小学校"
+         "short_name" : "大和田小学校",
+         "sort_name" : "やちよしりつおおわたしよう",
+         "url" : "http://www.yachiyo.ed.jp/eowada/00home/index.html/"
       },
       "八千代市立大和田西小学校" : {
+         "location" : "千葉県八千代市大和田新田409-3",
          "location_area" : "八千代市",
+         "location_zipcode" : "276-0046",
          "owner_type" : "市立",
-         "short_name" : "大和田西小学校"
+         "short_name" : "大和田西小学校",
+         "sort_name" : "やちよしりつおおわたにししよう",
+         "url" : "http://www.yachiyo.ed.jp/eonisi/"
       },
       "八千代市立新木戸小学校" : {
          "location_area" : "八千代市",
@@ -259,9 +273,12 @@
          "short_name" : "新木戸小学校"
       },
       "八千代市立村上北小学校" : {
+         "location" : "千葉県八千代市村上1113-1",
          "location_area" : "八千代市",
+         "location_zipcode" : "276-0028",
          "owner_type" : "市立",
-         "short_name" : "村上北小学校"
+         "short_name" : "村上北小学校",
+         "url" : "http://www.yachiyo.ed.jp/emurakita/"
       },
       "八千代市立村上小学校" : {
          "location_area" : "八千代市",
@@ -294,9 +311,13 @@
          "short_name" : "萱田南小学校"
       },
       "八千代市立萱田小学校" : {
+         "location" : "千葉県八千代市ゆりのき台六丁目20番地",
          "location_area" : "八千代市",
+         "location_zipcode" : "276-0043",
          "owner_type" : "市立",
-         "short_name" : "萱田小学校"
+         "short_name" : "萱田小学校",
+         "sort_name" : "やちよしりつかやたしよう",
+         "url" : "http://www.yachiyo.ed.jp/ekayada/"
       },
       "八千代市立西高津小学校" : {
          "location_area" : "八千代市",
@@ -459,7 +480,11 @@
          "short_name" : "飯高小学校"
       },
       "千葉大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "千葉県千葉市稲毛区弥生町1-33",
+         "location_zipcode" : "263-8522",
+         "owner_type" : "国立",
+         "sort_name" : "ちはたいかくきよういくかくふふそくしよう",
+         "url" : "http://www.el.chiba-u.jp/"
       },
       "千葉市立あすみが丘小学校" : {
          "location_area" : "千葉市緑区",
@@ -484,12 +509,14 @@
       "千葉市立さつきが丘東小学校" : {
          "location_area" : "千葉市花見川区",
          "owner_type" : "市立",
-         "short_name" : "さつきが丘東小学校"
+         "short_name" : "さつきが丘東小学校",
+         "sort_name" : "ちはしりつさつきかおかひかししよう"
       },
       "千葉市立さつきが丘西小学校" : {
          "location_area" : "千葉市花見川区",
          "owner_type" : "市立",
-         "short_name" : "さつきが丘西小学校"
+         "short_name" : "さつきが丘西小学校",
+         "sort_name" : "ちはしりつさつきかおかにししよう"
       },
       "千葉市立みつわ台北小学校" : {
          "location_area" : "千葉市若葉区",
@@ -502,9 +529,13 @@
          "short_name" : "みつわ台南小学校"
       },
       "千葉市立上の台小学校" : {
+         "location" : "千葉県千葉市花見川区幕張本郷四丁目8番1号",
          "location_area" : "千葉市花見川区",
+         "location_zipcode" : "262-0033",
          "owner_type" : "市立",
-         "short_name" : "上の台小学校"
+         "short_name" : "上の台小学校",
+         "sort_name" : "ちはしりつうえのたいしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/100/"
       },
       "千葉市立仁戸名小学校" : {
          "location_area" : "千葉市中央区",
@@ -514,7 +545,8 @@
       "千葉市立作新小学校" : {
          "location_area" : "千葉市花見川区",
          "owner_type" : "市立",
-         "short_name" : "作新小学校"
+         "short_name" : "作新小学校",
+         "sort_name" : "ちはしりつさくしんしよう"
       },
       "千葉市立北貝塚小学校" : {
          "location_area" : "千葉市若葉区",
@@ -547,9 +579,13 @@
          "short_name" : "千城台西小学校"
       },
       "千葉市立千城小学校" : {
+         "location" : "千葉市若葉区大宮町2655番地",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "264-0016",
          "owner_type" : "市立",
-         "short_name" : "千城小学校"
+         "short_name" : "千城小学校",
+         "sort_name" : "ちはしりつちしろしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/013/index.html"
       },
       "千葉市立千草台小学校" : {
          "location_area" : "千葉市稲毛区",
@@ -562,9 +598,13 @@
          "short_name" : "千草台東小学校"
       },
       "千葉市立園生小学校" : {
+         "location" : "千葉県千葉市稲毛区小仲台9-30-1",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0043",
          "owner_type" : "市立",
-         "short_name" : "園生小学校"
+         "short_name" : "園生小学校",
+         "sort_name" : "ちはしりつそんのうしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/012/index.html"
       },
       "千葉市立土気南小学校" : {
          "location_area" : "千葉市緑区",
@@ -632,9 +672,13 @@
          "short_name" : "小中台南小学校"
       },
       "千葉市立小中台小学校" : {
+         "location" : "千葉県千葉市稲毛区小仲台六丁目34番1号",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0043",
          "owner_type" : "市立",
-         "short_name" : "小中台小学校"
+         "short_name" : "小中台小学校",
+         "sort_name" : "ちはしりつこなかたいしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/037/index.html"
       },
       "千葉市立小倉小学校" : {
          "location_area" : "千葉市若葉区",
@@ -709,7 +753,8 @@
       "千葉市立弥生小学校" : {
          "location_area" : "千葉市稲毛区",
          "owner_type" : "市立",
-         "short_name" : "弥生小学校"
+         "short_name" : "弥生小学校",
+         "sort_name" : "ちはしりつやよいしよう"
       },
       "千葉市立扇田小学校" : {
          "location_area" : "千葉市緑区",
@@ -717,9 +762,13 @@
          "short_name" : "扇田小学校"
       },
       "千葉市立打瀬小学校" : {
+         "location" : "千葉県千葉市美浜区打瀬一丁目3番1号",
          "location_area" : "千葉市美浜区",
+         "location_zipcode" : "261-0013",
          "owner_type" : "市立",
-         "short_name" : "打瀬小学校"
+         "short_name" : "打瀬小学校",
+         "sort_name" : "ちはしりつうたせしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/114/index.html"
       },
       "千葉市立新宿小学校" : {
          "location_area" : "千葉市中央区",
@@ -812,9 +861,13 @@
          "short_name" : "犢橋小学校"
       },
       "千葉市立瑞穂小学校" : {
+         "location" : "千葉県千葉市花見川区瑞穂一丁目2番地",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "262-0025",
          "owner_type" : "市立",
-         "short_name" : "瑞穂小学校"
+         "short_name" : "瑞穂小学校",
+         "sort_name" : "ちはしりつみすほしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/118/index.html"
       },
       "千葉市立生浜小学校" : {
          "location_area" : "千葉市中央区",
@@ -822,9 +875,13 @@
          "short_name" : "生浜小学校"
       },
       "千葉市立生浜東小学校" : {
+         "location" : "千葉県千葉市中央区生実町1928",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0853",
          "owner_type" : "市立",
-         "short_name" : "生浜東小学校"
+         "short_name" : "生浜東小学校",
+         "sort_name" : "ちはしりつおいはまひかししよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/107/index.html"
       },
       "千葉市立生浜西小学校" : {
          "location_area" : "千葉市中央区",
@@ -832,9 +889,13 @@
          "short_name" : "生浜西小学校"
       },
       "千葉市立畑小学校" : {
+         "location" : "千葉県千葉市花見川区畑町1385-1",
          "location_area" : "千葉市花見川区",
+         "location_zipcode" : "262-0018",
          "owner_type" : "市立",
-         "short_name" : "畑小学校"
+         "short_name" : "畑小学校",
+         "sort_name" : "ちはしりつはたしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/011/"
       },
       "千葉市立登戸小学校" : {
          "location_area" : "千葉市中央区",
@@ -922,9 +983,13 @@
          "short_name" : "美浜打瀬小学校"
       },
       "千葉市立花園小学校" : {
+         "location" : "千葉県千葉市花見川区花園四丁目1番2号",
          "location_area" : "千葉市花見川区",
+         "location_zipcode" : "262-0025",
          "owner_type" : "市立",
-         "short_name" : "花園小学校"
+         "short_name" : "花園小学校",
+         "sort_name" : "ちはしりつはなそのしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/019/index.html"
       },
       "千葉市立花見川第一小学校" : {
          "location_area" : "千葉市花見川区",
@@ -982,9 +1047,13 @@
          "short_name" : "西小中台小学校"
       },
       "千葉市立誉田小学校" : {
+         "location" : "千葉県千葉市緑区誉田町1-27",
          "location_area" : "千葉市緑区",
+         "location_zipcode" : "266-0005",
          "owner_type" : "市立",
-         "short_name" : "誉田小学校"
+         "short_name" : "誉田小学校",
+         "sort_name" : "ちはしりつほんたしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/026/"
       },
       "千葉市立誉田東小学校" : {
          "location_area" : "千葉市緑区",
@@ -997,9 +1066,13 @@
          "short_name" : "越智小学校"
       },
       "千葉市立轟町小学校" : {
+         "location" : "千葉県千葉市稲毛区轟町三丁目4番30号",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0021",
          "owner_type" : "市立",
-         "short_name" : "轟町小学校"
+         "short_name" : "轟町小学校",
+         "sort_name" : "ちはしりつととろきちようしよう",
+         "url" : "http://www.cabinet-cbc.ed.jp/school/es/027/index.html"
       },
       "千葉市立都小学校" : {
          "location_area" : "千葉市中央区",
@@ -1054,12 +1127,14 @@
       "千葉市立高浜第一小学校" : {
          "location_area" : "千葉市美浜区",
          "owner_type" : "市立",
-         "short_name" : "高浜第一小学校"
+         "short_name" : "高浜第一小学校",
+         "sort_name" : "ちはしりつたかはまたい1しよう"
       },
       "千葉市立高浜第三小学校" : {
          "location_area" : "千葉市美浜区",
          "owner_type" : "市立",
-         "short_name" : "高浜第三小学校"
+         "short_name" : "高浜第三小学校",
+         "sort_name" : "ちはしりつたかはまたい3しよう"
       },
       "千葉市立高浜第二小学校" : {
          "location_area" : "千葉市美浜区",
@@ -1072,7 +1147,8 @@
          "short_name" : "鶴沢小学校"
       },
       "千葉日本大学第一小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ちはにほんたいかくたいいち"
       },
       "南房総市立七浦小学校" : {
          "location_area" : "南房総市",
@@ -1105,9 +1181,13 @@
          "short_name" : "南三原小学校"
       },
       "南房総市立南小学校" : {
+         "location" : "千葉県南房総市沓見98",
          "location_area" : "南房総市",
+         "location_zipcode" : "299-2526",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "みなみほうそうしりつみなみしよう",
+         "url" : "http://edu.city.minamiboso.chiba.jp/mnm_syo/"
       },
       "南房総市立和田小学校" : {
          "location_area" : "南房総市",
@@ -1175,9 +1255,13 @@
          "short_name" : "原山小学校"
       },
       "印西市立大森小学校" : {
+         "location" : "千葉県印西市大森3350番地",
          "location_area" : "印西市",
+         "location_zipcode" : "270-1327",
          "owner_type" : "市立",
-         "short_name" : "大森小学校"
+         "short_name" : "大森小学校",
+         "sort_name" : "いんさいしりつおおもりしよう",
+         "url" : "http://inzai.ed.jp/omori-es/"
       },
       "印西市立宗像小学校" : {
          "location_area" : "印西市",
@@ -1345,9 +1429,13 @@
          "short_name" : "みそら小学校"
       },
       "四街道市立中央小学校" : {
+         "location" : "千葉県四街道市鹿渡917",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0003",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "よつかいとうしりつちゆうおうしよう",
+         "url" : "http://www.yotsukaido.ed.jp/gakko/home/04chuo/top.html"
       },
       "四街道市立八木原小学校" : {
          "location_area" : "四街道市",
@@ -1375,9 +1463,13 @@
          "short_name" : "四和小学校"
       },
       "四街道市立四街道小学校" : {
+         "location" : "千葉県四街道市四街道1557",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0005",
          "owner_type" : "市立",
-         "short_name" : "四街道小学校"
+         "short_name" : "四街道小学校",
+         "sort_name" : "よつかいとうしりつよつかいとうしよう",
+         "url" : "http://www.yotsukaido.ed.jp/gakko/home/01yotsusho/top.html"
       },
       "四街道市立大日小学校" : {
          "location_area" : "四街道市",
@@ -1395,9 +1487,13 @@
          "short_name" : "旭小学校"
       },
       "四街道市立栗山小学校" : {
+         "location" : "千葉県四街道市つくし座3-1-8",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0026",
          "owner_type" : "市立",
-         "short_name" : "栗山小学校"
+         "short_name" : "栗山小学校",
+         "sort_name" : "よつかいとうしりつくりやましよう",
+         "url" : "http://www.yotsukaido.ed.jp/gakko/home/10kuriyama/top.htm"
       },
       "国府台女子学院小学部" : {
          "owner_type" : "私立",
@@ -1461,7 +1557,8 @@
       "大網白里町立増穂小学校" : {
          "location_area" : "山武郡大網白里町",
          "owner_type" : "町立",
-         "short_name" : "増穂小学校"
+         "short_name" : "増穂小学校",
+         "sort_name" : "おおあみしらさとちようりつますほしよう"
       },
       "大網白里町立大網小学校" : {
          "location_area" : "山武郡大網白里町",
@@ -1891,7 +1988,8 @@
       "市川市立信篤小学校" : {
          "location_area" : "市川市",
          "owner_type" : "市立",
-         "short_name" : "信篤小学校"
+         "short_name" : "信篤小学校",
+         "sort_name" : "いちかわしりつしんとく"
       },
       "市川市立八幡小学校" : {
          "location_area" : "市川市",
@@ -1954,9 +2052,13 @@
          "short_name" : "大洲小学校"
       },
       "市川市立大町小学校" : {
+         "location" : "千葉県市川市大町84-10",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0801",
          "owner_type" : "市立",
-         "short_name" : "大町小学校"
+         "short_name" : "大町小学校",
+         "sort_name" : "いちかわしりつおおまちしようかつこう",
+         "url" : "http://www.ohmachi-syo.ichikawa-school.ed.jp/"
       },
       "市川市立大野小学校" : {
          "location_area" : "市川市",
@@ -2004,9 +2106,13 @@
          "short_name" : "新井小学校"
       },
       "市川市立新浜小学校" : {
+         "location" : "千葉県市川市行徳駅前四丁目5番1号",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0133",
          "owner_type" : "市立",
-         "short_name" : "新浜小学校"
+         "short_name" : "新浜小学校",
+         "sort_name" : "いちかわしりつにいはましよう",
+         "url" : "http://www.niihama-syo.ichikawa-school.ed.jp/"
       },
       "市川市立曽谷小学校" : {
          "location_area" : "市川市",
@@ -2039,9 +2145,13 @@
          "short_name" : "稲荷木小学校"
       },
       "市川市立稲越小学校" : {
+         "location" : "千葉県市川市稲越町518番地2",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0831",
          "owner_type" : "市立",
-         "short_name" : "稲越小学校"
+         "short_name" : "稲越小学校",
+         "sort_name" : "いちかわしりついなこししよう",
+         "url" : "http://www.inagoshi-syo.ichikawa-school.ed.jp/"
       },
       "市川市立若宮小学校" : {
          "location_area" : "市川市",
@@ -2113,9 +2223,12 @@
          "short_name" : "八生小学校"
       },
       "成田市立公津の杜小学校" : {
+         "location" : "千葉県成田市公津の杜3-2",
          "location_area" : "成田市",
+         "location_zipcode" : "286-0048",
          "owner_type" : "市立",
-         "short_name" : "公津の杜小学校"
+         "short_name" : "公津の杜小学校",
+         "sort_name" : "なりたしりつこうつのもりしよう"
       },
       "成田市立公津小学校" : {
          "location_area" : "成田市",
@@ -2128,9 +2241,13 @@
          "short_name" : "前林小学校"
       },
       "成田市立加良部小学校" : {
+         "location" : "千葉県成田市加良部6-8",
          "location_area" : "成田市",
+         "location_zipcode" : "286-0036",
          "owner_type" : "市立",
-         "short_name" : "加良部小学校"
+         "short_name" : "加良部小学校",
+         "sort_name" : "なりたしりつからへしよう",
+         "url" : "http://www.city.narita.chiba.jp/edu/es-karabe/index0000.html"
       },
       "成田市立名木小学校" : {
          "location_area" : "成田市",
@@ -2233,43 +2350,71 @@
          "short_name" : "高岡小学校"
       },
       "成田高等学校付属小学校" : {
+         "location" : "千葉県成田市田町10",
+         "location_zipcode" : "286-0023",
          "owner_type" : "私立",
-         "short_name" : "成田高校付属小学校"
+         "short_name" : "成田高校付属小学校",
+         "sort_name" : "なりたこうとうかつこうふそくしようかつこう",
+         "url" : "http://www.narita.ac.jp/el/"
       },
       "我孫子市立並木小学校" : {
+         "location" : "千葉県我孫子市つくし野七丁目30番1号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1164",
          "owner_type" : "市立",
-         "short_name" : "並木小学校"
+         "short_name" : "並木小学校",
+         "url" : "http://www.school-abiko.jp/~namiki-es/"
       },
       "我孫子市立布佐南小学校" : {
+         "location" : "千葉県我孫子市布佐平和台五丁目1番1号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1108",
          "owner_type" : "市立",
-         "short_name" : "布佐南小学校"
+         "short_name" : "布佐南小学校",
+         "url" : "http://www.school-abiko.jp/~fusaminami-es/hp/"
       },
       "我孫子市立布佐小学校" : {
+         "location" : "千葉県我孫子市布佐1217",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1101",
          "owner_type" : "市立",
-         "short_name" : "布佐小学校"
+         "short_name" : "布佐小学校",
+         "url" : "http://www.school-abiko.jp/~fusa-es/"
       },
       "我孫子市立我孫子第一小学校" : {
+         "location" : "千葉県我孫子市寿一丁目22番10号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1152",
          "owner_type" : "市立",
-         "short_name" : "我孫子第一小学校"
+         "short_name" : "我孫子第一小学校",
+         "url" : "http://ncsv.school-abiko.jp/nc6/htdocs/"
       },
       "我孫子市立我孫子第三小学校" : {
+         "location" : "千葉県我孫子市柴崎台三丁目3番1号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1176",
          "owner_type" : "市立",
-         "short_name" : "我孫子第三小学校"
+         "short_name" : "我孫子第三小学校",
+         "sort_name" : "あひこしりつあひこたい3しよう",
+         "url" : "http://www.school-abiko.jp/~abiko3-es/"
       },
       "我孫子市立我孫子第二小学校" : {
+         "location" : "千葉県我孫子市下ヶ戸610番地",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1138",
          "owner_type" : "市立",
-         "short_name" : "我孫子第二小学校"
+         "short_name" : "我孫子第二小学校",
+         "sort_name" : "あひこしりつあひこたい2しよう",
+         "url" : "http://www.school-abiko.jp/~abiko2-es/"
       },
       "我孫子市立我孫子第四小学校" : {
+         "location" : "千葉県我孫子市白山三丁目2番地1",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1154",
          "owner_type" : "市立",
-         "short_name" : "我孫子第四小学校"
+         "short_name" : "我孫子第四小学校",
+         "sort_name" : "あひこしりつあひこたい4しよう",
+         "url" : "http://www.school-abiko.jp/~abiko4-es/"
       },
       "我孫子市立新木小学校" : {
          "location_area" : "我孫子市",
@@ -2282,14 +2427,22 @@
          "short_name" : "根戸小学校"
       },
       "我孫子市立湖北台東小学校" : {
+         "location" : "千葉県我孫子市湖北台四丁目3番1号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1132",
          "owner_type" : "市立",
-         "short_name" : "湖北台東小学校"
+         "short_name" : "湖北台東小学校",
+         "sort_name" : "あひこしりつこほくたいひかししよう",
+         "url" : "http://www.school-abiko.jp/~kohokudaie-es/"
       },
       "我孫子市立湖北台西小学校" : {
+         "location" : "千葉県我孫子市湖北台八丁目17番1号",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1176",
          "owner_type" : "市立",
-         "short_name" : "湖北台西小学校"
+         "short_name" : "湖北台西小学校",
+         "sort_name" : "あひこしりつこほくたいにししよう",
+         "url" : "http://www.school-abiko.jp/~abiko4-es/"
       },
       "我孫子市立湖北小学校" : {
          "location_area" : "我孫子市",
@@ -2297,12 +2450,19 @@
          "short_name" : "湖北小学校"
       },
       "我孫子市立高野山小学校" : {
+         "location" : "千葉県我孫子市高野山198",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1145",
          "owner_type" : "市立",
-         "short_name" : "高野山小学校"
+         "short_name" : "高野山小学校",
+         "url" : "http://www.school-abiko.jp/~kounoyama-es/"
       },
       "日出学園小学校" : {
-         "owner_type" : "私立"
+         "location" : "千葉県市川市菅野3-23-1",
+         "location_zipcode" : "272-0824",
+         "owner_type" : "私立",
+         "sort_name" : "ひのてかくえん",
+         "url" : "http://www.hinode.ed.jp/element/index.html"
       },
       "旭市立三川小学校" : {
          "location_area" : "旭市",
@@ -2454,7 +2614,8 @@
       "木更津市立請西小学校" : {
          "location_area" : "木更津市",
          "owner_type" : "市立",
-         "short_name" : "請西小学校"
+         "short_name" : "請西小学校",
+         "sort_name" : "きさらつしりつしようさいしよう"
       },
       "木更津市立金田小学校" : {
          "location_area" : "木更津市",
@@ -2612,9 +2773,13 @@
          "short_name" : "大橋小学校"
       },
       "松戸市立寒風台小学校" : {
+         "location" : "千葉県松戸市松戸新田316-25",
          "location_area" : "松戸市",
+         "location_zipcode" : "271-2241",
          "owner_type" : "市立",
-         "short_name" : "寒風台小学校"
+         "short_name" : "寒風台小学校",
+         "sort_name" : "まつとしりつさむかせたいしよう",
+         "url" : "http://www.matsudo.ed.jp/~samuka-e/"
       },
       "松戸市立小金北小学校" : {
          "location_area" : "松戸市",
@@ -2727,9 +2892,13 @@
          "short_name" : "相模台小学校"
       },
       "松戸市立矢切小学校" : {
+         "location" : "千葉県松戸市中矢切540",
          "location_area" : "松戸市",
+         "location_zipcode" : "271-0095",
          "owner_type" : "市立",
-         "short_name" : "矢切小学校"
+         "short_name" : "矢切小学校",
+         "sort_name" : "まつとしりつやきりしよう",
+         "url" : "http://www.matsudo.ed.jp/~yakiri-e/"
       },
       "松戸市立稔台小学校" : {
          "location_area" : "松戸市",
@@ -2772,9 +2941,13 @@
          "short_name" : "中原小学校"
       },
       "柏市立光ヶ丘小学校" : {
+         "location" : "千葉県流山市向小金四丁目20番1号",
          "location_area" : "柏市",
+         "location_zipcode" : "270-0143",
          "owner_type" : "市立",
-         "short_name" : "光ヶ丘小学校"
+         "short_name" : "光ヶ丘小学校",
+         "sort_name" : "かしわしりつひかりかおかしよう",
+         "url" : "http://www.hikari-e.kashiwa.ed.jp/"
       },
       "柏市立十余二小学校" : {
          "location_area" : "柏市",
@@ -2794,7 +2967,8 @@
       "柏市立土小学校" : {
          "location_area" : "柏市",
          "owner_type" : "市立",
-         "short_name" : "土小学校"
+         "short_name" : "土小学校",
+         "sort_name" : "かしわしりつつちしよう"
       },
       "柏市立増尾西小学校" : {
          "location_area" : "柏市",
@@ -2814,7 +2988,8 @@
       "柏市立富勢小学校" : {
          "location_area" : "柏市",
          "owner_type" : "市立",
-         "short_name" : "富勢小学校"
+         "short_name" : "富勢小学校",
+         "sort_name" : "かしわしりつとみせしよう"
       },
       "柏市立富勢東小学校" : {
          "location_area" : "柏市",
@@ -2857,34 +3032,54 @@
          "short_name" : "松葉第二小学校"
       },
       "柏市立柏第一小学校" : {
+         "location" : "千葉県柏市あけぼの1丁目7番6号",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0841",
          "owner_type" : "市立",
-         "short_name" : "柏第一小学校"
+         "short_name" : "柏第一小学校",
+         "sort_name" : "かしわしりつかしわたいいち",
+         "url" : "http://www.dai1-e.kashiwa.ed.jp/"
       },
       "柏市立柏第七小学校" : {
+         "location" : "千葉県柏市篠籠田723－1",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0005",
          "owner_type" : "市立",
-         "short_name" : "柏第七小学校"
+         "short_name" : "柏第七小学校",
+         "url" : "http://www.dai7-e.kashiwa.ed.jp/"
       },
       "柏市立柏第三小学校" : {
+         "location" : "千葉県柏市若葉町4-54",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0024",
          "owner_type" : "市立",
-         "short_name" : "柏第三小学校"
+         "short_name" : "柏第三小学校",
+         "url" : "http://www.dai3-e.kashiwa.ed.jp"
       },
       "柏市立柏第二小学校" : {
+         "location" : "千葉県柏市豊四季310番地",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0863",
          "owner_type" : "市立",
-         "short_name" : "柏第二小学校"
+         "short_name" : "柏第二小学校",
+         "url" : "http://www.dai2-e.kashiwa.ed.jp/"
       },
       "柏市立柏第五小学校" : {
+         "location" : "千葉県柏市柏932-7",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0005",
          "owner_type" : "市立",
-         "short_name" : "柏第五小学校"
+         "short_name" : "柏第五小学校",
+         "url" : "http://www.dai5-e.kashiwa.ed.jp/"
       },
       "柏市立柏第八小学校" : {
+         "location" : "千葉県柏市永楽台二丁目8番1号",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0086",
          "owner_type" : "市立",
-         "short_name" : "柏第八小学校"
+         "short_name" : "柏第八小学校",
+         "sort_name" : "かしわしりつかしわたい8しよう",
+         "url" : "http://www.dai8-e.kashiwa.ed.jp/"
       },
       "柏市立柏第六小学校" : {
          "location_area" : "柏市",
@@ -2967,9 +3162,12 @@
          "short_name" : "高柳西小学校"
       },
       "柏市立高田小学校" : {
+         "location" : "千葉県柏市高田376-3",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0861",
          "owner_type" : "市立",
-         "short_name" : "高田小学校"
+         "short_name" : "高田小学校",
+         "url" : "http://www.takata-e.kashiwa.ed.jp/"
       },
       "栄町立北辺田小学校" : {
          "location_area" : "印旛郡栄町",
@@ -3132,14 +3330,22 @@
          "short_name" : "南小学校"
       },
       "浦安市立富岡小学校" : {
+         "location" : "千葉県浦安市富岡一丁目1番2号",
          "location_area" : "浦安市",
+         "location_zipcode" : "279-0021",
          "owner_type" : "市立",
-         "short_name" : "富岡小学校"
+         "short_name" : "富岡小学校",
+         "sort_name" : "うらやすしりつとみおかしよう",
+         "url" : "http://www.tomisho.net/"
       },
       "浦安市立日の出南小学校" : {
+         "location" : "千葉県浦安市日の出五丁目4番地4",
          "location_area" : "浦安市",
+         "location_zipcode" : "279-0013",
          "owner_type" : "市立",
-         "short_name" : "日の出南小学校"
+         "short_name" : "日の出南小学校",
+         "sort_name" : "うらやすしりつひのてみなみしよう",
+         "url" : "http://www.city-urayasu.ed.jp/cgi-bin/odb-get.exe?WIT_template=TSOPC1TopS1000&f=&p=&o=155::1159::1046&r=4775"
       },
       "浦安市立日の出小学校" : {
          "location_area" : "浦安市",
@@ -3214,7 +3420,8 @@
       "白井市立桜台小学校" : {
          "location_area" : "白井市",
          "owner_type" : "市立",
-         "short_name" : "桜台小学校"
+         "short_name" : "桜台小学校",
+         "sort_name" : "しろいしりつさくらたいしよう"
       },
       "白井市立池の上小学校" : {
          "location_area" : "白井市",
@@ -3277,152 +3484,260 @@
          "short_name" : "米沢小学校"
       },
       "習志野市立向山小学校" : {
+         "location" : "千葉県習志野市谷津二丁目16番32号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0026",
          "owner_type" : "市立",
-         "short_name" : "向山小学校"
+         "short_name" : "向山小学校",
+         "sort_name" : "ならしのしりつむこうやましよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/mukouyama/"
       },
       "習志野市立大久保小学校" : {
+         "location" : "千葉県習志野市藤崎六丁目9番28号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0017",
          "owner_type" : "市立",
-         "short_name" : "大久保小学校"
+         "short_name" : "大久保小学校",
+         "sort_name" : "ならしのしりつおおくほしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/ookubo/"
       },
       "習志野市立大久保東小学校" : {
+         "location" : "千葉県習志野市大久保二丁目12番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0011",
          "owner_type" : "市立",
-         "short_name" : "大久保東小学校"
+         "short_name" : "大久保東小学校",
+         "sort_name" : "ならしのしりつおおくほひかししよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/daitou/"
       },
       "習志野市立実籾小学校" : {
+         "location" : "千葉県習志野市実籾一丁目25番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0002",
          "owner_type" : "市立",
-         "short_name" : "実籾小学校"
+         "short_name" : "実籾小学校",
+         "sort_name" : "ならしのしりつみもみしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/mimomi/"
       },
       "習志野市立実花小学校" : {
+         "location" : "千葉県習志野市東習志野六丁目7番2号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0001",
          "owner_type" : "市立",
-         "short_name" : "実花小学校"
+         "short_name" : "実花小学校",
+         "sort_name" : "ならしのしりつみはなしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/mihana/"
       },
       "習志野市立屋敷小学校" : {
+         "location" : "千葉県習志野市屋敷五丁目11番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0004",
          "owner_type" : "市立",
-         "short_name" : "屋敷小学校"
+         "short_name" : "屋敷小学校",
+         "sort_name" : "ならしのしりつやしきしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/yashiki/"
       },
       "習志野市立東習志野小学校" : {
+         "location" : "千葉県習志野市東習志野三丁目4番2号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0001",
          "owner_type" : "市立",
-         "short_name" : "東習志野小学校"
+         "short_name" : "東習志野小学校",
+         "sort_name" : "ならしのしりつひかしならしのしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/toonara/"
       },
       "習志野市立津田沼小学校" : {
+         "location" : "千葉県習志野市津田沼四丁目5番2号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0016",
          "owner_type" : "市立",
-         "short_name" : "津田沼小学校"
+         "short_name" : "津田沼小学校",
+         "sort_name" : "ならしのしりつつたぬましよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/tusyo/index.htm"
       },
       "習志野市立秋津小学校" : {
+         "location" : "千葉県習志野市秋津三丁目4番2号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0001",
          "owner_type" : "市立",
-         "short_name" : "秋津小学校"
+         "short_name" : "秋津小学校",
+         "sort_name" : "ならしのしりつあきつしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/akitu/index.html"
       },
       "習志野市立藤崎小学校" : {
+         "location" : "千葉県習志野市藤崎四丁目12番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0017",
          "owner_type" : "市立",
-         "short_name" : "藤崎小学校"
+         "short_name" : "藤崎小学校",
+         "sort_name" : "ならしのしりつふしさきしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/huzisaki/"
       },
       "習志野市立袖ヶ浦東小学校" : {
+         "location" : "千葉県習志野市袖ヶ浦五丁目11番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0021",
          "owner_type" : "市立",
-         "short_name" : "袖ヶ浦東小学校"
+         "short_name" : "袖ヶ浦東小学校",
+         "sort_name" : "ならしのしりつそてかうらひかししよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/sodeh/"
       },
       "習志野市立袖ヶ浦西小学校" : {
+         "location" : "千葉県習志野市袖ヶ浦一丁目1番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0021",
          "owner_type" : "市立",
-         "short_name" : "袖ヶ浦西小学校"
+         "short_name" : "袖ヶ浦西小学校",
+         "sort_name" : "ならしのしりつそてかうらにししよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/soden/"
       },
       "習志野市立谷津南小学校" : {
+         "location" : "千葉県習志野市谷津三丁目1番36号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0026",
          "owner_type" : "市立",
-         "short_name" : "谷津南小学校"
+         "short_name" : "谷津南小学校",
+         "sort_name" : "ならしのしりつやつみなみしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/yatunan/"
       },
       "習志野市立谷津小学校" : {
+         "location" : "千葉県習志野市谷津五丁目1番32号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0017",
          "owner_type" : "市立",
-         "short_name" : "谷津小学校"
+         "short_name" : "谷津小学校",
+         "sort_name" : "ならしのしりつやつしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/yatu/"
       },
       "習志野市立香澄小学校" : {
+         "location" : "千葉県習志野市香澄四丁目6番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0022",
          "owner_type" : "市立",
-         "short_name" : "香澄小学校"
+         "short_name" : "香澄小学校",
+         "sort_name" : "ならしのしりつかすみしよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/kasumi/"
       },
       "習志野市立鷺沼小学校" : {
+         "location" : "千葉県習志野市鷺沼三丁目1番1号",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-0014",
          "owner_type" : "市立",
-         "short_name" : "鷺沼小学校"
+         "short_name" : "鷺沼小学校",
+         "sort_name" : "ならしのしりつさきぬましよう",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/saginuma/index.html"
       },
       "聖徳大学附属小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "せいとくたいかくふそくしよう"
       },
       "船橋市立七林小学校" : {
+         "location" : "千葉県船橋市七林町115-13",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0821",
          "owner_type" : "市立",
-         "short_name" : "七林小学校"
+         "short_name" : "七林小学校",
+         "sort_name" : "ふなはししりつななはやししよう",
+         "url" : "http://www.nanabayasi-e.funabashi.ed.jp/"
       },
       "船橋市立三咲小学校" : {
+         "location" : "千葉県船橋市二和東五丁目39番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0805",
          "owner_type" : "市立",
-         "short_name" : "三咲小学校"
+         "short_name" : "三咲小学校",
+         "url" : "http://www.misaki-e.funabashi.ed.jp/"
       },
       "船橋市立三山小学校" : {
+         "location" : "千葉県船橋市三山二丁目42番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0072",
          "owner_type" : "市立",
-         "short_name" : "三山小学校"
+         "short_name" : "三山小学校",
+         "sort_name" : "ふなはししりつみやましよう",
+         "url" : "http://www.miyama-e.funabashi.ed.jp/"
       },
       "船橋市立三山東小学校" : {
+         "location" : "千葉県船橋市三山六丁目32番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0072",
          "owner_type" : "市立",
-         "short_name" : "三山東小学校"
+         "short_name" : "三山東小学校",
+         "url" : "http://www.miyamae-e.funabashi.ed.jp/"
       },
       "船橋市立中野木小学校" : {
+         "location" : "千葉県船橋市中野木二丁目19番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0825",
          "owner_type" : "市立",
-         "short_name" : "中野木小学校"
+         "short_name" : "中野木小学校",
+         "url" : "http://www.nakanogi-e.funabashi.ed.jp/"
       },
       "船橋市立丸山小学校" : {
+         "location" : "千葉県船橋市丸山四丁目43番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0046",
          "owner_type" : "市立",
-         "short_name" : "丸山小学校"
+         "short_name" : "丸山小学校",
+         "sort_name" : "ふなはししりつまるやましよう",
+         "url" : "http://www.maruyama-e.funabashi.ed.jp/"
       },
       "船橋市立二和小学校" : {
+         "location" : "千葉県船橋市二和東一丁目9番11号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0805",
          "owner_type" : "市立",
-         "short_name" : "二和小学校"
+         "short_name" : "二和小学校",
+         "url" : "http://www.futawa-e.funabashi.ed.jp/"
       },
       "船橋市立二宮小学校" : {
+         "location" : "千葉県船橋市前原東五丁目9番3号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0824",
          "owner_type" : "市立",
-         "short_name" : "二宮小学校"
+         "short_name" : "二宮小学校",
+         "url" : "http://www.ninomiya-e.funabashi.ed.jp/"
       },
       "船橋市立八木が谷北小学校" : {
+         "location" : "千葉県船橋市八木が谷四丁目13番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0802",
          "owner_type" : "市立",
-         "short_name" : "八木が谷北小学校"
+         "short_name" : "八木が谷北小学校",
+         "url" : "http://www.yakigayan-e.funabashi.ed.jp/"
       },
       "船橋市立八木が谷小学校" : {
+         "location" : "千葉県船橋市八木が谷二丁目3番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0802",
          "owner_type" : "市立",
-         "short_name" : "八木が谷小学校"
+         "short_name" : "八木が谷小学校",
+         "url" : "http://www.yakigaya-e.funabashi.ed.jp/"
       },
       "船橋市立八栄小学校" : {
+         "location" : "千葉県船橋市夏見五丁目27番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0865",
          "owner_type" : "市立",
-         "short_name" : "八栄小学校"
+         "short_name" : "八栄小学校",
+         "url" : "http://www.yasakae-e.funabashi.ed.jp/"
       },
       "船橋市立前原小学校" : {
+         "location" : "千葉県船橋市前原西二丁目28番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0077",
          "owner_type" : "市立",
-         "short_name" : "前原小学校"
+         "short_name" : "前原小学校",
+         "sort_name" : "ふなはししりつまえはらしよう",
+         "url" : "http://www.maehara-e.funabashi.ed.jp/"
       },
       "船橋市立南本町小学校" : {
+         "location" : "千葉県船橋市栄町一丁目7番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0018",
          "owner_type" : "市立",
-         "short_name" : "南本町小学校"
+         "short_name" : "南本町小学校",
+         "url" : "http://www.minahon-e.funabashi.ed.jp/"
       },
       "船橋市立古和釜小学校" : {
          "location_area" : "船橋市",
@@ -3430,164 +3745,267 @@
          "short_name" : "古和釜小学校"
       },
       "船橋市立咲が丘小学校" : {
+         "location" : "千葉県船橋市咲が丘一丁目22番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0039",
          "owner_type" : "市立",
-         "short_name" : "咲が丘小学校"
+         "short_name" : "咲が丘小学校",
+         "url" : "http://www.sakigaoka-e.funabashi.ed.jp/"
       },
       "船橋市立坪井小学校" : {
+         "location" : "千葉県船橋市坪井町747-1",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0062",
          "owner_type" : "市立",
-         "short_name" : "坪井小学校"
+         "short_name" : "坪井小学校",
+         "url" : "http://www.tuboi-e.funabashi.ed.jp/"
       },
       "船橋市立塚田小学校" : {
+         "location" : "千葉県船橋市前貝塚町600番地",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0042",
          "owner_type" : "市立",
-         "short_name" : "塚田小学校"
+         "short_name" : "塚田小学校",
+         "sort_name" : "ふなはししりつつかたしよう",
+         "url" : "http://www.tukada-e.funabashi.ed.jp/"
       },
       "船橋市立夏見台小学校" : {
+         "location" : "千葉県船橋市夏見台二丁目12番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0062",
          "owner_type" : "市立",
-         "short_name" : "夏見台小学校"
+         "short_name" : "夏見台小学校",
+         "sort_name" : "ふなはししりつなつみたいしよう",
+         "url" : "http://www.natumidai-e.funabashi.ed.jp/"
       },
       "船橋市立大穴北小学校" : {
+         "location" : "千葉県船橋市大穴北一丁目7番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0068",
          "owner_type" : "市立",
-         "short_name" : "大穴北小学校"
+         "short_name" : "大穴北小学校",
+         "url" : "http://www.ooanan-e.funabashi.ed.jp/"
       },
       "船橋市立大穴小学校" : {
+         "location" : "千葉県船橋市大穴南二丁目7番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0067",
          "owner_type" : "市立",
-         "short_name" : "大穴小学校"
+         "short_name" : "大穴小学校",
+         "url" : "http://www.ooana-e.funabashi.ed.jp/"
       },
       "船橋市立宮本小学校" : {
+         "location" : "千葉県船橋市宮本七丁目10番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0003",
          "owner_type" : "市立",
-         "short_name" : "宮本小学校"
+         "short_name" : "宮本小学校",
+         "url" : "http://www.miyamoto-e.funabashi.ed.jp/"
       },
       "船橋市立小室小学校" : {
+         "location" : "千葉県船橋市小室町899",
          "location_area" : "船橋市",
+         "location_zipcode" : "270-1471",
          "owner_type" : "市立",
-         "short_name" : "小室小学校"
+         "short_name" : "小室小学校",
+         "url" : "http://www.komuro-e.funabashi.ed.jp/"
       },
       "船橋市立小栗原小学校" : {
+         "location" : "千葉県船橋市本中山三丁目16番12号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0035",
          "owner_type" : "市立",
-         "short_name" : "小栗原小学校"
+         "short_name" : "小栗原小学校",
+         "url" : "http://www.ogurihara-e.funabashi.ed.jp/"
       },
       "船橋市立峰台小学校" : {
+         "location" : "千葉県船橋市宮本六丁目33番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0003",
          "owner_type" : "市立",
-         "short_name" : "峰台小学校"
+         "short_name" : "峰台小学校",
+         "sort_name" : "ふなはししりつみねたいしよう",
+         "url" : "http://www.minedai-e.funabashi.ed.jp/"
       },
       "船橋市立市場小学校" : {
+         "location" : "千葉県千葉県船橋市市場一丁目5番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0001",
          "owner_type" : "市立",
-         "short_name" : "市場小学校"
+         "short_name" : "市場小学校",
+         "url" : "http://www.ichiba-e.funabashi.ed.jp/"
       },
       "船橋市立法典小学校" : {
+         "location" : "千葉県船橋市藤原五丁目2番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0047",
          "owner_type" : "市立",
-         "short_name" : "法典小学校"
+         "short_name" : "法典小学校",
+         "url" : "http://www.houden-e.funabashi.ed.jp/"
       },
       "船橋市立法典東小学校" : {
+         "location" : "千葉県船橋市丸山五丁目25番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0048",
          "owner_type" : "市立",
-         "short_name" : "法典東小学校"
+         "short_name" : "法典東小学校",
+         "url" : "http://www.houdene-e.funabashi.ed.jp/"
       },
       "船橋市立法典西小学校" : {
+         "location" : "千葉県船橋市上山町1-111-5",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0046",
          "owner_type" : "市立",
-         "short_name" : "法典西小学校"
+         "short_name" : "法典西小学校",
+         "url" : "http://www.houdenw-e.funabashi.ed.jp/"
       },
       "船橋市立海神南小学校" : {
+         "location" : "千葉県船橋市海神町南1-1510",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0024",
          "owner_type" : "市立",
-         "short_name" : "海神南小学校"
+         "short_name" : "海神南小学校",
+         "url" : "http://www.kainan-e.funabashi.ed.jp/"
       },
       "船橋市立海神小学校" : {
+         "location" : "千葉県船橋市海神二丁目6番5号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0021",
          "owner_type" : "市立",
-         "short_name" : "海神小学校"
+         "short_name" : "海神小学校",
+         "url" : "http://www.kaijin-e.funabashi.ed.jp/"
       },
       "船橋市立湊町小学校" : {
+         "location" : "千葉県船橋市湊町一丁目16番5号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0011",
          "owner_type" : "市立",
-         "short_name" : "湊町小学校"
+         "short_name" : "湊町小学校",
+         "url" : "http://www.minato-e.funabashi.ed.jp/"
       },
       "船橋市立田喜野井小学校" : {
+         "location" : "千葉県船橋市田喜野井四丁目33番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0073",
          "owner_type" : "市立",
-         "short_name" : "田喜野井小学校"
+         "short_name" : "田喜野井小学校",
+         "url" : "http://www.takinoi-e.funabashi.ed.jp/"
       },
       "船橋市立習志野台第一小学校" : {
+         "location" : "千葉県船橋市習志野台二丁目51番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0063",
          "owner_type" : "市立",
-         "short_name" : "習志野台第一小学校"
+         "short_name" : "習志野台第一小学校",
+         "url" : "http://www.nara1-e.funabashi.ed.jp/"
       },
       "船橋市立習志野台第二小学校" : {
+         "location" : "千葉県船橋市習志野台五丁目43番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0063",
          "owner_type" : "市立",
-         "short_name" : "習志野台第二小学校"
+         "short_name" : "習志野台第二小学校",
+         "url" : "http://www.narani-e.funabashi.ed.jp/"
       },
       "船橋市立船橋小学校" : {
+         "location" : "千葉県船橋市本町四丁目17番20号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0005",
          "owner_type" : "市立",
-         "short_name" : "船橋小学校"
+         "short_name" : "船橋小学校",
+         "url" : "http://www.funabashi-e.funabashi.ed.jp/"
       },
       "船橋市立芝山東小学校" : {
+         "location" : "千葉県船橋市芝山三丁目19番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0816",
          "owner_type" : "市立",
-         "short_name" : "芝山東小学校"
+         "short_name" : "芝山東小学校",
+         "url" : "http://www.sibayamae-e.funabashi.ed.jp/"
       },
       "船橋市立芝山西小学校" : {
+         "location" : "千葉県船橋市芝山二丁目4番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|07.5|N|140|00|56.5|E|",
+         "location_zipcode" : "274-0816",
          "owner_type" : "市立",
-         "short_name" : "芝山西小学校"
+         "short_name" : "芝山西小学校",
+         "sort_name" : "ふなはししりつしはやまにししよう",
+         "url" : "http://www.sibayamaw-e.funabashi.ed.jp/"
       },
       "船橋市立若松小学校" : {
+         "location" : "千葉県船橋市若松三丁目3番地",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0013",
          "owner_type" : "市立",
-         "short_name" : "若松小学校"
+         "short_name" : "若松小学校",
+         "url" : "http://www.wakamatu-e.funabashi.ed.jp/"
       },
       "船橋市立葛飾小学校" : {
+         "location" : "千葉県船橋市印内一丁目2番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0039",
          "owner_type" : "市立",
-         "short_name" : "葛飾小学校"
+         "short_name" : "葛飾小学校",
+         "sort_name" : "ふなはししりつかつしかしよう",
+         "url" : "http://www.katusika-e.funabashi.ed.jp/"
       },
       "船橋市立薬円台南小学校" : {
+         "location" : "千葉県船橋市薬円台二丁目18番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0077",
          "owner_type" : "市立",
-         "short_name" : "薬円台南小学校"
+         "short_name" : "薬円台南小学校",
+         "url" : "http://www.yakunan-e.funabashi.ed.jp/"
       },
       "船橋市立薬円台小学校" : {
+         "location" : "千葉県船橋市薬円台四丁目5番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0077",
          "owner_type" : "市立",
-         "short_name" : "薬円台小学校"
+         "short_name" : "薬円台小学校",
+         "sort_name" : "ふなはししりつやくえんたいしよう",
+         "url" : "http://www.yakuendai-e.funabashi.ed.jp/"
       },
       "船橋市立行田東小学校" : {
+         "location" : "千葉県船橋市行田二丁目4番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0044",
          "owner_type" : "市立",
-         "short_name" : "行田東小学校"
+         "short_name" : "行田東小学校",
+         "url" : "http://www.gyoudae-e.funabashi.ed.jp/"
       },
       "船橋市立行田西小学校" : {
+         "location" : "千葉県船橋市行田三丁目4番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0044",
          "owner_type" : "市立",
-         "short_name" : "行田西小学校"
+         "short_name" : "行田西小学校",
+         "url" : "http://www.gyoudaw-e.funabashi.ed.jp/"
       },
       "船橋市立西海神小学校" : {
+         "location" : "千葉県船橋市海神五丁目19番36号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0021",
          "owner_type" : "市立",
-         "short_name" : "西海神小学校"
+         "short_name" : "西海神小学校",
+         "url" : "http://www.nisikai-e.funabashi.ed.jp/"
       },
       "船橋市立豊富小学校" : {
+         "location" : "千葉県船橋市豊富町1番地",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0053",
          "owner_type" : "市立",
-         "short_name" : "豊富小学校"
+         "short_name" : "豊富小学校",
+         "url" : "http://www.toyotomi-e.funabashi.ed.jp/"
       },
       "船橋市立金杉台小学校" : {
+         "location" : "千葉県船橋市金杉台二丁目1番7号",
          "location_area" : "船橋市",
+         "location_zipcode" : "273-0852",
          "owner_type" : "市立",
-         "short_name" : "金杉台小学校"
+         "short_name" : "金杉台小学校",
+         "url" : "http://www.kanasugidai-e.funabashi.ed.jp/"
       },
       "船橋市立金杉小学校" : {
          "location_area" : "船橋市",
@@ -3595,39 +4013,62 @@
          "short_name" : "金杉小学校"
       },
       "船橋市立飯山満南小学校" : {
+         "location" : "千葉県船橋市飯山満町1-954-4",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0822",
          "owner_type" : "市立",
-         "short_name" : "飯山満南小学校"
+         "short_name" : "飯山満南小学校",
+         "url" : "http://www.hasamas-e.funabashi.ed.jp/"
       },
       "船橋市立飯山満小学校" : {
+         "location" : "千葉県船橋市飯山満町3-1394-3",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0822",
          "owner_type" : "市立",
-         "short_name" : "飯山満小学校"
+         "short_name" : "飯山満小学校",
+         "url" : "http://www.hasama-e.funabashi.ed.jp/"
       },
       "船橋市立高根台第三小学校" : {
+         "location" : "千葉県船橋市高根台一丁目4番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0065",
          "owner_type" : "市立",
-         "short_name" : "高根台第三小学校"
+         "short_name" : "高根台第三小学校",
+         "sort_name" : "ふなはししりつたかねたいたい3しよう",
+         "url" : "http://www.takasan-e.funabashi.ed.jp/"
       },
       "船橋市立高根台第二小学校" : {
+         "location" : "千葉県船橋市高根台五丁目2番地1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0065",
          "owner_type" : "市立",
-         "short_name" : "高根台第二小学校"
+         "short_name" : "高根台第二小学校",
+         "sort_name" : "ふなはししりつたかねたいたい2しよう",
+         "url" : "http://www.takani-e.funabashi.ed.jp/"
       },
       "船橋市立高根小学校" : {
+         "location" : "千葉県船橋市高根町2895番地",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0817",
          "owner_type" : "市立",
-         "short_name" : "高根小学校"
+         "short_name" : "高根小学校",
+         "url" : "http://www.takane-e.funabashi.ed.jp/"
       },
       "船橋市立高根東小学校" : {
+         "location" : "千葉県船橋市新高根一丁目17番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0814",
          "owner_type" : "市立",
-         "short_name" : "高根東小学校"
+         "short_name" : "高根東小学校",
+         "url" : "http://www.takane-e.funabashi.ed.jp/"
       },
       "船橋市立高郷小学校" : {
+         "location" : "千葉県船橋市西習志野一丁目47番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0815",
          "owner_type" : "市立",
-         "short_name" : "高郷小学校"
+         "short_name" : "高郷小学校",
+         "url" : "http://www.takasato-e.funabashi.ed.jp/"
       },
       "芝山町立東小学校" : {
          "location_area" : "山武郡芝山町",
@@ -3722,7 +4163,8 @@
       "袖ケ浦市立奈良輪小学校" : {
          "location_area" : "袖ケ浦市",
          "owner_type" : "市立",
-         "short_name" : "奈良輪小学校"
+         "short_name" : "奈良輪小学校",
+         "sort_name" : "そてかうらしりつならわしよう"
       },
       "袖ケ浦市立平岡小学校" : {
          "location_area" : "袖ケ浦市",
@@ -3737,7 +4179,8 @@
       "袖ケ浦市立昭和小学校" : {
          "location_area" : "袖ケ浦市",
          "owner_type" : "市立",
-         "short_name" : "昭和小学校"
+         "short_name" : "昭和小学校",
+         "sort_name" : "そてかうらしりつしようわしよう"
       },
       "袖ケ浦市立根形小学校" : {
          "location_area" : "袖ケ浦市",
@@ -3747,12 +4190,17 @@
       "袖ケ浦市立蔵波小学校" : {
          "location_area" : "袖ケ浦市",
          "owner_type" : "市立",
-         "short_name" : "蔵波小学校"
+         "short_name" : "蔵波小学校",
+         "sort_name" : "そてかうらしりつくらなみしよう"
       },
       "袖ケ浦市立長浦小学校" : {
+         "location" : "千葉県袖ケ浦市長浦駅前六丁目1番4号",
          "location_area" : "袖ケ浦市",
+         "location_zipcode" : "299-0246",
          "owner_type" : "市立",
-         "short_name" : "長浦小学校"
+         "short_name" : "長浦小学校",
+         "sort_name" : "そてかうらしりつなかうらしよう",
+         "url" : "http://www.sodegaura.ed.jp/nagaura-e/"
       },
       "酒々井町立大室台小学校" : {
          "location_area" : "印旛郡酒々井町",
@@ -3760,9 +4208,12 @@
          "short_name" : "大室台小学校"
       },
       "酒々井町立酒々井小学校" : {
+         "location" : "千葉県印旛郡酒々井町酒々井203",
          "location_area" : "印旛郡酒々井町",
+         "location_zipcode" : "285-0927",
          "owner_type" : "町立",
-         "short_name" : "酒々井小学校"
+         "short_name" : "酒々井小学校",
+         "url" : "http://www.shisui-shisuishou.ed.jp/"
       },
       "野田市立みずき小学校" : {
          "location_area" : "野田市",
@@ -4090,9 +4541,12 @@
          "short_name" : "館野小学校"
       },
       "香取市立佐原小学校" : {
+         "location" : "千葉県香取市佐原イ1870",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0003",
          "owner_type" : "市立",
-         "short_name" : "佐原小学校"
+         "short_name" : "佐原小学校",
+         "url" : "http://www.chiba-c.ed.jp/sawara/sawara-e/"
       },
       "香取市立八都小学校" : {
          "location_area" : "香取市",
@@ -4105,9 +4559,13 @@
          "short_name" : "八都第二小学校"
       },
       "香取市立北佐原小学校" : {
+         "location" : "千葉県香取市佐原ニ1676",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0043",
          "owner_type" : "市立",
-         "short_name" : "北佐原小学校"
+         "short_name" : "北佐原小学校",
+         "sort_name" : "かとりしりつきたさわらしよう",
+         "url" : "http://www.chiba-c.ed.jp/sawara/kitasawara-e/"
       },
       "香取市立大倉小学校" : {
          "location_area" : "香取市",
@@ -4120,9 +4578,12 @@
          "short_name" : "小見川中央小学校"
       },
       "香取市立小見川北小学校" : {
+         "location" : "千葉県香取市富田800",
          "location_area" : "香取市",
+         "location_zipcode" : "289-0303",
          "owner_type" : "市立",
-         "short_name" : "小見川北小学校"
+         "short_name" : "小見川北小学校",
+         "url" : "http://www.chiba-c.ed.jp/katori/omikita-e/top01.html"
       },
       "香取市立小見川北小学校利北分校" : {
          "location_area" : "香取市",
@@ -4165,9 +4626,13 @@
          "short_name" : "新島小学校大東分校"
       },
       "香取市立東大戸小学校" : {
+         "location" : "千葉県香取市大戸877",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0043",
          "owner_type" : "市立",
-         "short_name" : "東大戸小学校"
+         "short_name" : "東大戸小学校",
+         "sort_name" : "かとりしりつひかしおおとしよう",
+         "url" : "http://www.chiba-c.ed.jp/sawara/higashiooto-e/"
       },
       "香取市立栗源小学校" : {
          "location_area" : "香取市",
@@ -4190,19 +4655,28 @@
          "short_name" : "瑞穂小学校"
       },
       "香取市立神南小学校" : {
+         "location" : "千葉県香取市下小野1599",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0021",
          "owner_type" : "市立",
-         "short_name" : "神南小学校"
+         "short_name" : "神南小学校",
+         "url" : "http://www.chiba-c.ed.jp/sawara/jinnan-e/"
       },
       "香取市立福田小学校" : {
+         "location" : "千葉県香取市福田180",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0024",
          "owner_type" : "市立",
-         "short_name" : "福田小学校"
+         "short_name" : "福田小学校",
+         "url" : "http://www.chiba-c.ed.jp/sawara/fukuda-e/"
       },
       "香取市立竟成小学校" : {
+         "location" : "千葉県香取市観音481",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0036",
          "owner_type" : "市立",
-         "short_name" : "竟成小学校"
+         "short_name" : "竟成小学校",
+         "url" : "http://www.chiba-c.ed.jp/sawara/kyousei-e/"
       },
       "香取市立第一山倉小学校" : {
          "location_area" : "香取市",
@@ -4210,9 +4684,13 @@
          "short_name" : "第一山倉小学校"
       },
       "香取市立香取小学校" : {
+         "location" : "千葉県香取市香取字王子台1875",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0017",
          "owner_type" : "市立",
-         "short_name" : "香取小学校"
+         "short_name" : "香取小学校",
+         "sort_name" : "かとりしりつかとりしよう",
+         "url" : "http://www.chiba-c.ed.jp/sawara/katori-e/"
       },
       "鴨川市立天津小学校" : {
          "location_area" : "鴨川市",

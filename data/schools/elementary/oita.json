@@ -36,9 +36,13 @@
          "short_name" : "南部小学校"
       },
       "中津市立和田小学校" : {
+         "location" : "大分県中津市大字定留1950",
          "location_area" : "中津市",
+         "location_zipcode" : "343-0014",
          "owner_type" : "市立",
-         "short_name" : "和田小学校"
+         "short_name" : "和田小学校",
+         "sort_name" : "なかつしりつわたしよう",
+         "url" : "http://nak-wada-e.oita-ed.jp//"
       },
       "中津市立城井小学校" : {
          "location_area" : "中津市",
@@ -481,12 +485,17 @@
          "short_name" : "豊崎小学校"
       },
       "大分大学教育福祉科学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "おおいたたいかくきよういくふくしかかくふふそくしよう"
       },
       "大分市立こうざき小学校" : {
+         "location" : "大分県大分市大字本神崎924番地の2",
          "location_area" : "大分市",
+         "location_zipcode" : "870-2111",
          "owner_type" : "市立",
-         "short_name" : "こうざき小学校"
+         "short_name" : "こうざき小学校",
+         "sort_name" : "おおいたしりつこうさき",
+         "url" : "http://sag-kouzaki-e.oita-ed.jp/"
       },
       "大分市立三佐小学校" : {
          "location_area" : "大分市",
@@ -494,14 +503,22 @@
          "short_name" : "三佐小学校"
       },
       "大分市立上戸次小学校" : {
+         "location" : "大分県大分市大字端登1792番地",
          "location_area" : "大分市",
+         "location_zipcode" : "879-7502",
          "owner_type" : "市立",
-         "short_name" : "上戸次小学校"
+         "short_name" : "上戸次小学校",
+         "sort_name" : "おおいたしりつかみへつき",
+         "url" : "http://oit-kamihetugi-e.oita-ed.jp/"
       },
       "大分市立中島小学校" : {
+         "location" : "大分県大分市中島西二丁目1-52",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0047",
          "owner_type" : "市立",
-         "short_name" : "中島小学校"
+         "short_name" : "中島小学校",
+         "sort_name" : "おおいたしりつなかしましようかつこう",
+         "url" : "http://oit-nakasima-e.oita-ed.jp/"
       },
       "大分市立丹生小学校" : {
          "location_area" : "大分市",
@@ -509,9 +526,13 @@
          "short_name" : "丹生小学校"
       },
       "大分市立住吉小学校" : {
+         "location" : "大分県大分市泉町8-41",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0041",
          "owner_type" : "市立",
-         "short_name" : "住吉小学校"
+         "short_name" : "住吉小学校",
+         "sort_name" : "おおいたしりつすみよししようかつこう",
+         "url" : "http://oit-sumiyosi-e.oita-ed.jp/"
       },
       "大分市立佐賀関小学校" : {
          "location_area" : "大分市",
@@ -524,14 +545,21 @@
          "short_name" : "八幡小学校"
       },
       "大分市立判田小学校" : {
+         "location" : "大分県大分市大字中判田1818番地",
          "location_area" : "大分市",
+         "location_zipcode" : "870-1113",
          "owner_type" : "市立",
-         "short_name" : "判田小学校"
+         "short_name" : "判田小学校",
+         "url" : "http://oit-handa-e.oita-ed.jp/"
       },
       "大分市立別保小学校" : {
+         "location" : "大分県大分市大字森町963-1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0127",
          "owner_type" : "市立",
-         "short_name" : "別保小学校"
+         "short_name" : "別保小学校",
+         "sort_name" : "おおいたしりつへつほしようかつこう",
+         "url" : "http://oit-beppo-e.oita-ed.jp/"
       },
       "大分市立南大分小学校" : {
          "location_area" : "大分市",
@@ -539,9 +567,13 @@
          "short_name" : "南大分小学校"
       },
       "大分市立吉野小学校" : {
+         "location" : "大分県大分市大字辻654番地",
          "location_area" : "大分市",
+         "location_zipcode" : "879-7871",
          "owner_type" : "市立",
-         "short_name" : "吉野小学校"
+         "short_name" : "吉野小学校",
+         "sort_name" : "おおいたしりつよしの",
+         "url" : "http://oit-yosino-e.oita-ed.jp/"
       },
       "大分市立坂ノ市小学校" : {
          "location_area" : "大分市",
@@ -569,9 +601,13 @@
          "short_name" : "大志生木小学校"
       },
       "大分市立大道小学校" : {
+         "location" : "大分県大分市大道町2－9－57",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0822",
          "owner_type" : "市立",
-         "short_name" : "大道小学校"
+         "short_name" : "大道小学校",
+         "sort_name" : "おおいたしりつおおみち",
+         "url" : "http://oit-oomichi-e.oita-ed.jp/index.htm"
       },
       "大分市立宗方小学校" : {
          "location_area" : "大分市",
@@ -584,9 +620,13 @@
          "short_name" : "寒田小学校"
       },
       "大分市立小佐井小学校" : {
+         "location" : "大分県大分市小佐井三丁目1番18号",
          "location_area" : "大分市",
+         "location_zipcode" : "870",
          "owner_type" : "市立",
-         "short_name" : "小佐井小学校"
+         "short_name" : "小佐井小学校",
+         "sort_name" : "おおいたしりつこさいしようかつこう",
+         "url" : "http://oit-kozai-e.oita-ed.jp/"
       },
       "大分市立川添小学校" : {
          "location_area" : "大分市",
@@ -594,9 +634,13 @@
          "short_name" : "川添小学校"
       },
       "大分市立戸次小学校" : {
+         "location" : "大分県大分市大字中戸次4280番地",
          "location_area" : "大分市",
+         "location_zipcode" : "879-7502",
          "owner_type" : "市立",
-         "short_name" : "戸次小学校"
+         "short_name" : "戸次小学校",
+         "sort_name" : "おおいたしりつへつき",
+         "url" : "http://oit-hetugi-e.oita-ed.jp/"
       },
       "大分市立敷戸小学校" : {
          "location_area" : "大分市",
@@ -609,9 +653,12 @@
          "short_name" : "日岡小学校"
       },
       "大分市立明治北小学校" : {
+         "location" : "大分県大分市大字小池原428番地1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0147",
          "owner_type" : "市立",
-         "short_name" : "明治北小学校"
+         "short_name" : "明治北小学校",
+         "url" : "http://oit-meijikita-e.oita-ed.jp/"
       },
       "大分市立明治小学校" : {
          "location_area" : "大分市",
@@ -619,9 +666,13 @@
          "short_name" : "明治小学校"
       },
       "大分市立明野北小学校" : {
+         "location" : "大分県大分市明野北4-10-1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0165",
          "owner_type" : "市立",
-         "short_name" : "明野北小学校"
+         "short_name" : "明野北小学校",
+         "sort_name" : "おおいたしりつあけのきたしようかつこう",
+         "url" : "http://oit-akenokita-e.oita-ed.jp/"
       },
       "大分市立明野東小学校" : {
          "location_area" : "大分市",
@@ -629,19 +680,31 @@
          "short_name" : "明野東小学校"
       },
       "大分市立明野西小学校" : {
+         "location" : "大分県大分市明野南2丁目6番1号",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0163",
          "owner_type" : "市立",
-         "short_name" : "明野西小学校"
+         "short_name" : "明野西小学校",
+         "sort_name" : "おおいたしりつあけのにししようかつこう",
+         "url" : "http://oit-akenonisi-e.oita-ed.jp//"
       },
       "大分市立春日町小学校" : {
+         "location" : "大分県大分市西春日町1番48号",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0038",
          "owner_type" : "市立",
-         "short_name" : "春日町小学校"
+         "short_name" : "春日町小学校",
+         "sort_name" : "おおいたしりつかすかまち",
+         "url" : "http://oit-kasugamachi-e.oita-ed.jp/index.html"
       },
       "大分市立木佐上小学校" : {
+         "location" : "大分県大分市大字木佐上817番地",
          "location_area" : "大分市",
+         "location_zipcode" : "879-2113",
          "owner_type" : "市立",
-         "short_name" : "木佐上小学校"
+         "short_name" : "木佐上小学校",
+         "sort_name" : "おおいたしりつきさかみしようかつこう",
+         "url" : "http://oit-akenokita-e.oita-ed.jp/"
       },
       "大分市立東大分小学校" : {
          "location_area" : "大分市",
@@ -669,19 +732,31 @@
          "short_name" : "森岡小学校"
       },
       "大分市立横瀬小学校" : {
+         "location" : "大分県大分市大字横瀬1109番地の1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-1173",
          "owner_type" : "市立",
-         "short_name" : "横瀬小学校"
+         "short_name" : "横瀬小学校",
+         "sort_name" : "おおいたしりつよこせ",
+         "url" : "http://oit-yokose-e.oita-ed.jp/"
       },
       "大分市立横瀬西小学校" : {
+         "location" : "大分県大分市大字横瀬2469番地",
          "location_area" : "大分市",
+         "location_zipcode" : "870-1173",
          "owner_type" : "市立",
-         "short_name" : "横瀬西小学校"
+         "short_name" : "横瀬西小学校",
+         "sort_name" : "おおいたしりつよこせにし",
+         "url" : "http://oit-yokosenisi-e.oita-ed.jp/"
       },
       "大分市立津留小学校" : {
+         "location" : "大分県大分市東津留1-4-1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0934",
          "owner_type" : "市立",
-         "short_name" : "津留小学校"
+         "short_name" : "津留小学校",
+         "sort_name" : "おおいたしりつつるしようかつこう",
+         "url" : "http://oit-turu-e.oita-ed.jp/index.htm"
       },
       "大分市立滝尾小学校" : {
          "location_area" : "大分市",
@@ -689,9 +764,13 @@
          "short_name" : "滝尾小学校"
       },
       "大分市立田尻小学校" : {
+         "location" : "大分県大分市大字田尻1250番地",
          "location_area" : "大分市",
+         "location_zipcode" : "870-1143",
          "owner_type" : "市立",
-         "short_name" : "田尻小学校"
+         "short_name" : "田尻小学校",
+         "sort_name" : "おおいたしりつたしり",
+         "url" : "http://oit-tajiri-e.oita-ed.jp/"
       },
       "大分市立神崎小学校" : {
          "location_area" : "大分市",
@@ -699,19 +778,30 @@
          "short_name" : "神崎小学校"
       },
       "大分市立稙田小学校" : {
+         "location" : "大分県大分市大字木上433番地の1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-1161",
          "owner_type" : "市立",
-         "short_name" : "稙田小学校"
+         "short_name" : "稙田小学校",
+         "url" : "http://oit-wasada-e.oita-ed.jp/"
       },
       "大分市立竹中小学校" : {
+         "location" : "大分県大分市大字竹中2821番地の1",
          "location_area" : "大分市",
+         "location_zipcode" : "879-7501",
          "owner_type" : "市立",
-         "short_name" : "竹中小学校"
+         "short_name" : "竹中小学校",
+         "sort_name" : "おおいたしりつたけなか",
+         "url" : "http://oit-takenaka-e.oita-ed.jp/"
       },
       "大分市立舞鶴小学校" : {
+         "location" : "大分県大分市西浜2-1",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0931",
          "owner_type" : "市立",
-         "short_name" : "舞鶴小学校"
+         "short_name" : "舞鶴小学校",
+         "sort_name" : "おおいたしりつまいつるしようかつこう",
+         "url" : "http://oit-maizuru-e.oita-ed.jp/"
       },
       "大分市立荏隈小学校" : {
          "location_area" : "大分市",
@@ -719,9 +809,13 @@
          "short_name" : "荏隈小学校"
       },
       "大分市立荷揚町小学校" : {
+         "location" : "大分市荷揚町3番49号",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0046",
          "owner_type" : "市立",
-         "short_name" : "荷揚町小学校"
+         "short_name" : "荷揚町小学校",
+         "sort_name" : "おおいたしりつにあけまちしようかつこう",
+         "url" : "http://oit-niage-e.oita-ed.jp/"
       },
       "大分市立西の台小学校" : {
          "location_area" : "大分市",
@@ -734,14 +828,22 @@
          "short_name" : "豊府小学校"
       },
       "大分市立金池小学校" : {
+         "location" : "大分県大分市金池町3丁目1番90号",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0026",
          "owner_type" : "市立",
-         "short_name" : "金池小学校"
+         "short_name" : "金池小学校",
+         "sort_name" : "おおいたしりつかないけ",
+         "url" : "http://oit-kanaike-e.oita-ed.jp/"
       },
       "大分市立長浜小学校" : {
+         "location" : "大分市長浜町二丁目6番25号",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0023",
          "owner_type" : "市立",
-         "short_name" : "長浜小学校"
+         "short_name" : "長浜小学校",
+         "sort_name" : "おおいたしりつなかはましようかつこう",
+         "url" : "http://oit-nagahama-e.oita-ed.jp/"
       },
       "大分市立高田小学校" : {
          "location_area" : "大分市",
@@ -801,7 +903,8 @@
       "宇佐市立天津小学校" : {
          "location_area" : "宇佐市",
          "owner_type" : "市立",
-         "short_name" : "天津小学校"
+         "short_name" : "天津小学校",
+         "sort_name" : "うさしりつあまつしようかつこう"
       },
       "宇佐市立宇佐小学校" : {
          "location_area" : "宇佐市",
@@ -949,9 +1052,14 @@
          "short_name" : "五馬市小学校"
       },
       "日田市立光岡小学校" : {
+         "location" : "大分県日田市北友田1丁目1133-2",
          "location_area" : "日田市",
+         "location_wikipedia_latlon" : "|33|19|42|N|130|55|23|E|",
+         "location_zipcode" : "877-0078",
          "owner_type" : "市立",
-         "short_name" : "光岡小学校"
+         "short_name" : "光岡小学校",
+         "sort_name" : "ひたしりつてるおかしようかつこう",
+         "url" : "http://hit-teruoka-e.oita-ed.jp/"
       },
       "日田市立出口小学校" : {
          "location_area" : "日田市",
@@ -969,9 +1077,14 @@
          "short_name" : "台小学校"
       },
       "日田市立咸宜小学校" : {
+         "location" : "大分県日田市淡窓1丁目5番13号",
          "location_area" : "日田市",
+         "location_wikipedia_latlon" : "|33|19|17|N|130|56|12|E|",
+         "location_zipcode" : "877-0012",
          "owner_type" : "市立",
-         "short_name" : "咸宜小学校"
+         "short_name" : "咸宜小学校",
+         "sort_name" : "ひたしりつかんきしようかつこう",
+         "url" : "http://hit-kangi-e.oita-ed.jp/"
       },
       "日田市立塚田小学校" : {
          "location_area" : "日田市",
@@ -1064,7 +1177,8 @@
          "short_name" : "高瀬小学校"
       },
       "明星小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "めいせいしようかつこう"
       },
       "杵築市立上小学校" : {
          "location_area" : "杵築市",
@@ -1367,14 +1481,21 @@
          "short_name" : "祖峰小学校"
       },
       "竹田市立竹田小学校" : {
+         "location" : "大分県竹田市大字会々1637",
          "location_area" : "竹田市",
+         "location_zipcode" : "878-0011",
          "owner_type" : "市立",
-         "short_name" : "竹田小学校"
+         "short_name" : "竹田小学校",
+         "sort_name" : "たけたしりつたけたしようかつこう"
       },
       "竹田市立荻小学校" : {
+         "location" : "大分県竹田市荻町馬場448-1",
          "location_area" : "竹田市",
+         "location_wikipedia_latlon" : "|32|55|21|N|131|17|44|E|",
+         "location_zipcode" : "879-6115",
          "owner_type" : "市立",
-         "short_name" : "荻小学校"
+         "short_name" : "荻小学校",
+         "sort_name" : "たけたしりつおき"
       },
       "竹田市立菅生小学校" : {
          "location_area" : "竹田市",
@@ -1522,9 +1643,14 @@
          "short_name" : "百枝小学校"
       },
       "豊後大野市立緒方小学校" : {
+         "location" : "大分県豊後大野市緒方町馬場100番地",
          "location_area" : "豊後大野市",
+         "location_wikipedia_latlon" : "|32|58|21|N|131|28|23|E|",
+         "location_zipcode" : "879-6601",
          "owner_type" : "市立",
-         "short_name" : "緒方小学校"
+         "short_name" : "緒方小学校",
+         "sort_name" : "ふんこおおのしりつおかた",
+         "url" : "http://oga-ogata-e.oita-ed.jp/"
       },
       "豊後大野市立菅尾小学校" : {
          "location_area" : "豊後大野市",
@@ -1599,9 +1725,13 @@
    },
    "primary_and_secondary_schools" : {
       "大分市立賀来小中学校" : {
+         "location" : "大分県大分市大字賀来101-4",
          "location_area" : "大分市",
+         "location_zipcode" : "870-0877",
          "owner_type" : "市立",
-         "short_name" : "賀来小中学校"
+         "short_name" : "賀来小中学校",
+         "sort_name" : "おおいたしりつかく",
+         "url" : "http://www.oct-net.ne.jp/~kaku-e1/"
       }
    }
 }

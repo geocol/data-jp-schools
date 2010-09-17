@@ -66,14 +66,22 @@
          "short_name" : "美並小学校"
       },
       "つくばみらい市立三島小学校" : {
+         "location" : "茨城県つくばみらい市下島422番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2324",
          "owner_type" : "市立",
-         "short_name" : "三島小学校"
+         "short_name" : "三島小学校",
+         "sort_name" : "つくはみらいしりつみしましよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/mishima/"
       },
       "つくばみらい市立十和小学校" : {
+         "location" : "茨城県つくばみらい市上長沼1250番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2453",
          "owner_type" : "市立",
-         "short_name" : "十和小学校"
+         "short_name" : "十和小学校",
+         "sort_name" : "つくはみらいしりつしゆうわしよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/jyuwasyo/"
       },
       "つくばみらい市立小張小学校" : {
          "location_area" : "つくばみらい市",
@@ -81,19 +89,31 @@
          "short_name" : "小張小学校"
       },
       "つくばみらい市立小絹小学校" : {
+         "location" : "茨城県つくばみらい市小絹858番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2445",
          "owner_type" : "市立",
-         "short_name" : "小絹小学校"
+         "short_name" : "小絹小学校",
+         "sort_name" : "つくはみらいしりつこきぬしよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/kokinuel/"
       },
       "つくばみらい市立東小学校" : {
+         "location" : "茨城県つくばみらい市足高1313番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2315",
          "owner_type" : "市立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "つくはみらいしりつあすましよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/azuma/"
       },
       "つくばみらい市立板橋小学校" : {
+         "location" : "茨城県つくばみらい市板橋2379番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2307",
          "owner_type" : "市立",
-         "short_name" : "板橋小学校"
+         "short_name" : "板橋小学校",
+         "sort_name" : "つくはみらいしりついたはししよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/itabashi/"
       },
       "つくばみらい市立福岡小学校" : {
          "location_area" : "つくばみらい市",
@@ -106,9 +126,13 @@
          "short_name" : "谷井田小学校"
       },
       "つくばみらい市立谷原小学校" : {
+         "location" : "茨城県つくばみらい市加藤241番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2424",
          "owner_type" : "市立",
-         "short_name" : "谷原小学校"
+         "short_name" : "谷原小学校",
+         "sort_name" : "つくはみらいしりつやわらしよう",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/yawara/"
       },
       "つくばみらい市立豊小学校" : {
          "location_area" : "つくばみらい市",
@@ -117,7 +141,8 @@
       },
       "つくば国際大学東風小学校" : {
          "location_area" : "守谷市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "つくはこくさいたいかくはるかせしようかつこう"
       },
       "つくば市立上郷小学校" : {
          "location_area" : "つくば市",
@@ -210,9 +235,13 @@
          "short_name" : "松代小学校"
       },
       "つくば市立柳橋小学校" : {
+         "location" : "茨城県つくば市柳橋360",
          "location_area" : "つくば市",
+         "location_zipcode" : "305-0842",
          "owner_type" : "市立",
-         "short_name" : "柳橋小学校"
+         "short_name" : "柳橋小学校",
+         "sort_name" : "つくはしりつやきはししようかつこう",
+         "url" : "http://www.tsukuba-ibk.ed.jp/~yagihashi/"
       },
       "つくば市立栄小学校" : {
          "location_area" : "つくば市",
@@ -315,9 +344,13 @@
          "short_name" : "中根小学校"
       },
       "ひたちなか市立佐野小学校" : {
+         "location" : "ひたちなか市稲田76",
          "location_area" : "ひたちなか市",
+         "location_zipcode" : "312-0061",
          "owner_type" : "市立",
-         "short_name" : "佐野小学校"
+         "short_name" : "佐野小学校",
+         "sort_name" : "ひたちなかしりつさのしよう",
+         "url" : "http://www.hitachinaka-knet.ed.jp/sano_e/"
       },
       "ひたちなか市立前渡小学校" : {
          "location_area" : "ひたちなか市",
@@ -406,7 +439,8 @@
       },
       "リリーベール小学校" : {
          "location_area" : "水戸市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "りりいへえる"
       },
       "下妻市立上妻小学校" : {
          "location_area" : "下妻市",
@@ -732,9 +766,13 @@
          "short_name" : "古河第四小学校"
       },
       "古河市立名崎小学校" : {
+         "location" : "茨城県古河市尾崎4200番地",
          "location_area" : "古河市",
+         "location_zipcode" : "306-0101",
          "owner_type" : "市立",
-         "short_name" : "名崎小学校"
+         "short_name" : "名崎小学校",
+         "sort_name" : "こかしりつなさきしようかつこう",
+         "url" : "http://www.koganet.ne.jp/~sanwa005/"
       },
       "古河市立大和田小学校" : {
          "location_area" : "古河市",
@@ -844,7 +882,8 @@
       "土浦市立真鍋小学校" : {
          "location_area" : "土浦市",
          "owner_type" : "市立",
-         "short_name" : "真鍋小学校"
+         "short_name" : "真鍋小学校",
+         "sort_name" : "つちうらしりつまなへしよう"
       },
       "土浦市立神立小学校" : {
          "location_area" : "土浦市",
@@ -1081,49 +1120,85 @@
          "short_name" : "祝町小学校"
       },
       "守谷市立大井沢小学校" : {
+         "location" : "茨城県守谷市薬師台四丁目12番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0127",
          "owner_type" : "市立",
-         "short_name" : "大井沢小学校"
+         "short_name" : "大井沢小学校",
+         "sort_name" : "もりやしりつおおいさわしよう",
+         "url" : "http://moriya.jed.jp/~ooisawa/"
       },
       "守谷市立大野小学校" : {
+         "location" : "茨城県守谷市野木崎492番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0117",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "もりやしりつおおのしよう",
+         "url" : "http://www.moriya.jed.jp/~oono/"
       },
       "守谷市立守谷小学校" : {
+         "location" : "茨城県守谷市本町858番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0109",
          "owner_type" : "市立",
-         "short_name" : "守谷小学校"
+         "short_name" : "守谷小学校",
+         "sort_name" : "もりやしりつもりやしよう",
+         "url" : "http://moriya.jed.jp/~moriya/"
       },
       "守谷市立御所ケ丘小学校" : {
+         "location" : "茨城県守谷市御所ケ丘五丁目15番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0119",
          "owner_type" : "市立",
-         "short_name" : "御所ケ丘小学校"
+         "short_name" : "御所ケ丘小学校",
+         "sort_name" : "もりやしりつこしよかおかしよう",
+         "url" : "http://moriya.jed.jp/~gosyogaoka/"
       },
       "守谷市立松ケ丘小学校" : {
+         "location" : "茨城県守谷市松ケ丘四丁目12番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0127",
          "owner_type" : "市立",
-         "short_name" : "松ケ丘小学校"
+         "short_name" : "松ケ丘小学校",
+         "sort_name" : "もりやしりつまつかおかしよう",
+         "url" : "http://moriya.jed.jp/~matsugaoka/"
       },
       "守谷市立松前台小学校" : {
+         "location" : "茨城県守谷市松前台二丁目16番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0102",
          "owner_type" : "市立",
-         "short_name" : "松前台小学校"
+         "short_name" : "松前台小学校",
+         "sort_name" : "もりやしりつまつまえたいしよう",
+         "url" : "https://moriya.jed.jp/~matsumaedai/ 公式サイト"
       },
       "守谷市立郷州小学校" : {
+         "location" : "茨城県守谷市みずき野五丁目4番地1",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0121",
          "owner_type" : "市立",
-         "short_name" : "郷州小学校"
+         "short_name" : "郷州小学校",
+         "sort_name" : "もりやしりつこうしゆうしよう",
+         "url" : "http://moriya.jed.jp/~gousyu/"
       },
       "守谷市立高野小学校" : {
+         "location" : "茨城県守谷市高野1342番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0105",
          "owner_type" : "市立",
-         "short_name" : "高野小学校"
+         "short_name" : "高野小学校",
+         "sort_name" : "もりやしりつこうやしよう",
+         "url" : "http://moriya.jed.jp/kouya/867/"
       },
       "守谷市立黒内小学校" : {
+         "location" : "茨城県守谷市百合ケ丘二丁目2349番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0110",
          "owner_type" : "市立",
-         "short_name" : "黒内小学校"
+         "short_name" : "黒内小学校",
+         "sort_name" : "もりやしりつくろうちしよう",
+         "url" : "http://moriya.jed.jp/~kurouti/"
       },
       "小美玉市立上吉影小学校" : {
          "location_area" : "小美玉市",
@@ -1171,14 +1246,22 @@
          "short_name" : "竹原小学校"
       },
       "小美玉市立納場小学校" : {
+         "location" : "茨城県小美玉市納場444番地",
          "location_area" : "小美玉市",
+         "location_zipcode" : "319-0134",
          "owner_type" : "市立",
-         "short_name" : "納場小学校"
+         "short_name" : "納場小学校",
+         "sort_name" : "おみたましりつのうはしよう",
+         "url" : "http://www.city.omitama.ibaraki.jp/noba-e/"
       },
       "小美玉市立羽鳥小学校" : {
+         "location" : "茨城県小美玉市羽鳥932",
          "location_area" : "小美玉市",
+         "location_zipcode" : "319-0123",
          "owner_type" : "市立",
-         "short_name" : "羽鳥小学校"
+         "short_name" : "羽鳥小学校",
+         "sort_name" : "おみたましりつはとりしようかつこう",
+         "url" : "http://www.city.omitama.ibaraki.jp/hatori-e/"
       },
       "小美玉市立野田小学校" : {
          "location_area" : "小美玉市",
@@ -1551,9 +1634,13 @@
          "short_name" : "照沼小学校"
       },
       "東海村立白方小学校" : {
+         "location" : "茨城県那珂郡東海村白方中央2-21-1",
          "location_area" : "那珂郡東海村",
+         "location_zipcode" : "319-1109",
          "owner_type" : "村立",
-         "short_name" : "白方小学校"
+         "short_name" : "白方小学校",
+         "sort_name" : "とうかいそんりつしらかたしよう",
+         "url" : "http://www.tokai-shirakata-e.ed.jp/"
       },
       "東海村立石神小学校" : {
          "location_area" : "那珂郡東海村",
@@ -2206,9 +2293,12 @@
          "short_name" : "上野小学校"
       },
       "筑西市立下館小学校" : {
+         "location" : "茨城県筑西市甲392-1",
          "location_area" : "筑西市",
+         "location_zipcode" : "308-0021",
          "owner_type" : "市立",
-         "short_name" : "下館小学校"
+         "short_name" : "下館小学校",
+         "url" : "http://www.chikusei.ed.jp/shimosho//"
       },
       "筑西市立中小学校" : {
          "location_area" : "筑西市",
@@ -2361,7 +2451,10 @@
          "short_name" : "木原小学校"
       },
       "茨城大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "茨城県水戸市三の丸2-6-8",
+         "owner_type" : "国立",
+         "sort_name" : "いはらきたいかくきよういくかくふふそくしよう",
+         "url" : "http://www.esch.ibaraki.ac.jp/"
       },
       "茨城町立上野合小学校" : {
          "location_area" : "東茨城郡茨城町",

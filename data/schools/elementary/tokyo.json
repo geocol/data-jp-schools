@@ -61,7 +61,8 @@
          "short_name" : "西秋留小学校"
       },
       "お茶の水女子大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "おちやのみすしよしたいかくふそくしよう"
       },
       "むさしの学園小学校" : {
          "location_area" : "府中市",
@@ -107,7 +108,8 @@
       "三鷹市立第一小学校" : {
          "location_area" : "三鷹市",
          "owner_type" : "市立",
-         "short_name" : "第一小学校"
+         "short_name" : "第一小学校",
+         "sort_name" : "みたかしりつたい1しようかつこう"
       },
       "三鷹市立第七小学校" : {
          "location_area" : "三鷹市",
@@ -197,7 +199,8 @@
       "世田谷区立代沢小学校" : {
          "location_area" : "世田谷区",
          "owner_type" : "区立",
-         "short_name" : "代沢小学校"
+         "short_name" : "代沢小学校",
+         "sort_name" : "せたかやくりつたいさわしようかつこう"
       },
       "世田谷区立代田小学校" : {
          "location_area" : "世田谷区",
@@ -206,8 +209,11 @@
       },
       "世田谷区立八幡小学校" : {
          "location_area" : "世田谷区",
+         "location_zipcode" : "154-0023",
          "owner_type" : "区立",
-         "short_name" : "八幡小学校"
+         "short_name" : "八幡小学校",
+         "sort_name" : "せたかやくりつやはた",
+         "url" : "http://school.setagaya.ed.jp/yata/"
       },
       "世田谷区立八幡山小学校" : {
          "location_area" : "世田谷区",
@@ -270,9 +276,13 @@
          "short_name" : "尾山台小学校"
       },
       "世田谷区立山崎小学校" : {
+         "location" : "東京都世田谷区梅丘3-9-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "154-0022",
          "owner_type" : "区立",
-         "short_name" : "山崎小学校"
+         "short_name" : "山崎小学校",
+         "sort_name" : "せたかやくりつやまさき",
+         "url" : "http://www.setagaya.ed.jp/yaki/"
       },
       "世田谷区立山野小学校" : {
          "location_area" : "世田谷区",
@@ -307,7 +317,8 @@
       "世田谷区立東深沢小学校" : {
          "location_area" : "世田谷区",
          "owner_type" : "区立",
-         "short_name" : "東深沢小学校"
+         "short_name" : "東深沢小学校",
+         "sort_name" : "せたかやくりつひかしふかさわ"
       },
       "世田谷区立東玉川小学校" : {
          "location_area" : "世田谷区",
@@ -380,14 +391,19 @@
          "short_name" : "烏山小学校"
       },
       "世田谷区立玉堤小学校" : {
+         "location" : "東京都世田谷区玉堤2-11-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "158-0087",
          "owner_type" : "区立",
-         "short_name" : "玉堤小学校"
+         "short_name" : "玉堤小学校",
+         "sort_name" : "せたかやくりつたまつつみ",
+         "url" : "http://www.setagaya.ed.jp/tami/"
       },
       "世田谷区立玉川小学校" : {
          "location_area" : "世田谷区",
          "owner_type" : "区立",
-         "short_name" : "玉川小学校"
+         "short_name" : "玉川小学校",
+         "sort_name" : "せたかやくりつたまかわ"
       },
       "世田谷区立用賀小学校" : {
          "location_area" : "世田谷区",
@@ -415,9 +431,13 @@
          "short_name" : "笹原小学校"
       },
       "世田谷区立等々力小学校" : {
+         "location" : "東京都世田谷区等々力7-26-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "158-0082",
          "owner_type" : "区立",
-         "short_name" : "等々力小学校"
+         "short_name" : "等々力小学校",
+         "sort_name" : "せたかやくりつととろき",
+         "url" : "http://school.setagaya.ed.jp/toki/"
       },
       "世田谷区立経堂小学校" : {
          "location_area" : "世田谷区",
@@ -427,7 +447,8 @@
       "世田谷区立給田小学校" : {
          "location_area" : "世田谷区",
          "owner_type" : "区立",
-         "short_name" : "給田小学校"
+         "short_name" : "給田小学校",
+         "sort_name" : "せたかやくりつきゆうてん"
       },
       "世田谷区立船橋小学校" : {
          "location_area" : "世田谷区",
@@ -445,14 +466,22 @@
          "short_name" : "花見堂小学校"
       },
       "世田谷区立若林小学校" : {
+         "location" : "東京都世田谷区若林5-38-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "154-0023",
          "owner_type" : "区立",
-         "short_name" : "若林小学校"
+         "short_name" : "若林小学校",
+         "sort_name" : "せたかやくりつわかはやし",
+         "url" : "http://www.setagaya.ed.jp/washi/"
       },
       "世田谷区立赤堤小学校" : {
+         "location" : "東京都世田谷区赤堤1-41-24",
          "location_area" : "世田谷区",
+         "location_zipcode" : "156-0044",
          "owner_type" : "区立",
-         "short_name" : "赤堤小学校"
+         "short_name" : "赤堤小学校",
+         "sort_name" : "せたかやくりつあかつつみ",
+         "url" : "http://www.setagaya.ed.jp/ami/"
       },
       "世田谷区立駒沢小学校" : {
          "location_area" : "世田谷区",
@@ -472,7 +501,8 @@
       "中央区立久松小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "久松小学校"
+         "short_name" : "久松小学校",
+         "sort_name" : "ちゆうおうくりつひさまつ"
       },
       "中央区立京橋築地小学校" : {
          "location_area" : "中央区",
@@ -487,17 +517,20 @@
       "中央区立城東小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "城東小学校"
+         "short_name" : "城東小学校",
+         "sort_name" : "ちゆうおうくりつしようとう"
       },
       "中央区立常盤小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "常盤小学校"
+         "short_name" : "常盤小学校",
+         "sort_name" : "ちゆうおうくりつときわしようかつこう"
       },
       "中央区立日本橋小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "日本橋小学校"
+         "short_name" : "日本橋小学校",
+         "sort_name" : "ちゆうおうくりつにほんはし"
       },
       "中央区立明正小学校" : {
          "location_area" : "中央区",
@@ -527,12 +560,14 @@
       "中央区立有馬小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "有馬小学校"
+         "short_name" : "有馬小学校",
+         "sort_name" : "ちゆうおうくりつありま"
       },
       "中央区立泰明小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "泰明小学校"
+         "short_name" : "泰明小学校",
+         "sort_name" : "ちゆうおうくりつたいめい"
       },
       "中央区立豊海小学校" : {
          "location_area" : "中央区",
@@ -542,7 +577,8 @@
       "中央区立阪本小学校" : {
          "location_area" : "中央区",
          "owner_type" : "区立",
-         "short_name" : "阪本小学校"
+         "short_name" : "阪本小学校",
+         "sort_name" : "ちゆうおうくりつさかもと"
       },
       "中野区立上高田小学校" : {
          "location_area" : "中野区",
@@ -610,14 +646,22 @@
          "short_name" : "新山小学校"
       },
       "中野区立桃園小学校" : {
+         "location" : "東京都中野区本町3-16-1",
          "location_area" : "中野区",
+         "location_zipcode" : "164-0012",
          "owner_type" : "区立",
-         "short_name" : "桃園小学校"
+         "short_name" : "桃園小学校",
+         "sort_name" : "なかのくりつももその",
+         "url" : "http://homepage3.nifty.com/nk-momo-e/"
       },
       "中野区立桃園第二小学校" : {
+         "location" : "東京都中野区中野6-13-1",
          "location_area" : "中野区",
+         "location_zipcode" : "164-0001",
          "owner_type" : "区立",
-         "short_name" : "桃園第二小学校"
+         "short_name" : "桃園第二小学校",
+         "sort_name" : "なかのくりつももそのたいに",
+         "url" : "http://homepage3.nifty.com/nk-momo2-e/"
       },
       "中野区立桃花小学校" : {
          "location_area" : "中野区",
@@ -625,9 +669,13 @@
          "short_name" : "桃花小学校"
       },
       "中野区立武蔵台小学校" : {
+         "location" : "東京都中野区上鷺宮5-1-1",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0031",
          "owner_type" : "区立",
-         "short_name" : "武蔵台小学校"
+         "short_name" : "武蔵台小学校",
+         "sort_name" : "なかのくりつむさしたい",
+         "url" : "http://homepage3.nifty.com/nk-musashidai-e/"
       },
       "中野区立江原小学校" : {
          "location_area" : "中野区",
@@ -645,19 +693,28 @@
          "short_name" : "沼袋小学校"
       },
       "中野区立白桜小学校" : {
+         "location" : "東京都中野区上高田1-2-28",
          "location_area" : "中野区",
+         "location_zipcode" : "164-0002",
          "owner_type" : "区立",
-         "short_name" : "白桜小学校"
+         "short_name" : "白桜小学校",
+         "sort_name" : "なかのくりつはくおう",
+         "url" : "http://homepage3.nifty.com/nk-hakuo-e/"
       },
       "中野区立若宮小学校" : {
          "location_area" : "中野区",
          "owner_type" : "区立",
-         "short_name" : "若宮小学校"
+         "short_name" : "若宮小学校",
+         "sort_name" : "なかのくわかみや"
       },
       "中野区立西中野小学校" : {
+         "location" : "東京都中野区白鷺3-9-2",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0035",
          "owner_type" : "区立",
-         "short_name" : "西中野小学校"
+         "short_name" : "西中野小学校",
+         "sort_name" : "なかのくりつにしなかの",
+         "url" : "http://homepage3.nifty.com/nk-nishinaka-e/"
       },
       "中野区立谷戸小学校" : {
          "location_area" : "中野区",
@@ -708,9 +765,13 @@
          "short_name" : "としま若葉小学校"
       },
       "北区立なでしこ小学校" : {
+         "location" : "東京都北区志茂1-34-17",
          "location_area" : "北区",
+         "location_zipcode" : "115-0042",
          "owner_type" : "区立",
-         "short_name" : "なでしこ小学校"
+         "short_name" : "なでしこ小学校",
+         "sort_name" : "きたくりつなてしこしようかつこう",
+         "url" : "http://ns.kita-tky.ed.jp/~es18/"
       },
       "北区立八幡小学校" : {
          "location_area" : "北区",
@@ -735,7 +796,8 @@
       "北区立東十条小学校" : {
          "location_area" : "北区",
          "owner_type" : "区立",
-         "short_name" : "東十条小学校"
+         "short_name" : "東十条小学校",
+         "sort_name" : "きたくりつひかししゆうしよう"
       },
       "北区立柳田小学校" : {
          "location_area" : "北区",
@@ -783,9 +845,13 @@
          "short_name" : "滝野川第三小学校"
       },
       "北区立滝野川第二小学校" : {
+         "location" : "東京都北区滝野川6-19-4",
          "location_area" : "北区",
+         "location_zipcode" : "114-0023",
          "owner_type" : "区立",
-         "short_name" : "滝野川第二小学校"
+         "short_name" : "滝野川第二小学校",
+         "sort_name" : "きたくりつたきのかわたいにしよう",
+         "url" : "http://www.kita-tky.ed.jp/~es36/blog/"
       },
       "北区立滝野川第五小学校" : {
          "location_area" : "北区",
@@ -800,12 +866,14 @@
       "北区立滝野川第四小学校" : {
          "location_area" : "北区",
          "owner_type" : "区立",
-         "short_name" : "滝野川第四小学校"
+         "short_name" : "滝野川第四小学校",
+         "sort_name" : "きたくりつたきのかわたいよん"
       },
       "北区立王子小学校" : {
          "location_area" : "北区",
          "owner_type" : "区立",
-         "short_name" : "王子小学校"
+         "short_name" : "王子小学校",
+         "sort_name" : "きたくりつおうし"
       },
       "北区立王子第一小学校" : {
          "location_area" : "北区",
@@ -870,7 +938,8 @@
       "北区立西浮間小学校" : {
          "location_area" : "北区",
          "owner_type" : "区立",
-         "short_name" : "西浮間小学校"
+         "short_name" : "西浮間小学校",
+         "sort_name" : "きたくりつにしうきま"
       },
       "北区立谷端小学校" : {
          "location_area" : "北区",
@@ -895,7 +964,8 @@
       "千代田区立お茶の水小学校" : {
          "location_area" : "千代田区",
          "owner_type" : "区立",
-         "short_name" : "お茶の水小学校"
+         "short_name" : "お茶の水小学校",
+         "sort_name" : "ちよたくりつおちやのみす"
       },
       "千代田区立九段小学校" : {
          "location_area" : "千代田区",
@@ -923,14 +993,20 @@
          "short_name" : "昌平小学校"
       },
       "千代田区立番町小学校" : {
+         "location" : "東京都千代田区六番町8番地",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-0085",
          "owner_type" : "区立",
-         "short_name" : "番町小学校"
+         "short_name" : "番町小学校",
+         "sort_name" : "ちよたくりつはんちよう",
+         "url" : "http://www.chiyodaku-bancho-e.ed.jp/"
       },
       "千代田区立麹町小学校" : {
+         "location" : "東京都千代田区麹町2丁目",
          "location_area" : "千代田区",
          "owner_type" : "区立",
-         "short_name" : "麹町小学校"
+         "short_name" : "麹町小学校",
+         "sort_name" : "ちよたくりつこうしまち"
       },
       "台東区立上野小学校" : {
          "location_area" : "台東区",
@@ -955,7 +1031,8 @@
       "台東区立富士小学校" : {
          "location_area" : "台東区",
          "owner_type" : "区立",
-         "short_name" : "富士小学校"
+         "short_name" : "富士小学校",
+         "sort_name" : "たいとうくりつふししようかつこう"
       },
       "台東区立平成小学校" : {
          "location_area" : "台東区",
@@ -985,7 +1062,8 @@
       "台東区立根岸小学校" : {
          "location_area" : "台東区",
          "owner_type" : "区立",
-         "short_name" : "根岸小学校"
+         "short_name" : "根岸小学校",
+         "sort_name" : "たいとうくりつねきし"
       },
       "台東区立浅草小学校" : {
          "location_area" : "台東区",
@@ -1005,7 +1083,8 @@
       "台東区立蔵前小学校" : {
          "location_area" : "台東区",
          "owner_type" : "区立",
-         "short_name" : "蔵前小学校"
+         "short_name" : "蔵前小学校",
+         "sort_name" : "たいとうくりつくらまえしようかつこう"
       },
       "台東区立谷中小学校" : {
          "location_area" : "台東区",
@@ -1025,7 +1104,8 @@
       "台東区立黒門小学校" : {
          "location_area" : "台東区",
          "owner_type" : "区立",
-         "short_name" : "黒門小学校"
+         "short_name" : "黒門小学校",
+         "sort_name" : "たいとうくりつくろもん"
       },
       "和光小学校" : {
          "location_area" : "世田谷区",
@@ -1042,9 +1122,13 @@
          "short_name" : "三木小学校"
       },
       "品川区立上神明小学校" : {
+         "location" : "東京都品川区二葉4-4-10",
          "location_area" : "品川区",
+         "location_zipcode" : "142-0043",
          "owner_type" : "区立",
-         "short_name" : "上神明小学校"
+         "short_name" : "上神明小学校",
+         "sort_name" : "しなかわくりつかみしんめいしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~kamishin/"
       },
       "品川区立中延小学校" : {
          "location_area" : "品川区",
@@ -1057,19 +1141,31 @@
          "short_name" : "京陽小学校"
       },
       "品川区立伊藤小学校" : {
+         "location" : "東京都品川区西大井5-6-8",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0015",
          "owner_type" : "区立",
-         "short_name" : "伊藤小学校"
+         "short_name" : "伊藤小学校",
+         "sort_name" : "しなかわくりついとうしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~ito-e/"
       },
       "品川区立台場小学校" : {
+         "location" : "東京都品川区東品川一丁目8番3号",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0002",
          "owner_type" : "区立",
-         "short_name" : "台場小学校"
+         "short_name" : "台場小学校",
+         "sort_name" : "しなかわくりつたいはしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~daiba/"
       },
       "品川区立品川小学校" : {
+         "location" : "東京都品川区北品川3-9-30",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0001",
          "owner_type" : "区立",
-         "short_name" : "品川小学校"
+         "short_name" : "品川小学校",
+         "sort_name" : "しなかわくりつしなかわしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~shina/"
       },
       "品川区立城南小学校" : {
          "location_area" : "品川区",
@@ -1077,9 +1173,13 @@
          "short_name" : "城南小学校"
       },
       "品川区立城南第二小学校" : {
+         "location" : "東京都品川区東品川三丁目4番5号",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0002",
          "owner_type" : "区立",
-         "short_name" : "城南第二小学校"
+         "short_name" : "城南第二小学校",
+         "sort_name" : "しなかわくりつじょうなんだいにしょうがっこう",
+         "url" : "http://www1.cts.ne.jp/~jyonan2/index.html"
       },
       "品川区立大井第一小学校" : {
          "location_area" : "品川区",
@@ -1142,9 +1242,13 @@
          "short_name" : "戸越小学校"
       },
       "品川区立旗台小学校" : {
+         "location" : "東京都品川区旗の台4-7-11",
          "location_area" : "品川区",
+         "location_zipcode" : "142-0064",
          "owner_type" : "区立",
-         "short_name" : "旗台小学校"
+         "short_name" : "旗台小学校",
+         "sort_name" : "しなかわくりつはたのたいしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~hatano/"
       },
       "品川区立杜松小学校" : {
          "location_area" : "品川区",
@@ -1182,9 +1286,12 @@
          "short_name" : "第一日野小学校"
       },
       "品川区立第三日野小学校" : {
+         "location" : "東京都品川区上大崎1丁目19番19号",
          "location_area" : "品川区",
+         "location_zipcode" : "141-0021",
          "owner_type" : "区立",
-         "short_name" : "第三日野小学校"
+         "short_name" : "第三日野小学校",
+         "sort_name" : "しなかわくりつたいさんしようかつこう"
       },
       "品川区立第二延山小学校" : {
          "location_area" : "品川区",
@@ -1192,9 +1299,13 @@
          "short_name" : "第二延山小学校"
       },
       "品川区立第四日野小学校" : {
+         "location" : "東京都品川区西五反田四丁目29番9号",
          "location_area" : "品川区",
+         "location_zipcode" : "141-0031",
          "owner_type" : "区立",
-         "short_name" : "第四日野小学校"
+         "short_name" : "第四日野小学校",
+         "sort_name" : "しなかわくりつたいよんひのしようかつこう",
+         "url" : "http://www1.cts.ne.jp/~hino4/"
       },
       "品川区立芳水小学校" : {
          "location_area" : "品川区",
@@ -1266,7 +1377,8 @@
       },
       "国立学園小学校" : {
          "location_area" : "国立市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "くにたちかくえん"
       },
       "国立市立国立第一小学校" : {
          "location_area" : "国立市",
@@ -1320,9 +1432,13 @@
          "short_name" : "中川小学校"
       },
       "墨田区立二葉小学校" : {
+         "location" : "東京都墨田区石原2丁目1-5",
          "location_area" : "墨田区",
+         "location_zipcode" : "130-0011",
          "owner_type" : "区立",
-         "short_name" : "二葉小学校"
+         "short_name" : "二葉小学校",
+         "sort_name" : "すみたくりつふたは",
+         "url" : "http://members2.jcom.home.ne.jp/futabasho-sumida/"
       },
       "墨田区立八広小学校" : {
          "location_area" : "墨田区",
@@ -1347,7 +1463,8 @@
       "墨田区立押上小学校" : {
          "location_area" : "墨田区",
          "owner_type" : "区立",
-         "short_name" : "押上小学校"
+         "short_name" : "押上小学校",
+         "sort_name" : "すみたくりつおしあけ"
       },
       "墨田区立曳舟小学校" : {
          "location_area" : "墨田区",
@@ -1412,7 +1529,8 @@
       "墨田区立緑小学校" : {
          "location_area" : "墨田区",
          "owner_type" : "区立",
-         "short_name" : "緑小学校"
+         "short_name" : "緑小学校",
+         "sort_name" : "すみたくりつみとり"
       },
       "墨田区立菊川小学校" : {
          "location_area" : "墨田区",
@@ -1562,9 +1680,13 @@
          "short_name" : "久原小学校"
       },
       "大田区立仲六郷小学校" : {
+         "location" : "東京都大田区仲六郷1丁目26番1号",
          "location_area" : "大田区",
+         "location_zipcode" : "144-0055",
          "owner_type" : "区立",
-         "short_name" : "仲六郷小学校"
+         "short_name" : "仲六郷小学校",
+         "sort_name" : "おおたくりつなかろくこう",
+         "url" : "http://homepage3.nifty.com/nakaroku/"
       },
       "大田区立入新井第一小学校" : {
          "location_area" : "大田区",
@@ -1662,14 +1784,19 @@
          "short_name" : "小池小学校"
       },
       "大田区立山王小学校" : {
+         "location" : "東京都大田区山王1-26-33",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0043",
          "owner_type" : "区立",
-         "short_name" : "山王小学校"
+         "short_name" : "山王小学校",
+         "sort_name" : "おおたくりつさんのう",
+         "url" : "http://homepage3.nifty.com/sanno-e/"
       },
       "大田区立嶺町小学校" : {
          "location_area" : "大田区",
          "owner_type" : "区立",
-         "short_name" : "嶺町小学校"
+         "short_name" : "嶺町小学校",
+         "sort_name" : "おおたくりつみねまち"
       },
       "大田区立徳持小学校" : {
          "location_area" : "大田区",
@@ -1682,9 +1809,13 @@
          "short_name" : "志茂田小学校"
       },
       "大田区立新宿小学校" : {
+         "location" : "東京都大田区蒲田本町1-5-1",
          "location_area" : "大田区",
+         "location_zipcode" : "144-0053",
          "owner_type" : "区立",
-         "short_name" : "新宿小学校"
+         "short_name" : "新宿小学校",
+         "sort_name" : "おおたくりつしんしゆく",
+         "url" : "http://homepage3.nifty.com/shinshuku/"
       },
       "大田区立東六郷小学校" : {
          "location_area" : "大田区",
@@ -1717,9 +1848,13 @@
          "short_name" : "松仙小学校"
       },
       "大田区立梅田小学校" : {
+         "location" : "東京都大田区南馬込6丁目6番1号",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0025",
          "owner_type" : "区立",
-         "short_name" : "梅田小学校"
+         "short_name" : "梅田小学校",
+         "sort_name" : "おおたくりつうめた",
+         "url" : "http://homepage3.nifty.com/umeda/"
       },
       "大田区立池上小学校" : {
          "location_area" : "大田区",
@@ -1737,9 +1872,13 @@
          "short_name" : "池雪小学校"
       },
       "大田区立洗足池小学校" : {
+         "location" : "東京都大田区3丁目35番2号",
          "location_area" : "大田区",
+         "location_zipcode" : "145-0063",
          "owner_type" : "区立",
-         "short_name" : "洗足池小学校"
+         "short_name" : "洗足池小学校",
+         "sort_name" : "おおたくりつせんそくいけ",
+         "url" : "http://academic2.plala.or.jp/snzke/"
       },
       "大田区立清水窪小学校" : {
          "location_area" : "大田区",
@@ -1754,7 +1893,8 @@
       "大田区立相生小学校" : {
          "location_area" : "大田区",
          "owner_type" : "区立",
-         "short_name" : "相生小学校"
+         "short_name" : "相生小学校",
+         "sort_name" : "おおたくりつあいおい"
       },
       "大田区立矢口小学校" : {
          "location_area" : "大田区",
@@ -1832,9 +1972,13 @@
          "short_name" : "雪谷小学校"
       },
       "大田区立馬込小学校" : {
+         "location" : "東京都大田区南馬込1丁目34番1号",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0025",
          "owner_type" : "区立",
-         "short_name" : "馬込小学校"
+         "short_name" : "馬込小学校",
+         "sort_name" : "おおたくりつまこめ",
+         "url" : "http://homepage3.nifty.com/magome/"
       },
       "大田区立馬込第三小学校" : {
          "location_area" : "大田区",
@@ -1842,9 +1986,13 @@
          "short_name" : "馬込第三小学校"
       },
       "大田区立馬込第二小学校" : {
+         "location" : "東京都大田区南馬込3丁目10番1号",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0025",
          "owner_type" : "区立",
-         "short_name" : "馬込第二小学校"
+         "short_name" : "馬込第二小学校",
+         "sort_name" : "おおたくりつまこめたいに",
+         "url" : "http://homepage3.nifty.com/umanisyou/"
       },
       "大田区立高畑小学校" : {
          "location_area" : "大田区",
@@ -1862,12 +2010,17 @@
          "short_name" : "古里小学校"
       },
       "学習院初等科" : {
+         "location" : "東京都新宿区若葉一丁目23番地1",
          "location_area" : "新宿区",
-         "owner_type" : "私立"
+         "location_zipcode" : "160-0011",
+         "owner_type" : "私立",
+         "sort_name" : "かくしゆういんしよとうか",
+         "url" : "http://www.gakushuin.ac.jp/prim/"
       },
       "宝仙学園小学校" : {
          "location_area" : "中野区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ほうせんかくえんしようかつこう"
       },
       "小平市立上宿小学校" : {
          "location_area" : "小平市",
@@ -1907,7 +2060,8 @@
       "小平市立第五小学校" : {
          "location_area" : "小平市",
          "owner_type" : "市立",
-         "short_name" : "第五小学校"
+         "short_name" : "第五小学校",
+         "sort_name" : "こたいらくりつたいこ"
       },
       "小平市立第八小学校" : {
          "location_area" : "小平市",
@@ -1952,7 +2106,8 @@
       "小平市立第四小学校" : {
          "location_area" : "小平市",
          "owner_type" : "市立",
-         "short_name" : "第四小学校"
+         "short_name" : "第四小学校",
+         "sort_name" : "こたいらしりつたいよん"
       },
       "小平市立花小金井小学校" : {
          "location_area" : "小平市",
@@ -1960,9 +2115,13 @@
          "short_name" : "花小金井小学校"
       },
       "小平市立鈴木小学校" : {
+         "location" : "東京都小平市鈴木町1-450",
          "location_area" : "小平市",
+         "location_zipcode" : "187-0011",
          "owner_type" : "市立",
-         "short_name" : "鈴木小学校"
+         "short_name" : "鈴木小学校",
+         "sort_name" : "こたいらしりつすすきしよう",
+         "url" : "http://www.kodaira.ed.jp/18kodaira/index.html"
       },
       "小笠原村立小笠原小学校" : {
          "owner_type" : "村立",
@@ -2027,7 +2186,8 @@
       },
       "帝京大学小学校" : {
          "location_area" : "多摩市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ていきようたいかくしようかつこう"
       },
       "府中市立住吉小学校" : {
          "location_area" : "府中市",
@@ -2055,9 +2215,13 @@
          "short_name" : "小柳小学校"
       },
       "府中市立府中第一小学校" : {
+         "location" : "東京都府中市寿町2丁目6番地",
          "location_area" : "府中市",
+         "location_zipcode" : "183-0056",
          "owner_type" : "市立",
-         "short_name" : "府中第一小学校"
+         "short_name" : "府中第一小学校",
+         "sort_name" : "ふちゆうしりつふちゆう",
+         "url" : "http://www.fuchu01s.fuchu-tokyo.ed.jp/"
       },
       "府中市立府中第七小学校" : {
          "location_area" : "府中市",
@@ -2153,12 +2317,14 @@
       },
       "成蹊小学校" : {
          "location_area" : "武蔵野市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "せいけいしようかつこう"
       },
       "文京区立千駄木小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "千駄木小学校"
+         "short_name" : "千駄木小学校",
+         "sort_name" : "ふんきようくりつせんたき"
       },
       "文京区立大塚小学校" : {
          "location_area" : "文京区",
@@ -2168,12 +2334,14 @@
       "文京区立小日向台町小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "小日向台町小学校"
+         "short_name" : "小日向台町小学校",
+         "sort_name" : "ふんきようくりつこひなたたいまち"
       },
       "文京区立指ケ谷小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "指ケ谷小学校"
+         "short_name" : "指ケ谷小学校",
+         "sort_name" : "ふんきようくりつさすかや"
       },
       "文京区立明化小学校" : {
          "location_area" : "文京区",
@@ -2188,7 +2356,8 @@
       "文京区立本郷小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "本郷小学校"
+         "short_name" : "本郷小学校",
+         "sort_name" : "ふんきようくりつほんこう"
       },
       "文京区立林町小学校" : {
          "location_area" : "文京区",
@@ -2213,22 +2382,29 @@
       "文京区立湯島小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "湯島小学校"
+         "short_name" : "湯島小学校",
+         "sort_name" : "ふんきようくりつゆしましようかつこう"
       },
       "文京区立礫川小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "礫川小学校"
+         "short_name" : "礫川小学校",
+         "sort_name" : "ふんきようくりつれきせんしようかつこう"
       },
       "文京区立窪町小学校" : {
+         "location" : "東京都文京区大塚3-2-3",
          "location_area" : "文京区",
+         "location_zipcode" : "112-0012",
          "owner_type" : "区立",
-         "short_name" : "窪町小学校"
+         "short_name" : "窪町小学校",
+         "sort_name" : "ふんきようくりつくほまちしよう",
+         "url" : "http://www1.tcn-catv.ne.jp/kubomachi-ps/"
       },
       "文京区立誠之小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "誠之小学校"
+         "short_name" : "誠之小学校",
+         "sort_name" : "ふんきようくりつせいし"
       },
       "文京区立金富小学校" : {
          "location_area" : "文京区",
@@ -2238,7 +2414,8 @@
       "文京区立関口台町小学校" : {
          "location_area" : "文京区",
          "owner_type" : "区立",
-         "short_name" : "関口台町小学校"
+         "short_name" : "関口台町小学校",
+         "sort_name" : "ふんきようくりつせきくちたいまち"
       },
       "文京区立青柳小学校" : {
          "location_area" : "文京区",
@@ -2257,7 +2434,8 @@
       },
       "文教大学付属小学校" : {
          "location_area" : "杉並区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ふんきようたいかくふそく"
       },
       "新宿区立余丁町小学校" : {
          "location_area" : "新宿区",
@@ -2267,7 +2445,8 @@
       "新宿区立四谷小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "四谷小学校"
+         "short_name" : "四谷小学校",
+         "sort_name" : "しんしゆくくりつよつや"
       },
       "新宿区立四谷第六小学校" : {
          "location_area" : "新宿区",
@@ -2292,12 +2471,14 @@
       "新宿区立市谷小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "市谷小学校"
+         "short_name" : "市谷小学校",
+         "sort_name" : "しんしゆくくりついちかや"
       },
       "新宿区立愛日小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "愛日小学校"
+         "short_name" : "愛日小学校",
+         "sort_name" : "しんしゆくくりつあいしつ"
       },
       "新宿区立戸塚第一小学校" : {
          "location_area" : "新宿区",
@@ -2312,7 +2493,8 @@
       "新宿区立戸塚第二小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "戸塚第二小学校"
+         "short_name" : "戸塚第二小学校",
+         "sort_name" : "しんしゆくくりつとつかたいに"
       },
       "新宿区立戸山小学校" : {
          "location_area" : "新宿区",
@@ -2342,7 +2524,8 @@
       "新宿区立津久戸小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "津久戸小学校"
+         "short_name" : "津久戸小学校",
+         "sort_name" : "しんしゆくくりつつくと"
       },
       "新宿区立淀橋第四小学校" : {
          "location_area" : "新宿区",
@@ -2397,7 +2580,8 @@
       "新宿区立西新宿小学校" : {
          "location_area" : "新宿区",
          "owner_type" : "区立",
-         "short_name" : "西新宿小学校"
+         "short_name" : "西新宿小学校",
+         "sort_name" : "しんしゆくくりつにししんしゆく"
       },
       "新宿区立鶴巻小学校" : {
          "location_area" : "新宿区",
@@ -2428,8 +2612,12 @@
          "short_name" : "本宿小学校"
       },
       "日本女子大学附属豊明小学校" : {
+         "location" : "東京都文京区目白台1-16-7",
          "location_area" : "文京区",
-         "owner_type" : "私立"
+         "location_zipcode" : "112-8681",
+         "owner_type" : "私立",
+         "sort_name" : "にほんしよしたいかくふそくほうめいしよう",
+         "url" : "http://www.jwu.ac.jp/elm.html"
       },
       "日野市立七生緑小学校" : {
          "location_area" : "日野市",
@@ -2526,11 +2714,16 @@
       },
       "明星小学校" : {
          "location_area" : "府中市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "めいせいしようかつこう"
       },
       "星美学園小学校" : {
+         "location" : "東京都北区赤羽台四丁目2番14号",
          "location_area" : "北区",
-         "owner_type" : "私立"
+         "location_zipcode" : "115-8524",
+         "owner_type" : "私立",
+         "sort_name" : "せいひかくえんしよう",
+         "url" : "http://www.el.seibi.ac.jp/"
       },
       "昭和女子大学附属昭和小学校" : {
          "location_area" : "世田谷区",
@@ -2557,9 +2750,13 @@
          "short_name" : "光華小学校"
       },
       "昭島市立共成小学校" : {
+         "location" : "東京都昭島市郷地町二丁目6番1号",
          "location_area" : "昭島市",
+         "location_zipcode" : "196-0032",
          "owner_type" : "市立",
-         "short_name" : "共成小学校"
+         "short_name" : "共成小学校",
+         "sort_name" : "あきしましりつきようせいしよう",
+         "url" : "http://www.city.akishima.ed.jp/~kyosei/"
       },
       "昭島市立富士見丘小学校" : {
          "location_area" : "昭島市",
@@ -2616,8 +2813,12 @@
          "owner_type" : "私立"
       },
       "暁星小学校" : {
+         "location" : "東京都千代田区富士見一丁目1番13号",
          "location_area" : "千代田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "102-0071",
+         "owner_type" : "私立",
+         "sort_name" : "きようせいしよう",
+         "url" : "http://www.gyosei-e.ed.jp/"
       },
       "杉並区立三谷小学校" : {
          "location_area" : "杉並区",
@@ -2727,12 +2928,14 @@
       "杉並区立杉並第四小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "区立",
-         "short_name" : "杉並第四小学校"
+         "short_name" : "杉並第四小学校",
+         "sort_name" : "すきなみくりつすきなみたいよん"
       },
       "杉並区立東田小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "区立",
-         "short_name" : "東田小学校"
+         "short_name" : "東田小学校",
+         "sort_name" : "すきなみくりつひかしたしようかつこう"
       },
       "杉並区立松ノ木小学校" : {
          "location_area" : "杉並区",
@@ -2802,7 +3005,8 @@
       "杉並区立西田小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "区立",
-         "short_name" : "西田小学校"
+         "short_name" : "西田小学校",
+         "sort_name" : "すきなみくりつにした"
       },
       "杉並区立馬橋小学校" : {
          "location_area" : "杉並区",
@@ -2812,7 +3016,8 @@
       "杉並区立高井戸小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "区立",
-         "short_name" : "高井戸小学校"
+         "short_name" : "高井戸小学校",
+         "sort_name" : "すきなみくりつたかいと"
       },
       "杉並区立高井戸東小学校" : {
          "location_area" : "杉並区",
@@ -2832,7 +3037,8 @@
       "杉並区立高井戸第四小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "区立",
-         "short_name" : "高井戸第四小学校"
+         "short_name" : "高井戸第四小学校",
+         "sort_name" : "すきなみくりつたかいとたいよん"
       },
       "東久留米市立下里小学校" : {
          "location_area" : "東久留米市",
@@ -2855,9 +3061,13 @@
          "short_name" : "本村小学校"
       },
       "東久留米市立神宝小学校" : {
+         "location" : "東京都東久留米市神宝町1-6-7",
          "location_area" : "東久留米市",
+         "location_zipcode" : "203-0002",
          "owner_type" : "市立",
-         "short_name" : "神宝小学校"
+         "short_name" : "神宝小学校",
+         "sort_name" : "ひかしくるめしりつしんほう",
+         "url" : "http://members2.jcom.home.ne.jp/shinho-e/"
       },
       "東久留米市立第一小学校" : {
          "location_area" : "東久留米市",
@@ -2910,31 +3120,44 @@
       },
       "東京創価小学校" : {
          "location_area" : "小平市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "とうきようそうかしようかつこう"
       },
       "東京女学館小学校" : {
+         "location" : "東京都渋谷区広尾3-7-16",
          "location_area" : "渋谷区",
-         "owner_type" : "私立"
+         "location_zipcode" : "150-0012",
+         "owner_type" : "私立",
+         "sort_name" : "とうきようしよかつかんしよう",
+         "url" : "http://www.tjk.jp/p/"
       },
       "東京学芸大学附属世田谷小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくせたかやしよう"
       },
       "東京学芸大学附属大泉小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくおおいすみしよう"
       },
       "東京学芸大学附属小金井小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくこかねいしよう"
       },
       "東京学芸大学附属竹早小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくたけはやしよう"
       },
       "東京文化小学校" : {
          "location_area" : "杉並区",
          "owner_type" : "私立"
       },
       "東京都市大学付属小学校" : {
+         "location" : "東京都世田谷区成城1丁目12番1号",
          "location_area" : "世田谷区",
-         "owner_type" : "私立"
+         "location_zipcode" : "174-8588",
+         "owner_type" : "私立",
+         "sort_name" : "とうきようとしたいかくふそくしよう",
+         "url" : "http://www.tcu-elementary.ed.jp/"
       },
       "東大和市立第一小学校" : {
          "location_area" : "東大和市",
@@ -3077,7 +3300,8 @@
       "板橋区立上板橋小学校" : {
          "location_area" : "板橋区",
          "owner_type" : "区立",
-         "short_name" : "上板橋小学校"
+         "short_name" : "上板橋小学校",
+         "sort_name" : "いたはしくりつかみいたはし"
       },
       "板橋区立上板橋第二小学校" : {
          "location_area" : "板橋区",
@@ -3142,7 +3366,8 @@
       "板橋区立富士見台小学校" : {
          "location_area" : "板橋区",
          "owner_type" : "区立",
-         "short_name" : "富士見台小学校"
+         "short_name" : "富士見台小学校",
+         "sort_name" : "いたはしくりつふしみたい"
       },
       "板橋区立常盤台小学校" : {
          "location_area" : "板橋区",
@@ -3277,7 +3502,8 @@
       "板橋区立舟渡小学校" : {
          "location_area" : "板橋区",
          "owner_type" : "区立",
-         "short_name" : "舟渡小学校"
+         "short_name" : "舟渡小学校",
+         "sort_name" : "いたはしくりつふなと"
       },
       "板橋区立若木小学校" : {
          "location_area" : "板橋区",
@@ -3336,11 +3562,13 @@
       },
       "桐朋学園小学校" : {
          "location_area" : "国立市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "とうほうかくえんしようかつこう"
       },
       "桐朋小学校" : {
          "location_area" : "調布市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "とうほうしようかつこう"
       },
       "檜原村立檜原小学校" : {
          "location_area" : "西多摩郡檜原村",
@@ -3398,29 +3626,49 @@
          "short_name" : "井之頭小学校"
       },
       "武蔵野市立千川小学校" : {
+         "location" : "東京都武蔵野市八幡町3-5-25",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0011",
          "owner_type" : "市立",
-         "short_name" : "千川小学校"
+         "short_name" : "千川小学校",
+         "sort_name" : "むさしのしりつせんかわしよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou012/"
       },
       "武蔵野市立境南小学校" : {
+         "location" : "東京都武蔵野市境南町2-27-27",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0023",
          "owner_type" : "市立",
-         "short_name" : "境南小学校"
+         "short_name" : "境南小学校",
+         "sort_name" : "むさしのしりつきようなんしよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou010/index.html"
       },
       "武蔵野市立大野田小学校" : {
+         "location" : "東京都武蔵野市吉祥寺北町4-11-37",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0001",
          "owner_type" : "市立",
-         "short_name" : "大野田小学校"
+         "short_name" : "大野田小学校",
+         "sort_name" : "むさしのしりつおおのてんしよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou007/index.html"
       },
       "武蔵野市立本宿小学校" : {
+         "location" : "東京都武蔵野市吉祥寺東町4-1-9",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0002",
          "owner_type" : "市立",
-         "short_name" : "本宿小学校"
+         "short_name" : "本宿小学校",
+         "sort_name" : "むさしのしりつほんしゆくしよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou006/"
       },
       "武蔵野市立桜野小学校" : {
+         "location" : "東京都武蔵野市桜堤1-18-19",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0021",
          "owner_type" : "市立",
-         "short_name" : "桜野小学校"
+         "short_name" : "桜野小学校",
+         "sort_name" : "むさしのしりつさくらのしよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou011/index.html"
       },
       "武蔵野市立第一小学校" : {
          "location_area" : "武蔵野市",
@@ -3428,9 +3676,13 @@
          "short_name" : "第一小学校"
       },
       "武蔵野市立第三小学校" : {
+         "location" : "東京都武蔵野市吉祥寺南町2-35-9",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0003",
          "owner_type" : "市立",
-         "short_name" : "第三小学校"
+         "short_name" : "第三小学校",
+         "sort_name" : "むさしのしりつたい3しよう",
+         "url" : "http://www.musashino-city.ed.jp/~gakkou003/index.html"
       },
       "武蔵野市立第二小学校" : {
          "location_area" : "武蔵野市",
@@ -3627,9 +3879,13 @@
          "short_name" : "平井西小学校"
       },
       "江戸川区立新堀小学校" : {
+         "location" : "東京都江戸川区新堀1-32-1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "132-0001",
          "owner_type" : "区立",
-         "short_name" : "新堀小学校"
+         "short_name" : "新堀小学校",
+         "sort_name" : "えとかわくりつにいほり",
+         "url" : "http://www.edogawaku.ed.jp/niihoris/"
       },
       "江戸川区立新田小学校" : {
          "location_area" : "江戸川区",
@@ -3659,7 +3915,8 @@
       "江戸川区立東葛西小学校" : {
          "location_area" : "江戸川区",
          "owner_type" : "区立",
-         "short_name" : "東葛西小学校"
+         "short_name" : "東葛西小学校",
+         "sort_name" : "えとかわくりつひかしかさい"
       },
       "江戸川区立松本小学校" : {
          "location_area" : "江戸川区",
@@ -3714,7 +3971,8 @@
       "江戸川区立第二松江小学校" : {
          "location_area" : "江戸川区",
          "owner_type" : "区立",
-         "short_name" : "第二松江小学校"
+         "short_name" : "第二松江小学校",
+         "sort_name" : "えとかわくりつたいにまつえ"
       },
       "江戸川区立第二葛西小学校" : {
          "location_area" : "江戸川区",
@@ -3767,9 +4025,13 @@
          "short_name" : "臨海小学校"
       },
       "江戸川区立船堀小学校" : {
+         "location" : "東京都江戸川区船堀二丁目22番22号",
          "location_area" : "江戸川区",
+         "location_zipcode" : "134-0091",
          "owner_type" : "区立",
-         "short_name" : "船堀小学校"
+         "short_name" : "船堀小学校",
+         "sort_name" : "えとかわくりつふなほりしよう",
+         "url" : "http://www.edogawaku.ed.jp/funaboris/"
       },
       "江戸川区立船堀第二小学校" : {
          "location_area" : "江戸川区",
@@ -3789,7 +4051,8 @@
       "江戸川区立西小岩小学校" : {
          "location_area" : "江戸川区",
          "owner_type" : "区立",
-         "short_name" : "西小岩小学校"
+         "short_name" : "西小岩小学校",
+         "sort_name" : "えとかわくりつにしこいわいしようかつこう"
       },
       "江戸川区立西小松川小学校" : {
          "location_area" : "江戸川区",
@@ -3827,9 +4090,13 @@
          "short_name" : "亀高小学校"
       },
       "江東区立元加賀小学校" : {
+         "location" : "東京都江東区白河4-3-19",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0021",
          "owner_type" : "区立",
-         "short_name" : "元加賀小学校"
+         "short_name" : "元加賀小学校",
+         "sort_name" : "こうとうくりつもとかかしようかつこう",
+         "url" : "http://www.koto.ed.jp/motokaga-sho/"
       },
       "江東区立八名川小学校" : {
          "location_area" : "江東区",
@@ -3872,9 +4139,13 @@
          "short_name" : "川南小学校"
       },
       "江東区立平久小学校" : {
+         "location" : "東京都江東区木場1-2-2",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0042",
          "owner_type" : "区立",
-         "short_name" : "平久小学校"
+         "short_name" : "平久小学校",
+         "sort_name" : "こうとうくりつへいきゆうしようかつこう",
+         "url" : "http://www.koto.ed.jp/heikyu-sho/"
       },
       "江東区立扇橋小学校" : {
          "location_area" : "江東区",
@@ -3882,14 +4153,22 @@
          "short_name" : "扇橋小学校"
       },
       "江東区立数矢小学校" : {
+         "location" : "東京都江東区富岡1-18-7",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0047",
          "owner_type" : "区立",
-         "short_name" : "数矢小学校"
+         "short_name" : "数矢小学校",
+         "sort_name" : "こうとうくりつかすやしようかつこう",
+         "url" : "http://www.koto.ed.jp/kazuya-sho/"
       },
       "江東区立明治小学校" : {
+         "location" : "東京都江東区深川2-17-26",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0033",
          "owner_type" : "区立",
-         "short_name" : "明治小学校"
+         "short_name" : "明治小学校",
+         "sort_name" : "こうとうくりつめいし",
+         "url" : "http://www.koto.ed.jp/meiji-sho/"
       },
       "江東区立東川小学校" : {
          "location_area" : "江東区",
@@ -3922,9 +4201,13 @@
          "short_name" : "毛利小学校"
       },
       "江東区立水神小学校" : {
+         "location" : "東京都江東区亀戸五丁目22-22",
          "location_area" : "江東区",
+         "location_zipcode" : "136-0071",
          "owner_type" : "区立",
-         "short_name" : "水神小学校"
+         "short_name" : "水神小学校",
+         "sort_name" : "こうとうくりつすいしん",
+         "url" : "http://www.koto.ed.jp/suijin-sho/"
       },
       "江東区立浅間竪川小学校" : {
          "location_area" : "江東区",
@@ -4012,24 +4295,37 @@
          "short_name" : "第四砂町小学校"
       },
       "江東区立臨海小学校" : {
+         "location" : "東京都江東区門前仲町1-1-6",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0048",
          "owner_type" : "区立",
-         "short_name" : "臨海小学校"
+         "short_name" : "臨海小学校",
+         "sort_name" : "こうとうくりつりんかいしようかつこう",
+         "url" : "http://www.koto.ed.jp/rinkai-sho/"
       },
       "江東区立豊洲北小学校" : {
+         "location" : "東京都江東区豊洲3-6ー1",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0061",
          "owner_type" : "区立",
-         "short_name" : "豊洲北小学校"
+         "short_name" : "豊洲北小学校",
+         "sort_name" : "こうとうくりつとよすきたしよう",
+         "url" : "http://www.koto.ed.jp/toyosukita-sho/"
       },
       "江東区立豊洲小学校" : {
          "location_area" : "江東区",
          "owner_type" : "区立",
-         "short_name" : "豊洲小学校"
+         "short_name" : "豊洲小学校",
+         "sort_name" : "こうとうくりつとよす"
       },
       "江東区立越中島小学校" : {
+         "location" : "東京都江東区越中島3-6-38",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0044",
          "owner_type" : "区立",
-         "short_name" : "越中島小学校"
+         "short_name" : "越中島小学校",
+         "sort_name" : "こうとうくりつえつちゆうしましようかつこう",
+         "url" : "http://www.koto.ed.jp/ecchujima-sho/"
       },
       "江東区立辰巳小学校" : {
          "location_area" : "江東区",
@@ -4042,8 +4338,12 @@
          "short_name" : "香取小学校"
       },
       "淑徳小学校" : {
+         "location" : "東京都板橋区前野町5丁目14番1号",
          "location_area" : "板橋区",
-         "owner_type" : "私立"
+         "location_zipcode" : "174-8588",
+         "owner_type" : "私立",
+         "sort_name" : "しゆくとくしようかつこう",
+         "url" : "http://www.es.shukutoku.ac.jp/"
       },
       "清明学園初等学校" : {
          "location_area" : "大田区",
@@ -4182,12 +4482,17 @@
       "渋谷区立西原小学校" : {
          "location_area" : "渋谷区",
          "owner_type" : "区立",
-         "short_name" : "西原小学校"
+         "short_name" : "西原小学校",
+         "sort_name" : "しふやくりつにしはら"
       },
       "渋谷区立長谷戸小学校" : {
+         "location" : "東京都渋谷区恵比寿西一丁目23番1号",
          "location_area" : "渋谷区",
+         "location_zipcode" : "150-0021",
          "owner_type" : "区立",
-         "short_name" : "長谷戸小学校"
+         "short_name" : "長谷戸小学校",
+         "sort_name" : "しふやくりつなかやと",
+         "url" : "http://home.f00.itscom.net/nagayato/"
       },
       "渋谷区立鳩森小学校" : {
          "location_area" : "渋谷区",
@@ -4207,17 +4512,20 @@
       "港区立御成門小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "御成門小学校"
+         "short_name" : "御成門小学校",
+         "sort_name" : "みなとくりつおなりもん"
       },
       "港区立御田小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "御田小学校"
+         "short_name" : "御田小学校",
+         "sort_name" : "みなとくりつみた"
       },
       "港区立本村小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "本村小学校"
+         "short_name" : "本村小学校",
+         "sort_name" : "みなとくりつほんむら"
       },
       "港区立東町小学校" : {
          "location_area" : "港区",
@@ -4237,7 +4545,8 @@
       "港区立白金小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "白金小学校"
+         "short_name" : "白金小学校",
+         "sort_name" : "みなとくりつしろかね"
       },
       "港区立神応小学校" : {
          "location_area" : "港区",
@@ -4247,7 +4556,8 @@
       "港区立笄小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "笄小学校"
+         "short_name" : "笄小学校",
+         "sort_name" : "みなとくりつこうかい"
       },
       "港区立芝小学校" : {
          "location_area" : "港区",
@@ -4262,7 +4572,9 @@
       "港区立赤坂小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "赤坂小学校"
+         "short_name" : "赤坂小学校",
+         "sort_name" : "みなとくりつあかさか",
+         "url" : "http://www2.rosenet.ne.jp/~akasaka-e/"
       },
       "港区立赤羽小学校" : {
          "location_area" : "港区",
@@ -4272,17 +4584,20 @@
       "港区立青南小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "青南小学校"
+         "short_name" : "青南小学校",
+         "sort_name" : "みなとくりつせいなん"
       },
       "港区立青山小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "青山小学校"
+         "short_name" : "青山小学校",
+         "sort_name" : "みなとくりつあおやましよう"
       },
       "港区立高輪台小学校" : {
          "location_area" : "港区",
          "owner_type" : "区立",
-         "short_name" : "高輪台小学校"
+         "short_name" : "高輪台小学校",
+         "sort_name" : "みなとくりつたかなわたい"
       },
       "港区立麻布小学校" : {
          "location_area" : "港区",
@@ -4350,8 +4665,12 @@
          "short_name" : "瑞穂第四小学校"
       },
       "田園調布雙葉小学校" : {
+         "location" : "東京都世田谷区玉川田園調布一丁目20番9号",
          "location_area" : "世田谷区",
-         "owner_type" : "私立"
+         "location_zipcode" : "158-8511",
+         "owner_type" : "私立",
+         "sort_name" : "てんえんちようふふたはしよう",
+         "url" : "http://www.denenchofufutaba.ed.jp/"
       },
       "町田市立つくし野小学校" : {
          "location_area" : "町田市",
@@ -4371,7 +4690,8 @@
       "町田市立南つくし野小学校" : {
          "location_area" : "町田市",
          "owner_type" : "市立",
-         "short_name" : "南つくし野小学校"
+         "short_name" : "南つくし野小学校",
+         "sort_name" : "まちたしりつみなみつくしのしよう"
       },
       "町田市立南大谷小学校" : {
          "location_area" : "町田市",
@@ -4575,7 +4895,8 @@
       "目黒区立下目黒小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "下目黒小学校"
+         "short_name" : "下目黒小学校",
+         "sort_name" : "めくろくりつしもめくろ"
       },
       "目黒区立不動小学校" : {
          "location_area" : "目黒区",
@@ -4583,14 +4904,19 @@
          "short_name" : "不動小学校"
       },
       "目黒区立中根小学校" : {
+         "location" : "東京都目黒区緑が丘1丁目1番1号",
          "location_area" : "目黒区",
+         "location_zipcode" : "152-0034",
          "owner_type" : "区立",
-         "short_name" : "中根小学校"
+         "short_name" : "中根小学校",
+         "sort_name" : "めくろくりつなかね",
+         "url" : "http://academic2.plala.or.jp/menkneeh/"
       },
       "目黒区立中目黒小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "中目黒小学校"
+         "short_name" : "中目黒小学校",
+         "sort_name" : "めくろくりつなかめくろ"
       },
       "目黒区立五本木小学校" : {
          "location_area" : "目黒区",
@@ -4600,7 +4926,8 @@
       "目黒区立八雲小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "八雲小学校"
+         "short_name" : "八雲小学校",
+         "sort_name" : "めくろくりつやくも"
       },
       "目黒区立原町小学校" : {
          "location_area" : "目黒区",
@@ -4615,7 +4942,8 @@
       "目黒区立大岡山小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "大岡山小学校"
+         "short_name" : "大岡山小学校",
+         "sort_name" : "めくろくりつおおおかやま"
       },
       "目黒区立宮前小学校" : {
          "location_area" : "目黒区",
@@ -4630,7 +4958,8 @@
       "目黒区立東山小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "東山小学校"
+         "short_name" : "東山小学校",
+         "sort_name" : "めくろくりつひかしやま"
       },
       "目黒区立東根小学校" : {
          "location_area" : "目黒区",
@@ -4638,9 +4967,13 @@
          "short_name" : "東根小学校"
       },
       "目黒区立油面小学校" : {
+         "location" : "東京都目黒区中町1-5-4",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0065",
          "owner_type" : "区立",
-         "short_name" : "油面小学校"
+         "short_name" : "油面小学校",
+         "sort_name" : "めくろくりつあふらめんしよう",
+         "url" : "http://www.meguro.ed.jp/meabmneh/"
       },
       "目黒区立烏森小学校" : {
          "location_area" : "目黒区",
@@ -4655,12 +4988,17 @@
       "目黒区立碑小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "碑小学校"
+         "short_name" : "碑小学校",
+         "sort_name" : "めくろくりついしふみ"
       },
       "目黒区立緑ヶ丘小学校" : {
+         "location" : "目黒区緑が丘2-13-1",
          "location_area" : "目黒区",
+         "location_zipcode" : "152-0034",
          "owner_type" : "区立",
-         "short_name" : "緑ヶ丘小学校"
+         "short_name" : "緑ヶ丘小学校",
+         "sort_name" : "めくろくりつみとりかおか",
+         "url" : "http://academic2.plala.or.jp/memdgkeh/"
       },
       "目黒区立興津健康学園小学校" : {
          "location_area" : "目黒区",
@@ -4670,7 +5008,8 @@
       "目黒区立菅刈小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "菅刈小学校"
+         "short_name" : "菅刈小学校",
+         "sort_name" : "めくろくりつすけかり"
       },
       "目黒区立駒場小学校" : {
          "location_area" : "目黒区",
@@ -4680,11 +5019,16 @@
       "目黒区立鷹番小学校" : {
          "location_area" : "目黒区",
          "owner_type" : "区立",
-         "short_name" : "鷹番小学校"
+         "short_name" : "鷹番小学校",
+         "sort_name" : "めくろくりつたかはん"
       },
       "目黒星美学園小学校" : {
+         "location" : "東京都目黒区碑文谷二丁目17番6号",
          "location_area" : "目黒区",
-         "owner_type" : "私立"
+         "location_zipcode" : "152-0003",
+         "owner_type" : "私立",
+         "sort_name" : "めくろせいひかくえんしよう",
+         "url" : "http://www.meguroseibisho.ed.jp/"
       },
       "神津島村立神津小学校" : {
          "owner_type" : "村立",
@@ -4781,8 +5125,12 @@
          "short_name" : "長峰小学校"
       },
       "立川市立けやき台小学校" : {
+         "location" : "東京都立川市若葉町一丁目13番地の1",
          "location_area" : "立川市",
-         "owner_type" : "市立"
+         "location_zipcode" : "190-0001",
+         "owner_type" : "市立",
+         "sort_name" : "たちかわしりつけやきたい",
+         "url" : "http://www.m-net.ne.jp/~keyakis/"
       },
       "立川市立上砂川小学校" : {
          "location_area" : "立川市",
@@ -4813,8 +5161,12 @@
          "owner_type" : "市立"
       },
       "立川市立第一小学校" : {
+         "location" : "東京都立川市柴崎町二丁目20番3号",
          "location_area" : "立川市",
-         "owner_type" : "市立"
+         "location_zipcode" : "190-0023",
+         "owner_type" : "市立",
+         "sort_name" : "たちかわしりつたい1しよう",
+         "url" : "http://www.m-net.ne.jp/~dai1s/"
       },
       "立川市立第七小学校" : {
          "location_area" : "立川市",
@@ -4837,8 +5189,12 @@
          "owner_type" : "市立"
       },
       "立川市立第八小学校" : {
+         "location" : "東京都立川市幸町2-1-1",
          "location_area" : "立川市",
-         "owner_type" : "市立"
+         "location_zipcode" : "190-0002",
+         "owner_type" : "市立",
+         "sort_name" : "たちかわしりつたいはちしようかつこう",
+         "url" : "http://www.m-net.ne.jp/~dai8s/"
       },
       "立川市立第六小学校" : {
          "location_area" : "立川市",
@@ -4865,11 +5221,16 @@
          "owner_type" : "私立"
       },
       "立教小学校" : {
+         "location" : "東京都豊島区西池袋3-36-26",
          "location_area" : "豊島区",
-         "owner_type" : "私立"
+         "location_zipcode" : "171-0021",
+         "owner_type" : "私立",
+         "sort_name" : "りつきようしようかつこう",
+         "url" : "http://prim.rikkyo.ac.jp/"
       },
       "筑波大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "つくはたいかくふそくしよう"
       },
       "練馬区立上石神井北小学校" : {
          "location_area" : "練馬区",
@@ -4930,7 +5291,8 @@
       "練馬区立光和小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "光和小学校"
+         "short_name" : "光和小学校",
+         "sort_name" : "ねりまくりつこうわ"
       },
       "練馬区立八坂小学校" : {
          "location_area" : "練馬区",
@@ -5000,7 +5362,8 @@
       "練馬区立大泉小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "大泉小学校"
+         "short_name" : "大泉小学校",
+         "sort_name" : "ねりまくりつおおいすみ"
       },
       "練馬区立大泉東小学校" : {
          "location_area" : "練馬区",
@@ -5045,7 +5408,8 @@
       "練馬区立小竹小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "小竹小学校"
+         "short_name" : "小竹小学校",
+         "sort_name" : "ねりまくりつこたけ"
       },
       "練馬区立早宮小学校" : {
          "location_area" : "練馬区",
@@ -5060,7 +5424,8 @@
       "練馬区立旭町小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "旭町小学校"
+         "short_name" : "旭町小学校",
+         "sort_name" : "ねりまくりつあさひちよう"
       },
       "練馬区立春日小学校" : {
          "location_area" : "練馬区",
@@ -5090,17 +5455,23 @@
       "練馬区立石神井台小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "石神井台小学校"
+         "short_name" : "石神井台小学校",
+         "sort_name" : "ねりまくりつしやくしいたい"
       },
       "練馬区立石神井小学校" : {
+         "location" : "東京都練馬区石神井台一丁目1番25号",
          "location_area" : "練馬区",
+         "location_zipcode" : "177-0045",
          "owner_type" : "区立",
-         "short_name" : "石神井小学校"
+         "short_name" : "石神井小学校",
+         "sort_name" : "ねりまくりつしやくしい",
+         "url" : "http://www.shakujii-e.nerima-tky.ed.jp/"
       },
       "練馬区立石神井東小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "石神井東小学校"
+         "short_name" : "石神井東小学校",
+         "sort_name" : "ねりまくりつしやくしいひかし"
       },
       "練馬区立石神井西小学校" : {
          "location_area" : "練馬区",
@@ -5125,7 +5496,8 @@
       "練馬区立練馬第三小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "練馬第三小学校"
+         "short_name" : "練馬第三小学校",
+         "sort_name" : "ねりまくりつねりまだい3しょうがっこう"
       },
       "練馬区立練馬第二小学校" : {
          "location_area" : "練馬区",
@@ -5165,12 +5537,14 @@
       "練馬区立開進第一小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "開進第一小学校"
+         "short_name" : "開進第一小学校",
+         "sort_name" : "ねりまくりつかいしんたい1しよう"
       },
       "練馬区立開進第三小学校" : {
          "location_area" : "練馬区",
          "owner_type" : "区立",
-         "short_name" : "開進第三小学校"
+         "short_name" : "開進第三小学校",
+         "sort_name" : "ねりまくりつかいしんたい3しよう"
       },
       "練馬区立開進第二小学校" : {
          "location_area" : "練馬区",
@@ -5178,9 +5552,13 @@
          "short_name" : "開進第二小学校"
       },
       "練馬区立開進第四小学校" : {
+         "location" : "東京都練馬区羽沢2丁目33番地1号",
          "location_area" : "練馬区",
+         "location_zipcode" : "176-0003",
          "owner_type" : "区立",
-         "short_name" : "開進第四小学校"
+         "short_name" : "開進第四小学校",
+         "sort_name" : "ねりまくりつかいしんたいよんしようかつこう",
+         "url" : "http://www.kaishin4-e.nerima-tky.ed.jp/"
       },
       "練馬区立関町北小学校" : {
          "location_area" : "練馬区",
@@ -5210,7 +5588,8 @@
       "羽村市立松林小学校" : {
          "location_area" : "羽村市",
          "owner_type" : "市立",
-         "short_name" : "松林小学校"
+         "short_name" : "松林小学校",
+         "sort_name" : "はむらしりつしようりん"
       },
       "羽村市立栄小学校" : {
          "location_area" : "羽村市",
@@ -5239,7 +5618,8 @@
       },
       "聖学院小学校" : {
          "location_area" : "北区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "せいかくいんしよう"
       },
       "聖徳学園小学校" : {
          "location_area" : "武蔵野市",
@@ -5370,9 +5750,13 @@
          "short_name" : "第四峡田小学校"
       },
       "荒川区立赤土小学校" : {
+         "location" : "東京都荒川区東尾久二丁目43-9",
          "location_area" : "荒川区",
+         "location_zipcode" : "116-0012",
          "owner_type" : "区立",
-         "short_name" : "赤土小学校"
+         "short_name" : "赤土小学校",
+         "sort_name" : "あらかわくりつあかと",
+         "url" : "http://www.aen.arakawa.tokyo.jp/AKADO-E/"
       },
       "葛飾区立こすげ小学校" : {
          "location_area" : "葛飾区",
@@ -5422,7 +5806,8 @@
       "葛飾区立住吉小学校" : {
          "location_area" : "葛飾区",
          "owner_type" : "区立",
-         "short_name" : "住吉小学校"
+         "short_name" : "住吉小学校",
+         "sort_name" : "かつしかくりつすみよししようかつこう"
       },
       "葛飾区立北野小学校" : {
          "location_area" : "葛飾区",
@@ -5492,7 +5877,8 @@
       "葛飾区立末広小学校" : {
          "location_area" : "葛飾区",
          "owner_type" : "区立",
-         "short_name" : "末広小学校"
+         "short_name" : "末広小学校",
+         "sort_name" : "かつしかくりつすえひろ"
       },
       "葛飾区立本田小学校" : {
          "location_area" : "葛飾区",
@@ -5585,9 +5971,13 @@
          "short_name" : "西亀有小学校"
       },
       "葛飾区立西小菅小学校" : {
+         "location" : "東京都葛飾区小菅1-25-1|",
          "location_area" : "葛飾区",
+         "location_zipcode" : "124-0001",
          "owner_type" : "区立",
-         "short_name" : "西小菅小学校"
+         "short_name" : "西小菅小学校",
+         "sort_name" : "かつしかくりつにしこすけしよう",
+         "url" : "http://www.kyouiku.katsushika.tokyo.jp/eni_kosu/"
       },
       "葛飾区立道上小学校" : {
          "location_area" : "葛飾区",
@@ -5597,7 +5987,8 @@
       "葛飾区立金町小学校" : {
          "location_area" : "葛飾区",
          "owner_type" : "区立",
-         "short_name" : "金町小学校"
+         "short_name" : "金町小学校",
+         "sort_name" : "かつしかくりつかなまち"
       },
       "葛飾区立鎌倉小学校" : {
          "location_area" : "葛飾区",
@@ -5715,14 +6106,22 @@
          "short_name" : "谷戸第二小学校"
       },
       "調布市立上ノ原小学校" : {
+         "location" : "東京都調布市柴崎2-26-1",
          "location_area" : "調布市",
+         "location_zipcode" : "182-0014",
          "owner_type" : "市立",
-         "short_name" : "上ノ原小学校"
+         "short_name" : "上ノ原小学校",
+         "sort_name" : "ちようふしりつうえのはらしよう",
+         "url" : "http://members.jcom.home.ne.jp/uenohara-sho/"
       },
       "調布市立八雲台小学校" : {
+         "location" : "東京都調布市八雲台1-1-1",
          "location_area" : "調布市",
+         "location_zipcode" : "182-0015",
          "owner_type" : "市立",
-         "short_name" : "八雲台小学校"
+         "short_name" : "八雲台小学校",
+         "sort_name" : "ちようふしりつやくもたいしよう",
+         "url" : "http://members.jcom.home.ne.jp/yagumodai-sho/"
       },
       "調布市立北ノ台小学校" : {
          "location_area" : "調布市",
@@ -5750,9 +6149,13 @@
          "short_name" : "布田小学校"
       },
       "調布市立杉森小学校" : {
+         "location" : "東京都調布市染地2-25-4",
          "location_area" : "調布市",
+         "location_zipcode" : "182-0023",
          "owner_type" : "市立",
-         "short_name" : "杉森小学校"
+         "short_name" : "杉森小学校",
+         "sort_name" : "ちようふしりつすきもりしよう",
+         "url" : "http://members.jcom.home.ne.jp/sugimori-sho/"
       },
       "調布市立柏野小学校" : {
          "location_area" : "調布市",
@@ -5777,7 +6180,8 @@
       "調布市立石原小学校" : {
          "location_area" : "調布市",
          "owner_type" : "市立",
-         "short_name" : "石原小学校"
+         "short_name" : "石原小学校",
+         "sort_name" : "ちようふしりついしわら"
       },
       "調布市立第一小学校" : {
          "location_area" : "調布市",
@@ -5795,9 +6199,13 @@
          "short_name" : "第二小学校"
       },
       "調布市立緑ヶ丘小学校" : {
+         "location" : "東京都調布市緑ヶ丘二丁目16番1号",
          "location_area" : "調布市",
+         "location_zipcode" : "182-0001",
          "owner_type" : "市立",
-         "short_name" : "緑ヶ丘小学校"
+         "short_name" : "緑ヶ丘小学校",
+         "sort_name" : "ちようふしりつみとりかおか",
+         "url" : "http://members.jcom.home.ne.jp/midorigaoka-sho/"
       },
       "調布市立若葉小学校" : {
          "location_area" : "調布市",
@@ -5810,9 +6218,13 @@
          "short_name" : "調和小学校"
       },
       "調布市立飛田給小学校" : {
+         "location" : "東京都調布市飛田給3-29-1",
          "location_area" : "調布市",
+         "location_zipcode" : "182-0036",
          "owner_type" : "市立",
-         "short_name" : "飛田給小学校"
+         "short_name" : "飛田給小学校",
+         "sort_name" : "ちようふしりつとひたきゆう",
+         "url" : "http://members.jcom.home.ne.jp/tobitakyu-sho/"
       },
       "豊島区立さくら小学校" : {
          "location_area" : "豊島区",
@@ -5917,7 +6329,8 @@
       "豊島区立駒込小学校" : {
          "location_area" : "豊島区",
          "owner_type" : "区立",
-         "short_name" : "駒込小学校"
+         "short_name" : "駒込小学校",
+         "sort_name" : "としまくりつこまこめ"
       },
       "豊島区立高南小学校" : {
          "location_area" : "豊島区",
@@ -5934,32 +6347,56 @@
          "owner_type" : "区立"
       },
       "足立区立中島根小学校" : {
+         "location" : "東京都足立区島根2-9-22",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "121-0815",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつなかしまね",
+         "url" : "http://www.adachi.ne.jp/users/adnasi/"
       },
       "足立区立中川北小学校" : {
          "location_area" : "足立区",
          "owner_type" : "区立"
       },
       "足立区立中川小学校" : {
+         "location" : "東京都足立区大谷田三丁目17番20号",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0001",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつなかかわしよう",
+         "url" : "http://www.adachi.ne.jp/users/adnaga/"
       },
       "足立区立中川東小学校" : {
+         "location" : "東京都足立区大谷田二丁目1番10号",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0001",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつなかかわひかししよう",
+         "url" : "http://www.adachi.ne.jp/users/adnahi/"
       },
       "足立区立亀田小学校" : {
+         "location" : "東京都足立区西新井栄町一丁目1番1号",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "123-0843",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつかめたしよう",
+         "url" : "http://www.adachi.ne.jp/users/adkame/"
       },
       "足立区立五反野小学校" : {
+         "location" : "東京都足立区足立3-11-5",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0015",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつこたんの",
+         "url" : "http://www.adachi.ne.jp/users/adgota/"
       },
       "足立区立伊興小学校" : {
+         "location" : "東京都足立区伊興4-16-1",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "121-0823",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりついこう",
+         "url" : "http://www.adachi.ne.jp/users/adaiko/index.html"
       },
       "足立区立保木間小学校" : {
          "location_area" : "足立区",
@@ -5974,8 +6411,12 @@
          "owner_type" : "区立"
       },
       "足立区立北三谷小学校" : {
+         "location" : "東京都足立区東和一丁目17番12号",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0003",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつきたさんやしよう",
+         "url" : "http://www.adachi.ne.jp/users/adkisa/"
       },
       "足立区立北鹿浜小学校" : {
          "location_area" : "足立区",
@@ -6010,8 +6451,12 @@
          "owner_type" : "区立"
       },
       "足立区立大谷田小学校" : {
+         "location" : "東京都足立区中川4-41-27",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0002",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつおおやた",
+         "url" : "http://www.adachi.ne.jp/users/adooya/"
       },
       "足立区立宮城小学校" : {
          "location_area" : "足立区",
@@ -6070,20 +6515,32 @@
          "owner_type" : "区立"
       },
       "足立区立東渕江小学校" : {
+         "location" : "東京都足立区東和3-30-11",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0003",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつひかしふちえ",
+         "url" : "http://www.adachi.ne.jp/users/adhihu/"
       },
       "足立区立東綾瀬小学校" : {
+         "location" : "東京都足立区東綾瀬二丁目15番15号",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0004",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつひかしあやせしよう",
+         "url" : "http://www.adachi.ne.jp/users/adahia/"
       },
       "足立区立栗原北小学校" : {
          "location_area" : "足立区",
          "owner_type" : "区立"
       },
       "足立区立栗原小学校" : {
+         "location" : "東京都足立区西新井栄町2-10-18",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "123-0843",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつくりはら",
+         "url" : "http://www.adachi.ne.jp/users/adkuha/"
       },
       "足立区立栗島小学校" : {
          "location_area" : "足立区",
@@ -6158,24 +6615,39 @@
          "owner_type" : "区立"
       },
       "足立区立西伊興小学校" : {
+         "location" : "東京都足立区伊興2-6-1",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "121-0823",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつにしいこう",
+         "url" : "http://www.adachi.ne.jp/users/adniko/"
       },
       "足立区立西保木間小学校" : {
          "location_area" : "足立区",
          "owner_type" : "区立"
       },
       "足立区立西新井小学校" : {
+         "location" : "東京都足立区西新井本町4-9-27",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "123-0843",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつにしあらい",
+         "url" : "http://www.adachi.ne.jp/users/adnisi/"
       },
       "足立区立西新井第一小学校" : {
+         "location" : "東京都足立区西新井6-21-3",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "123-0841",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつにしあらいたいいち",
+         "url" : "http://www.adachi.ne.jp/users/adniit/index.html"
       },
       "足立区立西新井第二小学校" : {
+         "location" : "東京都足立区西新井4-34-1",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "123-0841",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつにしあらいたいに"
       },
       "足立区立足立入谷小学校" : {
          "location_area" : "足立区",
@@ -6186,8 +6658,12 @@
          "owner_type" : "区立"
       },
       "足立区立長門小学校" : {
+         "location" : "東京都足立区中川1-19-32",
          "location_area" : "足立区",
-         "owner_type" : "区立"
+         "location_zipcode" : "120-0002",
+         "owner_type" : "区立",
+         "sort_name" : "あたちくりつなかと",
+         "url" : "http://www.adachi.ne.jp/users/adnato/"
       },
       "足立区立関原小学校" : {
          "location_area" : "足立区",
@@ -6214,8 +6690,12 @@
          "owner_type" : "区立"
       },
       "雙葉小学校" : {
+         "location" : "東京都千代田区六番町14-1",
          "location_area" : "千代田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "102-8470",
+         "owner_type" : "私立",
+         "sort_name" : "ふたはしよう",
+         "url" : "http://www.futaba-elementary.jp/"
       },
       "青ヶ島村立青ヶ島小学校" : {
          "owner_type" : "村立",
@@ -6223,47 +6703,77 @@
       },
       "青山学院初等部" : {
          "location_area" : "渋谷区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "あおやまかくいんしよとうふ"
       },
       "青梅市立今井小学校" : {
+         "location" : "東京都青梅市今井2-947-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0023",
          "owner_type" : "市立",
-         "short_name" : "今井小学校"
+         "short_name" : "今井小学校",
+         "sort_name" : "おうめしりついまい",
+         "url" : "http://www.ome-tky.ed.jp/es/imai-es/"
       },
       "青梅市立友田小学校" : {
+         "location" : "東京都青梅市友田町5-332",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0051",
          "owner_type" : "市立",
-         "short_name" : "友田小学校"
+         "short_name" : "友田小学校",
+         "sort_name" : "おうめしりつともた",
+         "url" : "http://www.ome-tky.ed.jp/es/tomoda-es/"
       },
       "青梅市立吹上小学校" : {
+         "location" : "東京都青梅市吹上176-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0015",
          "owner_type" : "市立",
-         "short_name" : "吹上小学校"
+         "short_name" : "吹上小学校",
+         "sort_name" : "おうめしりつふきあけ",
+         "url" : "http://www.ome-tky.ed.jp/es/fukiage-es/"
       },
       "青梅市立成木小学校" : {
+         "location" : "東京都青梅市成木三丁目423番地の1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0001",
          "owner_type" : "市立",
-         "short_name" : "成木小学校"
+         "short_name" : "成木小学校",
+         "sort_name" : "おうめしりつなりき",
+         "url" : "http://www.ome-tky.ed.jp/es/nariki-es/"
       },
       "青梅市立新町小学校" : {
+         "location" : "東京都青梅市新町五丁目21番地の1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0024",
          "owner_type" : "市立",
-         "short_name" : "新町小学校"
+         "short_name" : "新町小学校",
+         "sort_name" : "おうめしりつしんまち",
+         "url" : "http://www.ome-tky.ed.jp/es/shinmati-es/Default.asp"
       },
       "青梅市立東小学校" : {
          "location_area" : "青梅市",
          "owner_type" : "市立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "おうめしりつひかし"
       },
       "青梅市立河辺小学校" : {
+         "location" : "東京都青梅市河辺町5-24",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0036",
          "owner_type" : "市立",
-         "short_name" : "河辺小学校"
+         "short_name" : "河辺小学校",
+         "sort_name" : "おうめしりつかへ",
+         "url" : "http://www.ome-tky.ed.jp/es/kabe-es/"
       },
       "青梅市立第一小学校" : {
+         "location" : "東京都青梅市本町223番地",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0024",
          "owner_type" : "市立",
-         "short_name" : "第一小学校"
+         "short_name" : "第一小学校",
+         "sort_name" : "おうめしりつたいいちしよう",
+         "url" : "http://www.ome-tky.ed.jp/es/n1-es/"
       },
       "青梅市立第七小学校" : {
          "location_area" : "青梅市",
@@ -6291,24 +6801,40 @@
          "short_name" : "第六小学校"
       },
       "青梅市立第四小学校" : {
+         "location" : "東京都青梅市東青梅6-1-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0042",
          "owner_type" : "市立",
-         "short_name" : "第四小学校"
+         "short_name" : "第四小学校",
+         "sort_name" : "おうめしりつたいししよう",
+         "url" : "http://www.ome-tky.ed.jp/es/n4-es/Default.asp"
       },
       "青梅市立若草小学校" : {
+         "location" : "東京都青梅市新町1-15-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0024",
          "owner_type" : "市立",
-         "short_name" : "若草小学校"
+         "short_name" : "若草小学校",
+         "sort_name" : "おうめしりつわかくさ",
+         "url" : "http://www.ome-tky.ed.jp/es/wakakusa-es/"
       },
       "青梅市立藤橋小学校" : {
+         "location" : "東京都青梅市藤橋3-13-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0022",
          "owner_type" : "市立",
-         "short_name" : "藤橋小学校"
+         "short_name" : "藤橋小学校",
+         "sort_name" : "おうめしりつふしはし",
+         "url" : "http://www.ome-tky.ed.jp/es/fujihashi-es/"
       },
       "青梅市立霞台小学校" : {
+         "location" : "東京都青梅市野上424番地",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0033",
          "owner_type" : "市立",
-         "short_name" : "霞台小学校"
+         "short_name" : "霞台小学校",
+         "sort_name" : "おうめしりつかすみたいしよう",
+         "url" : "http://www.ome-tky.ed.jp/es/kasumidai-es/"
       }
    },
    "misc_schools" : {
@@ -6319,19 +6845,31 @@
    },
    "primary_and_secondary_schools" : {
       "品川区立小中一貫校伊藤学園" : {
+         "location" : "東京都品川区大井5丁目1-37",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0014",
          "owner_type" : "区立",
-         "short_name" : "小中一貫校伊藤学園"
+         "short_name" : "小中一貫校伊藤学園",
+         "sort_name" : "しなかわくりつしようちゆういつかんこういとうかくえん",
+         "url" : "http://www1.cts.ne.jp/~itogaku/"
       },
       "品川区立小中一貫校八潮学園" : {
+         "location" : "東京都品川区八潮5-11-2",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0003",
          "owner_type" : "区立",
-         "short_name" : "小中一貫校八潮学園"
+         "short_name" : "小中一貫校八潮学園",
+         "sort_name" : "しなかわくりつしようちゆういつかんこうやしおかくえん",
+         "url" : "http://www1.cts.ne.jp/~yasigaku/"
       },
       "品川区立小中一貫校日野学園" : {
+         "location" : "東京都品川区東五反田2-11-1番地",
          "location_area" : "品川区",
+         "location_zipcode" : "141-0022",
          "owner_type" : "区立",
-         "short_name" : "小中一貫校日野学園"
+         "short_name" : "小中一貫校日野学園",
+         "sort_name" : "しなかわくりつしようちゆういつかんこうひのかくえん",
+         "url" : "http://http://www1.cts.ne.jp/~hinogaku/"
       }
    }
 }

@@ -23,7 +23,8 @@
       "かほく市立金津小学校" : {
          "location_area" : "かほく市",
          "owner_type" : "市立",
-         "short_name" : "金津小学校"
+         "short_name" : "金津小学校",
+         "sort_name" : "かほくしりつかなつ"
       },
       "かほく市立高松小学校" : {
          "location_area" : "かほく市",
@@ -56,9 +57,13 @@
          "short_name" : "小丸山小学校"
       },
       "七尾市立山王小学校" : {
+         "location" : "石川県七尾市山王町ツの34番地",
          "location_area" : "七尾市",
+         "location_zipcode" : "926-0052",
          "owner_type" : "市立",
-         "short_name" : "山王小学校"
+         "short_name" : "山王小学校",
+         "sort_name" : "ななおしりつさんのうしようかつこう",
+         "url" : "http://www.city.nanao.lg.jp/sannousho/"
       },
       "七尾市立徳田小学校" : {
          "location_area" : "七尾市",
@@ -304,14 +309,24 @@
          "short_name" : "向本折小学校"
       },
       "小松市立国府小学校" : {
+         "location" : "石川県小松市河田町丁40-1",
          "location_area" : "小松市",
+         "location_wikipedia_latlon" : "|36|24|37|N|136|30|42|E|",
+         "location_zipcode" : "923-0053",
          "owner_type" : "市立",
-         "short_name" : "国府小学校"
+         "short_name" : "国府小学校",
+         "sort_name" : "こまつしりつこくふしようかつこう",
+         "url" : "http://www.hakusan.ed.jp/~kokuhu-e/"
       },
       "小松市立安宅小学校" : {
+         "location" : "石川県小松市安宅町安宅林5",
          "location_area" : "小松市",
+         "location_wikipedia_latlon" : "|36|24|59|N|136|25|16|E|",
+         "location_zipcode" : "923-0003",
          "owner_type" : "市立",
-         "short_name" : "安宅小学校"
+         "short_name" : "安宅小学校",
+         "sort_name" : "こまつしりつあたかしようかつこう",
+         "url" : "http://www.hakusan.ed.jp/~ataka-e/"
       },
       "小松市立日末小学校" : {
          "location_area" : "小松市",
@@ -329,9 +344,14 @@
          "short_name" : "木場小学校"
       },
       "小松市立東陵小学校" : {
+         "location" : "石川県小松市西軽海町1-41",
          "location_area" : "小松市",
+         "location_wikipedia_latlon" : "|36|23|57|N|136|30|03|E|",
+         "location_zipcode" : "923-0825",
          "owner_type" : "市立",
-         "short_name" : "東陵小学校"
+         "short_name" : "東陵小学校",
+         "sort_name" : "こまつしりつとうりようしようかつこう",
+         "url" : "http://www.hakusan.ed.jp/~touryo-e/"
       },
       "小松市立波佐谷小学校" : {
          "location_area" : "小松市",
@@ -369,9 +389,14 @@
          "short_name" : "粟津小学校"
       },
       "小松市立能美小学校" : {
+         "location" : "石川県小松市能美町ソ51番地",
          "location_area" : "小松市",
+         "location_wikipedia_latlon" : "|36|24|39|N|136|28|58|E|",
+         "location_zipcode" : "923-0042",
          "owner_type" : "市立",
-         "short_name" : "能美小学校"
+         "short_name" : "能美小学校",
+         "sort_name" : "こまつしりつのみしようかつこう",
+         "url" : "http://www.hakusan.ed.jp/~nomi-e/"
       },
       "小松市立芦城小学校" : {
          "location_area" : "小松市",
@@ -379,9 +404,14 @@
          "short_name" : "芦城小学校"
       },
       "小松市立苗代小学校" : {
+         "location" : "石川県小松市北浅井町ヌ16の1",
          "location_area" : "小松市",
+         "location_wikipedia_latlon" : "|36|23|18|N|136|27|54|E|",
+         "location_zipcode" : "923-0851",
          "owner_type" : "市立",
-         "short_name" : "苗代小学校"
+         "short_name" : "苗代小学校",
+         "sort_name" : "こまつしりつのしろしようかつこう",
+         "url" : "http://www.hakusan.ed.jp/~nosiro-e/"
       },
       "小松市立荒屋小学校" : {
          "location_area" : "小松市",
@@ -479,9 +509,12 @@
          "short_name" : "井上小学校"
       },
       "津幡町立刈安小学校" : {
+         "location" : "石川県河北郡津幡町字刈安イ1番地",
          "location_area" : "河北郡津幡町",
+         "location_zipcode" : "929-0416",
          "owner_type" : "町立",
-         "short_name" : "刈安小学校"
+         "short_name" : "刈安小学校",
+         "url" : "http://www.ishikawa-c.ed.jp/~kariye/"
       },
       "津幡町立太白台小学校" : {
          "location_area" : "河北郡津幡町",
@@ -524,9 +557,13 @@
          "short_name" : "上戸小学校"
       },
       "珠洲市立宝立小学校" : {
+         "location" : "石川県珠洲市宝立町鵜島4字30番地",
          "location_area" : "珠洲市",
+         "location_zipcode" : "927-1223",
          "owner_type" : "市立",
-         "short_name" : "宝立小学校"
+         "short_name" : "宝立小学校",
+         "sort_name" : "すすしりつほうりゆうしようがつこう",
+         "url" : "http://academic4.plala.or.jp/mitsuke1/"
       },
       "珠洲市立正院小学校" : {
          "location_area" : "珠洲市",
@@ -694,9 +731,13 @@
          "short_name" : "邑知小学校"
       },
       "能登町立宇出津小学校" : {
+         "location" : "石川県鳳珠郡能登町宇出津ム字1番地",
          "location_area" : "鳳珠郡能登町",
+         "location_zipcode" : "927-0433",
          "owner_type" : "町立",
-         "short_name" : "宇出津小学校"
+         "short_name" : "宇出津小学校",
+         "sort_name" : "のとちようりつうしつしようがつこう",
+         "url" : "http://noto.ed.jp/ushitsu/index.htm"
       },
       "能登町立小木小学校" : {
          "location_area" : "鳳珠郡能登町",
@@ -744,9 +785,14 @@
          "short_name" : "浜小学校"
       },
       "能美市立湯野小学校" : {
+         "location" : "石川県能美市湯谷町ヘ76",
          "location_area" : "能美市",
+         "location_wikipedia_latlon" : "|36|26|04|N|136|30|52|E|",
+         "location_zipcode" : "923-1104",
          "owner_type" : "市立",
-         "short_name" : "湯野小学校"
+         "short_name" : "湯野小学校",
+         "sort_name" : "のみしりつゆのしようかつこう",
+         "url" : "http://www.school.city.nomi.ishikawa.jp/~ynewww/"
       },
       "能美市立福岡小学校" : {
          "location_area" : "能美市",
@@ -759,9 +805,14 @@
          "short_name" : "粟生小学校"
       },
       "能美市立辰口中央小学校" : {
+         "location" : "石川県能美市辰口町735",
          "location_area" : "能美市",
+         "location_wikipedia_latlon" : "|36|26|48|N|136|32|33|E|",
+         "location_zipcode" : "923-1245",
          "owner_type" : "市立",
-         "short_name" : "辰口中央小学校"
+         "short_name" : "辰口中央小学校",
+         "sort_name" : "のみしりつたつのくちちゆうおうしようかつこう",
+         "url" : "http://www.school.city.nomi.ishikawa.jp/~coewww/"
       },
       "輪島市立三井小学校" : {
          "location_area" : "輪島市",
@@ -809,32 +860,56 @@
          "short_name" : "鵠巣小学校"
       },
       "野々市町立富陽小学校" : {
+         "location" : "石川県石川郡野々市町中林5-70",
          "location_area" : "石川郡野々市町",
+         "location_zipcode" : "921-8834",
          "owner_type" : "町立",
-         "short_name" : "富陽小学校"
+         "short_name" : "富陽小学校",
+         "sort_name" : "ののいちちようりつふようしよう",
+         "url" : "http://education.town.nonoichi.ishikawa.jp/fuyousyo/"
       },
       "野々市町立御園小学校" : {
+         "location" : "石川県石川郡野々市町稲荷4-128",
          "location_area" : "石川郡野々市町",
+         "location_zipcode" : "921-8805",
          "owner_type" : "町立",
-         "short_name" : "御園小学校"
+         "short_name" : "御園小学校",
+         "sort_name" : "ののいちちようりつみそのしよう",
+         "url" : "http://education.town.nonoichi.ishikawa.jp/misonosyo/"
       },
       "野々市町立菅原小学校" : {
+         "location" : "石川県石川郡野々市町菅原町20番1号",
          "location_area" : "石川郡野々市町",
+         "location_zipcode" : "921-8814",
          "owner_type" : "町立",
-         "short_name" : "菅原小学校"
+         "short_name" : "菅原小学校",
+         "sort_name" : "ののいちちようりつすかはらしようかつこう",
+         "url" : "http://education.town.nonoichi.ishikawa.jp/sugaharasyo/"
       },
       "野々市町立野々市小学校" : {
+         "location" : "石川県石川郡野々市町本町5-3-1",
          "location_area" : "石川郡野々市町",
+         "location_zipcode" : "921-8815",
          "owner_type" : "町立",
-         "short_name" : "野々市小学校"
+         "short_name" : "野々市小学校",
+         "sort_name" : "ののいちちようりつののいちしよう",
+         "url" : "http://education.town.nonoichi.ishikawa.jp/nonoichisyo/"
       },
       "野々市町立館野小学校" : {
+         "location" : "石川県石川郡野々市町押野3-71",
          "location_area" : "石川郡野々市町",
+         "location_zipcode" : "921-8802",
          "owner_type" : "町立",
-         "short_name" : "館野小学校"
+         "short_name" : "館野小学校",
+         "sort_name" : "ののいちちようりつたちのしよう",
+         "url" : "http://education.town.nonoichi.ishikawa.jp/tachinosyo/"
       },
       "金沢大学附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "石川県金沢市平和町1-1-15",
+         "location_zipcode" : "921-8105",
+         "owner_type" : "国立",
+         "sort_name" : "かなさわたいかくふそくしようかつこう",
+         "url" : "http://partner.ed.kanazawa-u.ac.jp/fusho/"
       },
       "金沢市立三和小学校" : {
          "location_area" : "金沢市",
@@ -877,9 +952,13 @@
          "short_name" : "伏見台小学校"
       },
       "金沢市立俵小学校" : {
+         "location" : "石川県金沢市俵町ヘ乙22番地",
          "location_area" : "金沢市",
+         "location_zipcode" : "920-1108",
          "owner_type" : "市立",
-         "short_name" : "俵小学校"
+         "short_name" : "俵小学校",
+         "sort_name" : "かなさわしりつたわらしようかつこう",
+         "url" : "http://www.kanazawa-city.ed.jp/tawara-e/"
       },
       "金沢市立内川小学校" : {
          "location_area" : "金沢市",
@@ -887,9 +966,13 @@
          "short_name" : "内川小学校"
       },
       "金沢市立医王山小学校" : {
+         "location" : "石川県金沢市二俣町さ21番地",
          "location_area" : "金沢市",
+         "location_zipcode" : "920-1102",
          "owner_type" : "市立",
-         "short_name" : "医王山小学校"
+         "short_name" : "医王山小学校",
+         "sort_name" : "かなさわしりついおうせんしようかつこう",
+         "url" : "http://www.kanazawa-city.ed.jp/iouzen-j/"
       },
       "金沢市立十一屋小学校" : {
          "location_area" : "金沢市",
@@ -904,12 +987,14 @@
       "金沢市立南小立野小学校" : {
          "location_area" : "金沢市",
          "owner_type" : "市立",
-         "short_name" : "南小立野小学校"
+         "short_name" : "南小立野小学校",
+         "sort_name" : "かなさわしりつみなみこたつの"
       },
       "金沢市立味噌蔵町小学校" : {
          "location_area" : "金沢市",
          "owner_type" : "市立",
-         "short_name" : "味噌蔵町小学校"
+         "short_name" : "味噌蔵町小学校",
+         "sort_name" : "かなさわしりつみそくら"
       },
       "金沢市立四十万小学校" : {
          "location_area" : "金沢市",
@@ -954,7 +1039,8 @@
       "金沢市立小立野小学校" : {
          "location_area" : "金沢市",
          "owner_type" : "市立",
-         "short_name" : "小立野小学校"
+         "short_name" : "小立野小学校",
+         "sort_name" : "かなさわしりつこたつの"
       },
       "金沢市立弥生小学校" : {
          "location_area" : "金沢市",
@@ -997,14 +1083,19 @@
          "short_name" : "朝日小学校"
       },
       "金沢市立木曳野小学校" : {
+         "location" : "石川県金沢市寺中町へ61番地",
          "location_area" : "金沢市",
+         "location_zipcode" : "920-0341",
          "owner_type" : "市立",
-         "short_name" : "木曳野小学校"
+         "short_name" : "木曳野小学校",
+         "sort_name" : "かなさわしりつきひきの",
+         "url" : "http://www.kanazawa-city.ed.jp/kibikino-e/"
       },
       "金沢市立材木町小学校" : {
          "location_area" : "金沢市",
          "owner_type" : "市立",
-         "short_name" : "材木町小学校"
+         "short_name" : "材木町小学校",
+         "sort_name" : "かなさわしりつさいもく"
       },
       "金沢市立杜の里小学校" : {
          "location_area" : "金沢市",
@@ -1052,9 +1143,13 @@
          "short_name" : "犀川小学校"
       },
       "金沢市立田上小学校" : {
+         "location" : "石川県金沢市田上町南46",
          "location_area" : "金沢市",
+         "location_zipcode" : "920-1151",
          "owner_type" : "市立",
-         "short_name" : "田上小学校"
+         "short_name" : "田上小学校",
+         "sort_name" : "かなさわしりつたかみしようかつこう",
+         "url" : "http://www.kanazawa-city.ed.jp/tagami-e/"
       },
       "金沢市立米丸小学校" : {
          "location_area" : "金沢市",
@@ -1089,7 +1184,8 @@
       "金沢市立西南部小学校" : {
          "location_area" : "金沢市",
          "owner_type" : "市立",
-         "short_name" : "西南部小学校"
+         "short_name" : "西南部小学校",
+         "sort_name" : "かなさわしりつせいなんふしようかつこう"
       },
       "金沢市立西小学校" : {
          "location_area" : "金沢市",
@@ -1132,9 +1228,13 @@
          "short_name" : "額小学校"
       },
       "金沢市立馬場小学校" : {
+         "location" : "石川県金沢市東山3丁目9番30号",
          "location_area" : "金沢市",
+         "location_zipcode" : "920-0831",
          "owner_type" : "市立",
-         "short_name" : "馬場小学校"
+         "short_name" : "馬場小学校",
+         "sort_name" : "かなさわしりつははしようかつこう",
+         "url" : "http://www.kanazawa-city.ed.jp/baba-e/"
       }
    }
 }

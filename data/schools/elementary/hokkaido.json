@@ -1,7 +1,12 @@
 {
    "elementary_schools" : {
       "いずみの学校初等部" : {
+         "location" : "北海道虻田郡豊浦町字東雲町83-2",
+         "location_wikipedia_latlon" : "|42|35|5.7|N|140|43|28.8|E|",
+         "location_zipcode" : "049-5411",
          "owner_type" : "私立",
+         "sort_name" : "いすみのかつこう",
+         "url" : "http://www.hokkaido-steiner.org/",
          "wikipedia_name" : "いずみの学校初等部・中等部"
       },
       "えりも町立えりも小学校" : {
@@ -430,9 +435,13 @@
          "short_name" : "種川小学校"
       },
       "今金町立美利河小学校" : {
+         "location" : "北海道瀬棚郡今金町字美利河230-3",
          "location_area" : "瀬棚郡今金町",
+         "location_zipcode" : "049-4151",
          "owner_type" : "町立",
-         "short_name" : "美利河小学校"
+         "short_name" : "美利河小学校",
+         "sort_name" : "いまかねちようりつひりかしよう",
+         "url" : "http://pirika.host.jp/"
       },
       "伊達市立伊達小学校" : {
          "location_area" : "伊達市",
@@ -631,7 +640,12 @@
          "short_name" : "西陵小学校"
       },
       "函館三育小学校" : {
-         "owner_type" : "私立"
+         "location" : "北海道函館市桔梗五丁目26番1号",
+         "location_wikipedia_latlon" : "|41|51|0.9|N|140|44|8.8|E|",
+         "location_zipcode" : "041-0808",
+         "owner_type" : "私立",
+         "sort_name" : "はこたてさんいくしよう",
+         "url" : "http://saniku.sakura.ne.jp/"
       },
       "函館市立あさひ小学校" : {
          "location_area" : "函館市",
@@ -1069,20 +1083,30 @@
          "short_name" : "谷川小学校"
       },
       "北海道教育大学附属函館小学校" : {
+         "location" : "北海道函館市美原3-48-6",
+         "location_zipcode" : "041-0806",
          "owner_type" : "国立",
-         "short_name" : "教育大学附属函館小学校"
+         "short_name" : "教育大学附属函館小学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくはこたてしよう",
+         "url" : "http://www.hak.hokkyodai.ac.jp/~f-shog-m/"
       },
       "北海道教育大学附属旭川小学校" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属旭川小学校"
+         "short_name" : "教育大学附属旭川小学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくあさひかわしよう"
       },
       "北海道教育大学附属札幌小学校" : {
+         "location" : "北海道札幌市北区あいの里5条3-1-10",
+         "location_zipcode" : "002-8075",
          "owner_type" : "国立",
-         "short_name" : "教育大学附属札幌小学校"
+         "short_name" : "教育大学附属札幌小学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくさつほろしよう",
+         "url" : "http://fuzoku-sho.sap.hokkyodai.ac.jp/"
       },
       "北海道教育大学附属釧路小学校" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属釧路小学校"
+         "short_name" : "教育大学附属釧路小学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくくしろしようかつこう"
       },
       "北竜町立真竜小学校" : {
          "location_area" : "雨竜郡北竜町",
@@ -1247,12 +1271,14 @@
       "千歳市立千歳小学校" : {
          "location_area" : "千歳市",
          "owner_type" : "市立",
-         "short_name" : "千歳小学校"
+         "short_name" : "千歳小学校",
+         "sort_name" : "ちとせしりつちとせ"
       },
       "千歳市立千歳第二小学校" : {
          "location_area" : "千歳市",
          "owner_type" : "市立",
-         "short_name" : "千歳第二小学校"
+         "short_name" : "千歳第二小学校",
+         "sort_name" : "ちとせしりつちとせたいに"
       },
       "千歳市立向陽台小学校" : {
          "location_area" : "千歳市",
@@ -1305,9 +1331,13 @@
          "short_name" : "駒里小学校"
       },
       "千歳市立高台小学校" : {
+         "location" : "北海道千歳市富丘1丁目19-4",
          "location_area" : "千歳市",
+         "location_wikipedia_latlon" : "|42|50|07|N|141|38|48|E|",
+         "location_zipcode" : "066-0034",
          "owner_type" : "市立",
-         "short_name" : "高台小学校"
+         "short_name" : "高台小学校",
+         "url" : "http://www.city.chitose.hokkaido.jp/ed/takadai/"
       },
       "南富良野町立下金山小学校" : {
          "location_area" : "空知郡南富良野町",
@@ -1705,19 +1735,29 @@
          "short_name" : "江南小学校"
       },
       "奥尻町立奥尻小学校" : {
+         "location" : "北海道奥尻町字奥尻428",
          "location_area" : "奥尻郡奥尻町",
+         "location_zipcode" : "043-1401",
          "owner_type" : "町立",
-         "short_name" : "奥尻小学校"
+         "short_name" : "奥尻小学校",
+         "sort_name" : "おくしりちようりつおくしりしよう"
       },
       "奥尻町立宮津小学校" : {
+         "location" : "北海道奥尻郡奥尻町字宮津40",
          "location_area" : "奥尻郡奥尻町",
+         "location_zipcode" : "043-1404",
          "owner_type" : "町立",
-         "short_name" : "宮津小学校"
+         "short_name" : "宮津小学校",
+         "sort_name" : "おくしりちようりつみやつしよう"
       },
       "奥尻町立青苗小学校" : {
+         "location" : "北海道奥尻郡奥尻町字富里36",
          "location_area" : "奥尻郡奥尻町",
+         "location_zipcode" : "043-1522",
          "owner_type" : "町立",
-         "short_name" : "青苗小学校"
+         "short_name" : "青苗小学校",
+         "sort_name" : "おくしりちようりつあおなえしよう",
+         "url" : "http://www.geocities.co.jp/NeverLand-Mirai/9850/"
       },
       "妹背牛町立妹背牛小学校" : {
          "location_area" : "雨竜郡妹背牛町",
@@ -2427,7 +2467,8 @@
       "当別町立弁華別小学校" : {
          "location_area" : "石狩郡当別町",
          "owner_type" : "町立",
-         "short_name" : "弁華別小学校"
+         "short_name" : "弁華別小学校",
+         "sort_name" : "とうへつちようりつへんけへつ"
       },
       "当別町立当別小学校" : {
          "location_area" : "石狩郡当別町",
@@ -2437,7 +2478,8 @@
       "当別町立西当別小学校" : {
          "location_area" : "石狩郡当別町",
          "owner_type" : "町立",
-         "short_name" : "西当別小学校"
+         "short_name" : "西当別小学校",
+         "sort_name" : "とうへつちようりつにしとうへつ"
       },
       "当麻町立宇園別小学校" : {
          "location_area" : "上川郡当麻町",
@@ -2457,17 +2499,24 @@
       "恵庭市立島松小学校" : {
          "location_area" : "恵庭市",
          "owner_type" : "市立",
-         "short_name" : "島松小学校"
+         "short_name" : "島松小学校",
+         "sort_name" : "えにわしりつしままつしようかつこう"
       },
       "恵庭市立恵み野小学校" : {
+         "location" : "北海道恵庭市恵み野南4丁目1-1",
          "location_area" : "恵庭市",
+         "location_zipcode" : "061-1372",
          "owner_type" : "市立",
-         "short_name" : "恵み野小学校"
+         "short_name" : "恵み野小学校",
+         "sort_name" : "えにわしりつめくみの"
       },
       "恵庭市立恵み野旭小学校" : {
+         "location" : "北海道恵庭市恵み野北4丁目1-1",
          "location_area" : "恵庭市",
+         "location_zipcode" : "061-1374",
          "owner_type" : "市立",
-         "short_name" : "恵み野旭小学校"
+         "short_name" : "恵み野旭小学校",
+         "sort_name" : "えにわしりつめくみのあさひ"
       },
       "恵庭市立恵庭小学校" : {
          "location_area" : "恵庭市",
@@ -2485,9 +2534,12 @@
          "short_name" : "柏小学校"
       },
       "恵庭市立若草小学校" : {
+         "location" : "北海道恵庭市中島町4丁目5-1",
          "location_area" : "恵庭市",
+         "location_zipcode" : "061-1435",
          "owner_type" : "市立",
-         "short_name" : "若草小学校"
+         "short_name" : "若草小学校",
+         "sort_name" : "えにわしりつわかくさ"
       },
       "愛別町立中里小学校" : {
          "location_area" : "上川郡愛別町",
@@ -2527,7 +2579,8 @@
       "斜里町立峰浜小学校" : {
          "location_area" : "斜里郡斜里町",
          "owner_type" : "町立",
-         "short_name" : "峰浜小学校"
+         "short_name" : "峰浜小学校",
+         "sort_name" : "しやりちようりつみねはましようかつこう"
       },
       "斜里町立川上小学校" : {
          "location_area" : "斜里郡斜里町",
@@ -2687,7 +2740,8 @@
       "旭川市立千代田小学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "千代田小学校"
+         "short_name" : "千代田小学校",
+         "sort_name" : "あさひかわしりつちよたしようかつこう"
       },
       "旭川市立台場小学校" : {
          "location_area" : "旭川市",
@@ -2697,7 +2751,8 @@
       "旭川市立向陵小学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "向陵小学校"
+         "short_name" : "向陵小学校",
+         "sort_name" : "あさひかわしりつこうりようしようかつこう"
       },
       "旭川市立啓明小学校" : {
          "location_area" : "旭川市",
@@ -2731,9 +2786,13 @@
          "short_name" : "忠和小学校"
       },
       "旭川市立愛宕小学校" : {
+         "location" : "北海道旭川市豊岡8条6丁目",
          "location_area" : "旭川市",
+         "location_zipcode" : "078-8238",
          "owner_type" : "市立",
-         "short_name" : "愛宕小学校"
+         "short_name" : "愛宕小学校",
+         "sort_name" : "あさひかわしりつあたこしようかつこう",
+         "url" : "http://www.atago.els.asahikawa-hkd.ed.jp/"
       },
       "旭川市立愛宕東小学校" : {
          "location_area" : "旭川市",
@@ -2987,7 +3046,12 @@
          "short_name" : "本別中央小学校"
       },
       "札幌三育小学校" : {
-         "owner_type" : "私立"
+         "location" : "北海道札幌市北区拓北4条一丁目14番1号",
+         "location_wikipedia_latlon" : "|43|9|13.7|N|141|22|25.9|E|",
+         "location_zipcode" : "002-8064",
+         "owner_type" : "私立",
+         "sort_name" : "さつほろさんいくしよう",
+         "url" : "http://www.saniku.ac.jp/sapporo/elementary%20school/index.html"
       },
       "札幌市立あいの里東小学校" : {
          "location_area" : "札幌市北区",
@@ -3000,14 +3064,22 @@
          "short_name" : "あいの里西小学校"
       },
       "札幌市立あやめ野小学校" : {
+         "location" : "北海道札幌市豊平区月寒東1条十一丁目7番32号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0051",
          "owner_type" : "市立",
-         "short_name" : "あやめ野小学校"
+         "short_name" : "あやめ野小学校",
+         "sort_name" : "さつほろしりつあやめのしよう",
+         "url" : "http://www.ayameno-e.sapporo-c.ed.jp/"
       },
       "札幌市立しらかば台小学校" : {
+         "location" : "北海道札幌市豊平区月寒東4条18丁目10番43号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0054",
          "owner_type" : "市立",
-         "short_name" : "しらかば台小学校"
+         "short_name" : "しらかば台小学校",
+         "sort_name" : "さつほろしりつしらかはたいしよう",
+         "url" : "http://www.shirakabadai-e.sapporo-c.ed.jp/"
       },
       "札幌市立ひばりが丘小学校" : {
          "location_area" : "札幌市厚別区",
@@ -3020,9 +3092,13 @@
          "short_name" : "みずほ小学校"
       },
       "札幌市立みどり小学校" : {
+         "location" : "北海道札幌市豊平区美園5条二丁目2番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0005",
          "owner_type" : "市立",
-         "short_name" : "みどり小学校"
+         "short_name" : "みどり小学校",
+         "sort_name" : "さつほろしりつみとりしよう",
+         "url" : "http://www.midori-e.sapporo-c.ed.jp/"
       },
       "札幌市立もみじ台南小学校" : {
          "location_area" : "札幌市厚別区",
@@ -3070,14 +3146,23 @@
          "short_name" : "上野幌西小学校"
       },
       "札幌市立丘珠小学校" : {
+         "location" : "北海道札幌市東区丘珠町593番地",
          "location_area" : "札幌市東区",
+         "location_wikipedia_latlon" : "|43|7|16.2|N|141|24|15.1|E|region:JP",
+         "location_zipcode" : "007-0880",
          "owner_type" : "市立",
-         "short_name" : "丘珠小学校"
+         "short_name" : "丘珠小学校",
+         "sort_name" : "さつほろしりつおかたましよう",
+         "url" : "http://www.okadama-e.sapporo-c.ed.jp/"
       },
       "札幌市立中の島小学校" : {
+         "location" : "北海道札幌市豊平区中の島2条一丁目1番22号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0922",
          "owner_type" : "市立",
-         "short_name" : "中の島小学校"
+         "short_name" : "中の島小学校",
+         "sort_name" : "さつほろしりつなかのしましよう",
+         "url" : "http://www.nakanoshima-e.sapporo-c.ed.jp/"
       },
       "札幌市立中央小学校" : {
          "location_area" : "札幌市中央区",
@@ -3097,7 +3182,8 @@
       "札幌市立二条小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "二条小学校"
+         "short_name" : "二条小学校",
+         "sort_name" : "さつほろしりつにしようしよう"
       },
       "札幌市立伏古北小学校" : {
          "location_area" : "札幌市東区",
@@ -3112,7 +3198,8 @@
       "札幌市立伏見小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "伏見小学校"
+         "short_name" : "伏見小学校",
+         "sort_name" : "さつほろしりつふしみしよう"
       },
       "札幌市立信濃小学校" : {
          "location_area" : "札幌市厚別区",
@@ -3157,7 +3244,8 @@
       "札幌市立円山小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "円山小学校"
+         "short_name" : "円山小学校",
+         "sort_name" : "さつほろしりつまるやま"
       },
       "札幌市立前田中央小学校" : {
          "location_area" : "札幌市手稲区",
@@ -3167,7 +3255,8 @@
       "札幌市立前田北小学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "前田北小学校"
+         "short_name" : "前田北小学校",
+         "sort_name" : "さつほろしりつまえたきたしよう"
       },
       "札幌市立前田小学校" : {
          "location_area" : "札幌市手稲区",
@@ -3212,7 +3301,8 @@
       "札幌市立北都小学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "北都小学校"
+         "short_name" : "北都小学校",
+         "sort_name" : "さつほろしりつほくとしようかつこう"
       },
       "札幌市立北野台小学校" : {
          "location_area" : "札幌市清田区",
@@ -3245,9 +3335,13 @@
          "short_name" : "南小学校"
       },
       "札幌市立南月寒小学校" : {
+         "location" : "北海道札幌市豊平区月寒西4条八丁目2番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0024",
          "owner_type" : "市立",
-         "short_name" : "南月寒小学校"
+         "short_name" : "南月寒小学校",
+         "sort_name" : "さつほろしりつみなみつきさむしよう",
+         "url" : "http://www.minamitsukisamu-e.sapporo-c.ed.jp/"
       },
       "札幌市立南白石小学校" : {
          "location_area" : "札幌市白石区",
@@ -3282,7 +3376,8 @@
       "札幌市立和光小学校" : {
          "location_area" : "札幌市北区",
          "owner_type" : "市立",
-         "short_name" : "和光小学校"
+         "short_name" : "和光小学校",
+         "sort_name" : "さつほろしりつわこうしよう"
       },
       "札幌市立大倉山小学校" : {
          "location_area" : "札幌市中央区",
@@ -3292,7 +3387,8 @@
       "札幌市立大谷地小学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "大谷地小学校"
+         "short_name" : "大谷地小学校",
+         "sort_name" : "さつほろしりつおおやちしよう"
       },
       "札幌市立大谷地東小学校" : {
          "location_area" : "札幌市厚別区",
@@ -3322,7 +3418,8 @@
       "札幌市立富丘小学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "富丘小学校"
+         "short_name" : "富丘小学校",
+         "sort_name" : "さつほろしりつとみおかしよう"
       },
       "札幌市立小野幌小学校" : {
          "location_area" : "札幌市厚別区",
@@ -3362,12 +3459,14 @@
       "札幌市立山鼻南小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "山鼻南小学校"
+         "short_name" : "山鼻南小学校",
+         "sort_name" : "さつほろしりつやまはなみなみしよう"
       },
       "札幌市立山鼻小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "山鼻小学校"
+         "short_name" : "山鼻小学校",
+         "sort_name" : "さつほろしりつやまはなしよう"
       },
       "札幌市立川北小学校" : {
          "location_area" : "札幌市白石区",
@@ -3387,7 +3486,8 @@
       "札幌市立幌南小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "幌南小学校"
+         "short_name" : "幌南小学校",
+         "sort_name" : "さつほろしりつこうなんしよう"
       },
       "札幌市立幌東小学校" : {
          "location_area" : "札幌市白石区",
@@ -3397,7 +3497,8 @@
       "札幌市立幌西小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "幌西小学校"
+         "short_name" : "幌西小学校",
+         "sort_name" : "さつほろしりつこうさい"
       },
       "札幌市立平和小学校" : {
          "location_area" : "札幌市西区",
@@ -3407,7 +3508,8 @@
       "札幌市立平和通小学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "平和通小学校"
+         "short_name" : "平和通小学校",
+         "sort_name" : "さつほろしりつへいわとおりしよう"
       },
       "札幌市立平岡中央小学校" : {
          "location_area" : "札幌市清田区",
@@ -3432,28 +3534,42 @@
       "札幌市立平岸小学校" : {
          "location_area" : "札幌市豊平区",
          "owner_type" : "市立",
-         "short_name" : "平岸小学校"
+         "short_name" : "平岸小学校",
+         "sort_name" : "さつほろしりつひらきししよう"
       },
       "札幌市立平岸西小学校" : {
+         "location" : "北海道札幌市豊平区平岸1条十五丁目2番地",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0931",
          "owner_type" : "市立",
-         "short_name" : "平岸西小学校"
+         "short_name" : "平岸西小学校",
+         "sort_name" : "さつほろしりつひらきしにししよう",
+         "url" : "http://www.hiragishinishi-e.sapporo-c.ed.jp/"
       },
       "札幌市立平岸高台小学校" : {
+         "location" : "北海道札幌市豊平区平岸5条十八丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0935",
          "owner_type" : "市立",
-         "short_name" : "平岸高台小学校"
+         "short_name" : "平岸高台小学校",
+         "sort_name" : "さつほろしりつひらきしたかたいしよう",
+         "url" : "http://www.hiragishitakadai-e.sapporo-c.ed.jp/"
       },
       "札幌市立平岸高台小学校のぞみ分校" : {
+         "location" : "北海道札幌市豊平区平岸4条18丁目1番25号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0934",
          "owner_type" : "市立",
          "short_name" : "平岸高台小学校のぞみ分校",
+         "sort_name" : "さつほろしりつひらきし のそみ",
+         "url" : "http://www.nozomi-ej.sapporo-c.ed.jp/",
          "wikipedia_name" : "札幌市立平岸高台小学校・札幌市立平岸中学校のぞみ分校"
       },
       "札幌市立手稲中央小学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "手稲中央小学校"
+         "short_name" : "手稲中央小学校",
+         "sort_name" : "さつほろしりつていねちゆうおうしよう"
       },
       "札幌市立手稲北小学校" : {
          "location_area" : "札幌市手稲区",
@@ -3468,7 +3584,8 @@
       "札幌市立手稲山口小学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "手稲山口小学校"
+         "short_name" : "手稲山口小学校",
+         "sort_name" : "さつほろしりつていねやまくちしよう"
       },
       "札幌市立手稲東小学校" : {
          "location_area" : "札幌市西区",
@@ -3556,9 +3673,13 @@
          "short_name" : "日新小学校"
       },
       "札幌市立旭小学校" : {
+         "location" : "北海道札幌市豊平区水車町三丁目1番22号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0912",
          "owner_type" : "市立",
-         "short_name" : "旭小学校"
+         "short_name" : "旭小学校",
+         "sort_name" : "さつほろしりつあさひしよう",
+         "url" : "http://www.asahi-e.sapporo-c.ed.jp/"
       },
       "札幌市立明園小学校" : {
          "location_area" : "札幌市東区",
@@ -3571,14 +3692,22 @@
          "short_name" : "星置東小学校"
       },
       "札幌市立月寒小学校" : {
+         "location" : "北海道札幌市豊平区月寒西2条五丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0022",
          "owner_type" : "市立",
-         "short_name" : "月寒小学校"
+         "short_name" : "月寒小学校",
+         "sort_name" : "さつほろしりつつきさむしよう",
+         "url" : "http://www.tsukisamu-e.sapporo-c.ed.jp/"
       },
       "札幌市立月寒東小学校" : {
+         "location" : "北海道札幌市豊平区月寒東3条十丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0053",
          "owner_type" : "市立",
-         "short_name" : "月寒東小学校"
+         "short_name" : "月寒東小学校",
+         "sort_name" : "さつほろしりつつきさむひかししよう",
+         "url" : "http://www.tsukisamuhigashi-e.sapporo-c.ed.jp//"
       },
       "札幌市立有明小学校" : {
          "location_area" : "札幌市清田区",
@@ -3593,7 +3722,8 @@
       "札幌市立本通小学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "本通小学校"
+         "short_name" : "本通小学校",
+         "sort_name" : "さつほろしりつほんとおりしよう"
       },
       "札幌市立本郷小学校" : {
          "location_area" : "札幌市白石区",
@@ -3608,7 +3738,8 @@
       "札幌市立札苗北小学校" : {
          "location_area" : "札幌市東区",
          "owner_type" : "市立",
-         "short_name" : "札苗北小学校"
+         "short_name" : "札苗北小学校",
+         "sort_name" : "さつほろしりつさつなえきたしよう"
       },
       "札幌市立札苗小学校" : {
          "location_area" : "札幌市東区",
@@ -3626,14 +3757,22 @@
          "short_name" : "東光小学校"
       },
       "札幌市立東園小学校" : {
+         "location" : "北海道札幌市豊平区豊平1条十二丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0901",
          "owner_type" : "市立",
-         "short_name" : "東園小学校"
+         "short_name" : "東園小学校",
+         "sort_name" : "さつほろしりつとうえんしよう",
+         "url" : "http://www.toen-e.sapporo-c.ed.jp/"
       },
       "札幌市立東山小学校" : {
+         "location" : "北海道札幌市豊平区平岸4条十一丁目6番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0934",
          "owner_type" : "市立",
-         "short_name" : "東山小学校"
+         "short_name" : "東山小学校",
+         "sort_name" : "さつほろしりつひかしやましよう",
+         "url" : "http://www.higashiyama-e.sapporo-c.ed.jp/"
       },
       "札幌市立東川下小学校" : {
          "location_area" : "札幌市白石区",
@@ -3656,9 +3795,13 @@
          "short_name" : "東白石小学校"
       },
       "札幌市立東米里小学校" : {
+         "location" : "北海道札幌市白石区東米里2124番地",
          "location_area" : "札幌市白石区",
+         "location_zipcode" : "003-0876",
          "owner_type" : "市立",
          "short_name" : "東米里小学校",
+         "sort_name" : "さつほろしりつひかしよねさと",
+         "url" : "http://www.higashiyonesato-ej.sapporo-c.ed.jp/",
          "wikipedia_name" : "札幌市立東米里小学校・中学校"
       },
       "札幌市立東苗穂小学校" : {
@@ -3719,7 +3862,8 @@
       "札幌市立清田緑小学校" : {
          "location_area" : "札幌市清田区",
          "owner_type" : "市立",
-         "short_name" : "清田緑小学校"
+         "short_name" : "清田緑小学校",
+         "sort_name" : "さつほろしりつきよたみとり"
       },
       "札幌市立澄川南小学校" : {
          "location_area" : "札幌市南区",
@@ -3737,9 +3881,14 @@
          "short_name" : "澄川西小学校"
       },
       "札幌市立琴似中央小学校" : {
+         "location" : "北海道札幌市西区八軒7条東一丁目1番1号",
          "location_area" : "札幌市西区",
+         "location_wikipedia_latlon" : "|43|05|12|N|141|19|05|E|",
+         "location_zipcode" : "063-0867",
          "owner_type" : "市立",
-         "short_name" : "琴似中央小学校"
+         "short_name" : "琴似中央小学校",
+         "sort_name" : "さつほろしりつことにちゆうおうしよう",
+         "url" : "http://www.kotonichuo-e.sapporo-c.ed.jp/"
       },
       "札幌市立琴似小学校" : {
          "location_area" : "札幌市西区",
@@ -3832,9 +3981,13 @@
          "short_name" : "福井野小学校"
       },
       "札幌市立福住小学校" : {
+         "location" : "北海道札幌市豊平区福住3条五丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0043",
          "owner_type" : "市立",
-         "short_name" : "福住小学校"
+         "short_name" : "福住小学校",
+         "sort_name" : "さつほろしりつふくすみしよう",
+         "url" : "http://www.fukuzumi-e.sapporo-c.ed.jp/"
       },
       "札幌市立福移小学校" : {
          "location_area" : "札幌市東区",
@@ -3877,9 +4030,13 @@
          "short_name" : "緑丘小学校"
       },
       "札幌市立羊丘小学校" : {
+         "location" : "北海道札幌市豊平区月寒東1条十六丁目3番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0051",
          "owner_type" : "市立",
-         "short_name" : "羊丘小学校"
+         "short_name" : "羊丘小学校",
+         "sort_name" : "さつほろしりつひつしかおかしよう",
+         "url" : "http://www.hitsujigaoka-e.sapporo-c.ed.jp/"
       },
       "札幌市立美しが丘小学校" : {
          "location_area" : "札幌市清田区",
@@ -3892,9 +4049,13 @@
          "short_name" : "美しが丘緑小学校"
       },
       "札幌市立美園小学校" : {
+         "location" : "北海道札幌市豊平区平岸5条七丁目2番21号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0935",
          "owner_type" : "市立",
-         "short_name" : "美園小学校"
+         "short_name" : "美園小学校",
+         "sort_name" : "さつほろしりつみそのしよう",
+         "url" : "http://www.misono-e.sapporo-c.ed.jp/"
       },
       "札幌市立美香保小学校" : {
          "location_area" : "札幌市東区",
@@ -3902,9 +4063,14 @@
          "short_name" : "美香保小学校"
       },
       "札幌市立苗穂小学校" : {
+         "location" : "北海道札幌市東区北9条東13丁目1-1",
          "location_area" : "札幌市東区",
+         "location_wikipedia_latlon" : "|43|4|30.8|N|141|22|26|E|region:JP",
+         "location_zipcode" : "065-0009",
          "owner_type" : "市立",
-         "short_name" : "苗穂小学校"
+         "short_name" : "苗穂小学校",
+         "sort_name" : "さつほろしりつなえほしよう",
+         "url" : "http://www.naebo-e.sapporo-c.ed.jp/"
       },
       "札幌市立茨戸小学校" : {
          "location_area" : "札幌市北区",
@@ -3944,12 +4110,14 @@
       "札幌市立藻岩小学校" : {
          "location_area" : "札幌市南区",
          "owner_type" : "市立",
-         "short_name" : "藻岩小学校"
+         "short_name" : "藻岩小学校",
+         "sort_name" : "さつほろしりつもいわしよう"
       },
       "札幌市立西園小学校" : {
          "location_area" : "札幌市西区",
          "owner_type" : "市立",
-         "short_name" : "西園小学校"
+         "short_name" : "西園小学校",
+         "sort_name" : "さつほろしりつせいえんしよう"
       },
       "札幌市立西宮の沢小学校" : {
          "location_area" : "札幌市手稲区",
@@ -3962,19 +4130,31 @@
          "short_name" : "西小学校"
       },
       "札幌市立西岡北小学校" : {
+         "location" : "北海道札幌市豊平区西岡3条六丁目7番20号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0033",
          "owner_type" : "市立",
-         "short_name" : "西岡北小学校"
+         "short_name" : "西岡北小学校",
+         "sort_name" : "さつほろしりつにしおかきたしよう",
+         "url" : "http://www.nishiokakita-e.sapporo-c.ed.jp/"
       },
       "札幌市立西岡南小学校" : {
+         "location" : "北海道札幌市豊平区西岡4条十二丁目7番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0034",
          "owner_type" : "市立",
-         "short_name" : "西岡南小学校"
+         "short_name" : "西岡南小学校",
+         "sort_name" : "さつほろしりつにしおかみなみ",
+         "url" : "http://www.nishiokaminami-e.sapporo-c.ed.jp/"
       },
       "札幌市立西岡小学校" : {
+         "location" : "北海道札幌市豊平区西岡2条九丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0032",
          "owner_type" : "市立",
-         "short_name" : "西岡小学校"
+         "short_name" : "西岡小学校",
+         "sort_name" : "さつほろしりつにしおか",
+         "url" : "http://www.nishioka-e.sapporo-c.ed.jp/"
       },
       "札幌市立西白石小学校" : {
          "location_area" : "札幌市白石区",
@@ -3989,17 +4169,26 @@
       "札幌市立西野第二小学校" : {
          "location_area" : "札幌市西区",
          "owner_type" : "市立",
-         "short_name" : "西野第二小学校"
+         "short_name" : "西野第二小学校",
+         "sort_name" : "さつほろしりつにしのたい2しよう"
       },
       "札幌市立豊園小学校" : {
+         "location" : "北海道札幌市豊平区美園1条四丁目1番1号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0001",
          "owner_type" : "市立",
-         "short_name" : "豊園小学校"
+         "short_name" : "豊園小学校",
+         "sort_name" : "さつほろしりつよとそのしよう",
+         "url" : "http://www.toyozono-e.sapporo-c.ed.jp/"
       },
       "札幌市立豊平小学校" : {
+         "location" : "北海道札幌市豊平区豊平5条七丁目1番2号",
          "location_area" : "札幌市豊平区",
+         "location_zipcode" : "062-0905",
          "owner_type" : "市立",
-         "short_name" : "豊平小学校"
+         "short_name" : "豊平小学校",
+         "sort_name" : "さつほろしりつとよひらしよう",
+         "url" : "http://www.toyohira-e.sapporo-c.ed.jp/"
       },
       "札幌市立豊滝小学校" : {
          "location_area" : "札幌市南区",
@@ -4009,7 +4198,8 @@
       "札幌市立資生館小学校" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "資生館小学校"
+         "short_name" : "資生館小学校",
+         "sort_name" : "しせいかんしようかつこう"
       },
       "札幌市立開成小学校" : {
          "location_area" : "札幌市東区",
@@ -4364,7 +4554,8 @@
       "江別市立中央小学校" : {
          "location_area" : "江別市",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "えへつしりつちゆうおうしようかつこう"
       },
       "江別市立北光小学校" : {
          "location_area" : "江別市",
@@ -4444,7 +4635,8 @@
       "江別市立野幌若葉小学校" : {
          "location_area" : "江別市",
          "owner_type" : "市立",
-         "short_name" : "野幌若葉小学校"
+         "short_name" : "野幌若葉小学校",
+         "sort_name" : "えへつしりつのつほろわかは"
       },
       "江差町立南が丘小学校" : {
          "location_area" : "檜山郡江差町",
@@ -4467,9 +4659,12 @@
          "short_name" : "利別小学校"
       },
       "池田町立池田小学校" : {
+         "location" : "北海道中川郡池田町字西三条7丁目3",
          "location_area" : "中川郡池田町",
+         "location_zipcode" : "083-0023",
          "owner_type" : "町立",
          "short_name" : "池田小学校",
+         "sort_name" : "いけたちようりついけた",
          "wikipedia_name" : "池田町立池田小学校 (北海道)"
       },
       "池田町立高島小学校" : {
@@ -4901,7 +5096,8 @@
       "登別市立登別小学校" : {
          "location_area" : "登別市",
          "owner_type" : "市立",
-         "short_name" : "登別小学校"
+         "short_name" : "登別小学校",
+         "sort_name" : "のほりへつしりつのほりへつしようかつこう"
       },
       "登別市立若草小学校" : {
          "location_area" : "登別市",
@@ -5124,9 +5320,12 @@
          "short_name" : "声問小学校"
       },
       "稚内市立大岬小学校" : {
+         "location" : "北海道稚内市宗谷岬",
          "location_area" : "稚内市",
+         "location_zipcode" : "098-6758",
          "owner_type" : "市立",
-         "short_name" : "大岬小学校"
+         "short_name" : "大岬小学校",
+         "sort_name" : "わつかないしりつおおみさき"
       },
       "稚内市立天北小学校" : {
          "location_area" : "稚内市",
@@ -5374,8 +5573,11 @@
          "short_name" : "美進小学校"
       },
       "美瑛町立美馬牛小学校" : {
+         "location" : "北海道上川郡美瑛町美馬牛南2丁目2番58号",
          "location_area" : "上川郡美瑛町",
+         "location_zipcode" : "071-0472",
          "owner_type" : "町立",
+         "school_area" : "美瑛町内 二股・瑠辺蘂・美馬牛",
          "short_name" : "美馬牛小学校"
       },
       "羽幌町立天売小学校" : {
@@ -6141,9 +6343,13 @@
    },
    "primary_and_secondary_schools" : {
       "札幌市立東米里小・中学校ひまわり分校" : {
+         "location" : "北海道札幌市中央区北11条西13丁目1番1号",
          "location_area" : "札幌市中央区",
+         "location_zipcode" : "343-0014",
          "owner_type" : "市立",
-         "short_name" : "東米里小・中学校ひまわり分校"
+         "short_name" : "東米里小・中学校ひまわり分校",
+         "sort_name" : "ひかしよねさと ひまわり",
+         "url" : "http://www.himawari-ej.sapporo-c.ed.jp/"
       }
    }
 }

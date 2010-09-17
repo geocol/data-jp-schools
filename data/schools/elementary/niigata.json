@@ -178,7 +178,8 @@
       "上越市立南川小学校" : {
          "location_area" : "上越市",
          "owner_type" : "市立",
-         "short_name" : "南川小学校"
+         "short_name" : "南川小学校",
+         "sort_name" : "しようえつしりつみなみかわしようかつこう"
       },
       "上越市立南本町小学校" : {
          "location_area" : "上越市",
@@ -288,7 +289,8 @@
       "上越市立明治小学校" : {
          "location_area" : "上越市",
          "owner_type" : "市立",
-         "short_name" : "明治小学校"
+         "short_name" : "明治小学校",
+         "sort_name" : "しようえつしりつめいししようかつこう"
       },
       "上越市立春日小学校" : {
          "location_area" : "上越市",
@@ -333,7 +335,8 @@
       "上越市立牧小学校" : {
          "location_area" : "上越市",
          "owner_type" : "市立",
-         "short_name" : "牧小学校"
+         "short_name" : "牧小学校",
+         "sort_name" : "しようえつしりつまきしよう"
       },
       "上越市立直江津南小学校" : {
          "location_area" : "上越市",
@@ -411,7 +414,8 @@
          "short_name" : "黒田小学校"
       },
       "上越教育大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しようえつきよういくたいかくふそくしよう"
       },
       "五泉市立五泉南小学校" : {
          "location_area" : "五泉市",
@@ -636,7 +640,8 @@
       "刈羽村立刈羽小学校" : {
          "location_area" : "刈羽郡刈羽村",
          "owner_type" : "村立",
-         "short_name" : "刈羽小学校"
+         "short_name" : "刈羽小学校",
+         "sort_name" : "かりわそんりつかりわしようかつこう"
       },
       "加茂市立七谷小学校" : {
          "location_area" : "加茂市",
@@ -869,9 +874,13 @@
          "short_name" : "第一上田小学校"
       },
       "南魚沼市立第二上田小学校" : {
+         "location" : "新潟県南魚沼市長崎2941",
          "location_area" : "南魚沼市",
+         "location_zipcode" : "949-6545",
          "owner_type" : "市立",
-         "short_name" : "第二上田小学校"
+         "short_name" : "第二上田小学校",
+         "sort_name" : "みなみうおぬましりつたいにうえたしょうかっこう",
+         "url" : "http://minamiuonuma.ed.jp/~dainiueda//"
       },
       "南魚沼市立薮神小学校" : {
          "location_area" : "南魚沼市",
@@ -1009,15 +1018,18 @@
          "short_name" : "弥彦小学校"
       },
       "新潟大学教育学部附属新潟小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "にいかたたいかくきよういくかくふふそくにいかた"
       },
       "新潟大学教育学部附属長岡小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "にいかたたいかくきよういくかくふふそくなかおかしよう"
       },
       "新潟市立万代長嶺小学校" : {
          "location_area" : "新潟市中央区",
          "owner_type" : "市立",
-         "short_name" : "万代長嶺小学校"
+         "short_name" : "万代長嶺小学校",
+         "sort_name" : "にいかたしりつはんたいなかみねしようかつこう"
       },
       "新潟市立上山小学校" : {
          "location_area" : "新潟市中央区",
@@ -1310,9 +1322,13 @@
          "short_name" : "月潟小学校"
       },
       "新潟市立有明台小学校" : {
+         "location" : "新潟県新潟市中央区有明台4-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "951-8145",
          "owner_type" : "市立",
-         "short_name" : "有明台小学校"
+         "short_name" : "有明台小学校",
+         "sort_name" : "にいかたしりつありあけたい",
+         "url" : "http://www.ariakedai-e-school.city-niigata.ed.jp/indextop.html"
       },
       "新潟市立木山小学校" : {
          "location_area" : "新潟市西区",
@@ -1397,7 +1413,8 @@
       "新潟市立浜浦小学校" : {
          "location_area" : "新潟市中央区",
          "owner_type" : "市立",
-         "short_name" : "浜浦小学校"
+         "short_name" : "浜浦小学校",
+         "sort_name" : "にいかたしりつはまうらしようかつこう"
       },
       "新潟市立湊小学校" : {
          "location_area" : "新潟市中央区",
@@ -1477,7 +1494,8 @@
       "新潟市立笹口小学校" : {
          "location_area" : "新潟市中央区",
          "owner_type" : "市立",
-         "short_name" : "笹口小学校"
+         "short_name" : "笹口小学校",
+         "sort_name" : "にいかたしりつささくちしようかつこう"
       },
       "新潟市立笹山小学校" : {
          "location_area" : "新潟市北区",
@@ -1510,9 +1528,13 @@
          "short_name" : "葛塚小学校"
       },
       "新潟市立葛塚東小学校" : {
+         "location" : "新潟県新潟市北区朝日町4-1-2",
          "location_area" : "新潟市北区",
+         "location_zipcode" : "950-3315",
          "owner_type" : "市立",
-         "short_name" : "葛塚東小学校"
+         "short_name" : "葛塚東小学校",
+         "sort_name" : "にいかたしりつくつつかひかししようかつこう",
+         "url" : "http://www.kuzutsukahigashi.city-niigata.ed.jp/"
       },
       "新潟市立西内野小学校" : {
          "location_area" : "新潟市西区",
@@ -1652,7 +1674,8 @@
       "新発田市立松浦小学校" : {
          "location_area" : "新発田市",
          "owner_type" : "市立",
-         "short_name" : "松浦小学校"
+         "short_name" : "松浦小学校",
+         "sort_name" : "しはたしりつまつうらしようかつこう"
       },
       "新発田市立猿橋小学校" : {
          "location_area" : "新発田市",
@@ -2305,9 +2328,13 @@
          "short_name" : "上小国小学校"
       },
       "長岡市立上川西小学校" : {
+         "location" : "新潟県長岡市下柳2-8-46",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2013",
          "owner_type" : "市立",
-         "short_name" : "上川西小学校"
+         "short_name" : "上川西小学校",
+         "sort_name" : "なかおかしりつかみかわにししようかつこう",
+         "url" : "http://www.kome100.ne.jp/kamikawanishi-es/"
       },
       "長岡市立上組小学校" : {
          "location_area" : "長岡市",
@@ -2330,14 +2357,22 @@
          "short_name" : "下小国小学校"
       },
       "長岡市立下川西小学校" : {
+         "location" : "新潟県長岡市花井町1019",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2475",
          "owner_type" : "市立",
-         "short_name" : "下川西小学校"
+         "short_name" : "下川西小学校",
+         "sort_name" : "なかおかしりつしもかわにししようかつこう",
+         "url" : "http://www.kome100.ne.jp/shimokawanishi-es/"
       },
       "長岡市立与板小学校" : {
+         "location" : "新潟県長岡市与板町東与板52",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2401",
          "owner_type" : "市立",
-         "short_name" : "与板小学校"
+         "short_name" : "与板小学校",
+         "sort_name" : "なかおかしりつよいたしようかつこう",
+         "url" : "http://www.kome100.ne.jp/yoita-es/"
       },
       "長岡市立中之島中央小学校" : {
          "location_area" : "長岡市",
@@ -2390,9 +2425,13 @@
          "short_name" : "四郎丸小学校"
       },
       "長岡市立大島小学校" : {
+         "location" : "新潟県長岡市大島新町5甲1000",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2104",
          "owner_type" : "市立",
-         "short_name" : "大島小学校"
+         "short_name" : "大島小学校",
+         "sort_name" : "なかおかしりつおおしましようかつこう",
+         "url" : "http://www.kome100.ne.jp/oojima-es/"
       },
       "長岡市立大河津小学校" : {
          "location_area" : "長岡市",
@@ -2430,9 +2469,13 @@
          "short_name" : "寺泊小学校"
       },
       "長岡市立山古志小学校" : {
+         "location" : "新潟県長岡市山古志竹沢乙284",
          "location_area" : "長岡市",
+         "location_zipcode" : "947-0204",
          "owner_type" : "市立",
-         "short_name" : "山古志小学校"
+         "short_name" : "山古志小学校",
+         "sort_name" : "なかおかしりつやまこししようかつこう",
+         "url" : "http://www.kome100.ne.jp/yamakoshi-es/"
       },
       "長岡市立山谷沢小学校" : {
          "location_area" : "長岡市",
@@ -2455,9 +2498,13 @@
          "short_name" : "川崎東小学校"
       },
       "長岡市立希望が丘小学校" : {
+         "location" : "新潟県長岡市西津町2204番地2",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2126",
          "owner_type" : "市立",
-         "short_name" : "希望が丘小学校"
+         "short_name" : "希望が丘小学校",
+         "sort_name" : "なかおかしりつきほうかおか",
+         "url" : "http://www.kome100.ne.jp/kibougaoka-es/"
       },
       "長岡市立才津小学校" : {
          "location_area" : "長岡市",
@@ -2467,7 +2514,8 @@
       "長岡市立新町小学校" : {
          "location_area" : "長岡市",
          "owner_type" : "市立",
-         "short_name" : "新町小学校"
+         "short_name" : "新町小学校",
+         "sort_name" : "なかおかしりつあらまち"
       },
       "長岡市立新組小学校" : {
          "location_area" : "長岡市",
@@ -2540,9 +2588,13 @@
          "short_name" : "神田小学校"
       },
       "長岡市立福戸小学校" : {
+         "location" : "新潟県長岡市福道町141",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2053",
          "owner_type" : "市立",
-         "short_name" : "福戸小学校"
+         "short_name" : "福戸小学校",
+         "sort_name" : "なかおかしりつふくとしようかつこう",
+         "url" : "http://www.kome100.ne.jp/fukuto-es/"
       },
       "長岡市立脇野町小学校" : {
          "location_area" : "長岡市",
@@ -2565,19 +2617,31 @@
          "short_name" : "豊田小学校"
       },
       "長岡市立越路小学校" : {
+         "location" : "新潟県長岡市浦270",
          "location_area" : "長岡市",
+         "location_zipcode" : "949-5406",
          "owner_type" : "市立",
-         "short_name" : "越路小学校"
+         "short_name" : "越路小学校",
+         "sort_name" : "なかおかしりつこしししよう",
+         "url" : "http://www.kome100.ne.jp/koshiji-es/"
       },
       "長岡市立越路西小学校" : {
+         "location" : "新潟県長岡市不動沢210-2",
          "location_area" : "長岡市",
+         "location_zipcode" : "949-5416",
          "owner_type" : "市立",
-         "short_name" : "越路西小学校"
+         "short_name" : "越路西小学校",
+         "sort_name" : "なかおかしりつこししにししようかつこう",
+         "url" : "http://www.kome100.ne.jp/koshijinishi-es/"
       },
       "長岡市立関原小学校" : {
+         "location" : "新潟県長岡市関原町2-110",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-2035",
          "owner_type" : "市立",
-         "short_name" : "関原小学校"
+         "short_name" : "関原小学校",
+         "sort_name" : "なかおかしりつせきはらしようかつこう",
+         "url" : "http://www.kome100.ne.jp/sekihara-es/"
       },
       "長岡市立阪之上小学校" : {
          "location_area" : "長岡市",

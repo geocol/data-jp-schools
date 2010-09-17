@@ -371,9 +371,13 @@
          "short_name" : "蕨島小学校"
       },
       "出水市立西出水小学校" : {
+         "location" : "鹿児島県出水市西出水町1045",
          "location_area" : "出水市",
+         "location_wikipedia_latlon" : "|32|04|29|N|130|20|28|E|",
+         "location_zipcode" : "899-0213",
          "owner_type" : "市立",
-         "short_name" : "西出水小学校"
+         "short_name" : "西出水小学校",
+         "sort_name" : "いすみしりつにしいすみしようかつこう"
       },
       "出水市立野田小学校" : {
          "location_area" : "出水市",
@@ -441,9 +445,13 @@
          "short_name" : "加世田小学校"
       },
       "南さつま市立坊津学園小学校" : {
+         "location" : "鹿児島県南さつま市坊津町坊8964番地",
          "location_area" : "南さつま市",
+         "location_zipcode" : "898-0101",
          "owner_type" : "市立",
-         "short_name" : "坊津学園小学校"
+         "short_name" : "坊津学園小学校",
+         "sort_name" : "みなみさつましりつほうのつかくえんしようかつこう",
+         "url" : "2010年4月現在なし"
       },
       "南さつま市立大坂小学校" : {
          "location_area" : "南さつま市",
@@ -546,9 +554,13 @@
          "short_name" : "宮脇小学校"
       },
       "南九州市立川辺小学校" : {
+         "location" : "鹿児島県南九州市川辺町平山7086",
          "location_area" : "南九州市",
+         "location_zipcode" : "897-0215",
          "owner_type" : "市立",
-         "short_name" : "川辺小学校"
+         "short_name" : "川辺小学校",
+         "sort_name" : "みなみきゆうしゆうしりつかわなへしようかつこう",
+         "url" : "http://minamikyushu-city.hs.plala.or.jp/kawanabe-es/index.html"
       },
       "南九州市立手蓑小学校" : {
          "location_area" : "南九州市",
@@ -1016,9 +1028,13 @@
          "short_name" : "赤木名小学校"
       },
       "姶良市立三船小学校" : {
+         "location" : "鹿児島県姶良市増田399番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|45|18|N|130|36|03|E|type:edu",
+         "location_zipcode" : "899-5403",
          "owner_type" : "市立",
-         "short_name" : "三船小学校"
+         "short_name" : "三船小学校",
+         "sort_name" : "あいらしりつみふね"
       },
       "姶良市立加治木小学校" : {
          "location_area" : "姶良市",
@@ -1026,39 +1042,67 @@
          "short_name" : "加治木小学校"
       },
       "姶良市立北山小学校" : {
+         "location" : "鹿児島県姶良市北山3783番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|49|18|N|130|36|03|E|type:edu",
+         "location_zipcode" : "899-5541",
          "owner_type" : "市立",
-         "short_name" : "北山小学校"
+         "short_name" : "北山小学校",
+         "sort_name" : "あいらしりつきたやま"
       },
       "姶良市立大山小学校" : {
+         "location" : "鹿児島県姶良市蒲生町白男5524番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|44|55|N|130|30|13|E|type:edu",
+         "location_zipcode" : "899-5305",
          "owner_type" : "市立",
-         "short_name" : "大山小学校"
+         "short_name" : "大山小学校",
+         "sort_name" : "あいらしりつおおやま"
       },
       "姶良市立姶良小学校" : {
+         "location" : "鹿児島県姶良市西餅田2726番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|43|24|N|130|37|09|E|type:edu",
+         "location_zipcode" : "899-5431",
          "owner_type" : "市立",
-         "short_name" : "姶良小学校"
+         "short_name" : "姶良小学校",
+         "sort_name" : "あいらしりつあいら",
+         "url" : "http://www12.synapse.ne.jp/aira-syo/toppage.html"
       },
       "姶良市立山田小学校" : {
+         "location" : "鹿児島県姶良市下名1018番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|46|17|N|130|36|45|E|type:edu",
+         "location_zipcode" : "899-5543",
          "owner_type" : "市立",
-         "short_name" : "山田小学校"
+         "short_name" : "山田小学校",
+         "sort_name" : "あいらしりつやまた"
       },
       "姶良市立帖佐小学校" : {
+         "location" : "鹿児島県姶良市鍋倉663番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|44|36|N|130|37|42|E|type:edu",
+         "location_zipcode" : "899-5411",
          "owner_type" : "市立",
-         "short_name" : "帖佐小学校"
+         "short_name" : "帖佐小学校",
+         "sort_name" : "あいらしりつちようさ",
+         "url" : "http://www12.synapse.ne.jp/chosa-es/"
       },
       "姶良市立建昌小学校" : {
+         "location" : "鹿児島県姶良市東餅田2405",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|43|38|N|130|37|48|E|type:edu",
+         "location_zipcode" : "899-5421",
          "owner_type" : "市立",
-         "short_name" : "建昌小学校"
+         "short_name" : "建昌小学校",
+         "sort_name" : "あいらしりつけんしよう",
+         "url" : "http://www.minc.ne.jp/kensyo/"
       },
       "姶良市立柁城小学校" : {
          "location_area" : "姶良市",
          "owner_type" : "市立",
-         "short_name" : "柁城小学校"
+         "short_name" : "柁城小学校",
+         "sort_name" : "あいらしりつたしよう"
       },
       "姶良市立永原小学校" : {
          "location_area" : "姶良市",
@@ -1066,9 +1110,13 @@
          "short_name" : "永原小学校"
       },
       "姶良市立漆小学校" : {
+         "location" : "鹿児島県姶良市蒲生町漆317番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|49|28|N|130|33|29|E|type:edu",
+         "location_zipcode" : "899-5301",
          "owner_type" : "市立",
-         "short_name" : "漆小学校"
+         "short_name" : "漆小学校",
+         "sort_name" : "あいらしりつうるし"
       },
       "姶良市立竜門小学校" : {
          "location_area" : "姶良市",
@@ -1076,24 +1124,43 @@
          "short_name" : "竜門小学校"
       },
       "姶良市立蒲生小学校" : {
+         "location" : "鹿児島県姶良市蒲生町上久徳2252番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|45|53|N|130|34|13|E|type:edu",
+         "location_zipcode" : "899-5302",
          "owner_type" : "市立",
-         "short_name" : "蒲生小学校"
+         "short_name" : "蒲生小学校",
+         "sort_name" : "あいらしりつかもう",
+         "url" : "http://www12.synapse.ne.jp/kamousyo/"
       },
       "姶良市立西姶良小学校" : {
+         "location" : "鹿児島県姶良市西姶良一丁目37-1",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|43|42|N|130|36|13|E|type:edu",
+         "location_zipcode" : "899-5656",
          "owner_type" : "市立",
-         "short_name" : "西姶良小学校"
+         "short_name" : "西姶良小学校",
+         "sort_name" : "あいらしりつにしあいら",
+         "url" : "http://www12.synapse.ne.jp/nishiaira/index.htm"
       },
       "姶良市立西浦小学校" : {
+         "location" : "鹿児島県姶良市蒲生町西浦815番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|48|03|N|130|31|55|E|type:edu",
+         "location_zipcode" : "899-5306",
          "owner_type" : "市立",
-         "short_name" : "西浦小学校"
+         "short_name" : "西浦小学校",
+         "sort_name" : "あいらしりつにしうら"
       },
       "姶良市立重富小学校" : {
+         "location" : "鹿児島県姶良市平松5636番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|42|21|N|130|36|15|E|type:edu",
+         "location_zipcode" : "899-5652",
          "owner_type" : "市立",
-         "short_name" : "重富小学校"
+         "short_name" : "重富小学校",
+         "sort_name" : "あいらしりつしけとみ",
+         "url" : "http://www12.synapse.ne.jp/sigetomisyo/"
       },
       "姶良市立錦江小学校" : {
          "location_area" : "姶良市",
@@ -1503,7 +1570,8 @@
       "曽於市立末吉小学校" : {
          "location_area" : "曽於市",
          "owner_type" : "市立",
-         "short_name" : "末吉小学校"
+         "short_name" : "末吉小学校",
+         "sort_name" : "そおしりつすえよししようかつこう"
       },
       "曽於市立柳迫小学校" : {
          "location_area" : "曽於市",
@@ -1546,9 +1614,13 @@
          "short_name" : "財部南小学校"
       },
       "曽於市立財部小学校" : {
+         "location" : "鹿児島県曽於市財部町北俣10882",
          "location_area" : "曽於市",
+         "location_wikipedia_latlon" : "|31|43|38|N|130|59|25|E|",
+         "location_zipcode" : "899-4102",
          "owner_type" : "市立",
-         "short_name" : "財部小学校"
+         "short_name" : "財部小学校",
+         "sort_name" : "そおしりつたからへしようかつこう"
       },
       "曽於市立高岡小学校" : {
          "location_area" : "曽於市",
@@ -1591,7 +1663,11 @@
          "short_name" : "金山小学校"
       },
       "池田学園池田小学校" : {
-         "owner_type" : "私立"
+         "location" : "鹿児島県鹿児島市西別府町1660番地",
+         "location_zipcode" : "890-0033",
+         "owner_type" : "私立",
+         "sort_name" : "いけたかくえんいけた",
+         "url" : "http://ikeda-p.ed.jp/"
       },
       "湧水町立上場小学校" : {
          "location_area" : "姶良郡湧水町",
@@ -1729,7 +1805,12 @@
          "short_name" : "知名小学校"
       },
       "神村学園初等部" : {
+         "location" : "鹿児島県いちき串木野市下名4460番地",
+         "location_wikipedia_latlon" : "|31|42|15.9|N|130|16|51|E|region:JP|display=title",
+         "location_zipcode" : "896-8686",
          "owner_type" : "私立",
+         "sort_name" : "かみむらかくえん",
+         "url" : "http://news.kamimura.ac.jp/school_news/el/index.html",
          "wikipedia_name" : "神村学園初等部・中等部・高等部"
       },
       "肝付町立内之浦小学校" : {
@@ -1788,9 +1869,12 @@
          "short_name" : "亀山小学校"
       },
       "薩摩川内市立入来小学校" : {
+         "location" : "鹿児島県薩摩川内市入来町浦之名60番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-1402",
          "owner_type" : "市立",
-         "short_name" : "入来小学校"
+         "short_name" : "入来小学校",
+         "url" : "http://www.edu.satsumasendai.jp/iriki-e/"
       },
       "薩摩川内市立八幡小学校" : {
          "location_area" : "薩摩川内市",
@@ -1923,9 +2007,13 @@
          "short_name" : "育英小学校"
       },
       "薩摩川内市立藤川小学校" : {
+         "location" : "鹿児島県薩摩川内市東郷町藤川916番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-1102",
          "owner_type" : "市立",
-         "short_name" : "藤川小学校"
+         "short_name" : "藤川小学校",
+         "sort_name" : "さつませんたいしりつふしかわしよう",
+         "url" : "http://www.edu.satsumasendai.jp/fujikawa-e/"
       },
       "薩摩川内市立藤本小学校" : {
          "location_area" : "薩摩川内市",
@@ -2070,7 +2158,8 @@
       "錦江町立池田小学校" : {
          "location_area" : "肝属郡錦江町",
          "owner_type" : "町立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "きんこうちようりついけたしようかつこう"
       },
       "錦江町立田代小学校" : {
          "location_area" : "肝属郡錦江町",
@@ -2353,75 +2442,133 @@
          "short_name" : "青葉小学校"
       },
       "霧島市立高千穂小学校" : {
+         "location" : "鹿児島県霧島市牧園町高千穂3855番55",
          "location_area" : "霧島市",
+         "location_wikipedia_latlon" : "|31|53|05|N|130|49|09|E|",
+         "location_zipcode" : "899-6603",
          "owner_type" : "市立",
-         "short_name" : "高千穂小学校"
+         "short_name" : "高千穂小学校",
+         "sort_name" : "きりしましりつたかちほしようかつこう",
+         "url" : "http://www2.synapse.ne.jp/takachiho/"
       },
       "鹿児島三育小学校" : {
          "owner_type" : "私立"
       },
       "鹿児島大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "鹿児島県鹿児島市郡元1丁目20-15",
+         "location_zipcode" : "890-0065",
+         "owner_type" : "国立",
+         "sort_name" : "かこしまたいかくきよういくかくふふそくしよう",
+         "url" : "http://www-fs.edu.kagoshima-u.ac.jp/"
       },
       "鹿児島市立一倉小学校" : {
+         "location" : "鹿児島県鹿児島市喜入一倉町5335番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0204",
          "owner_type" : "市立",
-         "short_name" : "一倉小学校"
+         "short_name" : "一倉小学校",
+         "sort_name" : "かこしましりつひとくらしようかつこう"
       },
       "鹿児島市立中名小学校" : {
+         "location" : "鹿児島県鹿児島市喜入中名町1079番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|23|28.6|N|130|31|58.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "中名小学校"
+         "short_name" : "中名小学校",
+         "sort_name" : "かこしましりつなかみようしよう",
+         "url" : "http://keinet.com/nakamyos/"
       },
       "鹿児島市立中山小学校" : {
+         "location" : "鹿児島県鹿児島市中山2丁目30番3号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|32|58.5|N|130|30|13.8|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0108",
          "owner_type" : "市立",
-         "short_name" : "中山小学校"
+         "short_name" : "中山小学校",
+         "sort_name" : "かこしましりつちゆうさんしようかつこう",
+         "url" : "http://www.keinet.com/chuzans/"
       },
       "鹿児島市立中洲小学校" : {
+         "location" : "鹿児島県鹿児島市上之園町28-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|47.3|N|130|32|38.3|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0052",
          "owner_type" : "市立",
-         "short_name" : "中洲小学校"
+         "short_name" : "中洲小学校",
+         "sort_name" : "かこしましりつなかすしよう"
       },
       "鹿児島市立中郡小学校" : {
+         "location" : "鹿児島県鹿児島市郡元2-4-6",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|49.7|N|130|32|47|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0065",
          "owner_type" : "市立",
-         "short_name" : "中郡小学校"
+         "short_name" : "中郡小学校",
+         "sort_name" : "かこしましりつなかこおりしよう",
+         "url" : "http://www.keinet.com/nakagos/"
       },
       "鹿児島市立伊敷台小学校" : {
+         "location" : "鹿児島県鹿児島市伊敷台4丁目20番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0007",
          "owner_type" : "市立",
-         "short_name" : "伊敷台小学校"
+         "short_name" : "伊敷台小学校",
+         "sort_name" : "かこしましりついしきしようたいかつこう"
       },
       "鹿児島市立伊敷小学校" : {
+         "location" : "鹿児島県鹿児島市伊敷5-19-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0008",
          "owner_type" : "市立",
-         "short_name" : "伊敷小学校"
+         "short_name" : "伊敷小学校",
+         "sort_name" : "かこしましりついしきしよう",
+         "url" : "http://keinet.com/ishikis/index.htm"
       },
       "鹿児島市立八幡小学校" : {
+         "location" : "鹿児島県鹿児島市下荒田3-25-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0056",
          "owner_type" : "市立",
-         "short_name" : "八幡小学校"
+         "short_name" : "八幡小学校",
+         "sort_name" : "かこしましりつやはたしよう",
+         "url" : "http://www.keinet.com/yahatas/"
       },
       "鹿児島市立前之浜小学校" : {
+         "location" : "鹿児島県鹿児島市喜入前之浜町7036",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0205",
          "owner_type" : "市立",
-         "short_name" : "前之浜小学校"
+         "short_name" : "前之浜小学校",
+         "sort_name" : "かこしましりつまえのはましようかつこう"
       },
       "鹿児島市立南小学校" : {
+         "location" : "鹿児島県鹿児島市東郡元町13-22",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|8.8|N|130|32|49.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0068",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "かこしましりつみなみしよう"
       },
       "鹿児島市立南方小学校" : {
+         "location" : "鹿児島県鹿児島市川田町1415",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1103",
          "owner_type" : "市立",
-         "short_name" : "南方小学校"
+         "short_name" : "南方小学校",
+         "sort_name" : "かこしましりつみなみかたしよう",
+         "url" : "http://keinet.com/minas/"
       },
       "鹿児島市立原良小学校" : {
+         "location" : "鹿児島県鹿児島市原良2丁目1番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|50.6|N|130|32|5.7|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0026",
          "owner_type" : "市立",
-         "short_name" : "原良小学校"
+         "short_name" : "原良小学校",
+         "sort_name" : "かこしましりつはららしよう",
+         "url" : "http://www.keinet.com/hararas/"
       },
       "鹿児島市立吉田小学校" : {
          "location_area" : "鹿児島市",
@@ -2429,314 +2576,574 @@
          "short_name" : "吉田小学校"
       },
       "鹿児島市立吉野小学校" : {
+         "location" : "鹿児島県鹿児島市吉野町2472",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0871",
          "owner_type" : "市立",
-         "short_name" : "吉野小学校"
+         "short_name" : "吉野小学校",
+         "sort_name" : "かこしましりつよしのしよう",
+         "url" : "http://www.keinet.com/yoshinos/"
       },
       "鹿児島市立吉野東小学校" : {
+         "location" : "鹿児島県鹿児島市吉野町5968番地1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0871",
          "owner_type" : "市立",
-         "short_name" : "吉野東小学校"
+         "short_name" : "吉野東小学校",
+         "sort_name" : "かこしましりつよしのひかししよう",
+         "url" : "http://www.keinet.com/yoshihis/"
       },
       "鹿児島市立名山小学校" : {
+         "location" : "鹿児島県鹿児島市山下町6番43号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|47.1|N|130|33|20.1|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892",
          "owner_type" : "市立",
-         "short_name" : "名山小学校"
+         "short_name" : "名山小学校",
+         "sort_name" : "かこしましりつめいさんしよう",
+         "url" : "http://www.keinet.com/meizans/"
       },
       "鹿児島市立向陽小学校" : {
+         "location" : "鹿児島県鹿児島市田上町5508番地27",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0035",
          "owner_type" : "市立",
-         "short_name" : "向陽小学校"
+         "short_name" : "向陽小学校",
+         "sort_name" : "かこしましりつこうようしよう",
+         "url" : "http://www.keinet.com/kouyous/"
       },
       "鹿児島市立和田小学校" : {
+         "location" : "鹿児島県鹿児島市和田二丁目2-10",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|30|36.5|N|130|30|41.8|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "和田小学校"
+         "short_name" : "和田小学校",
+         "sort_name" : "かこしましりつわたしよう",
+         "url" : "http://www.keinet.com/wadas/"
       },
       "鹿児島市立喜入小学校" : {
+         "location" : "鹿児島県鹿児島市喜入町6993",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|22|29.9|N|130|32|28.1|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0203",
          "owner_type" : "市立",
-         "short_name" : "喜入小学校"
+         "short_name" : "喜入小学校",
+         "sort_name" : "かこしましりつきいれしようかつこう"
       },
       "鹿児島市立坂元台小学校" : {
+         "location" : "鹿児島県鹿児島市西坂元町58番2号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0863",
          "owner_type" : "市立",
-         "short_name" : "坂元台小学校"
+         "short_name" : "坂元台小学校",
+         "sort_name" : "かこしましりつさかもとたいしようかつこう",
+         "url" : "http://www.keinet.com/sakadas/"
       },
       "鹿児島市立坂元小学校" : {
+         "location" : "鹿児島県鹿児島市玉里団地3丁目45番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0811",
          "owner_type" : "市立",
-         "short_name" : "坂元小学校"
+         "short_name" : "坂元小学校",
+         "sort_name" : "かこしましりつさかもとしよう",
+         "url" : "http://www.keinet.com/sakamos/"
       },
       "鹿児島市立城南小学校" : {
+         "location" : "鹿児島県鹿児島市城南町1番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|55.1|N|130|33|41.1|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892-0835",
          "owner_type" : "市立",
-         "short_name" : "城南小学校"
+         "short_name" : "城南小学校",
+         "sort_name" : "かこしましりつしようなんしよう",
+         "url" : "http://www.keinet.com/jyounans/"
       },
       "鹿児島市立大明丘小学校" : {
+         "location" : "鹿児島県鹿児島市大明丘1丁目18-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0872",
          "owner_type" : "市立",
-         "short_name" : "大明丘小学校"
+         "short_name" : "大明丘小学校",
+         "sort_name" : "かこしましりつたいみようかおかしよう",
+         "url" : "http://www.keinet.com/daimyous/"
       },
       "鹿児島市立大龍小学校" : {
+         "location" : "鹿児島県鹿児島市大竜町11番44号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0805",
          "owner_type" : "市立",
-         "short_name" : "大龍小学校"
+         "short_name" : "大龍小学校",
+         "sort_name" : "かこしましりつたいりゆうしよう",
+         "url" : "http://keinet.com/dairyuus/"
       },
       "鹿児島市立宇宿小学校" : {
+         "location" : "鹿児島県鹿児島市宇宿4-21-7",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|32|44.2|N|130|32|10.1|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0073",
          "owner_type" : "市立",
-         "short_name" : "宇宿小学校"
+         "short_name" : "宇宿小学校",
+         "sort_name" : "かこしましりつうすきしよう"
       },
       "鹿児島市立宮小学校" : {
+         "location" : "鹿児島県鹿児島市宮之浦町1953番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1305",
          "owner_type" : "市立",
-         "short_name" : "宮小学校"
+         "short_name" : "宮小学校",
+         "sort_name" : "かこしましりつみやしよう",
+         "url" : "http://keinet.com/miyas/"
       },
       "鹿児島市立宮川小学校" : {
+         "location" : "鹿児島県鹿児島市皇徳寺台4丁目26-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "宮川小学校"
+         "short_name" : "宮川小学校",
+         "sort_name" : "かこしましりつみやかわしようかつこう",
+         "url" : "http://keinet.com/miyakas/index.htm"
       },
       "鹿児島市立小山田小学校" : {
+         "location" : "鹿児島県鹿児島市小山田町9398",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|39|49.9|N|130|29|22.1|E|region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "小山田小学校"
+         "short_name" : "小山田小学校",
+         "sort_name" : "かこしましりつこやまたしよう"
       },
       "鹿児島市立山下小学校" : {
+         "location" : "鹿児島県鹿児島市西千石町15番5号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|25.9|N|130|33|1.9|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892-0847",
          "owner_type" : "市立",
-         "short_name" : "山下小学校"
+         "short_name" : "山下小学校",
+         "sort_name" : "かこしましりつやましたしよう",
+         "url" : "http://www.keinet.com/yamashis/"
       },
       "鹿児島市立川上小学校" : {
+         "location" : "鹿児島県鹿児島市川上町322",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0875",
          "owner_type" : "市立",
-         "short_name" : "川上小学校"
+         "short_name" : "川上小学校",
+         "sort_name" : "かこしましりかわかみしよう"
       },
       "鹿児島市立平川小学校" : {
+         "location" : "鹿児島県鹿児島市平川町3795番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|26|58.5|N|130|30|51.5|E|region:JP|display=title",
+         "location_zipcode" : "891-0133",
          "owner_type" : "市立",
-         "short_name" : "平川小学校"
+         "short_name" : "平川小学校",
+         "sort_name" : "かこしましりつひらかわしよう",
+         "url" : "http://www.keinet.com/hirakas/"
       },
       "鹿児島市立広木小学校" : {
+         "location" : "鹿児島県鹿児島市田上町5511",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0035",
          "owner_type" : "市立",
-         "short_name" : "広木小学校"
+         "short_name" : "広木小学校",
+         "sort_name" : "かこしましりつひろきしよう",
+         "url" : "http://www.keinet.com/hirokis/"
       },
       "鹿児島市立明和小学校" : {
+         "location" : "鹿児島県鹿児島市明和2丁目1番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|6.1|N|130|31|20|E|region:JP|display=title",
+         "location_zipcode" : "890-0024",
          "owner_type" : "市立",
-         "short_name" : "明和小学校"
+         "short_name" : "明和小学校",
+         "sort_name" : "かこしましりつめいわしよう",
+         "url" : "http://www.keinet.com/meiwas/"
       },
       "鹿児島市立星峯東小学校" : {
+         "location" : "鹿児島県鹿児島市星ヶ峯1丁目17番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|23.5|N|130|30|13.6|E|region:JP|display=title",
+         "location_zipcode" : "891-0102",
          "owner_type" : "市立",
-         "short_name" : "星峯東小学校"
+         "short_name" : "星峯東小学校",
+         "sort_name" : "かこしましりつほしみねひかししよう",
+         "url" : "http://www.keinet.com/hoshihis/"
       },
       "鹿児島市立星峯西小学校" : {
+         "location" : "鹿児島県鹿児島市星ヶ峯4丁目9番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|41.5|N|130|29|36.1|E|region:JP|display=title",
+         "location_zipcode" : "891-0102",
          "owner_type" : "市立",
-         "short_name" : "星峯西小学校"
+         "short_name" : "星峯西小学校",
+         "sort_name" : "かこしましりつほしみねにししよう",
+         "url" : "http://www.keinet.com/hoshinis/"
       },
       "鹿児島市立春山小学校" : {
+         "location" : "鹿児島県鹿児島市春山町1824-2",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|2.35|N|130|27|26.41|E|",
+         "location_zipcode" : "899-2704",
          "owner_type" : "市立",
-         "short_name" : "春山小学校"
+         "short_name" : "春山小学校",
+         "sort_name" : "かこしましりつはるやましようかつこう",
+         "url" : "http://www.www.keinet.com/haruyas/index2.html"
       },
       "鹿児島市立本名小学校" : {
+         "location" : "鹿児島県鹿児島市本名町3579番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1304",
          "owner_type" : "市立",
-         "short_name" : "本名小学校"
+         "short_name" : "本名小学校",
+         "sort_name" : "かこしましりつほんみようしよう",
+         "url" : "http://keinet.com/honmyous/"
       },
       "鹿児島市立本城小学校" : {
+         "location" : "鹿児島県鹿児島市本城町1705番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1303",
          "owner_type" : "市立",
-         "short_name" : "本城小学校"
+         "short_name" : "本城小学校",
+         "sort_name" : "かこしましりつほんしようしよう",
+         "url" : "http://keinet.com/honmyous/"
       },
       "鹿児島市立東昌小学校" : {
+         "location" : "鹿児島県鹿児島市直木町4307-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|2.77|N|130|24|59.49|E|",
+         "location_zipcode" : "899-2705",
          "owner_type" : "市立",
-         "short_name" : "東昌小学校"
+         "short_name" : "東昌小学校",
+         "sort_name" : "かこしましりつとうしようしようかつこう",
+         "url" : "http://keinet.com/toushos/"
       },
       "鹿児島市立東桜島小学校" : {
+         "location" : "鹿児島県鹿児島市東桜島町17番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1543",
          "owner_type" : "市立",
-         "short_name" : "東桜島小学校"
+         "short_name" : "東桜島小学校",
+         "sort_name" : "かこしましりつひかしさくらしましようかつこう",
+         "url" : "http://www.keinet.com/hisakus/"
       },
       "鹿児島市立東谷山小学校" : {
+         "location" : "鹿児島県鹿児島市魚見町124-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0112",
          "owner_type" : "市立",
-         "short_name" : "東谷山小学校"
+         "short_name" : "東谷山小学校",
+         "sort_name" : "かこしましりつひかしたにやましよう"
       },
       "鹿児島市立松元小学校" : {
+         "location" : "鹿児島県鹿児島市上谷口町956番地1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|22.94|N|130|26|7.37|E|",
+         "location_zipcode" : "899-2703",
          "owner_type" : "市立",
-         "short_name" : "松元小学校"
+         "short_name" : "松元小学校",
+         "sort_name" : "かこしましりつまつもとしようかつこう",
+         "url" : "http://keinet.com/matsumos/index.htm"
       },
       "鹿児島市立松原小学校" : {
+         "location" : "鹿児島県鹿児島市南林寺町2-18",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|8.6|N|130|33|31.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892-0834",
          "owner_type" : "市立",
-         "short_name" : "松原小学校"
+         "short_name" : "松原小学校",
+         "sort_name" : "かこしましりつまつはらしよう"
       },
       "鹿児島市立桜丘東小学校" : {
+         "location" : "鹿児島県鹿児島市桜ヶ丘6-13",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|32|52.1|N|130|31|18.5|E|region:JP|display=title",
+         "location_zipcode" : "891-0175",
          "owner_type" : "市立",
-         "short_name" : "桜丘東小学校"
+         "short_name" : "桜丘東小学校",
+         "sort_name" : "かこしましりつさくらかおかひかししよう"
       },
       "鹿児島市立桜丘西小学校" : {
+         "location" : "鹿児島県鹿児島市桜ヶ丘2-35",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|14.9|N|130|30|39.8|E|region:JP|display=title",
+         "location_zipcode" : "891-0175",
          "owner_type" : "市立",
-         "short_name" : "桜丘西小学校"
+         "short_name" : "桜丘西小学校",
+         "sort_name" : "かこしましりつさくらかおかにししよう"
       },
       "鹿児島市立桜峰小学校" : {
+         "location" : "鹿児島県鹿児島市桜島松浦町355番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1413",
          "owner_type" : "市立",
-         "short_name" : "桜峰小学校"
+         "short_name" : "桜峰小学校",
+         "sort_name" : "かこしましりつおうほうしよう",
+         "url" : "http://www.keinet.com/ouhous/"
       },
       "鹿児島市立桜洲小学校" : {
+         "location" : "鹿児島県鹿児島市桜島小池町55番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1418",
          "owner_type" : "市立",
-         "short_name" : "桜洲小学校"
+         "short_name" : "桜洲小学校",
+         "sort_name" : "かこしましりつおうしゆうしよう",
+         "url" : "http://www.keinet.com/oushus/"
       },
       "鹿児島市立武小学校" : {
+         "location" : "鹿児島県鹿児島市武1-35-31",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|39|N|130|32|17.4|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0045",
          "owner_type" : "市立",
-         "short_name" : "武小学校"
+         "short_name" : "武小学校",
+         "sort_name" : "かこしましりつたけしよう"
       },
       "鹿児島市立武岡台小学校" : {
+         "location" : "鹿児島県鹿児島市武岡6-1-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|46.4|N|130|30|54.7|E|region:JP|display=title",
+         "location_zipcode" : "890-0031",
          "owner_type" : "市立",
-         "short_name" : "武岡台小学校"
+         "short_name" : "武岡台小学校",
+         "sort_name" : "かこしましりつたけおかたいしよう"
       },
       "鹿児島市立武岡小学校" : {
+         "location" : "鹿児島県鹿児島市武岡2-30-31",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|29.1|N|130|31|2.3|E|region:JP|display=title",
+         "location_zipcode" : "890-0031",
          "owner_type" : "市立",
-         "short_name" : "武岡小学校"
+         "short_name" : "武岡小学校",
+         "sort_name" : "かこしましりつたけおかしよう",
+         "url" : "http://www.keinet.com/takeokas/"
       },
       "鹿児島市立清和小学校" : {
+         "location" : "鹿児島県鹿児島市上福元町1277-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|32|7|N|130|30|37.3|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0116",
          "owner_type" : "市立",
-         "short_name" : "清和小学校"
+         "short_name" : "清和小学校",
+         "sort_name" : "かこしましりつせいわしよう"
       },
       "鹿児島市立清水小学校" : {
+         "location" : "鹿児島県鹿児島市清水町8-15",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0802",
          "owner_type" : "市立",
-         "short_name" : "清水小学校"
+         "short_name" : "清水小学校",
+         "sort_name" : "かこしましりつきよみすしよう"
       },
       "鹿児島市立瀬々串小学校" : {
+         "location" : "鹿児島県鹿児島市喜入瀬々串町3103-2",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|25|20|N|130|31|13.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0201",
          "owner_type" : "市立",
-         "short_name" : "瀬々串小学校"
+         "short_name" : "瀬々串小学校",
+         "sort_name" : "かこしましりつせせくししようかつこう"
       },
       "鹿児島市立牟礼岡小学校" : {
+         "location" : "鹿児島県鹿児島市牟礼岡1丁目1番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1306",
          "owner_type" : "市立",
-         "short_name" : "牟礼岡小学校"
+         "short_name" : "牟礼岡小学校",
+         "sort_name" : "かこしましりつむれおかしよう",
+         "url" : "http://keinet.com/muregaos/"
       },
       "鹿児島市立犬迫小学校" : {
+         "location" : "鹿児島県鹿児島市犬迫町5745",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|37|48.3|N|130|29|47.5|E|region:JP|display=title",
+         "location_zipcode" : "891-1205",
          "owner_type" : "市立",
-         "short_name" : "犬迫小学校"
+         "short_name" : "犬迫小学校",
+         "sort_name" : "かこしましりついぬさこしよう"
       },
       "鹿児島市立玉江小学校" : {
+         "location" : "鹿児島県鹿児島市下伊敷1丁目35番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|45.5|N|130|32|3.4|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0005",
          "owner_type" : "市立",
-         "short_name" : "玉江小学校"
+         "short_name" : "玉江小学校",
+         "sort_name" : "かこしましりつたまえしよう",
+         "url" : "http://www.keinet.com/tamaes/"
       },
       "鹿児島市立生見小学校" : {
+         "location" : "鹿児島県鹿児島市喜入生見町1365",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0206",
          "owner_type" : "市立",
-         "short_name" : "生見小学校"
+         "short_name" : "生見小学校",
+         "sort_name" : "かこしましりつぬくみしようかつこう",
+         "url" : "http://keinet.com/nukumis/"
       },
       "鹿児島市立田上小学校" : {
+         "location" : "鹿児島県鹿児島市田上5丁目12番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0034",
          "owner_type" : "市立",
-         "short_name" : "田上小学校"
+         "short_name" : "田上小学校",
+         "sort_name" : "かこしましりつたかみしよう",
+         "url" : "http://www.keinet.com/tagamis/"
       },
       "鹿児島市立皆与志小学校" : {
+         "location" : "鹿児島県鹿児島市皆与志町4307",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1206",
          "owner_type" : "市立",
-         "short_name" : "皆与志小学校"
+         "short_name" : "皆与志小学校",
+         "sort_name" : "かこしましりつみなよししよう"
       },
       "鹿児島市立皇徳寺小学校" : {
+         "location" : "鹿児島県鹿児島市皇徳寺台2丁目50-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "皇徳寺小学校"
+         "short_name" : "皇徳寺小学校",
+         "sort_name" : "かこしましりつこうとくししようかつこう",
+         "url" : "http://keinet.com/koutokus/index.htm"
       },
       "鹿児島市立石谷小学校" : {
+         "location" : "鹿児島県鹿児島市石谷町1360",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|45.75|N|130|27|36.28|E|",
+         "location_zipcode" : "899-2701",
          "owner_type" : "市立",
-         "short_name" : "石谷小学校"
+         "short_name" : "石谷小学校",
+         "sort_name" : "かこしましりついしたにしようかつこう"
       },
       "鹿児島市立福平小学校" : {
+         "location" : "鹿児島県鹿児島市平川町819番地3号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|28|40.5|N|130|30|5.5|E|region:JP|display=title",
+         "location_zipcode" : "891-0133",
          "owner_type" : "市立",
-         "short_name" : "福平小学校"
+         "short_name" : "福平小学校",
+         "sort_name" : "かこしましりつふくひらしよう",
+         "url" : "http://www.keinet.com/fukuhis/"
       },
       "鹿児島市立紫原小学校" : {
+         "location" : "鹿児島県鹿児島市紫原2丁目36番50号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0082",
          "owner_type" : "市立",
-         "short_name" : "紫原小学校"
+         "short_name" : "紫原小学校",
+         "sort_name" : "かこしましりつむらさきはるしよう",
+         "url" : "http://www.keinet.com/murasas/"
       },
       "鹿児島市立花尾小学校" : {
+         "location" : "鹿児島県鹿児島市花尾町170番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1101",
          "owner_type" : "市立",
-         "short_name" : "花尾小学校"
+         "short_name" : "花尾小学校",
+         "sort_name" : "かこしましりつはなおしよう",
+         "url" : "http://keinet.com/hanaos/"
       },
       "鹿児島市立花野小学校" : {
+         "location" : "鹿児島県鹿児島市花野光ヶ丘1-1-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1204",
          "owner_type" : "市立",
-         "short_name" : "花野小学校"
+         "short_name" : "花野小学校",
+         "sort_name" : "かこしましりつけのしよう",
+         "url" : "http://www.keinet.com/kenos/"
       },
       "鹿児島市立草牟田小学校" : {
+         "location" : "鹿児島県鹿児島市城山2丁目3-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0813",
          "owner_type" : "市立",
-         "short_name" : "草牟田小学校"
+         "short_name" : "草牟田小学校",
+         "sort_name" : "かこしましりつそうむたしよう",
+         "url" : "http://www.keinet.com/soumutas/index.htm"
       },
       "鹿児島市立荒田小学校" : {
+         "location" : "鹿児島県鹿児島市荒田2丁目50-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|33.3|N|130|32|54.2|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "荒田小学校"
+         "short_name" : "荒田小学校",
+         "url" : "http://www.keinet.com/aratas/"
       },
       "鹿児島市立西伊敷小学校" : {
+         "location" : "鹿児島県鹿児島市西伊敷四丁目12番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0002",
          "owner_type" : "市立",
-         "short_name" : "西伊敷小学校"
+         "short_name" : "西伊敷小学校",
+         "sort_name" : "かこしましりつにしいしきしよう",
+         "url" : "http://www.keinet.com/niishis/"
       },
       "鹿児島市立西田小学校" : {
+         "location" : "鹿児島県鹿児島市薬師2丁目31番1号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0042",
          "owner_type" : "市立",
-         "short_name" : "西田小学校"
+         "short_name" : "西田小学校",
+         "sort_name" : "かこしましりつにしたしよう",
+         "url" : "http://www.keinet.com/nishidas/"
       },
       "鹿児島市立西紫原小学校" : {
+         "location" : "鹿児島県鹿児島市紫原4丁目16番4号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0082",
          "owner_type" : "市立",
-         "short_name" : "西紫原小学校"
+         "short_name" : "西紫原小学校",
+         "sort_name" : "かこしましりつにしむらさきはるしよう",
+         "url" : "http://www.keinet.com/nimuras/"
       },
       "鹿児島市立西谷山小学校" : {
+         "location" : "鹿児島県鹿児島市上福元町6464-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|31|26.2|N|130|30|3.9|E|region:JP|display=title",
+         "location_zipcode" : "891-0116",
          "owner_type" : "市立",
-         "short_name" : "西谷山小学校"
+         "short_name" : "西谷山小学校",
+         "sort_name" : "かこしましりつにしたにやましよう"
       },
       "鹿児島市立西陵小学校" : {
+         "location" : "鹿児島県鹿児島市西陵1丁目11番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|45.5|N|130|30|59|E|region:JP|display=title",
+         "location_zipcode" : "890-0032",
          "owner_type" : "市立",
-         "short_name" : "西陵小学校"
+         "short_name" : "西陵小学校",
+         "sort_name" : "かこしましりつせいりようしよう",
+         "url" : "http://www.keinet.com/seiryous/"
       },
       "鹿児島市立谷山小学校" : {
+         "location" : "鹿児島県鹿児島市谷山中央一丁目4962番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|31|21|N|130|31|02|E",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "谷山小学校"
+         "short_name" : "谷山小学校",
+         "sort_name" : "かこしましりつたにやましようかつこう",
+         "url" : "http://www.keinet.com/taniyas/"
       },
       "鹿児島市立郡山小学校" : {
+         "location" : "鹿児島県鹿児島市郡山町2080",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1105",
          "owner_type" : "市立",
-         "short_name" : "郡山小学校"
+         "short_name" : "郡山小学校",
+         "sort_name" : "かこしましりつこおりやましよう",
+         "url" : "http://keinet.com/koriyas/"
       },
       "鹿児島市立錦江台小学校" : {
+         "location" : "鹿児島県鹿児島市錦江台1-70-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|30|1.2|N|130|29|39.2|E|region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "錦江台小学校"
+         "short_name" : "錦江台小学校",
+         "sort_name" : "かこしましりつきんこうたいしよう"
       },
       "鹿児島市立錫山小学校" : {
          "location_area" : "鹿児島市",
@@ -2744,14 +3151,22 @@
          "short_name" : "錫山小学校"
       },
       "鹿児島市立鴨池小学校" : {
+         "location" : "鹿児島県鹿児島市真砂本町59-28",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|16.5|N|130|33|9|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0103",
          "owner_type" : "市立",
-         "short_name" : "鴨池小学校"
+         "short_name" : "鴨池小学校",
+         "sort_name" : "かこしましりつかもいけしよう"
       },
       "鹿児島市立黒神小学校" : {
+         "location" : "鹿児島県鹿児島市黒神町2561番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1401",
          "owner_type" : "市立",
-         "short_name" : "黒神小学校"
+         "short_name" : "黒神小学校",
+         "sort_name" : "かこしましりつくろかみしよう",
+         "url" : "http://keinet.com/kurokas/"
       },
       "鹿屋市立上小原小学校" : {
          "location_area" : "鹿屋市",
@@ -2864,19 +3279,32 @@
          "short_name" : "西俣小学校"
       },
       "鹿屋市立西原台小学校" : {
+         "location" : "鹿児島県鹿屋市今坂町12560-2",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-0057",
          "owner_type" : "市立",
-         "short_name" : "西原台小学校"
+         "short_name" : "西原台小学校",
+         "sort_name" : "かのやしりつにしはらたいしよう",
+         "url" : "http://www.edu-kanoya.net/hp/menu000211000/hpg000210901.htm"
       },
       "鹿屋市立西原小学校" : {
+         "location" : "鹿児島県鹿屋市西原1-15-3",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-0064",
          "owner_type" : "市立",
-         "short_name" : "西原小学校"
+         "short_name" : "西原小学校",
+         "sort_name" : "かのやしりつにしはらしよう",
+         "url" : "http://www.edu-kanoya.net/hp/menu000210900/hpg000210801.htm"
       },
       "鹿屋市立野里小学校" : {
+         "location" : "鹿児島県鹿屋市上野町4155",
          "location_area" : "鹿屋市",
+         "location_wikipedia_latlon" : "|31|22|17|N|130|49|13|E",
+         "location_zipcode" : "893-0056",
          "owner_type" : "市立",
-         "short_name" : "野里小学校"
+         "short_name" : "野里小学校",
+         "sort_name" : "かのやしりつのさとしよう",
+         "url" : "http://www.edu-kanoya.net/hp/menu000211600/hpg000211501.htm"
       },
       "鹿屋市立高尾小学校" : {
          "location_area" : "鹿屋市",

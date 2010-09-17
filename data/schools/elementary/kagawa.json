@@ -46,9 +46,14 @@
          "short_name" : "石田小学校"
       },
       "さぬき市立神前小学校" : {
+         "location" : "香川県さぬき市寒川町神前1615番地",
          "location_area" : "さぬき市",
+         "location_wikipedia_latlon" : "|34|17|01|N|134|12|32|E|",
+         "location_zipcode" : "769-2323",
          "owner_type" : "市立",
-         "short_name" : "神前小学校"
+         "short_name" : "神前小学校",
+         "sort_name" : "さぬきしりつかんさきしようかつこう",
+         "url" : "http://ew.sanuki.ne.jp/kansho/"
       },
       "さぬき市立造田小学校" : {
          "location_area" : "さぬき市",
@@ -61,9 +66,14 @@
          "short_name" : "長尾小学校"
       },
       "さぬき市立鴨部小学校" : {
+         "location" : "香川県さぬき市鴨部1137",
          "location_area" : "さぬき市",
+         "location_wikipedia_latlon" : "|34|18|43|N|134|13|00|E|",
+         "location_zipcode" : "769-2104",
          "owner_type" : "市立",
-         "short_name" : "鴨部小学校"
+         "short_name" : "鴨部小学校",
+         "sort_name" : "さぬきしりつかへしようかつこう",
+         "url" : "http://www.niji.or.jp/school/kabese01/"
       },
       "まんのう町立仲南小学校" : {
          "location_area" : "仲多度郡まんのう町",
@@ -71,9 +81,13 @@
          "short_name" : "仲南小学校"
       },
       "まんのう町立四条小学校" : {
+         "location" : "香川県仲多度郡まんのう町四条728",
          "location_area" : "仲多度郡まんのう町",
+         "location_wikipedia_latlon" : "|34|11|39|N|133|50|17|E|",
+         "location_zipcode" : "766-0021",
          "owner_type" : "町立",
-         "short_name" : "四条小学校"
+         "short_name" : "四条小学校",
+         "sort_name" : "まんのうちようりつししようしようかつこう"
       },
       "まんのう町立満濃南小学校" : {
          "location_area" : "仲多度郡まんのう町",
@@ -246,14 +260,23 @@
          "short_name" : "垂水小学校"
       },
       "丸亀市立城乾小学校" : {
+         "location" : "香川県丸亀市中府町5丁目15-1",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|17|16|N|133|47|33|E|",
+         "location_zipcode" : "763-0033",
          "owner_type" : "市立",
-         "short_name" : "城乾小学校"
+         "short_name" : "城乾小学校",
+         "sort_name" : "まるかめしりつしようけんしようかつこう",
+         "url" : "http://www.marugame-joken-e.ed.jp/"
       },
       "丸亀市立城北小学校" : {
+         "location" : "香川県丸亀市瓦町95",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|17|38|N|133|47|59|E|",
+         "location_zipcode" : "763-0002",
          "owner_type" : "市立",
-         "short_name" : "城北小学校"
+         "short_name" : "城北小学校",
+         "sort_name" : "まるかめしりつしようほくしようかつこう"
       },
       "丸亀市立城南小学校" : {
          "location_area" : "丸亀市",
@@ -266,9 +289,14 @@
          "short_name" : "城坤小学校"
       },
       "丸亀市立城東小学校" : {
+         "location" : "香川県丸亀市土器町西5丁目113",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|17|09|N|133|48|45|E|",
+         "location_zipcode" : "763-0081",
          "owner_type" : "市立",
-         "short_name" : "城東小学校"
+         "short_name" : "城東小学校",
+         "sort_name" : "まるかめしりつしようとうしようかつこう",
+         "url" : "http://www.marugame-joto-e.ed.jp/"
       },
       "丸亀市立城西小学校" : {
          "location_area" : "丸亀市",
@@ -291,14 +319,24 @@
          "short_name" : "小手島小学校"
       },
       "丸亀市立岡田小学校" : {
+         "location" : "香川県丸亀市綾歌町岡田下217番地",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|13|37|N|133|51|30|E|",
+         "location_zipcode" : "761-2402",
          "owner_type" : "市立",
-         "short_name" : "岡田小学校"
+         "short_name" : "岡田小学校",
+         "sort_name" : "まるかめしりつおかたしようかつこう",
+         "url" : "http://www.niji.or.jp/school/okadasho/index.htm"
       },
       "丸亀市立本島小学校" : {
+         "location" : "香川県丸亀市本島町泊18番地",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|23|15|N|133|46|59|E|",
+         "location_zipcode" : "763-0223",
          "owner_type" : "市立",
-         "short_name" : "本島小学校"
+         "short_name" : "本島小学校",
+         "sort_name" : "まるかめしりつほんしましようかつこう",
+         "url" : "http://www.honjima-e.ed.jp/"
       },
       "丸亀市立栗熊小学校" : {
          "location_area" : "丸亀市",
@@ -366,9 +404,14 @@
          "short_name" : "西部小学校"
       },
       "土庄町立北浦小学校" : {
+         "location" : "香川県小豆郡土庄町見目甲1587",
          "location_area" : "小豆郡土庄町",
+         "location_wikipedia_latlon" : "|34|31|35|N|134|13|42|E|",
+         "location_zipcode" : "761-4143",
          "owner_type" : "町立",
-         "short_name" : "北浦小学校"
+         "short_name" : "北浦小学校",
+         "sort_name" : "とのしようちようりつきたうらしようかつこう",
+         "url" : "http://www.niji.or.jp/school/kitaurasyo/"
       },
       "土庄町立四海小学校" : {
          "location_area" : "小豆郡土庄町",
@@ -376,9 +419,14 @@
          "short_name" : "四海小学校"
       },
       "土庄町立土庄小学校" : {
+         "location" : "香川県小豆郡土庄町甲657番地7",
          "location_area" : "小豆郡土庄町",
+         "location_wikipedia_latlon" : "|34|11|01|N|134|29|09|E|",
+         "location_zipcode" : "761-4101",
          "owner_type" : "町立",
-         "short_name" : "土庄小学校"
+         "short_name" : "土庄小学校",
+         "sort_name" : "とのしようちようりつとのしようしようかつこう",
+         "url" : "http://www.niji.or.jp/school/tonosho/"
       },
       "土庄町立渕崎小学校" : {
          "location_area" : "小豆郡土庄町",
@@ -461,9 +509,13 @@
          "short_name" : "四箇小学校"
       },
       "多度津町立多度津小学校" : {
+         "location" : "香川県仲多度郡多度津町栄町3丁目1-9",
          "location_area" : "仲多度郡多度津町",
+         "location_wikipedia_latlon" : "|34|16|17|N|133|45|15|E|",
+         "location_zipcode" : "764-0011",
          "owner_type" : "町立",
-         "short_name" : "多度津小学校"
+         "short_name" : "多度津小学校",
+         "sort_name" : "たとつちようりつたとつしようかつこう"
       },
       "多度津町立白方小学校" : {
          "location_area" : "仲多度郡多度津町",
@@ -491,14 +543,23 @@
          "short_name" : "安田小学校"
       },
       "小豆島町立星城小学校" : {
+         "location" : "香川県小豆郡小豆郡草壁本町632-1",
          "location_area" : "小豆郡小豆島町",
+         "location_wikipedia_latlon" : "|34|28|53|N|134|18|04|E|",
+         "location_zipcode" : "761-4432",
          "owner_type" : "町立",
-         "short_name" : "星城小学校"
+         "short_name" : "星城小学校",
+         "sort_name" : "しようとしまちようりつせいしようしようかつこう"
       },
       "小豆島町立池田小学校" : {
+         "location" : "香川県小豆郡小豆島町池田1760番地",
          "location_area" : "小豆郡小豆島町",
+         "location_wikipedia_latlon" : "|34|28|47|N|134|14|12|E|",
+         "location_zipcode" : "761-4301",
          "owner_type" : "町立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "しようとしまちようりついけたしようかつこう",
+         "url" : "http://www18.ocn.ne.jp/~ikesho/"
       },
       "小豆島町立苗羽小学校" : {
          "location_area" : "小豆郡小豆島町",
@@ -656,10 +717,12 @@
          "short_name" : "高室小学校"
       },
       "香川大学教育学部附属坂出小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "かかわたいかくきよういくかくふふそくさかいてしよう"
       },
       "香川大学教育学部附属高松小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "かかわたいかくきよういくかくふふそくたかまつしようかつこう"
       },
       "高松市立一宮小学校" : {
          "location_area" : "高松市",
@@ -682,9 +745,13 @@
          "short_name" : "下笠居小学校"
       },
       "高松市立中央小学校" : {
+         "location" : "香川県高松市松縄町字南原1138番地",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0079",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "たかまつしりつちゆうおうしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/chuuouHP/"
       },
       "高松市立亀阜小学校" : {
          "location_area" : "高松市",
@@ -712,14 +779,22 @@
          "short_name" : "十河小学校"
       },
       "高松市立古高松南小学校" : {
+         "location" : "香川県高松市新田町甲2605番地",
          "location_area" : "高松市",
+         "location_zipcode" : "761-0102",
          "owner_type" : "市立",
-         "short_name" : "古高松南小学校"
+         "short_name" : "古高松南小学校",
+         "sort_name" : "たかまつしりつふるたかまつみなみしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/hurutakaminamiHP/"
       },
       "高松市立古高松小学校" : {
+         "location" : "香川県高松市高松町字地頭名398番地",
          "location_area" : "高松市",
+         "location_zipcode" : "761-0104",
          "owner_type" : "市立",
-         "short_name" : "古高松小学校"
+         "short_name" : "古高松小学校",
+         "sort_name" : "たかまつしりつふるたかまつしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/hurutakamatusyouHP/"
       },
       "高松市立国分寺北部小学校" : {
          "location_area" : "高松市",
@@ -747,14 +822,22 @@
          "short_name" : "大野小学校"
       },
       "高松市立太田南小学校" : {
+         "location" : "香川県高松市太田下町1823番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761-8073",
          "owner_type" : "市立",
-         "short_name" : "太田南小学校"
+         "short_name" : "太田南小学校",
+         "sort_name" : "たかまつしりつおおたみなみしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/ootaminamiHP/"
       },
       "高松市立太田小学校" : {
+         "location" : "香川県高松市伏石町845番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761-8071",
          "owner_type" : "市立",
-         "short_name" : "太田小学校"
+         "short_name" : "太田小学校",
+         "sort_name" : "たかまつしりつおおたしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/ootasyouHP/"
       },
       "高松市立安原小学校" : {
          "location_area" : "高松市",
@@ -762,19 +845,30 @@
          "short_name" : "安原小学校"
       },
       "高松市立屋島小学校" : {
+         "location" : "香川県高松市屋島西町1205番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761-0113",
          "owner_type" : "市立",
-         "short_name" : "屋島小学校"
+         "short_name" : "屋島小学校",
+         "sort_name" : "たかまつしりつやしましようかつこう"
       },
       "高松市立屋島東小学校" : {
+         "location" : "香川県高松市屋島東町942番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761",
          "owner_type" : "市立",
-         "short_name" : "屋島東小学校"
+         "short_name" : "屋島東小学校",
+         "sort_name" : "たかまつしりつやしまひかししようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/yasimahigasiHP/"
       },
       "高松市立屋島西小学校" : {
+         "location" : "香川県高松市屋島西町2469番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761-0113",
          "owner_type" : "市立",
-         "short_name" : "屋島西小学校"
+         "short_name" : "屋島西小学校",
+         "sort_name" : "たかまつしりつやしまにししようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/yasimanisiHP/"
       },
       "高松市立川岡小学校" : {
          "location_area" : "高松市",
@@ -817,19 +911,31 @@
          "short_name" : "新番丁小学校"
       },
       "高松市立木太北部小学校" : {
+         "location" : "香川県高松市木太町2613番地",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0080",
          "owner_type" : "市立",
-         "short_name" : "木太北部小学校"
+         "short_name" : "木太北部小学校",
+         "sort_name" : "たかまつしりつきたほくぶしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/kitahokubuHP/"
       },
       "高松市立木太南小学校" : {
+         "location" : "香川県高松市木太町1530番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0080",
          "owner_type" : "市立",
-         "short_name" : "木太南小学校"
+         "short_name" : "木太南小学校",
+         "sort_name" : "たかまつしりつきたみなみしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/kitaminamiHP/"
       },
       "高松市立木太小学校" : {
+         "location" : "香川県高松市木太町（7区）字夷村3480番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0800",
          "owner_type" : "市立",
-         "short_name" : "木太小学校"
+         "short_name" : "木太小学校",
+         "sort_name" : "たかまつしりつきたしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/kitasyouHP/"
       },
       "高松市立東植田小学校" : {
          "location_area" : "高松市",
@@ -902,9 +1008,13 @@
          "short_name" : "鬼無小学校"
       },
       "高松市立鶴尾小学校" : {
+         "location" : "香川県高松市松並町字橋詰636番地1",
          "location_area" : "高松市",
+         "location_zipcode" : "761-8052",
          "owner_type" : "市立",
-         "short_name" : "鶴尾小学校"
+         "short_name" : "鶴尾小学校",
+         "sort_name" : "たかまつしりつつるおしようかつこう",
+         "url" : "http://www.edu-tens.net/syoHP/turuoHP/"
       }
    }
 }

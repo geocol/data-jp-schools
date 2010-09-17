@@ -421,14 +421,19 @@
          "short_name" : "八戸小学校"
       },
       "八戸市立吹上小学校" : {
+         "location" : "青森県八戸市吹上一丁目14番36号",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0003",
          "owner_type" : "市立",
-         "short_name" : "吹上小学校"
+         "short_name" : "吹上小学校",
+         "sort_name" : "はちのへしりつふきあけしよう",
+         "url" : "http://www.hachinohe.ed.jp/fukiag_e/"
       },
       "八戸市立図南小学校" : {
          "location_area" : "八戸市",
          "owner_type" : "市立",
-         "short_name" : "図南小学校"
+         "short_name" : "図南小学校",
+         "sort_name" : "はちのへしりつとなんしよう"
       },
       "八戸市立城下小学校" : {
          "location_area" : "八戸市",
@@ -603,7 +608,8 @@
       "八戸市立轟木小学校" : {
          "location_area" : "八戸市",
          "owner_type" : "市立",
-         "short_name" : "轟木小学校"
+         "short_name" : "轟木小学校",
+         "sort_name" : "はちのへしりつととろきしよう"
       },
       "八戸市立金浜小学校" : {
          "location_area" : "八戸市",
@@ -956,7 +962,8 @@
          "short_name" : "金田小学校"
       },
       "弘前大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ひろさきたいかくきよういくかくふふそくしよう"
       },
       "弘前市立三和小学校" : {
          "location_area" : "弘前市",
@@ -1009,9 +1016,12 @@
          "short_name" : "大和沢小学校"
       },
       "弘前市立大成小学校" : {
+         "location" : "青森県弘前市御幸町13-1",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8185",
          "owner_type" : "市立",
-         "short_name" : "大成小学校"
+         "short_name" : "大成小学校",
+         "sort_name" : "ひろさきしりつたいせいしようかつこう"
       },
       "弘前市立小友小学校" : {
          "location_area" : "弘前市",
@@ -1044,19 +1054,27 @@
          "short_name" : "新和小学校"
       },
       "弘前市立時敏小学校" : {
+         "location" : "青森県弘前市宮園一丁目5の1",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8063",
          "owner_type" : "市立",
-         "short_name" : "時敏小学校"
+         "short_name" : "時敏小学校",
+         "sort_name" : "ひろさきしりつしひんしよう",
+         "url" : "http://www.hi-it.net/~jibin/"
       },
       "弘前市立朝陽小学校" : {
          "location_area" : "弘前市",
          "owner_type" : "市立",
-         "short_name" : "朝陽小学校"
+         "short_name" : "朝陽小学校",
+         "sort_name" : "ひろさきしりつちようようしよう"
       },
       "弘前市立東小学校" : {
+         "location" : "青森県弘前市城東中央5丁目6-1",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8093",
          "owner_type" : "市立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "ひろさきしりつひかししようかつこう"
       },
       "弘前市立東目屋小学校" : {
          "location_area" : "弘前市",
@@ -1084,9 +1102,12 @@
          "short_name" : "相馬小学校"
       },
       "弘前市立石川小学校" : {
+         "location" : "青森県弘前市石川字庄司川添19-1",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8124",
          "owner_type" : "市立",
-         "short_name" : "石川小学校"
+         "short_name" : "石川小学校",
+         "sort_name" : "ひろさきしりついしかわしよう"
       },
       "弘前市立福村小学校" : {
          "location_area" : "弘前市",
@@ -1094,14 +1115,18 @@
          "short_name" : "福村小学校"
       },
       "弘前市立第三大成小学校" : {
+         "location" : "青森県弘前市富田町47",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8173",
          "owner_type" : "市立",
-         "short_name" : "第三大成小学校"
+         "short_name" : "第三大成小学校",
+         "sort_name" : "ひろさきしりつたいさんたいせいしようかつこう"
       },
       "弘前市立自得小学校" : {
          "location_area" : "弘前市",
          "owner_type" : "市立",
-         "short_name" : "自得小学校"
+         "short_name" : "自得小学校",
+         "sort_name" : "ひろさきしりつしとくしよう"
       },
       "弘前市立致遠小学校" : {
          "location_area" : "弘前市",
@@ -1124,9 +1149,12 @@
          "short_name" : "西小学校"
       },
       "弘前市立豊田小学校" : {
+         "location" : "青森県弘前市豊田1丁目4-1",
          "location_area" : "弘前市",
+         "location_zipcode" : "036-8101",
          "owner_type" : "市立",
-         "short_name" : "豊田小学校"
+         "short_name" : "豊田小学校",
+         "sort_name" : "ひろさきしりつとよたしようかつこう"
       },
       "弘前市立青柳小学校" : {
          "location_area" : "弘前市",
@@ -1301,7 +1329,8 @@
       "野辺地町立若葉小学校" : {
          "location_area" : "上北郡野辺地町",
          "owner_type" : "町立",
-         "short_name" : "若葉小学校"
+         "short_name" : "若葉小学校",
+         "sort_name" : "のへしちようりつわかはしよう"
       },
       "野辺地町立野辺地小学校" : {
          "location_area" : "上北郡野辺地町",
@@ -1356,247 +1385,306 @@
       "青森市立三内小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "三内小学校"
+         "short_name" : "三内小学校",
+         "sort_name" : "あおもりしりつさんないしよう"
       },
       "青森市立三内西小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "三内西小学校"
+         "short_name" : "三内西小学校",
+         "sort_name" : "あおもりしりつさんないにししよう"
       },
       "青森市立久栗坂小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "久栗坂小学校"
+         "short_name" : "久栗坂小学校",
+         "sort_name" : "あおもりしりつくくりさかしよう"
       },
       "青森市立佃小学校" : {
+         "location" : "青森県青森市佃二丁目6番1号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0962",
          "owner_type" : "市立",
-         "short_name" : "佃小学校"
+         "short_name" : "佃小学校",
+         "sort_name" : "あおもりしりつつくたしよう"
       },
       "青森市立千刈小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "千刈小学校"
+         "short_name" : "千刈小学校",
+         "sort_name" : "あおもりしりつせんかりしよう"
       },
       "青森市立原別小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "原別小学校"
+         "short_name" : "原別小学校",
+         "sort_name" : "あおもりしりつはらへつしよう"
       },
       "青森市立古川小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "古川小学校"
+         "short_name" : "古川小学校",
+         "sort_name" : "あおもりしりつふるかわしよう"
       },
       "青森市立合浦小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "合浦小学校"
+         "short_name" : "合浦小学校",
+         "sort_name" : "あおもりしりつかつほしよう"
       },
       "青森市立堤小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "堤小学校"
+         "short_name" : "堤小学校",
+         "sort_name" : "あおもりしりつつつみしよう"
       },
       "青森市立大栄小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "大栄小学校"
+         "short_name" : "大栄小学校",
+         "sort_name" : "あおもりしりつたいえいしよう"
       },
       "青森市立大野小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "あおもりしりつおおのしよう"
       },
       "青森市立奥内小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "奥内小学校"
+         "short_name" : "奥内小学校",
+         "sort_name" : "あおもりしりつおくないしよう"
       },
       "青森市立女鹿沢小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "女鹿沢小学校"
+         "short_name" : "女鹿沢小学校",
+         "sort_name" : "あおもりしりつめかさわしよう"
       },
       "青森市立小柳小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "小柳小学校"
+         "short_name" : "小柳小学校",
+         "sort_name" : "あおもりしりつこやなきしよう"
       },
       "青森市立幸畑小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "幸畑小学校"
+         "short_name" : "幸畑小学校",
+         "sort_name" : "あおもりしりつこうはたしよう"
       },
       "青森市立後潟小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "後潟小学校"
+         "short_name" : "後潟小学校",
+         "sort_name" : "あおもりしりつうしろかたしよう"
       },
       "青森市立戸山西小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "戸山西小学校"
+         "short_name" : "戸山西小学校",
+         "sort_name" : "あおもりしりつとやまにししよう"
       },
       "青森市立新城中央小学校" : {
+         "location" : "青森県青森市新城平岡144-1",
          "location_area" : "青森市",
+         "location_zipcode" : "038-0042",
          "owner_type" : "市立",
-         "short_name" : "新城中央小学校"
+         "short_name" : "新城中央小学校",
+         "sort_name" : "あおもりしりつしんしようちゆうおうしよう"
       },
       "青森市立新城小学校" : {
+         "location" : "青森県青森市新城平岡266-14",
          "location_area" : "青森市",
+         "location_zipcode" : "038-0042",
          "owner_type" : "市立",
-         "short_name" : "新城小学校"
+         "short_name" : "新城小学校",
+         "sort_name" : "あおもりしりつしんしようしよう"
       },
       "青森市立本郷小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "本郷小学校"
+         "short_name" : "本郷小学校",
+         "sort_name" : "あおもりしりつほんこうしよう"
       },
       "青森市立東陽小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "東陽小学校"
+         "short_name" : "東陽小学校",
+         "sort_name" : "あおもりしりつとうようしよう"
       },
       "青森市立栄山小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "栄山小学校"
+         "short_name" : "栄山小学校",
+         "sort_name" : "あおもりしりつさかえやましよう"
       },
       "青森市立横内小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "横内小学校"
+         "short_name" : "横内小学校",
+         "sort_name" : "あおもりしりつよこうちしよう"
       },
       "青森市立橋本小学校" : {
+         "location" : "青森県青森市橋本一丁目9の17",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0823",
          "owner_type" : "市立",
-         "short_name" : "橋本小学校"
+         "short_name" : "橋本小学校",
+         "sort_name" : "あおもりしりつはしもとしよう"
       },
       "青森市立沖館小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "沖館小学校"
+         "short_name" : "沖館小学校",
+         "sort_name" : "あおもりしりつおきたてしよう"
       },
       "青森市立油川小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "油川小学校"
+         "short_name" : "油川小学校",
+         "sort_name" : "あおもりしりつあふらかわしよう"
       },
       "青森市立泉川小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "泉川小学校"
+         "short_name" : "泉川小学校",
+         "sort_name" : "あおもりしりついすみかわしよう"
       },
       "青森市立浅虫小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浅虫小学校"
+         "short_name" : "浅虫小学校",
+         "sort_name" : "あおもりしりつあさむししよう"
       },
       "青森市立浜田小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浜田小学校"
+         "short_name" : "浜田小学校",
+         "sort_name" : "あおもりしりつはまたしよう"
       },
       "青森市立浜館小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浜館小学校"
+         "short_name" : "浜館小学校",
+         "sort_name" : "あおもりしりつはまたてしよう"
       },
       "青森市立浦町小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浦町小学校"
+         "short_name" : "浦町小学校",
+         "sort_name" : "あおもりしりつうらまちしよう"
       },
       "青森市立浪岡北小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浪岡北小学校"
+         "short_name" : "浪岡北小学校",
+         "sort_name" : "あおもりしりつなみおかきたしよう"
       },
       "青森市立浪岡南小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浪岡南小学校"
+         "short_name" : "浪岡南小学校",
+         "sort_name" : "あおもりしりつなみおかみなみしよう"
       },
       "青森市立浪岡野沢小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浪岡野沢小学校"
+         "short_name" : "浪岡野沢小学校",
+         "sort_name" : "あおもりしりつなみおかのさわしよう"
       },
       "青森市立浪打小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浪打小学校"
+         "short_name" : "浪打小学校",
+         "sort_name" : "あおもりしりつなみうちしよう"
       },
       "青森市立浪館小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浪館小学校"
+         "short_name" : "浪館小学校",
+         "sort_name" : "あおもりしりつなみたてしよう"
       },
       "青森市立甲田小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "甲田小学校"
+         "short_name" : "甲田小学校",
+         "sort_name" : "あおもりしりつこうたしよう"
       },
       "青森市立筒井南小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "筒井南小学校"
+         "short_name" : "筒井南小学校",
+         "sort_name" : "あおもりしりつつついみなみしよう"
       },
       "青森市立筒井小学校" : {
+         "location" : "青森県青森市筒井一丁目1番1号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0944",
          "owner_type" : "市立",
-         "short_name" : "筒井小学校"
+         "short_name" : "筒井小学校",
+         "sort_name" : "あおもりしりつつついしよう"
       },
       "青森市立篠田小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "篠田小学校"
+         "short_name" : "篠田小学校",
+         "sort_name" : "あおもりしりつしのたしよう"
       },
       "青森市立荒川小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "荒川小学校"
+         "short_name" : "荒川小学校",
+         "sort_name" : "あおもりしりつあらかわしよう"
       },
       "青森市立莨町小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "莨町小学校"
+         "short_name" : "莨町小学校",
+         "sort_name" : "あおもりしりつたはこまちしよう"
       },
       "青森市立西田沢小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "西田沢小学校"
+         "short_name" : "西田沢小学校",
+         "sort_name" : "あおもりしりつにしたさわしよう"
       },
       "青森市立造道小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "造道小学校"
+         "short_name" : "造道小学校",
+         "sort_name" : "あおもりしりつつくりみちしよう"
       },
       "青森市立野内小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "野内小学校"
+         "short_name" : "野内小学校",
+         "sort_name" : "あおもりしりつのないしよう"
       },
       "青森市立野沢小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "野沢小学校"
+         "short_name" : "野沢小学校",
+         "sort_name" : "あおもりしりつのさわしよう"
       },
       "青森市立金沢小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "金沢小学校"
+         "short_name" : "金沢小学校",
+         "sort_name" : "あおもりしりつかなさわしよう"
       },
       "青森市立長島小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "長島小学校"
+         "short_name" : "長島小学校",
+         "sort_name" : "あおもりしりつなかしましよう"
       },
       "青森市立高田小学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "高田小学校"
+         "short_name" : "高田小学校",
+         "sort_name" : "あおもりしりつたかた"
       },
       "風間浦村立下風呂小学校" : {
          "location_area" : "下北郡風間浦村",
@@ -1661,7 +1749,8 @@
       "鶴田町立水元中央小学校" : {
          "location_area" : "北津軽郡鶴田町",
          "owner_type" : "町立",
-         "short_name" : "水元中央小学校"
+         "short_name" : "水元中央小学校",
+         "sort_name" : "つるたちようりつみすもとちゆうおうしよう"
       },
       "鶴田町立胡桃館小学校" : {
          "location_area" : "北津軽郡鶴田町",
@@ -1676,7 +1765,8 @@
       "鶴田町立鶴田小学校" : {
          "location_area" : "北津軽郡鶴田町",
          "owner_type" : "町立",
-         "short_name" : "鶴田小学校"
+         "short_name" : "鶴田小学校",
+         "sort_name" : "つるたちようりつつるたしよう"
       },
       "黒石市立上十川小学校" : {
          "location_area" : "黒石市",

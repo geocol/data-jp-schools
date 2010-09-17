@@ -81,9 +81,12 @@
          "short_name" : "山守小学校"
       },
       "倉吉市立成徳小学校" : {
+         "location" : "鳥取県倉吉市仲ノ町733番地",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0824",
          "owner_type" : "市立",
-         "short_name" : "成徳小学校"
+         "short_name" : "成徳小学校",
+         "sort_name" : "くらよししりつせいとくしようかつこう"
       },
       "倉吉市立明倫小学校" : {
          "location_area" : "倉吉市",
@@ -126,9 +129,13 @@
          "short_name" : "丹比小学校"
       },
       "八頭町立八東小学校" : {
+         "location" : "鳥取県八頭郡八頭町東328番地",
          "location_area" : "八頭郡八頭町",
+         "location_wikipedia_latlon" : "|35|21|43|N|134|19|28|E|",
+         "location_zipcode" : "680-0532",
          "owner_type" : "町立",
-         "short_name" : "八東小学校"
+         "short_name" : "八東小学校",
+         "sort_name" : "やすちようりつはつとうしようかつこう"
       },
       "八頭町立大江小学校" : {
          "location_area" : "八頭郡八頭町",
@@ -141,9 +148,14 @@
          "short_name" : "安部小学校"
       },
       "八頭町立船岡小学校" : {
+         "location" : "鳥取県八頭郡八頭町坂田11",
          "location_area" : "八頭郡八頭町",
+         "location_wikipedia_latlon" : "|35|23|27|N|134|14|58|E|",
+         "location_zipcode" : "680-0473",
          "owner_type" : "町立",
-         "short_name" : "船岡小学校"
+         "short_name" : "船岡小学校",
+         "sort_name" : "やすちようりつふなおかしようかつこう",
+         "url" : "http://www.torikyo.ed.jp/funaoka-e/"
       },
       "八頭町立郡家東小学校" : {
          "location_area" : "八頭郡八頭町",
@@ -156,9 +168,14 @@
          "short_name" : "郡家西小学校"
       },
       "八頭町立隼小学校" : {
+         "location" : "鳥取県八頭町見槻中160",
          "location_area" : "八頭郡八頭町",
+         "location_wikipedia_latlon" : "|35|23|15|N|134|16|09|E|",
+         "location_zipcode" : "680-0404",
          "owner_type" : "町立",
-         "short_name" : "隼小学校"
+         "short_name" : "隼小学校",
+         "sort_name" : "やすちようりつはやふさしようかつこう",
+         "url" : "http://www.torikyo.ed.jp/hayabusa-e/"
       },
       "北栄町立北条小学校" : {
          "location_area" : "東伯郡北栄町",
@@ -166,9 +183,13 @@
          "short_name" : "北条小学校"
       },
       "北栄町立大栄小学校" : {
+         "location" : "鳥取県東伯郡北栄町由良宿213番地",
          "location_area" : "東伯郡北栄町",
+         "location_zipcode" : "689-2221",
          "owner_type" : "町立",
-         "short_name" : "大栄小学校"
+         "short_name" : "大栄小学校",
+         "sort_name" : "ほくえいちようりつたいえいしようかつこう",
+         "url" : "http://www.torikyo.ed.jp/daiei-e/"
       },
       "南部町立会見小学校" : {
          "location_area" : "西伯郡南部町",
@@ -333,7 +354,8 @@
       "琴浦町立以西小学校" : {
          "location_area" : "東伯郡琴浦町",
          "owner_type" : "町立",
-         "short_name" : "以西小学校"
+         "short_name" : "以西小学校",
+         "sort_name" : "ことうらちようりついさいしようかつこう"
       },
       "琴浦町立八橋小学校" : {
          "location_area" : "東伯郡琴浦町",
@@ -396,9 +418,13 @@
          "short_name" : "和田小学校"
       },
       "米子市立啓成小学校" : {
+         "location" : "鳥取県米子市博労町4-290",
          "location_area" : "米子市",
+         "location_zipcode" : "683-0052",
          "owner_type" : "市立",
-         "short_name" : "啓成小学校"
+         "short_name" : "啓成小学校",
+         "sort_name" : "よなこしりつけいしようしよう",
+         "url" : "http://www.torikyo.ed.jp/keijo-e/"
       },
       "米子市立大篠津小学校" : {
          "location_area" : "米子市",
@@ -488,10 +514,15 @@
       "若桜町立若桜小学校" : {
          "location_area" : "八頭郡若桜町",
          "owner_type" : "町立",
-         "short_name" : "若桜小学校"
+         "short_name" : "若桜小学校",
+         "sort_name" : "わかさちようりつわかさしようかつこう"
       },
       "鳥取大学附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "鳥取県鳥取市湖山町南4-101",
+         "location_zipcode" : "680-0945",
+         "owner_type" : "国立",
+         "sort_name" : "とつとりたいかくふそくしよう",
+         "url" : "http://www.fuzoku.tottori-u.ac.jp/~fusho/"
       },
       "鳥取市立世紀小学校" : {
          "location_area" : "鳥取市",
@@ -509,9 +540,13 @@
          "short_name" : "久松小学校"
       },
       "鳥取市立佐治小学校" : {
+         "location" : "鳥取県鳥取市佐治町福園41",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-1316",
          "owner_type" : "市立",
-         "short_name" : "佐治小学校"
+         "short_name" : "佐治小学校",
+         "sort_name" : "とつとりしりつさししよう",
+         "url" : "http://www.torikyo.ed.jp/saji-e/"
       },
       "鳥取市立修立小学校" : {
          "location_area" : "鳥取市",
@@ -574,14 +609,23 @@
          "short_name" : "明徳小学校"
       },
       "鳥取市立明治小学校" : {
+         "location" : "鳥取県鳥取市松上159",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-1423",
          "owner_type" : "市立",
-         "short_name" : "明治小学校"
+         "short_name" : "明治小学校",
+         "sort_name" : "とつとりしりつめいししよう",
+         "url" : "http://www.torikyo.ed.jp/meiji-e/"
       },
       "鳥取市立末恒小学校" : {
+         "location" : "鳥取県鳥取市伏野2256-61",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|31|34|N|134|08|08|E|",
+         "location_zipcode" : "689-0201",
          "owner_type" : "市立",
-         "short_name" : "末恒小学校"
+         "short_name" : "末恒小学校",
+         "sort_name" : "とつとりしりつすえつね",
+         "url" : "http://www.torikyo.ed.jp/suetune-e/"
       },
       "鳥取市立東郷小学校" : {
          "location_area" : "鳥取市",
@@ -609,9 +653,13 @@
          "short_name" : "浜村小学校"
       },
       "鳥取市立湖南学園小学校" : {
+         "location" : "鳥取県鳥取市六反田1-5",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-1443",
          "owner_type" : "市立",
-         "short_name" : "湖南学園小学校"
+         "short_name" : "湖南学園小学校",
+         "sort_name" : "とつとりしりつこなんかくえんしよう",
+         "url" : "http://www.torikyo.ed.jp/konan-e/"
       },
       "鳥取市立湖山小学校" : {
          "location_area" : "鳥取市",
@@ -629,9 +677,13 @@
          "short_name" : "瑞穂小学校"
       },
       "鳥取市立用瀬小学校" : {
+         "location" : "鳥取県鳥取市用瀬町用瀬75-1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-1201",
          "owner_type" : "市立",
-         "short_name" : "用瀬小学校"
+         "short_name" : "用瀬小学校",
+         "sort_name" : "とつとりしりつもちかせしよう",
+         "url" : "http://www.torikyo.ed.jp/motigase-e/"
       },
       "鳥取市立神戸小学校" : {
          "location_area" : "鳥取市",
@@ -639,14 +691,22 @@
          "short_name" : "神戸小学校"
       },
       "鳥取市立福部小学校" : {
+         "location" : "鳥取県鳥取市福部町高江188",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-0103",
          "owner_type" : "市立",
-         "short_name" : "福部小学校"
+         "short_name" : "福部小学校",
+         "sort_name" : "とつとりしりつふくへしよう",
+         "url" : "http://www.torikyo.ed.jp/fukube-e/"
       },
       "鳥取市立稲葉山小学校" : {
+         "location" : "鳥取県鳥取市卯垣2-657",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0074",
          "owner_type" : "市立",
-         "short_name" : "稲葉山小学校"
+         "short_name" : "稲葉山小学校",
+         "sort_name" : "とつとりしりついなはやましよう",
+         "url" : "http://www.torikyo.ed.jp/inaba-e/"
       },
       "鳥取市立米里小学校" : {
          "location_area" : "鳥取市",

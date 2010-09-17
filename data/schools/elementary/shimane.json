@@ -258,7 +258,8 @@
       "大田市立池田小学校" : {
          "location_area" : "大田市",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "おおたしりついけた"
       },
       "大田市立波根小学校" : {
          "location_area" : "大田市",
@@ -441,7 +442,8 @@
          "short_name" : "飯梨小学校"
       },
       "島根大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しまねたいかくきよういくかくふふそくしよう"
       },
       "川本町立三原小学校" : {
          "location_area" : "邑智郡川本町",
@@ -476,22 +478,32 @@
       "斐川町立西野小学校" : {
          "location_area" : "簸川郡斐川町",
          "owner_type" : "町立",
-         "short_name" : "西野小学校"
+         "short_name" : "西野小学校",
+         "sort_name" : "ひかわちようりつにしのしようかつこう"
       },
       "東出雲町立出雲郷小学校" : {
+         "location" : "島根県八束郡東出雲町大字出雲郷926",
          "location_area" : "八束郡東出雲町",
+         "location_zipcode" : "699-0108",
          "owner_type" : "町立",
-         "short_name" : "出雲郷小学校"
+         "short_name" : "出雲郷小学校",
+         "sort_name" : "ひかしいすもちようりつあたかえしようかつこう"
       },
       "東出雲町立意東小学校" : {
+         "location" : "島根県八束郡東出雲町大字下意東371",
          "location_area" : "八束郡東出雲町",
+         "location_zipcode" : "699-0102",
          "owner_type" : "町立",
-         "short_name" : "意東小学校"
+         "short_name" : "意東小学校",
+         "sort_name" : "ひかしいすもちようりついとうしようかつこう"
       },
       "東出雲町立揖屋小学校" : {
+         "location" : "島根県八束郡東出雲町揖屋2131の3番地",
          "location_area" : "八束郡東出雲町",
+         "location_zipcode" : "〒699-0101",
          "owner_type" : "町立",
-         "short_name" : "揖屋小学校"
+         "short_name" : "揖屋小学校",
+         "sort_name" : "ひかしいすもちようりついやしようかつこう"
       },
       "松江市立中央小学校" : {
          "location_area" : "松江市",
@@ -564,9 +576,13 @@
          "short_name" : "島根小学校"
       },
       "松江市立川津小学校" : {
+         "location" : "島根県松江市西川津町500",
          "location_area" : "松江市",
+         "location_zipcode" : "690-0823",
          "owner_type" : "市立",
-         "short_name" : "川津小学校"
+         "short_name" : "川津小学校",
+         "sort_name" : "まつえしりつかわつ",
+         "url" : "http://www.kawatsu.matsue.ed.jp/"
       },
       "松江市立忌部小学校" : {
          "location_area" : "松江市",

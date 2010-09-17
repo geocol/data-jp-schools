@@ -146,9 +146,13 @@
          "short_name" : "下彦間小学校"
       },
       "佐野市立佐野小学校" : {
+         "location" : "栃木県佐野市金屋下町10",
          "location_area" : "佐野市",
+         "location_zipcode" : "327-0025",
          "owner_type" : "市立",
-         "short_name" : "佐野小学校"
+         "short_name" : "佐野小学校",
+         "sort_name" : "さのしりつさのしよう",
+         "url" : "http://www.schoolnet-sano.ed.jp/sano-e/"
       },
       "佐野市立出流原小学校" : {
          "location_area" : "佐野市",
@@ -263,7 +267,8 @@
       "佐野市立野上小学校" : {
          "location_area" : "佐野市",
          "owner_type" : "市立",
-         "short_name" : "野上小学校"
+         "short_name" : "野上小学校",
+         "sort_name" : "さのしりつのかみしよう"
       },
       "佐野市立閑馬小学校" : {
          "location_area" : "佐野市",
@@ -463,7 +468,8 @@
          "short_name" : "黒羽小学校"
       },
       "宇都宮大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "うつのみやたいかくきよういくかくふふそくしよう"
       },
       "宇都宮市立上戸祭小学校" : {
          "location_area" : "宇都宮市",
@@ -488,7 +494,8 @@
       "宇都宮市立国本中央小学校" : {
          "location_area" : "宇都宮市",
          "owner_type" : "市立",
-         "short_name" : "国本中央小学校"
+         "short_name" : "国本中央小学校",
+         "sort_name" : "うつのみやしりつくにもとちゆうおうしよう"
       },
       "宇都宮市立国本西小学校" : {
          "location_area" : "宇都宮市",
@@ -648,7 +655,8 @@
       "宇都宮市立海道小学校" : {
          "location_area" : "宇都宮市",
          "owner_type" : "市立",
-         "short_name" : "海道小学校"
+         "short_name" : "海道小学校",
+         "sort_name" : "うつのみやしりつかいとうしよう"
       },
       "宇都宮市立清原中央小学校" : {
          "location_area" : "宇都宮市",
@@ -748,7 +756,8 @@
       "宇都宮市立豊郷北小学校" : {
          "location_area" : "宇都宮市",
          "owner_type" : "市立",
-         "short_name" : "豊郷北小学校"
+         "short_name" : "豊郷北小学校",
+         "sort_name" : "うつのみやしりつとよさときたしよう"
       },
       "宇都宮市立豊郷南小学校" : {
          "location_area" : "宇都宮市",
@@ -998,7 +1007,8 @@
       "日光市立南原小学校" : {
          "location_area" : "日光市",
          "owner_type" : "市立",
-         "short_name" : "南原小学校"
+         "short_name" : "南原小学校",
+         "sort_name" : "につこうしりつみなみはらしよう"
       },
       "日光市立大室小学校" : {
          "location_area" : "日光市",
@@ -1470,9 +1480,12 @@
          "short_name" : "小俣小学校"
       },
       "足利市立山前小学校" : {
+         "location" : "栃木県足利市山下町1297番地",
          "location_area" : "足利市",
+         "location_zipcode" : "326-0846",
          "owner_type" : "市立",
-         "short_name" : "山前小学校"
+         "short_name" : "山前小学校",
+         "url" : "http://yamamae.ashi-s.ed.jp/index.html"
       },
       "足利市立山辺小学校" : {
          "location_area" : "足利市",
@@ -1700,9 +1713,13 @@
          "short_name" : "烏山小学校"
       },
       "那須烏山市立荒川小学校" : {
+         "location" : "栃木県那須烏山市大金135-1",
          "location_area" : "那須烏山市",
+         "location_zipcode" : "321-0522",
          "owner_type" : "市立",
-         "short_name" : "荒川小学校"
+         "short_name" : "荒川小学校",
+         "sort_name" : "なすからすやましりつあらかわしよう",
+         "url" : "http://nasukarasuyama.ed.jp/esarakawa/"
       },
       "那須町立伊王野小学校" : {
          "location_area" : "那須郡那須町",
@@ -1730,9 +1747,13 @@
          "short_name" : "朝日小学校"
       },
       "那須町立池田小学校" : {
+         "location" : "栃木県那須郡那須町高久丙1482",
          "location_area" : "那須郡那須町",
+         "location_zipcode" : "325-0302",
          "owner_type" : "町立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "なすちようりついけたしよう",
+         "url" : "http://nasumachikyoui.jp/ikedasyou/"
       },
       "那須町立田中小学校" : {
          "location_area" : "那須郡那須町",

@@ -1,625 +1,1089 @@
 {
    "elementary_schools" : {
       "つるぎ町立八千代小学校" : {
+         "location" : "徳島県美馬郡つるぎ町半田字下喜来1番地",
          "location_area" : "美馬郡つるぎ町",
+         "location_zipcode" : "779-4406",
          "owner_type" : "町立",
-         "short_name" : "八千代小学校"
+         "short_name" : "八千代小学校",
+         "sort_name" : "つるきちようりつやちよしようかつこう",
+         "url" : "http://www.shikoku.ne.jp/yachiyo-syo/"
       },
       "つるぎ町立半田小学校" : {
+         "location" : "徳島県美馬郡つるぎ町半田字田井289番地",
          "location_area" : "美馬郡つるぎ町",
+         "location_zipcode" : "779-4402",
          "owner_type" : "町立",
-         "short_name" : "半田小学校"
+         "short_name" : "半田小学校",
+         "sort_name" : "つるきちようりつはんたしようかつこう",
+         "url" : "http://www.shikoku.ne.jp/hansyo/"
       },
       "つるぎ町立古見小学校" : {
+         "location" : "徳島県美馬郡つるぎ町一宇字太刀之本5番地の4",
          "location_area" : "美馬郡つるぎ町",
+         "location_zipcode" : "779-4406",
          "owner_type" : "町立",
-         "short_name" : "古見小学校"
+         "short_name" : "古見小学校",
+         "sort_name" : "つるきちようりつこみしようかつこう",
+         "url" : "http://www14.ocn.ne.jp/~komisyo/"
       },
       "つるぎ町立太田小学校" : {
+         "location" : "徳島県美馬郡つるぎ町貞光太田西107番地",
          "location_area" : "美馬郡つるぎ町",
+         "location_zipcode" : "779-4104",
          "owner_type" : "町立",
-         "short_name" : "太田小学校"
+         "short_name" : "太田小学校",
+         "sort_name" : "つるきちようりつおおたしようかつこう",
+         "url" : "http://www.shikoku.ne.jp/ohtasyo/hp002.htm"
       },
       "つるぎ町立貞光小学校" : {
+         "location" : "徳島県美馬郡つるぎ町貞光字野口88",
          "location_area" : "美馬郡つるぎ町",
+         "location_wikipedia_latlon" : "|34|2|13.6|N|134|3|35.1|E|",
+         "location_zipcode" : "779-4102",
          "owner_type" : "町立",
-         "short_name" : "貞光小学校"
+         "short_name" : "貞光小学校",
+         "sort_name" : "つるきちようりつさたみつ",
+         "url" : "http://www.shikoku.ne.jp/sadasyo/"
       },
       "三好市立三縄小学校" : {
+         "location" : "徳島県三好市池田町中西イバ580番地1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5161",
          "owner_type" : "市立",
-         "short_name" : "三縄小学校"
+         "short_name" : "三縄小学校",
+         "sort_name" : "みよししりつみなわしようかつこう",
+         "url" : "http://www.mkk.ed.jp/minawa/cgi-bin/web/diary.cgi"
       },
       "三好市立上名小学校" : {
+         "location" : "徳島県三好市山城町上名236番地3",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5452",
          "owner_type" : "市立",
-         "short_name" : "上名小学校"
+         "short_name" : "上名小学校",
+         "sort_name" : "みよししりつかみみようしようかつこう",
+         "url" : "http://www.mkk.ed.jp/kamimyo/"
       },
       "三好市立下名小学校" : {
+         "location" : "徳島県三好市山城町下名1001番地の1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5453",
          "owner_type" : "市立",
-         "short_name" : "下名小学校"
+         "short_name" : "下名小学校",
+         "sort_name" : "みよししりつしもみようしようかつこう",
+         "url" : "http://www.mkk.ed.jp/shimomyo/"
       },
       "三好市立井内小学校" : {
+         "location" : "徳島県三好市井川町井内西4896番地1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-4805",
          "owner_type" : "市立",
-         "short_name" : "井内小学校"
+         "short_name" : "井内小学校",
+         "sort_name" : "みよししりついうちしようかつこう",
+         "url" : "http://www.mkk.ed.jp/iuchi/cgi-bin/main/diary.cgi"
       },
       "三好市立佐野小学校" : {
+         "location" : "徳島県三好市池田町佐野金氏942番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-5253",
          "owner_type" : "市立",
-         "short_name" : "佐野小学校"
+         "short_name" : "佐野小学校",
+         "sort_name" : "みよししりつさのしようかつこう",
+         "url" : "http://www.mkk.ed.jp/sanosyo/"
       },
       "三好市立名頃小学校" : {
+         "location" : "徳島県三好市東祖谷管生640番地の8",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0201",
          "owner_type" : "市立",
-         "short_name" : "名頃小学校"
+         "short_name" : "名頃小学校",
+         "sort_name" : "みよししりつなころしようかつこう",
+         "url" : "http://www.mkk.ed.jp/nagoro/nc/html/index.php"
       },
       "三好市立吾橋小学校" : {
+         "location" : "徳島県三好市西祖谷山村下吾橋303番地2",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0104",
          "owner_type" : "市立",
-         "short_name" : "吾橋小学校"
+         "short_name" : "吾橋小学校",
+         "sort_name" : "みよししりつあわししようかつこう",
+         "url" : "http://www.mkk.ed.jp/awashi/cover/cover.htm"
       },
       "三好市立善徳小学校" : {
+         "location" : "徳島県三好市西祖谷山村善徳362番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0102",
          "owner_type" : "市立",
-         "short_name" : "善徳小学校"
+         "short_name" : "善徳小学校",
+         "sort_name" : "みよししりつせんとくししようかつこう",
+         "url" : "http://www.mkk.ed.jp/zentoku/cgi-bin/webmain/diary.cgi"
       },
       "三好市立大和小学校" : {
+         "location" : "徳島県三好市山城町大和川214-1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5452",
          "owner_type" : "市立",
-         "short_name" : "大和小学校"
+         "short_name" : "大和小学校",
+         "sort_name" : "みよししりつやまとしようかつこう",
+         "url" : "http://www.mkk.ed.jp/yamato/cgi-bin/web/diary.cgi"
       },
       "三好市立大野小学校" : {
+         "location" : "徳島県三好市山城町大野519番地",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5333",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "みよししりつおおのしようかつこう",
+         "url" : "http://www.mkk.ed.jp/oono/cgi-bin/diarypro/diary.cgi"
       },
       "三好市立山城小学校" : {
+         "location" : "徳島県三好市山城町大川持30番地の2",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5304",
          "owner_type" : "市立",
-         "short_name" : "山城小学校"
+         "short_name" : "山城小学校",
+         "sort_name" : "みよししりつやましろしようかつこう",
+         "url" : "http://www.mkk.ed.jp/yamashiro/"
       },
       "三好市立川崎小学校" : {
+         "location" : "徳島県三好市池田町川崎浪会31番地",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5166",
          "owner_type" : "市立",
-         "short_name" : "川崎小学校"
+         "short_name" : "川崎小学校",
+         "sort_name" : "みよししりつかわさきしようかつこう",
+         "url" : "http://www.mkk.ed.jp/kawasaki/cgi-bin/web/diary.cgi"
       },
       "三好市立政友小学校" : {
+         "location" : "徳島県三好市山城町政友46番地",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5344",
          "owner_type" : "市立",
-         "short_name" : "政友小学校"
+         "short_name" : "政友小学校",
+         "sort_name" : "みよししりつまさともしようかつこう",
+         "url" : "http://www.mkk.ed.jp/masatomo/cgi-bin/web/diary.cgi"
       },
       "三好市立栃之瀬小学校" : {
+         "location" : "徳島県三好市東祖谷新居屋73番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0205",
          "owner_type" : "市立",
-         "short_name" : "栃之瀬小学校"
+         "short_name" : "栃之瀬小学校",
+         "sort_name" : "みよししりつとちのせしようかつこう",
+         "url" : "http://www.mkk.ed.jp/tochinose/"
       },
       "三好市立檪生小学校" : {
+         "location" : "徳島県三好市西祖谷山村一宇262番地1",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0101",
          "owner_type" : "市立",
-         "short_name" : "檪生小学校"
+         "short_name" : "檪生小学校",
+         "sort_name" : "みよししりついちうしようかつこう",
+         "url" : "http://www.mkk.ed.jp/ichiu/cgi-bin/diarypro/diary.cgi"
       },
       "三好市立池田小学校" : {
+         "location" : "徳島県三好市池田町ウエノ2379-4",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0001",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "みよししりついけたしようかつこう",
+         "url" : "http://www.mkk.ed.jp/ikesyo/"
       },
       "三好市立河内小学校" : {
+         "location" : "徳島県三好市山城町光兼490",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5325",
          "owner_type" : "市立",
-         "short_name" : "河内小学校"
+         "short_name" : "河内小学校",
+         "sort_name" : "みよししりつかわちしようかつこう",
+         "url" : "http://www.mkk.ed.jp/kawachi/"
       },
       "三好市立王地小学校" : {
+         "location" : "徳島県三好市三野町加茂野宮1393番地",
          "location_area" : "三好市",
+         "location_zipcode" : "771-2302",
          "owner_type" : "市立",
-         "short_name" : "王地小学校"
+         "short_name" : "王地小学校",
+         "sort_name" : "みよししりつおうちしようかつこう",
+         "url" : "http://www.mkk.ed.jp/ouji/"
       },
       "三好市立白地小学校" : {
+         "location" : "徳島県三好市池田町白地本名57番地",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5251",
          "owner_type" : "市立",
-         "short_name" : "白地小学校"
+         "short_name" : "白地小学校",
+         "sort_name" : "みよししりつはくちしようかつこう",
+         "url" : "http://www.mkk.ed.jp/hakuchi/nc/html/index.php"
       },
       "三好市立箸蔵小学校" : {
+         "location" : "徳島県三好市池田町州津井関1208番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0020",
          "owner_type" : "市立",
-         "short_name" : "箸蔵小学校"
+         "short_name" : "箸蔵小学校",
+         "sort_name" : "みよししりつはしくらしようかつこう",
+         "url" : "http://www.mkk.ed.jp/hashikura/"
       },
       "三好市立芝生小学校" : {
+         "location" : "徳島県三好市三野町芝生1230番地",
          "location_area" : "三好市",
+         "location_zipcode" : "771-2304",
          "owner_type" : "市立",
-         "short_name" : "芝生小学校"
+         "short_name" : "芝生小学校",
+         "sort_name" : "みよししりつしほうしようかつこう",
+         "url" : "http://www.mkk.ed.jp/sibafu/"
       },
       "三好市立菅生小学校" : {
+         "location" : "徳島県三好市東祖谷管生162番地の1",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0201",
          "owner_type" : "市立",
-         "short_name" : "菅生小学校"
+         "short_name" : "菅生小学校",
+         "sort_name" : "みよししりつすけおいしようかつこう",
+         "url" : "http://www.mkk.ed.jp/sugeoi/cgi-bin/"
       },
       "三好市立落合小学校" : {
+         "location" : "徳島県三好市東祖谷落合403番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0202",
          "owner_type" : "市立",
-         "short_name" : "落合小学校"
+         "short_name" : "落合小学校",
+         "sort_name" : "みよししりつおちあいしようかつこう",
+         "url" : "http://www.mkk.ed.jp/otiai/"
       },
       "三好市立西井川小学校" : {
+         "location" : "徳島県三好市井川町西井川734-3",
          "location_area" : "三好市",
+         "location_zipcode" : "779-4806",
          "owner_type" : "市立",
-         "short_name" : "西井川小学校"
+         "short_name" : "西井川小学校",
+         "sort_name" : "みよししりつにしいかわしようかつこう",
+         "url" : "http://www.mkk.ed.jp/nikawa/cgi-bin/web/diary.cgi"
       },
       "三好市立西宇小学校" : {
+         "location" : "徳島県三好市山城町西宇1226-3",
          "location_area" : "三好市",
+         "location_zipcode" : "779-5451",
          "owner_type" : "市立",
-         "short_name" : "西宇小学校"
+         "short_name" : "西宇小学校",
+         "sort_name" : "みよししりつにしうしようかつこう",
+         "url" : "http://www.mkk.ed.jp/nishiu/cgi-bin/web/diary.cgi"
       },
       "三好市立西山小学校" : {
+         "location" : "徳島県三好市池田町西山岡屋敷3563番地1",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0040",
          "owner_type" : "市立",
-         "short_name" : "西山小学校"
+         "short_name" : "西山小学校",
+         "sort_name" : "みよししりつにしやましようかつこう",
+         "url" : "http://www.mkk.ed.jp/nisiyama/"
       },
       "三好市立西岡小学校" : {
+         "location" : "徳島県三好市西祖谷山村東西岡10番地",
          "location_area" : "三好市",
+         "location_zipcode" : "778-0105",
          "owner_type" : "市立",
-         "short_name" : "西岡小学校"
+         "short_name" : "西岡小学校",
+         "sort_name" : "みよししりつにしおかしようかつこう",
+         "url" : "http://www.mkk.ed.jp/nisioka/cgi-bin/web/diary.cgi"
       },
       "三好市立辻小学校" : {
+         "location" : "徳島県三好市井川町辻53-1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-4801",
          "owner_type" : "市立",
-         "short_name" : "辻小学校"
+         "short_name" : "辻小学校",
+         "sort_name" : "みよししりつつししようかつこう",
+         "url" : "http://www.mkk.ed.jp/tujisyo/nc/html/index.php"
       },
       "三好市立馬路小学校" : {
+         "location" : "徳島県三好市池田町馬路立石33-1",
          "location_area" : "三好市",
+         "location_zipcode" : "778-5252",
          "owner_type" : "市立",
-         "short_name" : "馬路小学校"
+         "short_name" : "馬路小学校",
+         "sort_name" : "みよししりつうまししようかつこう",
+         "url" : "http://www.mkk.ed.jp/umajisyo/cgi-bin/diarypro/diarypro/diary.cgi"
       },
       "上勝町立上勝小学校" : {
+         "location" : "徳島県勝浦郡上勝町大字正木字平間179",
          "location_area" : "勝浦郡上勝町",
+         "location_zipcode" : "771-4505",
          "owner_type" : "町立",
-         "short_name" : "上勝小学校"
+         "short_name" : "上勝小学校",
+         "sort_name" : "かみかつちようりつかみかつしようかつこう",
+         "url" : "http://www1.quolia.ne.jp/~kamikatsu_es/"
       },
       "上板町立東光小学校" : {
+         "location" : "徳島県板野郡上板町西分東光8番地",
          "location_area" : "板野郡上板町",
+         "location_zipcode" : "771-1330",
          "owner_type" : "町立",
-         "short_name" : "東光小学校"
+         "short_name" : "東光小学校",
+         "sort_name" : "かみいたちようりつとうこうしようかつこう",
+         "url" : "http://academic4.plala.or.jp/toko/index.html"
       },
       "上板町立松島小学校" : {
+         "location" : "徳島県板野郡上板町鍛冶屋原字北原20番地",
          "location_area" : "板野郡上板町",
+         "location_zipcode" : "771-1301",
          "owner_type" : "町立",
-         "short_name" : "松島小学校"
+         "short_name" : "松島小学校",
+         "sort_name" : "かみいたちようりつまつしましようかつこう",
+         "url" : "http://academic4.plala.or.jp/pine/"
       },
       "上板町立神宅小学校" : {
+         "location" : "徳島県板野郡上板町神宅字喜来135番地",
          "location_area" : "板野郡上板町",
+         "location_zipcode" : "771-1302",
          "owner_type" : "町立",
-         "short_name" : "神宅小学校"
+         "short_name" : "神宅小学校",
+         "sort_name" : "かみいたちようりつかんやけしようかつこう",
+         "url" : "http://academic4.plala.or.jp/kanyake/"
       },
       "上板町立高志小学校" : {
+         "location" : "徳島県板野郡上板町高瀬字天目一1108|",
          "location_area" : "板野郡上板町",
+         "location_zipcode" : "771-1347",
          "owner_type" : "町立",
-         "short_name" : "高志小学校"
+         "short_name" : "高志小学校",
+         "sort_name" : "かみいたちようりつたかししようかつこう",
+         "url" : "http://academic4.plala.or.jp/takashi/"
       },
       "佐那河内村立佐那河内小学校" : {
+         "location" : "名東郡佐那河内村下字中川原21番地2",
          "location_area" : "名東郡佐那河内村",
+         "location_zipcode" : "771-4101",
          "owner_type" : "村立",
-         "short_name" : "佐那河内小学校"
+         "short_name" : "佐那河内小学校",
+         "sort_name" : "さなこうちそんりつさなこうち",
+         "url" : "http://tgn.tcn.ne.jp/~sasyou/"
       },
       "勝浦町立横瀬小学校" : {
+         "location" : "徳島県勝浦郡勝浦町大字三渓字上川原13番地の2",
          "location_area" : "勝浦郡勝浦町",
+         "location_zipcode" : "771-4307",
          "owner_type" : "町立",
-         "short_name" : "横瀬小学校"
+         "short_name" : "横瀬小学校",
+         "sort_name" : "かつうらちようりつよこせしようかつこう",
+         "url" : "http://www.town.katsuura.lg.jp/view.rbz?nd=122&of=1&ik=1&pnp=16&pnp=97&pnp=122&cd=381"
       },
       "勝浦町立生比奈小学校" : {
+         "location" : "徳島県勝浦郡勝浦町中角豊田1",
          "location_area" : "勝浦郡勝浦町",
+         "location_zipcode" : "771-4302",
          "owner_type" : "町立",
-         "short_name" : "生比奈小学校"
+         "short_name" : "生比奈小学校",
+         "sort_name" : "かつうらちようりついくひなしようかつこう",
+         "url" : "http://www.town.katsuura.lg.jp/view.rbz?nd=123&of=1&ik=1&pnp=97&pnp=123&cd=387"
       },
       "北島町立北島北小学校" : {
+         "location" : "徳島県板野郡北島町北村字壱町四反地20-1",
          "location_area" : "板野郡北島町",
+         "location_zipcode" : "771-0201",
          "owner_type" : "町立",
-         "short_name" : "北島北小学校"
+         "short_name" : "北島北小学校",
+         "sort_name" : "きたしまちようりつきたしまきたしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/kitajimakita/"
       },
       "北島町立北島南小学校" : {
+         "location" : "徳島県板野郡北島町江尻字宮ノ本40-2",
          "location_area" : "板野郡北島町",
+         "location_zipcode" : "771-0205",
          "owner_type" : "町立",
-         "short_name" : "北島南小学校"
+         "short_name" : "北島南小学校",
+         "sort_name" : "きたしまちようりつきたしまみなみしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/kitajima-minami/"
       },
       "北島町立北島小学校" : {
+         "location" : "徳島県板野郡北島町中村字長池17-3",
          "location_area" : "板野郡北島町",
+         "location_zipcode" : "771-0203",
          "owner_type" : "町立",
-         "short_name" : "北島小学校"
+         "short_name" : "北島小学校",
+         "sort_name" : "きたしまちようりつきたしましようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/kitajima-syo/"
       },
       "吉野川市立上浦小学校" : {
+         "location" : "徳島県吉野川市鴨島町上浦931",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0037",
          "owner_type" : "市立",
-         "short_name" : "上浦小学校"
+         "short_name" : "上浦小学校",
+         "sort_name" : "よしのかわしりつかみうらしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/kamiura/"
       },
       "吉野川市立学島小学校" : {
+         "location" : "徳島県吉野川市川島町学辻76番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3403",
          "owner_type" : "市立",
-         "short_name" : "学島小学校"
+         "short_name" : "学島小学校",
+         "sort_name" : "よしのかわしりつかくしましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kawashima/gakushima/"
       },
       "吉野川市立山瀬小学校" : {
+         "location" : "徳島県吉野川市山川町諏訪2661",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3403",
          "owner_type" : "市立",
-         "short_name" : "山瀬小学校"
+         "short_name" : "山瀬小学校",
+         "sort_name" : "よしのかわしりつやませしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/yamakawa/yamase/index.html"
       },
       "吉野川市立川島小学校" : {
+         "location" : "徳島県吉野川市川島町桑村2193番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3403",
          "owner_type" : "市立",
-         "short_name" : "川島小学校"
+         "short_name" : "川島小学校",
+         "sort_name" : "よしのかわしりつかわしましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kawashima/kawashima/"
       },
       "吉野川市立川田中小学校" : {
+         "location" : "徳島県吉野川市山川町町53番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3401",
          "owner_type" : "市立",
-         "short_name" : "川田中小学校"
+         "short_name" : "川田中小学校",
+         "sort_name" : "よしのかわしりつかわたなかしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/yamakawa/kawatanaka/"
       },
       "吉野川市立川田小学校" : {
+         "location" : "徳島県吉野川市山川町住吉189番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3401",
          "owner_type" : "市立",
-         "short_name" : "川田小学校"
+         "short_name" : "川田小学校",
+         "sort_name" : "よしのかわしりつかわたしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/yamakawa/kawata/"
       },
       "吉野川市立川田西小学校" : {
+         "location" : "徳島県吉野川市山川町川田429番地6",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3404",
          "owner_type" : "市立",
-         "short_name" : "川田西小学校"
+         "short_name" : "川田西小学校",
+         "sort_name" : "よしのかわしりつかわたにししようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/yamakawa/kawatanishi/"
       },
       "吉野川市立森山小学校" : {
+         "location" : "徳島県吉野川市鴨島町山路1086番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0036",
          "owner_type" : "市立",
-         "short_name" : "森山小学校"
+         "short_name" : "森山小学校",
+         "sort_name" : "よしのかわしりつもりやましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/moriyama/"
       },
       "吉野川市立牛島小学校" : {
+         "location" : "徳島県吉野川市鴨島町牛島865-1",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0001",
          "owner_type" : "市立",
-         "short_name" : "牛島小学校"
+         "short_name" : "牛島小学校",
+         "sort_name" : "よしのかわしりつうししましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/ushijima/"
       },
       "吉野川市立知恵島小学校" : {
+         "location" : "徳島県吉野川市鴨島町知恵島781",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0014",
          "owner_type" : "市立",
-         "short_name" : "知恵島小学校"
+         "short_name" : "知恵島小学校",
+         "sort_name" : "よしのかわしりつちえしましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/chiejima/"
       },
       "吉野川市立種野小学校" : {
+         "location" : "徳島県吉野川市美郷字川俣47番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3503",
          "owner_type" : "市立",
-         "short_name" : "種野小学校"
+         "short_name" : "種野小学校",
+         "sort_name" : "よしのかわしりつたねのしようかつこう",
+         "url" : "http://www.tcu.or.jp/misato/misato_school/taneno_syo/index.htm"
       },
       "吉野川市立西麻植小学校" : {
+         "location" : "徳島県吉野川市鴨島町西麻植絵馬堂85-2",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0020",
          "owner_type" : "市立",
-         "short_name" : "西麻植小学校"
+         "short_name" : "西麻植小学校",
+         "sort_name" : "よしのかわしりつにしおえしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/nishioe/"
       },
       "吉野川市立飯尾敷地小学校" : {
+         "location" : "徳島県吉野川市鴨島町飯尾7番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0033",
          "owner_type" : "市立",
-         "short_name" : "飯尾敷地小学校"
+         "short_name" : "飯尾敷地小学校",
+         "sort_name" : "よしのかわしりついのおしきししようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/inohshikiji/"
       },
       "吉野川市立鴨島小学校" : {
+         "location" : "徳島県吉野川市鴨島町鴨島564番地",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0010",
          "owner_type" : "市立",
-         "short_name" : "鴨島小学校"
+         "short_name" : "鴨島小学校",
+         "sort_name" : "よしのかわしりつかもしましようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/kamojima/kamojima/"
       },
       "小松島市立児安小学校" : {
+         "location" : "徳島県小松島市田浦町字近里27",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0012",
          "owner_type" : "市立",
-         "short_name" : "児安小学校"
+         "short_name" : "児安小学校",
+         "sort_name" : "こまつしましりつこやす",
+         "url" : "http://www.tk3.nmt.ne.jp/~koyasu/"
       },
       "小松島市立北小松島小学校" : {
+         "location" : "徳島県小松島市中田町字浜田33番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "770-0015",
          "owner_type" : "市立",
-         "short_name" : "北小松島小学校"
+         "short_name" : "北小松島小学校",
+         "url" : "http://www.tk2.nmt.ne.jp/~kitasyo/kitapage/index.htm"
       },
       "小松島市立千代小学校" : {
+         "location" : "徳島県小松島市中田町字奥林29番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0015",
          "owner_type" : "市立",
-         "short_name" : "千代小学校"
+         "short_name" : "千代小学校",
+         "url" : "http://www.tk3.nmt.ne.jp/~chiyoko/"
       },
       "小松島市立南小松島小学校" : {
+         "location" : "徳島県小松島市小松島町高須35",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0001",
          "owner_type" : "市立",
-         "short_name" : "南小松島小学校"
+         "short_name" : "南小松島小学校",
+         "sort_name" : "こまつしりつみなみこまつしましようかつこう",
+         "url" : "http://www.minamiko.ed.jp/"
       },
       "小松島市立和田島小学校" : {
+         "location" : "徳島県小松島市和田島町山のはな8",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0025",
          "owner_type" : "市立",
-         "short_name" : "和田島小学校"
+         "short_name" : "和田島小学校",
+         "sort_name" : "こまつしましりつわたしましよう",
+         "url" : "http://www.tk3.nmt.ne.jp/~wadajimasho/"
       },
       "小松島市立坂野小学校" : {
+         "location" : "徳島県小松島市坂野町字根上り6-1番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0023",
          "owner_type" : "市立",
-         "short_name" : "坂野小学校"
+         "short_name" : "坂野小学校",
+         "sort_name" : "こまつしましりつさかの",
+         "url" : "http://www.tk3.nmt.ne.jp/~sakasyo/"
       },
       "小松島市立小松島小学校" : {
+         "location" : "徳島県小松島市神田瀬町2番63号",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0002",
          "owner_type" : "市立",
-         "short_name" : "小松島小学校"
+         "short_name" : "小松島小学校",
+         "sort_name" : "こまつしましりつこまつしま",
+         "url" : "http://www.tk3.nmt.ne.jp/~matusho1/"
       },
       "小松島市立新開小学校" : {
+         "location" : "徳島県小松島市大林町字中津37番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0022",
          "owner_type" : "市立",
-         "short_name" : "新開小学校"
+         "short_name" : "新開小学校",
+         "url" : "http://www.tk3.nmt.ne.jp/~sinbari/"
       },
       "小松島市立櫛渕小学校" : {
+         "location" : "小松島市櫛渕字北佃45番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0018",
          "owner_type" : "市立",
-         "short_name" : "櫛渕小学校"
+         "short_name" : "櫛渕小学校",
+         "sort_name" : "こまつしましりつくしふち",
+         "url" : "http://www.tk3.nmt.ne.jp/~kushibuchi"
       },
       "小松島市立立江小学校" : {
+         "location" : "徳島県小松島市立江町字松本34番地の3",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0017",
          "owner_type" : "市立",
-         "short_name" : "立江小学校"
+         "short_name" : "立江小学校",
+         "sort_name" : "こまつしましりつたつえ",
+         "url" : "http://www.tk3.nmt.ne.jp/~hureai/"
       },
       "小松島市立芝田小学校" : {
+         "location" : "徳島県小松島市田野町字中須45番地",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0008",
          "owner_type" : "市立",
-         "short_name" : "芝田小学校"
+         "short_name" : "芝田小学校",
+         "sort_name" : "こまつしましりつしはた",
+         "url" : "http://www.tk3.nmt.ne.jp/~wakatake/"
       },
       "徳島市立一宮小学校" : {
+         "location" : "徳島県徳島市一宮町東丁224",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3132",
          "owner_type" : "市立",
-         "short_name" : "一宮小学校"
+         "short_name" : "一宮小学校",
+         "url" : "http://tgn.tcn.ne.jp/~ichinomiya_es/"
       },
       "徳島市立上八万小学校" : {
+         "location" : "徳島県徳島市上八万町樋口52",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8040",
          "owner_type" : "市立",
-         "short_name" : "上八万小学校"
+         "short_name" : "上八万小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kamihachi_es/"
       },
       "徳島市立不動小学校" : {
+         "location" : "徳島県徳島市不動本町2丁目133",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0063",
          "owner_type" : "市立",
-         "short_name" : "不動小学校"
+         "short_name" : "不動小学校",
+         "url" : "http://tgn.tcn.ne.jp/~fudo_es/"
       },
       "徳島市立佐古小学校" : {
+         "location" : "徳島市南佐古四番町1-32",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0034",
          "owner_type" : "市立",
-         "short_name" : "佐古小学校"
+         "short_name" : "佐古小学校",
+         "url" : "http://tgn.tcn.ne.jp/~sako_es/"
       },
       "徳島市立入田小学校" : {
+         "location" : "徳島県徳島市入田町春日180番地の1",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3133",
          "owner_type" : "市立",
-         "short_name" : "入田小学校"
+         "short_name" : "入田小学校",
+         "url" : "http://tgn.tcn.ne.jp/~nyuta_es/"
       },
       "徳島市立八万南小学校" : {
+         "location" : "徳島市八万町橋本111",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8078",
          "owner_type" : "市立",
-         "short_name" : "八万南小学校"
+         "short_name" : "八万南小学校",
+         "url" : "http://tgn.tcn.ne.jp/~hachiminami_es/"
       },
       "徳島市立八万小学校" : {
+         "location" : "徳島市城南町4丁目1-52",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8064",
          "owner_type" : "市立",
-         "short_name" : "八万小学校"
+         "short_name" : "八万小学校",
+         "url" : "http://tgn.tcn.ne.jp/~hachiman_es/"
       },
       "徳島市立内町小学校" : {
+         "location" : "徳島県徳島市徳島町城内1-15",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0851",
          "owner_type" : "市立",
-         "short_name" : "内町小学校"
+         "short_name" : "内町小学校",
+         "sort_name" : "とくしましりつうちまち",
+         "url" : "http://tgn.tcn.ne.jp/~uchimachi_es/"
       },
       "徳島市立加茂名南小学校" : {
+         "location" : "徳島市鮎喰町2丁目11-88",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0046",
          "owner_type" : "市立",
-         "short_name" : "加茂名南小学校"
+         "short_name" : "加茂名南小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kanan_es/"
       },
       "徳島市立加茂名小学校" : {
+         "location" : "徳島市庄町5丁目19",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0044",
          "owner_type" : "市立",
-         "short_name" : "加茂名小学校"
+         "short_name" : "加茂名小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kamona_es/"
       },
       "徳島市立助任小学校" : {
+         "location" : "徳島市下助任町1丁目1番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0805",
          "owner_type" : "市立",
-         "short_name" : "助任小学校"
+         "short_name" : "助任小学校",
+         "url" : "http://tgn.tcn.ne.jp/~suketo_es/"
       },
       "徳島市立北井上小学校" : {
+         "location" : "徳島市国府町西黒田字南傍示205の2",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-0131",
          "owner_type" : "市立",
-         "short_name" : "北井上小学校"
+         "short_name" : "北井上小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kitainoue_es/"
       },
       "徳島市立千松小学校" : {
+         "location" : "徳島市南田宮4丁目5番5号",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0004",
          "owner_type" : "市立",
-         "short_name" : "千松小学校"
+         "short_name" : "千松小学校",
+         "url" : "http://tgn.tcn.ne.jp/~sensyo_es/"
       },
       "徳島市立南井上小学校" : {
+         "location" : "徳島県徳島市国府町日開1007-2",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3117",
          "owner_type" : "市立",
-         "short_name" : "南井上小学校"
+         "short_name" : "南井上小学校",
+         "url" : "http://tgn.tcn.ne.jp/~minamiinoue_es/"
       },
       "徳島市立国府小学校" : {
+         "location" : "徳島市国府町中61番地の1",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3124",
          "owner_type" : "市立",
-         "short_name" : "国府小学校"
+         "short_name" : "国府小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kokufu_es/"
       },
       "徳島市立城東小学校" : {
+         "location" : "徳島市住吉3丁目2番5号",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0861",
          "owner_type" : "市立",
-         "short_name" : "城東小学校"
+         "short_name" : "城東小学校",
+         "url" : "http://tgn.tcn.ne.jp/~joto_es/"
       },
       "徳島市立大松小学校" : {
+         "location" : "徳島市大松町上野上9番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8022",
          "owner_type" : "市立",
-         "short_name" : "大松小学校"
+         "short_name" : "大松小学校",
+         "url" : "http://tgn.tcn.ne.jp/~omatsu_es/"
       },
       "徳島市立宮井小学校" : {
+         "location" : "徳島県徳島市多家良町小路地45番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-4264",
          "owner_type" : "市立",
-         "short_name" : "宮井小学校"
+         "short_name" : "宮井小学校",
+         "url" : "http://tgn.tcn.ne.jp/~miyai_es/"
       },
       "徳島市立宮井小学校八多分校" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
-         "short_name" : "宮井小学校八多分校"
+         "short_name" : "宮井小学校八多分校",
+         "sort_name" : "とくしましりつみやいやはた"
       },
       "徳島市立富田小学校" : {
+         "location" : "徳島市中央通3丁目15番地",
          "location_area" : "徳島市",
          "owner_type" : "市立",
-         "short_name" : "富田小学校"
+         "short_name" : "富田小学校",
+         "url" : "http://tgn.tcn.ne.jp/~tomida_es/"
       },
       "徳島市立川内北小学校" : {
+         "location" : "徳島県徳島市川内町大松133番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-0131",
          "owner_type" : "市立",
-         "short_name" : "川内北小学校"
+         "short_name" : "川内北小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kawakita_es/"
       },
       "徳島市立川内南小学校" : {
+         "location" : "徳島県徳島市川内町宮島本浦5番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-0114",
          "owner_type" : "市立",
-         "short_name" : "川内南小学校"
+         "short_name" : "川内南小学校",
+         "url" : "http://tgn.tcn.ne.jp/~kawaminami_es/"
       },
       "徳島市立応神小学校" : {
+         "location" : "徳島市応神町吉成字西吉成91番地",
          "location_area" : "徳島市",
          "owner_type" : "市立",
-         "short_name" : "応神小学校"
+         "short_name" : "応神小学校",
+         "url" : "http://tgn.tcn.ne.jp/~oujin_es/"
       },
       "徳島市立新町小学校" : {
+         "location" : "徳島市東山手町2丁目25番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0906",
          "owner_type" : "市立",
-         "short_name" : "新町小学校"
+         "short_name" : "新町小学校",
+         "url" : "http://tgn.tcn.ne.jp/~shinmachi_es/"
       },
       "徳島市立方上小学校" : {
+         "location" : "徳島市北山町下地1番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8032",
          "owner_type" : "市立",
-         "short_name" : "方上小学校"
+         "short_name" : "方上小学校",
+         "url" : "http://tgn.tcn.ne.jp/~katanokami_es/"
       },
       "徳島市立昭和小学校" : {
+         "location" : "徳島県徳島市中昭和町5丁目60番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770",
          "owner_type" : "市立",
-         "short_name" : "昭和小学校"
+         "short_name" : "昭和小学校",
+         "url" : "http://tgn.tcn.ne.jp/~showa_es/"
       },
       "徳島市立沖洲小学校" : {
+         "location" : "徳島市南沖洲2丁目2-4",
          "location_area" : "徳島市",
          "owner_type" : "市立",
-         "short_name" : "沖洲小学校"
+         "short_name" : "沖洲小学校",
+         "url" : "http://tgn.tcn.ne.jp/~okinosu_es/"
       },
       "徳島市立津田小学校" : {
+         "location" : "徳島市津田西町2丁目5-27",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8004",
          "owner_type" : "市立",
-         "short_name" : "津田小学校"
+         "short_name" : "津田小学校",
+         "url" : "http://tgn.tcn.ne.jp/~tuda_es/"
       },
       "徳島市立渋野小学校" : {
+         "location" : "徳島県徳島市渋野町西池35-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-4267",
          "owner_type" : "市立",
-         "short_name" : "渋野小学校"
+         "short_name" : "渋野小学校",
+         "url" : "http://tgn.tcn.ne.jp/~sibuno_es/"
       },
       "徳島市立福島小学校" : {
+         "location" : "徳島県徳島市福島1丁目7-28",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0865",
          "owner_type" : "市立",
-         "short_name" : "福島小学校"
+         "short_name" : "福島小学校",
+         "url" : "http://tgn.tcn.ne.jp/~fukushima_es/"
       },
       "徳島市立論田小学校" : {
+         "location" : "徳島市論田町本浦上9番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8011",
          "owner_type" : "市立",
-         "short_name" : "論田小学校"
+         "short_name" : "論田小学校",
+         "url" : "http://tgn.tcn.ne.jp/~ronden_es/"
       },
       "徳島市立飯谷小学校" : {
+         "location" : "徳島県徳島市飯谷町杉尾1-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-4265",
          "owner_type" : "市立",
-         "short_name" : "飯谷小学校"
+         "short_name" : "飯谷小学校",
+         "url" : "http://tgn.tcn.ne.jp/~iitani_es/"
       },
       "徳島文理小学校" : {
-         "owner_type" : "私立"
+         "location" : "徳島市山城町東浜傍示68－10",
+         "location_zipcode" : "770-8055",
+         "owner_type" : "私立",
+         "sort_name" : "とくしまふんりしよう",
+         "url" : "http://www.bunri-u.ac.jp/bunrisyou/index.html"
       },
       "東みよし町立三庄小学校" : {
+         "location" : "徳島県三好郡東みよし町中庄1125",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "779-4703",
          "owner_type" : "町立",
-         "short_name" : "三庄小学校"
+         "short_name" : "三庄小学校",
+         "sort_name" : "ひかしみよしちようりつさんしようしようかつこう",
+         "url" : "http://www.mkk.ed.jp/sansyo/"
       },
       "東みよし町立加茂小学校" : {
+         "location" : "徳島県三好郡東みよし町加茂2688番地",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "779-4701",
          "owner_type" : "町立",
-         "short_name" : "加茂小学校"
+         "short_name" : "加茂小学校",
+         "sort_name" : "ひかしみよしちようりつかもしようかつこう",
+         "url" : "http://www.mkk.ed.jp/kamosyo/"
       },
       "東みよし町立昼間小学校" : {
+         "location" : "徳島県三好郡東みよし町昼間1637番地",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "771-2501",
          "owner_type" : "町立",
-         "short_name" : "昼間小学校"
+         "short_name" : "昼間小学校",
+         "sort_name" : "ひかしみよしちようりつひるましようかつこう",
+         "url" : "http://www.mkk.ed.jp/hiruma/"
       },
       "東みよし町立東山小学校" : {
+         "location" : "徳島県三好郡東みよし町東山字中村90",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "771-2503",
          "owner_type" : "町立",
-         "short_name" : "東山小学校"
+         "short_name" : "東山小学校",
+         "sort_name" : "ひかしみよしちようりつひかしやましようかつこう",
+         "url" : "http://www.mkk.ed.jp/higashiy/"
       },
       "東みよし町立絵堂小学校" : {
+         "location" : "徳島県三好郡東みよし町西庄字絵堂64",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "779-4702",
          "owner_type" : "町立",
-         "short_name" : "絵堂小学校"
+         "short_name" : "絵堂小学校",
+         "sort_name" : "ひかしみよしちようりつえとうしようかつこう",
+         "url" : "http://www.mkk.ed.jp/edou/"
       },
       "東みよし町立足代小学校" : {
+         "location" : "徳島県三好郡東みよし町足代2708",
          "location_area" : "三好郡東みよし町",
+         "location_zipcode" : "771-2502",
          "owner_type" : "町立",
-         "short_name" : "足代小学校"
+         "short_name" : "足代小学校",
+         "sort_name" : "ひかしみよしちようりつあしよしようかつこう",
+         "url" : "http://www.mkk.ed.jp/ashiro/"
       },
       "松茂町立喜来小学校" : {
+         "location" : "徳島県板野郡松茂町中喜来字前原西一番越14番地",
          "location_area" : "板野郡松茂町",
+         "location_zipcode" : "771-0212",
          "owner_type" : "町立",
-         "short_name" : "喜来小学校"
+         "short_name" : "喜来小学校",
+         "sort_name" : "まつしけちようりつきらいしようかつこう",
+         "url" : "http://www.netwave.or.jp/~kiraisho/"
       },
       "松茂町立松茂小学校" : {
+         "location" : "徳島県板野郡松茂町住吉字住吉開拓187",
          "location_area" : "板野郡松茂町",
+         "location_zipcode" : "771-0218",
          "owner_type" : "町立",
-         "short_name" : "松茂小学校"
+         "short_name" : "松茂小学校",
+         "sort_name" : "まつしけちようりつまつしけしようかつこう",
+         "url" : "http://www.netwave.or.jp/~matsukko/"
       },
       "松茂町立長原小学校" : {
+         "location" : "徳島県板野郡松茂町長原530番地",
          "location_area" : "板野郡松茂町",
+         "location_zipcode" : "771-0216",
          "owner_type" : "町立",
-         "short_name" : "長原小学校"
+         "short_name" : "長原小学校",
+         "sort_name" : "まつしけちようりつなかはらしようかつこう",
+         "url" : "http://www.netwave.or.jp/~nagahara/"
       },
       "板野町立板野南小学校" : {
+         "location" : "徳島県板野郡板野町下庄字栖養44",
          "location_area" : "板野郡板野町",
+         "location_zipcode" : "779-0118",
          "owner_type" : "町立",
-         "short_name" : "板野南小学校"
+         "short_name" : "板野南小学校",
+         "sort_name" : "いたのちようりついたのみなみしようかつこう",
+         "url" : "http://www.netwave.or.jp/~sugai/"
       },
       "板野町立板野東小学校" : {
+         "location" : "徳島県板野郡板野町吹田字町東2番地",
          "location_area" : "板野郡板野町",
+         "location_zipcode" : "779-0104",
          "owner_type" : "町立",
-         "short_name" : "板野東小学校"
+         "short_name" : "板野東小学校",
+         "sort_name" : "いたのちようりついたのひかししようかつこう",
+         "url" : "http://www.netwave.or.jp/~itano-h/"
       },
       "板野町立板野西小学校" : {
+         "location" : "徳島県板野郡板野町那東字泉西5",
          "location_area" : "板野郡板野町",
+         "location_zipcode" : "779-0111",
          "owner_type" : "町立",
-         "short_name" : "板野西小学校"
+         "short_name" : "板野西小学校",
+         "sort_name" : "いたのちようりついたのにし",
+         "url" : "http://www.netwave.or.jp/~itn1/"
       },
       "海陽町立宍喰小学校" : {
+         "location" : "徳島県海部郡海陽町久保字松本88",
          "location_area" : "海部郡海陽町",
+         "location_zipcode" : "775-0502",
          "owner_type" : "町立",
-         "short_name" : "宍喰小学校"
+         "short_name" : "宍喰小学校",
+         "sort_name" : "かいようちようりつししくいしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~sisisyo/"
       },
       "海陽町立川上小学校" : {
+         "location" : "徳島県海部郡海陽町神野字高尾54番地",
          "location_area" : "海部郡海陽町",
+         "location_zipcode" : "775-0413",
          "owner_type" : "町立",
-         "short_name" : "川上小学校"
+         "short_name" : "川上小学校",
+         "sort_name" : "かいようちようりつかわかみしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~seiryuu/"
       },
       "海陽町立浅川小学校" : {
+         "location" : "徳島県海部郡海陽町浅川カミノ41-3",
          "location_area" : "海部郡海陽町",
+         "location_wikipedia_latlon" : "|33|37|32|N|134|21|36|E|",
+         "location_zipcode" : "775-0101",
          "owner_type" : "町立",
-         "short_name" : "浅川小学校"
+         "short_name" : "浅川小学校",
+         "sort_name" : "かいようちようりつあさかわしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~asakawae/"
       },
       "海陽町立海南小学校" : {
+         "location" : "徳島県海部郡海陽町四方原字旭町50番地",
          "location_area" : "海部郡海陽町",
+         "location_zipcode" : "775-0202",
          "owner_type" : "町立",
-         "short_name" : "海南小学校"
+         "short_name" : "海南小学校",
+         "sort_name" : "かいようちようりつかいなんしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~kainane/"
       },
       "海陽町立海部小学校" : {
+         "location" : "徳島県海部郡海陽町奥浦字堤の外44",
          "location_area" : "海部郡海陽町",
+         "location_zipcode" : "775-0302",
          "owner_type" : "町立",
-         "short_name" : "海部小学校"
+         "short_name" : "海部小学校",
+         "sort_name" : "かいようちようりつかいふしようかつこう",
+         "url" : "http://www.kaifu.v-ed.jp/"
       },
       "牟岐町立河内小学校" : {
+         "location" : "徳島県海部郡牟岐町大字河内字西川又290",
          "location_area" : "海部郡牟岐町",
+         "location_zipcode" : "775-0001",
          "owner_type" : "町立",
-         "short_name" : "河内小学校"
+         "short_name" : "河内小学校",
+         "sort_name" : "むきちようりつこうちしようかつこう",
+         "url" : "http://www.kouchisyo.mugi.ed.jp/"
       },
       "牟岐町立牟岐小学校" : {
+         "location" : "徳島県海部郡牟岐町中村字本村14",
          "location_area" : "海部郡牟岐町",
+         "location_zipcode" : "775-0007",
          "owner_type" : "町立",
-         "short_name" : "牟岐小学校"
+         "short_name" : "牟岐小学校",
+         "sort_name" : "むきちようりつむきしようかつこう",
+         "url" : "http://www.mugisyo.mugi.ed.jp/"
       },
       "生光学園小学校" : {
-         "owner_type" : "私立"
+         "location" : "徳島県徳島市応神町中原38",
+         "location_zipcode" : "771-1152",
+         "owner_type" : "私立",
+         "sort_name" : "せいこうかくえんしよう",
+         "url" : "http://www.seikogakuen.ac.jp/primary/index.html"
       },
       "石井町立浦庄小学校" : {
+         "location" : "徳島県名西郡石井町浦庄字下浦475-1",
          "location_area" : "名西郡石井町",
+         "location_wikipedia_latlon" : "|34|03|59|N|134|24|59|E|",
+         "location_zipcode" : "779-3244",
          "owner_type" : "町立",
-         "short_name" : "浦庄小学校"
+         "short_name" : "浦庄小学校",
+         "sort_name" : "いしいちようりつうらしようしようかつこう",
+         "url" : "http://www.netwave.or.jp/~ura-edu1/"
       },
       "石井町立石井小学校" : {
+         "location" : "徳島県名西郡石井町石井字石井1184-1",
          "location_area" : "名西郡石井町",
+         "location_zipcode" : "779-3233",
          "owner_type" : "町立",
-         "short_name" : "石井小学校"
+         "short_name" : "石井小学校",
+         "sort_name" : "いしいちようりついしいしようかつこう",
+         "url" : "http://www.netwave.or.jp/~isii-es/"
       },
       "石井町立石井小学校尼寺分校" : {
          "location_area" : "名西郡石井町",
@@ -627,447 +1091,803 @@
          "short_name" : "石井小学校尼寺分校"
       },
       "石井町立藍畑小学校" : {
+         "location" : "徳島県名西郡石井町藍畑字東覚円670番地",
          "location_area" : "名西郡石井町",
+         "location_zipcode" : "779-3212",
          "owner_type" : "町立",
-         "short_name" : "藍畑小学校"
+         "short_name" : "藍畑小学校",
+         "sort_name" : "いしいちようりつあいはたしようかつこう",
+         "url" : "http://www.netwave.or.jp/~aisyo/"
       },
       "石井町立高原小学校" : {
+         "location" : "徳島県名西郡石井町高原東高原250-1",
          "location_area" : "名西郡石井町",
+         "location_zipcode" : "779-3205",
          "owner_type" : "町立",
-         "short_name" : "高原小学校"
+         "short_name" : "高原小学校",
+         "sort_name" : "いしいちようりつたかはらしようかつこう",
+         "url" : "http://www.netwave.or.jp/~takashos/"
       },
       "石井町立高川原小学校" : {
+         "location" : "徳島県名西郡石井町高川原字高川原1167番地",
          "location_area" : "名西郡石井町",
+         "location_wikipedia_latlon" : "|34|04|38|N|134|26|53|E|",
+         "location_zipcode" : "779-3223",
          "owner_type" : "町立",
-         "short_name" : "高川原小学校"
+         "short_name" : "高川原小学校",
+         "sort_name" : "いしいちようりつたかかわらしようかつこう",
+         "url" : "http://www.netwave.or.jp/~takagaes/gaiyou.html"
       },
       "神山町立広野小学校" : {
+         "location" : "徳島県名西郡神山町阿野字広野42番地",
          "location_area" : "名西郡神山町",
+         "location_zipcode" : "771-3201",
          "owner_type" : "町立",
-         "short_name" : "広野小学校"
+         "short_name" : "広野小学校",
+         "sort_name" : "かみやまちようりつひろのしようかつこう",
+         "url" : "http://tgn.tcn.ne.jp/~hirono_es/"
       },
       "神山町立神領小学校" : {
+         "location" : "徳島県名名西郡神山町神領字大埜地411-1",
          "location_area" : "名西郡神山町",
+         "location_zipcode" : "771-3301",
          "owner_type" : "町立",
-         "short_name" : "神領小学校"
+         "short_name" : "神領小学校",
+         "sort_name" : "かみやまちようりつしんりようしようかつこう",
+         "url" : "http://tgn.tcn.ne.jp/~jinryou_es/"
       },
       "美波町立伊座利小学校" : {
+         "location" : "徳島県海部郡美波町伊座利354-2",
          "location_area" : "海部郡美波町",
+         "location_zipcode" : "779-2106",
          "owner_type" : "町立",
-         "short_name" : "伊座利小学校"
+         "short_name" : "伊座利小学校",
+         "sort_name" : "みなみちようりついさりしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~izarikou/"
       },
       "美波町立日和佐小学校" : {
+         "location" : "徳島県海部郡美波町奥河内字本村34番地の1",
          "location_area" : "海部郡美波町",
+         "location_zipcode" : "779-2305",
          "owner_type" : "町立",
-         "short_name" : "日和佐小学校"
+         "short_name" : "日和佐小学校",
+         "sort_name" : "みなみちようりつひわさしようかつこう",
+         "url" : "http://www.hiwasasyo.minamicho.ed.jp/"
       },
       "美波町立木岐小学校" : {
+         "location" : "徳島県海部郡美波町木岐72番地",
          "location_area" : "海部郡美波町",
+         "location_zipcode" : "779-2103",
          "owner_type" : "町立",
-         "short_name" : "木岐小学校"
+         "short_name" : "木岐小学校",
+         "sort_name" : "みなみちようりつききしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~kikisyou/"
       },
       "美波町立由岐小学校" : {
+         "location" : "徳島県海部郡美波町西の地字谷裏90-19",
          "location_area" : "海部郡美波町",
+         "location_zipcode" : "779-2103",
          "owner_type" : "町立",
-         "short_name" : "由岐小学校"
+         "short_name" : "由岐小学校",
+         "sort_name" : "みなみちようりつゆきしようかつこう",
+         "url" : "http://www.minamicho.info/yuki/school/yukishougakkou.html"
       },
       "美波町立阿部小学校" : {
+         "location" : "徳島県海部郡美波町阿部103",
          "location_area" : "海部郡美波町",
+         "location_zipcode" : "779-2106",
          "owner_type" : "町立",
-         "short_name" : "阿部小学校"
+         "short_name" : "阿部小学校",
+         "sort_name" : "みなみちようりつあふしようかつこう",
+         "url" : "http://www.nmt.ne.jp/~abukou/"
       },
       "美馬市立三島小学校" : {
+         "location" : "徳島県美馬市穴吹町三島字三谷374番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0003",
          "owner_type" : "市立",
-         "short_name" : "三島小学校"
+         "short_name" : "三島小学校",
+         "sort_name" : "みましりつみしましようかつこう",
+         "url" : "http://www.city.mima.ed.jp/mishimashou/"
       },
       "美馬市立初草小学校" : {
+         "location" : "徳島県美馬市穴吹町口山字初草144番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0006",
          "owner_type" : "市立",
-         "short_name" : "初草小学校"
+         "short_name" : "初草小学校",
+         "sort_name" : "みましりつはつくさしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/hatukusashou/"
       },
       "美馬市立喜来小学校" : {
+         "location" : "徳島県美馬市美馬町字天神63番地1",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2106",
          "owner_type" : "市立",
-         "short_name" : "喜来小学校"
+         "short_name" : "喜来小学校",
+         "sort_name" : "みましりつきらいしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/kiraishou/"
       },
       "美馬市立宮内小学校" : {
+         "location" : "徳島県美馬市穴吹町口山字宮内52番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0006",
          "owner_type" : "市立",
-         "short_name" : "宮内小学校"
+         "short_name" : "宮内小学校",
+         "sort_name" : "みましりつみやうちしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/miyautishou/"
       },
       "美馬市立岩倉小学校" : {
+         "location" : "徳島県美馬市脇町岩倉2879番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3620",
          "owner_type" : "市立",
-         "short_name" : "岩倉小学校"
+         "short_name" : "岩倉小学校",
+         "sort_name" : "みましりついわくらしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/iwakurashou/"
       },
       "美馬市立木屋平小学校" : {
+         "location" : "徳島県美馬市木屋平字谷口235番地の1",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0303",
          "owner_type" : "市立",
-         "short_name" : "木屋平小学校"
+         "short_name" : "木屋平小学校",
+         "sort_name" : "みましりつこやたいらしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/koyadairashou/"
       },
       "美馬市立江原北小学校" : {
+         "location" : "徳島県美馬市脇町字西赤谷3744番地の2",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3742",
          "owner_type" : "市立",
-         "short_name" : "江原北小学校"
+         "short_name" : "江原北小学校",
+         "sort_name" : "みましりつえはらきたしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/ehokushou/"
       },
       "美馬市立江原南小学校" : {
+         "location" : "徳島県美馬市脇町字拝原829番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3601",
          "owner_type" : "市立",
-         "short_name" : "江原南小学校"
+         "short_name" : "江原南小学校",
+         "sort_name" : "みましりつえはらみなみしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/enanshou/"
       },
       "美馬市立江原東小学校" : {
+         "location" : "徳島県美馬市脇町字東俣名320番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3745",
          "owner_type" : "市立",
-         "short_name" : "江原東小学校"
+         "short_name" : "江原東小学校",
+         "sort_name" : "みましりつえはらひかししようかつこう",
+         "url" : "http://www.city.mima.ed.jp/etoushou/"
       },
       "美馬市立清水小学校" : {
+         "location" : "徳島県美馬市脇町字西俣名1069",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3744",
          "owner_type" : "市立",
-         "short_name" : "清水小学校"
+         "short_name" : "清水小学校",
+         "sort_name" : "みましりつしみすしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/shimizushou/"
       },
       "美馬市立穴吹小学校" : {
+         "location" : "徳島県美馬市穴吹町穴吹字柏40",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0005",
          "owner_type" : "市立",
-         "short_name" : "穴吹小学校"
+         "short_name" : "穴吹小学校",
+         "sort_name" : "みましりつあなふきしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/anabukishou/"
       },
       "美馬市立脇町小学校" : {
+         "location" : "徳島県美馬市脇町大字猪尻字西ノ久保165",
          "location_area" : "美馬市",
+         "location_zipcode" : "779-3602",
          "owner_type" : "市立",
-         "short_name" : "脇町小学校"
+         "short_name" : "脇町小学校",
+         "sort_name" : "みましりつわきまちしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/wakishou/"
       },
       "美馬市立芝坂小学校" : {
+         "location" : "徳島県美馬市美馬町字南原26番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2104",
          "owner_type" : "市立",
-         "short_name" : "芝坂小学校"
+         "short_name" : "芝坂小学校",
+         "sort_name" : "みましりつしはさかしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/shibasakashou/"
       },
       "美馬市立郡里小学校" : {
+         "location" : "徳島県美馬市美馬町字助松158番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2104",
          "owner_type" : "市立",
-         "short_name" : "郡里小学校"
+         "short_name" : "郡里小学校",
+         "sort_name" : "みましりつこうさとしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/kouzatoshou/"
       },
       "美馬市立重清北小学校" : {
+         "location" : "徳島県美馬市美馬町字狙ヶ内26-3",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2102",
          "owner_type" : "市立",
-         "short_name" : "重清北小学校"
+         "short_name" : "重清北小学校",
+         "sort_name" : "みましりつしけきよきたしようかつこう",
+         "url" : "http://www.city.mima.ed.jp/shigekitashou/"
       },
       "美馬市立重清東小学校" : {
+         "location" : "徳島県美馬市美馬町字大泉51番地1",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2106",
          "owner_type" : "市立",
-         "short_name" : "重清東小学校"
+         "short_name" : "重清東小学校",
+         "sort_name" : "みましりつしけきよひがししようかつこう",
+         "url" : "http://www.city.mima.ed.jp/shigehigashishou/"
       },
       "美馬市立重清西小学校" : {
+         "location" : "徳島県美馬市美馬町字八幡115番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2107",
          "owner_type" : "市立",
-         "short_name" : "重清西小学校"
+         "short_name" : "重清西小学校",
+         "sort_name" : "みましりつしけきよにししようかつこう",
+         "url" : "http://www.city.mima.ed.jp/shigenishishou/"
       },
       "藍住町立藍住北小学校" : {
+         "location" : "徳島県板野郡藍住町住吉字乾1番地",
          "location_area" : "板野郡藍住町",
+         "location_zipcode" : "771-1267",
          "owner_type" : "町立",
-         "short_name" : "藍住北小学校"
+         "short_name" : "藍住北小学校",
+         "url" : "http://www.netwave.or.jp/~aikita/"
       },
       "藍住町立藍住南小学校" : {
+         "location" : "徳島県板野郡藍住町奥野字和田95番地",
          "location_area" : "板野郡藍住町",
+         "location_zipcode" : "771-1202",
          "owner_type" : "町立",
-         "short_name" : "藍住南小学校"
+         "short_name" : "藍住南小学校",
+         "url" : "http://www.netwave.or.jp/~ainan/"
       },
       "藍住町立藍住東小学校" : {
+         "location" : "徳島県板野郡藍住町勝瑞字成長155-1",
          "location_area" : "板野郡藍住町",
+         "location_zipcode" : "771-1272",
          "owner_type" : "町立",
-         "short_name" : "藍住東小学校"
+         "short_name" : "藍住東小学校",
+         "url" : "http://www.netwave.or.jp/~higasi-3/aihigasitop.htm"
       },
       "藍住町立藍住西小学校" : {
+         "location" : "徳島県板野郡藍住町富吉字豊吉55-1",
          "location_area" : "板野郡藍住町",
+         "location_zipcode" : "771-1231",
          "owner_type" : "町立",
-         "short_name" : "藍住西小学校"
+         "short_name" : "藍住西小学校",
+         "url" : "http://www.netwave.or.jp/~ainishi/"
       },
       "那賀町立北川小学校" : {
+         "location" : "徳島県那那賀郡那賀町木頭折宇字六地蔵89番地",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-6511",
          "owner_type" : "町立",
-         "short_name" : "北川小学校"
+         "short_name" : "北川小学校",
+         "sort_name" : "なかちようりつきたかわしようかつこう",
+         "url" : "http://wwwa.njctv.ne.jp/kitagawa/"
       },
       "那賀町立平谷小学校" : {
+         "location" : "徳島県那賀郡那賀町平谷字北浦9番地",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-6321",
          "owner_type" : "町立",
-         "short_name" : "平谷小学校"
+         "short_name" : "平谷小学校",
+         "sort_name" : "なかちようりつひらたにしようかつこう",
+         "url" : "http://wwwa.njctv.ne.jp/hirasyo/"
       },
       "那賀町立木沢小学校" : {
+         "location" : "徳島県那賀郡那賀町坂州字向エ169-1",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-6106",
          "owner_type" : "町立",
-         "short_name" : "木沢小学校"
+         "short_name" : "木沢小学校",
+         "sort_name" : "なかちようりつきさわしようかつこう",
+         "url" : "http://wwwa.njctv.ne.jp/kito-01/"
       },
       "那賀町立木頭小学校" : {
+         "location" : "那賀郡那賀町木頭和無田字ナカスジ1番地",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-6403",
          "owner_type" : "町立",
-         "short_name" : "木頭小学校"
+         "short_name" : "木頭小学校",
+         "sort_name" : "なかちようりつきとうしようかつこう",
+         "url" : "http://wwwa.njctv.ne.jp/kito-01/"
       },
       "那賀町立桜谷小学校" : {
+         "location" : "徳島県那賀郡那賀町水崎字水崎原27番地",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-5511",
          "owner_type" : "町立",
-         "short_name" : "桜谷小学校"
+         "short_name" : "桜谷小学校",
+         "sort_name" : "なかちようりつさくらたにしようかつこう",
+         "url" : "http://wwwa.njctv.ne.jp/kaminaka/index1.htm"
       },
       "那賀町立相生小学校" : {
+         "location" : "徳島県那賀郡那賀町延野字大原80",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-5406",
          "owner_type" : "町立",
-         "short_name" : "相生小学校"
+         "short_name" : "相生小学校",
+         "sort_name" : "なかちようりつあいおいしようかつこう",
+         "url" : "http://www.whk.ne.jp/~aioi-es/"
       },
       "那賀町立鷲敷小学校" : {
+         "location" : "徳島県那賀郡那賀町和食字町117番地4",
          "location_area" : "那賀郡那賀町",
+         "location_zipcode" : "771-5021",
          "owner_type" : "町立",
-         "short_name" : "鷲敷小学校"
+         "short_name" : "鷲敷小学校",
+         "sort_name" : "なかちようりつわしきしようかつこう",
+         "url" : "http://www.whk.ne.jp/~washisyou/"
       },
       "阿南市立中野島小学校" : {
+         "location" : "徳島県阿南市上中町中原182番地1",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0044",
          "owner_type" : "市立",
-         "short_name" : "中野島小学校"
+         "short_name" : "中野島小学校",
+         "sort_name" : "あなんしりつなかのしましようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/jtansb/"
       },
       "阿南市立今津小学校" : {
+         "location" : "徳島県阿南市那賀川町敷地238番地",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-1760",
          "owner_type" : "市立",
-         "short_name" : "今津小学校"
+         "short_name" : "今津小学校",
+         "sort_name" : "あなんしりついまつしようかつこう",
+         "url" : "http://www.kirali.net/imazu/"
       },
       "阿南市立伊島小学校" : {
+         "location" : "徳島県阿南市伊島町瀬戸3番地の2",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-1760",
          "owner_type" : "市立",
-         "short_name" : "伊島小学校"
+         "short_name" : "伊島小学校",
+         "sort_name" : "あなんしりついしましようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~ishima/"
       },
       "阿南市立吉井小学校" : {
+         "location" : "徳島県阿南市吉井町原18番地2",
          "location_area" : "阿南市",
+         "location_zipcode" : "771-5172",
          "owner_type" : "市立",
-         "short_name" : "吉井小学校"
+         "short_name" : "吉井小学校",
+         "sort_name" : "あなんしりつよしいしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/yoshii/"
       },
       "阿南市立大野小学校" : {
+         "location" : "徳島県阿南市下大野町三条5",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0047",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "あなんしりつおおのしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/on35/"
       },
       "阿南市立宝田小学校" : {
+         "location" : "徳島県阿南市宝田町久保田124",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0045",
          "owner_type" : "市立",
-         "short_name" : "宝田小学校"
+         "short_name" : "宝田小学校",
+         "sort_name" : "あなんしりつたからたしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/ta124/"
       },
       "阿南市立富岡小学校" : {
+         "location" : "徳島県阿南市領家町浜田200番地",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0011",
          "owner_type" : "市立",
-         "short_name" : "富岡小学校"
+         "short_name" : "富岡小学校",
+         "sort_name" : "あなんしりつとみおかしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/tomisyo/"
       },
       "阿南市立山口小学校" : {
+         "location" : "徳島県阿南市山口町久延69-1",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1403",
          "owner_type" : "市立",
-         "short_name" : "山口小学校"
+         "short_name" : "山口小学校",
+         "sort_name" : "あなんしりつやまくちしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~yamasyo/"
       },
       "阿南市立岩脇小学校" : {
+         "location" : "徳島県阿南市羽ノ浦町岩脇字町筋87",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1106",
          "owner_type" : "市立",
-         "short_name" : "岩脇小学校"
+         "short_name" : "岩脇小学校",
+         "sort_name" : "あなんしりついわわきしようかつこう",
+         "url" : "http://www.town.hanoura.tokushima.jp/iwasyo/index2.html"
       },
       "阿南市立平島小学校" : {
+         "location" : "徳島県阿南市那賀川町赤池131-2番地",
          "location_area" : "阿南市",
+         "location_wikipedia_latlon" : "|33|56|36|N|134|39|45|E|",
+         "location_zipcode" : "779-1242",
          "owner_type" : "市立",
-         "short_name" : "平島小学校"
+         "short_name" : "平島小学校",
+         "sort_name" : "あなんしりつひらしましようかつこう",
+         "url" : "http://www.netwave.or.jp/~hirajima/"
       },
       "阿南市立新野小学校" : {
+         "location" : "徳島県阿南市新野町南宮ノ久保70-1",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1110",
          "owner_type" : "市立",
-         "short_name" : "新野小学校"
+         "short_name" : "新野小学校",
+         "sort_name" : "あなんしりつあらたのしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~aratano/"
       },
       "阿南市立新野東小学校" : {
+         "location" : "徳島県阿南市新野町是国37-2",
          "location_area" : "阿南市",
+         "location_wikipedia_latlon" : "|33|50|42|N|134|36|15|E|",
+         "location_zipcode" : "779-1510",
          "owner_type" : "市立",
-         "short_name" : "新野東小学校"
+         "short_name" : "新野東小学校",
+         "sort_name" : "あなんしりつあらたのひかししようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/arahiga/"
       },
       "阿南市立桑野小学校" : {
+         "location" : "徳島県阿南市桑野町岡元40-1",
          "location_area" : "阿南市",
+         "location_wikipedia_latlon" : "|33|52|25|N|134|36|43|E|",
+         "location_zipcode" : "779-1402",
          "owner_type" : "市立",
-         "short_name" : "桑野小学校"
+         "short_name" : "桑野小学校",
+         "sort_name" : "あなんしりつくわのしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~kuwanoha/"
       },
       "阿南市立椿小学校" : {
+         "location" : "徳島県阿南市椿町黒田47番地",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1750",
          "owner_type" : "市立",
-         "short_name" : "椿小学校"
+         "short_name" : "椿小学校",
+         "sort_name" : "あなんしりつつはきしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~tubaki/"
       },
       "阿南市立椿泊小学校" : {
+         "location" : "徳島県阿南市椿泊町東127",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1740",
          "owner_type" : "市立",
-         "short_name" : "椿泊小学校"
+         "short_name" : "椿泊小学校",
+         "sort_name" : "あなんしりつつはきとまりしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/tomari/"
       },
       "阿南市立横見小学校" : {
+         "location" : "徳島県阿南市横見町前長岡67-2",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0042",
          "owner_type" : "市立",
-         "short_name" : "横見小学校"
+         "short_name" : "横見小学校",
+         "sort_name" : "あなんしりつよこみしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/yokomi/"
       },
       "阿南市立橘小学校" : {
+         "location" : "徳島県阿南市橘町大浦166の6",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0023",
          "owner_type" : "市立",
-         "short_name" : "橘小学校"
+         "short_name" : "橘小学校",
+         "sort_name" : "あなんしりつたちはなしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/tatibana/"
       },
       "阿南市立津乃峰小学校" : {
+         "location" : "徳島県阿南市津乃峰町戎山129-37",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0021",
          "owner_type" : "市立",
-         "short_name" : "津乃峰小学校"
+         "short_name" : "津乃峰小学校",
+         "sort_name" : "あなんしりつつのみねしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~tusyo/"
       },
       "阿南市立福井小学校" : {
+         "location" : "徳島県阿南市福井町大西192番地の1",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1620",
          "owner_type" : "市立",
-         "short_name" : "福井小学校"
+         "short_name" : "福井小学校",
+         "sort_name" : "あなんしりつふくいしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/~fukuisyo/"
       },
       "阿南市立羽ノ浦小学校" : {
+         "location" : "徳島県阿南市羽ノ浦町中庄原婦知1",
          "location_area" : "阿南市",
+         "location_wikipedia_latlon" : "|33|57|29|N|134|37|41|E|",
+         "location_zipcode" : "779-1101",
          "owner_type" : "市立",
-         "short_name" : "羽ノ浦小学校"
+         "short_name" : "羽ノ浦小学校",
+         "sort_name" : "あなんしりつはのうらしようかつこう",
+         "url" : "http://www.town.hanoura.tokushima.jp/hasyo/"
       },
       "阿南市立見能林小学校" : {
+         "location" : "徳島県阿南市見能林町西内35番地",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0017",
          "owner_type" : "市立",
-         "short_name" : "見能林小学校"
+         "short_name" : "見能林小学校",
+         "sort_name" : "あなんしりつみのはやししようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/misho/"
       },
       "阿南市立長生小学校" : {
+         "location" : "徳島県阿南市長生町五反地25-2",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0046",
          "owner_type" : "市立",
-         "short_name" : "長生小学校"
+         "short_name" : "長生小学校",
+         "sort_name" : "あなんしりつなかいけしようかつこう",
+         "url" : "http://www.infoeddy.ne.jp/nagaikes/"
       },
       "阿波市立一条小学校" : {
+         "location" : "徳島県阿波市吉野町西条字岡ノ川原135",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1402",
          "owner_type" : "市立",
-         "short_name" : "一条小学校"
+         "short_name" : "一条小学校",
+         "sort_name" : "あわしりついちしようしようかつこう",
+         "url" : "http://academic1.plala.or.jp/sendan/"
       },
       "阿波市立久勝小学校" : {
+         "location" : "徳島県阿波市阿波町森沢28番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1702",
          "owner_type" : "市立",
-         "short_name" : "久勝小学校"
+         "short_name" : "久勝小学校",
+         "sort_name" : "あわしりつひさかつしようかつこう",
+         "url" : "http://www.tcu.or.jp/awa/awa_school/hisasyo/index/"
       },
       "阿波市立伊沢小学校" : {
+         "location" : "徳島県阿波市阿波町南柴生172",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1703",
          "owner_type" : "市立",
-         "short_name" : "伊沢小学校"
+         "short_name" : "伊沢小学校",
+         "sort_name" : "あわしりついさわしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/awa/Isawa/"
       },
       "阿波市立八幡小学校" : {
+         "location" : "徳島県阿波市市場町大野島字稲荷138番地の1",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1627",
          "owner_type" : "市立",
-         "short_name" : "八幡小学校"
+         "short_name" : "八幡小学校",
+         "sort_name" : "あわしりつやはたしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/ichiba/yawata/"
       },
       "阿波市立土成小学校" : {
+         "location" : "徳島県阿波市成当1203番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1504",
          "owner_type" : "市立",
-         "short_name" : "土成小学校"
+         "short_name" : "土成小学校",
+         "sort_name" : "あわしりつとなりしようかつこう",
+         "url" : "http://www18.ocn.ne.jp/~akatahp/"
       },
       "阿波市立大俣小学校" : {
+         "location" : "徳島県阿波市市場町上喜来字西原200番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1602",
          "owner_type" : "市立",
-         "short_name" : "大俣小学校"
+         "short_name" : "大俣小学校",
+         "sort_name" : "あわしりつおおまたしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/ichiba/oomata/"
       },
       "阿波市立市場小学校" : {
+         "location" : "徳島県阿波市市場町市場字上野段670番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1602",
          "owner_type" : "市立",
-         "short_name" : "市場小学校"
+         "short_name" : "市場小学校",
+         "sort_name" : "あわしりついちはしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/ichiba/ichiba/"
       },
       "阿波市立御所小学校" : {
+         "location" : "徳島県阿波市土成町宮川内字広坪89番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1508",
          "owner_type" : "市立",
-         "short_name" : "御所小学校"
+         "short_name" : "御所小学校",
+         "sort_name" : "あわしりつこしよしようかつこう",
+         "url" : "http://www18.ocn.ne.jp/~gosho/"
       },
       "阿波市立林小学校" : {
+         "location" : "徳島県阿波郡阿波町字東整理155番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1706",
          "owner_type" : "市立",
-         "short_name" : "林小学校"
+         "short_name" : "林小学校",
+         "sort_name" : "あわしりつはやししようかつこう",
+         "url" : "http://www.tcu.or.jp/awa/awa_school/hayashi/index.htm"
       },
       "阿波市立柿原小学校" : {
+         "location" : "徳島県阿波市吉野町柿原字256",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1401",
          "owner_type" : "市立",
-         "short_name" : "柿原小学校"
+         "short_name" : "柿原小学校",
+         "sort_name" : "あわしりつかきはらしようかつこう",
+         "url" : "http://www.tcu.or.jp/syougakkou/yoshino/kakihara/"
       },
       "鳴門市立北灘東小学校" : {
+         "location" : "徳島県鳴門市北灘町粟田字西傍示228の1",
          "location_area" : "鳴門市",
+         "location_zipcode" : "771-0372",
          "owner_type" : "市立",
-         "short_name" : "北灘東小学校"
+         "short_name" : "北灘東小学校",
+         "sort_name" : "なるとしりつきたなたひかし",
+         "url" : "http://www.tv-naruto.ne.jp/ktnd-e01/"
       },
       "鳴門市立北灘西小学校" : {
+         "location" : "徳島県鳴門市北灘町折野字屋敷64-3",
          "location_area" : "鳴門市",
+         "location_zipcode" : "771-0376",
          "owner_type" : "市立",
-         "short_name" : "北灘西小学校"
+         "short_name" : "北灘西小学校",
+         "sort_name" : "なるとしりつきたなたにし",
+         "url" : "http://www.tv-naruto.ne.jp/kitanishi1/"
       },
       "鳴門市立堀江北小学校" : {
+         "location" : "徳島県鳴門市大麻町大谷字中筋41番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "779-0302",
          "owner_type" : "市立",
-         "short_name" : "堀江北小学校"
+         "short_name" : "堀江北小学校",
+         "sort_name" : "なるとしりつほりえきた",
+         "url" : "http://www.tv-naruto.ne.jp/n_horie01/"
       },
       "鳴門市立堀江南小学校" : {
+         "location" : "徳島県鳴門市大麻町西馬詰字橋ノ本7",
          "location_area" : "鳴門市",
+         "location_zipcode" : "779-0314",
          "owner_type" : "市立",
-         "short_name" : "堀江南小学校"
+         "short_name" : "堀江南小学校",
+         "sort_name" : "なるとしりつほりえみなみ",
+         "url" : "http://www.tv-naruto.ne.jp/horie-s01/"
       },
       "鳴門市立大津西小学校" : {
+         "location" : "徳島県鳴門市大津町大代1210",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0041",
          "owner_type" : "市立",
-         "short_name" : "大津西小学校"
+         "short_name" : "大津西小学校",
+         "sort_name" : "なるとしりつおおつにし",
+         "url" : "http://www.tv-naruto.ne.jp/ootu-w01/"
       },
       "鳴門市立島田小学校" : {
+         "location" : "徳島県鳴門市瀬戸町中島田字北田36番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "771-0360",
          "owner_type" : "市立",
-         "short_name" : "島田小学校"
+         "short_name" : "島田小学校",
+         "sort_name" : "なるとしりつしまた",
+         "url" : "http://www.tv-naruto.ne.jp/shimada01/"
       },
       "鳴門市立川崎小学校" : {
+         "location" : "徳島県鳴門市大麻町川崎394番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "779-0223",
          "owner_type" : "市立",
-         "short_name" : "川崎小学校"
+         "short_name" : "川崎小学校",
+         "sort_name" : "なるとしりつかわさき",
+         "url" : "http://www.tv-naruto.ne.jp/kwsk01/"
       },
       "鳴門市立撫養小学校" : {
+         "location" : "徳島県鳴門市撫養町齋田字岩崎72番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0002",
          "owner_type" : "市立",
-         "short_name" : "撫養小学校"
+         "short_name" : "撫養小学校",
+         "sort_name" : "なるとしりつむや",
+         "url" : "http://www.tv-naruto.ne.jp/muya01/"
       },
       "鳴門市立明神小学校" : {
+         "location" : "徳島県鳴門市瀬戸町明神字越浦70番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "771-0360",
          "owner_type" : "市立",
-         "short_name" : "明神小学校"
+         "short_name" : "明神小学校",
+         "sort_name" : "なるとしりつあきのかみ",
+         "url" : "http://www.tv-naruto.ne.jp/akinokami1/"
       },
       "鳴門市立板東小学校" : {
+         "location" : "鳴門市大麻町板東字宝蔵60番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "779-0233",
          "owner_type" : "市立",
-         "short_name" : "板東小学校"
+         "short_name" : "板東小学校",
+         "url" : "http://www.tv-naruto.ne.jp/bandou-.1bart/"
       },
       "鳴門市立林崎小学校" : {
+         "location" : "徳島県鳴門市撫養町立岩字内田73番地1",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0017",
          "owner_type" : "市立",
-         "short_name" : "林崎小学校"
+         "short_name" : "林崎小学校",
+         "sort_name" : "なるとしりつはやさき",
+         "url" : "http://www.tv-naruto.ne.jp/hayasaki01/"
       },
       "鳴門市立桑島小学校" : {
+         "location" : "徳島県鳴門市撫養町大桑島字与三左谷6番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0011",
          "owner_type" : "市立",
-         "short_name" : "桑島小学校"
+         "short_name" : "桑島小学校",
+         "sort_name" : "なるとしりつくわしま",
+         "url" : "http://www.tv-naruto.ne.jp/kuwajima01/"
       },
       "鳴門市立瀬戸小学校" : {
+         "location" : "徳島県鳴門市瀬戸町堂浦字地廻り参220-1",
          "location_area" : "鳴門市",
+         "location_zipcode" : "771-0361",
          "owner_type" : "市立",
-         "short_name" : "瀬戸小学校"
+         "short_name" : "瀬戸小学校",
+         "sort_name" : "なるとしりつせと",
+         "url" : "http://www.tv-naruto.ne.jp/seto-s01/"
       },
       "鳴門市立第一小学校" : {
+         "location" : "徳島県鳴門市大津町木津野字内田11番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0031",
          "owner_type" : "市立",
-         "short_name" : "第一小学校"
+         "short_name" : "第一小学校",
+         "sort_name" : "なるとしりつたいいち",
+         "url" : "http://www.tv-naruto.ne.jp/naruto-daiiti/"
       },
       "鳴門市立里浦小学校" : {
+         "location" : "徳島県鳴門市里浦町里浦字西浜401番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0021",
          "owner_type" : "市立",
-         "short_name" : "里浦小学校"
+         "short_name" : "里浦小学校",
+         "sort_name" : "なるとしりつさとうら",
+         "url" : "http://www.tv-naruto.ne.jp/satoura01/"
       },
       "鳴門市立鳴門東小学校" : {
+         "location" : "徳島県鳴門市鳴門町土佐泊浦字高砂65-3",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0053",
          "owner_type" : "市立",
-         "short_name" : "鳴門東小学校"
+         "short_name" : "鳴門東小学校",
+         "sort_name" : "なるとしりつなるとひかし",
+         "url" : "http://www.tv-naruto.ne.jp/naruto-e02/"
       },
       "鳴門市立鳴門西小学校" : {
+         "location" : "徳島県鳴門市鳴門町高島字北217番地",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0051",
          "owner_type" : "市立",
-         "short_name" : "鳴門西小学校"
+         "short_name" : "鳴門西小学校",
+         "sort_name" : "なるとしりつなるとにし",
+         "url" : "http://www.tv-naruto.ne.jp/naruto-w01/"
       },
       "鳴門市立黒崎小学校" : {
+         "location" : "徳島県鳴門市撫養町黒崎字宮津88-1",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0001",
          "owner_type" : "市立",
-         "short_name" : "黒崎小学校"
+         "short_name" : "黒崎小学校",
+         "sort_name" : "なるとしりつくろさき",
+         "url" : "http://www.tv-naruto.ne.jp/kurosaki01/"
       },
       "鳴門教育大学附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "徳島県徳島市南前川町一丁目1番地",
+         "location_zipcode" : "770-0808",
+         "owner_type" : "国立",
+         "sort_name" : "なるときよういくたいかくふそくしよう",
+         "url" : "http://www.elesch.naruto-u.ac.jp/"
       }
    }
 }

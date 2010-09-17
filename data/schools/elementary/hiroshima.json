@@ -2,6 +2,7 @@
    "elementary_schools" : {
       "ぎんがの郷小学校" : {
          "owner_type" : "私立",
+         "sort_name" : "きんかかくいん",
          "wikipedia_name" : "銀河学院中学校・高等学校"
       },
       "なぎさ公園小学校" : {
@@ -38,9 +39,13 @@
          "short_name" : "北方小学校"
       },
       "三原市立南小学校" : {
+         "location" : "広島県三原市宮沖3丁目15番1号",
          "location_area" : "三原市",
+         "location_zipcode" : "723-0016",
          "owner_type" : "市立",
-         "short_name" : "南小学校"
+         "short_name" : "南小学校",
+         "sort_name" : "みはらしりつみなみしようかつこう",
+         "url" : "http://www.mihara.ed.jp/~minami-es/"
       },
       "三原市立南方小学校" : {
          "location_area" : "三原市",
@@ -273,9 +278,13 @@
          "short_name" : "神杉小学校"
       },
       "三次市立粟屋小学校" : {
+         "location" : "広島県三次市粟屋町2349番地",
          "location_area" : "三次市",
+         "location_zipcode" : "728-0025",
          "owner_type" : "市立",
-         "short_name" : "粟屋小学校"
+         "short_name" : "粟屋小学校",
+         "sort_name" : "みよししりつあわやしようかつこう",
+         "url" : "http://www.awaya-e.hiroshima-c.ed.jp/"
       },
       "三次市立酒河小学校" : {
          "location_area" : "三次市",
@@ -836,9 +845,14 @@
          "short_name" : "郷野小学校"
       },
       "尾道市立三幸小学校" : {
+         "location" : "広島県尾道市向島町12617",
          "location_area" : "尾道市",
+         "location_wikipedia_latlon" : "|34|22|50|N|133|10|30|E|",
+         "location_zipcode" : "722-0073",
          "owner_type" : "市立",
-         "short_name" : "三幸小学校"
+         "short_name" : "三幸小学校",
+         "sort_name" : "おのみちしりつみゆきしようかつこう",
+         "url" : "http://www.onomichi.ed.jp/miyuki-e/"
       },
       "尾道市立三庄小学校" : {
          "location_area" : "尾道市",
@@ -861,14 +875,23 @@
          "short_name" : "南小学校"
       },
       "尾道市立原田小学校" : {
+         "location" : "広島県尾道市原田町梶山田61番地",
          "location_area" : "尾道市",
+         "location_zipcode" : "722-0202",
          "owner_type" : "市立",
-         "short_name" : "原田小学校"
+         "short_name" : "原田小学校",
+         "sort_name" : "おのみちしりつはらたしよう",
+         "url" : "http://www.onomichi.ed.jp/harada-e/"
       },
       "尾道市立吉和小学校" : {
+         "location" : "広島県尾道市東元町26番3号",
          "location_area" : "尾道市",
+         "location_wikipedia_latlon" : "|34|24|03|N|133|10|13|E|",
+         "location_zipcode" : "722-0003",
          "owner_type" : "市立",
-         "short_name" : "吉和小学校"
+         "short_name" : "吉和小学校",
+         "sort_name" : "おのみちしりつよしわしようかつこう",
+         "url" : "http://www.onomichi.ed.jp/yoshiwa-e/"
       },
       "尾道市立向島中央小学校" : {
          "location_area" : "尾道市",
@@ -876,9 +899,14 @@
          "short_name" : "向島中央小学校"
       },
       "尾道市立向東小学校" : {
+         "location" : "広島県尾道市向東町8670",
          "location_area" : "尾道市",
+         "location_wikipedia_latlon" : "|34|23|60|N|133|13|11|E|",
+         "location_zipcode" : "722-0062",
          "owner_type" : "市立",
-         "short_name" : "向東小学校"
+         "short_name" : "向東小学校",
+         "sort_name" : "おのみちしりつむかいひかししようかつこう",
+         "url" : "http://www.onomichi.ed.jp/mukaihigashi-e/"
       },
       "尾道市立因北小学校" : {
          "location_area" : "尾道市",
@@ -888,7 +916,8 @@
       "尾道市立土堂小学校" : {
          "location_area" : "尾道市",
          "owner_type" : "市立",
-         "short_name" : "土堂小学校"
+         "short_name" : "土堂小学校",
+         "sort_name" : "おのみちしりつつちとう"
       },
       "尾道市立土生小学校" : {
          "location_area" : "尾道市",
@@ -911,9 +940,14 @@
          "short_name" : "御調西小学校"
       },
       "尾道市立日比崎小学校" : {
+         "location" : "広島県尾道市日比崎町12-1",
          "location_area" : "尾道市",
+         "location_wikipedia_latlon" : "|34|24|24|N|133|11|11|E|",
+         "location_zipcode" : "722-0013",
          "owner_type" : "市立",
-         "short_name" : "日比崎小学校"
+         "short_name" : "日比崎小学校",
+         "sort_name" : "おのみちしりつひひさきしようかつこう",
+         "url" : "http://www.onomichi.ed.jp/hibizaki-e/"
       },
       "尾道市立木ノ庄東小学校" : {
          "location_area" : "尾道市",
@@ -941,9 +975,14 @@
          "short_name" : "栗原北小学校"
       },
       "尾道市立栗原小学校" : {
+         "location" : "尾道市西則末町11番16号",
          "location_area" : "尾道市",
+         "location_wikipedia_latlon" : "|34|25|22|N|133|11|17|E|",
+         "location_zipcode" : "722-0024",
          "owner_type" : "市立",
-         "short_name" : "栗原小学校"
+         "short_name" : "栗原小学校",
+         "sort_name" : "おのみちしりつくりはらしようかつこう",
+         "url" : "http://www.onomichi.ed.jp/kurihara-e/"
       },
       "尾道市立浦崎小学校" : {
          "location_area" : "尾道市",
@@ -978,7 +1017,8 @@
       "尾道市立長江小学校" : {
          "location_area" : "尾道市",
          "owner_type" : "市立",
-         "short_name" : "長江小学校"
+         "short_name" : "長江小学校",
+         "sort_name" : "おのみちしりつなかえ"
       },
       "尾道市立高見小学校" : {
          "location_area" : "尾道市",
@@ -998,10 +1038,12 @@
       },
       "広島大学附属三原小学校" : {
          "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくみはら",
          "wikipedia_name" : "広島大学附属三原幼稚園・小学校・中学校"
       },
       "広島大学附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくしよう"
       },
       "広島大学附属東雲小学校" : {
          "owner_type" : "国立"
@@ -1027,9 +1069,13 @@
          "short_name" : "三篠小学校"
       },
       "広島市立上安小学校" : {
+         "location" : "広島県広島市安佐南区上安5丁目21-52",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0154",
          "owner_type" : "市立",
-         "short_name" : "上安小学校"
+         "short_name" : "上安小学校",
+         "sort_name" : "ひろしましりつかみやすしようかつこう",
+         "url" : "http://www.kamiyasu-e.edu.city.hiroshima.jp/"
       },
       "広島市立上温品小学校" : {
          "location_area" : "広島市東区",
@@ -1049,7 +1095,8 @@
       "広島市立中筋小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "中筋小学校"
+         "short_name" : "中筋小学校",
+         "sort_name" : "ひろしましりつなかすししようかつこう"
       },
       "広島市立中野小学校" : {
          "location_area" : "広島市安芸区",
@@ -1152,14 +1199,22 @@
          "short_name" : "伴南小学校"
       },
       "広島市立伴小学校" : {
+         "location" : "広島県広島市安佐南区沼田町伴6153",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-3161",
          "owner_type" : "市立",
-         "short_name" : "伴小学校"
+         "short_name" : "伴小学校",
+         "sort_name" : "ひろしましりつともしようかつこう",
+         "url" : "http://www.tomo-e.edu.city.hiroshima.jp/"
       },
       "広島市立伴東小学校" : {
+         "location" : "広島県広島市安佐南区沼田町伴179-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-3161",
          "owner_type" : "市立",
-         "short_name" : "伴東小学校"
+         "short_name" : "伴東小学校",
+         "sort_name" : "ひろしましりつともひかししようかつこう",
+         "url" : "http://www.tomohigasi-e.edu.city.hiroshima.jp/"
       },
       "広島市立似島学園小学校" : {
          "location_area" : "広島市南区",
@@ -1194,12 +1249,17 @@
       "広島市立八木小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "八木小学校"
+         "short_name" : "八木小学校",
+         "sort_name" : "ひろしましりつやきしようかつこう"
       },
       "広島市立千田小学校" : {
+         "location" : "広島市中区東千田町2-1-34",
          "location_area" : "広島市中区",
+         "location_zipcode" : "730-0053",
          "owner_type" : "市立",
-         "short_name" : "千田小学校"
+         "short_name" : "千田小学校",
+         "sort_name" : "せんたしようかつこう",
+         "url" : "http://www.senda-e.edu.city.hiroshima.jp//"
       },
       "広島市立南観音小学校" : {
          "location_area" : "広島市西区",
@@ -1207,14 +1267,19 @@
          "short_name" : "南観音小学校"
       },
       "広島市立原南小学校" : {
+         "location" : "広島県広島市安佐南区西原2丁目19-23",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0113",
          "owner_type" : "市立",
-         "short_name" : "原南小学校"
+         "short_name" : "原南小学校",
+         "sort_name" : "ひろしましりつはらみなみしようかつこう",
+         "url" : "http://www.haraminami-e.edu.city.hiroshima.jp/"
       },
       "広島市立原小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "原小学校"
+         "short_name" : "原小学校",
+         "sort_name" : "ひろしましりつはらしようかつこう"
       },
       "広島市立口田小学校" : {
          "location_area" : "広島市安佐北区",
@@ -1229,17 +1294,20 @@
       "広島市立古市小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "古市小学校"
+         "short_name" : "古市小学校",
+         "sort_name" : "ひろしましりつふるいちしようかつこう"
       },
       "広島市立古田台小学校" : {
          "location_area" : "広島市西区",
          "owner_type" : "市立",
-         "short_name" : "古田台小学校"
+         "short_name" : "古田台小学校",
+         "sort_name" : "ふるたたいしようかつこう"
       },
       "広島市立古田小学校" : {
          "location_area" : "広島市西区",
          "owner_type" : "市立",
-         "short_name" : "古田小学校"
+         "short_name" : "古田小学校",
+         "sort_name" : "ひろしましりつふるたしようかつこう"
       },
       "広島市立可部南小学校" : {
          "location_area" : "広島市安佐北区",
@@ -1264,12 +1332,14 @@
       "広島市立向洋新町小学校" : {
          "location_area" : "広島市南区",
          "owner_type" : "市立",
-         "short_name" : "向洋新町小学校"
+         "short_name" : "向洋新町小学校",
+         "sort_name" : "ひろしましりつむかいなたしんまち"
       },
       "広島市立基町小学校" : {
          "location_area" : "広島市中区",
          "owner_type" : "市立",
-         "short_name" : "基町小学校"
+         "short_name" : "基町小学校",
+         "sort_name" : "ひろしましりつもとまちしようかつこう"
       },
       "広島市立大塚小学校" : {
          "location_area" : "広島市安佐南区",
@@ -1294,7 +1364,8 @@
       "広島市立大町小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "大町小学校"
+         "short_name" : "大町小学校",
+         "sort_name" : "ひろしましりつおおまちしようかつこう"
       },
       "広島市立大芝小学校" : {
          "location_area" : "広島市西区",
@@ -1317,24 +1388,37 @@
          "short_name" : "宇品東小学校"
       },
       "広島市立安北小学校" : {
+         "location" : "広島県広島市安佐南区高取北2丁目30-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0144",
          "owner_type" : "市立",
-         "short_name" : "安北小学校"
+         "short_name" : "安北小学校",
+         "sort_name" : "ひろしましりつやすきたしようかつこう",
+         "url" : "http://www.yasukita-e.edu.city.hiroshima.jp/"
       },
       "広島市立安小学校" : {
+         "location" : "広島県広島市安佐南区上安2丁目7-56",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0154",
          "owner_type" : "市立",
-         "short_name" : "安小学校"
+         "short_name" : "安小学校",
+         "sort_name" : "ひろしましりつやすしようかつこう",
+         "url" : "http://www.yasu-e.edu.city.hiroshima.jp/"
       },
       "広島市立安東小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "安東小学校"
+         "short_name" : "安東小学校",
+         "sort_name" : "ひろしましりつやすひかししようかつこう"
       },
       "広島市立安西小学校" : {
+         "location" : "広島県広島市安佐南区高取南2丁目18-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0142",
          "owner_type" : "市立",
-         "short_name" : "安西小学校"
+         "short_name" : "安西小学校",
+         "sort_name" : "ひろしましりつやすにししようかつこう",
+         "url" : "http://www.yasunisi-e.edu.city.hiroshima.jp/"
       },
       "広島市立小河内小学校" : {
          "location_area" : "広島市安佐北区",
@@ -1347,9 +1431,13 @@
          "short_name" : "尾長小学校"
       },
       "広島市立山本小学校" : {
+         "location" : "広島県広島市安佐南区山本3丁目13-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0137",
          "owner_type" : "市立",
-         "short_name" : "山本小学校"
+         "short_name" : "山本小学校",
+         "sort_name" : "ひろしましりつやまもとしようかつこう",
+         "url" : "http://www.yamamoto-e.edu.city.hiroshima.jp/"
       },
       "広島市立山田小学校" : {
          "location_area" : "広島市西区",
@@ -1359,7 +1447,8 @@
       "広島市立川内小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "川内小学校"
+         "short_name" : "川内小学校",
+         "sort_name" : "ひろしましりつかわうちしようかつこう"
       },
       "広島市立己斐上小学校" : {
          "location_area" : "広島市西区",
@@ -1377,9 +1466,13 @@
          "short_name" : "己斐東小学校"
       },
       "広島市立幟町小学校" : {
+         "location" : "広島市中区幟町6-36",
          "location_area" : "広島市中区",
+         "location_zipcode" : "730-0036",
          "owner_type" : "市立",
-         "short_name" : "幟町小学校"
+         "short_name" : "幟町小学校",
+         "sort_name" : "のぼりちようしようかつこう",
+         "url" : "http://www.noborichou-e.edu.city.hiroshima.jp/"
       },
       "広島市立広瀬小学校" : {
          "location_area" : "広島市中区",
@@ -1409,12 +1502,17 @@
       "広島市立戸坂小学校" : {
          "location_area" : "広島市東区",
          "owner_type" : "市立",
-         "short_name" : "戸坂小学校"
+         "short_name" : "戸坂小学校",
+         "sort_name" : "ひろしましりつへさかしようかつこう"
       },
       "広島市立戸山小学校" : {
+         "location" : "広島県広島市安佐南区沼田町阿戸3722",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-3271",
          "owner_type" : "市立",
-         "short_name" : "戸山小学校"
+         "short_name" : "戸山小学校",
+         "sort_name" : "ひろしましりつとやましようかつこう",
+         "url" : "http://www.toyama-e.edu.city.hiroshima.jp/"
       },
       "広島市立日浦小学校" : {
          "location_area" : "広島市安佐北区",
@@ -1427,14 +1525,21 @@
          "short_name" : "早稲田小学校"
       },
       "広島市立春日野小学校" : {
+         "location" : "広島県広島市安佐南区山本新町2-18-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0139",
          "owner_type" : "市立",
-         "short_name" : "春日野小学校"
+         "short_name" : "春日野小学校",
+         "sort_name" : "ひろしましりつかすかのしようかつこう"
       },
       "広島市立本川小学校" : {
+         "location" : "広島市中区本川町1丁目5-39",
          "location_area" : "広島市中区",
+         "location_zipcode" : "730-0802",
          "owner_type" : "市立",
-         "short_name" : "本川小学校"
+         "short_name" : "本川小学校",
+         "sort_name" : "ほんかわしようかつこう",
+         "url" : "http://www.honkawa-e.edu.city.hiroshima.jp/"
       },
       "広島市立東浄小学校" : {
          "location_area" : "広島市東区",
@@ -1447,9 +1552,13 @@
          "short_name" : "東野小学校"
       },
       "広島市立梅林小学校" : {
+         "location" : "広島県広島市安佐南区八木3丁目3-9",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0113",
          "owner_type" : "市立",
-         "short_name" : "梅林小学校"
+         "short_name" : "梅林小学校",
+         "sort_name" : "ひろしましりつはいりんしようかつこう",
+         "url" : "http://www.bairin-e.edu.city.hiroshima.jp/"
       },
       "広島市立楠那小学校" : {
          "location_area" : "広島市南区",
@@ -1474,7 +1583,8 @@
       "広島市立毘沙門台小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "毘沙門台小学校"
+         "short_name" : "毘沙門台小学校",
+         "sort_name" : "ひろしましりつひしやもんたいしようかつこう"
       },
       "広島市立江波小学校" : {
          "location_area" : "広島市中区",
@@ -1577,9 +1687,13 @@
          "short_name" : "石内小学校"
       },
       "広島市立祇園小学校" : {
+         "location" : "広島県広島市安佐南区祇園3丁目1-27",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0138",
          "owner_type" : "市立",
-         "short_name" : "祇園小学校"
+         "short_name" : "祇園小学校",
+         "sort_name" : "ひろしましりつきおんしようかつこう",
+         "url" : "http://www.gion-e.edu.city.hiroshima.jp/"
       },
       "広島市立神崎小学校" : {
          "location_area" : "広島市中区",
@@ -1604,7 +1718,8 @@
       "広島市立緑井小学校" : {
          "location_area" : "広島市安佐南区",
          "owner_type" : "市立",
-         "short_name" : "緑井小学校"
+         "short_name" : "緑井小学校",
+         "sort_name" : "ひろしましりつみとりいしようかつこう"
       },
       "広島市立美鈴が丘小学校" : {
          "location_area" : "広島市佐伯区",
@@ -1652,9 +1767,13 @@
          "short_name" : "藤の木小学校"
       },
       "広島市立袋町小学校" : {
+         "location" : "広島市中区袋町6-36",
          "location_area" : "広島市中区",
+         "location_zipcode" : "730-0036",
          "owner_type" : "市立",
-         "short_name" : "袋町小学校"
+         "short_name" : "袋町小学校",
+         "sort_name" : "ふくろまちしようかつこう",
+         "url" : "http://www.fukuromachi-e.edu.city.hiroshima.jp/index.htm"
       },
       "広島市立観音小学校" : {
          "location_area" : "広島市西区",
@@ -1672,14 +1791,22 @@
          "short_name" : "鈴張小学校"
       },
       "広島市立長束小学校" : {
+         "location" : "広島市安佐南区長束4丁目15-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0135",
          "owner_type" : "市立",
-         "short_name" : "長束小学校"
+         "short_name" : "長束小学校",
+         "sort_name" : "ひろしましりつなかつか",
+         "url" : "http://www.nagatsuka-e.edu.city.hiroshima.jp/"
       },
       "広島市立長束西小学校" : {
+         "location" : "広島市安佐南区長束西1丁目26-1",
          "location_area" : "広島市安佐南区",
+         "location_zipcode" : "731-0136",
          "owner_type" : "市立",
-         "short_name" : "長束西小学校"
+         "short_name" : "長束西小学校",
+         "sort_name" : "ひろしましりつなかつかにししようかつこう",
+         "url" : "http://www.nagatsukanishi-e.edu.city.hiroshima.jp/"
       },
       "広島市立阿戸小学校" : {
          "location_area" : "広島市安芸区",
@@ -1892,9 +2019,13 @@
          "short_name" : "吉和小学校"
       },
       "廿日市市立四季が丘小学校" : {
+         "location" : "広島県廿日市市四季が丘八丁目1-1",
          "location_area" : "廿日市市",
+         "location_zipcode" : "738-0036",
          "owner_type" : "市立",
-         "short_name" : "四季が丘小学校"
+         "short_name" : "四季が丘小学校",
+         "sort_name" : "はつかいちしりつしきかおか",
+         "url" : "http://ww4.enjoy.ne.jp/~shikisho/"
       },
       "廿日市市立地御前小学校" : {
          "location_area" : "廿日市市",
@@ -2012,9 +2143,14 @@
          "short_name" : "入野小学校"
       },
       "東広島市立八本松小学校" : {
+         "location" : "広島県東広島市八本松町原10128-37",
          "location_area" : "東広島市",
+         "location_zipcode" : "739-0151",
          "owner_type" : "市立",
-         "short_name" : "八本松小学校"
+         "school_area" : "東広島市八本松東東広島市八本松南東広島市八本松町宗吉東広島市八本松町飯田全域東広島市八本松町原一部",
+         "short_name" : "八本松小学校",
+         "sort_name" : "ひかしひろしましりつはちほんまつ",
+         "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~hachihon-sho/"
       },
       "東広島市立原小学校" : {
          "location_area" : "東広島市",
@@ -2042,14 +2178,23 @@
          "short_name" : "小松原小学校"
       },
       "東広島市立小谷小学校" : {
+         "location" : "広島県東広島市高屋町小谷3543番地3",
          "location_area" : "東広島市",
+         "location_zipcode" : "739-2121",
          "owner_type" : "市立",
-         "short_name" : "小谷小学校"
+         "short_name" : "小谷小学校",
+         "sort_name" : "ひかしひろしましりつこたにしようかつこう",
+         "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~kodani-sho/"
       },
       "東広島市立川上小学校" : {
+         "location" : "広島県東広島市八本松飯田五丁目8番47号",
          "location_area" : "東広島市",
+         "location_zipcode" : "739-0146",
          "owner_type" : "市立",
-         "short_name" : "川上小学校"
+         "school_area" : "東広島市八本松飯田東広島市八本松町飯田東広島市八本松町正力東広島市八本松町篠東広島市八本松町宗吉一部",
+         "short_name" : "川上小学校",
+         "sort_name" : "ひかしひろしましりつかわかみしようかつこう",
+         "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~kawakami-sho/"
       },
       "東広島市立平岩小学校" : {
          "location_area" : "東広島市",
@@ -2419,7 +2564,8 @@
       "福山市立手城小学校" : {
          "location_area" : "福山市",
          "owner_type" : "市立",
-         "short_name" : "手城小学校"
+         "short_name" : "手城小学校",
+         "sort_name" : "てしろしようかつこう"
       },
       "福山市立新市小学校" : {
          "location_area" : "福山市",
@@ -2662,7 +2808,11 @@
          "short_name" : "高島小学校"
       },
       "福山暁の星小学校" : {
+         "location" : "広島県福山市西深津町三丁目4番1号",
+         "location_zipcode" : "721-8545",
          "owner_type" : "私立",
+         "sort_name" : "ふくやまあけのほし",
+         "url" : "http://www.akenohoshi.ed.jp/",
          "wikipedia_name" : "福山暁の星女子中学校・高等学校"
       },
       "竹原市立中通小学校" : {
@@ -2676,9 +2826,12 @@
          "short_name" : "仁賀小学校"
       },
       "竹原市立吉名小学校" : {
+         "location" : "広島県竹原市吉名4907-1",
          "location_area" : "竹原市",
+         "location_zipcode" : "725-0013",
          "owner_type" : "市立",
-         "short_name" : "吉名小学校"
+         "short_name" : "吉名小学校",
+         "url" : "http://www9.ocn.ne.jp/~yoshisyo/"
       },
       "竹原市立大乗小学校" : {
          "location_area" : "竹原市",
@@ -2716,7 +2869,11 @@
          "short_name" : "荘野小学校"
       },
       "英数学館小学校" : {
+         "location" : "広島県福山市引野町980-1",
+         "location_zipcode" : "721-8502",
          "owner_type" : "私立",
+         "sort_name" : "えいすうかつかん",
+         "url" : "http://www.eisu-ejs.ac.jp/",
          "wikipedia_name" : "英数学館小学校・中学校・高等学校"
       }
    }

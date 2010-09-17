@@ -61,14 +61,22 @@
          "short_name" : "美和小学校"
       },
       "みよし市立三吉小学校" : {
+         "location" : "愛知県みよし市三好町半野木1-27",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0224",
          "owner_type" : "市立",
-         "short_name" : "三吉小学校"
+         "short_name" : "三吉小学校",
+         "sort_name" : "みよししりつみよししよう",
+         "url" : "http://www.hm.aitai.ne.jp/~miyoshi/"
       },
       "みよし市立三好丘小学校" : {
+         "location" : "愛知県みよし市三好丘7-1",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0202",
          "owner_type" : "市立",
-         "short_name" : "三好丘小学校"
+         "short_name" : "三好丘小学校",
+         "sort_name" : "みよししりつみよしかおかしよう",
+         "url" : "http://hm.aitai.ne.jp/~gaoka/"
       },
       "みよし市立中部小学校" : {
          "location_area" : "みよし市",
@@ -76,39 +84,60 @@
          "short_name" : "中部小学校"
       },
       "みよし市立北部小学校" : {
+         "location" : "愛知県みよし市福谷町坂上12",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0202",
          "owner_type" : "市立",
-         "short_name" : "北部小学校"
+         "short_name" : "北部小学校",
+         "sort_name" : "みよししりつほくふしよう",
+         "url" : "http://www.hm.aitai.ne.jp/~hokubu/"
       },
       "みよし市立南部小学校" : {
+         "location" : "愛知県みよし市明知町上細口27",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0214",
          "owner_type" : "市立",
-         "short_name" : "南部小学校"
+         "short_name" : "南部小学校",
+         "sort_name" : "みよししりつなんふしよう",
+         "url" : "http://www.hm.aitai.ne.jp/~nanbu/"
       },
       "みよし市立天王小学校" : {
+         "location" : "愛知県みよし市三好町天王51",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0224",
          "owner_type" : "市立",
-         "short_name" : "天王小学校"
+         "short_name" : "天王小学校",
+         "sort_name" : "みよしちようりつてんのうしよう",
+         "url" : "http://www.hm.aitai.ne.jp/~tennou/"
       },
       "みよし市立緑丘小学校" : {
+         "location" : "愛知県みよし市三好丘緑1丁目1-1",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0205",
          "owner_type" : "市立",
-         "short_name" : "緑丘小学校"
+         "short_name" : "緑丘小学校",
+         "url" : "http://www.hm.aitai.ne.jp/~midori/"
       },
       "みよし市立黒笹小学校" : {
+         "location" : "愛知県みよし市黒笹町根浦1241-5",
          "location_area" : "みよし市",
+         "location_zipcode" : "470-0201",
          "owner_type" : "市立",
-         "short_name" : "黒笹小学校"
+         "short_name" : "黒笹小学校",
+         "sort_name" : "みよししりつくろささしよう",
+         "url" : "http://hm9.aitai.ne.jp/~kurozasa/"
       },
       "一宮市立三条小学校" : {
          "location_area" : "一宮市",
          "owner_type" : "市立",
-         "short_name" : "三条小学校"
+         "short_name" : "三条小学校",
+         "sort_name" : "いちのみやしりつさんしようしようかつこう"
       },
       "一宮市立中島小学校" : {
          "location_area" : "一宮市",
          "owner_type" : "市立",
-         "short_name" : "中島小学校"
+         "short_name" : "中島小学校",
+         "sort_name" : "いちのみやしりつなかしましようかつこう"
       },
       "一宮市立丹陽南小学校" : {
          "location_area" : "一宮市",
@@ -116,9 +145,13 @@
          "short_name" : "丹陽南小学校"
       },
       "一宮市立丹陽小学校" : {
+         "location" : "愛知県一宮市愛知県一宮市三ツ井5丁目22番1号",
          "location_area" : "一宮市",
+         "location_zipcode" : "〒491-0827",
          "owner_type" : "市立",
-         "short_name" : "丹陽小学校"
+         "short_name" : "丹陽小学校",
+         "sort_name" : "いちのみやしりつたんようしようかつこう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~tanyou-e/j/"
       },
       "一宮市立丹陽西小学校" : {
          "location_area" : "一宮市",
@@ -136,19 +169,31 @@
          "short_name" : "今伊勢西小学校"
       },
       "一宮市立北方小学校" : {
+         "location" : "愛知県一宮市北方町字宮浦43",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-",
          "owner_type" : "市立",
-         "short_name" : "北方小学校"
+         "short_name" : "北方小学校",
+         "sort_name" : "いちのみやしりつきたかたしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/kitaga-e/"
       },
       "一宮市立千秋南小学校" : {
+         "location" : "愛知県一宮市千秋町小山1329",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0814",
          "owner_type" : "市立",
-         "short_name" : "千秋南小学校"
+         "short_name" : "千秋南小学校",
+         "sort_name" : "いちのみやしりつちあきみなみしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/tiakim-e/"
       },
       "一宮市立千秋小学校" : {
+         "location" : "愛知県一宮市千秋町佐野字北浦136",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0804",
          "owner_type" : "市立",
-         "short_name" : "千秋小学校"
+         "short_name" : "千秋小学校",
+         "sort_name" : "いちのみやしりつちあきしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/tiaki-e"
       },
       "一宮市立千秋東小学校" : {
          "location_area" : "一宮市",
@@ -166,9 +211,13 @@
          "short_name" : "大和南小学校"
       },
       "一宮市立大和西小学校" : {
+         "location" : "愛知県一宮市大和町苅安賀字東北出3248",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0934",
          "owner_type" : "市立",
-         "short_name" : "大和西小学校"
+         "short_name" : "大和西小学校",
+         "sort_name" : "いちのみやしりつやまとにし",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~yamni-e/"
       },
       "一宮市立大徳小学校" : {
          "location_area" : "一宮市",
@@ -186,14 +235,22 @@
          "short_name" : "奥小学校"
       },
       "一宮市立宮西小学校" : {
+         "location" : "愛知県一宮市大宮4-5-33",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0044",
          "owner_type" : "市立",
-         "short_name" : "宮西小学校"
+         "short_name" : "宮西小学校",
+         "sort_name" : "いちのみやしりつみやにし",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~miyanishi-e/"
       },
       "一宮市立富士小学校" : {
+         "location" : "愛知県一宮市富士2-5-14",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0024",
          "owner_type" : "市立",
-         "short_name" : "富士小学校"
+         "short_name" : "富士小学校",
+         "sort_name" : "いちのみやしりつふししよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~fuji-e/"
       },
       "一宮市立小信中島小学校" : {
          "location_area" : "一宮市",
@@ -211,14 +268,20 @@
          "short_name" : "朝日西小学校"
       },
       "一宮市立木曽川東小学校" : {
+         "location" : "愛知県一宮市木曽川町黒田八ノ通り141-1",
          "location_area" : "一宮市",
+         "location_zipcode" : "493-0001",
          "owner_type" : "市立",
-         "short_name" : "木曽川東小学校"
+         "short_name" : "木曽川東小学校",
+         "sort_name" : "いちのみやしりつきそかわひかししよう"
       },
       "一宮市立木曽川西小学校" : {
+         "location" : "愛知県一宮市木曽川町玉ノ井字道路寺7-3",
          "location_area" : "一宮市",
+         "location_zipcode" : "493-0004",
          "owner_type" : "市立",
-         "short_name" : "木曽川西小学校"
+         "short_name" : "木曽川西小学校",
+         "sort_name" : "いちのみやしりつきそかわにししよう"
       },
       "一宮市立末広小学校" : {
          "location_area" : "一宮市",
@@ -231,9 +294,13 @@
          "short_name" : "浅井中小学校"
       },
       "一宮市立浅井北小学校" : {
+         "location" : "愛知県一宮市浅井町大野字南土山75",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-",
          "owner_type" : "市立",
-         "short_name" : "浅井北小学校"
+         "short_name" : "浅井北小学校",
+         "sort_name" : "いちのみやしりつあさいきたしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~azaiki-e/heisei19/"
       },
       "一宮市立浅井南小学校" : {
          "location_area" : "一宮市",
@@ -241,14 +308,23 @@
          "short_name" : "浅井南小学校"
       },
       "一宮市立浅野小学校" : {
+         "location" : "愛知県一宮市浅野字野口95",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0871",
          "owner_type" : "市立",
-         "short_name" : "浅野小学校"
+         "short_name" : "浅野小学校",
+         "sort_name" : "いちのみやしりつあさのしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~asano-e/"
       },
       "一宮市立瀬部小学校" : {
+         "location" : "愛知県一宮市瀬部川原55",
          "location_area" : "一宮市",
+         "location_wikipedia_latlon" : "|35|19|45|N|136|50|8|E|type:landmark_scale:2000",
+         "location_zipcode" : "491-0001",
          "owner_type" : "市立",
-         "short_name" : "瀬部小学校"
+         "short_name" : "瀬部小学校",
+         "sort_name" : "いちのみやしりつせへしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~sebe-e/"
       },
       "一宮市立神山小学校" : {
          "location_area" : "一宮市",
@@ -258,7 +334,8 @@
       "一宮市立萩原小学校" : {
          "location_area" : "一宮市",
          "owner_type" : "市立",
-         "short_name" : "萩原小学校"
+         "short_name" : "萩原小学校",
+         "sort_name" : "いちのみやしりつはきわらしようかつこう"
       },
       "一宮市立葉栗北小学校" : {
          "location_area" : "一宮市",
@@ -273,22 +350,35 @@
       "一宮市立西成小学校" : {
          "location_area" : "一宮市",
          "owner_type" : "市立",
-         "short_name" : "西成小学校"
+         "short_name" : "西成小学校",
+         "sort_name" : "いちのみやしりつにしなり"
       },
       "一宮市立西成東小学校" : {
+         "location" : "愛知県一宮市春明中切1",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0003",
          "owner_type" : "市立",
-         "short_name" : "西成東小学校"
+         "short_name" : "西成東小学校",
+         "sort_name" : "いちのみやしりつにしなりひかし",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~nisihi-e/"
       },
       "一宮市立貴船小学校" : {
+         "location" : "愛知県一宮市貴船1-8-46",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0037",
          "owner_type" : "市立",
-         "short_name" : "貴船小学校"
+         "short_name" : "貴船小学校",
+         "sort_name" : "いちのみやしりつきふねしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~kifune-e/"
       },
       "一宮市立赤見小学校" : {
+         "location" : "愛知県一宮市大赤見字清水2467",
          "location_area" : "一宮市",
+         "location_zipcode" : "491-0015",
          "owner_type" : "市立",
-         "short_name" : "赤見小学校"
+         "short_name" : "赤見小学校",
+         "sort_name" : "いちのみやしりつあかみしよう",
+         "url" : "http://www.school.city.ichinomiya.aichi.jp/~akami-e/"
       },
       "一宮市立起小学校" : {
          "location_area" : "一宮市",
@@ -301,9 +391,12 @@
          "short_name" : "開明小学校"
       },
       "一宮市立黒田小学校" : {
+         "location" : "愛知県一宮市木曽川町黒田字古城26-2",
          "location_area" : "一宮市",
+         "location_zipcode" : "493-0001",
          "owner_type" : "市立",
-         "short_name" : "黒田小学校"
+         "short_name" : "黒田小学校",
+         "sort_name" : "いちのみやしりつくろたしよう"
       },
       "一色町立中部小学校" : {
          "location_area" : "幡豆郡一色町",
@@ -336,9 +429,13 @@
          "short_name" : "かりがね小学校"
       },
       "刈谷市立亀城小学校" : {
+         "location" : "愛知県刈谷市城町1丁目25番地1",
          "location_area" : "刈谷市",
+         "location_zipcode" : "448-0833",
          "owner_type" : "市立",
-         "short_name" : "亀城小学校"
+         "short_name" : "亀城小学校",
+         "sort_name" : "かりやしりつきしようしようかつこう",
+         "url" : "http://www.city.kariya.lg.jp/school/kijyous/kijou.html"
       },
       "刈谷市立住吉小学校" : {
          "location_area" : "刈谷市",
@@ -353,17 +450,26 @@
       "刈谷市立富士松北小学校" : {
          "location_area" : "刈谷市",
          "owner_type" : "市立",
-         "short_name" : "富士松北小学校"
+         "short_name" : "富士松北小学校",
+         "sort_name" : "かりやしりつふしまつひかしようかつこう"
       },
       "刈谷市立富士松南小学校" : {
+         "location" : "愛知県刈谷市今川町山脇1番地",
          "location_area" : "刈谷市",
+         "location_zipcode" : "448-0005",
          "owner_type" : "市立",
-         "short_name" : "富士松南小学校"
+         "short_name" : "富士松南小学校",
+         "sort_name" : "かりやしりつふしまつみなみ",
+         "url" : "http://www.city.kariya.lg.jp/school/fjnans/funa.html"
       },
       "刈谷市立富士松東小学校" : {
+         "location" : "愛知県刈谷市東境町堀池71",
          "location_area" : "刈谷市",
+         "location_zipcode" : "448-0007",
          "owner_type" : "市立",
-         "short_name" : "富士松東小学校"
+         "short_name" : "富士松東小学校",
+         "sort_name" : "かりやしりつふしまつひかし",
+         "url" : "http://www.city.kariya.lg.jp/school/fjhigas/HP1.html"
       },
       "刈谷市立小垣江小学校" : {
          "location_area" : "刈谷市",
@@ -476,9 +582,14 @@
          "short_name" : "亀崎小学校"
       },
       "半田市立半田小学校" : {
+         "location" : "愛知県半田市勘内町1番地",
          "location_area" : "半田市",
+         "location_wikipedia_latlon" : "|34|53|59.82|N|136|56|1.03|E|region:JP",
+         "location_zipcode" : "475-0877",
          "owner_type" : "市立",
-         "short_name" : "半田小学校"
+         "short_name" : "半田小学校",
+         "sort_name" : "はんたしりつはんた",
+         "url" : "http://www.handa-e.ed.jp/"
       },
       "半田市立宮池小学校" : {
          "location_area" : "半田市",
@@ -521,7 +632,8 @@
          "short_name" : "雁宿小学校"
       },
       "南山大学附属小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "なんさんたいかくふそく"
       },
       "南知多町立内海小学校" : {
          "location_area" : "知多郡南知多町",
@@ -604,9 +716,13 @@
          "short_name" : "上社小学校"
       },
       "名古屋市立上野小学校" : {
+         "location" : "愛知県名古屋市千種区上野二丁目6番1号",
          "location_area" : "名古屋市千種区",
+         "location_zipcode" : "464-0082",
          "owner_type" : "市立",
-         "short_name" : "上野小学校"
+         "short_name" : "上野小学校",
+         "sort_name" : "なこやしりつうえのしようかつこう",
+         "url" : "http://www.ueno-e.nagoya-c.ed.jp/"
       },
       "名古屋市立中小田井小学校" : {
          "location_area" : "名古屋市西区",
@@ -679,9 +795,13 @@
          "short_name" : "八事東小学校"
       },
       "名古屋市立八幡小学校" : {
+         "location" : "愛知県名古屋市中川区八熊通5-4",
          "location_area" : "名古屋市中川区",
+         "location_zipcode" : "454-0045",
          "owner_type" : "市立",
-         "short_name" : "八幡小学校"
+         "short_name" : "八幡小学校",
+         "sort_name" : "なこやしりつやわたしょうがっこう",
+         "url" : "http://www.yawata-e.nagoya-c.ed.jp/"
       },
       "名古屋市立八熊小学校" : {
          "location_area" : "名古屋市中川区",
@@ -709,9 +829,13 @@
          "short_name" : "内山小学校"
       },
       "名古屋市立前山小学校" : {
+         "location" : "名古屋市名東区牧の里2丁目1501番地",
          "location_area" : "名古屋市名東区",
+         "location_zipcode" : "465-0068",
          "owner_type" : "市立",
-         "short_name" : "前山小学校"
+         "short_name" : "前山小学校",
+         "sort_name" : "なこやしりつまえやましようかつこう",
+         "url" : "http://www.maeyama-e.nagoya-c.ed.jp/index.html"
       },
       "名古屋市立北一社小学校" : {
          "location_area" : "名古屋市名東区",
@@ -754,9 +878,13 @@
          "short_name" : "千音寺小学校"
       },
       "名古屋市立千鳥小学校" : {
+         "location" : "名古屋市南区三吉町6-1",
          "location_area" : "名古屋市南区",
+         "location_wikipedia_latlon" : "|35|04|25|N|136|55|09|E|",
+         "location_zipcode" : "457-0805",
          "owner_type" : "市立",
-         "short_name" : "千鳥小学校"
+         "short_name" : "千鳥小学校",
+         "url" : "http://www.chidori-e.nagoya-c.ed.jp/"
       },
       "名古屋市立南押切小学校" : {
          "location_area" : "名古屋市西区",
@@ -790,9 +918,13 @@
          "short_name" : "名北小学校"
       },
       "名古屋市立名城小学校" : {
+         "location" : "愛知県名古屋市中区丸の内3-3-35",
          "location_area" : "名古屋市中区",
+         "location_zipcode" : "460-0002",
          "owner_type" : "市立",
-         "short_name" : "名城小学校"
+         "short_name" : "名城小学校",
+         "sort_name" : "なこやしりつめいしようしようかつこう",
+         "url" : "http://www.meijyo-e.nagoya-c.ed.jp/"
       },
       "名古屋市立名東小学校" : {
          "location_area" : "名古屋市名東区",
@@ -870,9 +1002,12 @@
          "short_name" : "大森小学校"
       },
       "名古屋市立大清水小学校" : {
+         "location" : "愛知県名古屋市緑区大清水西901",
          "location_area" : "名古屋市緑区",
+         "location_zipcode" : "458-0806",
          "owner_type" : "市立",
-         "short_name" : "大清水小学校"
+         "short_name" : "大清水小学校",
+         "url" : "http://www.oshimizu-e.nagoya-c.ed.jp/"
       },
       "名古屋市立大生小学校" : {
          "location_area" : "名古屋市南区",
@@ -940,9 +1075,14 @@
          "short_name" : "宝南小学校"
       },
       "名古屋市立宝小学校" : {
+         "location" : "名古屋市南区中割町2-5",
          "location_area" : "名古屋市南区",
+         "location_wikipedia_latlon" : "|35|05|18|N|136|54|59|E|",
+         "location_zipcode" : "457-0826",
          "owner_type" : "市立",
-         "short_name" : "宝小学校"
+         "short_name" : "宝小学校",
+         "sort_name" : "なこやしりつたからしようかつこう",
+         "url" : "http://www.takara-e.nagoya-c.ed.jp/toppage.html"
       },
       "名古屋市立宮前小学校" : {
          "location_area" : "名古屋市北区",
@@ -952,7 +1092,8 @@
       "名古屋市立宮根小学校" : {
          "location_area" : "名古屋市千種区",
          "owner_type" : "市立",
-         "short_name" : "宮根小学校"
+         "short_name" : "宮根小学校",
+         "sort_name" : "なこやしりつみやねしようかつこう"
       },
       "名古屋市立富士見台小学校" : {
          "location_area" : "名古屋市千種区",
@@ -960,9 +1101,13 @@
          "short_name" : "富士見台小学校"
       },
       "名古屋市立小坂小学校" : {
+         "location" : "愛知県名古屋市緑区小坂1-1001-2",
          "location_area" : "名古屋市緑区",
+         "location_zipcode" : "458-0022",
          "owner_type" : "市立",
-         "short_name" : "小坂小学校"
+         "short_name" : "小坂小学校",
+         "sort_name" : "なこやしりつこさかしようかつこう",
+         "url" : "http://www.kosaka-e.nagoya-c.ed.jp/"
       },
       "名古屋市立小幡北小学校" : {
          "location_area" : "名古屋市守山区",
@@ -1085,9 +1230,13 @@
          "short_name" : "引山小学校"
       },
       "名古屋市立弥富小学校" : {
+         "location" : "名古屋市瑞穂区日向町4丁目23の1|",
          "location_area" : "名古屋市瑞穂区",
+         "location_zipcode" : "467-0047",
          "owner_type" : "市立",
-         "short_name" : "弥富小学校"
+         "short_name" : "弥富小学校",
+         "sort_name" : "なこやしりつやとみしようかつこう",
+         "url" : "http://www.yatomi-e.nagoya-c.ed.jp/"
       },
       "名古屋市立当知小学校" : {
          "location_area" : "名古屋市港区",
@@ -1127,7 +1276,8 @@
       "名古屋市立愛知小学校" : {
          "location_area" : "名古屋市中川区",
          "owner_type" : "市立",
-         "short_name" : "愛知小学校"
+         "short_name" : "愛知小学校",
+         "sort_name" : "なこやしりつあいちしようかつこう"
       },
       "名古屋市立成章小学校" : {
          "location_area" : "名古屋市港区",
@@ -1200,9 +1350,14 @@
          "short_name" : "星ヶ丘小学校"
       },
       "名古屋市立星崎小学校" : {
+         "location" : "名古屋市南区南野3-163",
          "location_area" : "名古屋市南区",
+         "location_wikipedia_latlon" : "|35|04|44|N|136|55|53|E|",
+         "location_zipcode" : "457-0068",
          "owner_type" : "市立",
-         "short_name" : "星崎小学校"
+         "short_name" : "星崎小学校",
+         "sort_name" : "なこやしりつほしさきしようかつこう",
+         "url" : "http://www.hoshizaki-e.nagoya-c.ed.jp/"
       },
       "名古屋市立春岡小学校" : {
          "location_area" : "名古屋市千種区",
@@ -1217,7 +1372,8 @@
       "名古屋市立春田小学校" : {
          "location_area" : "名古屋市中川区",
          "owner_type" : "市立",
-         "short_name" : "春田小学校"
+         "short_name" : "春田小学校",
+         "sort_name" : "なこやしりつはるたしようかつこう"
       },
       "名古屋市立昭和橋小学校" : {
          "location_area" : "名古屋市中川区",
@@ -1282,7 +1438,8 @@
       "名古屋市立東築地小学校" : {
          "location_area" : "名古屋市港区",
          "owner_type" : "市立",
-         "short_name" : "東築地小学校"
+         "short_name" : "東築地小学校",
+         "sort_name" : "なこやしりつひかしつきししようかつこう"
       },
       "名古屋市立松原小学校" : {
          "location_area" : "名古屋市中区",
@@ -1335,9 +1492,13 @@
          "short_name" : "桶狭間小学校"
       },
       "名古屋市立梅森坂小学校" : {
+         "location" : "名古屋市名東区梅森坂4丁目201番地",
          "location_area" : "名古屋市名東区",
+         "location_zipcode" : "465-0065",
          "owner_type" : "市立",
-         "short_name" : "梅森坂小学校"
+         "short_name" : "梅森坂小学校",
+         "sort_name" : "なこやしりつうめもりさかしようかつこう",
+         "url" : "http://www.umemorizaka-e.nagoya-c.ed.jp/index.html"
       },
       "名古屋市立森孝東小学校" : {
          "location_area" : "名古屋市守山区",
@@ -1347,7 +1508,8 @@
       "名古屋市立森孝西小学校" : {
          "location_area" : "名古屋市守山区",
          "owner_type" : "市立",
-         "short_name" : "森孝西小学校"
+         "short_name" : "森孝西小学校",
+         "sort_name" : "なこやしりつもりたかにししようかつこう"
       },
       "名古屋市立植田北小学校" : {
          "location_area" : "名古屋市天白区",
@@ -1425,9 +1587,14 @@
          "short_name" : "江西小学校"
       },
       "名古屋市立浦里小学校" : {
+         "location" : "名古屋市緑区浦里1丁目77番地",
          "location_area" : "名古屋市緑区",
+         "location_wikipedia_latlon" : "|35|05|24|N|136|56|41|E|",
+         "location_zipcode" : "458-0847",
          "owner_type" : "市立",
-         "short_name" : "浦里小学校"
+         "short_name" : "浦里小学校",
+         "sort_name" : "なこやしりつうらさとしようかつこう",
+         "url" : "http://www.urasato-e.nagoya-c.ed.jp/"
       },
       "名古屋市立浮野小学校" : {
          "location_area" : "名古屋市西区",
@@ -1465,9 +1632,13 @@
          "short_name" : "瀬古小学校"
       },
       "名古屋市立熊の前小学校" : {
+         "location" : "愛知県名古屋市緑区亀が洞1丁目901番地",
          "location_area" : "名古屋市緑区",
+         "location_zipcode" : "458-0804",
          "owner_type" : "市立",
-         "short_name" : "熊の前小学校"
+         "short_name" : "熊の前小学校",
+         "sort_name" : "なこやしりつくまのまえしようかつこう",
+         "url" : "http://www.kumanomae-e.nagoya-c.ed.jp/"
       },
       "名古屋市立片平小学校" : {
          "location_area" : "名古屋市緑区",
@@ -1545,9 +1716,13 @@
          "short_name" : "矢田小学校"
       },
       "名古屋市立砂田橋小学校" : {
+         "location" : "名古屋市東区砂田橋三丁目1番13号",
          "location_area" : "名古屋市東区",
+         "location_zipcode" : "461-0045",
          "owner_type" : "市立",
-         "short_name" : "砂田橋小学校"
+         "short_name" : "砂田橋小学校",
+         "sort_name" : "なこやしりつすなたはししようかつこう",
+         "url" : "http://www.sunadabashi-e.nagoya-c.ed.jp/"
       },
       "名古屋市立神の倉小学校" : {
          "location_area" : "名古屋市緑区",
@@ -1577,7 +1752,8 @@
       "名古屋市立稲生小学校" : {
          "location_area" : "名古屋市西区",
          "owner_type" : "市立",
-         "short_name" : "稲生小学校"
+         "short_name" : "稲生小学校",
+         "sort_name" : "なこやしりついのうしようかつこう"
       },
       "名古屋市立稲葉地小学校" : {
          "location_area" : "名古屋市中村区",
@@ -1710,9 +1886,13 @@
          "short_name" : "西福田小学校"
       },
       "名古屋市立西築地小学校" : {
+         "location" : "愛知県名古屋市港区浜1丁目2-33",
          "location_area" : "名古屋市港区",
+         "location_zipcode" : "455-0036",
          "owner_type" : "市立",
-         "short_name" : "西築地小学校"
+         "short_name" : "西築地小学校",
+         "sort_name" : "なこやしりつにしつきししようかつこう",
+         "url" : "http://www.nishitsukiji-e.nagoya-c.ed.jp/"
       },
       "名古屋市立見付小学校" : {
          "location_area" : "名古屋市千種区",
@@ -1810,9 +1990,13 @@
          "short_name" : "長須賀小学校"
       },
       "名古屋市立陽明小学校" : {
+         "location" : "愛知県名古屋市瑞穂区密柑山町1-1",
          "location_area" : "名古屋市瑞穂区",
+         "location_zipcode" : "467-0041",
          "owner_type" : "市立",
-         "short_name" : "陽明小学校"
+         "short_name" : "陽明小学校",
+         "sort_name" : "なこやしりつようめいしようかつこう",
+         "url" : "http://www.yomei-e.nagoya-c.ed.jp/"
       },
       "名古屋市立露橋小学校" : {
          "location_area" : "名古屋市中川区",
@@ -1870,14 +2054,23 @@
          "short_name" : "鳴子小学校"
       },
       "名古屋市立鳴海小学校" : {
+         "location" : "名古屋市緑区鳴海町矢切98",
          "location_area" : "名古屋市緑区",
+         "location_wikipedia_latlon" : "|35|04|55|N|136|57|12|E|",
+         "location_zipcode" : "458-0801",
          "owner_type" : "市立",
-         "short_name" : "鳴海小学校"
+         "short_name" : "鳴海小学校",
+         "sort_name" : "なこやしりつなるみしようかつこう",
+         "url" : "http://www.narumi-e.nagoya-c.ed.jp/"
       },
       "名古屋市立鳴海東部小学校" : {
+         "location" : "愛知県名古屋市緑区平手北二丁目901番",
          "location_area" : "名古屋市緑区",
+         "location_zipcode" : "458-0008",
          "owner_type" : "市立",
-         "short_name" : "鳴海東部小学校"
+         "short_name" : "鳴海東部小学校",
+         "sort_name" : "なこやしりつなるみとうふしようかつこう",
+         "url" : "http://www.narumitobu-e.nagoya-c.ed.jp/"
       },
       "名古屋市立鶴舞小学校" : {
          "location_area" : "名古屋市昭和区",
@@ -1905,44 +2098,83 @@
          "short_name" : "大口西小学校"
       },
       "大府市立共和西小学校" : {
+         "location" : "愛知県大府市共西町一丁目29番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|2|15.95|N|136|56|38.46|E|region:JP",
+         "location_zipcode" : "474-0062",
          "owner_type" : "市立",
-         "short_name" : "共和西小学校"
+         "short_name" : "共和西小学校",
+         "sort_name" : "おおふしりつきようわにししようかつこう",
+         "url" : "http://www.kyouwanishi-e.ed.jp/"
       },
       "大府市立共長小学校" : {
+         "location" : "愛知県大府市共和町六丁目140番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|1|55.51|N|136|57|1.9|E|region:JP",
+         "location_zipcode" : "474-0061",
          "owner_type" : "市立",
-         "short_name" : "共長小学校"
+         "short_name" : "共長小学校",
+         "sort_name" : "おおふしりつきようちようしようかつこう",
+         "url" : "http://www.kyocho-e.ed.jp/"
       },
       "大府市立北山小学校" : {
+         "location" : "愛知県大府市北山町三丁目120番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|1|53.54|N|136|58|3.9|E|region:JP",
+         "location_zipcode" : "474-0072",
          "owner_type" : "市立",
-         "short_name" : "北山小学校"
+         "short_name" : "北山小学校",
+         "sort_name" : "おおふしりつきたやましようかつこう",
+         "url" : "http://www.kitayama-e.ed.jp/"
       },
       "大府市立吉田小学校" : {
+         "location" : "愛知県大府市吉田町4丁目33",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|0|7.45|N|136|56|0.47|E|region:JP",
+         "location_zipcode" : "474-0048",
          "owner_type" : "市立",
-         "short_name" : "吉田小学校"
+         "short_name" : "吉田小学校",
+         "url" : "http://www.obu-yoshida-e.ed.jp/"
       },
       "大府市立大府小学校" : {
+         "location" : "愛知県大府市桃山町5丁目44番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|0|49.9|N|136|57|47.94|E|region:JP",
+         "location_zipcode" : "474-0026",
          "owner_type" : "市立",
-         "short_name" : "大府小学校"
+         "short_name" : "大府小学校",
+         "sort_name" : "おおふしりつおおふ",
+         "url" : "http://www.obu-e.ed.jp/"
       },
       "大府市立東山小学校" : {
+         "location" : "愛知県大府市長根町3丁目111番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|1|35.07|N|136|57|47.93|E|region:JP",
+         "location_zipcode" : "474-0021",
          "owner_type" : "市立",
-         "short_name" : "東山小学校"
+         "short_name" : "東山小学校",
+         "sort_name" : "おおふしりつひかしやましようかつこう",
+         "url" : "http://www.obu-higashiyama-e.ed.jp/"
       },
       "大府市立石ヶ瀬小学校" : {
+         "location" : "愛知県大府市江端町六丁目99番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|0|36.42|N|136|56|56.26|E|region:JP",
+         "location_zipcode" : "474-0035",
          "owner_type" : "市立",
-         "short_name" : "石ヶ瀬小学校"
+         "short_name" : "石ヶ瀬小学校",
+         "sort_name" : "おおふしりついしかせしようかつこう",
+         "url" : "http://www.ishigase-e.ed.jp/"
       },
       "大府市立神田小学校" : {
+         "location" : "愛知県大府市神田町3丁目135番地",
          "location_area" : "大府市",
+         "location_wikipedia_latlon" : "|35|1|31.48|N|136|59|17.03|E|region:JP",
+         "location_zipcode" : "474-0003",
          "owner_type" : "市立",
-         "short_name" : "神田小学校"
+         "short_name" : "神田小学校",
+         "sort_name" : "おおふしりつかんたしようかつこう",
+         "url" : "http://www.kanda-e.ed.jp/"
       },
       "大治町立大治南小学校" : {
          "location_area" : "海部郡大治町",
@@ -2067,82 +2299,128 @@
       "小牧市立一色小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "一色小学校"
+         "short_name" : "一色小学校",
+         "sort_name" : "こまきしりついつしきしようかつこう"
       },
       "小牧市立三ツ渕小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "三ツ渕小学校"
+         "short_name" : "三ツ渕小学校",
+         "sort_name" : "こまきしりつみつふちしようかつこう"
       },
       "小牧市立光ヶ丘小学校" : {
+         "location" : "愛知県小牧市光ケ丘3丁目50番地",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0811",
          "owner_type" : "市立",
-         "short_name" : "光ヶ丘小学校"
+         "short_name" : "光ヶ丘小学校",
+         "sort_name" : "こまきしりつひかりかおかしようかつこう",
+         "url" : "http://www.komaki-aic.ed.jp/hikarigaoka-e/"
       },
       "小牧市立北里小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "北里小学校"
+         "short_name" : "北里小学校",
+         "sort_name" : "こまきしりつきたさとしようかつこう"
       },
       "小牧市立味岡小学校" : {
+         "location" : "愛知県小牧市大字小松寺585-1",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0828",
          "owner_type" : "市立",
-         "short_name" : "味岡小学校"
+         "short_name" : "味岡小学校",
+         "sort_name" : "こまきしりつあしおかしよう",
+         "url" : "http://www.komaki-aic.ed.jp/ajioka-e/"
       },
       "小牧市立大城小学校" : {
+         "location" : "愛知県小牧市城山3丁目8番地",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0813",
          "owner_type" : "市立",
-         "short_name" : "大城小学校"
+         "short_name" : "大城小学校",
+         "sort_name" : "こまきしりつおおしろしようかつこう",
+         "url" : "http://www.komaki-aic.ed.jp/ohshiro-e/"
       },
       "小牧市立小木小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "小木小学校"
+         "short_name" : "小木小学校",
+         "sort_name" : "こまきしりつこきしようかつこう"
       },
       "小牧市立小牧南小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "小牧南小学校"
+         "short_name" : "小牧南小学校",
+         "sort_name" : "こまきしりつこまきみなみしようかつこう"
       },
       "小牧市立小牧原小学校" : {
+         "location" : "愛知県小牧市小牧原新田1125番地",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0012",
          "owner_type" : "市立",
-         "short_name" : "小牧原小学校"
+         "short_name" : "小牧原小学校",
+         "sort_name" : "こまきしりつこまきはらしようかつこう",
+         "url" : "http://www.komaki-aic.ed.jp/komakihara-e/"
       },
       "小牧市立小牧小学校" : {
+         "location" : "愛知県小牧市小牧3-17",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0041",
          "owner_type" : "市立",
-         "short_name" : "小牧小学校"
+         "short_name" : "小牧小学校",
+         "sort_name" : "こまきしりつこまきしよう",
+         "url" : "http://www.komaki-aic.ed.jp/komaki-e/"
       },
       "小牧市立本庄小学校" : {
+         "location" : "愛知県小牧市本庄2597-40",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0821",
          "owner_type" : "市立",
-         "short_name" : "本庄小学校"
+         "short_name" : "本庄小学校",
+         "sort_name" : "こまきしりつほんしようしよう",
+         "url" : "http://www.komaki-aic.ed.jp/honjyo-e/"
       },
       "小牧市立村中小学校" : {
          "location_area" : "小牧市",
          "owner_type" : "市立",
-         "short_name" : "村中小学校"
+         "short_name" : "村中小学校",
+         "sort_name" : "こまきしりつむらなかしようかつこう"
       },
       "小牧市立桃ヶ丘小学校" : {
+         "location" : "愛知県小牧市桃ヶ丘2丁目3番地",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0813",
          "owner_type" : "市立",
-         "short_name" : "桃ヶ丘小学校"
+         "short_name" : "桃ヶ丘小学校",
+         "sort_name" : "こまきしりつももかおかしようかつこう",
+         "url" : "http://www.komaki-aic.ed.jp/momogaoka-e/"
       },
       "小牧市立篠岡小学校" : {
+         "location" : "愛知県小牧市篠岡2丁目25番地",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0815",
          "owner_type" : "市立",
-         "short_name" : "篠岡小学校"
+         "short_name" : "篠岡小学校",
+         "sort_name" : "こまきしりつしのおかしようかつこう",
+         "url" : "http://www.komaki-aic.ed.jp/shinooka-e/"
       },
       "小牧市立米野小学校" : {
+         "location" : "愛知県小牧市中央5-339",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0029",
          "owner_type" : "市立",
-         "short_name" : "米野小学校"
+         "short_name" : "米野小学校",
+         "sort_name" : "こまきしりつこめのしよう",
+         "url" : "http://www.komaki-aic.ed.jp/komeno-e/main/"
       },
       "小牧市立陶小学校" : {
+         "location" : "愛知県小牧市上末3450-282",
          "location_area" : "小牧市",
+         "location_zipcode" : "485-0822",
          "owner_type" : "市立",
-         "short_name" : "陶小学校"
+         "short_name" : "陶小学校",
+         "sort_name" : "こまきしりつすえしよう",
+         "url" : "http://www.komaki-aic.ed.jp/sue-e/"
       },
       "尾張旭市立三郷小学校" : {
          "location_area" : "尾張旭市",
@@ -2332,17 +2610,20 @@
       "岡崎市立根石小学校" : {
          "location_area" : "岡崎市",
          "owner_type" : "市立",
-         "short_name" : "根石小学校"
+         "short_name" : "根石小学校",
+         "sort_name" : "おかさきしりつねいししようかつこう"
       },
       "岡崎市立梅園小学校" : {
          "location_area" : "岡崎市",
          "owner_type" : "市立",
-         "short_name" : "梅園小学校"
+         "short_name" : "梅園小学校",
+         "sort_name" : "おかさきしりつうめそのしようかつこう"
       },
       "岡崎市立生平小学校" : {
          "location_area" : "岡崎市",
          "owner_type" : "市立",
-         "short_name" : "生平小学校"
+         "short_name" : "生平小学校",
+         "sort_name" : "おかさきしりつおいたいらしようかつこう"
       },
       "岡崎市立男川小学校" : {
          "location_area" : "岡崎市",
@@ -2377,7 +2658,8 @@
       "岡崎市立秦梨小学校" : {
          "location_area" : "岡崎市",
          "owner_type" : "市立",
-         "short_name" : "秦梨小学校"
+         "short_name" : "秦梨小学校",
+         "sort_name" : "おかさきしりつはたなししようかつこう"
       },
       "岡崎市立竜美丘小学校" : {
          "location_area" : "岡崎市",
@@ -2407,7 +2689,8 @@
       "岡崎市立羽根小学校" : {
          "location_area" : "岡崎市",
          "owner_type" : "市立",
-         "short_name" : "羽根小学校"
+         "short_name" : "羽根小学校",
+         "sort_name" : "おかさきしりつはね"
       },
       "岡崎市立藤川小学校" : {
          "location_area" : "岡崎市",
@@ -2611,14 +2894,22 @@
          "short_name" : "永和小学校"
       },
       "愛西市立立田北部小学校" : {
+         "location" : "愛知県愛西市新右エ門新田町郷前83",
          "location_area" : "愛西市",
+         "location_zipcode" : "496-0934",
          "owner_type" : "市立",
-         "short_name" : "立田北部小学校"
+         "short_name" : "立田北部小学校",
+         "sort_name" : "あいさいしりつたつたほくふしよう",
+         "url" : "http://www.aisai.ed.jp/n-tatsuta-e/"
       },
       "愛西市立立田南部小学校" : {
+         "location" : "愛知県愛西市山路町小割1",
          "location_area" : "愛西市",
+         "location_zipcode" : "496-0942",
          "owner_type" : "市立",
-         "short_name" : "立田南部小学校"
+         "short_name" : "立田南部小学校",
+         "sort_name" : "あいさいしりつたつたなんふしよう",
+         "url" : "http://www.aisai.ed.jp/s-tatsuta-e/"
       },
       "愛西市立草平小学校" : {
          "location_area" : "愛西市",
@@ -2651,14 +2942,19 @@
          "short_name" : "柏森小学校"
       },
       "扶桑町立高雄小学校" : {
+         "location" : "愛知県丹羽郡扶桑町大字高雄字北海道61番地",
          "location_area" : "丹羽郡扶桑町",
+         "location_zipcode" : "480-0102",
          "owner_type" : "町立",
-         "short_name" : "高雄小学校"
+         "short_name" : "高雄小学校",
+         "sort_name" : "ふそうちようりつたかおしようかつこう",
+         "url" : "http://www.takao.fuso.ed.jp/"
       },
       "新城市立八名小学校" : {
          "location_area" : "新城市",
          "owner_type" : "市立",
-         "short_name" : "八名小学校"
+         "short_name" : "八名小学校",
+         "sort_name" : "しんしろしりつやな"
       },
       "新城市立千郷小学校" : {
          "location_area" : "新城市",
@@ -2703,7 +2999,8 @@
       "新城市立舟着小学校" : {
          "location_area" : "新城市",
          "owner_type" : "市立",
-         "short_name" : "舟着小学校"
+         "short_name" : "舟着小学校",
+         "sort_name" : "しんしろしりつふなつき"
       },
       "新城市立連谷小学校" : {
          "location_area" : "新城市",
@@ -2771,9 +3068,13 @@
          "short_name" : "香久山小学校"
       },
       "春日井市立上条小学校" : {
+         "location" : "愛知県春日井市弥生町5277番地1",
          "location_area" : "春日井市",
+         "location_zipcode" : "486-0838",
          "owner_type" : "市立",
-         "short_name" : "上条小学校"
+         "short_name" : "上条小学校",
+         "sort_name" : "かすかいしりつしようしようしようかつこう",
+         "url" : "http://www.kasugai.ed.jp/jojo-e/"
       },
       "春日井市立不二小学校" : {
          "location_area" : "春日井市",
@@ -2781,9 +3082,13 @@
          "short_name" : "不二小学校"
       },
       "春日井市立中央台小学校" : {
+         "location" : "愛知県春日井市中央台8-3",
          "location_area" : "春日井市",
+         "location_zipcode" : "487-0011",
          "owner_type" : "市立",
-         "short_name" : "中央台小学校"
+         "short_name" : "中央台小学校",
+         "sort_name" : "かすかいしりつちゅうおうたいしよう",
+         "url" : "http://www.kasugai.ed.jp/chuodai-e/"
       },
       "春日井市立丸田小学校" : {
          "location_area" : "春日井市",
@@ -2831,9 +3136,14 @@
          "short_name" : "山王小学校"
       },
       "春日井市立岩成台小学校" : {
+         "location" : "愛知県春日井市岩成台6丁目3番地",
          "location_area" : "春日井市",
+         "location_zipcode" : "487-0033",
          "owner_type" : "市立",
-         "short_name" : "岩成台小学校"
+         "school_area" : "岩成台1・2・5・6・7丁目",
+         "short_name" : "岩成台小学校",
+         "sort_name" : "かすかいしりついわなりたい",
+         "url" : "http://www.kasugai.ed.jp/iwanari-e/"
       },
       "春日井市立岩成台西小学校" : {
          "location_area" : "春日井市",
@@ -2841,14 +3151,22 @@
          "short_name" : "岩成台西小学校"
       },
       "春日井市立押沢台小学校" : {
+         "location" : "愛知県春日井市押沢台2-7",
          "location_area" : "春日井市",
+         "location_zipcode" : "487-0005",
          "owner_type" : "市立",
-         "short_name" : "押沢台小学校"
+         "short_name" : "押沢台小学校",
+         "sort_name" : "かすかいしりつおしさわたいしようかつこう",
+         "url" : "http://www.kasugai.ed.jp/oshizawa-e/"
       },
       "春日井市立春日井小学校" : {
+         "location" : "愛知県春日井市宮町字宮町3番地",
          "location_area" : "春日井市",
+         "location_zipcode" : "486-0904",
          "owner_type" : "市立",
-         "short_name" : "春日井小学校"
+         "short_name" : "春日井小学校",
+         "sort_name" : "かすかいしりつかすかいしようかつこう",
+         "url" : "http://www.kasugai.ed.jp/kasugai-e/"
       },
       "春日井市立東野小学校" : {
          "location_area" : "春日井市",
@@ -2896,14 +3214,19 @@
          "short_name" : "石尾台小学校"
       },
       "春日井市立神屋小学校" : {
+         "location" : "愛知県春日井市神屋町860番地",
          "location_area" : "春日井市",
+         "location_zipcode" : "480-0304",
          "owner_type" : "市立",
-         "short_name" : "神屋小学校"
+         "short_name" : "神屋小学校",
+         "sort_name" : "かすかいしりつかみやしようかつこう",
+         "url" : "http://www.kasugai.ed.jp/kamiya-e/"
       },
       "春日井市立神領小学校" : {
          "location_area" : "春日井市",
          "owner_type" : "市立",
-         "short_name" : "神領小学校"
+         "short_name" : "神領小学校",
+         "sort_name" : "かすかいしりつしんりようしようかつこう"
       },
       "春日井市立篠原小学校" : {
          "location_area" : "春日井市",
@@ -2916,9 +3239,14 @@
          "short_name" : "篠木小学校"
       },
       "春日井市立藤山台小学校" : {
+         "location" : "愛知県春日井市藤山台3丁目2番地",
          "location_area" : "春日井市",
+         "location_zipcode" : "487-0035",
          "owner_type" : "市立",
-         "short_name" : "藤山台小学校"
+         "school_area" : "藤山台3丁目（一部除く）・9丁目・10丁目・廻間町一部",
+         "short_name" : "藤山台小学校",
+         "sort_name" : "かすかいしりつふしやまたいしようかつこう",
+         "url" : "http://www.kasugai.ed.jp/fujiyamadai-e/"
       },
       "春日井市立藤山台東小学校" : {
          "location_area" : "春日井市",
@@ -2966,9 +3294,14 @@
          "short_name" : "東栄小学校"
       },
       "東浦町立卯ノ里小学校" : {
+         "location" : "愛知県知多郡東浦町大字緒川字雁狭間山18番地",
          "location_area" : "知多郡東浦町",
+         "location_wikipedia_latlon" : "|34|58|10.15|N|136|55|28.62|E|region:JP",
+         "location_zipcode" : "470-2102",
          "owner_type" : "町立",
-         "short_name" : "卯ノ里小学校"
+         "short_name" : "卯ノ里小学校",
+         "sort_name" : "ひかしうらちようりつうのさと",
+         "url" : "http://www.medias.ne.jp/~hunoshot/"
       },
       "東浦町立森岡小学校" : {
          "location_area" : "知多郡東浦町",
@@ -3073,7 +3406,8 @@
       "東郷町立東郷小学校" : {
          "location_area" : "愛知郡東郷町",
          "owner_type" : "町立",
-         "short_name" : "東郷小学校"
+         "short_name" : "東郷小学校",
+         "sort_name" : "とこうちようりつとうこうしようかつこう"
       },
       "東郷町立諸輪小学校" : {
          "location_area" : "愛知郡東郷町",
@@ -3091,7 +3425,12 @@
          "short_name" : "高嶺小学校"
       },
       "椙山女学園大学附属小学校" : {
-         "owner_type" : "私立"
+         "location" : "愛知県名古屋市千種区山添町2-2",
+         "location_wikipedia_latlon" : "|35|9|43.1|N|136|57|5.7|E|",
+         "location_zipcode" : "464-0832",
+         "owner_type" : "私立",
+         "sort_name" : "すきやましよかくえんふそくしようかつこう",
+         "url" : "http://www.sugiyama-u.ac.jp/shogaku/index.html"
       },
       "武豊町立富貴小学校" : {
          "location_area" : "知多郡武豊町",
@@ -3119,9 +3458,12 @@
          "short_name" : "古知野北小学校"
       },
       "江南市立古知野南小学校" : {
+         "location" : "愛知県江南市古知野町大塔72",
          "location_area" : "江南市",
+         "location_zipcode" : "483-8215",
          "owner_type" : "市立",
-         "short_name" : "古知野南小学校"
+         "short_name" : "古知野南小学校",
+         "sort_name" : "こうなんしりつこちのみなみしようかつこう"
       },
       "江南市立古知野東小学校" : {
          "location_area" : "江南市",
@@ -3309,9 +3651,13 @@
          "short_name" : "萩山小学校"
       },
       "瀬戸市立西陵小学校" : {
+         "location" : "愛知県瀬戸市すみれ台1丁目77",
          "location_area" : "瀬戸市",
+         "location_zipcode" : "489-0904",
          "owner_type" : "市立",
-         "short_name" : "西陵小学校"
+         "short_name" : "西陵小学校",
+         "sort_name" : "せとしりつせいりようしようかつこう",
+         "url" : "http://www.city.seto.aichi.jp/education/school/eseiryo/seiryo2006/top/index.htm"
       },
       "瀬戸市立道泉小学校" : {
          "location_area" : "瀬戸市",
@@ -3444,9 +3790,14 @@
          "short_name" : "神戸小学校"
       },
       "田原市立福江小学校" : {
+         "location" : "愛知県田原市福江町宮ノ脇1番地",
          "location_area" : "田原市",
+         "location_zipcode" : "441-3617",
          "owner_type" : "市立",
-         "short_name" : "福江小学校"
+         "school_area" : "福江校区",
+         "short_name" : "福江小学校",
+         "sort_name" : "たはらしりつふくえしようかつこう",
+         "url" : "http://www.city.tahara.aichi.jp/school/fukue-e/"
       },
       "田原市立童浦小学校" : {
          "location_area" : "田原市",
@@ -3459,9 +3810,13 @@
          "short_name" : "若戸小学校"
       },
       "田原市立衣笠小学校" : {
+         "location" : "愛知県田原市田原町東栄巌70",
          "location_area" : "田原市",
+         "location_zipcode" : "441-3421",
          "owner_type" : "市立",
-         "short_name" : "衣笠小学校"
+         "short_name" : "衣笠小学校",
+         "sort_name" : "たはらしりつきぬかさしようかつこう",
+         "url" : "http://www.city.tahara.aichi.jp/school/kinugasa-e/"
       },
       "田原市立赤羽根小学校" : {
          "location_area" : "田原市",
@@ -3602,9 +3957,13 @@
          "short_name" : "下津小学校"
       },
       "稲沢市立丸甲小学校" : {
+         "location" : "愛知県稲沢市祖父江町甲新田芝八5の2",
          "location_area" : "稲沢市",
+         "location_zipcode" : "495-0022",
          "owner_type" : "市立",
-         "short_name" : "丸甲小学校"
+         "short_name" : "丸甲小学校",
+         "sort_name" : "いなさわしりつまるこう",
+         "url" : "http://www.inazawa-aic.ed.jp/emrks/"
       },
       "稲沢市立六輪小学校" : {
          "location_area" : "稲沢市",
@@ -3622,9 +3981,13 @@
          "short_name" : "国分小学校"
       },
       "稲沢市立大塚小学校" : {
+         "location" : "愛知県稲沢市大塚北9-68",
          "location_area" : "稲沢市",
+         "location_zipcode" : "492-8215",
          "owner_type" : "市立",
-         "short_name" : "大塚小学校"
+         "short_name" : "大塚小学校",
+         "sort_name" : "いなさわしりつおおつかしようかつこう",
+         "url" : "http://www.inazawa-aic.ed.jp/eotus/"
       },
       "稲沢市立大里東小学校" : {
          "location_area" : "稲沢市",
@@ -3672,14 +4035,22 @@
          "short_name" : "祖父江小学校"
       },
       "稲沢市立稲沢北小学校" : {
+         "location" : "愛知県稲沢市稲島三丁目58番地",
          "location_area" : "稲沢市",
+         "location_zipcode" : "492",
          "owner_type" : "市立",
-         "short_name" : "稲沢北小学校"
+         "short_name" : "稲沢北小学校",
+         "sort_name" : "いなさわしりついなさわきた",
+         "url" : "http://www.inazawa-aic.ed.jp/einns/"
       },
       "稲沢市立稲沢東小学校" : {
+         "location" : "愛知県稲沢市長野6丁目50番地",
          "location_area" : "稲沢市",
+         "location_zipcode" : "492-8142",
          "owner_type" : "市立",
-         "short_name" : "稲沢東小学校"
+         "short_name" : "稲沢東小学校",
+         "sort_name" : "いなさわしりついなさわひかししようかつこう",
+         "url" : "http://www.inazawa-aic.ed.jp/eines/"
       },
       "稲沢市立稲沢西小学校" : {
          "location_area" : "稲沢市",
@@ -3732,74 +4103,127 @@
          "short_name" : "野間小学校"
       },
       "蒲郡市立三谷小学校" : {
+         "location" : "愛知県蒲郡市三谷町迫1番地1",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0021",
          "owner_type" : "市立",
-         "short_name" : "三谷小学校"
+         "short_name" : "三谷小学校",
+         "sort_name" : "かまこおりしりつみや",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-miya/index.html"
       },
       "蒲郡市立三谷東小学校" : {
+         "location" : "愛知県蒲郡市三谷町南山1番地7",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0021",
          "owner_type" : "市立",
-         "short_name" : "三谷東小学校"
+         "short_name" : "三谷東小学校",
+         "sort_name" : "かまこおりしりつみやひかし",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-miyahi/index.html"
       },
       "蒲郡市立中央小学校" : {
+         "location" : "愛知県蒲郡市緑町3番地49",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0048",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "かまこおりしりつちゆうおう",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-chuo/index.htm"
       },
       "蒲郡市立塩津小学校" : {
+         "location" : "愛知県蒲郡市竹谷町今御堂31番地1",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0046",
          "owner_type" : "市立",
-         "short_name" : "塩津小学校"
+         "short_name" : "塩津小学校",
+         "sort_name" : "かまこおりしりつしおつ",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-shiots/index.html"
       },
       "蒲郡市立大塚小学校" : {
+         "location" : "愛知県蒲郡市大塚町大門42番地5",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0013",
          "owner_type" : "市立",
-         "short_name" : "大塚小学校"
+         "short_name" : "大塚小学校",
+         "sort_name" : "かまこおりしりつおおつか",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-otsuka/index.htm"
       },
       "蒲郡市立形原北小学校" : {
+         "location" : "愛知県蒲郡市金平町屋敷田1番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0102",
          "owner_type" : "市立",
-         "short_name" : "形原北小学校"
+         "short_name" : "形原北小学校",
+         "sort_name" : "かまこおりしりつかたはらきた",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-kataki/index.html"
       },
       "蒲郡市立形原小学校" : {
+         "location" : "愛知県蒲郡市形原町御嶽34番地2",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0104",
          "owner_type" : "市立",
-         "short_name" : "形原小学校"
+         "short_name" : "形原小学校",
+         "sort_name" : "かまこおりしりつかたはら",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-kata/"
       },
       "蒲郡市立竹島小学校" : {
+         "location" : "愛知県蒲郡市府相町3丁目40番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0054",
          "owner_type" : "市立",
-         "short_name" : "竹島小学校"
+         "short_name" : "竹島小学校",
+         "sort_name" : "かまこおりしりつたけしま",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-take/index.html"
       },
       "蒲郡市立蒲郡北部小学校" : {
+         "location" : "愛知県蒲郡市清田町間堰52番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0002",
          "owner_type" : "市立",
-         "short_name" : "蒲郡北部小学校"
+         "short_name" : "蒲郡北部小学校",
+         "sort_name" : "かまこおりしりつかまこおりほくふ",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-hokubu/index.htm"
       },
       "蒲郡市立蒲郡南部小学校" : {
+         "location" : "愛知県蒲郡市神明町22番3",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0056",
          "owner_type" : "市立",
-         "short_name" : "蒲郡南部小学校"
+         "short_name" : "蒲郡南部小学校",
+         "sort_name" : "かまこおりしりつかまこおりなんふ",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-nanbu/index.html"
       },
       "蒲郡市立蒲郡東部小学校" : {
+         "location" : "愛知県蒲郡市豊岡町池田3番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0011",
          "owner_type" : "市立",
-         "short_name" : "蒲郡東部小学校"
+         "short_name" : "蒲郡東部小学校",
+         "sort_name" : "かまこおりしりつかまこおりとうふ",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-tobu/index.htm"
       },
       "蒲郡市立蒲郡西部小学校" : {
+         "location" : "愛知県蒲郡市神ノ郷町壱町田10番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0007",
          "owner_type" : "市立",
-         "short_name" : "蒲郡西部小学校"
+         "short_name" : "蒲郡西部小学校",
+         "sort_name" : "かまこおりしりつかまこおりせいふ",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-seibu/index.htm"
       },
       "蒲郡市立西浦小学校" : {
+         "location" : "愛知県蒲郡市西浦町宮地10番地",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0105",
          "owner_type" : "市立",
-         "short_name" : "西浦小学校"
+         "short_name" : "西浦小学校",
+         "sort_name" : "かまこおりしりつにしうら",
+         "url" : "http://www.kyouiku.nrc.gamagori.aichi.jp/e-nishi/index.html"
       },
       "蟹江町立学戸小学校" : {
          "location_area" : "海部郡蟹江町",
          "owner_type" : "町立",
-         "short_name" : "学戸小学校"
+         "short_name" : "学戸小学校",
+         "sort_name" : "かにえちようりつかくとしようかつこう"
       },
       "蟹江町立新蟹江小学校" : {
          "location_area" : "海部郡蟹江町",
@@ -3822,9 +4246,13 @@
          "short_name" : "須西小学校"
       },
       "西尾市立三和小学校" : {
+         "location" : "愛知県西尾市米野町松葉内25番地",
          "location_area" : "西尾市",
+         "location_zipcode" : "445-0005",
          "owner_type" : "市立",
-         "short_name" : "三和小学校"
+         "short_name" : "三和小学校",
+         "sort_name" : "にしおしりつみつわしようかつこう",
+         "url" : "http://intrawww.city.aichi.jp/miwa-sho/index.htm"
       },
       "西尾市立中畑小学校" : {
          "location_area" : "西尾市",
@@ -3834,7 +4262,8 @@
       "西尾市立八ツ面小学校" : {
          "location_area" : "西尾市",
          "owner_type" : "市立",
-         "short_name" : "八ツ面小学校"
+         "short_name" : "八ツ面小学校",
+         "sort_name" : "にしおしりつやつおもてしようかつこう"
       },
       "西尾市立室場小学校" : {
          "location_area" : "西尾市",
@@ -3867,9 +4296,13 @@
          "short_name" : "福地南部小学校"
       },
       "西尾市立米津小学校" : {
+         "location" : "愛知県西尾市米津町家下18番地",
          "location_area" : "西尾市",
+         "location_zipcode" : "445-0802",
          "owner_type" : "市立",
-         "short_name" : "米津小学校"
+         "short_name" : "米津小学校",
+         "sort_name" : "にしおしりつこめつ",
+         "url" : "http://yonezu.a-pock.co.jp/"
       },
       "西尾市立花の木小学校" : {
          "location_area" : "西尾市",
@@ -3917,19 +4350,30 @@
          "short_name" : "田峯小学校"
       },
       "豊山町立志水小学校" : {
+         "location" : "愛知県西春日井郡豊山町大字豊場字下戸1番地",
          "location_area" : "西春日井郡豊山町",
+         "location_zipcode" : "480-0202",
          "owner_type" : "町立",
-         "short_name" : "志水小学校"
+         "short_name" : "志水小学校",
+         "sort_name" : "とよやまちようりつしみす",
+         "url" : "http://www.t-shimizu-e.ed.jp/"
       },
       "豊山町立新栄小学校" : {
+         "location" : "愛知県西春日井郡豊山町大字青山字東川100番地",
          "location_area" : "西春日井郡豊山町",
+         "location_zipcode" : "480-0201",
          "owner_type" : "町立",
-         "short_name" : "新栄小学校"
+         "short_name" : "新栄小学校",
+         "sort_name" : "とよやまちようりつしんえい",
+         "url" : "http://www.t-shinei-e.ed.jp/"
       },
       "豊山町立豊山小学校" : {
+         "location" : "愛知県西春日井郡豊山町大字豊場字中之町10",
          "location_area" : "西春日井郡豊山町",
+         "location_zipcode" : "480-0202",
          "owner_type" : "町立",
-         "short_name" : "豊山小学校"
+         "short_name" : "豊山小学校",
+         "sort_name" : "とよやまちようりつとよやましよう"
       },
       "豊川市立一宮南部小学校" : {
          "location_area" : "豊川市",
@@ -3954,17 +4398,26 @@
       "豊川市立中部小学校" : {
          "location_area" : "豊川市",
          "owner_type" : "市立",
-         "short_name" : "中部小学校"
+         "short_name" : "中部小学校",
+         "sort_name" : "とよかわしりつちゆうふ"
       },
       "豊川市立代田小学校" : {
+         "location" : "愛知県豊川市代田町1丁目20番地2",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0841",
          "owner_type" : "市立",
-         "short_name" : "代田小学校"
+         "short_name" : "代田小学校",
+         "sort_name" : "とよかわしりつたいた",
+         "url" : "http://mitemi-n.jp/school/200014"
       },
       "豊川市立八南小学校" : {
+         "location" : "愛知県豊川市野口町豊角8-1",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0851",
          "owner_type" : "市立",
-         "short_name" : "八南小学校"
+         "short_name" : "八南小学校",
+         "sort_name" : "とよかわしりつはちなん",
+         "url" : "http://mitemi-n.jp/school/200008"
       },
       "豊川市立千両小学校" : {
          "location_area" : "豊川市",
@@ -3982,39 +4435,62 @@
          "short_name" : "天王小学校"
       },
       "豊川市立小坂井東小学校" : {
+         "location" : "愛知県豊川市小坂井町西浦87",
          "location_area" : "豊川市",
+         "location_wikipedia_latlon" : "|34|48|3.8|N|137|21|39.4|E|region:JP",
+         "location_zipcode" : "441-0103",
          "owner_type" : "市立",
-         "short_name" : "小坂井東小学校"
+         "short_name" : "小坂井東小学校",
+         "sort_name" : "とよかわしりつこさかいひかししよう",
+         "url" : "http://mitemi-n.jp/school/200025"
       },
       "豊川市立小坂井西小学校" : {
          "location_area" : "豊川市",
          "owner_type" : "市立",
-         "short_name" : "小坂井西小学校"
+         "short_name" : "小坂井西小学校",
+         "sort_name" : "とよかわしりつこさかいにししよう"
       },
       "豊川市立平尾小学校" : {
+         "location" : "愛知県豊川市平尾町上貝津2-5",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0863",
          "owner_type" : "市立",
-         "short_name" : "平尾小学校"
+         "short_name" : "平尾小学校",
+         "sort_name" : "とよかわしりつひらお",
+         "url" : "http://mitemi-n.jp/school/200009"
       },
       "豊川市立御油小学校" : {
+         "location" : "愛知県豊川市御油町膳ノ棚4-1",
          "location_area" : "豊川市",
+         "location_zipcode" : "441-0211",
          "owner_type" : "市立",
-         "short_name" : "御油小学校"
+         "short_name" : "御油小学校",
+         "sort_name" : "とよかわしりつこゆ",
+         "url" : "http://mitemi-n.jp/school/200012"
       },
       "豊川市立御津北部小学校" : {
          "location_area" : "豊川市",
          "owner_type" : "市立",
-         "short_name" : "御津北部小学校"
+         "short_name" : "御津北部小学校",
+         "sort_name" : "とよかわしりつみとほくふしようかつこう"
       },
       "豊川市立御津南部小学校" : {
+         "location" : "愛知県豊川市御津町御馬加美15",
          "location_area" : "豊川市",
+         "location_zipcode" : "441-0311",
          "owner_type" : "市立",
-         "short_name" : "御津南部小学校"
+         "short_name" : "御津南部小学校",
+         "sort_name" : "とよかわしりつみとなんふ",
+         "url" : "http://mitemi-n.jp/school/200024"
       },
       "豊川市立東部小学校" : {
+         "location" : "愛知県豊川市三谷原町石坪1番地1",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0805",
          "owner_type" : "市立",
-         "short_name" : "東部小学校"
+         "short_name" : "東部小学校",
+         "sort_name" : "とよかわしりつとうふ",
+         "url" : "http://mitemi-n.jp/school/200002"
       },
       "豊川市立桜木小学校" : {
          "location_area" : "豊川市",
@@ -4027,9 +4503,13 @@
          "short_name" : "桜町小学校"
       },
       "豊川市立牛久保小学校" : {
+         "location" : "愛知県豊川市牛久保町大手10番地2",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0826",
          "owner_type" : "市立",
-         "short_name" : "牛久保小学校"
+         "short_name" : "牛久保小学校",
+         "sort_name" : "とよかわしりつうしくほ",
+         "url" : "http://mitemi-n.jp/school/200006"
       },
       "豊川市立萩小学校" : {
          "location_area" : "豊川市",
@@ -4042,9 +4522,13 @@
          "short_name" : "豊小学校"
       },
       "豊川市立豊川小学校" : {
+         "location" : "愛知県豊川市北浦町31番地1",
          "location_area" : "豊川市",
+         "location_zipcode" : "442-0042",
          "owner_type" : "市立",
-         "short_name" : "豊川小学校"
+         "short_name" : "豊川小学校",
+         "sort_name" : "とよかわしりつとよかわ",
+         "url" : "http://mitemi-n.jp/school/200001"
       },
       "豊川市立赤坂小学校" : {
          "location_area" : "豊川市",
@@ -4179,7 +4663,8 @@
       "豊橋市立大村小学校" : {
          "location_area" : "豊橋市",
          "owner_type" : "市立",
-         "short_name" : "大村小学校"
+         "short_name" : "大村小学校",
+         "sort_name" : "とよはししりつおおむらしようかつこう"
       },
       "豊橋市立大清水小学校" : {
          "location_area" : "豊橋市",
@@ -4202,9 +4687,13 @@
          "short_name" : "小沢小学校"
       },
       "豊橋市立岩田小学校" : {
+         "location" : "愛知県豊橋市中岩田四丁目1番地の2",
          "location_area" : "豊橋市",
+         "location_zipcode" : "440-0832",
          "owner_type" : "市立",
-         "short_name" : "岩田小学校"
+         "short_name" : "岩田小学校",
+         "sort_name" : "とよはししりついわたしようかつこう",
+         "url" : "http://www.iwata-e.toyohashi.ed.jp/iwata-e/index1.htm"
       },
       "豊橋市立岩西小学校" : {
          "location_area" : "豊橋市",
@@ -4222,14 +4711,19 @@
          "short_name" : "幸小学校"
       },
       "豊橋市立新川小学校" : {
+         "location" : "愛知県豊橋市前田中町8番地の23",
          "location_area" : "豊橋市",
+         "location_zipcode" : "440-0872",
          "owner_type" : "市立",
-         "short_name" : "新川小学校"
+         "short_name" : "新川小学校",
+         "sort_name" : "とよはししりつしんかわしようかつこう",
+         "url" : "http://www.shinkawa-e.toyohashi.ed.jp/shinkawa-e/index1.htm"
       },
       "豊橋市立旭小学校" : {
          "location_area" : "豊橋市",
          "owner_type" : "市立",
-         "short_name" : "旭小学校"
+         "short_name" : "旭小学校",
+         "sort_name" : "とよはししりつあさひしようかつこう"
       },
       "豊橋市立杉山小学校" : {
          "location_area" : "豊橋市",
@@ -4239,7 +4733,8 @@
       "豊橋市立東田小学校" : {
          "location_area" : "豊橋市",
          "owner_type" : "市立",
-         "short_name" : "東田小学校"
+         "short_name" : "東田小学校",
+         "sort_name" : "とよはししりつあすまたしようかつこう"
       },
       "豊橋市立松山小学校" : {
          "location_area" : "豊橋市",
@@ -4267,9 +4762,13 @@
          "short_name" : "汐田小学校"
       },
       "豊橋市立津田小学校" : {
+         "location" : "愛知県豊橋市横須賀町宮元3-1",
          "location_area" : "豊橋市",
+         "location_zipcode" : "440-0093",
          "owner_type" : "市立",
-         "short_name" : "津田小学校"
+         "short_name" : "津田小学校",
+         "sort_name" : "とよはししりつつたしようかつこう",
+         "url" : "http://www.tsuda-e.toyohashi.ed.jp/tsuda-e/"
       },
       "豊橋市立牛川小学校" : {
          "location_area" : "豊橋市",
@@ -4329,7 +4828,8 @@
       "豊橋市立西郷小学校" : {
          "location_area" : "豊橋市",
          "owner_type" : "市立",
-         "short_name" : "西郷小学校"
+         "short_name" : "西郷小学校",
+         "sort_name" : "とよはししりつさいこうしようかつこう"
       },
       "豊橋市立谷川小学校" : {
          "location_area" : "豊橋市",
@@ -4463,13 +4963,21 @@
       },
       "豊田市立堤小学校" : {
          "location_area" : "豊田市",
+         "location_zipcode" : "473-0902",
          "owner_type" : "市立",
-         "short_name" : "堤小学校"
+         "short_name" : "堤小学校",
+         "sort_name" : "とよたしりつつつみしようかつこう",
+         "url" : "http://www.toyota.ed.jp/s-tsutsumi/"
       },
       "豊田市立大林小学校" : {
+         "location" : "愛知県豊田市大林町14丁目11-5",
          "location_area" : "豊田市",
+         "location_wikipedia_latlon" : "|35|02|56|N|137|08|38|E|",
+         "location_zipcode" : "473-0902",
          "owner_type" : "市立",
-         "short_name" : "大林小学校"
+         "short_name" : "大林小学校",
+         "sort_name" : "とよたしりつおおはやし",
+         "url" : "http://www.toyota.ed.jp/s-obayashi/"
       },
       "豊田市立大沼小学校" : {
          "location_area" : "豊田市",
@@ -4502,9 +5010,13 @@
          "short_name" : "小原中部小学校"
       },
       "豊田市立小清水小学校" : {
+         "location" : "愛知県豊田市田町2-81",
          "location_area" : "豊田市",
+         "location_zipcode" : "471-0049",
          "owner_type" : "市立",
-         "short_name" : "小清水小学校"
+         "short_name" : "小清水小学校",
+         "sort_name" : "とよたしりつこしみす",
+         "url" : "http://www.toyota.ed.jp/s-koshimizu/index.html"
       },
       "豊田市立小渡小学校" : {
          "location_area" : "豊田市",
@@ -4514,7 +5026,8 @@
       "豊田市立山之手小学校" : {
          "location_area" : "豊田市",
          "owner_type" : "市立",
-         "short_name" : "山之手小学校"
+         "short_name" : "山之手小学校",
+         "sort_name" : "とよたしりつやまのて"
       },
       "豊田市立岩倉小学校" : {
          "location_area" : "豊田市",
@@ -4522,9 +5035,13 @@
          "short_name" : "岩倉小学校"
       },
       "豊田市立巴ヶ丘小学校" : {
+         "location" : "愛知県豊田市大桑町別当56",
          "location_area" : "豊田市",
+         "location_zipcode" : "444-3207",
          "owner_type" : "市立",
-         "short_name" : "巴ヶ丘小学校"
+         "short_name" : "巴ヶ丘小学校",
+         "sort_name" : "とよたしりつともえかおか",
+         "url" : "http://www.toyota.ed.jp/s-tomoegaoka/index.html"
       },
       "豊田市立市木小学校" : {
          "location_area" : "豊田市",
@@ -4617,9 +5134,13 @@
          "short_name" : "梅坪小学校"
       },
       "豊田市立浄水小学校" : {
+         "location" : "愛知県豊田市浄水町南平113-2",
          "location_area" : "豊田市",
+         "location_zipcode" : "470-0343",
          "owner_type" : "市立",
-         "short_name" : "浄水小学校"
+         "short_name" : "浄水小学校",
+         "sort_name" : "とよたしりつしようすいしょうかつこう",
+         "url" : "http://www.toyota.ed.jp/s-josui/"
       },
       "豊田市立滝脇小学校" : {
          "location_area" : "豊田市",
@@ -4654,7 +5175,8 @@
       "豊田市立竹村小学校" : {
          "location_area" : "豊田市",
          "owner_type" : "市立",
-         "short_name" : "竹村小学校"
+         "short_name" : "竹村小学校",
+         "sort_name" : "とよたしりつたけむらしようかつこう"
       },
       "豊田市立築羽小学校" : {
          "location_area" : "豊田市",
@@ -4662,9 +5184,12 @@
          "short_name" : "築羽小学校"
       },
       "豊田市立美山小学校" : {
+         "location" : "愛知県豊田市美山町4-1",
          "location_area" : "豊田市",
+         "location_zipcode" : "471-0849",
          "owner_type" : "市立",
-         "short_name" : "美山小学校"
+         "short_name" : "美山小学校",
+         "sort_name" : "とよたしりつみやましよう"
       },
       "豊田市立花山小学校" : {
          "location_area" : "豊田市",
@@ -4697,9 +5222,13 @@
          "short_name" : "衣丘小学校"
       },
       "豊田市立西保見小学校" : {
+         "location" : "豊田市保見ケ丘2丁目185",
          "location_area" : "豊田市",
+         "location_zipcode" : "465-0065",
          "owner_type" : "市立",
-         "short_name" : "西保見小学校"
+         "short_name" : "西保見小学校",
+         "sort_name" : "とよたしりつにしほみしようかつこう",
+         "url" : "http://www.toyota.ed.jp/s-nishihomi/"
       },
       "豊田市立西広瀬小学校" : {
          "location_area" : "豊田市",
@@ -4732,9 +5261,13 @@
          "short_name" : "野見小学校"
       },
       "豊田市立青木小学校" : {
+         "location" : "愛知県豊田市青木町4-5",
          "location_area" : "豊田市",
+         "location_zipcode" : "470-0335",
          "owner_type" : "市立",
-         "short_name" : "青木小学校"
+         "short_name" : "青木小学校",
+         "sort_name" : "とよたしりつあおきしよう",
+         "url" : "http://www.toyota.ed.jp/s-aoki/index.html"
       },
       "豊田市立飯野小学校" : {
          "location_area" : "豊田市",
@@ -4743,8 +5276,11 @@
       },
       "豊田市立駒場小学校" : {
          "location_area" : "豊田市",
+         "location_zipcode" : "473-0925",
          "owner_type" : "市立",
-         "short_name" : "駒場小学校"
+         "short_name" : "駒場小学校",
+         "sort_name" : "とよたしりつこまばしようかつこう",
+         "url" : "http://www.toyota.ed.jp/s-komaba/"
       },
       "豊田市立高嶺小学校" : {
          "location_area" : "豊田市",
@@ -4787,9 +5323,14 @@
          "short_name" : "東部小学校"
       },
       "阿久比町立英比小学校" : {
+         "location" : "愛知県知多郡阿久比町大字卯坂字北大平7番地",
          "location_area" : "知多郡阿久比町",
+         "location_wikipedia_latlon" : "|34|56|36.98|N|136|55|8.92|E|region:JP",
+         "location_zipcode" : "470-2212",
          "owner_type" : "町立",
-         "short_name" : "英比小学校"
+         "short_name" : "英比小学校",
+         "sort_name" : "あくいちようりつえいひ",
+         "url" : "http://www.eibi-e.aichi-c.ed.jp/"
       },
       "阿久比町立草木小学校" : {
          "location_area" : "知多郡阿久比町",
@@ -4817,9 +5358,13 @@
          "short_name" : "翼小学校"
       },
       "高浜市立高取小学校" : {
+         "location" : "愛知県高浜市本郷町6丁目6-1",
          "location_area" : "高浜市",
+         "location_zipcode" : "444-1311",
          "owner_type" : "市立",
-         "short_name" : "高取小学校"
+         "short_name" : "高取小学校",
+         "sort_name" : "たかはましりつたかとりしようかつこう",
+         "url" : "http://www.city.takahama.aichi.jp/torishoweb/"
       },
       "高浜市立高浜小学校" : {
          "location_area" : "高浜市",

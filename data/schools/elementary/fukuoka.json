@@ -126,7 +126,11 @@
          "short_name" : "飯江小学校"
       },
       "リンデンホール小学校" : {
-         "owner_type" : "私立"
+         "location" : "福岡県太宰府市五条6丁目16番58号",
+         "location_zipcode" : "818-0125",
+         "owner_type" : "私立",
+         "sort_name" : "りんてんほおる",
+         "url" : "http://www.lindenhall.ed.jp/"
       },
       "上毛町立南吉富小学校" : {
          "location_area" : "築上郡上毛町",
@@ -134,9 +138,13 @@
          "short_name" : "南吉富小学校"
       },
       "上毛町立友枝小学校" : {
+         "location" : "福岡県築上郡上毛町東下1467-1",
          "location_area" : "築上郡上毛町",
+         "location_zipcode" : "871-0922",
          "owner_type" : "町立",
-         "short_name" : "友枝小学校"
+         "short_name" : "友枝小学校",
+         "sort_name" : "こうけちようりつともえた",
+         "url" : "http://www2.ocn.ne.jp/~tomoeda/"
       },
       "上毛町立唐原小学校" : {
          "location_area" : "築上郡上毛町",
@@ -259,9 +267,13 @@
          "short_name" : "安武小学校"
       },
       "久留米市立宮ノ陣小学校" : {
+         "location" : "福岡県久留米市宮ノ陣町大杜393",
          "location_area" : "久留米市",
+         "location_zipcode" : "839-0803",
          "owner_type" : "市立",
-         "short_name" : "宮ノ陣小学校"
+         "short_name" : "宮ノ陣小学校",
+         "sort_name" : "くるめしりつみやのしん",
+         "url" : "http://www.miya-pr.kurume.ed.jp/"
       },
       "久留米市立小森野小学校" : {
          "location_area" : "久留米市",
@@ -679,14 +691,21 @@
          "short_name" : "大原小学校"
       },
       "北九州市立大積小学校" : {
+         "location" : "福岡県北九州市門司区大字大積974-3",
          "location_area" : "北九州市門司区",
          "owner_type" : "市立",
-         "short_name" : "大積小学校"
+         "short_name" : "大積小学校",
+         "sort_name" : "きたきゆうしゆうしりつおおつみ",
+         "url" : "http://www.kita9.ed.jp/otsumi-e/"
       },
       "北九州市立大蔵小学校" : {
+         "location" : "福岡県北九州市八幡東区勝山1丁目1番1号",
          "location_area" : "北九州市八幡東区",
+         "location_zipcode" : "805-0043",
          "owner_type" : "市立",
-         "short_name" : "大蔵小学校"
+         "short_name" : "大蔵小学校",
+         "sort_name" : "きたきゆうしゆうしりつおおくら",
+         "url" : "http://www.kita9.ed.jp/okura-e/"
       },
       "北九州市立大谷小学校" : {
          "location_area" : "北九州市戸畑区",
@@ -704,9 +723,12 @@
          "short_name" : "大里東小学校"
       },
       "北九州市立大里柳小学校" : {
+         "location" : "福岡県北九州市門司区不老町2丁目1番1号",
          "location_area" : "北九州市門司区",
          "owner_type" : "市立",
-         "short_name" : "大里柳小学校"
+         "short_name" : "大里柳小学校",
+         "sort_name" : "きたきゆうしゆうしりつたいりやなきしようかつこう",
+         "url" : "http://www.kita9.ed.jp/dairiyanagi-e/"
       },
       "北九州市立天籟寺小学校" : {
          "location_area" : "北九州市戸畑区",
@@ -734,9 +756,13 @@
          "short_name" : "寿山小学校"
       },
       "北九州市立小倉中央小学校" : {
+         "location" : "福岡県北九州市小倉北区堺町2丁目4番1号",
          "location_area" : "北九州市小倉北区",
+         "location_zipcode" : "802-0005",
          "owner_type" : "市立",
-         "short_name" : "小倉中央小学校"
+         "short_name" : "小倉中央小学校",
+         "sort_name" : "きたきゆうしゆうしりつこくらちゆうおう",
+         "url" : "http://www.kita9.ed.jp/kokurachuo-e/"
       },
       "北九州市立小森江東小学校" : {
          "location_area" : "北九州市門司区",
@@ -879,9 +905,12 @@
          "short_name" : "槻田小学校"
       },
       "北九州市立横代小学校" : {
+         "location" : "福岡県北九州市小倉南区横代南町2丁目4番1号",
          "location_area" : "北九州市小倉南区",
          "owner_type" : "市立",
-         "short_name" : "横代小学校"
+         "short_name" : "横代小学校",
+         "sort_name" : "きたきゆうしゆうしりつよこしろしようかつこう",
+         "url" : "http://www.kita9.ed.jp/yokoshiro-e/"
       },
       "北九州市立永犬丸小学校" : {
          "location_area" : "北九州市八幡西区",
@@ -899,9 +928,13 @@
          "short_name" : "江川小学校"
       },
       "北九州市立池田小学校" : {
+         "location" : "福岡県北九州市八幡西区池田3丁目2番1号",
          "location_area" : "北九州市八幡西区",
+         "location_zipcode" : "807-1125",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "きたきゆうしゆうしりついけた",
+         "url" : "http://www.kita9.ed.jp/ikeda-e/"
       },
       "北九州市立河内小学校" : {
          "location_area" : "北九州市八幡東区",
@@ -939,9 +972,13 @@
          "short_name" : "港が丘小学校"
       },
       "北九州市立湯川小学校" : {
+         "location" : "福岡県北九州市小倉南区湯川新町1丁目8番1号",
          "location_area" : "北九州市小倉南区",
+         "location_zipcode" : "800-0256",
          "owner_type" : "市立",
-         "short_name" : "湯川小学校"
+         "short_name" : "湯川小学校",
+         "sort_name" : "きたきゆうしゆうしりつゆかわしようかつこう",
+         "url" : "http://www.kita9.ed.jp/yugawa-e/"
       },
       "北九州市立熊西小学校" : {
          "location_area" : "北九州市八幡西区",
@@ -949,9 +986,13 @@
          "short_name" : "熊西小学校"
       },
       "北九州市立牧山小学校" : {
+         "location" : "福岡県北九州市戸畑区丸町2丁目15番25号",
          "location_area" : "北九州市戸畑区",
+         "location_zipcode" : "804-0052",
          "owner_type" : "市立",
-         "short_name" : "牧山小学校"
+         "short_name" : "牧山小学校",
+         "sort_name" : "きたきゆうしゆうしりつまきやましようかつこう",
+         "url" : "http://www.kita9.ed.jp/makiyama-e/"
       },
       "北九州市立田原小学校" : {
          "location_area" : "北九州市小倉南区",
@@ -969,9 +1010,13 @@
          "short_name" : "白野江小学校"
       },
       "北九州市立皿倉小学校" : {
+         "location" : "福岡県北九州市八幡東区尾倉1丁目15番1号",
          "location_area" : "北九州市八幡東区",
+         "location_zipcode" : "805-0059",
          "owner_type" : "市立",
-         "short_name" : "皿倉小学校"
+         "short_name" : "皿倉小学校",
+         "sort_name" : "きたきゆうしゆうしりつさらくら",
+         "url" : "http://www.kita9.ed.jp/sarakura-e/"
       },
       "北九州市立祝町小学校" : {
          "location_area" : "北九州市八幡東区",
@@ -1009,9 +1054,13 @@
          "short_name" : "若園小学校"
       },
       "北九州市立若松中央小学校" : {
+         "location" : "福岡県北九州市若松区白山2丁目1-1",
          "location_area" : "北九州市若松区",
+         "location_zipcode" : "808-0035",
          "owner_type" : "市立",
-         "short_name" : "若松中央小学校"
+         "short_name" : "若松中央小学校",
+         "sort_name" : "きたきゆうしゆうしりつわかまつしようかつこう",
+         "url" : "http://www.kita9.ed.jp/wakamatsuchuo-e/"
       },
       "北九州市立萩ヶ丘小学校" : {
          "location_area" : "北九州市門司区",
@@ -1044,9 +1093,13 @@
          "short_name" : "藤松小学校"
       },
       "北九州市立西小倉小学校" : {
+         "location" : "福岡県北九州市小倉北区城内6-1",
          "location_area" : "北九州市小倉北区",
+         "location_zipcode" : "803-0813",
          "owner_type" : "市立",
-         "short_name" : "西小倉小学校"
+         "short_name" : "西小倉小学校",
+         "sort_name" : "きたきゆうしゆうしりつにしこくら",
+         "url" : "http://www.kita9.ed.jp/nishikokura-e/"
       },
       "北九州市立西門司小学校" : {
          "location_area" : "北九州市門司区",
@@ -1079,9 +1132,13 @@
          "short_name" : "足原小学校"
       },
       "北九州市立足立小学校" : {
+         "location" : "福岡県北九州市小倉北区宇佐町1丁目6番7号",
          "location_area" : "北九州市小倉北区",
+         "location_zipcode" : "802-0016",
          "owner_type" : "市立",
-         "short_name" : "足立小学校"
+         "short_name" : "足立小学校",
+         "sort_name" : "きたきゆうしゆうしりつあたちしようかつこう",
+         "url" : "http://www.kita9.ed.jp/adachi-e/"
       },
       "北九州市立長尾小学校" : {
          "location_area" : "北九州市小倉南区",
@@ -1144,9 +1201,13 @@
          "short_name" : "高見小学校"
       },
       "北九州市立高須小学校" : {
+         "location" : "福岡県北九州市若松区高須東4丁目14番1号",
          "location_area" : "北九州市若松区",
+         "location_zipcode" : "808-0144",
          "owner_type" : "市立",
-         "short_name" : "高須小学校"
+         "short_name" : "高須小学校",
+         "sort_name" : "きたきゆうしゆうしりつたかすしようかつこう",
+         "url" : "http://www.kita9.ed.jp/takasu-e"
       },
       "北九州市立鳴水小学校" : {
          "location_area" : "北九州市八幡西区",
@@ -1314,9 +1375,11 @@
          "short_name" : "三又小学校"
       },
       "大川市立大川小学校" : {
+         "location" : "福岡県大川市向島1850",
          "location_area" : "大川市",
          "owner_type" : "市立",
-         "short_name" : "大川小学校"
+         "short_name" : "大川小学校",
+         "sort_name" : "おおかわしりつおおかわ"
       },
       "大川市立大野島小学校" : {
          "location_area" : "大川市",
@@ -1369,9 +1432,13 @@
          "short_name" : "みなと小学校"
       },
       "大牟田市立三池小学校" : {
+         "location" : "福岡県大牟田市大字新町289番1号",
          "location_area" : "大牟田市",
+         "location_zipcode" : "837-0923",
          "owner_type" : "市立",
-         "short_name" : "三池小学校"
+         "short_name" : "三池小学校",
+         "sort_name" : "おおむたしりつみいけ",
+         "url" : "http://www.e-net21.city.omuta.fukuoka.jp/miike-es/"
       },
       "大牟田市立上内小学校" : {
          "location_area" : "大牟田市",
@@ -1419,9 +1486,13 @@
          "short_name" : "天領小学校"
       },
       "大牟田市立平原小学校" : {
+         "location" : "福岡県大牟田市平原町333",
          "location_area" : "大牟田市",
+         "location_zipcode" : "836-0813",
          "owner_type" : "市立",
-         "short_name" : "平原小学校"
+         "short_name" : "平原小学校",
+         "sort_name" : "おおむたしりつひらはるしようかつこう",
+         "url" : "http://www.e-net21.city.omuta.fukuoka.jp/hirabaru-es/"
       },
       "大牟田市立手鎌小学校" : {
          "location_area" : "大牟田市",
@@ -1429,9 +1500,13 @@
          "short_name" : "手鎌小学校"
       },
       "大牟田市立明治小学校" : {
+         "location" : "福岡県大牟田市明治町2丁目21番地1",
          "location_area" : "大牟田市",
+         "location_zipcode" : "836-0012",
          "owner_type" : "市立",
-         "short_name" : "明治小学校"
+         "short_name" : "明治小学校",
+         "sort_name" : "おおむたしりつめいししようかつこう",
+         "url" : "http://www.e-net21.city.omuta.fukuoka.jp/meiji-es/"
       },
       "大牟田市立玉川小学校" : {
          "location_area" : "大牟田市",
@@ -1449,9 +1524,13 @@
          "short_name" : "笹原小学校"
       },
       "大牟田市立羽山台小学校" : {
+         "location" : "福岡県大牟田市大字草木587番3号",
          "location_area" : "大牟田市",
+         "location_zipcode" : "837-0917",
          "owner_type" : "市立",
-         "short_name" : "羽山台小学校"
+         "short_name" : "羽山台小学校",
+         "sort_name" : "おおむたしりつはやまたいしようかつこう",
+         "url" : "http://www.e-net21.city.omuta.fukuoka.jp/hayamadai-es/"
       },
       "大牟田市立銀水小学校" : {
          "location_area" : "大牟田市",
@@ -1474,54 +1553,93 @@
          "short_name" : "高取小学校"
       },
       "大野城市立下大利小学校" : {
+         "location" : "福岡県大野城市東大利4丁目8番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0941",
          "owner_type" : "市立",
-         "short_name" : "下大利小学校"
+         "short_name" : "下大利小学校",
+         "sort_name" : "おおのしようしりつしもおおり"
       },
       "大野城市立大利小学校" : {
+         "location" : "福岡県大野城市上大利1丁目7番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0955",
          "owner_type" : "市立",
-         "short_name" : "大利小学校"
+         "short_name" : "大利小学校",
+         "sort_name" : "おおのしようしりつおおり",
+         "url" : "http://www2.csf.ne.jp/~ohrisyo/"
       },
       "大野城市立大城小学校" : {
+         "location" : "福岡県大野城市大城3丁目29番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0911",
          "owner_type" : "市立",
-         "short_name" : "大城小学校"
+         "short_name" : "大城小学校",
+         "sort_name" : "おおのしようしりつおおき",
+         "url" : "公式サイト"
       },
       "大野城市立大野北小学校" : {
+         "location" : "福岡県大野城市山田4丁目17番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0922",
          "owner_type" : "市立",
-         "short_name" : "大野北小学校"
+         "short_name" : "大野北小学校",
+         "sort_name" : "おおのしようしりつおおのきた",
+         "url" : "http://www.geocities.co.jp/NeverLand/4082/"
       },
       "大野城市立大野南小学校" : {
+         "location" : "福岡県大野城市南ケ丘4丁目18番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0851",
          "owner_type" : "市立",
-         "short_name" : "大野南小学校"
+         "short_name" : "大野南小学校",
+         "sort_name" : "おおのしようしりつおおのみなみ",
+         "url" : "http://www2.csf.ne.jp/~ono-minami-s/"
       },
       "大野城市立大野小学校" : {
+         "location" : "福岡県大野城市瓦田3丁目2番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0932",
          "owner_type" : "市立",
-         "short_name" : "大野小学校"
+         "short_name" : "大野小学校",
+         "sort_name" : "おおのしようしりつおおの",
+         "url" : "http://www2.csf.ne.jp/~oono1027/"
       },
       "大野城市立大野東小学校" : {
+         "location" : "福岡県大野城市乙金1丁目18番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0902",
          "owner_type" : "市立",
-         "short_name" : "大野東小学校"
+         "short_name" : "大野東小学校",
+         "sort_name" : "おおのしようしりつおおのひかし",
+         "url" : "公式サイト"
       },
       "大野城市立平野小学校" : {
+         "location" : "福岡県大野城市横峰2丁目4番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0973",
          "owner_type" : "市立",
-         "short_name" : "平野小学校"
+         "short_name" : "平野小学校",
+         "sort_name" : "おおのしようしりつひらの",
+         "url" : "http://www2.csf.ne.jp/~hirano/"
       },
       "大野城市立御笠の森小学校" : {
+         "location" : "福岡県大野城市御笠川1丁目7番1号",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0912",
          "owner_type" : "市立",
-         "short_name" : "御笠の森小学校"
+         "short_name" : "御笠の森小学校",
+         "sort_name" : "おおのしようしりつみかさのもり",
+         "url" : "公式サイト"
       },
       "大野城市立月の浦小学校" : {
+         "location" : "福岡県大野城市月の浦3-22-1",
          "location_area" : "大野城市",
+         "location_zipcode" : "816-0983",
          "owner_type" : "市立",
-         "short_name" : "月の浦小学校"
+         "short_name" : "月の浦小学校",
+         "sort_name" : "おおのしようしりつつきのうらしよう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/nishitomioka/"
       },
       "太宰府市立国分小学校" : {
          "location_area" : "太宰府市",
@@ -1844,7 +1962,11 @@
          "short_name" : "志免西小学校"
       },
       "敬愛小学校" : {
-         "owner_type" : "私立"
+         "location" : "福岡県北九州市門司区大里新町11番7号",
+         "location_zipcode" : "800-0057",
+         "owner_type" : "私立",
+         "sort_name" : "けいあいしよう",
+         "url" : "http://www.keiai.net/syo/"
       },
       "新宮町立新宮小学校" : {
          "location_area" : "糟屋郡新宮町",
@@ -1867,7 +1989,11 @@
          "short_name" : "立花小学校"
       },
       "明治学園小学校" : {
+         "location" : "福岡県北九州市戸畑区仙水町5番1号",
+         "location_zipcode" : "804-8558",
          "owner_type" : "私立",
+         "sort_name" : "めいしかくえん",
+         "url" : "http://www.meijigakuen.com/sho/",
          "wikipedia_name" : "明治学園小学校・中学校・高等学校"
       },
       "春日市立大谷小学校" : {
@@ -1876,29 +2002,49 @@
          "short_name" : "大谷小学校"
       },
       "春日市立天神山小学校" : {
+         "location" : "福岡県春日市天神山6-39",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0855",
          "owner_type" : "市立",
-         "short_name" : "天神山小学校"
+         "short_name" : "天神山小学校",
+         "sort_name" : "かすかしりつてんしんやま",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e-tenjin/"
       },
       "春日市立日の出小学校" : {
+         "location" : "福岡県春日市日の出町3丁目1番10号",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0873",
          "owner_type" : "市立",
-         "short_name" : "日の出小学校"
+         "short_name" : "日の出小学校",
+         "sort_name" : "かすかしりつひのて",
+         "url" : "http://www.edu.fit.ac.jp/~hinodee/"
       },
       "春日市立春日北小学校" : {
+         "location" : "福岡県春日市岡本1丁目35番地",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0861",
          "owner_type" : "市立",
-         "short_name" : "春日北小学校"
+         "short_name" : "春日北小学校",
+         "sort_name" : "かすかしりつかすかきた",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e-kita/"
       },
       "春日市立春日南小学校" : {
+         "location" : "福岡県春日市春日8丁目100番地",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0814",
          "owner_type" : "市立",
-         "short_name" : "春日南小学校"
+         "short_name" : "春日南小学校",
+         "sort_name" : "かすかしりつかすかみなみ",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e-minami/"
       },
       "春日市立春日原小学校" : {
+         "location" : "福岡県春日市春日原南町4丁目37番1号",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0803",
          "owner_type" : "市立",
-         "short_name" : "春日原小学校"
+         "short_name" : "春日原小学校",
+         "sort_name" : "かすかしりつかすかはる",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e_baru/index.html"
       },
       "春日市立春日小学校" : {
          "location_area" : "春日市",
@@ -1916,9 +2062,13 @@
          "short_name" : "春日西小学校"
       },
       "春日市立春日野小学校" : {
+         "location" : "福岡県春日市春日公園4丁目1番1号",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0811",
          "owner_type" : "市立",
-         "short_name" : "春日野小学校"
+         "short_name" : "春日野小学校",
+         "sort_name" : "かすかしりつかすかの",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e-nosho/"
       },
       "春日市立池の上小学校" : {
          "location_area" : "春日市",
@@ -1931,9 +2081,13 @@
          "short_name" : "白水小学校"
       },
       "春日市立須玖小学校" : {
+         "location" : "福岡県春日市須玖南2-71",
          "location_area" : "春日市",
+         "location_zipcode" : "816-0863",
          "owner_type" : "市立",
-         "short_name" : "須玖小学校"
+         "short_name" : "須玖小学校",
+         "sort_name" : "かすかしりつすく",
+         "url" : "http://www.city.kasuga.fukuoka.jp/gakko/e_sugu/"
       },
       "朝倉市立三奈木小学校" : {
          "location_area" : "朝倉市",
@@ -2289,9 +2443,13 @@
          "short_name" : "三宅小学校"
       },
       "福岡市立三筑小学校" : {
+         "location" : "福岡県福岡市博多区三筑2丁目9番1号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "812-0887",
          "owner_type" : "市立",
-         "short_name" : "三筑小学校"
+         "short_name" : "三筑小学校",
+         "sort_name" : "ふくおかしりつさんちく",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elsantik/"
       },
       "福岡市立三苫小学校" : {
          "location_area" : "福岡市東区",
@@ -2304,9 +2462,13 @@
          "short_name" : "下山門小学校"
       },
       "福岡市立今宿小学校" : {
+         "location" : "福岡県福岡市西区今宿町137",
          "location_area" : "福岡市西区",
+         "location_zipcode" : "819-0164",
          "owner_type" : "市立",
-         "short_name" : "今宿小学校"
+         "short_name" : "今宿小学校",
+         "sort_name" : "ふくおかしりついましゆく",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elimajyu/"
       },
       "福岡市立今津小学校" : {
          "location_area" : "福岡市西区",
@@ -2314,9 +2476,13 @@
          "short_name" : "今津小学校"
       },
       "福岡市立住吉小学校" : {
+         "location" : "福岡県福岡市博多区住吉4丁目18番1号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "812-0018",
          "owner_type" : "市立",
-         "short_name" : "住吉小学校"
+         "short_name" : "住吉小学校",
+         "sort_name" : "ふくおかしりつすみよし",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elsumiys/"
       },
       "福岡市立元岡小学校" : {
          "location_area" : "福岡市西区",
@@ -2329,9 +2495,13 @@
          "short_name" : "入部小学校"
       },
       "福岡市立八田小学校" : {
+         "location" : "福岡県福岡市東区八田2丁目15番1号",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "813-0031",
          "owner_type" : "市立",
-         "short_name" : "八田小学校"
+         "short_name" : "八田小学校",
+         "sort_name" : "ふくおかしりつはつた",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elhatta/"
       },
       "福岡市立内浜小学校" : {
          "location_area" : "福岡市西区",
@@ -2344,9 +2514,13 @@
          "short_name" : "内野小学校"
       },
       "福岡市立別府小学校" : {
+         "location" : "福岡県福岡市城南区別府6丁目9番1号",
          "location_area" : "福岡市城南区",
+         "location_zipcode" : "814-0104",
          "owner_type" : "市立",
-         "short_name" : "別府小学校"
+         "short_name" : "別府小学校",
+         "sort_name" : "ふくおかしりつへふしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elbefu/"
       },
       "福岡市立勝馬小学校" : {
          "location_area" : "福岡市東区",
@@ -2359,9 +2533,12 @@
          "short_name" : "北崎小学校"
       },
       "福岡市立千代小学校" : {
+         "location" : "福岡県福岡市博多区東公園8番1号",
          "location_area" : "福岡市博多区",
          "owner_type" : "市立",
-         "short_name" : "千代小学校"
+         "short_name" : "千代小学校",
+         "sort_name" : "ふくおかしりつちよ",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eltiyo/"
       },
       "福岡市立千早小学校" : {
          "location_area" : "福岡市東区",
@@ -2384,9 +2561,13 @@
          "short_name" : "南片江小学校"
       },
       "福岡市立博多小学校" : {
+         "location" : "福岡県福岡市博多区奈良屋町1番38号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "812-0023",
          "owner_type" : "市立",
-         "short_name" : "博多小学校"
+         "short_name" : "博多小学校",
+         "sort_name" : "ふくおかしりつはかた",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elhakata/"
       },
       "福岡市立原北小学校" : {
          "location_area" : "福岡市早良区",
@@ -2404,9 +2585,13 @@
          "short_name" : "原西小学校"
       },
       "福岡市立吉塚小学校" : {
+         "location" : "福岡県福岡市博多区吉塚2丁目21番54号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "812-0041",
          "owner_type" : "市立",
-         "short_name" : "吉塚小学校"
+         "short_name" : "吉塚小学校",
+         "sort_name" : "ふくおかしりつよしつか",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elyosizu/"
       },
       "福岡市立名島小学校" : {
          "location_area" : "福岡市東区",
@@ -2419,9 +2604,12 @@
          "short_name" : "周船寺小学校"
       },
       "福岡市立和白小学校" : {
+         "location" : "福岡県福岡市東区塩浜1丁目6番1号",
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
-         "short_name" : "和白小学校"
+         "short_name" : "和白小学校",
+         "sort_name" : "ふくおかしりつわしろ",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elwajiro/"
       },
       "福岡市立和白東小学校" : {
          "location_area" : "福岡市東区",
@@ -2429,14 +2617,22 @@
          "short_name" : "和白東小学校"
       },
       "福岡市立四箇田小学校" : {
+         "location" : "福岡県福岡市早良区四箇田団地56番1号",
          "location_area" : "福岡市早良区",
+         "location_zipcode" : "811-0176",
          "owner_type" : "市立",
-         "short_name" : "四箇田小学校"
+         "short_name" : "四箇田小学校",
+         "sort_name" : "ふくおかしりつしかたしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elsikata/"
       },
       "福岡市立城南小学校" : {
+         "location" : "福岡県福岡市城南区茶山6丁目20番1号",
          "location_area" : "福岡市城南区",
+         "location_zipcode" : "814-0111",
          "owner_type" : "市立",
-         "short_name" : "城南小学校"
+         "short_name" : "城南小学校",
+         "sort_name" : "ふくおかしりつしようなんしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eljyouna/"
       },
       "福岡市立城原小学校" : {
          "location_area" : "福岡市西区",
@@ -2449,9 +2645,13 @@
          "short_name" : "城浜小学校"
       },
       "福岡市立堅粕小学校" : {
+         "location" : "福岡県福岡市博多区博多駅東1丁目8番1号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "812-0013",
          "owner_type" : "市立",
-         "short_name" : "堅粕小学校"
+         "short_name" : "堅粕小学校",
+         "sort_name" : "ふくおかしりつかたかす",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elkataka/"
       },
       "福岡市立堤丘小学校" : {
          "location_area" : "福岡市城南区",
@@ -2484,19 +2684,31 @@
          "short_name" : "壱岐東小学校"
       },
       "福岡市立多々良小学校" : {
+         "location" : "福岡県福岡市東区多々良1-56-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "813-0033",
          "owner_type" : "市立",
-         "short_name" : "多々良小学校"
+         "short_name" : "多々良小学校",
+         "sort_name" : "ふくおかしりつたたら",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eltatara/"
       },
       "福岡市立大原小学校" : {
+         "location" : "福岡県福岡市早良区原3丁目8番10号",
          "location_area" : "福岡市早良区",
+         "location_zipcode" : "814-0022",
          "owner_type" : "市立",
-         "short_name" : "大原小学校"
+         "short_name" : "大原小学校",
+         "sort_name" : "ふくおかしりつおおはらしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eloohara/"
       },
       "福岡市立大名小学校" : {
+         "location" : "福岡県福岡市中央区大名2丁目6番11号",
          "location_area" : "福岡市中央区",
+         "location_zipcode" : "810-0041",
          "owner_type" : "市立",
-         "short_name" : "大名小学校"
+         "short_name" : "大名小学校",
+         "sort_name" : "ふくおかしりつたいみようしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eldaimyo/"
       },
       "福岡市立大楠小学校" : {
          "location_area" : "福岡市南区",
@@ -2559,19 +2771,30 @@
          "short_name" : "平尾小学校"
       },
       "福岡市立弥永小学校" : {
+         "location" : "福岡県福岡市南区弥永4-2-1",
          "location_area" : "福岡市南区",
+         "location_zipcode" : "818-1323",
          "owner_type" : "市立",
-         "short_name" : "弥永小学校"
+         "short_name" : "弥永小学校",
+         "sort_name" : "ふくおかしりつやなか",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elyanaga/"
       },
       "福岡市立弥永西小学校" : {
+         "location" : "福岡県福岡市南区弥永2丁目10番1号",
          "location_area" : "福岡市南区",
          "owner_type" : "市立",
-         "short_name" : "弥永西小学校"
+         "short_name" : "弥永西小学校",
+         "sort_name" : "ふくおかしりつやなかにし",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elyanagn/"
       },
       "福岡市立弥生小学校" : {
+         "location" : "福岡県福岡市博多区那珂4丁目9番1号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "816-0093",
          "owner_type" : "市立",
-         "short_name" : "弥生小学校"
+         "short_name" : "弥生小学校",
+         "sort_name" : "ふくおかしりつやよい",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elyayoi/"
       },
       "福岡市立当仁小学校" : {
          "location_area" : "福岡市中央区",
@@ -2604,9 +2827,13 @@
          "short_name" : "春住小学校"
       },
       "福岡市立春吉小学校" : {
+         "location" : "福岡県福岡市中央区春吉1丁目17番38号",
          "location_area" : "福岡市中央区",
+         "location_zipcode" : "810-0003",
          "owner_type" : "市立",
-         "short_name" : "春吉小学校"
+         "short_name" : "春吉小学校",
+         "sort_name" : "ふくおかしりつはるよししようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elharuyo/"
       },
       "福岡市立曰佐小学校" : {
          "location_area" : "福岡市南区",
@@ -2654,9 +2881,13 @@
          "short_name" : "東月隈小学校"
       },
       "福岡市立東箱崎小学校" : {
+         "location" : "福岡県福岡市東区箱崎5丁目11-20",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "812-0053",
          "owner_type" : "市立",
-         "short_name" : "東箱崎小学校"
+         "short_name" : "東箱崎小学校",
+         "sort_name" : "ふくおかしりつひかしはこさき",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elhhakoz/"
       },
       "福岡市立東花畑小学校" : {
          "location_area" : "福岡市南区",
@@ -2719,19 +2950,31 @@
          "short_name" : "玉川小学校"
       },
       "福岡市立田島小学校" : {
+         "location" : "福岡県福岡市城南区田島3丁目20番1号",
          "location_area" : "福岡市城南区",
+         "location_zipcode" : "814-0113",
          "owner_type" : "市立",
-         "short_name" : "田島小学校"
+         "short_name" : "田島小学校",
+         "sort_name" : "ふくおかしりつたしましようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eltasima/"
       },
       "福岡市立田村小学校" : {
+         "location" : "福岡県福岡市早良区田村3丁目32番1号",
          "location_area" : "福岡市早良区",
+         "location_zipcode" : "814-0175",
          "owner_type" : "市立",
-         "short_name" : "田村小学校"
+         "short_name" : "田村小学校",
+         "sort_name" : "ふくおかしりつたむらしようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eltamura/"
       },
       "福岡市立田隈小学校" : {
+         "location" : "福岡県福岡市早良区田隈2丁目7番1号",
          "location_area" : "福岡市早良区",
+         "location_zipcode" : "814-0174",
          "owner_type" : "市立",
-         "short_name" : "田隈小学校"
+         "short_name" : "田隈小学校",
+         "sort_name" : "ふくおかしりつたくましようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/eltaguma/"
       },
       "福岡市立百道小学校" : {
          "location_area" : "福岡市早良区",
@@ -2769,14 +3012,22 @@
          "short_name" : "筑紫丘小学校"
       },
       "福岡市立筥松小学校" : {
+         "location" : "福岡県福岡市東区郷口町16-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "812-0069",
          "owner_type" : "市立",
-         "short_name" : "筥松小学校"
+         "short_name" : "筥松小学校",
+         "sort_name" : "ふくおかしりつはこまつ",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elhakoma/"
       },
       "福岡市立箱崎小学校" : {
+         "location" : "福岡県福岡市東区箱崎2-2-45",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "812-0053",
          "owner_type" : "市立",
-         "short_name" : "箱崎小学校"
+         "short_name" : "箱崎小学校",
+         "sort_name" : "ふくおかしりつはこさき",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elhakoza/"
       },
       "福岡市立簀子小学校" : {
          "location_area" : "福岡市中央区",
@@ -2794,29 +3045,47 @@
          "short_name" : "美野島小学校"
       },
       "福岡市立老司小学校" : {
+         "location" : "福岡県福岡市南区老司3-2-1",
          "location_area" : "福岡市南区",
+         "location_zipcode" : "811-1346",
          "owner_type" : "市立",
-         "short_name" : "老司小学校"
+         "short_name" : "老司小学校",
+         "sort_name" : "ふくおかしりつろうし",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elrouji/framepage5.htm"
       },
       "福岡市立能古小学校" : {
+         "location" : "福岡県福岡市西区能古357番地",
          "location_area" : "福岡市西区",
+         "location_zipcode" : "819-0012",
          "owner_type" : "市立",
-         "short_name" : "能古小学校"
+         "short_name" : "能古小学校",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elnoko/"
       },
       "福岡市立脇山小学校" : {
+         "location" : "福岡県福岡市早良区脇山2558番",
          "location_area" : "福岡市早良区",
          "owner_type" : "市立",
-         "short_name" : "脇山小学校"
+         "short_name" : "脇山小学校",
+         "sort_name" : "ふくおかしりつわきやま",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elwakiya/"
       },
       "福岡市立舞松原小学校" : {
+         "location" : "福岡県福岡市東区舞松原5丁目19-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "812-0069",
          "owner_type" : "市立",
-         "short_name" : "舞松原小学校"
+         "short_name" : "舞松原小学校",
+         "sort_name" : "ふくおかしりつまいまつはら",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elmaimat/"
       },
       "福岡市立舞鶴小学校" : {
+         "location" : "福岡県福岡市中央区舞鶴2丁目6番6号",
          "location_area" : "福岡市中央区",
+         "location_zipcode" : "810-0073",
          "owner_type" : "市立",
-         "short_name" : "舞鶴小学校"
+         "short_name" : "舞鶴小学校",
+         "sort_name" : "ふくおかしりつまいつる",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elmaizur/index.htm"
       },
       "福岡市立花畑小学校" : {
          "location_area" : "福岡市南区",
@@ -2829,9 +3098,13 @@
          "short_name" : "若久小学校"
       },
       "福岡市立若宮小学校" : {
+         "location" : "福岡県福岡市東区若宮3丁目12-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "813-0036",
          "owner_type" : "市立",
-         "short_name" : "若宮小学校"
+         "short_name" : "若宮小学校",
+         "sort_name" : "ふくおかしりつわかみや",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elwakami/"
       },
       "福岡市立草ヶ江小学校" : {
          "location_area" : "福岡市中央区",
@@ -2884,14 +3157,19 @@
          "short_name" : "赤坂小学校"
       },
       "福岡市立那珂南小学校" : {
+         "location" : "福岡県福岡市博多区元町3丁目1番1号",
          "location_area" : "福岡市博多区",
+         "location_zipcode" : "816-0077",
          "owner_type" : "市立",
-         "short_name" : "那珂南小学校"
+         "short_name" : "那珂南小学校",
+         "sort_name" : "ふくおかしりつなかみなみ",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elnakami/"
       },
       "福岡市立那珂小学校" : {
          "location_area" : "福岡市博多区",
          "owner_type" : "市立",
-         "short_name" : "那珂小学校"
+         "short_name" : "那珂小学校",
+         "sort_name" : "ふくおかしりつなかしようかつこう"
       },
       "福岡市立野多目小学校" : {
          "location_area" : "福岡市南区",
@@ -2904,9 +3182,13 @@
          "short_name" : "野芥小学校"
       },
       "福岡市立金山小学校" : {
+         "location" : "福岡県福岡市城南区松山1丁目20番56号",
          "location_area" : "福岡市城南区",
+         "location_zipcode" : "814-0131",
          "owner_type" : "市立",
-         "short_name" : "金山小学校"
+         "short_name" : "金山小学校",
+         "sort_name" : "ふくおかしりつかなやましようかつこう",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elkanaya/"
       },
       "福岡市立金武小学校" : {
          "location_area" : "福岡市西区",
@@ -2919,9 +3201,13 @@
          "short_name" : "長丘小学校"
       },
       "福岡市立長住小学校" : {
+         "location" : "福岡県福岡市南区長住4丁目5-39",
          "location_area" : "福岡市南区",
+         "location_zipcode" : "811-1362",
          "owner_type" : "市立",
-         "short_name" : "長住小学校"
+         "short_name" : "長住小学校",
+         "sort_name" : "ふくおかしりつなかすみ",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elnagazm"
       },
       "福岡市立長尾小学校" : {
          "location_area" : "福岡市城南区",
@@ -2929,9 +3215,13 @@
          "short_name" : "長尾小学校"
       },
       "福岡市立青葉小学校" : {
+         "location" : "福岡県福岡市東区青葉3丁目9-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "813-0025",
          "owner_type" : "市立",
-         "short_name" : "青葉小学校"
+         "short_name" : "青葉小学校",
+         "sort_name" : "ふくおかしりつあおは",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elaoba/"
       },
       "福岡市立飯倉中央小学校" : {
          "location_area" : "福岡市早良区",
@@ -2959,14 +3249,21 @@
          "short_name" : "香椎下原小学校"
       },
       "福岡市立香椎小学校" : {
+         "location" : "福岡県福岡市東区香椎駅前3-2-1",
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
-         "short_name" : "香椎小学校"
+         "short_name" : "香椎小学校",
+         "sort_name" : "ふくおかしりつかしい",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elkasii"
       },
       "福岡市立香椎東小学校" : {
+         "location" : "福岡県福岡市東区香椎台1-9-1",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "813-0014",
          "owner_type" : "市立",
-         "short_name" : "香椎東小学校"
+         "short_name" : "香椎東小学校",
+         "sort_name" : "ふくおかしりつかしいひかし",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elkasiih/"
       },
       "福岡市立香椎浜小学校" : {
          "location_area" : "福岡市東区",
@@ -2979,9 +3276,13 @@
          "short_name" : "香陵小学校"
       },
       "福岡市立馬出小学校" : {
+         "location" : "福岡県福岡市東区馬出1-12-27",
          "location_area" : "福岡市東区",
+         "location_zipcode" : "812-0054",
          "owner_type" : "市立",
-         "short_name" : "馬出小学校"
+         "short_name" : "馬出小学校",
+         "sort_name" : "ふくおかしりつまいたし",
+         "url" : "http://www.fuku-c.ed.jp/schoolhp/elmaidas/"
       },
       "福岡市立高取小学校" : {
          "location_area" : "福岡市早良区",
@@ -3009,19 +3310,35 @@
          "short_name" : "鶴田小学校"
       },
       "福岡教育大学附属久留米小学校" : {
-         "owner_type" : "国立"
+         "location" : "福岡県久留米市南1-3-1",
+         "location_zipcode" : "830-0051",
+         "owner_type" : "国立",
+         "sort_name" : "ふくおかきよういくたいかくふそくくるめしよう",
+         "url" : "http://www.fukuoka-edu.ac.jp/~kurumes/"
       },
       "福岡教育大学附属小倉小学校" : {
-         "owner_type" : "国立"
+         "location" : "福岡県北九州市小倉北区下富野3-13-1",
+         "location_zipcode" : "802-0023",
+         "owner_type" : "国立",
+         "sort_name" : "ふくおかきよういくたいかくふそくこくらしよう",
+         "url" : "http://www.fukuoka-edu.ac.jp/~kokuras/kokuras.html"
       },
       "福岡教育大学附属福岡小学校" : {
-         "owner_type" : "国立"
+         "location" : "福岡県福岡市中央区西公園12-1",
+         "location_zipcode" : "810-0061",
+         "owner_type" : "国立",
+         "sort_name" : "ふくおかきよういくたいかくふそくふくおかしよう",
+         "url" : "http://www.fukuoka-edu.ac.jp/~fukuokas/WELCOME.htm"
       },
       "福岡海星女子学院附属小学校" : {
          "owner_type" : "私立"
       },
       "福岡雙葉小学校" : {
-         "owner_type" : "私立"
+         "location" : "福岡県福岡市中央区御所ヶ谷7番1号",
+         "location_zipcode" : "810-0027",
+         "owner_type" : "私立",
+         "sort_name" : "ふくおかふたはしよう",
+         "url" : "http://www.fukuokafutaba.ed.jp/"
       },
       "福智町立上野小学校" : {
          "location_area" : "田川郡福智町",
@@ -3104,9 +3421,13 @@
          "short_name" : "東小田小学校"
       },
       "筑後市立下妻小学校" : {
+         "location" : "福岡県筑後市大字下妻1317",
          "location_area" : "筑後市",
+         "location_zipcode" : "833-0021",
          "owner_type" : "市立",
-         "short_name" : "下妻小学校"
+         "short_name" : "下妻小学校",
+         "sort_name" : "ちくこしりつしもつま",
+         "url" : "http://www2.ktarn.or.jp/~simotuma/"
       },
       "筑後市立二川小学校" : {
          "location_area" : "筑後市",
@@ -3164,59 +3485,98 @@
          "short_name" : "西牟田小学校"
       },
       "筑紫野市立二日市北小学校" : {
+         "location" : "福岡県筑紫野市二日市北8-2-1",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0056",
          "owner_type" : "市立",
-         "short_name" : "二日市北小学校"
+         "short_name" : "二日市北小学校",
+         "sort_name" : "ちくしのしりつふつかいちきた",
+         "url" : "http://www17.ocn.ne.jp/~kitasho/"
       },
       "筑紫野市立二日市小学校" : {
+         "location" : "福岡県筑紫野市大字二日市777番地",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0051",
          "owner_type" : "市立",
-         "short_name" : "二日市小学校"
+         "short_name" : "二日市小学校",
+         "sort_name" : "ちくしのしりつふつかいち"
       },
       "筑紫野市立二日市東小学校" : {
+         "location" : "福岡県筑紫野市紫7丁目4番1号",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0061",
          "owner_type" : "市立",
-         "short_name" : "二日市東小学校"
+         "short_name" : "二日市東小学校",
+         "sort_name" : "ちくしのしりつふつかいちひかし",
+         "url" : "http://www1.ocn.ne.jp/~nihigasi/"
       },
       "筑紫野市立原田小学校" : {
+         "location" : "福岡県筑紫野市美しが丘南2丁目10番5号",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0034",
          "owner_type" : "市立",
-         "short_name" : "原田小学校"
+         "short_name" : "原田小学校",
+         "sort_name" : "ちくしのしりつはるたしよう",
+         "url" : "http://www.geocities.jp/harudasyougakkou/"
       },
       "筑紫野市立吉木小学校" : {
+         "location" : "福岡県筑紫野市大字吉木2526番地-2",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0004",
          "owner_type" : "市立",
-         "short_name" : "吉木小学校"
+         "short_name" : "吉木小学校",
+         "sort_name" : "ちくしのしりつよしき",
+         "url" : "http://www.edu.fit.ac.jp/~yoshikie/index.htm/"
       },
       "筑紫野市立天拝小学校" : {
+         "location" : "福岡県筑紫野市天拝坂6丁目1番地1",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0053",
          "owner_type" : "市立",
-         "short_name" : "天拝小学校"
+         "short_name" : "天拝小学校",
+         "sort_name" : "ちくしのしりつてんはい",
+         "url" : "http://www16.ocn.ne.jp/~tenpai/index.htm"
       },
       "筑紫野市立山口小学校" : {
+         "location" : "福岡県筑紫野市大字萩原850-1",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0044",
          "owner_type" : "市立",
-         "short_name" : "山口小学校"
+         "short_name" : "山口小学校",
+         "sort_name" : "ちくしのしりつやまくち"
       },
       "筑紫野市立山家小学校" : {
+         "location" : "福岡県筑紫野市大字山家4341",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0003",
          "owner_type" : "市立",
-         "short_name" : "山家小学校"
+         "short_name" : "山家小学校",
+         "sort_name" : "ちくしのしりつやまえ"
       },
       "筑紫野市立筑紫小学校" : {
+         "location" : "福岡県筑紫野市筑紫508",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0025",
          "owner_type" : "市立",
-         "short_name" : "筑紫小学校"
+         "short_name" : "筑紫小学校",
+         "sort_name" : "ちくしのしりつちくし",
+         "url" : "http://www.edu.fit.ac.jp/~chikusie/"
       },
       "筑紫野市立筑紫東小学校" : {
+         "location" : "福岡県筑紫野市光が丘2丁目3-1",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0036",
          "owner_type" : "市立",
-         "short_name" : "筑紫東小学校"
+         "short_name" : "筑紫東小学校",
+         "sort_name" : "ちくしのしりつちくしひかし"
       },
       "筑紫野市立阿志岐小学校" : {
+         "location" : "福岡県筑紫野市阿志岐2350",
          "location_area" : "筑紫野市",
+         "location_zipcode" : "818-0011",
          "owner_type" : "市立",
-         "short_name" : "阿志岐小学校"
+         "short_name" : "阿志岐小学校",
+         "sort_name" : "ちくしのしりつあしき"
       },
       "築上町立上城井小学校" : {
          "location_area" : "築上郡築上町",
@@ -3304,9 +3664,12 @@
          "short_name" : "一貴山小学校"
       },
       "糸島市立前原南小学校" : {
+         "location" : "福岡県糸島市前原南1丁目17番1号",
          "location_area" : "糸島市",
+         "location_zipcode" : "819-1139",
          "owner_type" : "市立",
-         "short_name" : "前原南小学校"
+         "short_name" : "前原南小学校",
+         "sort_name" : "いとしましりつまえはるみなみしようかつこう"
       },
       "糸島市立前原小学校" : {
          "location_area" : "糸島市",
@@ -3399,9 +3762,12 @@
          "short_name" : "山鹿小学校"
       },
       "芦屋町立芦屋小学校" : {
+         "location" : "福岡県遠賀郡芦屋町白浜町3786",
          "location_area" : "遠賀郡芦屋町",
+         "location_zipcode" : "807",
          "owner_type" : "町立",
-         "short_name" : "芦屋小学校"
+         "short_name" : "芦屋小学校",
+         "sort_name" : "あしやちようりつあしやしよう"
       },
       "芦屋町立芦屋東小学校" : {
          "location_area" : "遠賀郡芦屋町",
@@ -3577,9 +3943,12 @@
          "short_name" : "南畑小学校"
       },
       "那珂川町立安徳北小学校" : {
+         "location" : "福岡県筑紫郡那珂川町五郎丸1丁目11番地",
          "location_area" : "筑紫郡那珂川町",
+         "location_zipcode" : "811-1252",
          "owner_type" : "町立",
-         "short_name" : "安徳北小学校"
+         "short_name" : "安徳北小学校",
+         "sort_name" : "なかかわちようりつあんとくきた"
       },
       "那珂川町立安徳南小学校" : {
          "location_area" : "筑紫郡那珂川町",
@@ -3587,24 +3956,36 @@
          "short_name" : "安徳南小学校"
       },
       "那珂川町立安徳小学校" : {
+         "location" : "福岡県筑紫郡那珂川町松木2-134",
          "location_area" : "筑紫郡那珂川町",
+         "location_zipcode" : "811-1251",
          "owner_type" : "町立",
-         "short_name" : "安徳小学校"
+         "short_name" : "安徳小学校",
+         "sort_name" : "なかかわちようりつあんとく"
       },
       "那珂川町立岩戸北小学校" : {
+         "location" : "福岡県筑紫郡那珂川町恵子1丁目1番1号",
          "location_area" : "筑紫郡那珂川町",
+         "location_zipcode" : "811-1255",
          "owner_type" : "町立",
-         "short_name" : "岩戸北小学校"
+         "short_name" : "岩戸北小学校",
+         "sort_name" : "なかかわちようりついわときた"
       },
       "那珂川町立岩戸小学校" : {
+         "location" : "福岡県筑紫郡那珂川町大字西隈155番1号",
          "location_area" : "筑紫郡那珂川町",
+         "location_zipcode" : "811-1242",
          "owner_type" : "町立",
-         "short_name" : "岩戸小学校"
+         "short_name" : "岩戸小学校",
+         "sort_name" : "なかかわちようりついわと"
       },
       "那珂川町立片縄小学校" : {
+         "location" : "福岡県筑紫郡那珂川町大字片縄北1丁目15番1号",
          "location_area" : "筑紫郡那珂川町",
+         "location_zipcode" : "811-1201",
          "owner_type" : "町立",
-         "short_name" : "片縄小学校"
+         "short_name" : "片縄小学校",
+         "sort_name" : "なかかわちようりつかたなわ"
       },
       "鞍手町立剣北小学校" : {
          "location_area" : "鞍手郡鞍手町",
@@ -3662,9 +4043,12 @@
          "short_name" : "伊岐須小学校"
       },
       "飯塚市立八木山小学校" : {
+         "location" : "福岡県飯塚市八木山693-1",
          "location_area" : "飯塚市",
          "owner_type" : "市立",
-         "short_name" : "八木山小学校"
+         "short_name" : "八木山小学校",
+         "sort_name" : "いいつかしりつやきやましようかつこう",
+         "url" : "http://www.city-iizuka.ed.jp/index.cfm/8,0,21,html"
       },
       "飯塚市立内野小学校" : {
          "location_area" : "飯塚市",
@@ -3707,9 +4091,13 @@
          "short_name" : "潤野小学校"
       },
       "飯塚市立片島小学校" : {
+         "location" : "福岡県飯塚市片島3丁目8-5",
          "location_area" : "飯塚市",
+         "location_wikipedia_latlon" : "|33|38|53|N|130|40|52|E|",
+         "location_zipcode" : "820-0068",
          "owner_type" : "市立",
-         "short_name" : "片島小学校"
+         "short_name" : "片島小学校",
+         "sort_name" : "いいつかしりつかたしましようかつこう"
       },
       "飯塚市立目尾小学校" : {
          "location_area" : "飯塚市",

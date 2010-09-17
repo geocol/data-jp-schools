@@ -112,9 +112,13 @@
          "short_name" : "神科小学校"
       },
       "上田市立菅平小学校" : {
+         "location" : "長野県上田市菅平高原1223-1419",
          "location_area" : "上田市",
+         "location_zipcode" : "386-2204",
          "owner_type" : "市立",
          "short_name" : "菅平小学校",
+         "sort_name" : "うえたしりつすかたいら",
+         "url" : "http://www.school.umic.jp/sugadaira/",
          "wikipedia_name" : "上田市立菅平小中学校"
       },
       "上田市立西内小学校" : {
@@ -143,9 +147,12 @@
          "short_name" : "下條小学校"
       },
       "下諏訪町立下諏訪北小学校" : {
+         "location" : "長野県諏訪郡下諏訪町東山田社7267",
          "location_area" : "諏訪郡下諏訪町",
+         "location_zipcode" : "393",
          "owner_type" : "町立",
-         "short_name" : "下諏訪北小学校"
+         "short_name" : "下諏訪北小学校",
+         "url" : "http://www.lcv.ne.jp/~skitas/simosuwakita-e-home.htm"
       },
       "下諏訪町立下諏訪南小学校" : {
          "location_area" : "諏訪郡下諏訪町",
@@ -278,9 +285,12 @@
          "short_name" : "高遠小学校"
       },
       "佐久市立中佐都小学校" : {
+         "location" : "長野県佐久市塚原808番地",
          "location_area" : "佐久市",
+         "location_zipcode" : "385-0022",
          "owner_type" : "市立",
-         "short_name" : "中佐都小学校"
+         "short_name" : "中佐都小学校",
+         "url" : "http://www.city.saku.nagano.jp/schools/nakasato-el/"
       },
       "佐久市立中込小学校" : {
          "location_area" : "佐久市",
@@ -393,10 +403,19 @@
          "short_name" : "八千穂小学校"
       },
       "信州大学教育学部附属松本小学校" : {
-         "owner_type" : "国立"
+         "location" : "長野県松本市桐一丁目3番1号",
+         "location_zipcode" : "381-0016",
+         "owner_type" : "国立",
+         "sort_name" : "しんしゆうたいかくきよういくかくふふそくまつもとしよう",
+         "url" : "http://cert.shinshu-u.ac.jp/sch/sho/fmatusho/fmatusho.htm"
       },
       "信州大学教育学部附属長野小学校" : {
-         "owner_type" : "国立"
+         "location" : "長野県長野市大字南堀77-1",
+         "location_wikipedia_latlon" : "|36|39|47|N|138|14|56|E|",
+         "location_zipcode" : "381-0016",
+         "owner_type" : "国立",
+         "sort_name" : "しんしゆうたいかくきよういくかくふふそくなかのしよう",
+         "url" : "http://cert.shinshu-u.ac.jp/sch/sho/fnagano/"
       },
       "信濃町立古海小学校" : {
          "location_area" : "上水内郡信濃町",
@@ -629,9 +648,13 @@
          "short_name" : "天龍小学校"
       },
       "安曇野市立三郷小学校" : {
+         "location" : "長野県安曇野市三郷明盛4742",
          "location_area" : "安曇野市",
+         "location_zipcode" : "399-8101",
          "owner_type" : "市立",
-         "short_name" : "三郷小学校"
+         "short_name" : "三郷小学校",
+         "sort_name" : "あつみのしりつみさとしようかつこう",
+         "url" : "http://www.city.azumino.ed.jp/misato_ele/index.html"
       },
       "安曇野市立堀金小学校" : {
          "location_area" : "安曇野市",
@@ -709,9 +732,14 @@
          "short_name" : "小川小学校"
       },
       "小布施町立栗ガ丘小学校" : {
+         "location" : "長野県上高井郡小布施町小布施1447-1",
          "location_area" : "上高井郡小布施町",
+         "location_wikipedia_latlon" : "|36|41|39|N|138|19|03|E|",
+         "location_zipcode" : "381-0201",
          "owner_type" : "町立",
-         "short_name" : "栗ガ丘小学校"
+         "short_name" : "栗ガ丘小学校",
+         "sort_name" : "おふせちようりつくりかおかしようかつこう",
+         "url" : "http://www.kurigaoka.ed.jp/"
       },
       "小海町立北牧小学校" : {
          "location_area" : "南佐久郡小海町",
@@ -756,12 +784,14 @@
       "小谷村立小谷小学校" : {
          "location_area" : "北安曇郡小谷村",
          "owner_type" : "村立",
-         "short_name" : "小谷小学校"
+         "short_name" : "小谷小学校",
+         "sort_name" : "おたりそんりつおたり"
       },
       "山ノ内町立北小学校" : {
          "location_area" : "下高井郡山ノ内町",
          "owner_type" : "町立",
-         "short_name" : "北小学校"
+         "short_name" : "北小学校",
+         "sort_name" : "やまのうちきたしようかつこう"
       },
       "山ノ内町立南小学校" : {
          "location_area" : "下高井郡山ノ内町",
@@ -849,7 +879,11 @@
          "short_name" : "御代田南小学校"
       },
       "才教学園小学校" : {
+         "location" : "長野県松本市村井町北二丁目14番47号",
+         "location_zipcode" : "399-0035",
          "owner_type" : "私立",
+         "sort_name" : "さいきようかくえん",
+         "url" : "http://www.saikyo-gakuen.ac.jp/",
          "wikipedia_name" : "才教学園小学校・中学校"
       },
       "朝日村立朝日小学校" : {
@@ -893,29 +927,50 @@
          "short_name" : "木祖小学校"
       },
       "東御市立北御牧小学校" : {
+         "location" : "長野県東御市大日向623",
          "location_area" : "東御市",
+         "location_zipcode" : "389-0404",
          "owner_type" : "市立",
-         "short_name" : "北御牧小学校"
+         "short_name" : "北御牧小学校",
+         "sort_name" : "とうみしりつきたみまき",
+         "url" : "http://www.city.tomi.nagano.jp/manabu/school/shisetsu_ele_kitamimaki.html"
       },
       "東御市立和小学校" : {
+         "location" : "長野県東御市海善寺1244番地1",
          "location_area" : "東御市",
+         "location_wikipedia_latlon" : "|36|22|46.63|N|138|19|26.35|E||",
+         "location_zipcode" : "389-0504",
          "owner_type" : "市立",
-         "short_name" : "和小学校"
+         "short_name" : "和小学校",
+         "sort_name" : "とうみしりつかのう",
+         "url" : "http://www.city.tomi.nagano.jp/manabu/school/shisetsu_ele_kanou.html"
       },
       "東御市立滋野小学校" : {
+         "location" : "長野県東御市滋野乙2966番地3",
          "location_area" : "東御市",
+         "location_zipcode" : "389-0512",
          "owner_type" : "市立",
-         "short_name" : "滋野小学校"
+         "short_name" : "滋野小学校",
+         "sort_name" : "とうみしりつしけの",
+         "url" : "http://www.city.tomi.nagano.jp/manabu/school/shisetsu_ele_shigeno.html"
       },
       "東御市立田中小学校" : {
+         "location" : "長野県東御市県71番地2",
          "location_area" : "東御市",
+         "location_zipcode" : "389-0517",
          "owner_type" : "市立",
-         "short_name" : "田中小学校"
+         "short_name" : "田中小学校",
+         "sort_name" : "とうみしりつたなか",
+         "url" : "http://www.city.tomi.nagano.jp/manabu/school/shisetsu_ele_tanaka.html"
       },
       "東御市立祢津小学校" : {
+         "location" : "長野県東御市祢津1009番地",
          "location_area" : "東御市",
+         "location_zipcode" : "389-0506",
          "owner_type" : "市立",
-         "short_name" : "祢津小学校"
+         "short_name" : "祢津小学校",
+         "sort_name" : "とうみしりつねつ",
+         "url" : "http://www.city.tomi.nagano.jp/manabu/school/shisetsu_ele_netsu.html"
       },
       "松川村立松川小学校" : {
          "location_area" : "北安曇郡松川村",
@@ -988,9 +1043,12 @@
          "short_name" : "安曇小学校"
       },
       "松本市立寿小学校" : {
+         "location" : "長野県松本市寿豊丘1004",
          "location_area" : "松本市",
+         "location_zipcode" : "399-0021",
          "owner_type" : "市立",
-         "short_name" : "寿小学校"
+         "short_name" : "寿小学校",
+         "url" : "http://www.localinfo.nagano-idc.com/kita/school/kotobuki/"
       },
       "松本市立山辺小学校" : {
          "location_area" : "松本市",
@@ -1033,9 +1091,12 @@
          "short_name" : "梓川小学校"
       },
       "松本市立波田小学校" : {
+         "location" : "長野県松本市波田10286-1",
          "location_area" : "松本市",
+         "location_zipcode" : "390-1401",
          "owner_type" : "市立",
-         "short_name" : "波田小学校"
+         "short_name" : "波田小学校",
+         "url" : "http://www.town.hata.nagano.jp/hata-el/"
       },
       "松本市立清水小学校" : {
          "location_area" : "松本市",
@@ -1088,9 +1149,12 @@
          "short_name" : "開明小学校"
       },
       "松本市立開智小学校" : {
+         "location" : "長野県松本市開智2-4-51",
          "location_area" : "松本市",
+         "location_zipcode" : "390-0876",
          "owner_type" : "市立",
-         "short_name" : "開智小学校"
+         "short_name" : "開智小学校",
+         "url" : "http://www.city.matsumoto.nagano.jp/kurasi/kodomo/gimukyoiku/elementary_school/e_kaichi/top/index.htm"
       },
       "栄村立北信小学校" : {
          "location_area" : "下水内郡栄村",
@@ -1232,9 +1296,13 @@
          "short_name" : "米沢小学校"
       },
       "茅野市立豊平小学校" : {
+         "location" : "長野県茅野市豊平南大塩2340番地",
          "location_area" : "茅野市",
+         "location_zipcode" : "391-0213",
          "owner_type" : "市立",
-         "short_name" : "豊平小学校"
+         "short_name" : "豊平小学校",
+         "sort_name" : "ちのしりつとよひらしようかつこう",
+         "url" : "なし"
       },
       "茅野市立金沢小学校" : {
          "location_area" : "茅野市",
@@ -1403,7 +1471,8 @@
       "長野市立南部小学校" : {
          "location_area" : "長野市",
          "owner_type" : "市立",
-         "short_name" : "南部小学校"
+         "short_name" : "南部小学校",
+         "sort_name" : "なかのしりつなんふしようかつこう"
       },
       "長野市立古牧小学校" : {
          "location_area" : "長野市",
@@ -1471,9 +1540,13 @@
          "short_name" : "川田小学校"
       },
       "長野市立後町小学校" : {
+         "location" : "長野県長野市西後町603",
          "location_area" : "長野市",
+         "location_zipcode" : "380-0837",
          "owner_type" : "市立",
-         "short_name" : "後町小学校"
+         "short_name" : "後町小学校",
+         "sort_name" : "なかのしりつこちようしようかつこう",
+         "url" : "http://www.nagano-ngn.ed.jp/gochojs/"
       },
       "長野市立徳間小学校" : {
          "location_area" : "長野市",
@@ -1556,9 +1629,13 @@
          "short_name" : "綿内小学校"
       },
       "長野市立緑ヶ丘小学校" : {
+         "location" : "長野県長野市高田2281",
          "location_area" : "長野市",
+         "location_zipcode" : "381-0034",
          "owner_type" : "市立",
-         "short_name" : "緑ヶ丘小学校"
+         "short_name" : "緑ヶ丘小学校",
+         "sort_name" : "なかのしりつみとりかおかしよう",
+         "url" : "http://www.nagano-ngn.ed.jp/midorijs/"
       },
       "長野市立芋井小学校" : {
          "location_area" : "長野市",

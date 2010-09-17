@@ -2,7 +2,8 @@
    "elementary_schools" : {
       "カリタス小学校" : {
          "location_area" : "川崎市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かりたすしよう"
       },
       "シュタイナー学園初等部" : {
          "location_area" : "相模原市",
@@ -423,9 +424,13 @@
          "short_name" : "旭小学校"
       },
       "小田原市立三の丸小学校" : {
+         "location" : "神奈川県小田原市本町1-12-49",
          "location_area" : "小田原市",
+         "location_zipcode" : "250-0012",
          "owner_type" : "市立",
-         "short_name" : "三の丸小学校"
+         "short_name" : "三の丸小学校",
+         "sort_name" : "おたわらしりつさんのまる",
+         "url" : "http://www.ed.city.odawara.kanagawa.jp/kids/shougaku/sannomaru/home/"
       },
       "小田原市立下中小学校" : {
          "location_area" : "小田原市",
@@ -433,9 +438,12 @@
          "short_name" : "下中小学校"
       },
       "小田原市立下府中小学校" : {
+         "location" : "神奈川県小田原市酒匂930",
          "location_area" : "小田原市",
+         "location_zipcode" : "256-0816",
          "owner_type" : "市立",
-         "short_name" : "下府中小学校"
+         "short_name" : "下府中小学校",
+         "url" : "http://www.ed.city.odawara.kanagawa.jp/kids/shougaku/simofu/index.html"
       },
       "小田原市立下曽我小学校" : {
          "location_area" : "小田原市",
@@ -468,9 +476,13 @@
          "short_name" : "大窪小学校"
       },
       "小田原市立富士見小学校" : {
+         "location" : "神奈川県小田原市南鴨宮3-25-1",
          "location_area" : "小田原市",
+         "location_zipcode" : "250-0875",
          "owner_type" : "市立",
-         "short_name" : "富士見小学校"
+         "short_name" : "富士見小学校",
+         "sort_name" : "おたわらしりつふしみ",
+         "url" : "http://www.ed.city.odawara.kanagawa.jp/kids/shougaku/fujimi/index.htm"
       },
       "小田原市立富水小学校" : {
          "location_area" : "小田原市",
@@ -488,9 +500,12 @@
          "short_name" : "新玉小学校"
       },
       "小田原市立早川小学校" : {
+         "location" : "神奈川県小田原市早川2-14-1",
          "location_area" : "小田原市",
+         "location_zipcode" : "250-0021",
          "owner_type" : "市立",
-         "short_name" : "早川小学校"
+         "short_name" : "早川小学校",
+         "url" : "http://www.ed.city.odawara.kanagawa.jp/kids/shougaku/hayakawa/HTML/"
       },
       "小田原市立曽我小学校" : {
          "location_area" : "小田原市",
@@ -588,9 +603,14 @@
          "short_name" : "上作延小学校"
       },
       "川崎市立下作延小学校" : {
+         "location" : "川崎市高津区下作延1114-2",
          "location_area" : "川崎市高津区",
+         "location_zipcode" : "213-0033",
          "owner_type" : "市立",
-         "short_name" : "下作延小学校"
+         "school_area" : "高津区下作延",
+         "short_name" : "下作延小学校",
+         "sort_name" : "かわさきしりつしもさくのへしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke206101/"
       },
       "川崎市立下小田中小学校" : {
          "location_area" : "川崎市中原区",
@@ -688,9 +708,13 @@
          "short_name" : "南生田小学校"
       },
       "川崎市立南百合丘小学校" : {
+         "location" : "川崎市麻生区王禅寺西1丁目26番1号",
          "location_area" : "川崎市麻生区",
+         "location_zipcode" : "215-0017",
          "owner_type" : "市立",
-         "short_name" : "南百合丘小学校"
+         "short_name" : "南百合丘小学校",
+         "sort_name" : "かわさきしりつみなみゆりかおかしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke210401/"
       },
       "川崎市立南野川小学校" : {
          "location_area" : "川崎市宮前区",
@@ -753,9 +777,13 @@
          "short_name" : "大戸小学校"
       },
       "川崎市立大谷戸小学校" : {
+         "location" : "神奈川県川崎市中原区上小田中一丁目27番1号",
          "location_area" : "川崎市中原区",
+         "location_zipcode" : "211-0053",
          "owner_type" : "市立",
-         "short_name" : "大谷戸小学校"
+         "short_name" : "大谷戸小学校",
+         "sort_name" : "かわさきしりつおおかやとしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke205301/"
       },
       "川崎市立子母口小学校" : {
          "location_area" : "川崎市高津区",
@@ -783,9 +811,13 @@
          "short_name" : "宮崎台小学校"
       },
       "川崎市立宮崎小学校" : {
+         "location" : "川崎市宮前区馬絹1795番地",
          "location_area" : "川崎市宮前区",
+         "location_zipcode" : "216-0035",
          "owner_type" : "市立",
-         "short_name" : "宮崎小学校"
+         "short_name" : "宮崎小学校",
+         "sort_name" : "かわさきしりつみやさきしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke207201/"
       },
       "川崎市立宿河原小学校" : {
          "location_area" : "川崎市多摩区",
@@ -793,9 +825,13 @@
          "short_name" : "宿河原小学校"
       },
       "川崎市立富士見台小学校" : {
+         "location" : "川崎市宮前区宮前平2丁目18番地3号",
          "location_area" : "川崎市宮前区",
+         "location_zipcode" : "216-0006",
          "owner_type" : "市立",
-         "short_name" : "富士見台小学校"
+         "short_name" : "富士見台小学校",
+         "sort_name" : "かわさきしりつふしみたいしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke207601/"
       },
       "川崎市立小倉小学校" : {
          "location_area" : "川崎市幸区",
@@ -830,7 +866,8 @@
       "川崎市立平間小学校" : {
          "location_area" : "川崎市中原区",
          "owner_type" : "市立",
-         "short_name" : "平間小学校"
+         "short_name" : "平間小学校",
+         "sort_name" : "かわさきしりつひらま"
       },
       "川崎市立幸町小学校" : {
          "location_area" : "川崎市幸区",
@@ -863,9 +900,13 @@
          "short_name" : "新町小学校"
       },
       "川崎市立日吉小学校" : {
+         "location" : "川崎市幸区北加瀬1丁目37番地1号",
          "location_area" : "川崎市幸区",
+         "location_zipcode" : "212-0057",
          "owner_type" : "市立",
-         "short_name" : "日吉小学校"
+         "short_name" : "日吉小学校",
+         "sort_name" : "かわさきしりつひよし",
+         "url" : "http://www.keins.city.kawasaki.jp/2/ke203201/index.htm"
       },
       "川崎市立旭町小学校" : {
          "location_area" : "川崎市川崎区",
@@ -893,9 +934,13 @@
          "short_name" : "東大島小学校"
       },
       "川崎市立東小倉小学校" : {
+         "location" : "神奈川県川崎市幸区小倉1番地1",
          "location_area" : "川崎市幸区",
+         "location_zipcode" : "212-0033",
          "owner_type" : "市立",
-         "short_name" : "東小倉小学校"
+         "short_name" : "東小倉小学校",
+         "sort_name" : "かわさきしりつひかしおくらしようかつこう",
+         "url" : "http://www.keins.city.kawasaki.jp/school/original/ke202901.html"
       },
       "川崎市立東小田小学校" : {
          "location_area" : "川崎市川崎区",
@@ -980,7 +1025,8 @@
       "川崎市立王禅寺中央小学校" : {
          "location_area" : "川崎市麻生区",
          "owner_type" : "市立",
-         "short_name" : "王禅寺中央小学校"
+         "short_name" : "王禅寺中央小学校",
+         "sort_name" : "おうせんしちゆうおうしようかつこう"
       },
       "川崎市立生田小学校" : {
          "location_area" : "川崎市多摩区",
@@ -1310,7 +1356,8 @@
       "座間市立相武台東小学校" : {
          "location_area" : "座間市",
          "owner_type" : "市立",
-         "short_name" : "相武台東小学校"
+         "short_name" : "相武台東小学校",
+         "sort_name" : "さましりつそうふたいひかし"
       },
       "座間市立立野台小学校" : {
          "location_area" : "座間市",
@@ -1380,15 +1427,18 @@
          "owner_type" : "私立"
       },
       "横浜国立大学教育人間科学部附属横浜小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "よこはまこくりつたいかくふそくよこはましよう"
       },
       "横浜国立大学教育人間科学部附属鎌倉小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "よこはまこくりつたいかくふそくかまくらしよう"
       },
       "横浜市立あざみ野第一小学校" : {
          "location_area" : "横浜市青葉区",
          "owner_type" : "市立",
-         "short_name" : "あざみ野第一小学校"
+         "short_name" : "あざみ野第一小学校",
+         "sort_name" : "よこはましりつあさみのたいいちしようかつこう"
       },
       "横浜市立あざみ野第二小学校" : {
          "location_area" : "横浜市青葉区",
@@ -1476,14 +1526,19 @@
          "short_name" : "万騎が原小学校"
       },
       "横浜市立三ツ境小学校" : {
+         "location" : "横浜市瀬谷区三ツ境157",
          "location_area" : "横浜市瀬谷区",
+         "location_zipcode" : "246-0022",
          "owner_type" : "市立",
-         "short_name" : "三ツ境小学校"
+         "short_name" : "三ツ境小学校",
+         "sort_name" : "よこはましりつみつきようしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/mitsukyo/"
       },
       "横浜市立三ツ沢小学校" : {
          "location_area" : "横浜市神奈川区",
          "owner_type" : "市立",
-         "short_name" : "三ツ沢小学校"
+         "short_name" : "三ツ沢小学校",
+         "sort_name" : "よこはましりつみつさわしようかつこう"
       },
       "横浜市立三保小学校" : {
          "location_area" : "横浜市緑区",
@@ -1556,9 +1611,13 @@
          "short_name" : "下永谷小学校"
       },
       "横浜市立下田小学校" : {
+         "location" : "神奈川県横浜市港北区下田町4-10-1",
          "location_area" : "横浜市港北区",
+         "location_zipcode" : "224-0034",
          "owner_type" : "市立",
-         "short_name" : "下田小学校"
+         "short_name" : "下田小学校",
+         "sort_name" : "よこはましりつしもたしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/shimoda/"
       },
       "横浜市立下郷小学校" : {
          "location_area" : "横浜市戸塚区",
@@ -1616,9 +1675,12 @@
          "short_name" : "中尾小学校"
       },
       "横浜市立中山小学校" : {
+         "location" : "神奈川県横浜市緑区中山町925",
          "location_area" : "横浜市緑区",
+         "location_zipcode" : "226-0011",
          "owner_type" : "市立",
-         "short_name" : "中山小学校"
+         "short_name" : "中山小学校",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/nakayama/menu.htm"
       },
       "横浜市立中川小学校" : {
          "location_area" : "横浜市都筑区",
@@ -1771,14 +1833,19 @@
          "short_name" : "別所小学校"
       },
       "横浜市立勝田小学校" : {
+         "location" : "神奈川県横浜市都筑区勝田町266番地",
          "location_area" : "横浜市都筑区",
+         "location_zipcode" : "224-0034",
          "owner_type" : "市立",
-         "short_name" : "勝田小学校"
+         "short_name" : "勝田小学校",
+         "sort_name" : "よこはましりつかちた",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/kachida/"
       },
       "横浜市立北山田小学校" : {
          "location_area" : "横浜市都筑区",
          "owner_type" : "市立",
-         "short_name" : "北山田小学校"
+         "short_name" : "北山田小学校",
+         "sort_name" : "よこはましりつきたやまた"
       },
       "横浜市立北方小学校" : {
          "location_area" : "横浜市中区",
@@ -1821,9 +1888,13 @@
          "short_name" : "南小学校"
       },
       "横浜市立南山田小学校" : {
+         "location" : "横浜市都筑区南山田2-27-1",
          "location_area" : "横浜市都筑区",
+         "location_zipcode" : "224-0029",
          "owner_type" : "市立",
-         "short_name" : "南山田小学校"
+         "short_name" : "南山田小学校",
+         "sort_name" : "よこはましりつみなみやまたしよう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/minamiyamata/"
       },
       "横浜市立南戸塚小学校" : {
          "location_area" : "横浜市戸塚区",
@@ -1836,9 +1907,13 @@
          "short_name" : "南本宿小学校"
       },
       "横浜市立南瀬谷小学校" : {
+         "location" : "神奈川県横浜市瀬谷区南瀬谷1-1-1",
          "location_area" : "横浜市瀬谷区",
+         "location_zipcode" : "246-0034",
          "owner_type" : "市立",
-         "short_name" : "南瀬谷小学校"
+         "short_name" : "南瀬谷小学校",
+         "sort_name" : "よこはましりつみなみせやしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/minamiseya/index.htm"
       },
       "横浜市立南神大寺小学校" : {
          "location_area" : "横浜市神奈川区",
@@ -1871,9 +1946,13 @@
          "short_name" : "品濃小学校"
       },
       "横浜市立善部小学校" : {
+         "location" : "横浜市旭区善部町4番地の1",
          "location_area" : "横浜市旭区",
+         "location_zipcode" : "241-0823",
          "owner_type" : "市立",
-         "short_name" : "善部小学校"
+         "short_name" : "善部小学校",
+         "sort_name" : "よこはましりつせんふしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/zenbu/"
       },
       "横浜市立坂本小学校" : {
          "location_area" : "横浜市保土ヶ谷区",
@@ -1891,9 +1970,13 @@
          "short_name" : "境木小学校"
       },
       "横浜市立大口台小学校" : {
+         "location" : "神奈川県横浜市神奈川区大口仲町460",
          "location_area" : "横浜市神奈川区",
+         "location_zipcode" : "211-0003",
          "owner_type" : "市立",
-         "short_name" : "大口台小学校"
+         "short_name" : "大口台小学校",
+         "sort_name" : "よこはましりつおおくちたいしよう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/oguchidai/"
       },
       "横浜市立大岡小学校" : {
          "location_area" : "横浜市南区",
@@ -1958,7 +2041,8 @@
       "横浜市立子安小学校" : {
          "location_area" : "横浜市神奈川区",
          "owner_type" : "市立",
-         "short_name" : "子安小学校"
+         "short_name" : "子安小学校",
+         "sort_name" : "よこはましりつこやすしようかつこう"
       },
       "横浜市立宮谷小学校" : {
          "location_area" : "横浜市西区",
@@ -1971,9 +2055,13 @@
          "short_name" : "富士見台小学校"
       },
       "横浜市立富岡小学校" : {
+         "location" : "神奈川県横浜市金沢区富岡西5-49-1",
          "location_area" : "横浜市金沢区",
+         "location_zipcode" : "236-0052",
          "owner_type" : "市立",
-         "short_name" : "富岡小学校"
+         "short_name" : "富岡小学校",
+         "sort_name" : "よこはましりつとみおかしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/tomioka/"
       },
       "横浜市立寺尾小学校" : {
          "location_area" : "横浜市鶴見区",
@@ -2033,7 +2121,8 @@
       "横浜市立山内小学校" : {
          "location_area" : "横浜市青葉区",
          "owner_type" : "市立",
-         "short_name" : "山内小学校"
+         "short_name" : "山内小学校",
+         "sort_name" : "よこはましりつやまうちしようかつこう"
       },
       "横浜市立山王台小学校" : {
          "location_area" : "横浜市磯子区",
@@ -2123,7 +2212,8 @@
       "横浜市立市ヶ尾小学校" : {
          "location_area" : "横浜市青葉区",
          "owner_type" : "市立",
-         "short_name" : "市ヶ尾小学校"
+         "short_name" : "市ヶ尾小学校",
+         "sort_name" : "よこはましりついちかおしようかつこう"
       },
       "横浜市立市場小学校" : {
          "location_area" : "横浜市鶴見区",
@@ -2148,7 +2238,8 @@
       "横浜市立帷子小学校" : {
          "location_area" : "横浜市保土ヶ谷区",
          "owner_type" : "市立",
-         "short_name" : "帷子小学校"
+         "short_name" : "帷子小学校",
+         "sort_name" : "かたひらしようかつこう"
       },
       "横浜市立常盤台小学校" : {
          "location_area" : "横浜市保土ヶ谷区",
@@ -2193,7 +2284,8 @@
       "横浜市立戸塚小学校" : {
          "location_area" : "横浜市戸塚区",
          "owner_type" : "市立",
-         "short_name" : "戸塚小学校"
+         "short_name" : "戸塚小学校",
+         "sort_name" : "とつかしようかつこう"
       },
       "横浜市立戸部小学校" : {
          "location_area" : "横浜市西区",
@@ -2216,9 +2308,13 @@
          "short_name" : "斎藤分小学校"
       },
       "横浜市立新吉田小学校" : {
+         "location" : "神奈川県横浜市港北区新吉田東六丁目44番地1号",
          "location_area" : "横浜市港北区",
+         "location_zipcode" : "224-0034",
          "owner_type" : "市立",
-         "short_name" : "新吉田小学校"
+         "short_name" : "新吉田小学校",
+         "sort_name" : "よこはましりつしんよしだ",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/shinyoshida/"
       },
       "横浜市立新吉田第二小学校" : {
          "location_area" : "横浜市港北区",
@@ -2253,7 +2349,8 @@
       "横浜市立日下小学校" : {
          "location_area" : "横浜市港南区",
          "owner_type" : "市立",
-         "short_name" : "日下小学校"
+         "short_name" : "日下小学校",
+         "sort_name" : "よこはましりつひした"
       },
       "横浜市立日吉南小学校" : {
          "location_area" : "横浜市港北区",
@@ -2353,7 +2450,8 @@
       "横浜市立東俣野小学校" : {
          "location_area" : "横浜市戸塚区",
          "owner_type" : "市立",
-         "short_name" : "東俣野小学校"
+         "short_name" : "東俣野小学校",
+         "sort_name" : "よこはましりつひかしまたのしようかつこう"
       },
       "横浜市立東台小学校" : {
          "location_area" : "横浜市鶴見区",
@@ -2422,8 +2520,10 @@
       },
       "横浜市立桜台小学校" : {
          "location_area" : "横浜市保土ヶ谷区",
+         "location_wikipedia_latlon" : "|35|27|2|N|139|35|27|E|scale:5000",
          "owner_type" : "市立",
-         "short_name" : "桜台小学校"
+         "short_name" : "桜台小学校",
+         "sort_name" : "よこはましりつさくらたいしようかつこう"
       },
       "横浜市立桜岡小学校" : {
          "location_area" : "横浜市港南区",
@@ -2436,9 +2536,13 @@
          "short_name" : "梅林小学校"
       },
       "横浜市立森の台小学校" : {
+         "location" : "神奈川県横浜市緑区森の台13-1",
          "location_area" : "横浜市緑区",
+         "location_zipcode" : "226-0029",
          "owner_type" : "市立",
-         "short_name" : "森の台小学校"
+         "short_name" : "森の台小学校",
+         "sort_name" : "よこはましりつもりのたいしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/morinodai/"
       },
       "横浜市立森東小学校" : {
          "location_area" : "横浜市磯子区",
@@ -2538,7 +2642,8 @@
       "横浜市立深谷台小学校" : {
          "location_area" : "横浜市戸塚区",
          "owner_type" : "市立",
-         "short_name" : "深谷台小学校"
+         "short_name" : "深谷台小学校",
+         "sort_name" : "よこはましりつふかやたいしようかつこう"
       },
       "横浜市立深谷小学校" : {
          "location_area" : "横浜市戸塚区",
@@ -2573,7 +2678,8 @@
       "横浜市立潮田小学校" : {
          "location_area" : "横浜市鶴見区",
          "owner_type" : "市立",
-         "short_name" : "潮田小学校"
+         "short_name" : "潮田小学校",
+         "sort_name" : "よこはましりつうしおたしようかつこう"
       },
       "横浜市立瀬ヶ崎小学校" : {
          "location_area" : "横浜市金沢区",
@@ -2743,7 +2849,8 @@
       "横浜市立美しが丘小学校" : {
          "location_area" : "横浜市青葉区",
          "owner_type" : "市立",
-         "short_name" : "美しが丘小学校"
+         "short_name" : "美しが丘小学校",
+         "sort_name" : "よこはましりつうつくしかおか"
       },
       "横浜市立美しが丘東小学校" : {
          "location_area" : "横浜市青葉区",
@@ -2793,17 +2900,23 @@
       "横浜市立茅ヶ崎小学校" : {
          "location_area" : "横浜市都筑区",
          "owner_type" : "市立",
-         "short_name" : "茅ヶ崎小学校"
+         "short_name" : "茅ヶ崎小学校",
+         "sort_name" : "よこはましりつちかさきしようかつこう"
       },
       "横浜市立茅ヶ崎東小学校" : {
          "location_area" : "横浜市都筑区",
          "owner_type" : "市立",
-         "short_name" : "茅ヶ崎東小学校"
+         "short_name" : "茅ヶ崎東小学校",
+         "sort_name" : "よこはましりつちかさきひかししようかつこう"
       },
       "横浜市立荏子田小学校" : {
+         "location" : "神奈川県横浜市青葉区荏子田3-8-9",
          "location_area" : "横浜市青葉区",
+         "location_wikipedia_latlon" : "|35|34|30.1|N|139|32|5.7|E|region:JP",
+         "location_zipcode" : "225-0005",
          "owner_type" : "市立",
-         "short_name" : "荏子田小学校"
+         "short_name" : "荏子田小学校",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/ekoda/"
       },
       "横浜市立荏田南小学校" : {
          "location_area" : "横浜市都筑区",
@@ -2871,9 +2984,13 @@
          "short_name" : "西前小学校"
       },
       "横浜市立西富岡小学校" : {
+         "location" : "神奈川県横浜市金沢区富岡西5-49-1",
          "location_area" : "横浜市金沢区",
+         "location_zipcode" : "236-0052",
          "owner_type" : "市立",
-         "short_name" : "西富岡小学校"
+         "short_name" : "西富岡小学校",
+         "sort_name" : "よこはましりつにしとみおかしよう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/nishitomioka/"
       },
       "横浜市立西寺尾小学校" : {
          "location_area" : "横浜市神奈川区",
@@ -2956,9 +3073,12 @@
          "short_name" : "釜利谷東小学校"
       },
       "横浜市立釜利谷西小学校" : {
+         "location" : "横浜市金沢区釜利谷西四丁目19番1号",
          "location_area" : "横浜市金沢区",
+         "location_zipcode" : "236-0046",
          "owner_type" : "市立",
-         "short_name" : "釜利谷西小学校"
+         "short_name" : "釜利谷西小学校",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/kamariyanishi/index.htm/"
       },
       "横浜市立鉄小学校" : {
          "location_area" : "横浜市青葉区",
@@ -2978,7 +3098,8 @@
       "横浜市立間門小学校" : {
          "location_area" : "横浜市中区",
          "owner_type" : "市立",
-         "short_name" : "間門小学校"
+         "short_name" : "間門小学校",
+         "sort_name" : "よこはましりつまかとしようかつこう"
       },
       "横浜市立阿久和小学校" : {
          "location_area" : "横浜市瀬谷区",
@@ -3021,9 +3142,13 @@
          "short_name" : "駒岡小学校"
       },
       "横浜市立駒林小学校" : {
+         "location" : "神奈川県横浜市港北区日吉本町2-51-1",
          "location_area" : "横浜市港北区",
+         "location_zipcode" : "224-0034",
          "owner_type" : "市立",
-         "short_name" : "駒林小学校"
+         "short_name" : "駒林小学校",
+         "sort_name" : "よよこはましりつこまはやししようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/komabayashi/"
       },
       "横浜市立高田小学校" : {
          "location_area" : "横浜市港北区",
@@ -3046,9 +3171,13 @@
          "short_name" : "鳥が丘小学校"
       },
       "横浜市立鴨居小学校" : {
+         "location" : "神奈川県横浜市緑区鴨居4-7-15",
          "location_area" : "横浜市緑区",
+         "location_zipcode" : "226-0003",
          "owner_type" : "市立",
-         "short_name" : "鴨居小学校"
+         "short_name" : "鴨居小学校",
+         "sort_name" : "よこはましりつかもいしようかつこう",
+         "url" : "http://www.edu.city.yokohama.jp/sch/es/kamoi/"
       },
       "横浜市立鴨志田第一小学校" : {
          "location_area" : "横浜市青葉区",
@@ -3080,12 +3209,20 @@
          "owner_type" : "私立"
       },
       "横浜雙葉小学校" : {
+         "location" : "神奈川県横浜市中区山手町226",
          "location_area" : "横浜市",
-         "owner_type" : "私立"
+         "location_zipcode" : "231-8562",
+         "owner_type" : "私立",
+         "sort_name" : "よこはまふたはしよう",
+         "url" : "http://www2.yokohamafutaba.ed.jp/"
       },
       "横須賀学院小学校" : {
+         "location" : "神奈川県横須賀市稲岡町82",
          "location_area" : "横須賀市",
+         "location_zipcode" : "238-8511",
          "owner_type" : "私立",
+         "sort_name" : "よこすかかくいん",
+         "url" : "http://www.yokosukagakuin.ac.jp/index.html",
          "wikipedia_name" : "横須賀学院小学校・中学校・高等学校"
       },
       "横須賀市立久里浜小学校" : {
@@ -3115,8 +3252,10 @@
       },
       "横須賀市立大塚台小学校" : {
          "location_area" : "横須賀市",
+         "location_zipcode" : "239-0806",
          "owner_type" : "市立",
-         "short_name" : "大塚台小学校"
+         "short_name" : "大塚台小学校",
+         "sort_name" : "よこすかしりつおおつかたいしょうかつこう"
       },
       "横須賀市立大楠小学校" : {
          "location_area" : "横須賀市",
@@ -3379,9 +3518,13 @@
          "short_name" : "海老名小学校"
       },
       "海老名市立社家小学校" : {
+         "location" : "神奈川県海老名市社家678番地",
          "location_area" : "海老名市",
+         "location_zipcode" : "243-0424",
          "owner_type" : "市立",
-         "short_name" : "社家小学校"
+         "short_name" : "社家小学校",
+         "sort_name" : "えひなしりつしやけしようかつこう",
+         "url" : "http://edu.city.ebina.kanagawa.jp/syakesyo/index.html"
       },
       "海老名市立門沢橋小学校" : {
          "location_area" : "海老名市",
@@ -3659,7 +3802,8 @@
       "相模原市立淵野辺小学校" : {
          "location_area" : "相模原市中央区",
          "owner_type" : "市立",
-         "short_name" : "淵野辺小学校"
+         "short_name" : "淵野辺小学校",
+         "sort_name" : "さかみはらしりつふちのへしようかつこう"
       },
       "相模原市立淵野辺東小学校" : {
          "location_area" : "相模原市中央区",
@@ -3940,8 +4084,12 @@
          "owner_type" : "私立"
       },
       "聖マリア小学校" : {
+         "location" : "神奈川県逗子市逗子六丁目8番47号",
          "location_area" : "逗子市",
-         "owner_type" : "私立"
+         "location_zipcode" : "249-0006",
+         "owner_type" : "私立",
+         "sort_name" : "せいまりあしよう",
+         "url" : "http://www.ne.jp/asahi/zushi/maria/"
       },
       "聖ヨゼフ学園小学校" : {
          "location_area" : "横浜市",
@@ -3965,7 +4113,8 @@
       "茅ヶ崎市立小出小学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "小出小学校"
+         "short_name" : "小出小学校",
+         "sort_name" : "ちかさきしりつこいて"
       },
       "茅ヶ崎市立小和田小学校" : {
          "location_area" : "茅ヶ崎市",
@@ -3975,7 +4124,8 @@
       "茅ヶ崎市立東海岸小学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "東海岸小学校"
+         "short_name" : "東海岸小学校",
+         "sort_name" : "ちかさきしりつひかしかいかんしようかつこう"
       },
       "茅ヶ崎市立松林小学校" : {
          "location_area" : "茅ヶ崎市",
@@ -4005,7 +4155,8 @@
       "茅ヶ崎市立浜須賀小学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "浜須賀小学校"
+         "short_name" : "浜須賀小学校",
+         "sort_name" : "ちかさきしりつはますかしようかつこう"
       },
       "茅ヶ崎市立緑ヶ浜小学校" : {
          "location_area" : "茅ヶ崎市",
@@ -4025,7 +4176,8 @@
       "茅ヶ崎市立香川小学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "香川小学校"
+         "short_name" : "香川小学校",
+         "sort_name" : "ちかさきしりつかかわしようかつこう"
       },
       "茅ヶ崎市立鶴が台小学校" : {
          "location_area" : "茅ヶ崎市",
@@ -4070,7 +4222,8 @@
       "藤沢市立俣野小学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "俣野小学校"
+         "short_name" : "俣野小学校",
+         "sort_name" : "ふしさわしりつまたの"
       },
       "藤沢市立八松小学校" : {
          "location_area" : "藤沢市",
@@ -4295,7 +4448,8 @@
       "鎌倉市立御成小学校" : {
          "location_area" : "鎌倉市",
          "owner_type" : "市立",
-         "short_name" : "御成小学校"
+         "short_name" : "御成小学校",
+         "sort_name" : "かまくらしりつおなり"
       },
       "鎌倉市立植木小学校" : {
          "location_area" : "鎌倉市",
@@ -4310,7 +4464,8 @@
       "鎌倉市立玉縄小学校" : {
          "location_area" : "鎌倉市",
          "owner_type" : "市立",
-         "short_name" : "玉縄小学校"
+         "short_name" : "玉縄小学校",
+         "sort_name" : "かまくらしりつたまなわ"
       },
       "鎌倉市立稲村ヶ崎小学校" : {
          "location_area" : "鎌倉市",
@@ -4320,7 +4475,8 @@
       "鎌倉市立第一小学校" : {
          "location_area" : "鎌倉市",
          "owner_type" : "市立",
-         "short_name" : "第一小学校"
+         "short_name" : "第一小学校",
+         "sort_name" : "かまくらしりつたいいちしようかつこう"
       },
       "鎌倉市立第二小学校" : {
          "location_area" : "鎌倉市",
@@ -4348,12 +4504,16 @@
          "short_name" : "開成小学校"
       },
       "関東学院六浦小学校" : {
+         "location" : "神奈川県横浜市金沢区六浦東一丁目50番1号",
          "location_area" : "横浜市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かんとうかくいんむつうらしよう"
       },
       "関東学院小学校" : {
+         "location" : "神奈川県横浜市南区三春台4番地",
          "location_area" : "横浜市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かんとうかくいん"
       }
    }
 }

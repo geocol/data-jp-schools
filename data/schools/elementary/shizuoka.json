@@ -444,9 +444,13 @@
          "short_name" : "吉原小学校"
       },
       "富士市立吉永第一小学校" : {
+         "location" : "静岡県富士市比奈1431",
          "location_area" : "富士市",
+         "location_zipcode" : "417-0847",
          "owner_type" : "市立",
-         "short_name" : "吉永第一小学校"
+         "short_name" : "吉永第一小学校",
+         "sort_name" : "ふししりつよしなかたいいち",
+         "url" : "http://www.city.fuji.shizuoka.jp/~p-yoshinaga1/"
       },
       "富士市立吉永第二小学校" : {
          "location_area" : "富士市",
@@ -511,7 +515,8 @@
       "富士市立岩松小学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "岩松小学校"
+         "short_name" : "岩松小学校",
+         "sort_name" : "ふししりついわまつしようかつこう"
       },
       "富士市立広見小学校" : {
          "location_area" : "富士市",
@@ -732,9 +737,13 @@
          "short_name" : "御殿場南小学校"
       },
       "御殿場市立御殿場小学校" : {
+         "location" : "静岡県御殿場市萩原364番地",
          "location_area" : "御殿場市",
+         "location_zipcode" : "412-0042",
          "owner_type" : "市立",
-         "short_name" : "御殿場小学校"
+         "short_name" : "御殿場小学校",
+         "sort_name" : "こてんはしりつこてんはしようかつこう",
+         "url" : "http://www.wbs.ne.jp/cmt/gotemba-sho/"
       },
       "御殿場市立朝日小学校" : {
          "location_area" : "御殿場市",
@@ -774,7 +783,8 @@
       "掛川市立中央小学校" : {
          "location_area" : "掛川市",
          "owner_type" : "市立",
-         "short_name" : "中央小学校"
+         "short_name" : "中央小学校",
+         "sort_name" : "かけかわしりつちゆうおうしようかつこう"
       },
       "掛川市立中小学校" : {
          "location_area" : "掛川市",
@@ -817,9 +827,14 @@
          "short_name" : "土方小学校"
       },
       "掛川市立城北小学校" : {
+         "location" : "静岡県掛川市水垂178",
          "location_area" : "掛川市",
+         "location_wikipedia_latlon" : "|34|47|06|N|138|01|02|E|",
+         "location_zipcode" : "436-0061",
          "owner_type" : "市立",
-         "short_name" : "城北小学校"
+         "short_name" : "城北小学校",
+         "sort_name" : "かけかわしりつしようほくしようかつこう",
+         "url" : "http://www.kakegawa-net.jp/ed/johoku/"
       },
       "掛川市立大坂小学校" : {
          "location_area" : "掛川市",
@@ -1057,7 +1072,8 @@
       "沼津市立香貫小学校" : {
          "location_area" : "沼津市",
          "owner_type" : "市立",
-         "short_name" : "香貫小学校"
+         "short_name" : "香貫小学校",
+         "sort_name" : "ぬまつしりつかぬきしようかつこう"
       },
       "浜松市立三ヶ日東小学校" : {
          "location_area" : "浜松市北区",
@@ -1160,19 +1176,31 @@
          "short_name" : "佐久間小学校"
       },
       "浜松市立佐藤小学校" : {
+         "location" : "静岡県浜松市中区佐藤2-32-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "430-0807",
          "owner_type" : "市立",
-         "short_name" : "佐藤小学校"
+         "short_name" : "佐藤小学校",
+         "sort_name" : "はままつしりつさとうしよう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/sato-e/"
       },
       "浜松市立佐鳴台小学校" : {
+         "location" : "静岡県浜松市中区佐鳴台3丁目31-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8021",
          "owner_type" : "市立",
-         "short_name" : "佐鳴台小学校"
+         "short_name" : "佐鳴台小学校",
+         "sort_name" : "はままつしりつさなるたいしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/sanarudai-e/"
       },
       "浜松市立元城小学校" : {
+         "location" : "静岡県浜松市中区元城町102-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "430-0946",
          "owner_type" : "市立",
-         "short_name" : "元城小学校"
+         "short_name" : "元城小学校",
+         "sort_name" : "はままつしりつもとしろしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/motoshiro-e/"
       },
       "浜松市立光明小学校" : {
          "location_area" : "浜松市天竜区",
@@ -1180,9 +1208,13 @@
          "short_name" : "光明小学校"
       },
       "浜松市立入野小学校" : {
+         "location" : "静岡県浜松市西区入野町8757",
          "location_area" : "浜松市西区",
+         "location_zipcode" : "432-8061",
          "owner_type" : "市立",
-         "short_name" : "入野小学校"
+         "short_name" : "入野小学校",
+         "sort_name" : "はままつしりついりのしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/irino-e/"
       },
       "浜松市立内野小学校" : {
          "location_area" : "浜松市浜北区",
@@ -1207,7 +1239,8 @@
       "浜松市立北浜北小学校" : {
          "location_area" : "浜松市浜北区",
          "owner_type" : "市立",
-         "short_name" : "北浜北小学校"
+         "short_name" : "北浜北小学校",
+         "sort_name" : "はままつしりつきたはまきたしようかつこう"
       },
       "浜松市立北浜南小学校" : {
          "location_area" : "浜松市浜北区",
@@ -1255,9 +1288,13 @@
          "short_name" : "和田東小学校"
       },
       "浜松市立城北小学校" : {
+         "location" : "静岡県浜松市中区住吉一丁目23-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "430-0906",
          "owner_type" : "市立",
-         "short_name" : "城北小学校"
+         "short_name" : "城北小学校",
+         "sort_name" : "はままつしりつしようほくしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/johoku-e/"
       },
       "浜松市立城西小学校" : {
          "location_area" : "浜松市天竜区",
@@ -1290,9 +1327,13 @@
          "short_name" : "奥山小学校"
       },
       "浜松市立富塚小学校" : {
+         "location" : "静岡県浜松市中区富塚町1803",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8002",
          "owner_type" : "市立",
-         "short_name" : "富塚小学校"
+         "short_name" : "富塚小学校",
+         "sort_name" : "はままつしりつとみつかしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/tomitsuka-e/"
       },
       "浜松市立富塚西小学校" : {
          "location_area" : "浜松市中区",
@@ -1310,9 +1351,13 @@
          "short_name" : "平山小学校"
       },
       "浜松市立広沢小学校" : {
+         "location" : "静岡県浜松市中区広沢二丁目51番1号",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8024",
          "owner_type" : "市立",
-         "short_name" : "広沢小学校"
+         "short_name" : "広沢小学校",
+         "sort_name" : "はままつしりつひろさわしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/hirosawa-e/"
       },
       "浜松市立引佐北部小学校" : {
          "location_area" : "浜松市北区",
@@ -1355,9 +1400,13 @@
          "short_name" : "村櫛小学校"
       },
       "浜松市立東小学校" : {
+         "location" : "静岡県浜松市中央2丁目2番1号",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "430-0929",
          "owner_type" : "市立",
-         "short_name" : "東小学校"
+         "short_name" : "東小学校",
+         "sort_name" : "はままつしりつひかししようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/oiwake-e/"
       },
       "浜松市立横山小学校" : {
          "location_area" : "浜松市天竜区",
@@ -1435,9 +1484,13 @@
          "short_name" : "相生小学校"
       },
       "浜松市立県居小学校" : {
+         "location" : "静岡県浜松市中区東伊場2丁目5-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8036",
          "owner_type" : "市立",
-         "short_name" : "県居小学校"
+         "short_name" : "県居小学校",
+         "sort_name" : "はままつしりつあかたいしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/agatai-e/"
       },
       "浜松市立砂丘小学校" : {
          "location_area" : "浜松市南区",
@@ -1480,9 +1533,13 @@
          "short_name" : "船越小学校"
       },
       "浜松市立花川小学校" : {
+         "location" : "静岡県浜松市中区花川町781",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "433-8109",
          "owner_type" : "市立",
-         "short_name" : "花川小学校"
+         "short_name" : "花川小学校",
+         "sort_name" : "はままつしりつはなかわしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/hanakawa-e/"
       },
       "浜松市立芳川北小学校" : {
          "location_area" : "浜松市南区",
@@ -1515,9 +1572,13 @@
          "short_name" : "蒲小学校"
       },
       "浜松市立西小学校" : {
+         "location" : "静岡県浜松市中区鴨江町70-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8024",
          "owner_type" : "市立",
-         "short_name" : "西小学校"
+         "short_name" : "西小学校",
+         "sort_name" : "はままつしりつにししようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/nishi-e/"
       },
       "浜松市立西気賀小学校" : {
          "location_area" : "浜松市北区",
@@ -1535,9 +1596,13 @@
          "short_name" : "豊岡小学校"
       },
       "浜松市立豊西小学校" : {
+         "location" : "静岡県浜松市東区豊西町1551",
          "location_area" : "浜松市東区",
+         "location_zipcode" : "431-3102",
          "owner_type" : "市立",
-         "short_name" : "豊西小学校"
+         "short_name" : "豊西小学校",
+         "sort_name" : "はままつしりつとよにししようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/toyonishi-e//"
       },
       "浜松市立赤佐小学校" : {
          "location_area" : "浜松市浜北区",
@@ -1545,9 +1610,13 @@
          "short_name" : "赤佐小学校"
       },
       "浜松市立追分小学校" : {
+         "location" : "静岡県浜松市中区布橋1丁目9-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8012",
          "owner_type" : "市立",
-         "short_name" : "追分小学校"
+         "short_name" : "追分小学校",
+         "sort_name" : "はままつしりつおいわけしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/oiwake-e/"
       },
       "浜松市立遠州浜小学校" : {
          "location_area" : "浜松市南区",
@@ -1585,14 +1654,22 @@
          "short_name" : "飯田小学校"
       },
       "浜松市立鴨江小学校" : {
+         "location" : "静岡県浜松市中区西伊場4-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8038",
          "owner_type" : "市立",
-         "short_name" : "鴨江小学校"
+         "short_name" : "鴨江小学校",
+         "sort_name" : "はままつしりつかもえしようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/kamoe-e/"
       },
       "浜松市立麁玉小学校" : {
+         "location" : "静岡県浜松市浜北区宮口262",
          "location_area" : "浜松市浜北区",
+         "location_zipcode" : "434-0004",
          "owner_type" : "市立",
-         "short_name" : "麁玉小学校"
+         "short_name" : "麁玉小学校",
+         "sort_name" : "はままつしりつあらたましようかつこう",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/aratama-e/"
       },
       "浜松市立龍山第一小学校" : {
          "location_area" : "浜松市天竜区",
@@ -1616,9 +1693,13 @@
          "short_name" : "西小学校"
       },
       "湖西市立岡崎小学校" : {
+         "location" : "静岡県湖西市岡崎634番地2",
          "location_area" : "湖西市",
+         "location_zipcode" : "431-0422",
          "owner_type" : "市立",
-         "short_name" : "岡崎小学校"
+         "short_name" : "岡崎小学校",
+         "sort_name" : "こさいしりつおかさき",
+         "url" : "http://www1.ocn.ne.jp/~okasakie/"
       },
       "湖西市立新居小学校" : {
          "location_area" : "湖西市",
@@ -1800,9 +1881,14 @@
          "owner_type" : "公立"
       },
       "磐田市立向笠小学校" : {
+         "location" : "静岡県磐田市向笠竹之内391番地6",
          "location_area" : "磐田市",
+         "location_wikipedia_latlon" : "|34|45|42|N|137|52|35|E|scale:10000",
+         "location_zipcode" : "438-0013",
          "owner_type" : "市立",
-         "short_name" : "向笠小学校"
+         "short_name" : "向笠小学校",
+         "sort_name" : "いわたしりつむかさしようかつこう",
+         "url" : "http://www.city.iwata.shizuoka.jp/school/mukasa/"
       },
       "磐田市立大藤小学校" : {
          "location_area" : "磐田市",
@@ -1820,9 +1906,13 @@
          "short_name" : "岩田小学校"
       },
       "磐田市立東部小学校" : {
+         "location" : "静岡県磐田市東貝塚206番地",
          "location_area" : "磐田市",
+         "location_zipcode" : "438-0037",
          "owner_type" : "市立",
-         "short_name" : "東部小学校"
+         "short_name" : "東部小学校",
+         "sort_name" : "いわたしりつとうふしようかつこう",
+         "url" : "http://www.city.iwata.shizuoka.jp/school/tobu/"
       },
       "磐田市立田原小学校" : {
          "location_area" : "磐田市",
@@ -1932,7 +2022,8 @@
       "菊川市立堀之内小学校" : {
          "location_area" : "菊川市",
          "owner_type" : "市立",
-         "short_name" : "堀之内小学校"
+         "short_name" : "堀之内小学校",
+         "sort_name" : "きくかわしりつほりのうちしようかこう"
       },
       "菊川市立小笠北小学校" : {
          "location_area" : "菊川市",
@@ -1960,89 +2051,157 @@
          "short_name" : "河城小学校"
       },
       "藤枝市立大洲小学校" : {
+         "location" : "藤枝市大洲5-20",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0051",
          "owner_type" : "市立",
-         "short_name" : "大洲小学校"
+         "short_name" : "大洲小学校",
+         "sort_name" : "ふしえたしりつおおすしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_osu.html"
       },
       "藤枝市立岡部小学校" : {
+         "location" : "藤枝市岡部町内谷997番地の2",
          "location_area" : "藤枝市",
+         "location_zipcode" : "421-1131",
          "owner_type" : "市立",
-         "short_name" : "岡部小学校"
+         "short_name" : "岡部小学校",
+         "sort_name" : "ふしえたしりつおかへしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_okabe.html"
       },
       "藤枝市立広幡小学校" : {
+         "location" : "藤枝市鬼島424",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0008",
          "owner_type" : "市立",
-         "short_name" : "広幡小学校"
+         "short_name" : "広幡小学校",
+         "sort_name" : "ふしえたしりつひろはたしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_hirohata.html"
       },
       "藤枝市立朝比奈第一小学校" : {
+         "location" : "藤枝市岡部町新舟1021",
          "location_area" : "藤枝市",
+         "location_zipcode" : "421-1115",
          "owner_type" : "市立",
-         "short_name" : "朝比奈第一小学校"
+         "short_name" : "朝比奈第一小学校",
+         "sort_name" : "ふしえたしりつあさひなたいいちしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_asahinadaiichi.html"
       },
       "藤枝市立瀬戸谷小学校" : {
+         "location" : "藤枝市本郷872",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0132",
          "owner_type" : "市立",
-         "short_name" : "瀬戸谷小学校"
+         "short_name" : "瀬戸谷小学校",
+         "sort_name" : "ふしえたしりつせとやしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_setoya.html"
       },
       "藤枝市立稲葉小学校" : {
+         "location" : "藤枝市堀之内2337",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0088",
          "owner_type" : "市立",
-         "short_name" : "稲葉小学校"
+         "short_name" : "稲葉小学校",
+         "sort_name" : "ふしえたしりついなはしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_inaba.html"
       },
       "藤枝市立葉梨小学校" : {
+         "location" : "藤枝市下之郷111-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0203",
          "owner_type" : "市立",
-         "short_name" : "葉梨小学校"
+         "short_name" : "葉梨小学校",
+         "sort_name" : "ふしえたしりつはなししようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_hanashi.html"
       },
       "藤枝市立葉梨西北小学校" : {
+         "location" : "藤枝市西方1080",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0211",
          "owner_type" : "市立",
-         "short_name" : "葉梨西北小学校"
+         "short_name" : "葉梨西北小学校",
+         "sort_name" : "ふしえたしりつはなしせいほくしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_hanashiseihoku.html"
       },
       "藤枝市立藤岡小学校" : {
+         "location" : "藤枝市藤岡3-14-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0006",
          "owner_type" : "市立",
-         "short_name" : "藤岡小学校"
+         "short_name" : "藤岡小学校",
+         "sort_name" : "ふしえたしりつふしおかしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_fujioka.html"
       },
       "藤枝市立藤枝中央小学校" : {
+         "location" : "藤枝市原1133",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0086",
          "owner_type" : "市立",
-         "short_name" : "藤枝中央小学校"
+         "short_name" : "藤枝中央小学校",
+         "sort_name" : "ふしえたしりつふしえたちゆうおうしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_fujiedachuo.html"
       },
       "藤枝市立藤枝小学校" : {
+         "location" : "藤枝市天王町1-1-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0019",
          "owner_type" : "市立",
-         "short_name" : "藤枝小学校"
+         "short_name" : "藤枝小学校",
+         "sort_name" : "ふしえたしりつふしえたしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_fujieda.html"
       },
       "藤枝市立西益津小学校" : {
+         "location" : "藤枝市田中1-7-20",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0012",
          "owner_type" : "市立",
-         "short_name" : "西益津小学校"
+         "short_name" : "西益津小学校",
+         "sort_name" : "ふしえたしりつにしましつしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_nishimashizu.html"
       },
       "藤枝市立青島北小学校" : {
+         "location" : "藤枝市南駿河台2-11-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0078",
          "owner_type" : "市立",
-         "short_name" : "青島北小学校"
+         "short_name" : "青島北小学校",
+         "sort_name" : "ふしえたしりつあおしまきたしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_aojimakita.html"
       },
       "藤枝市立青島小学校" : {
+         "location" : "藤枝市下青島10",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0035",
          "owner_type" : "市立",
-         "short_name" : "青島小学校"
+         "short_name" : "青島小学校",
+         "sort_name" : "ふしえたしりつあおしましようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_aojima.html"
       },
       "藤枝市立青島東小学校" : {
+         "location" : "藤枝市志太5-1-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0071",
          "owner_type" : "市立",
-         "short_name" : "青島東小学校"
+         "short_name" : "青島東小学校",
+         "sort_name" : "ふしえたしりつあおしまひかししようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_aojimahigashi.html"
       },
       "藤枝市立高洲南小学校" : {
+         "location" : "藤枝市高洲37-1",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0046",
          "owner_type" : "市立",
-         "short_name" : "高洲南小学校"
+         "short_name" : "高洲南小学校",
+         "sort_name" : "ふしえたしりつたかすみなみしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_takasuminami.html"
       },
       "藤枝市立高洲小学校" : {
+         "location" : "藤枝市高柳1315",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0041",
          "owner_type" : "市立",
-         "short_name" : "高洲小学校"
+         "short_name" : "高洲小学校",
+         "sort_name" : "ふしえたしりつたかすしようかつこう",
+         "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_shogakko_takasu.html"
       },
       "袋井市立三川小学校" : {
          "location_area" : "袋井市",
@@ -2180,13 +2339,19 @@
          "short_name" : "長泉小学校"
       },
       "静岡サレジオ小学校" : {
-         "owner_type" : "私立"
+         "location" : "静岡県静岡市清水区中之郷三丁目2番1号",
+         "location_zipcode" : "424-8624",
+         "owner_type" : "私立",
+         "sort_name" : "しすおかされしおしよう",
+         "url" : "http://www.ssalesio-prim.net/gyouji/index.html"
       },
       "静岡大学教育学部附属浜松小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくはままつしよう"
       },
       "静岡大学教育学部附属静岡小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくしすおかしよう"
       },
       "静岡市立中島小学校" : {
          "location_area" : "静岡市駿河区",
@@ -2194,9 +2359,13 @@
          "short_name" : "中島小学校"
       },
       "静岡市立中田小学校" : {
+         "location" : "静岡県静岡市駿河区中田2-14-1",
          "location_area" : "静岡市駿河区",
+         "location_zipcode" : "422-8041",
          "owner_type" : "市立",
-         "short_name" : "中田小学校"
+         "short_name" : "中田小学校",
+         "sort_name" : "しすおかしりつなかたしよう",
+         "url" : "http://www.nakada-e.shizuoka.ednet.jp/"
       },
       "静岡市立中藁科小学校" : {
          "location_area" : "静岡市葵区",
@@ -2329,9 +2498,13 @@
          "short_name" : "新通小学校"
       },
       "静岡市立服織小学校" : {
+         "location" : "静岡県静岡市葵区羽鳥6丁目9番1号",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "422-8041",
          "owner_type" : "市立",
-         "short_name" : "服織小学校"
+         "short_name" : "服織小学校",
+         "sort_name" : "しすおかしりつなかたしようかつこう",
+         "url" : "http://www.hatorisyo-e.shizuoka.ednet.jp/default.asp"
       },
       "静岡市立服織西小学校" : {
          "location_area" : "静岡市葵区",
@@ -2366,7 +2539,8 @@
       "静岡市立横内小学校" : {
          "location_area" : "静岡市葵区",
          "owner_type" : "市立",
-         "short_name" : "横内小学校"
+         "short_name" : "横内小学校",
+         "sort_name" : "しすおかしりつよこうちしようかつこう"
       },
       "静岡市立水見色小学校" : {
          "location_area" : "静岡市葵区",

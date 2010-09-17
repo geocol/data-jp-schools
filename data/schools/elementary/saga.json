@@ -43,7 +43,8 @@
       "伊万里市立大坪小学校" : {
          "location_area" : "伊万里市",
          "owner_type" : "市立",
-         "short_name" : "大坪小学校"
+         "short_name" : "大坪小学校",
+         "sort_name" : "いまりしりつおおつほしようかつこう"
       },
       "伊万里市立大川内小学校" : {
          "location_area" : "伊万里市",
@@ -98,7 +99,8 @@
       "伊万里市立立花小学校" : {
          "location_area" : "伊万里市",
          "owner_type" : "市立",
-         "short_name" : "立花小学校"
+         "short_name" : "立花小学校",
+         "sort_name" : "いまりしりつたちはなしようかつこう"
       },
       "伊万里市立黒川小学校" : {
          "location_area" : "伊万里市",
@@ -106,7 +108,11 @@
          "short_name" : "黒川小学校"
       },
       "佐賀大学文化教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "location" : "佐賀県佐賀市城内二丁目17番3号",
+         "location_zipcode" : "840-0041",
+         "owner_type" : "国立",
+         "sort_name" : "さかたいかくふんかきよういくかくふふそくしよう",
+         "url" : "http://fusho.pd.saga-u.ac.jp/index.html"
       },
       "佐賀市立三瀬小学校" : {
          "location_area" : "佐賀市",
@@ -131,7 +137,8 @@
       "佐賀市立勧興小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "勧興小学校"
+         "short_name" : "勧興小学校",
+         "sort_name" : "さかしりつかんこうしようかつこう"
       },
       "佐賀市立北山小学校" : {
          "location_area" : "佐賀市",
@@ -151,7 +158,8 @@
       "佐賀市立南川副小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "南川副小学校"
+         "short_name" : "南川副小学校",
+         "sort_name" : "さかしりつみなみかわそえしようかつこう"
       },
       "佐賀市立嘉瀬小学校" : {
          "location_area" : "佐賀市",
@@ -176,7 +184,8 @@
       "佐賀市立川上小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "川上小学校"
+         "short_name" : "川上小学校",
+         "sort_name" : "さかしりつかわかみしようかつこう"
       },
       "佐賀市立巨勢小学校" : {
          "location_area" : "佐賀市",
@@ -239,9 +248,13 @@
          "short_name" : "芙蓉小学校"
       },
       "佐賀市立若楠小学校" : {
+         "location" : "佐賀県佐賀市若宮3-2-1",
          "location_area" : "佐賀市",
+         "location_zipcode" : "849-0926",
          "owner_type" : "市立",
-         "short_name" : "若楠小学校"
+         "short_name" : "若楠小学校",
+         "sort_name" : "さかしりつわかくすしよう",
+         "url" : "http://www2.saga-ed.jp/school/edq10118/"
       },
       "佐賀市立西与賀小学校" : {
          "location_area" : "佐賀市",
@@ -276,17 +289,20 @@
       "佐賀市立鍋島小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "鍋島小学校"
+         "short_name" : "鍋島小学校",
+         "sort_name" : "さかしりつなへしましようかつこう"
       },
       "佐賀市立開成小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "開成小学校"
+         "short_name" : "開成小学校",
+         "sort_name" : "さかしりつかいせいしようかつこう"
       },
       "佐賀市立高木瀬小学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "高木瀬小学校"
+         "short_name" : "高木瀬小学校",
+         "sort_name" : "さかしりつたかきせしようかつこう"
       },
       "吉野ヶ里町立三田川小学校" : {
          "location_area" : "神埼郡吉野ヶ里町",
@@ -471,12 +487,14 @@
       "唐津市立西唐津小学校" : {
          "location_area" : "唐津市",
          "owner_type" : "市立",
-         "short_name" : "西唐津小学校"
+         "short_name" : "西唐津小学校",
+         "sort_name" : "からつしりつにしからつしようかつこう"
       },
       "唐津市立鏡山小学校" : {
          "location_area" : "唐津市",
          "owner_type" : "市立",
-         "short_name" : "鏡山小学校"
+         "short_name" : "鏡山小学校",
+         "sort_name" : "からつしりつかかみやましようかつこう"
       },
       "唐津市立長松小学校" : {
          "location_area" : "唐津市",
@@ -741,7 +759,8 @@
       "江北町立江北小学校" : {
          "location_area" : "杵島郡江北町",
          "owner_type" : "町立",
-         "short_name" : "江北小学校"
+         "short_name" : "江北小学校",
+         "sort_name" : "こうほくちようりつこうほくしようかつこう"
       },
       "玄海町立仮屋小学校" : {
          "location_area" : "東松浦郡玄海町",
@@ -861,12 +880,14 @@
       "鳥栖市立鳥栖北小学校" : {
          "location_area" : "鳥栖市",
          "owner_type" : "市立",
-         "short_name" : "鳥栖北小学校"
+         "short_name" : "鳥栖北小学校",
+         "sort_name" : "とすしりつとすきたしようかつこう"
       },
       "鳥栖市立鳥栖小学校" : {
          "location_area" : "鳥栖市",
          "owner_type" : "市立",
-         "short_name" : "鳥栖小学校"
+         "short_name" : "鳥栖小学校",
+         "sort_name" : "とすしりつとすしようかつこう"
       },
       "鳥栖市立麓小学校" : {
          "location_area" : "鳥栖市",

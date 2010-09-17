@@ -1,7 +1,8 @@
 {
    "elementary_schools" : {
       "ノートルダム学院小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "のおとるたむかくいんしよう"
       },
       "一燈園小学校" : {
          "owner_type" : "私立"
@@ -74,7 +75,8 @@
       "亀岡市立亀岡小学校" : {
          "location_area" : "亀岡市",
          "owner_type" : "市立",
-         "short_name" : "亀岡小学校"
+         "short_name" : "亀岡小学校",
+         "sort_name" : "かめおかしりつ かめおか しようかつこう"
       },
       "亀岡市立保津小学校" : {
          "location_area" : "亀岡市",
@@ -109,7 +111,8 @@
       "亀岡市立安詳小学校" : {
          "location_area" : "亀岡市",
          "owner_type" : "市立",
-         "short_name" : "安詳小学校"
+         "short_name" : "安詳小学校",
+         "sort_name" : "かめおかしりつあんしようしようかつこう"
       },
       "亀岡市立川東小学校" : {
          "location_area" : "亀岡市",
@@ -337,9 +340,14 @@
          "short_name" : "丹波ひかり小学校"
       },
       "京丹波町立和知小学校" : {
+         "location" : "京都府船井郡京丹波町本庄安田7",
          "location_area" : "船井郡京丹波町",
+         "location_wikipedia_latlon" : "|35|15|54|N|135|24|03|E|",
+         "location_zipcode" : "629-1121",
          "owner_type" : "町立",
-         "short_name" : "和知小学校"
+         "short_name" : "和知小学校",
+         "sort_name" : "きようたんはちようりつわちしようかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/wachi-es/"
       },
       "京丹波町立明俊小学校" : {
          "location_area" : "船井郡京丹波町",
@@ -455,9 +463,14 @@
          "short_name" : "下鳥羽小学校"
       },
       "京都市立下鴨小学校" : {
+         "location" : "京都市左京区下鴨宮崎町4",
          "location_area" : "京都市左京区",
+         "location_zipcode" : "606-0802",
          "owner_type" : "市立",
-         "short_name" : "下鴨小学校"
+         "school_area" : "下鴨学区",
+         "short_name" : "下鴨小学校",
+         "sort_name" : "きようとしりつしもかもしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/shimogamo-s/"
       },
       "京都市立中川小学校" : {
          "location_area" : "京都市北区",
@@ -487,7 +500,8 @@
       "京都市立乾隆小学校" : {
          "location_area" : "京都市上京区",
          "owner_type" : "市立",
-         "short_name" : "乾隆小学校"
+         "short_name" : "乾隆小学校",
+         "sort_name" : "きようとしりつけんりゆう"
       },
       "京都市立二の丸北小学校" : {
          "location_area" : "京都市伏見区",
@@ -497,7 +511,8 @@
       "京都市立二条城北小学校" : {
          "location_area" : "京都市上京区",
          "owner_type" : "市立",
-         "short_name" : "二条城北小学校"
+         "short_name" : "二条城北小学校",
+         "sort_name" : "きようとしりつにしようしようきたしようかつこう"
       },
       "京都市立京北第一小学校" : {
          "location_area" : "京都市右京区",
@@ -535,9 +550,12 @@
          "short_name" : "伏見住吉小学校"
       },
       "京都市立伏見南浜小学校" : {
+         "location" : "京都市伏見区丹後町142",
          "location_area" : "京都市伏見区",
+         "location_zipcode" : "612-8044",
          "owner_type" : "市立",
-         "short_name" : "伏見南浜小学校"
+         "short_name" : "伏見南浜小学校",
+         "sort_name" : "きようとしりつふしみみなみはましよう"
       },
       "京都市立伏見板橋小学校" : {
          "location_area" : "京都市伏見区",
@@ -557,7 +575,8 @@
       "京都市立元町小学校" : {
          "location_area" : "京都市北区",
          "owner_type" : "市立",
-         "short_name" : "元町小学校"
+         "short_name" : "元町小学校",
+         "sort_name" : "きようとしりつもとまちしようかつこう"
       },
       "京都市立光徳小学校" : {
          "location_area" : "京都市下京区",
@@ -570,14 +589,23 @@
          "short_name" : "八瀬小学校"
       },
       "京都市立六原小学校" : {
+         "location" : "京都市東山区松原通大和大路東入る轆轤町80",
          "location_area" : "京都市東山区",
+         "location_zipcode" : "605-0813",
          "owner_type" : "市立",
-         "short_name" : "六原小学校"
+         "short_name" : "六原小学校",
+         "sort_name" : "きようとしりつろくはらしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/rokuhara-s/"
       },
       "京都市立勧修小学校" : {
+         "location" : "京都市山科区勧修寺栗栖野町42",
          "location_area" : "京都市山科区",
+         "location_wikipedia_latlon" : "|34|58|12|N|135|48|30|E|",
+         "location_zipcode" : "607-8211",
          "owner_type" : "市立",
-         "short_name" : "勧修小学校"
+         "short_name" : "勧修小学校",
+         "sort_name" : "きようとしりつかんしゆうしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/kansyu-s/index.html"
       },
       "京都市立北白川小学校" : {
          "location_area" : "京都市左京区",
@@ -646,9 +674,14 @@
          "short_name" : "大原野小学校"
       },
       "京都市立大塚小学校" : {
+         "location" : "京都府京都市山科区大塚野溝町59",
          "location_area" : "京都市山科区",
+         "location_wikipedia_latlon" : "|34|58|56|N|135|49|47|E",
+         "location_zipcode" : "607-8135",
          "owner_type" : "市立",
-         "short_name" : "大塚小学校"
+         "short_name" : "大塚小学校",
+         "sort_name" : "きようとしりつおおつかしよう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/otuka-s/"
       },
       "京都市立大宅小学校" : {
          "location_area" : "京都市山科区",
@@ -673,7 +706,8 @@
       "京都市立大薮小学校" : {
          "location_area" : "京都市南区",
          "owner_type" : "市立",
-         "short_name" : "大薮小学校"
+         "short_name" : "大薮小学校",
+         "sort_name" : "きようとしりつおおやふしようかつこう"
       },
       "京都市立太秦小学校" : {
          "location_area" : "京都市右京区",
@@ -736,9 +770,13 @@
          "short_name" : "山階南小学校"
       },
       "京都市立山階小学校" : {
+         "location" : "京都市山科区西野大手先町21",
          "location_area" : "京都市山科区",
+         "location_wikipedia_latlon" : "|34|59|01|N|135|48|47|E|",
+         "location_zipcode" : "607-8344",
          "owner_type" : "市立",
-         "short_name" : "山階小学校"
+         "short_name" : "山階小学校",
+         "sort_name" : "きようとしりつさんかいしようかつこう"
       },
       "京都市立岩倉北小学校" : {
          "location_area" : "京都市左京区",
@@ -756,9 +794,13 @@
          "short_name" : "嵐山小学校"
       },
       "京都市立嵐山東小学校" : {
+         "location" : "京都市西京区嵐山東海道町46",
          "location_area" : "京都市西京区",
+         "location_wikipedia_latlon" : "|35|00|26|N|135|41|12|E|",
+         "location_zipcode" : "616-0012",
          "owner_type" : "市立",
-         "short_name" : "嵐山東小学校"
+         "short_name" : "嵐山東小学校",
+         "sort_name" : "きようとしりつあらしやまひかししようかつこう"
       },
       "京都市立嵯峨小学校" : {
          "location_area" : "京都市右京区",
@@ -766,14 +808,23 @@
          "short_name" : "嵯峨小学校"
       },
       "京都市立嵯峨野小学校" : {
+         "location" : "京都市右京区嵯峨野千代ノ道町53",
          "location_area" : "京都市右京区",
+         "location_wikipedia_latlon" : "|35|00|44|N|135|41|47|E|",
+         "location_zipcode" : "616-8321",
          "owner_type" : "市立",
-         "short_name" : "嵯峨野小学校"
+         "short_name" : "嵯峨野小学校",
+         "sort_name" : "きようとしりつさかのしようかつこう"
       },
       "京都市立川岡小学校" : {
+         "location" : "京都市西京区川島滑樋町14",
          "location_area" : "京都市西京区",
+         "location_wikipedia_latlon" : "|34|58|32|N|135|42|14|E|",
+         "location_zipcode" : "615-8409",
          "owner_type" : "市立",
-         "short_name" : "川岡小学校"
+         "short_name" : "川岡小学校",
+         "sort_name" : "きようとしりつかわおかしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/kawaoka-s/"
       },
       "京都市立川岡東小学校" : {
          "location_area" : "京都市西京区",
@@ -786,14 +837,19 @@
          "short_name" : "市原野小学校"
       },
       "京都市立常磐野小学校" : {
+         "location" : "京都市右京区太秦京ノ道町20-5",
          "location_area" : "京都市右京区",
+         "location_wikipedia_latlon" : "|35|01|19|N|135|42|10|E|",
+         "location_zipcode" : "616-8181",
          "owner_type" : "市立",
-         "short_name" : "常磐野小学校"
+         "short_name" : "常磐野小学校",
+         "sort_name" : "きようとしりつときわのしようかつこう"
       },
       "京都市立広沢小学校" : {
          "location_area" : "京都市右京区",
          "owner_type" : "市立",
-         "short_name" : "広沢小学校"
+         "short_name" : "広沢小学校",
+         "sort_name" : "きようとしりつひろさわしようかつこう"
       },
       "京都市立待鳳小学校" : {
          "location_area" : "京都市北区",
@@ -818,7 +874,8 @@
       "京都市立新洞小学校" : {
          "location_area" : "京都市左京区",
          "owner_type" : "市立",
-         "short_name" : "新洞小学校"
+         "short_name" : "新洞小学校",
+         "sort_name" : "きようとしりつしんとうしようかつこう"
       },
       "京都市立新町小学校" : {
          "location_area" : "京都市上京区",
@@ -886,9 +943,14 @@
          "short_name" : "朱雀第六小学校"
       },
       "京都市立朱雀第四小学校" : {
+         "location" : "京都市中京区西ノ京笠殿町164",
          "location_area" : "京都市中京区",
+         "location_zipcode" : "604-8482",
          "owner_type" : "市立",
-         "short_name" : "朱雀第四小学校"
+         "school_area" : "朱雀第四学区",
+         "short_name" : "朱雀第四小学校",
+         "sort_name" : "きようとしりつすさくたいよん",
+         "url" : "http://www.edu.city.kyoto.jp/hp/suzakudai4-s/"
       },
       "京都市立東和小学校" : {
          "location_area" : "京都市南区",
@@ -946,9 +1008,14 @@
          "short_name" : "桂徳小学校"
       },
       "京都市立桂東小学校" : {
+         "location" : "京都市西京区桂市ノ前31",
          "location_area" : "京都市西京区",
+         "location_wikipedia_latlon" : "|34|58|40|N|135|42|27|E|",
+         "location_zipcode" : "615-8026",
          "owner_type" : "市立",
-         "short_name" : "桂東小学校"
+         "short_name" : "桂東小学校",
+         "sort_name" : "きようとしりつかつらひかし",
+         "url" : "http://www.edu.city.kyoto.jp/hp/katsurahigashi-s/"
       },
       "京都市立桃山南小学校" : {
          "location_area" : "京都市伏見区",
@@ -1003,12 +1070,14 @@
       "京都市立池田小学校" : {
          "location_area" : "京都市伏見区",
          "owner_type" : "市立",
-         "short_name" : "池田小学校"
+         "short_name" : "池田小学校",
+         "sort_name" : "きようとしりついけたしようかつこう"
       },
       "京都市立池田東小学校" : {
          "location_area" : "京都市伏見区",
          "owner_type" : "市立",
-         "short_name" : "池田東小学校"
+         "short_name" : "池田東小学校",
+         "sort_name" : "きようとしりついけたひかししようかつこう"
       },
       "京都市立洛中小学校" : {
          "location_area" : "京都市中京区",
@@ -1016,9 +1085,13 @@
          "short_name" : "洛中小学校"
       },
       "京都市立洛央小学校" : {
+         "location" : "京都府京都市下京区仏光寺通東洞院東入仏光寺西町345番地1",
          "location_area" : "京都市下京区",
+         "location_zipcode" : "600-8094",
          "owner_type" : "市立",
-         "short_name" : "洛央小学校"
+         "short_name" : "洛央小学校",
+         "sort_name" : "きようとしりつらくおうしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/rakuo-s/"
       },
       "京都市立深草小学校" : {
          "location_area" : "京都市伏見区",
@@ -1041,14 +1114,22 @@
          "short_name" : "白川小学校"
       },
       "京都市立百々小学校" : {
+         "location" : "京都市山科区西野大手先町21",
          "location_area" : "京都市山科区",
+         "location_wikipedia_latlon" : "|34|58|37|N|135|47|46|E|",
+         "location_zipcode" : "607-8301",
          "owner_type" : "市立",
-         "short_name" : "百々小学校"
+         "short_name" : "百々小学校",
+         "sort_name" : "きようとしりつととしようかつこう"
       },
       "京都市立石田小学校" : {
+         "location" : "京都市伏見区石田森西24",
          "location_area" : "京都市伏見区",
+         "location_zipcode" : "601-1437",
          "owner_type" : "市立",
-         "short_name" : "石田小学校"
+         "short_name" : "石田小学校",
+         "sort_name" : "きようとしりついしたしようかつこう",
+         "url" : "http://www.edu.city.kyoto.jp/hp/ishida-s/"
       },
       "京都市立砂川小学校" : {
          "location_area" : "京都市伏見区",
@@ -1068,7 +1149,8 @@
       "京都市立祥豊小学校" : {
          "location_area" : "京都市南区",
          "owner_type" : "市立",
-         "short_name" : "祥豊小学校"
+         "short_name" : "祥豊小学校",
+         "sort_name" : "きようとしりつしようほうしようかつこう"
       },
       "京都市立福西小学校" : {
          "location_area" : "京都市西京区",
@@ -1118,7 +1200,8 @@
       "京都市立紫野小学校" : {
          "location_area" : "京都市北区",
          "owner_type" : "市立",
-         "short_name" : "紫野小学校"
+         "short_name" : "紫野小学校",
+         "sort_name" : "きようとしりつむらさきのしようかつこう"
       },
       "京都市立美豆小学校" : {
          "location_area" : "京都市伏見区",
@@ -1181,9 +1264,13 @@
          "short_name" : "西大路小学校"
       },
       "京都市立西野小学校" : {
+         "location" : "京都市山科区西野櫃川町34",
          "location_area" : "京都市山科区",
+         "location_wikipedia_latlon" : "|34|58|56|N|135|48|12|E|",
+         "location_zipcode" : "607-8357",
          "owner_type" : "市立",
-         "short_name" : "西野小学校"
+         "short_name" : "西野小学校",
+         "sort_name" : "きようとしりつにしのしようかつこう"
       },
       "京都市立西院小学校" : {
          "location_area" : "京都市右京区",
@@ -1251,9 +1338,12 @@
          "short_name" : "鞍馬小学校"
       },
       "京都市立音羽小学校" : {
+         "location" : "京都府京都市山科区音羽森廻り町32",
          "location_area" : "京都市山科区",
+         "location_zipcode" : "607-8066",
          "owner_type" : "市立",
-         "short_name" : "音羽小学校"
+         "short_name" : "音羽小学校",
+         "sort_name" : "きようとしりつおとわしようかつこう"
       },
       "京都市立音羽川小学校" : {
          "location_area" : "京都市山科区",
@@ -1291,27 +1381,40 @@
          "short_name" : "鷹峯小学校"
       },
       "京都教育大学附属京都小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "きようときよういくたいかくふそくきようとしよう"
       },
       "京都教育大学附属桃山小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "きようときよういくたいかくふそくももやましよう"
       },
       "京都文教短期大学付属小学校" : {
          "owner_type" : "私立",
          "short_name" : "京都文教短大付属小学校"
       },
       "伊根町立伊根小学校" : {
+         "location" : "京都府与謝郡伊根町平田426番地",
          "location_area" : "与謝郡伊根町",
+         "location_wikipedia_latlon" : "|35|40|37|N|135|17|19|E|",
+         "location_zipcode" : "626-0423",
          "owner_type" : "町立",
-         "short_name" : "伊根小学校"
+         "short_name" : "伊根小学校",
+         "sort_name" : "いねちようりついねしようかつこう",
+         "url" : "http://www8.ocn.ne.jp/~inesyou/13.html"
       },
       "伊根町立本庄小学校" : {
+         "location" : "京都府与謝郡伊根町本庄浜馬場先68番地",
          "location_area" : "与謝郡伊根町",
+         "location_wikipedia_latlon" : "|35|43|43|N|135|15|23|E|",
+         "location_zipcode" : "619-0215",
          "owner_type" : "町立",
-         "short_name" : "本庄小学校"
+         "short_name" : "本庄小学校",
+         "sort_name" : "いねちようりつほんしようしようかつこう",
+         "url" : "http://www5.ocn.ne.jp/~honsho/index.html"
       },
       "光華小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "こうかしようかつこう"
       },
       "八幡市立さくら小学校" : {
          "location_area" : "八幡市",
@@ -1449,7 +1552,11 @@
          "short_name" : "鶴ケ岡小学校"
       },
       "同志社小学校" : {
-         "owner_type" : "私立"
+         "location" : "京都府京都市左京区岩倉大鷺町89-1",
+         "location_zipcode" : "606-0001",
+         "owner_type" : "私立",
+         "sort_name" : "とうししや",
+         "url" : "http://www.doshisha-ele.ed.jp/"
       },
       "向日市立向陽小学校" : {
          "location_area" : "向日市",
@@ -1672,14 +1779,24 @@
          "short_name" : "吉津小学校"
       },
       "宮津市立宮津小学校" : {
+         "location" : "京都府宮津市字外側2508",
          "location_area" : "宮津市",
+         "location_wikipedia_latlon" : "|35|31|59|N|135|11|46|E|",
+         "location_zipcode" : "626-0047",
          "owner_type" : "市立",
-         "short_name" : "宮津小学校"
+         "short_name" : "宮津小学校",
+         "sort_name" : "みやつしりつみやつしようかつこう",
+         "url" : "http://www5.nkansai.ne.jp/sch/miyazu-es/"
       },
       "宮津市立府中小学校" : {
+         "location" : "京都府宮津市中野468番地",
          "location_area" : "宮津市",
+         "location_wikipedia_latlon" : "|35|34|56.9|N|135|11|36.3|E|",
+         "location_zipcode" : "629-2232",
          "owner_type" : "市立",
-         "short_name" : "府中小学校"
+         "short_name" : "府中小学校",
+         "sort_name" : "みやつしりつふちゆうしようかつこう",
+         "url" : "http://www5.nkansai.ne.jp/sch/fuchu-es/"
       },
       "宮津市立日置小学校" : {
          "location_area" : "宮津市",
@@ -1712,14 +1829,20 @@
          "short_name" : "加茂小学校"
       },
       "木津川市立南加茂台小学校" : {
+         "location" : "京都府木津川市南加茂台12丁目11",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-1131",
          "owner_type" : "市立",
-         "short_name" : "南加茂台小学校"
+         "short_name" : "南加茂台小学校",
+         "sort_name" : "きつかわしりつなかもたいしようかつこう"
       },
       "木津川市立当尾小学校" : {
+         "location" : "京都府木津川市加茂町辻下垣外16",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-1131",
          "owner_type" : "市立",
-         "short_name" : "当尾小学校"
+         "short_name" : "当尾小学校",
+         "sort_name" : "きつかわしりつとうのしようかつこう"
       },
       "木津川市立恭仁小学校" : {
          "location_area" : "木津川市",
@@ -1727,9 +1850,13 @@
          "short_name" : "恭仁小学校"
       },
       "木津川市立木津小学校" : {
+         "location" : "京都府木津川市木津内垣外95",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0217",
          "owner_type" : "市立",
-         "short_name" : "木津小学校"
+         "short_name" : "木津小学校",
+         "sort_name" : "きつかわしりつきつしよう",
+         "url" : "http://www.kizu.ed.jp/kizu-es/"
       },
       "木津川市立木津小学校鹿背山分校" : {
          "location_area" : "木津川市",
@@ -1737,14 +1864,21 @@
          "short_name" : "木津小学校鹿背山分校"
       },
       "木津川市立木津川台小学校" : {
+         "location" : "京都府木津川市木津川台2丁目4",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0225",
          "owner_type" : "市立",
-         "short_name" : "木津川台小学校"
+         "short_name" : "木津川台小学校",
+         "sort_name" : "きつかわしりきつかわたいしようかつこう"
       },
       "木津川市立梅美台小学校" : {
+         "location" : "京都府木津川市梅美台6丁目26番地の1号",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0215",
          "owner_type" : "市立",
-         "short_name" : "梅美台小学校"
+         "short_name" : "梅美台小学校",
+         "sort_name" : "きつかわしりつうめみたいしようかつこう",
+         "url" : "http://www.kizu.ed.jp/umemidai-es"
       },
       "木津川市立棚倉小学校" : {
          "location_area" : "木津川市",
@@ -1752,19 +1886,31 @@
          "short_name" : "棚倉小学校"
       },
       "木津川市立相楽台小学校" : {
+         "location" : "京都府木津川市相楽台5丁目17-1",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0223",
          "owner_type" : "市立",
-         "short_name" : "相楽台小学校"
+         "short_name" : "相楽台小学校",
+         "sort_name" : "きつかわしりつたかのはらちゆうかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/saganakadai-es/"
       },
       "木津川市立相楽小学校" : {
+         "location" : "京都府木津川市木津相楽小字清水1",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0222",
          "owner_type" : "市立",
-         "short_name" : "相楽小学校"
+         "short_name" : "相楽小学校",
+         "sort_name" : "きつかわしりつさかなかしようかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/saganaka-es/"
       },
       "木津川市立高の原小学校" : {
+         "location" : "京都府木津川市兜台4丁目4-1",
          "location_area" : "木津川市",
+         "location_zipcode" : "619-0224",
          "owner_type" : "市立",
-         "short_name" : "高の原小学校"
+         "short_name" : "高の原小学校",
+         "sort_name" : "きつかわしりつたかのはらちゆうかつこう",
+         "url" : "http://www.kizu.ed.jp/takanohara-es/"
       },
       "相楽東部広域連合立南山城小学校" : {
          "location_area" : "相楽郡",
@@ -1779,9 +1925,13 @@
          "owner_type" : "公立"
       },
       "福知山市立三岳小学校" : {
+         "location" : "京都府福知山市字一ノ宮580番地",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|22|00|N|134|02|57|E|",
+         "location_zipcode" : "620-0073",
          "owner_type" : "市立",
-         "short_name" : "三岳小学校"
+         "short_name" : "三岳小学校",
+         "url" : "http://www1.kyoto-be.ne.jp/mitake-es/"
       },
       "福知山市立上六人部小学校" : {
          "location_area" : "福知山市",
@@ -1809,9 +1959,13 @@
          "short_name" : "中六人部小学校"
       },
       "福知山市立佐賀小学校" : {
+         "location" : "京都府福知山市大字私市小字上リ立1",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|19|12|N|135|10|51|E|",
+         "location_zipcode" : "620-0003",
          "owner_type" : "市立",
-         "short_name" : "佐賀小学校"
+         "short_name" : "佐賀小学校",
+         "sort_name" : "ふくちやましりつさかしようかつこう"
       },
       "福知山市立修斉小学校" : {
          "location_area" : "福知山市",
@@ -1829,7 +1983,10 @@
          "short_name" : "大正小学校"
       },
       "福知山市立天津小学校" : {
+         "location" : "京都府福知山市字上天津勅使1790-1",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|20|30|N|134|06|27|E|",
+         "location_zipcode" : "620-0073",
          "owner_type" : "市立",
          "short_name" : "天津小学校"
       },
@@ -1854,9 +2011,13 @@
          "short_name" : "成仁小学校"
       },
       "福知山市立明正小学校" : {
+         "location" : "京都府福知山市夜久野町井田（井田）522",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|19|17|N|134|00|20|E|",
+         "location_zipcode" : "629-1303",
          "owner_type" : "市立",
-         "short_name" : "明正小学校"
+         "short_name" : "明正小学校",
+         "url" : "http://www1.kyoto-be.ne.jp/meisei-es/"
       },
       "福知山市立昭和小学校" : {
          "location_area" : "福知山市",
@@ -1869,9 +2030,13 @@
          "short_name" : "有仁小学校"
       },
       "福知山市立精華小学校" : {
+         "location" : "京都府福知山市夜久野町板生15",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|21|06|N|134|56|44|E|",
+         "location_zipcode" : "629-1323",
          "owner_type" : "市立",
-         "short_name" : "精華小学校"
+         "short_name" : "精華小学校",
+         "url" : "http://www.kyoto-be.ne.jp/seika-es/"
       },
       "福知山市立細見小学校" : {
          "location_area" : "福知山市",
@@ -1914,22 +2079,35 @@
          "short_name" : "雀部小学校"
       },
       "立命館小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "りつめいかんしよう"
       },
       "精華町立山田荘小学校" : {
+         "location" : "京都府相楽郡精華町桜が丘2丁目22番地の1号",
          "location_area" : "相楽郡精華町",
+         "location_zipcode" : "619-0232",
          "owner_type" : "町立",
-         "short_name" : "山田荘小学校"
+         "short_name" : "山田荘小学校",
+         "sort_name" : "せいかちようりつやまたそうしようかつこう",
+         "url" : "http://www1.kyoto-be.ne.jp/yamadanosyou-es/"
       },
       "精華町立川西小学校" : {
+         "location" : "京都府相楽郡精華町大字北稲八間小字畑ヶ谷15-1",
          "location_area" : "相楽郡精華町",
+         "location_zipcode" : "619-0237",
          "owner_type" : "町立",
-         "short_name" : "川西小学校"
+         "short_name" : "川西小学校",
+         "sort_name" : "せいかちようりつかわにししよう",
+         "url" : "http://www1.kyoto-be.ne.jp/kawanisi-es/"
       },
       "精華町立東光小学校" : {
+         "location" : "京都府相楽郡精華町光台7丁目43番地の1号",
          "location_area" : "相楽郡精華町",
+         "location_zipcode" : "619-0237",
          "owner_type" : "町立",
-         "short_name" : "東光小学校"
+         "short_name" : "東光小学校",
+         "sort_name" : "せいかちようりひかしひかりしようかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/higasihikari-es/"
       },
       "精華町立精北小学校" : {
          "location_area" : "相楽郡精華町",
@@ -1937,9 +2115,13 @@
          "short_name" : "精北小学校"
       },
       "精華町立精華台小学校" : {
+         "location" : "京都府相楽郡精華町精華台1-2-1",
          "location_area" : "相楽郡精華町",
+         "location_zipcode" : "619-0237",
          "owner_type" : "町立",
-         "short_name" : "精華台小学校"
+         "short_name" : "精華台小学校",
+         "sort_name" : "せいかちようりつせいかたいしよう",
+         "url" : "http://www1.kyoto-be.ne.jp/seikadai-es/"
       },
       "綾部市立上林小学校" : {
          "location_area" : "綾部市",
@@ -1947,9 +2129,14 @@
          "short_name" : "上林小学校"
       },
       "綾部市立中筋小学校" : {
+         "location" : "京都府綾部市大島町外山田8-1",
          "location_area" : "綾部市",
+         "location_wikipedia_latlon" : "|35|18|07|N|135|13|48|E|",
+         "location_zipcode" : "624-0046",
          "owner_type" : "市立",
-         "short_name" : "中筋小学校"
+         "short_name" : "中筋小学校",
+         "sort_name" : "あやへしりつなかすししようかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/ayabe-nakasuji-es/"
       },
       "綾部市立吉美小学校" : {
          "location_area" : "綾部市",
@@ -1987,12 +2174,18 @@
          "short_name" : "西八田小学校"
       },
       "綾部市立豊里小学校" : {
+         "location" : "京都府綾部市栗町花貝2番地",
          "location_area" : "綾部市",
+         "location_wikipedia_latlon" : "|35|18|54|N|135|13|19|E|",
+         "location_zipcode" : "623",
          "owner_type" : "市立",
-         "short_name" : "豊里小学校"
+         "short_name" : "豊里小学校",
+         "sort_name" : "あやへしりつとよさとしようかつこう",
+         "url" : "http://www.kyoto-be.ne.jp/toyosato-es/"
       },
       "聖母学院小学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "せいほかくいん"
       },
       "舞鶴市立三笠小学校" : {
          "location_area" : "舞鶴市",
@@ -2065,9 +2258,13 @@
          "short_name" : "新舞鶴小学校"
       },
       "舞鶴市立明倫小学校" : {
+         "location" : "京都府舞鶴市北田辺128-1",
          "location_area" : "舞鶴市",
+         "location_zipcode" : "624-0813",
          "owner_type" : "市立",
-         "short_name" : "明倫小学校"
+         "short_name" : "明倫小学校",
+         "sort_name" : "まいつるしりつめいりん",
+         "url" : "http://meirin.maizuru.ed.jp/"
       },
       "舞鶴市立朝来小学校" : {
          "location_area" : "舞鶴市",
@@ -2125,9 +2322,13 @@
          "short_name" : "長岡第八小学校"
       },
       "長岡京市立長岡第六小学校" : {
+         "location" : "京都府長岡京市長岡2丁目3-1",
          "location_area" : "長岡京市",
+         "location_zipcode" : "617-0823",
          "owner_type" : "市立",
-         "short_name" : "長岡第六小学校"
+         "short_name" : "長岡第六小学校",
+         "sort_name" : "なかおかきようしりつなかおかたい6しようかつこう",
+         "url" : "http://www.edu.city.nagaokakyo.kyoto.jp/naga6-e/"
       },
       "長岡京市立長岡第十小学校" : {
          "location_area" : "長岡京市",

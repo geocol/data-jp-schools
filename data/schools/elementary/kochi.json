@@ -65,9 +65,14 @@
          "short_name" : "上ノ加江小学校"
       },
       "中土佐町立久礼小学校" : {
+         "location" : "高知県高岡郡中土佐町久礼7758-1",
          "location_area" : "高岡郡中土佐町",
+         "location_wikipedia_latlon" : "|33|19|50|N|133|13|33|E|",
+         "location_zipcode" : "789-1301",
          "owner_type" : "町立",
-         "short_name" : "久礼小学校"
+         "short_name" : "久礼小学校",
+         "sort_name" : "なかとさちようりつくれしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/kure-e/"
       },
       "中土佐町立矢井賀小学校" : {
          "location_area" : "高岡郡中土佐町",
@@ -95,9 +100,13 @@
          "short_name" : "池川小学校"
       },
       "佐川町立佐川小学校" : {
+         "location" : "高知県高岡郡佐川町乙2166",
          "location_area" : "高岡郡佐川町",
+         "location_zipcode" : "789-1202",
          "owner_type" : "町立",
-         "short_name" : "佐川小学校"
+         "short_name" : "佐川小学校",
+         "sort_name" : "さかわちようりつさかわ",
+         "url" : "http://www.kochinet.ed.jp/sakawa-e/"
       },
       "佐川町立尾川小学校" : {
          "location_area" : "高岡郡佐川町",
@@ -177,7 +186,8 @@
       "南国市立白木谷小学校" : {
          "location_area" : "南国市",
          "owner_type" : "市立",
-         "short_name" : "白木谷小学校"
+         "short_name" : "白木谷小学校",
+         "sort_name" : "なんこくしりつしらきたにしようかつこう"
       },
       "南国市立稲生小学校" : {
          "location_area" : "南国市",
@@ -242,7 +252,8 @@
       "四万十市立川崎小学校" : {
          "location_area" : "四万十市",
          "owner_type" : "市立",
-         "short_name" : "川崎小学校"
+         "short_name" : "川崎小学校",
+         "sort_name" : "しまんとしりつかわさきしようかつこう"
       },
       "四万十市立川登小学校" : {
          "location_area" : "四万十市",
@@ -292,7 +303,8 @@
       "四万十市立須崎小学校" : {
          "location_area" : "四万十市",
          "owner_type" : "市立",
-         "short_name" : "須崎小学校"
+         "short_name" : "須崎小学校",
+         "sort_name" : "しまんとしりつすさきしようかつこう"
       },
       "四万十町立七里小学校" : {
          "location_area" : "高岡郡四万十町",
@@ -315,9 +327,13 @@
          "short_name" : "北の川小学校"
       },
       "四万十町立十川小学校" : {
+         "location" : "高知県高岡郡四万十町十和川口505-1",
          "location_area" : "高岡郡四万十町",
+         "location_wikipedia_latlon" : "|33|14|03|N|132|50|52|E|",
+         "location_zipcode" : "786-0535",
          "owner_type" : "町立",
-         "short_name" : "十川小学校"
+         "short_name" : "十川小学校",
+         "sort_name" : "しまんとちようりつとおかわしようかつこう"
       },
       "四万十町立口神ノ川小学校" : {
          "location_area" : "高岡郡四万十町",
@@ -392,7 +408,8 @@
       "土佐市立北原小学校" : {
          "location_area" : "土佐市",
          "owner_type" : "市立",
-         "short_name" : "北原小学校"
+         "short_name" : "北原小学校",
+         "sort_name" : "とさしりつきたはら"
       },
       "土佐市立宇佐小学校" : {
          "location_area" : "土佐市",
@@ -412,7 +429,8 @@
       "土佐市立波介小学校" : {
          "location_area" : "土佐市",
          "owner_type" : "市立",
-         "short_name" : "波介小学校"
+         "short_name" : "波介小学校",
+         "sort_name" : "とさしりつはけ"
       },
       "土佐市立蓮池小学校" : {
          "location_area" : "土佐市",
@@ -461,8 +479,10 @@
       },
       "土佐清水市立清水小学校" : {
          "location_area" : "土佐清水市",
+         "location_wikipedia_latlon" : "|32|46|54.5|N|132|57|08.5|E|",
          "owner_type" : "市立",
-         "short_name" : "清水小学校"
+         "short_name" : "清水小学校",
+         "sort_name" : "とさしみすしりつしみすしようかつこう"
       },
       "土佐清水市立窪津小学校" : {
          "location_area" : "土佐清水市",
@@ -510,14 +530,23 @@
          "short_name" : "加領郷小学校"
       },
       "奈半利町立奈半利小学校" : {
+         "location" : "高知県安芸郡奈半利町乙1648",
          "location_area" : "安芸郡奈半利町",
+         "location_wikipedia_latlon" : "|33|25|29|N|133|01|14|E|",
+         "location_zipcode" : "781-6402",
          "owner_type" : "町立",
-         "short_name" : "奈半利小学校"
+         "short_name" : "奈半利小学校",
+         "sort_name" : "なはりちようりつなはりしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/nahari-e/"
       },
       "安田町立安田小学校" : {
+         "location" : "高知県安芸郡安田町大字安田2099番地イ",
          "location_area" : "安芸郡安田町",
+         "location_wikipedia_latlon" : "|33|26|23|N|133|58|54|E|",
+         "location_zipcode" : "781-6421",
          "owner_type" : "町立",
-         "short_name" : "安田小学校"
+         "short_name" : "安田小学校",
+         "sort_name" : "やすたちようりつやすたしようかつこう"
       },
       "安芸市立下山小学校" : {
          "location_area" : "安芸市",
@@ -590,9 +619,14 @@
          "short_name" : "吉良川小学校"
       },
       "室戸市立室戸小学校" : {
+         "location" : "高知県室津市浮津115",
          "location_area" : "室戸市",
+         "location_wikipedia_latlon" : "|33|17|29|N|134|09|04|E|",
+         "location_zipcode" : "781-7103",
          "owner_type" : "市立",
-         "short_name" : "室戸小学校"
+         "short_name" : "室戸小学校",
+         "sort_name" : "むろとしりつむろとしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/muroto-e/"
       },
       "室戸市立室戸岬小学校" : {
          "location_area" : "室戸市",
@@ -615,9 +649,13 @@
          "short_name" : "大島小学校"
       },
       "宿毛市立宿毛小学校" : {
+         "location" : "高知県宿毛市桜町8-5",
          "location_area" : "宿毛市",
+         "location_zipcode" : "788-0006",
          "owner_type" : "市立",
-         "short_name" : "宿毛小学校"
+         "short_name" : "宿毛小学校",
+         "sort_name" : "すくもしりつすくもしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/sukumo-e/"
       },
       "宿毛市立小筑紫小学校" : {
          "location_area" : "宿毛市",
@@ -630,9 +668,14 @@
          "short_name" : "山奈小学校"
       },
       "宿毛市立平田小学校" : {
+         "location" : "高知県宿毛市平田町戸内4343",
          "location_area" : "宿毛市",
+         "location_wikipedia_latlon" : "|32|57|06|N|132|47|48|E|",
+         "location_zipcode" : "787-0783",
          "owner_type" : "市立",
-         "short_name" : "平田小学校"
+         "short_name" : "平田小学校",
+         "sort_name" : "すくもしりつひらたしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/hirata-e/"
       },
       "宿毛市立松田川小学校" : {
          "location_area" : "宿毛市",
@@ -640,9 +683,13 @@
          "short_name" : "松田川小学校"
       },
       "宿毛市立橋上小学校" : {
+         "location" : "高知県宿毛市橋上町橋上1144-1",
          "location_area" : "宿毛市",
+         "location_zipcode" : "788-0046",
          "owner_type" : "市立",
-         "short_name" : "橋上小学校"
+         "short_name" : "橋上小学校",
+         "sort_name" : "すくもしりつはしかみ",
+         "url" : "http://www.kochinet.ed.jp/hashikami-e/"
       },
       "日高村立加茂小学校" : {
          "location_area" : "高岡郡日高村",
@@ -760,9 +807,14 @@
          "short_name" : "浦ノ内小学校"
       },
       "須崎市立須崎小学校" : {
+         "location" : "高知県須崎市東糺町2番9号",
          "location_area" : "須崎市",
+         "location_wikipedia_latlon" : "|33|23|32|N|133|17|13|E|",
+         "location_zipcode" : "785-0011",
          "owner_type" : "市立",
-         "short_name" : "須崎小学校"
+         "short_name" : "須崎小学校",
+         "sort_name" : "すさきしりつすさきしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/susaki-e/"
       },
       "香南市立佐古小学校" : {
          "location_area" : "香南市",
@@ -790,9 +842,14 @@
          "short_name" : "赤岡小学校"
       },
       "香南市立野市小学校" : {
+         "location" : "高知県香南市野市町西野618",
          "location_area" : "香南市",
+         "location_wikipedia_latlon" : "|33|33|50|N|133|41|49|E|",
+         "location_zipcode" : "781-5232",
          "owner_type" : "市立",
-         "short_name" : "野市小学校"
+         "short_name" : "野市小学校",
+         "sort_name" : "こうなんしりつのいちしようかつこう",
+         "url" : "http://www.kochinet.ed.jp/noichi-e/"
       },
       "香南市立野市東小学校" : {
          "location_area" : "香南市",
@@ -865,7 +922,8 @@
          "short_name" : "魚梁瀬小学校"
       },
       "高知大学教育学部附属小学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "こうちたいかくきよういくかくふふそくしよう"
       },
       "高知小学校" : {
          "owner_type" : "私立"
@@ -978,12 +1036,17 @@
       "高知市立朝倉小学校" : {
          "location_area" : "高知市",
          "owner_type" : "市立",
-         "short_name" : "朝倉小学校"
+         "short_name" : "朝倉小学校",
+         "sort_name" : "こうちしりつあさくら"
       },
       "高知市立朝倉第二小学校" : {
+         "location" : "高知県高知市若草南町23-56",
          "location_area" : "高知市",
+         "location_zipcode" : "780-8082",
          "owner_type" : "市立",
-         "short_name" : "朝倉第二小学校"
+         "short_name" : "朝倉第二小学校",
+         "sort_name" : "こうちしりつあさくらたいに",
+         "url" : "http://www.kochinet.ed.jp/asakuradai2-e/"
       },
       "高知市立横内小学校" : {
          "location_area" : "高知市",
@@ -996,9 +1059,13 @@
          "short_name" : "横浜小学校"
       },
       "高知市立横浜新町小学校" : {
+         "location" : "高知県高知市横浜新町5丁目2201",
          "location_area" : "高知市",
+         "location_zipcode" : "781-0241",
          "owner_type" : "市立",
-         "short_name" : "横浜新町小学校"
+         "short_name" : "横浜新町小学校",
+         "sort_name" : "こうちしりつよこはま",
+         "url" : "http://www.kochinet.ed.jp/yokohamashinmachi-e/"
       },
       "高知市立江ノ口小学校" : {
          "location_area" : "高知市",
