@@ -382,6 +382,9 @@ sub parse_text ($) {
                  $props->{url} =~ /\(Web/;
         }
       }
+      if ($school->{text} and $school->{text} =~ /\{\{DEFAULTSORT:([^{}]+)\}\}/) {
+        $props->{sort_name} ||= $1;
+      }
 
       my $short_name = $name;
       $short_name =~ s/高等学校/高校/;
