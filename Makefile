@@ -58,19 +58,19 @@ schools-cache: \
     cache-tech-colleges cache-univs
 
 cache-kindergarten: #$(JA_CURRENT_XML)
-	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)(?:幼稚園|保育所)一覧' <\
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:(?:都|道|府|県)(?:幼稚園|保育所)一覧|幼稚園|保育[所園])' <\
 	    $(JA_CURRENT_XML)
 
 cache-elementary-schools: #$(JA_CURRENT_XML)
-	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)小学校一覧' <\
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:(?:都|道|府|県)小学校一覧|小学校|小中一貫校|初等部|初等科)' <\
 	    $(JA_CURRENT_XML)
 
 cache-junior-high-schools: #$(JA_CURRENT_XML)
-	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)中学校一覧' <\
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:(?:都|道|府|県)中学校一覧|中学校|中等教育学校|中等部)' <\
 	    $(JA_CURRENT_XML)
 
 cache-senior-high-schools: #$(JA_CURRENT_XML)
-	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)高等学校一覧' <\
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:(?:都|道|府|県)高等学校一覧|高等学校|高等部)' <\
 	    $(JA_CURRENT_XML)
 
 cache-tech-colleges:
@@ -78,11 +78,11 @@ cache-tech-colleges:
 	    $(JA_CURRENT_XML)
 
 cache-univs:
-	$(PREPARE_CACHES_BY_PATTERN) '^(?:東|西)?日本の(?:短期)?大学一覧|^大学校' \
+	$(PREPARE_CACHES_BY_PATTERN) '^(?:東|西)?日本の(?:短期)?大学一覧|^大学校|^[^:]+?大学' \
 	    $(JA_CURRENT_XML)
 
 cache-special-schools:
-	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:都|道|府|県)特別支援学校一覧' <\
+	$(PREPARE_CACHES_BY_PATTERN) '^[^:]+?(?:(?:都|道|府|県)特別支援学校一覧|特別支援学校|盲学校|聾学校|ろう学校|養護学校)' <\
 	    $(JA_CURRENT_XML)
 
 ## License: Public Domain.

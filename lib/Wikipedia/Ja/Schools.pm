@@ -33,11 +33,13 @@ sub load_school_text_from_cache ($$) {
     my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
 
     if ($text =~ /
-      \{\{(?:高等専門学校)\s*\n
+      \{\{(?:日本の(?:小|中|高等学校)|高等専門学校)\s*\n
         (.*?)
       \n\}\}
     /sx) {
-      for (split /\s*\n\|\s*/, $1) {
+      my $v = $1;
+      $v =~ s[<!--.*?-->][]gs;
+      for (split /\s*\n\|\s*/, $v) {
         if (/(\S+)\s*=\s*(.+)/) {
           $school->{$1} = $2;
         }
@@ -304,31 +306,55 @@ sub parse_text ($) {
       if ($school) {
         $props->{english_long_name} ||= $school->{'英称'};
         $props->{english_abbr_name} ||= $school->{'英略称'};
+        $props->{senior_high_school_code} ||= $school->{'高校コード'};
+        $props->{school_area} ||= $school->{'学区'};
+        if ($props->{school_area}) {
+          $props->{school_area} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
+          $props->{school_area} =~ s{\[\[([^\|\]]+)\]\]}[$1]g;
+          $props->{school_area} =~ s[\s*（.+?）\s*$][]g;
+          $props->{school_area} =~ s[<br\s*/?>.*][]gs;
+          $props->{school_area} =~ s[<[^<>]+>][]g;
+          delete $props->{school_area}
+              if $props->{school_area} eq '全県一区' or
+                 $props->{school_area} =~ /県一円$/;
+        }
+        $props->{location_zipcode} ||= $school->{'郵便番号'};
+        if ($props->{location_zipcode}) {
+          $props->{location_zipcode} =~ s[<br\s*/?>.+][]gs;
+          $props->{location_zipcode} =~ s[\s*（.+?）\s*$][]g;
+        }
         $props->{location} ||= $school->{'所在地'};
+        if ($school->{'座標'} and $school->{'座標'} =~ s/
+          \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+        //x) {
+          $props->{location_wikipedia_latlon} ||= $1;
+        }
         if ($props->{location}) {
           if ($props->{location} =~ s/
             \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
           //x) {
-            $props->{location_wikipedia_latlon} = $1;
+            $props->{location_wikipedia_latlon} ||= $1;
           }
-          $props->{location} =~ s[<br\s*/?>][ ]g;
+          $props->{location} =~ s[<br\s*/?>.+][]gs;
           $props->{location} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
           $props->{location} =~ s{\[\[([^\|\]]+)\]\]}[$1]g;
           $props->{location} =~ s[\{\{Color\|[^\|]+\|([^\|\}]+)\}\}][$1]g;
           $props->{location} =~ s[\{\{[Ss]mall(?:er)?\|([^\|\}]*)\}\}][$1]g;
-          $props->{location} =~ s[<small></small>][]g;
+          $props->{location} =~ s[<[^<>]+>][]g;
           $props->{location} =~ s['''([^']*)'''][$1]g;
           $props->{location} =~ s[(?<=\S)\s+\S+?キャンパス:?\s+.+][]g;
           $props->{location} =~ s[^\s*\S+?キャンパス\s+][]g;
-          $props->{location} =~ s[\s*（寮は.+?）\s*][]g;
+          $props->{location} =~ s[\s*（.+?）\s*$][]g;
+          $props->{location} =~ s[^本校：][]g;
+          $props->{location} =~ tr/０１２３４５６７８９/0-9/;
           if ($props->{location} =~ s/^〒([0-9-]+)\s*//) {
-            $props->{location_zipcode} = $1;
+            $props->{location_zipcode} ||= $1;
           }
           $props->{location} =~ s/^\s+//;
           $props->{location} =~ s/\s+$//;
           $props->{location} =~ s/\s+//g;
         }
-        $props->{url} ||= $school->{'ウェブサイト'};
+        $props->{url} ||= $school->{'ウェブサイト'} || $school->{'外部リンク'};
         if ($props->{url}) {
           $props->{url} =~ s{\[(http://[\x21-\x7E]+\s+\S+)\]}{$1}g;
           if ($props->{url} =~ s[(http://[\x21-\x7E]+)][]) {
