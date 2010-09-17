@@ -1684,7 +1684,7 @@
       "宝塚市立宝塚小学校" : {
          "location" : "兵庫県宝塚市川面1-7-34",
          "location_area" : "宝塚市",
-         "location_wikipedia_latlon" : "|34|48|39|N|135|20|57|E|scale:5000",
+         "location_wikipedia_latlon" : "|34|48|39|N|135|20|57|E",
          "location_zipcode" : "665-0842",
          "owner_type" : "市立",
          "short_name" : "宝塚小学校",
@@ -2039,6 +2039,7 @@
       "尼崎市立竹谷小学校" : {
          "location" : "兵庫県尼崎市北竹谷町2丁目36番地",
          "location_area" : "尼崎市",
+         "location_wikipedia_latlon" : "|34|43|15|N|135|24|22|E|",
          "location_zipcode" : "660-0878",
          "owner_type" : "市立",
          "short_name" : "竹谷小学校",
@@ -3782,7 +3783,7 @@
          "url" : "http://www2.kobe-c.ed.jp/kzb-es/"
       },
       "神戸市立高羽小学校" : {
-         "location" : "神戸市灘区高羽町3丁目11－11",
+         "location" : "神戸市灘区高羽町3丁目11-11",
          "location_area" : "神戸市灘区",
          "location_zipcode" : "657-0023",
          "owner_type" : "市立",

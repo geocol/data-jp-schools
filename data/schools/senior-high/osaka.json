@@ -2,7 +2,7 @@
    "high_schools" : {
       "大阪学芸中等教育学校" : {
          "location" : "大阪府大阪市住吉区長居1丁目5番8号",
-         "location_wikipedia_latlon" : "|34|36|54.9|N|135|30|44.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|36|54.9|N|135|30|44.8|E",
          "location_zipcode" : "558-0003",
          "owner_type" : "私立",
          "sort_name" : "おおさかかくけいちゆうとうきょういく",
@@ -98,7 +98,7 @@
       },
       "千代田高等学校" : {
          "location" : "大阪府河内長野市楠町西1090",
-         "location_wikipedia_latlon" : "|34|28|14.9|N|135|33|39.5|E|region:JP",
+         "location_wikipedia_latlon" : "|34|28|14.9|N|135|33|39.5|E",
          "location_zipcode" : "586-8577",
          "owner_type" : "私立",
          "senior_high_school_code" : "27503E",
@@ -120,7 +120,7 @@
       },
       "向陽台高等学校" : {
          "location" : "大阪府茨木市宿久庄7丁目20-1",
-         "location_wikipedia_latlon" : "|34|50|49|N|135|31|44.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|49|N|135|31|44.9|E",
          "location_zipcode" : "567-0051",
          "owner_type" : "私立",
          "senior_high_school_code" : "27575B",
@@ -130,7 +130,7 @@
       },
       "四天王寺羽曳丘高等学校" : {
          "location" : "大阪府羽曳野市学園前三丁目1-1",
-         "location_wikipedia_latlon" : "|34|32|42.1|N|135|35|21.3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|32|42.1|N|135|35|21.3|E",
          "location_zipcode" : "583-0868",
          "owner_type" : "私立",
          "senior_high_school_code" : "27588D",
@@ -174,7 +174,7 @@
       },
       "城星学園高等学校" : {
          "location" : "大阪府大阪市中央区玉造二丁目23番26号",
-         "location_wikipedia_latlon" : "|34|40|41.4|N|135|31|43.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|40|41.4|N|135|31|43.7|E",
          "location_zipcode" : "540-0004",
          "owner_type" : "私立",
          "senior_high_school_code" : "27573F",
@@ -246,7 +246,7 @@
       },
       "大阪体育大学浪商高等学校" : {
          "location" : "大阪府泉南郡熊取町朝代台1-1",
-         "location_wikipedia_latlon" : "|34|22|51|N|135|21|26.3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|22|51|N|135|21|26.3|E",
          "location_zipcode" : "590-0459",
          "owner_type" : "私立",
          "senior_high_school_code" : "27510H",
@@ -271,7 +271,7 @@
       },
       "大阪商業大学高等学校" : {
          "location" : "大阪府東大阪市御厨栄町4-1-10",
-         "location_wikipedia_latlon" : "|34|39|59.4|N|135|35|15.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|39|59.4|N|135|35|15.4|E",
          "location_zipcode" : "577-8505",
          "owner_type" : "私立",
          "senior_high_school_code" : "27515J",
@@ -291,7 +291,7 @@
       },
       "大阪国際滝井高等学校" : {
          "location" : "大阪府守口市馬場町2丁目8番24号",
-         "location_wikipedia_latlon" : "|34|43|37.9|N|135|33|40.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|43|37.9|N|135|33|40.2|E",
          "location_zipcode" : "570-0062",
          "owner_type" : "私立",
          "senior_high_school_code" : "27550G",
@@ -431,7 +431,7 @@
       },
       "大阪市立扇町総合高等学校" : {
          "location" : "大阪府大阪市北区松ヶ枝町1-38",
-         "location_wikipedia_latlon" : "|34|41|57.4|N|135|31|3.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|41|57.4|N|135|31|3.2|E",
          "location_zipcode" : "530-0037",
          "owner_type" : "市立",
          "school_area" : "大阪府全域",
@@ -442,7 +442,7 @@
       },
       "大阪市立東商業高等学校" : {
          "location" : "大阪市中央区久太郎町1丁目7番12号",
-         "location_wikipedia_latlon" : "|34|40|49.5|N|135|30|28.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|40|49.5|N|135|30|28.8|E",
          "location_zipcode" : "541-0056",
          "owner_type" : "市立",
          "senior_high_school_code" : "27227C",
@@ -483,7 +483,7 @@
       },
       "大阪市立汎愛高等学校" : {
          "location" : "大阪市鶴見区今津中2丁目1番52号",
-         "location_wikipedia_latlon" : "|34|41|32.8|N|135|34|12.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|41|32.8|N|135|34|12.2|E",
          "location_zipcode" : "538-0042",
          "owner_type" : "市立",
          "school_area" : "第二学区",
@@ -534,7 +534,7 @@
       },
       "大阪市立西高等学校" : {
          "location" : "大阪市西区北堀江4丁目7番1号",
-         "location_wikipedia_latlon" : "|34|40|25.1|N|135|29|6|E|region:JP",
+         "location_wikipedia_latlon" : "|34|40|25.1|N|135|29|6|E",
          "location_zipcode" : "550-0014",
          "owner_type" : "市立",
          "senior_high_school_code" : "27228A",
@@ -544,7 +544,7 @@
       },
       "大阪市立都島工業高等学校" : {
          "location" : "大阪府大阪市都島区善源寺町1丁目5番64号",
-         "location_wikipedia_latlon" : "|34|42|35.1|N|135|31|33.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|35.1|N|135|31|33.7|E",
          "location_zipcode" : "534-0015",
          "owner_type" : "市立",
          "senior_high_school_code" : "27234F",
@@ -554,7 +554,7 @@
       },
       "大阪市立都島第二工業高等学校" : {
          "location" : "大阪市都島区善源寺町1丁目5番64号",
-         "location_wikipedia_latlon" : "|34|42|35.1|N|135|31|33.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|35.1|N|135|31|33.7|E",
          "location_zipcode" : "534-0015",
          "owner_type" : "市立",
          "senior_high_school_code" : "27246K",
@@ -575,7 +575,7 @@
       },
       "大阪市立鶴見商業高等学校" : {
          "location" : "大阪市鶴見区緑2丁目10番9号",
-         "location_wikipedia_latlon" : "|34|42|35.5|N|135|33|59.3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|35.5|N|135|33|59.3|E",
          "location_zipcode" : "538-0054",
          "owner_type" : "市立",
          "senior_high_school_code" : "27232K",
@@ -607,7 +607,7 @@
       },
       "大阪府立りんくう翔南高等学校" : {
          "location" : "大阪府泉南市樽井2丁目35番54号",
-         "location_wikipedia_latlon" : "|34|22|3.7|N|135|15|54|E|region:JP",
+         "location_wikipedia_latlon" : "|34|22|3.7|N|135|15|54|E",
          "location_zipcode" : "590-0521",
          "owner_type" : "公立",
          "school_area" : "第四学区",
@@ -681,7 +681,7 @@
       },
       "大阪府立伯太高等学校" : {
          "location" : "大阪府和泉市伯太町2丁目4-11",
-         "location_wikipedia_latlon" : "|34|29|25.8|N|135|25|58.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|29|25.8|N|135|25|58.7|E",
          "location_zipcode" : "594-0023",
          "owner_type" : "公立",
          "school_area" : "第四学区",
@@ -787,7 +787,7 @@
       },
       "大阪府立北千里高等学校" : {
          "location" : "大阪府吹田市藤白台5-6-1",
-         "location_wikipedia_latlon" : "|34|49|43.3|N|135|30|22.5|E|region:JP",
+         "location_wikipedia_latlon" : "|34|49|43.3|N|135|30|22.5|E",
          "location_zipcode" : "565-0873",
          "owner_type" : "公立",
          "school_area" : "第一学区",
@@ -840,7 +840,7 @@
       },
       "大阪府立千里高等学校" : {
          "location" : "大阪府吹田市高野台2丁目17番1号",
-         "location_wikipedia_latlon" : "|34|47|56.7|N|135|30|52.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|47|56.7|N|135|30|52.7|E",
          "location_zipcode" : "565-0861",
          "owner_type" : "公立",
          "school_area" : "府内全域",
@@ -927,7 +927,7 @@
       },
       "大阪府立城東工科高等学校" : {
          "location" : "大阪府東大阪市西鴻池町2丁目5-33",
-         "location_wikipedia_latlon" : "|34|41|55.4|N|135|35|37.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|41|55.4|N|135|35|37.8|E",
          "location_zipcode" : "578-0976",
          "owner_type" : "公立",
          "short_name" : "城東工科高校",
@@ -1017,7 +1017,7 @@
       },
       "大阪府立大手前高等学校" : {
          "location" : "大阪府大阪市中央区大手前二丁目1番11号",
-         "location_wikipedia_latlon" : "|34|41|14|N|135|31|8.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|41|14|N|135|31|8.4|E",
          "location_zipcode" : "540-0008",
          "owner_type" : "公立",
          "school_area" : "第二学区",
@@ -1039,7 +1039,7 @@
       },
       "大阪府立天王寺高等学校" : {
          "location" : "大阪市阿倍野区三明町2-4-23",
-         "location_wikipedia_latlon" : "|34|38|23.2|N|135|31|15.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|38|23.2|N|135|31|15.4|E",
          "location_zipcode" : "545-0005",
          "owner_type" : "公立",
          "school_area" : "第三学区",
@@ -1070,7 +1070,7 @@
       },
       "大阪府立寝屋川高等学校" : {
          "location" : "大阪府寝屋川市本町15-64",
-         "location_wikipedia_latlon" : "|34|45|54.3|N|135|37|33.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|45|54.3|N|135|37|33.8|E",
          "location_zipcode" : "572-0832",
          "owner_type" : "公立",
          "school_area" : "第二学区",
@@ -1103,7 +1103,7 @@
       },
       "大阪府立岬高等学校" : {
          "location" : "大阪府泉南郡岬町淡輪3246",
-         "location_wikipedia_latlon" : "|34|19|21.8|N|135|10|13.6|E|region:JP",
+         "location_wikipedia_latlon" : "|34|19|21.8|N|135|10|13.6|E",
          "location_zipcode" : "599-0301",
          "owner_type" : "公立",
          "school_area" : "第四学区",
@@ -1331,7 +1331,7 @@
       },
       "大阪府立枚方なぎさ高等学校" : {
          "location" : "大阪府枚方市磯島元町20-1",
-         "location_wikipedia_latlon" : "|34|49|28.6|N|135|38|51.5|E|region:JP",
+         "location_wikipedia_latlon" : "|34|49|28.6|N|135|38|51.5|E",
          "location_zipcode" : "573-1187",
          "owner_type" : "公立",
          "school_area" : "第二学区",
@@ -1498,7 +1498,7 @@
       },
       "大阪府立泉鳥取高等学校" : {
          "location" : "大阪府阪南市緑ヶ丘1丁目1番10号",
-         "location_wikipedia_latlon" : "|34|20|21.7|N|135|15|32.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|20|21.7|N|135|15|32.2|E",
          "location_zipcode" : "599-0216",
          "owner_type" : "公立",
          "school_area" : "第四学区",
@@ -1569,7 +1569,7 @@
       },
       "大阪府立狭山高等学校" : {
          "location" : "大阪府大阪狭山市半田4丁目1510番",
-         "location_wikipedia_latlon" : "|34|29|44.2|N|135|33|0.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|29|44.2|N|135|33|0.7|E",
          "location_zipcode" : "589-0011",
          "owner_type" : "公立",
          "school_area" : "第三学区",
@@ -1859,7 +1859,7 @@
       },
       "大阪府立貝塚高等学校" : {
          "location" : "大阪府貝塚市畠中1丁目1番1号",
-         "location_wikipedia_latlon" : "|34|26|24.3|N|135|21|29.1|E|region:JP",
+         "location_wikipedia_latlon" : "|34|26|24.3|N|135|21|29.1|E",
          "location_zipcode" : "597-0072",
          "owner_type" : "公立",
          "senior_high_school_code" : "27185D",
@@ -1933,7 +1933,7 @@
       },
       "大阪府立長野北高等学校" : {
          "location" : "大阪府河内長野市木戸東町3番1号",
-         "location_wikipedia_latlon" : "|34|28|25.6|N|135|34|19.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|28|25.6|N|135|34|19.7|E",
          "location_zipcode" : "586-0008",
          "owner_type" : "公立",
          "school_area" : "第三学区",
@@ -2020,7 +2020,7 @@
          "url" : "http://www.osaka-c.ed.jp/korigaoka/"
       },
       "大阪府立高槻北高等学校" : {
-         "location" : "大阪府高槻市別所本町36－3",
+         "location" : "大阪府高槻市別所本町36-3",
          "location_wikipedia_latlon" : "|34|51|53.1|N|135|37|30.3|E|",
          "location_zipcode" : "569-1112",
          "owner_type" : "公立",
@@ -2084,7 +2084,7 @@
       },
       "大阪教育大学附属高等学校平野校舎" : {
          "location" : "大阪市平野区流町2丁目1番24号",
-         "location_wikipedia_latlon" : "|34|37|5.8|N|135|33|3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|37|5.8|N|135|33|3|E",
          "location_zipcode" : "547-0032",
          "owner_type" : "国立",
          "school_area" : "本文参照",
@@ -2117,7 +2117,7 @@
       },
       "大阪桐蔭高等学校" : {
          "location" : "大阪府大東市中垣内3丁目1番1号",
-         "location_wikipedia_latlon" : "|34|42|28.6|N|135|38|44.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|28.6|N|135|38|44.4|E",
          "location_zipcode" : "574-0013",
          "owner_type" : "私立",
          "senior_high_school_code" : "27593A",
@@ -2128,7 +2128,7 @@
       },
       "大阪産業大学附属高等学校" : {
          "location" : "大阪府大阪市城東区古市1-20-26",
-         "location_wikipedia_latlon" : "|34|42|31.8|N|135|33|32|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|31.8|N|135|33|32|E",
          "location_zipcode" : "536-0001",
          "owner_type" : "私立",
          "senior_high_school_code" : "27562A",
@@ -2158,7 +2158,7 @@
       },
       "大阪青凌高等学校" : {
          "location" : "大阪府高槻市前島三丁目2番1号",
-         "location_wikipedia_latlon" : "|34|50|28|N|135|38|40.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|28|N|135|38|40.2|E",
          "location_zipcode" : "569-0021",
          "owner_type" : "私立",
          "senior_high_school_code" : "27589B",
@@ -2189,7 +2189,7 @@
       },
       "太成学院大学高等学校" : {
          "location" : "大阪府大東市諸福七丁目2番23号",
-         "location_wikipedia_latlon" : "|34|42|12.3|N|135|35|51.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|12.3|N|135|35|51.8|E",
          "location_zipcode" : "574-0044",
          "owner_type" : "私立",
          "senior_high_school_code" : "27518C",
@@ -2209,7 +2209,7 @@
       },
       "宣真高等学校" : {
          "location" : "大阪府池田市荘園二丁目3番12号",
-         "location_wikipedia_latlon" : "|34|48|37.1|N|135|26|16.5|E|region:JP",
+         "location_wikipedia_latlon" : "|34|48|37.1|N|135|26|16.5|E",
          "location_zipcode" : "563-0038",
          "owner_type" : "私立",
          "short_name" : "宣真高校",
@@ -2227,7 +2227,7 @@
       },
       "岸和田市立産業高等学校" : {
          "location" : "大阪府岸和田市別所町三丁目33番1号",
-         "location_wikipedia_latlon" : "|34|27|36.6|N|135|23|23.1|E|region:JP",
+         "location_wikipedia_latlon" : "|34|27|36.6|N|135|23|23.1|E",
          "location_zipcode" : "596-0045",
          "owner_type" : "市立",
          "school_area" : "大阪府全域",
@@ -2270,7 +2270,7 @@
       },
       "常翔学園高等学校" : {
          "location" : "大阪市旭区大宮5丁目16番1号",
-         "location_wikipedia_latlon" : "|34|43|52.3|N|135|32|47.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|43|52.3|N|135|32|47.2|E",
          "location_zipcode" : "535-8585",
          "owner_type" : "私立",
          "short_name" : "常翔学園高校",
@@ -2279,7 +2279,7 @@
       },
       "建国高等学校" : {
          "location" : "大阪市住吉区遠里小野2丁目3番13号",
-         "location_wikipedia_latlon" : "|34|35|48.9|N|135|29|57.6|E|region:JP",
+         "location_wikipedia_latlon" : "|34|35|48.9|N|135|29|57.6|E",
          "location_zipcode" : "558-0032",
          "owner_type" : "私立",
          "senior_high_school_code" : "27570A",
@@ -2290,7 +2290,7 @@
       },
       "早稲田摂陵高等学校" : {
          "location" : "大阪府茨木市宿久庄7丁目20-1",
-         "location_wikipedia_latlon" : "|34|50|51.1|N|135|31|47.3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|51.1|N|135|31|47.3|E",
          "location_zipcode" : "567-0051",
          "owner_type" : "私立",
          "short_name" : "早稲田摂陵高校",
@@ -2381,7 +2381,7 @@
       },
       "東海大学付属仰星高等学校" : {
          "location" : "大阪府枚方市桜丘町60-1",
-         "location_wikipedia_latlon" : "|34|48|17.5|N|135|40|16.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|48|17.5|N|135|40|16.2|E",
          "location_zipcode" : "573-0018",
          "owner_type" : "私立",
          "senior_high_school_code" : "27587F",
@@ -2434,7 +2434,7 @@
       },
       "此花学院高等学校" : {
          "location" : "大阪市生野区勝山南2丁目6番38号",
-         "location_wikipedia_latlon" : "|34|39|9|N|135|31|48.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|39|9|N|135|31|48.9|E",
          "location_zipcode" : "544-0021",
          "owner_type" : "私立",
          "senior_high_school_code" : "27517E",
@@ -2455,7 +2455,7 @@
       },
       "清教学園高等学校" : {
          "location" : "大阪府河内長野市末広町623",
-         "location_wikipedia_latlon" : "|34|26|44.4|N|135|34|33.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|26|44.4|N|135|34|33.9|E",
          "location_zipcode" : "586-8585",
          "owner_type" : "私立",
          "senior_high_school_code" : "27580J",
@@ -2476,7 +2476,7 @@
       },
       "清風南海高等学校" : {
          "location" : "大阪府高石市綾園5丁目7番64号",
-         "location_wikipedia_latlon" : "|34|31|2.7|N|135|25|40|E|region:JP",
+         "location_wikipedia_latlon" : "|34|31|2.7|N|135|25|40|E",
          "location_zipcode" : "592-0014",
          "owner_type" : "私立",
          "senior_high_school_code" : "27577J",
@@ -2487,7 +2487,7 @@
       },
       "清風高等学校" : {
          "location" : "大阪府大阪市天王寺区石ヶ辻町12番16号",
-         "location_wikipedia_latlon" : "|34|39|47.6|N|135|31|18.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|39|47.6|N|135|31|18.2|E",
          "location_zipcode" : "543-0031",
          "owner_type" : "私立",
          "senior_high_school_code" : "27567A",
@@ -2509,7 +2509,7 @@
       },
       "秋桜高等学校" : {
          "location" : "大阪府貝塚市新町2-10",
-         "location_wikipedia_latlon" : "|34|26|36.9|N|135|21|15.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|26|36.9|N|135|21|15.2|E",
          "location_zipcode" : "597-0002",
          "owner_type" : "私立",
          "short_name" : "秋桜高校",
@@ -2539,7 +2539,7 @@
       },
       "精華高等学校" : {
          "location" : "大阪府堺市中区辻之1517",
-         "location_wikipedia_latlon" : "|34|30|59.7|N|135|30|52.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|30|59.7|N|135|30|52.4|E",
          "location_zipcode" : "599-8245",
          "owner_type" : "私立",
          "senior_high_school_code" : "27513B",
@@ -2549,7 +2549,7 @@
       },
       "羽衣学園高等学校" : {
          "location" : "大阪府高石市東羽衣1-11-57",
-         "location_wikipedia_latlon" : "|34|32|3.5|N|135|26|43|E|region:JP",
+         "location_wikipedia_latlon" : "|34|32|3.5|N|135|26|43|E",
          "location_zipcode" : "592-0003",
          "owner_type" : "私立",
          "short_name" : "羽衣学園高校",
@@ -2559,7 +2559,7 @@
       },
       "聖母女学院高等学校" : {
          "location" : "大阪府寝屋川市美井町18-10",
-         "location_wikipedia_latlon" : "|34|46|52.3|N|135|38|9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|46|52.3|N|135|38|9|E",
          "location_zipcode" : "572-8531",
          "owner_type" : "私立",
          "senior_high_school_code" : "27547G",
@@ -2570,7 +2570,7 @@
       },
       "聖母被昇天学院高等学校" : {
          "location" : "大阪府箕面市如意谷一丁目13番23号",
-         "location_wikipedia_latlon" : "|34|50|12.7|N|135|28|46.2|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|12.7|N|135|28|46.2|E",
          "location_zipcode" : "562-8543",
          "owner_type" : "私立",
          "short_name" : "聖母被昇天学院高校",
@@ -2672,7 +2672,7 @@
       },
       "金光大阪高等学校" : {
          "location" : "大阪府高槻市東上牧1丁目3番1号",
-         "location_wikipedia_latlon" : "|34|52|10.6|N|135|39|45.8|E|region:JP",
+         "location_wikipedia_latlon" : "|34|52|10.6|N|135|39|45.8|E",
          "location_zipcode" : "569-8575",
          "owner_type" : "私立",
          "senior_high_school_code" : "27519A",
@@ -2693,7 +2693,7 @@
       },
       "金剛学園高等学校" : {
          "location" : "大阪府大阪市住之江区南港北2丁目6番10号",
-         "location_wikipedia_latlon" : "|34|38|22.1|N|135|24|26.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|38|22.1|N|135|24|26.9|E",
          "location_zipcode" : "559-0034",
          "owner_type" : "私立",
          "short_name" : "金剛学園高校",
@@ -2703,7 +2703,7 @@
       },
       "金蘭会高等学校" : {
          "location" : "大阪府大阪市北区大淀南三丁目3番7号",
-         "location_wikipedia_latlon" : "|34|42|1.4|N|135|29|1.4|E|region:JP",
+         "location_wikipedia_latlon" : "|34|42|1.4|N|135|29|1.4|E",
          "location_zipcode" : "531-0075",
          "owner_type" : "私立",
          "short_name" : "金蘭会高校",
@@ -2713,7 +2713,7 @@
       },
       "金蘭千里高等学校" : {
          "location" : "大阪府吹田市藤白台五丁目25番2号",
-         "location_wikipedia_latlon" : "|34|49|37|N|135|30|53.7|E|region:JP",
+         "location_wikipedia_latlon" : "|34|49|37|N|135|30|53.7|E",
          "location_zipcode" : "565-0873",
          "owner_type" : "私立",
          "senior_high_school_code" : "27579E",
@@ -2756,7 +2756,7 @@
       },
       "関西大倉高等学校" : {
          "location" : "大阪府茨木市室山二丁目14番1号",
-         "location_wikipedia_latlon" : "|34|50|58.3|N|135|32|28.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|58.3|N|135|32|28.9|E",
          "location_zipcode" : "567-0052",
          "owner_type" : "私立",
          "short_name" : "関西大倉高校",
@@ -2766,7 +2766,7 @@
       },
       "関西大学北陽高等学校" : {
          "location" : "大阪市東淀川区上新庄1丁目3番26号",
-         "location_wikipedia_latlon" : "|34|44|45.4|N|135|31|45.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|44|45.4|N|135|31|45.9|E",
          "location_zipcode" : "533-0006",
          "owner_type" : "私立",
          "senior_high_school_code" : "27511F",
@@ -2787,7 +2787,7 @@
       },
       "関西大学高等部" : {
          "location" : "大阪府高槻市白梅町7番1号",
-         "location_wikipedia_latlon" : "|34|51|19.4|N|135|37|20.3|E|region:JP",
+         "location_wikipedia_latlon" : "|34|51|19.4|N|135|37|20.3|E",
          "location_zipcode" : "569-1116",
          "owner_type" : "私立",
          "sort_name" : "かんさいたいかく",
@@ -2811,7 +2811,7 @@
       },
       "阪南大学高等学校" : {
          "location" : "大阪府松原市河合2丁目10番65号",
-         "location_wikipedia_latlon" : "|34|34|13.3|N|135|32|39|E|region:JP",
+         "location_wikipedia_latlon" : "|34|34|13.3|N|135|32|39|E",
          "location_zipcode" : "580-0022",
          "owner_type" : "私立",
          "senior_high_school_code" : "27563J",

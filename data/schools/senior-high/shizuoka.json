@@ -115,7 +115,7 @@
       "向陽台高等学校" : {
          "location" : "大阪府茨木市宿久庄7丁目20-1",
          "location_area" : "浜松市",
-         "location_wikipedia_latlon" : "|34|50|49|N|135|31|44.9|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|49|N|135|31|44.9|E",
          "location_zipcode" : "567-0051",
          "owner_type" : "私立",
          "senior_high_school_code" : "27575B",
@@ -195,7 +195,7 @@
          "wikipedia_name" : "常葉学園中学校・高等学校"
       },
       "御殿場西高等学校" : {
-         "location" : "静岡県御殿場市茱萸沢（ぐみさわ）644-1",
+         "location" : "静岡県御殿場市茱萸沢(ぐみさわ)644-1",
          "location_area" : "御殿場市",
          "location_wikipedia_latlon" : "|35|18|49.4|N|138|54|51.3|E|",
          "location_zipcode" : "412-0041",
@@ -923,6 +923,7 @@
       "静岡県立御殿場南高等学校" : {
          "location" : "静岡県御殿場市新橋1450番地",
          "location_area" : "御殿場市",
+         "location_wikipedia_latlon" : "|35|17|40.5|N|138|56|12.1|E|",
          "location_zipcode" : "410-0012",
          "owner_type" : "県立",
          "senior_high_school_code" : "22116D",

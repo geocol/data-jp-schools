@@ -1118,7 +1118,7 @@
          "wikipedia_name" : "国士舘中学校・高等学校"
       },
       "国本女子中学校" : {
-         "location" : "（喜多見キャンパス）東京都世田谷区喜多見8-15-33（町田キャンパス）東京都町田市野津田町3101",
+         "location" : "東京都世田谷区喜多見8-15-33東京都町田市野津田町3101",
          "location_area" : "世田谷区",
          "location_zipcode" : "157-0067",
          "owner_type" : "私立",
@@ -1800,6 +1800,7 @@
       "広尾学園中学校" : {
          "location" : "東京都港区南麻布5-1-14",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|21.1|E",
          "location_zipcode" : "106-0047",
          "owner_type" : "私立",
          "sort_name" : "ひろおかくえん",
@@ -5085,7 +5086,7 @@
       "開成中学校" : {
          "location" : "東京都荒川区西日暮里四丁目2番4号",
          "location_area" : "荒川区",
-         "location_wikipedia_latlon" : "|35|43|56.8|N|139|45|53.9|E|region:JP",
+         "location_wikipedia_latlon" : "|35|43|56.8|N|139|45|53.9|E",
          "location_zipcode" : "116-0013",
          "owner_type" : "私立",
          "sort_name" : "かいせいちゆうかつこう・こうとうかつこう",
@@ -5227,7 +5228,7 @@
       "駒沢学園女子中学校" : {
          "location" : "東京都稲城市坂浜238",
          "location_area" : "稲城市",
-         "location_wikipedia_latlon" : "|35|37|38.7|N|139|29|41.3|E|region:JP",
+         "location_wikipedia_latlon" : "|35|37|38.7|N|139|29|41.3|E",
          "location_zipcode" : "206-8511",
          "owner_type" : "私立",
          "sort_name" : "こまさわかくえんしよし",
@@ -5283,7 +5284,7 @@
       "麻布中学校" : {
          "location" : "東京都港区元麻布2-3-29",
          "location_area" : "港区",
-         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|40.6|E|region:JP",
+         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|40.6|E",
          "location_zipcode" : "106-0046",
          "owner_type" : "私立",
          "sort_name" : "あさふちゆうかつこうこうとうかつこうこう",

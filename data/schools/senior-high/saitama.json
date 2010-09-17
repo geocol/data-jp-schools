@@ -360,7 +360,7 @@
       "埼玉県立大井高等学校" : {
          "location" : "埼玉県ふじみ野市大井1158-1",
          "location_area" : "ふじみ野市",
-         "location_wikipedia_latlon" : "|35|50|59.1|N|139|30|38.1|E|region:JP",
+         "location_wikipedia_latlon" : "|35|50|59.1|N|139|30|38.1|E",
          "location_zipcode" : "356-0053",
          "owner_type" : "県立",
          "senior_high_school_code" : "11219E",
@@ -686,6 +686,7 @@
       "埼玉県立所沢北高等学校" : {
          "location" : "埼玉県所沢市並木",
          "location_area" : "所沢市",
+         "location_wikipedia_latlon" : "|35.811384|N|139.462622|E",
          "location_zipcode" : "359-",
          "owner_type" : "県立",
          "senior_high_school_code" : "11178D",

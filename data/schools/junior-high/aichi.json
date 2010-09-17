@@ -292,7 +292,7 @@
       "半田市立乙川中学校" : {
          "location" : "愛知県半田市大池町3-1",
          "location_area" : "半田市",
-         "location_wikipedia_latlon" : "|34|54|59.36|N|136|56|58.53|E|region:JP",
+         "location_wikipedia_latlon" : "|34|54|59.36|N|136|56|58.53|E",
          "location_zipcode" : "475-0087",
          "owner_type" : "市立",
          "short_name" : "乙川中学校",
@@ -307,7 +307,7 @@
       "半田市立半田中学校" : {
          "location" : "愛知県半田市岩滑東町5-80",
          "location_area" : "半田市",
-         "location_wikipedia_latlon" : "|34|54|24.94|N|136|55|36.82|E|region:JP",
+         "location_wikipedia_latlon" : "|34|54|24.94|N|136|55|36.82|E",
          "location_zipcode" : "475-0905",
          "owner_type" : "市立",
          "short_name" : "半田中学校",
@@ -317,7 +317,7 @@
       "半田市立成岩中学校" : {
          "location" : "愛知県半田市昭和町3-8",
          "location_area" : "半田市",
-         "location_wikipedia_latlon" : "|34|53|17.39|N|136|55|13.75|E|region:JP",
+         "location_wikipedia_latlon" : "|34|53|17.39|N|136|55|13.75|E",
          "location_zipcode" : "475-0922",
          "owner_type" : "市立",
          "short_name" : "成岩中学校",
@@ -1081,7 +1081,7 @@
       "大府市立大府中学校" : {
          "location" : "愛知県大府市桃山町三丁目216番地",
          "location_area" : "大府市",
-         "location_wikipedia_latlon" : "|35|1|8.26|N|136|57|52.66|E|region:JP",
+         "location_wikipedia_latlon" : "|35|1|8.26|N|136|57|52.66|E",
          "location_zipcode" : "474-0026",
          "owner_type" : "市立",
          "short_name" : "大府中学校",
@@ -1091,7 +1091,7 @@
       "大府市立大府北中学校" : {
          "location" : "愛知県大府市東新町三丁目3番地の1",
          "location_area" : "大府市",
-         "location_wikipedia_latlon" : "|35|1|57.97|N|136|57|32.62|E|region:JP",
+         "location_wikipedia_latlon" : "|35|1|57.97|N|136|57|32.62|E",
          "location_zipcode" : "474-0073",
          "owner_type" : "市立",
          "short_name" : "大府北中学校",
@@ -1101,7 +1101,7 @@
       "大府市立大府南中学校" : {
          "location" : "愛知県大府市馬池町三丁目21番地",
          "location_area" : "大府市",
-         "location_wikipedia_latlon" : "|34|59|40.68|N|136|55|34.11|E|region:JP",
+         "location_wikipedia_latlon" : "|34|59|40.68|N|136|55|34.11|E",
          "location_zipcode" : "474-0045",
          "owner_type" : "市立",
          "short_name" : "大府南中学校",
@@ -1111,7 +1111,7 @@
       "大府市立大府西中学校" : {
          "location" : "愛知県大府市長草町車池11",
          "location_area" : "大府市",
-         "location_wikipedia_latlon" : "|35|1|20.61|N|136|56|39.45|E|region:JP",
+         "location_wikipedia_latlon" : "|35|1|20.61|N|136|56|39.45|E",
          "location_zipcode" : "474-0052",
          "owner_type" : "市立",
          "short_name" : "大府西中学校",
@@ -1761,7 +1761,7 @@
       "東浦町立東浦中学校" : {
          "location" : "愛知県知多郡東浦町大字石浜字障戸19番地",
          "location_area" : "知多郡東浦町",
-         "location_wikipedia_latlon" : "|34|58|23.09|N|136|58|0.5|E|region:JP",
+         "location_wikipedia_latlon" : "|34|58|23.09|N|136|58|0.5|E",
          "location_zipcode" : "470-2103",
          "owner_type" : "町立",
          "short_name" : "東浦中学校",
@@ -1853,7 +1853,7 @@
       "武豊町立富貴中学校" : {
          "location" : "愛知県知多郡武豊町大字東大高字熊野西8",
          "location_area" : "知多郡武豊町",
-         "location_wikipedia_latlon" : "|34|50|20.96|N|136|54|40.37|E|region:JP",
+         "location_wikipedia_latlon" : "|34|50|20.96|N|136|54|40.37|E",
          "location_zipcode" : "470-2334",
          "owner_type" : "町立",
          "short_name" : "富貴中学校",
@@ -1863,7 +1863,7 @@
       "武豊町立武豊中学校" : {
          "location" : "愛知県知多郡武豊町中根四丁目5番地",
          "location_area" : "知多郡武豊町",
-         "location_wikipedia_latlon" : "|34|51|14.42|N|136|54|43.47|E|region:JP",
+         "location_wikipedia_latlon" : "|34|51|14.42|N|136|54|43.47|E",
          "location_zipcode" : "470-2334",
          "owner_type" : "町立",
          "short_name" : "武豊中学校",
@@ -2724,7 +2724,7 @@
          "url" : "http://www.toyota.ed.jp/c-asahi/"
       },
       "豊田市立朝日丘中学校" : {
-         "location" : "愛知県豊田市朝日ヶ丘5－34",
+         "location" : "愛知県豊田市朝日ヶ丘5-34",
          "location_area" : "豊田市",
          "location_zipcode" : "471-0858",
          "owner_type" : "市立",
@@ -2892,7 +2892,7 @@
       "阿久比町立阿久比中学校" : {
          "location" : "愛知県知多郡阿久比町大字卯坂字半田ケ峯1",
          "location_area" : "知多郡阿久比町",
-         "location_wikipedia_latlon" : "|34|55|58.81|N|136|54|47.06|E|region:JP",
+         "location_wikipedia_latlon" : "|34|55|58.81|N|136|54|47.06|E",
          "location_zipcode" : "470-2212",
          "owner_type" : "町立",
          "short_name" : "阿久比中学校",

@@ -460,7 +460,7 @@
          "wikipedia_name" : "国士舘中学校・高等学校"
       },
       "国本女子高等学校" : {
-         "location" : "（喜多見キャンパス）東京都世田谷区喜多見8-15-33（町田キャンパス）東京都町田市野津田町3101",
+         "location" : "東京都世田谷区喜多見8-15-33東京都町田市野津田町3101",
          "location_area" : "世田谷区",
          "location_zipcode" : "157-0067",
          "owner_type" : "私立",
@@ -519,7 +519,7 @@
          "location_area" : "板橋区",
          "location_zipcode" : "174-8711",
          "owner_type" : "私立",
-         "senior_high_school_code" : "[[13698A]]",
+         "senior_high_school_code" : "13698A",
          "short_name" : "城北高校",
          "sort_name" : "しようほく",
          "url" : "http://www.johoku.ac.jp/",
@@ -886,6 +886,7 @@
       "広尾学園高等学校" : {
          "location" : "東京都港区南麻布5-1-14",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|21.1|E",
          "location_zipcode" : "106-0047",
          "owner_type" : "私立",
          "senior_high_school_code" : "13526H",
@@ -1731,7 +1732,7 @@
          "url" : "http://www.mitaka-h.metro.tokyo.jp/"
       },
       "東京都立上水高等学校" : {
-         "location" : "東京都武蔵村山市大南4－62－1",
+         "location" : "東京都武蔵村山市大南4-62-1",
          "location_area" : "武蔵村山市",
          "location_zipcode" : "208-0013",
          "owner_type" : "都立",
@@ -2520,7 +2521,7 @@
       "東京都立日比谷高等学校" : {
          "location" : "東京都千代田区永田町2丁目16-1",
          "location_area" : "千代田区",
-         "location_wikipedia_latlon" : "|35|40|34.5|N|139|44|23|E|region:JP",
+         "location_wikipedia_latlon" : "|35|40|34.5|N|139|44|23|E",
          "location_zipcode" : "100-0014",
          "owner_type" : "都立",
          "senior_high_school_code" : "13234K",
@@ -3290,7 +3291,7 @@
       "東京都立若葉総合高等学校" : {
          "location" : "東京都稲城市坂浜1434-3",
          "location_area" : "稲城市",
-         "location_wikipedia_latlon" : "|35|37|5.8|N|139|28|44.6|E|region:JP",
+         "location_wikipedia_latlon" : "|35|37|5.8|N|139|28|44.6|E",
          "location_zipcode" : "206-0822",
          "owner_type" : "都立",
          "senior_high_school_code" : "13326E",
@@ -4124,7 +4125,7 @@
          "wikipedia_name" : "穎明館中学・高等学校"
       },
       "立川女子高等学校" : {
-         "location" : "東京都立川市高松町3-12-1",
+         "location" : "東京都立川市高松町3-12-1:",
          "location_area" : "立川市",
          "location_wikipedia_latlon" : "|35|42|16.3|N|139|24|58.0|E|",
          "location_zipcode" : "190-0011",
@@ -4421,7 +4422,7 @@
       "開成高等学校" : {
          "location" : "東京都荒川区西日暮里四丁目2番4号",
          "location_area" : "荒川区",
-         "location_wikipedia_latlon" : "|35|43|56.8|N|139|45|53.9|E|region:JP",
+         "location_wikipedia_latlon" : "|35|43|56.8|N|139|45|53.9|E",
          "location_zipcode" : "116-0013",
          "owner_type" : "私立",
          "senior_high_school_code" : "13596J",
@@ -4536,7 +4537,7 @@
       "駒沢学園女子高等学校" : {
          "location" : "東京都稲城市坂浜238",
          "location_area" : "稲城市",
-         "location_wikipedia_latlon" : "|35|37|38.7|N|139|29|41.3|E|region:JP",
+         "location_wikipedia_latlon" : "|35|37|38.7|N|139|29|41.3|E",
          "location_zipcode" : "206-8511",
          "owner_type" : "私立",
          "senior_high_school_code" : "13640K",
@@ -4633,7 +4634,7 @@
       "麻布高等学校" : {
          "location" : "東京都港区元麻布2-3-29",
          "location_area" : "港区",
-         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|40.6|E|region:JP",
+         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|40.6|E",
          "location_zipcode" : "106-0046",
          "owner_type" : "私立",
          "senior_high_school_code" : "13522E",
