@@ -33,12 +33,13 @@ sub load_school_text_from_cache ($$) {
     my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
 
     if ($text =~ /
-      \{\{(?:日本の(?:小|中|高等学校)|高等専門学校)\s*\n
+      \{\{(?:日本の(?:小|中|高等)学校|高等専門学校)\s*\n
         (.*?)
       \n\}\}
     /sx) {
       my $v = $1;
       $v =~ s[<!--.*?-->][]gs;
+      $v .= "\n|";
       for (split /\s*\n\|\s*/, $v) {
         if (/(\S+)\s*=\s*(.+)/) {
           $school->{$1} = $2;
@@ -307,6 +308,11 @@ sub parse_text ($) {
         $props->{english_long_name} ||= $school->{'英称'};
         $props->{english_abbr_name} ||= $school->{'英略称'};
         $props->{senior_high_school_code} ||= $school->{'高校コード'};
+        if ($props->{senior_high_school_code}) {
+          $props->{senior_high_school_code} =~ s[<br\s*/?>.+][]gs;
+          my $title = $self->title;
+          undef $props->{senior_high_school_code} unless $title =~ /中等|高等/;
+        }
         $props->{school_area} ||= $school->{'学区'};
         if ($props->{school_area}) {
           $props->{school_area} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
@@ -322,6 +328,9 @@ sub parse_text ($) {
         if ($props->{location_zipcode}) {
           $props->{location_zipcode} =~ s[<br\s*/?>.+][]gs;
           $props->{location_zipcode} =~ s[\s*（.+?）\s*$][]g;
+          if ($props->{location_zipcode} =~ /^([0-9-]+)/) {
+            $props->{location_zipcode} = $1;
+          }
         }
         $props->{location} ||= $school->{'所在地'};
         if ($school->{'座標'} and $school->{'座標'} =~ s/
@@ -367,6 +376,10 @@ sub parse_text ($) {
           if ($props->{url} =~ s[(http://[\x21-\x7E]+)][]) {
             $props->{url} = $1;
           }
+          $props->{url} =~ tr/\[\]//d;
+          undef $props->{url}
+              if $props->{url} =~ /未開設/ or
+                 $props->{url} =~ /\(Web/;
         }
       }
 
