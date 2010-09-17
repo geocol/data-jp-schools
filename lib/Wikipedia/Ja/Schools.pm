@@ -33,7 +33,7 @@ sub load_school_text_from_cache ($$) {
     my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
 
     if ($text =~ /
-      \{\{(?:日本の(?:小|中|高等|)学校|高等専門学校|日本の幼稚園)\s*\n
+      \{\{(?:日本の(?:小|中|高等|)学校|高等専門学校|日本の幼稚園|大学)\s*\n
         (.*?)
       \n\}\}
     /sx) {
@@ -306,6 +306,23 @@ sub parse_text ($) {
       my $school = $self->load_school_text_from_cache ($wikipedia_name || $name);
       if ($school) {
         $props->{english_long_name} ||= $school->{'英称'};
+        if ($props->{english_long_name}) {
+          $props->{english_long_name} =~ s['''([^']*)'''][$1]g;
+          $props->{english_long_name} =~ s[''([^']*)''][$1]g;
+          $props->{english_long_name} =~ s/、または.*//g;
+          if ($props->{english_long_name} =~ /^(.+?)\s*[(（](.+?)[)）]$/) {
+            my $n1 = $1;
+            my $n2 = $2;
+            if (length $n1 < length $n2) {
+              $props->{english_abbr_name} ||= $n1;
+              $props->{english_long_name} = $n2;
+            } else {
+              $props->{english_abbr_name} ||= $n2;
+              $props->{english_long_name} = $n1;
+            }
+          }
+          $props->{english_long_name} =~ s/\s*;.*//g;
+        }
         $props->{english_abbr_name} ||= $school->{'英略称'};
         $props->{senior_high_school_code} ||= $school->{'高校コード'};
         if ($props->{senior_high_school_code}) {
@@ -313,6 +330,13 @@ sub parse_text ($) {
           my $title = $self->title;
           undef $props->{senior_high_school_code} unless $title =~ /中等|高等/;
         }
+        # 品質のばらつきが大きすぎるので採用しない
+        #$props->{abbr_name} ||= $school->{'大学の略称'};
+        #if ($props->{abbr_name}) {
+        #  $props->{abbr_name} =~ s[(?:、|あるいは).+][]g;
+        #  $props->{abbr_name} =~ s[\s*（.+?）\s*$][]g;
+        #  undef $props->{abbr_name} if $props->{abbr_name} =~ /^全国的には|^対外的には|^県外では|^不明/;
+        #}
         $props->{school_area} ||= $school->{'学区'};
         if ($props->{school_area}) {
           $props->{school_area} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
