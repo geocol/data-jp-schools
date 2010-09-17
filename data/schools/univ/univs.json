@@ -1,13 +1,18 @@
 {
    "graduate_schools" : {
       "LCA大学院大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "えるしいえいたいかくいん",
+         "url" : "http://www.lib.ac.jp/"
       },
       "SBI大学院大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "えすひあいたいかくいんたいかく"
       },
       "グロービス経営大学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "School of Management, Globis University",
+         "location_area" : "大阪府",
+         "url" : "http://mba.globis.ac.jp"
       },
       "ハリウッド大学院大学" : {
          "location_area" : "東京都"
@@ -16,598 +21,1061 @@
          "location_area" : "新潟県"
       },
       "京都情報大学院大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto College of Graduate Studies for Informatics",
+         "location_area" : "京都府",
+         "sort_name" : "きようとしようほうかくたいかくいん",
+         "url" : "http://www.kcg.edu/"
       },
       "光産業創成大学院大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "The Graduate School for the Creation of New Photonics Industries",
+         "location_area" : "静岡県",
+         "sort_name" : "ひかりさんきようそうせいたいかくいん",
+         "url" : "http://www.gpi.ac.jp/"
       },
       "北陸先端科学技術大学院大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Japan Advanced Institute of Science and Technology",
+         "location_area" : "石川県",
+         "sort_name" : "ほくりくせんたんかかくきしゆつたいかくいん",
+         "url" : "http://www.jaist.jp/"
       },
       "国際仏教学大学院大学" : {
          "location_area" : "東京都"
       },
       "大原大学院大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "おおはらたいかくいん",
+         "url" : "http://www.o-hara.ac.jp/grad/index.html"
       },
       "大宮法科大学院大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "OMIYA LAW SCHOOL",
+         "location_area" : "埼玉県",
+         "sort_name" : "おおみやほうかたいかくいんたいかく",
+         "url" : "http://www.omiyalaw.ac.jp"
       },
       "奈良先端科学技術大学院大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara Institute of Science and Technology",
+         "location_area" : "奈良県",
+         "sort_name" : "ならせんたんかかくきしゆつたいかくいん",
+         "url" : "http://www.naist.jp/"
       },
       "情報セキュリティ大学院大学" : {
          "location_area" : "神奈川県"
       },
       "情報科学芸術大学院大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Institute of Advanced Media Arts and Sciences",
+         "location_area" : "岐阜県",
+         "sort_name" : "しようほうかかくけいしゆつたいかくいん",
+         "url" : "http://www.iamas.ac.jp/"
       },
       "政策研究大学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "National Graduate Institute for Policy Studies",
+         "location_area" : "東京都",
+         "sort_name" : "せいさくけんきゆうたいかくいん",
+         "url" : "http://www.grips.ac.jp/"
       },
       "文化ファッション大学院大学" : {
          "location_area" : "東京都"
       },
       "新潟リハビリテーション大学院大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "University of Niigata Rehabilitation Graduate School",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたりはひりてえしよんたいかくいんたいかく",
+         "url" : "http://www.nrgs.gr.jp/"
       },
       "日本伝統医療大学院大学" : {
          "location_area" : "東京都"
       },
       "日本教育大学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Japan Professional School of Education",
+         "location_area" : "東京都",
+         "sort_name" : "にほんきよういくたいかくいんたいかく",
+         "url" : "http://www.kyoiku-u.jp/"
       },
       "映画専門大学院大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "えいかせんもんたいかくいん"
       },
       "桐朋学園大学院大学" : {
-         "location_area" : "富山県"
+         "english_long_name" : "Toho-Gakuen School of Music",
+         "location_area" : "富山県",
+         "sort_name" : "とうほうかくえんたいかくいんたいかく",
+         "url" : "http://www.tohomusic.ac.jp/diplomaSite/diplomaIndex.html"
       },
       "沖縄科学技術大学院大学" : {
          "location_area" : "沖縄県"
       },
       "産業技術大学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Advanced Institute of Industrial Technology",
+         "location_area" : "東京都",
+         "sort_name" : "さんきようきしゆつたいかくいん",
+         "url" : "http://www.aiit.ac.jp/"
       },
       "神戸情報大学院大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Institute of Computing",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしようほうたいかくいん",
+         "url" : "http://www.kic.ac.jp/"
       },
       "総合研究大学院大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "The Graduate University for Advanced Studies",
+         "location_area" : "神奈川県",
+         "sort_name" : "そうこうけんきゆうたいかくいん",
+         "url" : "http://www.soken.ac.jp/"
       }
    },
    "univs" : {
       "LEC東京リーガルマインド大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "れつくとうきようりいかるまいんと"
       },
       "いわき明星大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "Iwaki Meisei University",
+         "location_area" : "福島県",
+         "sort_name" : "いわきめいせいたいかく",
+         "url" : "http://www.iwakimu.ac.jp/"
       },
       "お茶の水女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Ochanomizu University",
+         "location_area" : "東京都",
+         "sort_name" : "おちやのみすしよしたいかく",
+         "url" : "http://www.ocha.ac.jp/"
       },
       "くらしき作陽大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Kurashiki Sakuyo University",
+         "location_area" : "岡山県",
+         "sort_name" : "くらしきさくよう",
+         "url" : "http://www.ksu.ac.jp/"
       },
       "つくば国際大学" : {
-         "location_area" : "茨城県"
+         "english_long_name" : "Tsukuba International University",
+         "location_area" : "茨城県",
+         "sort_name" : "つくはこくさいたいかく",
+         "url" : "http://www.ktt.ac.jp/tiu/index.html"
       },
       "びわこ成蹊スポーツ大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Biwako Seikei Sport College",
+         "location_area" : "滋賀県",
+         "sort_name" : "ひわこせいけいすほおつ",
+         "url" : "http://www.bss.ac.jp/"
       },
       "ものつくり大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Institute of Technologists",
+         "location_area" : "埼玉県",
+         "sort_name" : "ものつくり",
+         "url" : "http://www.iot.ac.jp/index.shtml"
       },
       "エリザベト音楽大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Elisabeth University of Music",
+         "location_area" : "広島県",
+         "sort_name" : "えりさへとおんかくたいかく",
+         "url" : "http://www.eum.ac.jp/"
       },
       "サイバー大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Cyber University",
+         "location_area" : "福岡県",
+         "sort_name" : "さいはあたいかく"
       },
       "テンプル大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Temple University",
+         "location_area" : "東京都",
+         "sort_name" : "てんふるたいかく",
+         "url" : "http://www.temple.edu/"
       },
       "デジタルハリウッド大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Digital Hollywood University",
+         "location_area" : "東京都",
+         "sort_name" : "てしたるはりうつと",
+         "url" : "http://www.dhw.ac.jp/"
       },
       "ノースアジア大学" : {
-         "location_area" : "秋田県"
+         "location_area" : "秋田県",
+         "sort_name" : "のーすあしあたいかく"
       },
       "ノートルダム清心女子大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Notre Dame Seishin University",
+         "location_area" : "岡山県",
+         "sort_name" : "のおとるたむせいしんしよし",
+         "url" : "http://www.ndsu.ac.jp/"
       },
       "フェリス女学院大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Ferris University",
+         "location_area" : "神奈川県",
+         "sort_name" : "ふえりすしよかくいん",
+         "url" : "http://www.ferris.ac.jp/"
       },
       "プール学院大学" : {
          "location_area" : "大阪府"
       },
       "ルーテル学院大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "るうてるかくいんたいかく"
       },
       "一橋大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Hitotsubashi University",
+         "location_area" : "東京都",
+         "sort_name" : "ひとつはし",
+         "url" : "http://hit-u.ac.jp/"
       },
       "三育学院大学" : {
-         "location_area" : "千葉県"
+         "location_area" : "千葉県",
+         "sort_name" : "さんいくかくいん"
       },
       "三重中京大学" : {
-         "location_area" : "三重県"
+         "english_long_name" : "Mie Chukyo University",
+         "location_area" : "三重県",
+         "sort_name" : "みえちゆうきよう",
+         "url" : "http://www.mie-chukyo-u.ac.jp/college/"
       },
       "三重大学" : {
-         "location_area" : "三重県"
+         "english_long_name" : "Mie University",
+         "location_area" : "三重県",
+         "sort_name" : "みえたいかく",
+         "url" : "http://www.mie-u.ac.jp/"
       },
       "三重県立看護大学" : {
-         "location_area" : "三重県"
+         "location_area" : "三重県",
+         "sort_name" : "みえけんりつかんこ"
       },
       "上智大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Sophia University",
+         "location_area" : "東京都",
+         "sort_name" : "しようち",
+         "url" : "http://www.sophia.ac.jp/"
       },
       "上武大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Jobu University",
+         "location_area" : "群馬県",
+         "sort_name" : "しようふたいかく",
+         "url" : "http://www.jobu.ac.jp/"
       },
       "上越教育大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Joetsu University of Education",
+         "location_area" : "新潟県",
+         "sort_name" : "しようえつきよういく",
+         "url" : "http://www.juen.ac.jp/"
       },
       "上野学園大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Ueno Gakuen University",
+         "location_area" : "東京都",
+         "sort_name" : "うえのかくえんたいかく",
+         "url" : "http://www.uenogakuen.ac.jp/university/index.html"
       },
       "下関市立大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Shimonoseki City University",
+         "location_area" : "山口県",
+         "sort_name" : "しものせきしりつ",
+         "url" : "http://www.shimonoseki-cu.ac.jp/"
       },
       "中京大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Chukyo University",
+         "location_area" : "愛知県",
+         "sort_name" : "ちゆうきようたいかく",
+         "url" : "http://www.chukyo-u.ac.jp/"
       },
       "中京学院大学" : {
-         "location_area" : "岐阜県"
+         "location_area" : "岐阜県",
+         "sort_name" : "ちゆうきようかくいんたいかく"
       },
       "中国学園大学" : {
-         "location_area" : "岡山県"
+         "location_area" : "岡山県",
+         "sort_name" : "ちゆうこくかくえんたいかく"
       },
       "中央大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Chuo University",
+         "location_area" : "東京都",
+         "sort_name" : "ちゆうおう",
+         "url" : "http://www.chuo-u.ac.jp/"
       },
       "中央学院大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Chuo Gakuin University",
+         "location_area" : "千葉県",
+         "sort_name" : "ちゆうおうかくいんたいかく",
+         "url" : "http://www.cgu.ac.jp/"
       },
       "中村学園大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Nakamura Gakuen University",
+         "location_area" : "福岡県",
+         "sort_name" : "なかむらかくえん",
+         "url" : "http://www.nakamura-u.ac.jp/"
       },
       "中部大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Chubu University",
+         "location_area" : "愛知県",
+         "location_wikipedia_latlon" : "|35|16|27|N|137|0|56|E|",
+         "sort_name" : "ちゆうふたいかく",
+         "url" : "http://www.chubu.ac.jp/"
       },
       "中部学院大学" : {
          "location_area" : "岐阜県"
       },
       "久留米大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kurume University",
+         "location_area" : "福岡県",
+         "sort_name" : "くるめたいかく",
+         "url" : "http://www.kurume-u.ac.jp/"
       },
       "久留米工業大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kurume Institute of Technology",
+         "location_area" : "福岡県",
+         "sort_name" : "くるめこうきようたいかく",
+         "url" : "http://www.kurume-it.ac.jp/"
       },
       "九州ルーテル学院大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "きゆうしゆうるうてるかくいん"
       },
       "九州保健福祉大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "Kyushu University of Health and Welfare",
+         "location_area" : "宮崎県",
+         "sort_name" : "きゆうしゆうほけんふくし",
+         "url" : "http://www.phoenix.ac.jp/"
       },
       "九州共立大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうきようりつ"
       },
       "九州国際大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kyushu International University",
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうこくさい",
+         "url" : "http://www.kiu.ac.jp/"
       },
       "九州大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kyushu University",
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆう",
+         "url" : "http://www.kyushu-u.ac.jp/"
       },
       "九州女子大学" : {
          "location_area" : "福岡県"
       },
       "九州工業大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうこうきようたいかく"
       },
       "九州情報大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kyushu Institute of Information Sciences",
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうしようほう",
+         "url" : "http://www.kiis.ac.jp/"
       },
       "九州栄養福祉大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうえいようふくし"
       },
       "九州歯科大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kyushu Dental College",
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうしか",
+         "url" : "http://www.kyu-dent.ac.jp/"
       },
       "九州産業大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Kyushu Sangyo University",
+         "location_area" : "福岡県",
+         "sort_name" : "きゆうしゆうさんきよう",
+         "url" : "http://www.kyusan-u.ac.jp/"
       },
       "九州看護福祉大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "きゆうしゆうかんこふくし"
       },
       "了徳寺大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Ryotokuji University",
+         "location_area" : "千葉県",
+         "sort_name" : "りようとくしたいかく",
+         "url" : "http://ryotokuji-u.ac.jp/"
       },
       "二松学舎大学柏キャンパス" : {
          "location_area" : "千葉県",
          "wikipedia_name" : "二松学舎大学"
       },
       "二松學舍大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Nishogakusha University",
+         "location_area" : "東京都",
+         "sort_name" : "にしようかくしや",
+         "url" : "http://www.nishogakusha-u.ac.jp/"
       },
       "亜細亜大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Asia University",
+         "location_area" : "東京都",
+         "sort_name" : "あしあたいかく",
+         "url" : "http://www.asia-u.ac.jp/"
       },
       "京都ノートルダム女子大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Notre Dame University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとのおとるたむしよし",
+         "url" : "http://www.notredame.ac.jp/"
       },
       "京都光華女子大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "きようとこうかしよし",
+         "url" : "http://www.koka.ac.jp/"
       },
       "京都創成大学" : {
          "location_area" : "京都府"
       },
       "京都医療科学大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "きようといりようかかく"
       },
       "京都外国語大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto University of Foreign Studies",
+         "location_area" : "京都府",
+         "sort_name" : "きようとかいこくこ",
+         "url" : "http://www.kufs.ac.jp/"
       },
       "京都大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto University",
+         "location_area" : "京都府",
+         "sort_name" : "きようと",
+         "url" : "http://www.kyoto-u.ac.jp/"
       },
       "京都女子大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Women's University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとしよし",
+         "url" : "http://www.kyoto-wu.ac.jp/"
       },
       "京都学園大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Gakuen University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとかくえんたいかく",
+         "url" : "http://www.kyotogakuen.ac.jp/"
       },
       "京都嵯峨芸術大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Saga University of Arts",
+         "location_area" : "京都府",
+         "sort_name" : "きようとさかけいしゆつ",
+         "url" : "http://www.kyoto-saga.ac.jp/"
       },
       "京都工芸繊維大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Institute of Technology",
+         "location_area" : "京都府",
+         "sort_name" : "きようとこうけいせんい",
+         "url" : "http://www.kit.ac.jp/"
       },
       "京都市立芸術大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "きようとしりつけいしゆつたいかく"
       },
       "京都府立医科大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Prefectural University of Medicine",
+         "location_area" : "京都府",
+         "sort_name" : "きようとふりついか",
+         "url" : "http://www.kpu-m.ac.jp/"
       },
       "京都府立大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Prefectual University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとふりつ",
+         "url" : "http://www.kpu.ac.jp/"
       },
       "京都教育大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto University of Education",
+         "location_area" : "京都府",
+         "sort_name" : "きようときよういくたいかく",
+         "url" : "http://www.kyokyo-u.ac.jp/"
       },
       "京都文教大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Bunkyo University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとふんきよう",
+         "url" : "http://www.kbu.ac.jp/kbu/"
       },
       "京都橘大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Tachibana University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとたちはな",
+         "url" : "http://www.tachibana-u.ac.jp/"
       },
       "京都産業大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Sangyo University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとさんきようたいかく",
+         "url" : "http://www.kyoto-su.ac.jp/"
       },
       "京都精華大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Seika University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとせいかたいかく",
+         "url" : "http://www.kyoto-seika.ac.jp/"
       },
       "京都薬科大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Kyoto Pharmaceutical University",
+         "location_area" : "京都府",
+         "sort_name" : "きようとやつか",
+         "url" : "http://www.kyoto-phu.ac.jp/"
       },
       "京都造形芸術大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "きようとそうけいけいしゆつ"
       },
       "人間環境大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "にんけんかんきようたいかく"
       },
       "人間総合科学大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "University of Human Arts and Sciences",
+         "location_area" : "埼玉県",
+         "sort_name" : "にんけんそうこうかかくたいかく",
+         "url" : "http://www.human.ac.jp/"
       },
       "仁愛大学" : {
-         "location_area" : "福井県"
+         "english_long_name" : "Jin-ai University",
+         "location_area" : "福井県",
+         "sort_name" : "しんあいたいかく",
+         "url" : "http://www.jindai.ac.jp/"
       },
       "仙台大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Sendai University",
+         "location_area" : "宮城県",
+         "sort_name" : "せんたい",
+         "url" : "http://www.sendaidaigaku.jp/"
       },
       "仙台白百合女子大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Sendai Shirayuri Women's College",
+         "location_area" : "宮城県",
+         "sort_name" : "せんたいしらゆりしよしたいかく",
+         "url" : "http://sendai-shirayuri.ac.jp/"
       },
       "会津大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "The University of Aizu",
+         "location_area" : "福島県",
+         "sort_name" : "あいつたいかく",
+         "url" : "http://www.u-aizu.ac.jp/official/index_j.html"
       },
       "佐久大学" : {
-         "location_area" : "長野県"
+         "location_area" : "長野県",
+         "sort_name" : "さく"
       },
       "佐賀大学" : {
-         "location_area" : "佐賀県"
+         "english_long_name" : "Saga University",
+         "location_area" : "佐賀県",
+         "sort_name" : "さかたいかく",
+         "url" : "http://www.saga-u.ac.jp/"
       },
       "佛教大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "ふつきよう"
       },
       "作新学院大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Sakushin Gakuin University",
+         "location_area" : "栃木県",
+         "sort_name" : "さくしんかくいん",
+         "url" : "http://www.sakushin-u.ac.jp/"
       },
       "保健医療経営大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "ほけんいりようけいえい"
       },
       "信州大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Shinshu University",
+         "location_area" : "長野県",
+         "sort_name" : "しんしゆう",
+         "url" : "http://www.shinshu-u.ac.jp/"
       },
       "修文大学" : {
          "location_area" : "愛知県"
       },
       "倉敷芸術科学大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Kurashiki University of Science and the Arts",
+         "location_area" : "岡山県",
+         "sort_name" : "くらしきけいしゆつかかく",
+         "url" : "http://www.kusa.ac.jp/"
       },
       "健康科学大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "Health Science University",
+         "location_area" : "山梨県",
+         "sort_name" : "けんこうかかく",
+         "url" : "http://www.kenkoudai.com/"
       },
       "八戸大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Hachinohe University",
+         "location_area" : "青森県",
+         "sort_name" : "はちのへたいかく",
+         "url" : "http://www.hachinohe-u.ac.jp/daigaku/"
       },
       "八戸工業大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Hachinohe Institute of Technology.",
+         "location_area" : "青森県",
+         "sort_name" : "はちのへこうきよう",
+         "url" : "http://www.hi-tech.ac.jp/"
       },
       "八洲学園大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Yashima Gakuen University",
+         "location_area" : "神奈川県",
+         "sort_name" : "やしまかくえんたいかく",
+         "url" : "http://study.jp/univ/yashima/"
       },
       "公立はこだて未来大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "こうりつはこたてみらい"
       },
       "共愛学園前橋国際大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Maebashi Kyoai Gakuen College",
+         "location_area" : "群馬県",
+         "sort_name" : "きようあいかくえんまえはしこくさい",
+         "url" : "http://www.kyoai.ac.jp/"
       },
       "共栄大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Kyoei University",
+         "location_area" : "埼玉県",
+         "sort_name" : "きようえいたいかく",
+         "url" : "http://www.kyoei.ac.jp/"
       },
       "共立女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kyoritsu Women's University",
+         "location_area" : "東京都",
+         "location_wikipedia_latlon" : "|35|41|36.81|N|139|45|29.63|E",
+         "sort_name" : "きようりつしよし",
+         "url" : "http://www.kyoritsu-wu.ac.jp/"
       },
       "兵庫医療大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Hyogo University of Health Sciences",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひようこいりよう",
+         "url" : "http://www.huhs.ac.jp/"
       },
       "兵庫医科大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Hyogo College of Medicine",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひようこいか",
+         "url" : "http://www.hyo-med.ac.jp/"
       },
       "兵庫大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Hyogo University",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひようこたいかく",
+         "url" : "http://www.hyogo-dai.ac.jp"
       },
       "兵庫教育大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Hyogo University of Teacher Education",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひようこきよういく",
+         "url" : "http://www.hyogo-u.ac.jp/"
       },
       "兵庫県立大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "University of Hyogo",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひようこけんりつ",
+         "url" : "http://www.u-hyogo.ac.jp/"
       },
       "函館大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hakodate University",
+         "location_area" : "北海道",
+         "sort_name" : "はこたてたいかく",
+         "url" : "http://www.hakodate-u.ac.jp/"
       },
       "別府大学" : {
-         "location_area" : "大分県"
+         "english_long_name" : "Beppu University",
+         "location_area" : "大分県",
+         "sort_name" : "へつふたいかく",
+         "url" : "http://www.beppu-u.ac.jp/"
       },
       "前橋工科大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Maebashi Institute of Technology",
+         "location_area" : "群馬県",
+         "sort_name" : "まえはしこうか",
+         "url" : "http://www.maebashi-it.ac.jp/index.php"
       },
       "創価大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Soka University",
+         "location_area" : "東京都",
+         "sort_name" : "そうかたいかく",
+         "url" : "http://www.soka.ac.jp/"
       },
       "創造学園大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "University of Creation",
+         "location_area" : "群馬県",
+         "sort_name" : "そうそうかくえんたいかく",
+         "url" : "http://souzou.ac.jp/"
       },
       "北九州市立大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "The University of Kitakyushu",
+         "location_area" : "福岡県",
+         "sort_name" : "きたきゆうしゆうしりつたいかく",
+         "url" : "http://www.kitakyu-u.ac.jp/"
       },
       "北星学園大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほくせいかくえん"
       },
       "北海商科大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hokkai School of Commerce",
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいしようか",
+         "url" : "http://www.hokkai.ac.jp/"
       },
       "北海学園大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hokkai Gakuen University",
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいかくえん",
+         "url" : "http://www.hokkai-s-u.ac.jp/"
       },
       "北海道医療大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとういりようたいかく"
       },
       "北海道大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hokkaido University",
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうたいかく",
+         "url" : "http://www.hokudai.ac.jp/"
       },
       "北海道工業大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうこうきようたいかく"
       },
       "北海道情報大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hokkaido Information University",
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうしようほう",
+         "url" : "http://www.do-johodai.ac.jp/"
       },
       "北海道教育大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうきよういく"
       },
       "北海道文教大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうふんきよう"
       },
       "北海道薬科大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ほつかいとうやつか"
       },
       "北翔大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Hokusho University",
+         "location_area" : "北海道",
+         "sort_name" : "ほくしよう",
+         "url" : "http://www.hokusho-u.ac.jp/"
       },
       "北見工業大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "きたみこうきよう"
       },
       "北里大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kitasato University",
+         "location_area" : "東京都",
+         "sort_name" : "きたさと",
+         "url" : "http://www.kitasato-u.ac.jp/"
       },
       "北里大学三陸キャンパス" : {
+         "english_long_name" : "Kitasato University",
          "location_area" : "岩手県",
+         "sort_name" : "きたさと",
+         "url" : "http://www.kitasato-u.ac.jp/",
          "wikipedia_name" : "北里大学"
       },
       "北里大学十和田キャンパス" : {
+         "english_long_name" : "Kitasato University",
          "location_area" : "青森県",
+         "sort_name" : "きたさと",
+         "url" : "http://www.kitasato-u.ac.jp/",
          "wikipedia_name" : "北里大学"
       },
       "北里大学相模原キャンパス" : {
+         "english_long_name" : "Kitasato University",
          "location_area" : "神奈川県",
+         "sort_name" : "きたさと",
+         "url" : "http://www.kitasato-u.ac.jp/",
          "wikipedia_name" : "北里大学"
       },
       "北陸大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Hokuriku University",
+         "location_area" : "石川県",
+         "sort_name" : "ほくりくたいかく",
+         "url" : "http://www.hokuriku-u.ac.jp/"
       },
       "北陸学院大学" : {
-         "location_area" : "石川県"
+         "location_area" : "石川県",
+         "sort_name" : "ほくりくかくいんたいかく",
+         "url" : "http://www.hokurikugakuin.ac.jp/univ/index.html"
       },
       "十文字学園女子大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Jumonji University",
+         "location_area" : "埼玉県",
+         "sort_name" : "しゆうもんしかくえんしよし",
+         "url" : "http://www.jumonji-u.ac.jp/"
       },
       "千歳科学技術大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ちとせかかくきしゆつ"
       },
       "千葉商科大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Chiba University of Commerce",
+         "location_area" : "千葉県",
+         "sort_name" : "ちはしようかたいかく",
+         "url" : "http://www.cuc.ac.jp/"
       },
       "千葉大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Chiba University",
+         "location_area" : "千葉県",
+         "sort_name" : "ちはたいかく",
+         "url" : "http://www.chiba-u.ac.jp/"
       },
       "千葉工業大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "[[CIT]]（Chiba Institute of Technology）<ref>なお、芝園キャンパスの最寄のバス停で",
+         "location_area" : "千葉県",
+         "sort_name" : "ちはこうきようたいかく",
+         "url" : "http://www.it-chiba.ac.jp/"
       },
       "千葉科学大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Chiba Institute of Science",
+         "location_area" : "千葉県",
+         "sort_name" : "ちはかかくたいかく",
+         "url" : "http://www.cis.ac.jp/"
       },
       "千葉経済大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Chiba Keizai University",
+         "location_area" : "千葉県",
+         "sort_name" : "ちはけいさいたいかく",
+         "url" : "http://www.cku.ac.jp/"
       },
       "千里金蘭大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Senri Kinran University",
+         "location_area" : "大阪府",
+         "sort_name" : "せんりきんらんたいかく",
+         "url" : "http://www.kinran.ac.jp/"
       },
       "南九州大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "MINAMI KYUSHU UNIVERSITY",
+         "location_area" : "宮崎県",
+         "url" : "http://www.nankyudai.ac.jp/index.html"
       },
       "南山大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nanzan University",
+         "location_area" : "愛知県",
+         "sort_name" : "なんさんたいかく",
+         "url" : "http://www.nanzan-u.ac.jp/"
       },
       "吉備国際大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Kibi International University",
+         "location_area" : "岡山県",
+         "sort_name" : "きひこくさい",
+         "url" : "http://kiui.jp/"
       },
       "同志社大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Doshisha University",
+         "location_area" : "京都府",
+         "sort_name" : "とうししや",
+         "url" : "http://www.doshisha.ac.jp/"
       },
       "同志社女子大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Doshisha Women's College of Liberal Arts",
+         "location_area" : "京都府",
+         "sort_name" : "とうししやしよしたいかく",
+         "url" : "http://www.dwc.doshisha.ac.jp/"
       },
       "同朋大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Doho University",
+         "location_area" : "愛知県",
+         "sort_name" : "とうほうたいかく",
+         "url" : "http://www.doho.ac.jp/"
       },
       "名古屋商科大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya University of Commerce & Business",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやしようかたいかく",
+         "url" : "http://www.nucba.ac.jp/"
       },
       "名古屋外国語大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya University of Foreign Studies",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやかいこくこたいかく",
+         "url" : "http://www.nufs.ac.jp/index.html"
       },
       "名古屋大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya University",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやたいかく",
+         "url" : "http://www.nagoya-u.ac.jp/"
       },
       "名古屋女子大学" : {
          "location_area" : "愛知県"
       },
       "名古屋学芸大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya University of Arts and Sciences",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやかくけい",
+         "url" : "http://www.nuas.ac.jp/"
       },
       "名古屋学院大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya Gakuin University",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやかくいん",
+         "url" : "http://www.ngu.jp/"
       },
       "名古屋工業大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya Institute of Technology",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやこうきよう",
+         "url" : "http://www.nitech.ac.jp/"
       },
       "名古屋市立大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya City University",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやしりつ",
+         "url" : "http://www.nagoya-cu.ac.jp/"
       },
       "名古屋文理大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "なこやふんり"
       },
       "名古屋産業大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya Sangyo University",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやさんきよう",
+         "url" : "http://www.nagoya-su.ac.jp/"
       },
       "名古屋経済大学" : {
          "location_area" : "愛知県"
       },
       "名古屋芸術大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya University Of Arts",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやけいしゆつ",
+         "url" : "http://www.nua.ac.jp/"
       },
       "名古屋造形芸術大学" : {
          "location_area" : "愛知県"
       },
       "名古屋音楽大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Nagoya College of Music",
+         "location_area" : "愛知県",
+         "sort_name" : "なこやおんかくたいかく",
+         "url" : "http://www.meion.ac.jp/"
       },
       "名城大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "めいしようたいかく"
       },
       "名城大学可児キャンパス" : {
          "location_area" : "岐阜県",
+         "sort_name" : "めいしようたいかく",
          "wikipedia_name" : "名城大学"
       },
       "名寄市立大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "なよろしりつ"
       },
       "名桜大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Meio University",
+         "location_area" : "沖縄県",
+         "sort_name" : "めいおう",
+         "url" : "http://www.meio-u.ac.jp/"
       },
       "和光大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "わこうたいかく"
       },
       "和歌山大学" : {
-         "location_area" : "和歌山県"
+         "english_long_name" : "Wakayama University",
+         "location_area" : "和歌山県",
+         "sort_name" : "わかやまたいかく",
+         "url" : "http://www.wakayama-u.ac.jp/"
       },
       "和歌山県立医科大学" : {
-         "location_area" : "和歌山県"
+         "english_long_name" : "Wakayama Medical University",
+         "location_area" : "和歌山県",
+         "sort_name" : "わかやまけんりついか",
+         "url" : "http://www.wakayama-med.ac.jp/"
       },
       "和洋女子大学" : {
-         "location_area" : "千葉県"
+         "location_area" : "千葉県",
+         "sort_name" : "わようしよし"
       },
       "嘉悦大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kaetsu University",
+         "location_area" : "東京都",
+         "sort_name" : "かえつたいかく",
+         "url" : "http://www.kaetsu.ac.jp/"
       },
       "四国大学" : {
-         "location_area" : "徳島県"
+         "english_long_name" : "Shikoku University",
+         "location_area" : "徳島県",
+         "sort_name" : "しこくたいかく",
+         "url" : "http://www.shikoku-u.ac.jp/"
       },
       "四国学院大学" : {
-         "location_area" : "香川県"
+         "english_long_name" : "Shikoku Gakuin University",
+         "location_area" : "香川県",
+         "sort_name" : "しこくかくいんたいかく",
+         "url" : "http://www.sg-u.ac.jp/"
       },
       "四天王寺国際仏教大学" : {
          "location_area" : "大阪府"
       },
       "四日市大学" : {
-         "location_area" : "三重県"
+         "location_area" : "三重県",
+         "sort_name" : "よつかいちたいかく"
       },
       "四日市看護医療大学" : {
          "location_area" : "三重県"
       },
       "四條畷学園大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Shijonawate Gakuen University",
+         "location_area" : "大阪府",
+         "sort_name" : "ししようなわてかくえんたいかく",
+         "url" : "http://www.shijonawate-gakuen.ac.jp/reha/"
       },
       "国士舘大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kokushikan University",
+         "location_area" : "東京都",
+         "sort_name" : "こくしかんたいかく",
+         "url" : "http://www.kokushikan.ac.jp/"
       },
       "国立音楽大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kunitachi College of Music",
+         "location_area" : "東京都",
+         "sort_name" : "くにたちおんかくたいかく",
+         "url" : "http://www.kunitachi.ac.jp/"
       },
       "国際医療福祉大学" : {
-         "location_area" : "栃木県"
+         "english_abbr_name" : "IUHW",
+         "english_long_name" : "International University of Health and Welfare",
+         "location_area" : "栃木県",
+         "sort_name" : "こくさいいりようふくし",
+         "url" : "http://www.iuhw.ac.jp"
       },
       "国際医療福祉大学大川キャンパス" : {
+         "english_abbr_name" : "IUHW",
+         "english_long_name" : "International University of Health and Welfare",
          "location_area" : "福岡県",
+         "sort_name" : "こくさいいりようふくし",
+         "url" : "http://www.iuhw.ac.jp",
          "wikipedia_name" : "国際医療福祉大学"
       },
       "国際医療福祉大学小田原キャンパス" : {
+         "english_abbr_name" : "IUHW",
+         "english_long_name" : "International University of Health and Welfare",
          "location_area" : "神奈川県",
+         "sort_name" : "こくさいいりようふくし",
+         "url" : "http://www.iuhw.ac.jp",
          "wikipedia_name" : "国際医療福祉大学"
       },
       "国際基督教大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "こくさいきりすときよう"
       },
       "国際大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "International University of Japan",
+         "location_area" : "新潟県",
+         "sort_name" : "こくさい",
+         "url" : "http://www.iuj.ac.jp/index.cfm?Language=J"
       },
       "国際教養大学" : {
-         "location_area" : "秋田県"
+         "english_long_name" : "Akita International University",
+         "location_area" : "秋田県",
+         "sort_name" : "こくさいきようようたいかく",
+         "url" : "http://www.aiu.ac.jp/"
       },
       "国際武道大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "International Budo University",
+         "location_area" : "千葉県",
+         "sort_name" : "こくさいふとう",
+         "url" : "http://www.budo-u.ac.jp/"
       },
       "國學院大學" : {
          "location_area" : "東京都"
@@ -617,354 +1085,642 @@
          "wikipedia_name" : "國學院大學"
       },
       "園田学園女子大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Sonoda Women's University",
+         "location_area" : "兵庫県",
+         "sort_name" : "そのたかくえんしよし",
+         "url" : "http://www.sonoda-u.ac.jp/"
       },
       "城西国際大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Josai International University",
+         "location_area" : "千葉県",
+         "sort_name" : "しようさいこくさい",
+         "url" : "http://www.jiu.ac.jp/"
       },
       "城西国際大学東京紀尾井町キャンパス" : {
+         "english_long_name" : "Josai International University",
          "location_area" : "東京都",
+         "sort_name" : "しようさいこくさい",
+         "url" : "http://www.jiu.ac.jp/",
          "wikipedia_name" : "城西国際大学"
       },
       "城西大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Josai University",
+         "location_area" : "埼玉県",
+         "sort_name" : "しようさいたいかく",
+         "url" : "http://www.josai.ac.jp/"
       },
       "埼玉医科大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Saitama Medical University",
+         "location_area" : "埼玉県",
+         "sort_name" : "さいたまいか",
+         "url" : "http://www.saitama-med.ac.jp/"
       },
       "埼玉大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Saitama University",
+         "location_area" : "埼玉県",
+         "sort_name" : "さいたまたいかく",
+         "url" : "http://www.saitama-u.ac.jp/"
       },
       "埼玉学園大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Saitama Gakuen University",
+         "location_area" : "埼玉県",
+         "sort_name" : "さいたまかくえん",
+         "url" : "http://www.saigaku.ac.jp/"
       },
       "埼玉工業大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Saitama Institute of Technology",
+         "location_area" : "埼玉県",
+         "sort_name" : "さいたまこうきよう",
+         "url" : "http://www.sit.ac.jp/"
       },
       "埼玉県立大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Saitama Prefectural University",
+         "location_area" : "埼玉県",
+         "sort_name" : "さいたまけんりつたいかく",
+         "url" : "http://www.spu.ac.jp/"
       },
       "多摩大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tama University",
+         "location_area" : "東京都",
+         "sort_name" : "たまたいかく",
+         "url" : "http://www.tama.ac.jp/"
       },
       "多摩大学湘南キャンパス" : {
+         "english_long_name" : "Tama University",
          "location_area" : "神奈川県",
+         "sort_name" : "たまたいかく",
+         "url" : "http://www.tama.ac.jp/",
          "wikipedia_name" : "多摩大学"
       },
       "多摩美術大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tama Art University",
+         "location_area" : "東京都",
+         "sort_name" : "たまひしゆつ",
+         "url" : "http://www.tamabi.ac.jp/"
       },
       "大分大学" : {
-         "location_area" : "大分県"
+         "location_area" : "大分県",
+         "sort_name" : "おおいた"
       },
       "大分県立看護科学大学" : {
-         "location_area" : "大分県"
+         "english_long_name" : "Oita University of Nursing and Health Sciences",
+         "location_area" : "大分県",
+         "sort_name" : "おおいたけんりつかんこかかく",
+         "url" : "http://www.oita-nhs.ac.jp/"
       },
       "大同大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Daido University",
+         "location_area" : "愛知県",
+         "sort_name" : "たいとうたいかく",
+         "url" : "http://www.daido-it.ac.jp/"
       },
       "大妻女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "おおつましよし"
       },
       "大妻女子大学狭山台キャンパス" : {
          "location_area" : "埼玉県",
+         "sort_name" : "おおつましよし",
          "wikipedia_name" : "大妻女子大学"
       },
       "大手前大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Otemae University",
+         "location_area" : "兵庫県",
+         "sort_name" : "おおてまえたいかく",
+         "url" : "http://www.otemae.ac.jp/"
       },
       "大東文化大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Daito Bunka University",
+         "location_area" : "東京都",
+         "sort_name" : "たいとうふんか",
+         "url" : "http://www.daito.ac.jp/"
       },
       "大東文化大学東松山キャンパス" : {
+         "english_long_name" : "Daito Bunka University",
          "location_area" : "埼玉県",
+         "sort_name" : "たいとうふんか",
+         "url" : "http://www.daito.ac.jp/",
          "wikipedia_name" : "大東文化大学"
       },
       "大正大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Taisho University",
+         "location_area" : "東京都",
+         "sort_name" : "たいしようたいかく",
+         "url" : "http://www.tais.ac.jp/"
       },
       "大谷大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Otani University",
+         "location_area" : "京都府",
+         "sort_name" : "おおたにたいかく",
+         "url" : "http://www.otani.ac.jp/"
       },
       "大阪人間科学大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかにんけんかかく"
       },
       "大阪体育大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかたいいくたいかく"
       },
       "大阪医科大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Medical College",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかいか",
+         "url" : "http://www.osaka-med.ac.jp/"
       },
       "大阪商業大学" : {
          "location_area" : "大阪府"
       },
       "大阪国際大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka International University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかこくさいたいかく",
+         "url" : "http://www.oiu.ac.jp/"
       },
       "大阪大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかたいかく",
+         "url" : "http://www.osaka-u.ac.jp/"
       },
       "大阪大谷大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Ohtani University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかおおたにたいかく",
+         "url" : "http://www.osaka-ohtani.ac.jp/"
       },
       "大阪女学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Jogakuin College",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかしよかくいんたいかく",
+         "url" : "http://www.wilmina.ac.jp/"
       },
       "大阪学院大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかかくいんたいかく"
       },
       "大阪工業大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Institute of Technology、OIT",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかこうきよう",
+         "url" : "http://www.oit.ac.jp/"
       },
       "大阪市立大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka City University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかしりつたいかく",
+         "url" : "http://www.osaka-cu.ac.jp/"
       },
       "大阪府立大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Prefecture University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかふりつたいかく",
+         "url" : "http://www.osakafu-u.ac.jp/"
       },
       "大阪成蹊大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Seikei University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかせいけいたいかく",
+         "url" : "http://www.osaka-seikei.ac.jp/seikei-daigaku/"
       },
       "大阪成蹊大学長岡京キャンパス" : {
+         "english_long_name" : "Osaka Seikei University",
          "location_area" : "京都府",
+         "sort_name" : "おおさかせいけいたいかく",
+         "url" : "http://www.osaka-seikei.ac.jp/seikei-daigaku/",
          "wikipedia_name" : "大阪成蹊大学"
       },
       "大阪教育大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Kyoiku University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかきよういく",
+         "url" : "http://osaka-kyoiku.ac.jp/"
       },
       "大阪樟蔭女子大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Shoin Women's University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかしよういんしよし",
+         "url" : "http://www.osaka-shoin.ac.jp/univ/"
       },
       "大阪樟蔭女子大学関屋キャンパス" : {
+         "english_long_name" : "Osaka Shoin Women's University",
          "location_area" : "奈良県",
+         "sort_name" : "おおさかしよういんしよし",
+         "url" : "http://www.osaka-shoin.ac.jp/univ/",
          "wikipedia_name" : "大阪樟蔭女子大学"
       },
       "大阪歯科大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Dental University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかしか",
+         "url" : "http://www.osaka-dent.ac.jp/"
       },
       "大阪河崎リハビリテーション大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかかわさきりはひりてえしよんたいかく"
       },
       "大阪産業大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Sangyo Univ.",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかさんきようたいかく",
+         "url" : "http://www.osaka-sandai.ac.jp"
       },
       "大阪経済大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka University of Economics",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかけいさいたいかく",
+         "url" : "http://www.osaka-ue.ac.jp"
       },
       "大阪経済法科大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかけいさいほうか"
       },
       "大阪総合保育大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかそうこうほいく"
       },
       "大阪芸術大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかけいしゆつたいかく"
       },
       "大阪薬科大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka University of Pharmaceutical Sciences",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかやつか",
+         "url" : "http://www.oups.ac.jp/"
       },
       "大阪観光大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka University of Tourism",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかかんこう",
+         "url" : "http://www.tourism.ac.jp/"
       },
       "大阪電気通信大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka Electro-Communication University",
+         "location_area" : "大阪府",
+         "sort_name" : "おおさかてんきつうしんたいかく",
+         "url" : "http://www.osakac.ac.jp/"
       },
       "大阪青山大学" : {
          "location_area" : "大阪府"
       },
       "大阪音楽大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Osaka College of Music",
+         "location_area" : "大阪府",
+         "location_wikipedia_latlon" : "|34|45|12.06|N|135|28|14.52|E|",
+         "sort_name" : "おおさかおんかくたいかく",
+         "url" : "http://www.daion.ac.jp/"
       },
       "天使大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "てんし"
       },
       "天理大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Tenri  University",
+         "location_area" : "奈良県",
+         "sort_name" : "てんりたいかく",
+         "url" : "http://www.tenri-u.ac.jp/"
       },
       "太成学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Taisei Gakuin University",
+         "location_area" : "大阪府",
+         "url" : "http://www.tgu.ac.jp/"
       },
       "奈良大学" : {
-         "location_area" : "奈良県"
+         "location_area" : "奈良県",
+         "sort_name" : "ならたいかく"
       },
       "奈良女子大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara Women's University",
+         "location_area" : "奈良県",
+         "sort_name" : "ならしよし",
+         "url" : "http://www.nara-wu.ac.jp/"
       },
       "奈良教育大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara University of Education",
+         "location_area" : "奈良県",
+         "sort_name" : "ならきよういく",
+         "url" : "http://www.nara-edu.ac.jp/"
       },
       "奈良産業大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara Sangyo University",
+         "location_area" : "奈良県",
+         "sort_name" : "ならさんきよう",
+         "url" : "http://www.nara-su.ac.jp/"
       },
       "奈良県立医科大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara Medical University",
+         "location_area" : "奈良県",
+         "sort_name" : "ならけんりついか",
+         "url" : "http://www.naramed-u.ac.jp/"
       },
       "奈良県立大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Nara Prefectual University",
+         "location_area" : "奈良県",
+         "sort_name" : "ならけんりつ",
+         "url" : "http://www.narapu.ac.jp/"
       },
       "奥羽大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "Ohu University",
+         "location_area" : "福島県",
+         "sort_name" : "おううたいかく",
+         "url" : "http://www.ohu-u.ac.jp/"
       },
       "女子栄養大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kagawa Nutrition University",
+         "location_area" : "東京都",
+         "sort_name" : "しよしえいようたいかく",
+         "url" : "http://www.eiyo.ac.jp/daigaku/"
       },
       "女子栄養大学坂戸キャンパス" : {
+         "english_long_name" : "Kagawa Nutrition University",
          "location_area" : "埼玉県",
+         "sort_name" : "しよしえいようたいかく",
+         "url" : "http://www.eiyo.ac.jp/daigaku/",
          "wikipedia_name" : "女子栄養大学"
       },
       "女子美術大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "しよしひしゆつたいかく"
       },
       "女子美術大学相模原キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "しよしひしゆつたいかく",
          "wikipedia_name" : "女子美術大学"
       },
       "姫路獨協大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Himeji Dokkyo University",
+         "location_area" : "兵庫県",
+         "sort_name" : "ひめしとつきよう",
+         "url" : "http://www.himeji-du.ac.jp/"
       },
       "学習院大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "かくしゆういんたいかく"
       },
       "学習院女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "かくしゆういんしよし"
       },
       "宇部フロンティア大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Ube Frontier University",
+         "location_area" : "山口県",
+         "sort_name" : "うへふろんていあ",
+         "url" : "http://www.frontier-u.jp/frontier/univ/"
       },
       "宇都宮共和大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Utsunomiya Kyowa University",
+         "location_area" : "栃木県",
+         "sort_name" : "うつのみやきようわ",
+         "url" : "http://www.kyowa-u.ac.jp/"
       },
       "宇都宮大学" : {
-         "location_area" : "栃木県"
+         "location_area" : "栃木県",
+         "sort_name" : "うつのみや"
       },
       "安田女子大学" : {
          "location_area" : "広島県"
       },
       "宝塚大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Takarazuka University",
+         "location_area" : "兵庫県",
+         "sort_name" : "たからつか",
+         "url" : "http://www.takara-univ.ac.jp/"
       },
       "宝塚大学大阪梅田キャンパス" : {
+         "english_long_name" : "Takarazuka University",
          "location_area" : "大阪府",
+         "sort_name" : "たからつか",
+         "url" : "http://www.takara-univ.ac.jp/",
          "wikipedia_name" : "宝塚大学"
       },
       "宝塚大学東京新宿キャンパス" : {
+         "english_long_name" : "Takarazuka University",
          "location_area" : "東京都",
+         "sort_name" : "たからつか",
+         "url" : "http://www.takara-univ.ac.jp/",
          "wikipedia_name" : "宝塚大学"
       },
       "実践女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Jissen Women's University",
+         "location_area" : "東京都",
+         "sort_name" : "しつせんしよしたいかく",
+         "url" : "http://www.jissen.ac.jp/"
       },
       "室蘭工業大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "むろらんこうきよう"
       },
       "宮城大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Miyagi University",
+         "location_area" : "宮城県",
+         "sort_name" : "みやきたいかく",
+         "url" : "http://www.myu.ac.jp/"
       },
       "宮城学院女子大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Miyagi Gakuin Women's University",
+         "location_area" : "宮城県",
+         "sort_name" : "みやきかくいんしよし",
+         "url" : "http://www.mgu.ac.jp/"
       },
       "宮城教育大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Miyagi University of Education",
+         "location_area" : "宮城県",
+         "sort_name" : "みやききよういくたいかく",
+         "url" : "http://www.miyakyo-u.ac.jp/"
       },
       "宮崎公立大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "MIYAZAKI Municipal University",
+         "location_area" : "宮崎県",
+         "sort_name" : "みやさきこうりつ",
+         "url" : "http://www.miyazaki-mu.ac.jp/"
       },
       "宮崎国際大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "Miyazaki International College",
+         "location_area" : "宮崎県",
+         "sort_name" : "みやさきこくさい",
+         "url" : "http://www.mic.ac.jp/"
       },
       "宮崎大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "University of Miyazaki",
+         "location_area" : "宮崎県",
+         "sort_name" : "みやさき",
+         "url" : "http://www.miyazaki-u.ac.jp/"
       },
       "宮崎産業経営大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "Miyazaki Sangyo-keiei University",
+         "location_area" : "宮崎県",
+         "sort_name" : "みやさきさんきようけいえい",
+         "url" : "http://www.miyasankei-u.ac.jp/"
       },
       "宮崎県立看護大学" : {
-         "location_area" : "宮崎県"
+         "english_long_name" : "Miyazaki Prefectural Nursing University",
+         "location_area" : "宮崎県",
+         "sort_name" : "みやさきけんりつかんこ",
+         "url" : "http://www.mpu.ac.jp/"
       },
       "富士大学" : {
-         "location_area" : "岩手県"
+         "english_long_name" : "Fuji University",
+         "location_area" : "岩手県",
+         "sort_name" : "ふしたいかく",
+         "url" : "http://www.fuji-u.ac.jp/"
       },
       "富士常葉大学" : {
-         "location_area" : "静岡県"
+         "location_area" : "静岡県",
+         "sort_name" : "ふしとこは"
       },
       "富山国際大学" : {
-         "location_area" : "富山県"
+         "english_long_name" : "Toyama University of International Studies",
+         "location_area" : "富山県",
+         "sort_name" : "とやまこくさいたいかく",
+         "url" : "http://www.tuins.ac.jp/jm/"
       },
       "富山大学" : {
-         "location_area" : "富山県"
+         "english_long_name" : "University of Toyama",
+         "location_area" : "富山県",
+         "sort_name" : "とやまたいかく",
+         "url" : "http://www.u-toyama.ac.jp/"
       },
       "富山県立大学" : {
-         "location_area" : "富山県"
+         "location_area" : "富山県",
+         "sort_name" : "とやまけんりつたいかく"
       },
       "専修大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Senshu University",
+         "location_area" : "東京都",
+         "sort_name" : "せんしゆうたいかく",
+         "url" : "http://www.senshu-u.ac.jp/"
       },
       "専修大学生田キャンパス" : {
+         "english_long_name" : "Senshu University",
          "location_area" : "神奈川県",
+         "sort_name" : "せんしゆうたいかく",
+         "url" : "http://www.senshu-u.ac.jp/",
          "wikipedia_name" : "専修大学"
       },
       "小樽商科大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Otaru University of Commerce",
+         "location_area" : "北海道",
+         "sort_name" : "おたるしようか",
+         "url" : "http://www.otaru-uc.ac.jp/"
       },
       "尚絅大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "しようけい"
       },
       "尚絅学院大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "SHOKEI GAKUIN UNIVERSITY",
+         "location_area" : "宮城県",
+         "sort_name" : "しようけいかくいん",
+         "url" : "http://www.shokei.ac.jp/college/"
       },
       "尚美学園大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Shobi University",
+         "location_area" : "埼玉県",
+         "sort_name" : "しようひかくえん",
+         "url" : "http://www.shobi-u.ac.jp/"
       },
       "就実大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "SHUJITSU UNIVERSITY",
+         "location_area" : "岡山県",
+         "sort_name" : "しゆうしつたいかく",
+         "url" : "http://www.shujitsu.ac.jp/"
       },
       "尾道大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Onomichi University",
+         "location_area" : "広島県",
+         "sort_name" : "おのみちたいかく",
+         "url" : "http://www.onomichi-u.ac.jp/"
       },
       "山口大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Yamaguchi University",
+         "location_area" : "山口県",
+         "sort_name" : "やまくちたいかく",
+         "url" : "http://www.yamaguchi-u.ac.jp/"
       },
       "山口学芸大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Yamaguchi Gakugei College",
+         "location_area" : "山口県",
+         "sort_name" : "やまくちかくけい",
+         "url" : "http://www.y-gakugei.ac.jp/"
       },
       "山口東京理科大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Tokyo University of Science, Yamaguchi",
+         "location_area" : "山口県",
+         "sort_name" : "やまくちとうきようりか",
+         "url" : "http://www.yama.tus.ac.jp/"
       },
       "山口県立大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Yamaguchi Prefectural University",
+         "location_area" : "山口県",
+         "sort_name" : "やまくちけんりつたいかく",
+         "url" : "http://www.yamaguchi-pu.ac.jp/"
       },
       "山口福祉文化大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Yamaguchi University of Human Welfare and Culture",
+         "location_area" : "山口県",
+         "sort_name" : "やまくちふくしふんか",
+         "url" : "http://www.hagi.ac.jp/"
       },
       "山形大学" : {
-         "location_area" : "山形県"
+         "english_long_name" : "Yamagata University",
+         "location_area" : "山形県",
+         "sort_name" : "やまかたたいかく",
+         "url" : "http://www.yamagata-u.ac.jp/index-j.html"
       },
       "山形県立保健医療大学" : {
-         "location_area" : "山形県"
+         "english_long_name" : "Yamagata Prefectural University of Health Sciences",
+         "location_area" : "山形県",
+         "sort_name" : "やまかたけんりつほけんいりよう",
+         "url" : "http://www.yachts.ac.jp/"
       },
       "山梨大学" : {
-         "location_area" : "山梨県"
+         "location_area" : "山梨県",
+         "location_wikipedia_latlon" : "|35|40|43.1|N|138|34|19.1|E|",
+         "sort_name" : "やまなしたいかく"
       },
       "山梨学院大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "Yamanashi Gakuin University",
+         "location_area" : "山梨県",
+         "location_wikipedia_latlon" : "|35|39|26.0|N|138|36|02.5|E|",
+         "sort_name" : "やまなしかくいんたいかく",
+         "url" : "http://www.ygu.ac.jp/"
       },
       "山梨県立大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "Yamanashi Prefectural University",
+         "location_area" : "山梨県",
+         "location_wikipedia_latlon" : "|35|39|49.5|N|138|33|21.1|E|",
+         "sort_name" : "やまなしけんりつたいかく",
+         "url" : "http://yamanashi-ken.ac.jp/"
       },
       "山梨英和大学" : {
-         "location_area" : "山梨県"
+         "location_area" : "山梨県",
+         "location_wikipedia_latlon" : "|35|39|41.1|N|138|36|50.2|E|",
+         "sort_name" : "やまなしえいわたいかく"
       },
       "山陽学園大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Sanyo Gakuen University",
+         "location_area" : "岡山県",
+         "sort_name" : "さんようかくえんたいかく",
+         "url" : "http://www.sguc.ac.jp/"
       },
       "岐阜医療科学大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Gihu University of Medical Science",
+         "location_area" : "岐阜県",
+         "sort_name" : "きふいりようかかく",
+         "url" : "http://www.jinno.ac.jp/~gcmt/"
       },
       "岐阜大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Gifu University",
+         "location_area" : "岐阜県",
+         "sort_name" : "きふたいかく",
+         "url" : "http://www.gifu-u.ac.jp/"
       },
       "岐阜女子大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Gifu Women's University",
+         "location_area" : "岐阜県",
+         "sort_name" : "きふしよしたいかく",
+         "url" : "http://www.gijodai.ac.jp/"
       },
       "岐阜県立看護大学" : {
          "location_area" : "岐阜県"
@@ -973,579 +1729,1003 @@
          "location_area" : "岐阜県"
       },
       "岐阜聖徳学園大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Gifu Shotoku Gakuen University",
+         "location_area" : "岐阜県",
+         "sort_name" : "きふしようとくかくえんたいかく",
+         "url" : "http://www.shotoku.ac.jp/"
       },
       "岐阜薬科大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Gifu Pharmaceutical University",
+         "location_area" : "岐阜県",
+         "sort_name" : "きふやつか",
+         "url" : "http://www.gifu-pu.ac.jp/"
       },
       "岡山商科大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Okayama Shoka University",
+         "location_area" : "岡山県",
+         "sort_name" : "おかやましようか",
+         "url" : "http://www.osu.ac.jp/"
       },
       "岡山大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Okayama University",
+         "location_area" : "岡山県",
+         "sort_name" : "おかやま",
+         "url" : "http://www.okayama-u.ac.jp/"
       },
       "岡山学院大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Okayama Gakuin University",
+         "location_area" : "岡山県",
+         "sort_name" : "おかやまかくいん",
+         "url" : "http://www.owc.ac.jp/ogu_index.html"
       },
       "岡山理科大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Okayama University of Science",
+         "location_area" : "岡山県",
+         "sort_name" : "おかやまりかたいかく",
+         "url" : "http://www.ous.ac.jp/"
       },
       "岡山県立大学" : {
-         "location_area" : "岡山県"
+         "location_area" : "岡山県",
+         "sort_name" : "おかやまけんりつたいかく"
       },
       "岩手医科大学" : {
          "location_area" : "岩手県"
       },
       "岩手大学" : {
-         "location_area" : "岩手県"
+         "english_long_name" : "Iwate University",
+         "location_area" : "岩手県",
+         "sort_name" : "いわてたいかく",
+         "url" : "http://www.iwate-u.ac.jp/"
       },
       "岩手県立大学" : {
-         "location_area" : "岩手県"
+         "location_area" : "岩手県",
+         "sort_name" : "いわてけんりつたいかく"
       },
       "島根大学" : {
-         "location_area" : "島根県"
+         "location_area" : "島根県",
+         "sort_name" : "しまねたいかく"
       },
       "島根県立大学" : {
-         "location_area" : "島根県"
+         "english_long_name" : "The University of Shimane",
+         "location_area" : "島根県",
+         "sort_name" : "しまねけんりつたいかく",
+         "url" : "http://www.u-shimane.ac.jp/"
       },
       "崇城大学" : {
-         "location_area" : "熊本県"
+         "english_long_name" : "Sojo University",
+         "location_area" : "熊本県",
+         "sort_name" : "そうしようたいかく",
+         "url" : "http://www.sojo-u.ac.jp/site/view/index.jsp"
       },
       "川崎医療福祉大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Kawasaki University of Medical Welfare",
+         "location_area" : "岡山県",
+         "sort_name" : "かわさきいりようふくし",
+         "url" : "http://www.kawasaki-m.ac.jp/mw/"
       },
       "川崎医科大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Kawasaki medical school",
+         "location_area" : "岡山県",
+         "sort_name" : "かわさきいか",
+         "url" : "http://www.kawasaki-m.ac.jp/med/"
       },
       "川村学園女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kawamura Gakuen Woman's University",
+         "location_area" : "東京都",
+         "sort_name" : "かわむらかくえんしよし",
+         "url" : "http://www.kgwu.ac.jp/index.html"
       },
       "川村学園女子大学我孫子キャンパス" : {
+         "english_long_name" : "Kawamura Gakuen Woman's University",
          "location_area" : "千葉県",
+         "sort_name" : "かわむらかくえんしよし",
+         "url" : "http://www.kgwu.ac.jp/index.html",
          "wikipedia_name" : "川村学園女子大学"
       },
       "工学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kogakuin University",
+         "location_area" : "東京都",
+         "sort_name" : "こうかくいん",
+         "url" : "http://www.kogakuin.ac.jp/"
       },
       "帝京大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Teikyo University",
+         "location_area" : "東京都",
+         "sort_name" : "ていきよう",
+         "url" : "http://www.teikyo-u.ac.jp/"
       },
       "帝京大学宇都宮キャンパス" : {
+         "english_long_name" : "Teikyo University",
          "location_area" : "栃木県",
+         "sort_name" : "ていきよう",
+         "url" : "http://www.teikyo-u.ac.jp/",
          "wikipedia_name" : "帝京大学"
       },
       "帝京大学相模湖キャンパス" : {
+         "english_long_name" : "Teikyo University",
          "location_area" : "神奈川県",
+         "sort_name" : "ていきよう",
+         "url" : "http://www.teikyo-u.ac.jp/",
          "wikipedia_name" : "帝京大学"
       },
       "帝京大学福岡キャンパス" : {
+         "english_long_name" : "Teikyo University",
          "location_area" : "福岡県",
+         "sort_name" : "ていきよう",
+         "url" : "http://www.teikyo-u.ac.jp/",
          "wikipedia_name" : "帝京大学"
       },
       "帝京平成大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Teikyo Heisei University",
+         "location_area" : "千葉県",
+         "sort_name" : "ていきようへいせい",
+         "url" : "http://www.thu.ac.jp/"
       },
       "帝京平成大学池袋キャンパス" : {
+         "english_long_name" : "Teikyo Heisei University",
          "location_area" : "東京都",
+         "sort_name" : "ていきようへいせい",
+         "url" : "http://www.thu.ac.jp/",
          "wikipedia_name" : "帝京平成大学"
       },
       "帝京科学大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "Teikyo University of Science",
+         "location_area" : "山梨県",
+         "sort_name" : "ていきようかかく",
+         "url" : "http://www.ntu.ac.jp/index.html"
       },
       "帝塚山大学" : {
-         "location_area" : "奈良県"
+         "english_long_name" : "Tezukayama University",
+         "location_area" : "奈良県",
+         "sort_name" : "てつかやまたいかく",
+         "url" : "http://www.tezukayama-u.ac.jp/"
       },
       "帝塚山学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Tezukayama Gakuin University",
+         "location_area" : "大阪府",
+         "sort_name" : "てつかやまかくいんたいかく",
+         "url" : "http://www.tezuka-gu.ac.jp/index.php"
       },
       "帯広畜産大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "おひひろちくさん"
       },
       "常磐会学園大学" : {
          "location_area" : "大阪府"
       },
       "常磐大学" : {
-         "location_area" : "茨城県"
+         "location_area" : "茨城県",
+         "sort_name" : "ときわたいかく"
       },
       "常葉学園大学" : {
-         "location_area" : "静岡県"
+         "location_area" : "静岡県",
+         "location_wikipedia_latlon" : "|35|00|48.7|N|138|25|35.6|E|",
+         "sort_name" : "とこはかくえんたいかく"
       },
       "平安女学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Heian Jogakuin St. Agnes school",
+         "location_area" : "大阪府",
+         "sort_name" : "へいあんしよかくいん",
+         "url" : "http://www.heian.ac.jp/college/"
       },
       "平安女学院大学京都キャンパス" : {
+         "english_long_name" : "Heian Jogakuin St. Agnes school",
          "location_area" : "京都府",
+         "sort_name" : "へいあんしよかくいん",
+         "url" : "http://www.heian.ac.jp/college/",
          "wikipedia_name" : "平安女学院大学"
       },
       "平成国際大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Heisei International University",
+         "location_area" : "埼玉県",
+         "sort_name" : "へいせいこくさい",
+         "url" : "http://www.hiu.ac.jp/"
       },
       "平成音楽大学" : {
-         "location_area" : "熊本県"
+         "english_long_name" : "Heisei college of music",
+         "location_area" : "熊本県",
+         "sort_name" : "へいせいおんかくたいかく",
+         "url" : "http://www.heisei-music.ac.jp/index.htm"
       },
       "広島修道大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima Shudo University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしましゆうとうたいかく",
+         "url" : "http://www.shudo-u.ac.jp/"
       },
       "広島国際大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima International University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまこくさいたいかく",
+         "url" : "http://www.hirokoku-u.ac.jp/"
       },
       "広島国際学院大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima Kokusai Gakuin University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまこくさいかくいんたいかく",
+         "url" : "http://www.hkg.ac.jp/"
       },
       "広島大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまたいかく",
+         "url" : "http://www.hiroshima-u.ac.jp/index-j.html"
       },
       "広島女学院大学" : {
-         "location_area" : "広島県"
+         "location_area" : "広島県",
+         "sort_name" : "ひろしましよかくいんたいかく"
       },
       "広島工業大学" : {
-         "location_area" : "広島県"
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまこうきょう"
       },
       "広島市立大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima City University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしましりつたいかく",
+         "url" : "http://www.hiroshima-cu.ac.jp/"
       },
       "広島文化学園大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima Bunka Gakuen University",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまふんかかくえんたいかく",
+         "url" : "http://www.hbg.ac.jp/univ/index.html"
       },
       "広島文教女子大学" : {
-         "location_area" : "広島県"
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまふんきようしよしたいかく"
       },
       "広島経済大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Hiroshima University of Economics",
+         "location_area" : "広島県",
+         "sort_name" : "ひろしまけいさい",
+         "url" : "http://www.hue.ac.jp"
       },
       "弘前大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Hirosaki University",
+         "location_area" : "青森県",
+         "sort_name" : "ひろさきたいかく",
+         "url" : "http://www.hirosaki-u.ac.jp/"
       },
       "弘前学院大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Hirosaki Gakuin University",
+         "location_area" : "青森県",
+         "sort_name" : "ひろさきかくいん",
+         "url" : "http://www.hirogaku-u.ac.jp/"
       },
       "徳山大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Tokuyama Univ.",
+         "location_area" : "山口県",
+         "sort_name" : "とくやまたいかく",
+         "url" : "http://www.tokuyama-u.ac.jp/"
       },
       "徳島大学" : {
-         "location_area" : "徳島県"
+         "english_long_name" : "The University of Tokushima",
+         "location_area" : "徳島県",
+         "sort_name" : "とくしまたいかく",
+         "url" : "http://www.tokushima-u.ac.jp/"
       },
       "徳島文理大学" : {
-         "location_area" : "徳島県"
+         "english_long_name" : "Tokushima Bunri University",
+         "location_area" : "徳島県",
+         "sort_name" : "とくしまふんり",
+         "url" : "http://www.bunri-u.ac.jp/"
       },
       "徳島文理大学香川キャンパス" : {
+         "english_long_name" : "Tokushima Bunri University",
          "location_area" : "香川県",
+         "sort_name" : "とくしまふんり",
+         "url" : "http://www.bunri-u.ac.jp/",
          "wikipedia_name" : "徳島文理大学"
       },
       "志學館大学" : {
-         "location_area" : "鹿児島県"
+         "location_area" : "鹿児島県",
+         "sort_name" : "しかくかんたいかく"
       },
       "恵泉女学園大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "けいせんしよかくえん"
       },
       "愛国学園大学" : {
-         "location_area" : "千葉県"
+         "location_area" : "千葉県",
+         "sort_name" : "あいこくかくえん"
       },
       "愛媛大学" : {
-         "location_area" : "愛媛県"
+         "english_long_name" : "Ehime University",
+         "location_area" : "愛媛県",
+         "sort_name" : "えひめたいかく",
+         "url" : "http://www.ehime-u.ac.jp/"
       },
       "愛媛県立医療技術大学" : {
-         "location_area" : "愛媛県"
+         "english_long_name" : "EHIME Prefectural University of Health Science",
+         "location_area" : "愛媛県",
+         "sort_name" : "えひめけんりついりようきしゆつ",
+         "url" : "http://www.epu.ac.jp/"
       },
       "愛知みずほ大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi Mizuho College",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちみすほ",
+         "url" : "http://amc.mizuho-c.ac.jp/"
       },
       "愛知医科大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちいか"
       },
       "愛知大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi University",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちたいかく",
+         "url" : "http://www.aichi-u.ac.jp/"
       },
       "愛知学泉大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちかくせんたいかく"
       },
       "愛知学院大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちかくいん"
       },
       "愛知工業大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi Institute of Technology",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちこうきよう",
+         "url" : "http://www.ait.ac.jp/"
       },
       "愛知工科大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi University of Technology",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちこうか",
+         "url" : "http://www.aut.ac.jp/index.html"
       },
       "愛知教育大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi University of Education",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちきよういく",
+         "url" : "http://www.aichi-edu.ac.jp/"
       },
       "愛知文教大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちふんきよう"
       },
       "愛知新城大谷大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi Shinshiro Otani University",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちしんしろおおたに",
+         "url" : "http://www.owari.ac.jp/shinshiro.html"
       },
       "愛知東邦大学" : {
          "location_area" : "愛知県"
       },
       "愛知淑徳大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちしゆくとく"
       },
       "愛知産業大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi Sangyo University",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちさんきよう",
+         "url" : "http://asu-g.net/univ/"
       },
       "愛知県立大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Aichi Prefectural University",
+         "location_area" : "愛知県",
+         "sort_name" : "あいちけんりつ",
+         "url" : "http://www.aichi-pu.ac.jp/"
       },
       "愛知県立看護大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちけんりつかんこ"
       },
       "愛知県立芸術大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "あいちけんりつけいしゆつたいかく"
       },
       "慶應義塾大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Keio University",
+         "location_area" : "東京都",
+         "sort_name" : "けいおうきしゆくたいかく",
+         "url" : "http://www.keio.ac.jp/"
       },
       "慶應義塾大学日吉・矢上キャンパス" : {
+         "english_long_name" : "Keio University",
          "location_area" : "神奈川県",
+         "sort_name" : "けいおうきしゆくたいかく",
+         "url" : "http://www.keio.ac.jp/",
          "wikipedia_name" : "慶應義塾大学"
       },
       "成城大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Seijo University",
+         "location_area" : "東京都",
+         "sort_name" : "せいしようたいかく",
+         "url" : "http://www.seijo.ac.jp/"
       },
       "成安造形大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Seian University of Arts and Design",
+         "location_area" : "滋賀県",
+         "url" : "http://www.seian.ac.jp/"
       },
       "成蹊大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Seikei University",
+         "location_area" : "東京都",
+         "sort_name" : "せいけいたいかく",
+         "url" : "http://www.seikei.ac.jp/university/"
       },
       "拓殖大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Takushoku University",
+         "location_area" : "東京都",
+         "sort_name" : "たくしよくたいかく",
+         "url" : "http://www.takushoku-u.ac.jp/"
       },
       "摂南大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Setsunan University",
+         "location_area" : "大阪府",
+         "sort_name" : "せつなんたいかく",
+         "url" : "http://www.setsunan.ac.jp"
       },
       "敬和学園大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Keiwa College",
+         "location_area" : "新潟県",
+         "sort_name" : "けいわかくえん",
+         "url" : "http://www.keiwa-c.ac.jp/"
       },
       "敬愛大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Keiai University",
+         "location_area" : "千葉県",
+         "sort_name" : "けいあいたいかく",
+         "url" : "http://www.u-keiai.ac.jp/"
       },
       "文京学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Bunkyo Gakuin University",
+         "location_area" : "東京都",
+         "sort_name" : "ふんきようかくいんたいかく",
+         "url" : "http://www.u-bunkyo.ac.jp/"
       },
       "文京学院大学ふじみ野キャンパス" : {
+         "english_long_name" : "Bunkyo Gakuin University",
          "location_area" : "埼玉県",
+         "sort_name" : "ふんきようかくいんたいかく",
+         "url" : "http://www.u-bunkyo.ac.jp/",
          "wikipedia_name" : "文京学院大学"
       },
       "文化女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Bunka Women's University",
+         "location_area" : "東京都",
+         "sort_name" : "ふんかしよしたいかく",
+         "url" : "http://bwu.bunka.ac.jp/"
       },
       "文教大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Bunkyo University",
+         "location_area" : "埼玉県",
+         "sort_name" : "ふんきようたいかく",
+         "url" : "http://www.bunkyo.ac.jp/"
       },
       "文教大学湘南キャンパス" : {
+         "english_long_name" : "Bunkyo University",
          "location_area" : "神奈川県",
+         "sort_name" : "ふんきようたいかく",
+         "url" : "http://www.bunkyo.ac.jp/",
          "wikipedia_name" : "文教大学"
       },
       "文星芸術大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "BUNSEI University of Art",
+         "location_area" : "栃木県",
+         "sort_name" : "ふんせいけいしゆつたいかく",
+         "url" : "http://www.bunsei.ac.jp/"
       },
       "新潟医療福祉大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata University of Health and Welfare",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたいりようふくし",
+         "url" : "http://www.nuhw.ac.jp/"
       },
       "新潟国際情報大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata University of International and Information Studies",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたこくさいしようほう",
+         "url" : "http://www.nuis.ac.jp/index.html"
       },
       "新潟大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata University",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたたいかく",
+         "url" : "http://www.niigata-u.ac.jp/"
       },
       "新潟工科大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata Institue of Technology",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたこうか",
+         "url" : "http://www.niit.ac.jp/"
       },
       "新潟産業大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata Sangyo University",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたさんきようたいかく",
+         "url" : "http://www.nsu.ac.jp/nsu_j/"
       },
       "新潟県立大学" : {
          "location_area" : "新潟県"
       },
       "新潟県立看護大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigata College of Nursing",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたけんりつかんこ",
+         "url" : "http://www.niigata-cn.ac.jp/index.htm"
       },
       "新潟経営大学" : {
-         "location_area" : "新潟県"
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたけいえい"
       },
       "新潟薬科大学" : {
-         "location_area" : "新潟県"
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたやつか"
       },
       "新潟青陵大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Niigataseiryou University",
+         "location_area" : "新潟県",
+         "sort_name" : "にいかたせいりようたいかく",
+         "url" : "http://www.n-seiryo.ac.jp/"
       },
       "日本体育大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "につほんたいいく"
       },
       "日本体育大学横浜健志台キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "につほんたいいく",
          "wikipedia_name" : "日本体育大学"
       },
       "日本医療科学大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Nihon institute of Medical Science",
+         "location_area" : "埼玉県",
+         "sort_name" : "にほんいりようかかく",
+         "url" : "http://www.nims.ac.jp/"
       },
       "日本医科大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "にほんいか"
       },
       "日本医科大学新丸子キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "にほんいか",
          "wikipedia_name" : "日本医科大学"
       },
       "日本大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Nihon University",
+         "location_area" : "東京都",
+         "sort_name" : "にほんたいかく",
+         "url" : "http://www.nihon-u.ac.jp/"
       },
       "日本大学三島キャンパス" : {
+         "english_long_name" : "Nihon University",
          "location_area" : "静岡県",
+         "sort_name" : "にほんたいかく",
+         "url" : "http://www.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学"
       },
       "日本大学大宮・所沢キャンパス" : {
+         "english_long_name" : "Nihon University",
          "location_area" : "埼玉県",
+         "sort_name" : "にほんたいかく",
+         "url" : "http://www.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学"
       },
       "日本大学松戸歯学部・薬学部・船橋・津田沼・実籾キャンパス" : {
+         "english_long_name" : "Nihon University",
          "location_area" : "千葉県",
+         "sort_name" : "にほんたいかく",
+         "url" : "http://www.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学"
       },
       "日本大学湘南キャンパス" : {
+         "english_long_name" : "Nihon University",
          "location_area" : "神奈川県",
+         "sort_name" : "にほんたいかく",
+         "url" : "http://www.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学"
       },
       "日本女子体育大学" : {
-         "location_area" : "東京都"
+         "english_abbr_name" : "JWCPE",
+         "english_long_name" : "Japan Women's College of Physical Education",
+         "location_area" : "東京都",
+         "sort_name" : "にほんしよしたいいく",
+         "url" : "http://www.jwcpe.ac.jp/"
       },
       "日本女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "にほんしよし"
       },
       "日本女子大学西生田キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "にほんしよし",
          "wikipedia_name" : "日本女子大学"
       },
       "日本工業大学" : {
-         "location_area" : "埼玉県"
+         "location_area" : "埼玉県",
+         "sort_name" : "につほんこうきよう"
       },
       "日本文化大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Nihon Bunka University",
+         "location_area" : "東京都",
+         "url" : "http://www.nihonbunka-u.ac.jp/"
       },
       "日本文理大学" : {
-         "location_area" : "大分県"
+         "english_long_name" : "Nippon Bunri University",
+         "location_area" : "大分県",
+         "sort_name" : "につほんふんり",
+         "url" : "http://www.nbu.ac.jp/"
       },
       "日本橋学館大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Nihonbashi Gakkan University",
+         "location_area" : "千葉県",
+         "sort_name" : "にほんはしかつかん",
+         "url" : "http://www.nihonbashi.ac.jp/"
       },
       "日本歯科大学" : {
          "location_area" : "新潟県"
       },
       "日本獣医生命科学大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Nippon Veterinary and Life Science University",
+         "location_area" : "東京都",
+         "sort_name" : "につほんしゆういせいめいかかく",
+         "url" : "http://www.nvlu.ac.jp/"
       },
       "日本社会事業大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Japan College of Social Work",
+         "location_area" : "東京都",
+         "sort_name" : "にほんしやかいしきようたいかく",
+         "url" : "http://www.jcsw.ac.jp/"
       },
       "日本福祉大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "にほんふくし"
       },
       "日本薬科大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Nihon Pharmaceutical University",
+         "location_area" : "埼玉県",
+         "sort_name" : "にほんやつか",
+         "url" : "http://www.nihonyakka.jp/"
       },
       "日本赤十字九州国際看護大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "につほんせしゆうしきゆうしゆうこくさいかんこ"
       },
       "日本赤十字北海道看護大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "につほんせきしゆうしほつかいとうかんこ"
       },
       "日本赤十字広島看護大学" : {
-         "location_area" : "広島県"
+         "location_area" : "広島県",
+         "sort_name" : "につほんせきしゆうしひろしまかんこ"
       },
       "日本赤十字看護大学" : {
          "location_area" : "東京都"
       },
       "日本赤十字豊田看護大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "につほんせきしゆうしとよたかんこ"
       },
       "早稲田大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Waseda University",
+         "location_area" : "東京都",
+         "sort_name" : "わせたたいかく",
+         "url" : "http://www.waseda.jp/"
       },
       "早稲田大学北九州キャンパス" : {
+         "english_long_name" : "Waseda University",
          "location_area" : "福岡県",
+         "sort_name" : "わせたたいかく",
+         "url" : "http://www.waseda.jp/",
          "wikipedia_name" : "早稲田大学"
       },
       "早稲田大学所沢・本庄キャンパス" : {
+         "english_long_name" : "Waseda University",
          "location_area" : "埼玉県",
+         "sort_name" : "わせたたいかく",
+         "url" : "http://www.waseda.jp/",
          "wikipedia_name" : "早稲田大学"
       },
       "旭川医科大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "あさひかわいかたいかく"
       },
       "旭川大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Asahikawa University",
+         "location_area" : "北海道",
+         "sort_name" : "あさひかわたいかく",
+         "url" : "http://www.asahikawa-u.ac.jp/"
       },
       "明星大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Meisei University",
+         "location_area" : "東京都",
+         "sort_name" : "めいせいたいかく",
+         "url" : "http://www.meisei-u.ac.jp/"
       },
       "明治国際医療大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Meiji University of Integrative Medicine",
+         "location_area" : "京都府",
+         "url" : "http://www.meiji-u.ac.jp/"
       },
       "明治大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "めいしたいかく"
       },
       "明治大学生田キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "めいしたいかく",
          "wikipedia_name" : "明治大学"
       },
       "明治学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Meiji Gakuin University",
+         "location_area" : "東京都",
+         "sort_name" : "めいしかくいん",
+         "url" : "http://www.meijigakuin.ac.jp/"
       },
       "明治学院大学横浜キャンパス" : {
+         "english_long_name" : "Meiji Gakuin University",
          "location_area" : "神奈川県",
+         "sort_name" : "めいしかくいん",
+         "url" : "http://www.meijigakuin.ac.jp/",
          "wikipedia_name" : "明治学院大学"
       },
       "明治薬科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Meiji Pharmaceutical University",
+         "location_area" : "東京都",
+         "sort_name" : "めいしやつか",
+         "url" : "http://www.my-pharm.ac.jp/"
       },
       "明海大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Meikai University",
+         "location_area" : "埼玉県",
+         "sort_name" : "めいかいたいかく",
+         "url" : "http://www.meikai.ac.jp/"
       },
       "明海大学浦安キャンパス" : {
+         "english_long_name" : "Meikai University",
          "location_area" : "千葉県",
+         "sort_name" : "めいかいたいかく",
+         "url" : "http://www.meikai.ac.jp/",
          "wikipedia_name" : "明海大学"
       },
       "星城大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Seijoh University",
+         "location_area" : "愛知県",
+         "sort_name" : "せいしようたいかく",
+         "url" : "http://www.seijoh-u.ac.jp/"
       },
       "星槎大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Seisa University",
+         "location_area" : "北海道",
+         "sort_name" : "せいさたいかく",
+         "url" : "http://www.seisa.ac.jp/"
       },
       "星薬科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Hoshi University",
+         "location_area" : "東京都",
+         "sort_name" : "ほしやつか",
+         "url" : "http://www.hoshi.ac.jp/"
       },
       "昭和大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "しようわたいかく"
       },
       "昭和大学富士吉田キャンパス" : {
          "location_area" : "山梨県",
+         "sort_name" : "しようわたいかく",
          "wikipedia_name" : "昭和大学"
       },
       "昭和大学長津田キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "しようわたいかく",
          "wikipedia_name" : "昭和大学"
       },
       "昭和女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Showa Women's University",
+         "location_area" : "東京都",
+         "sort_name" : "しようわしよし",
+         "url" : "http://www.swu.ac.jp/"
       },
       "昭和薬科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Showa Pharmaceutical University",
+         "location_area" : "東京都",
+         "sort_name" : "しようわやつか",
+         "url" : "http://www.shoyaku.ac.jp/"
       },
       "昭和音楽大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Showa University of Music",
+         "location_area" : "神奈川県",
+         "sort_name" : "しようわおんかくたいかく",
+         "url" : "http://www.tosei-showa-music.ac.jp/"
       },
       "朝日大学" : {
          "location_area" : "岐阜県"
       },
       "札幌医科大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Sapporo Medical University",
+         "location_area" : "北海道",
+         "sort_name" : "さつほろいか",
+         "url" : "http://web.sapmed.ac.jp/"
       },
       "札幌国際大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "さつほろこくさい"
       },
       "札幌大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "さつほろ"
       },
       "札幌大谷大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Sapporo Otani University",
+         "location_area" : "北海道",
+         "sort_name" : "さつほろおおたに",
+         "url" : "http://www.sapporo-otani.ac.jp/"
       },
       "札幌学院大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Sapporo Gakuin University",
+         "location_area" : "北海道",
+         "sort_name" : "さつほろかくいん",
+         "url" : "http://www.sgu.ac.jp"
       },
       "札幌市立大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "さつほろしりつ"
       },
       "杉野服飾大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "すきのふくしよく"
       },
       "杏林大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Kyorin University",
+         "location_area" : "東京都",
+         "sort_name" : "きようりん",
+         "url" : "http://www.kyorin-u.ac.jp/"
       },
       "東亜大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "University of East Asia",
+         "location_area" : "山口県",
+         "sort_name" : "とうあ",
+         "url" : "http://www.toua-u.ac.jp/index.htm"
       },
       "東京医療保健大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Health Care University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきよういりようほけんたいかく",
+         "url" : "http://thcu.ac.jp/"
       },
       "東京医科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Medical University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきよういかたいかく",
+         "url" : "http://www.tokyo-med.ac.jp/"
       },
       "東京医科歯科大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきよういかしか"
       },
       "東京国際大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Tokyo International University",
+         "location_area" : "埼玉県",
+         "sort_name" : "とうきようこくさい",
+         "url" : "http://www.tiu.ac.jp/"
       },
       "東京基督教大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Tokyo Christian University",
+         "location_area" : "千葉県",
+         "sort_name" : "とうきようきりすときよう",
+         "url" : "http://www.tci.ac.jp/tcu/"
       },
       "東京外国語大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようかいこくこたいかく"
       },
       "東京大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "The University of Tokyo",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようたいかく",
+         "url" : "http://www.u-tokyo.ac.jp/"
       },
       "東京大学柏キャンパス" : {
+         "english_long_name" : "The University of Tokyo",
          "location_area" : "千葉県",
+         "sort_name" : "とうきようたいかく",
+         "url" : "http://www.u-tokyo.ac.jp/",
          "wikipedia_name" : "東京大学"
       },
       "東京女子体育大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Women's College of Physical Education",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしよしたいいく",
+         "url" : "http://www.twcpe.ac.jp/"
       },
       "東京女子医科大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしよしいか"
       },
       "東京女子医科大学大東キャンパス" : {
          "location_area" : "静岡県",
+         "sort_name" : "とうきようしよしいか",
          "wikipedia_name" : "東京女子医科大学"
       },
       "東京女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしよし"
       },
       "東京女学館大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Jogakkan College",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしよかつかん",
+         "url" : "http://www.tjk.ac.jp/"
       },
       "東京学芸大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようかくけい"
       },
       "東京家政大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Kasei University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようかせいたいかく",
+         "url" : "http://www.tokyo-kasei.ac.jp/"
       },
       "東京家政大学狭山キャンパス" : {
+         "english_long_name" : "Tokyo Kasei University",
          "location_area" : "埼玉県",
+         "sort_name" : "とうきようかせいたいかく",
+         "url" : "http://www.tokyo-kasei.ac.jp/",
          "wikipedia_name" : "東京家政大学"
       },
       "東京家政学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Kasei Gakuin University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようかせいかくいん",
+         "url" : "http://www.kasei-gakuin.ac.jp/"
       },
       "東京富士大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようふし"
       },
       "東京工業大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Institute of Technology",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようこうきようたいかく",
+         "url" : "http://www.titech.ac.jp/"
       },
       "東京工業大学すずかけ台キャンパス" : {
+         "english_long_name" : "Tokyo Institute of Technology",
          "location_area" : "神奈川県",
+         "sort_name" : "とうきようこうきようたいかく",
+         "url" : "http://www.titech.ac.jp/",
          "wikipedia_name" : "東京工業大学"
       },
       "東京工科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo University of Technology",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようこうかたいかく",
+         "url" : "http://www.teu.ac.jp/"
       },
       "東京工芸大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Polytechnic University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようこうけい",
+         "url" : "http://www.t-kougei.ac.jp/"
       },
       "東京工芸大学厚木キャンパス" : {
+         "english_long_name" : "Tokyo Polytechnic University",
          "location_area" : "神奈川県",
+         "sort_name" : "とうきようこうけい",
+         "url" : "http://www.t-kougei.ac.jp/",
          "wikipedia_name" : "東京工芸大学"
       },
       "東京情報大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Tokyo University of Information Sciences",
+         "location_area" : "千葉県",
+         "sort_name" : "とうきようしようほう",
+         "url" : "http://www.tuis.ac.jp/"
       },
       "東京慈恵会医科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Jikei University School of Medicine",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしけいかいいか",
+         "url" : "http://www.jikei.ac.jp/univ/"
       },
       "東京成徳大学" : {
          "location_area" : "東京都"
@@ -1555,113 +2735,196 @@
          "wikipedia_name" : "東京成徳大学"
       },
       "東京未来大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo　Future University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようみらい",
+         "url" : "http://www.tokyomirai.ac.jp/"
       },
       "東京歯科大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Tokyo Dental College",
+         "location_area" : "千葉県",
+         "sort_name" : "とうきようしか",
+         "url" : "http://www.tdc.ac.jp/"
       },
       "東京海洋大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようかいよう"
       },
       "東京理科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo University of Science",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようりか",
+         "url" : "http://www.tus.ac.jp/"
       },
       "東京理科大学久喜キャンパス" : {
+         "english_long_name" : "Tokyo University of Science",
          "location_area" : "埼玉県",
+         "sort_name" : "とうきようりか",
+         "url" : "http://www.tus.ac.jp/",
          "wikipedia_name" : "東京理科大学"
       },
       "東京理科大学野田キャンパス" : {
+         "english_long_name" : "Tokyo University of Science",
          "location_area" : "千葉県",
+         "sort_name" : "とうきようりか",
+         "url" : "http://www.tus.ac.jp/",
          "wikipedia_name" : "東京理科大学"
       },
       "東京理科大学長万部キャンパス" : {
+         "english_long_name" : "Tokyo University of Science",
          "location_area" : "北海道",
+         "sort_name" : "とうきようりか",
+         "url" : "http://www.tus.ac.jp/",
          "wikipedia_name" : "東京理科大学"
       },
       "東京神学大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Union Theological Seminary",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしんかくたいかく",
+         "url" : "http://www.tuts.ac.jp/"
       },
       "東京福祉大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Tokyo University of Social Welfare",
+         "location_area" : "群馬県",
+         "sort_name" : "とうきようふくしたいかく",
+         "url" : "http://www.tokyo-fukushi.ac.jp/"
       },
       "東京純心女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Junshin Women's College",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようしゆんしんしよし",
+         "url" : "http://www.t-junshin.ac.jp/univ/"
       },
       "東京経済大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようけいさいたいかく"
       },
       "東京聖栄大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Seiei College",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようせいえい",
+         "url" : "http://www.tsc-05.ac.jp/index.html"
       },
       "東京芸術大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうきようけいしゆつたいかく"
       },
       "東京芸術大学取手キャンパス" : {
          "location_area" : "茨城県",
+         "sort_name" : "とうきようけいしゆつたいかく",
          "wikipedia_name" : "東京芸術大学"
       },
       "東京芸術大学横浜キャンパス" : {
          "location_area" : "神奈川県",
+         "sort_name" : "とうきようけいしゆつたいかく",
          "wikipedia_name" : "東京芸術大学"
       },
       "東京薬科大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo University of Pharmacy and Life Sciences",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようやつか",
+         "url" : "http://www.toyaku.ac.jp/"
       },
       "東京農工大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo University of Agriculture and Technology",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようのうこう",
+         "url" : "http://www.tuat.ac.jp/"
       },
       "東京農業大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo University of Agriculture",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようのうきようたいかく",
+         "url" : "http://www.nodai.ac.jp/"
       },
       "東京農業大学オホーツクキャンパス" : {
+         "english_long_name" : "Tokyo University of Agriculture",
          "location_area" : "北海道",
+         "sort_name" : "とうきようのうきようたいかく",
+         "url" : "http://www.nodai.ac.jp/",
          "wikipedia_name" : "東京農業大学"
       },
       "東京農業大学厚木キャンパス" : {
+         "english_long_name" : "Tokyo University of Agriculture",
          "location_area" : "神奈川県",
+         "sort_name" : "とうきようのうきようたいかく",
+         "url" : "http://www.nodai.ac.jp/",
          "wikipedia_name" : "東京農業大学"
       },
       "東京造形大学" : {
          "location_area" : "東京都"
       },
       "東京都市大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo City University、TCU",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようとし",
+         "url" : "http://www.tcu.ac.jp/"
       },
       "東京都市大学横浜キャンパス" : {
+         "english_long_name" : "Tokyo City University、TCU",
          "location_area" : "神奈川県",
+         "sort_name" : "とうきようとし",
+         "url" : "http://www.tcu.ac.jp/",
          "wikipedia_name" : "東京都市大学"
       },
       "東京電機大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Denki University",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようてんき",
+         "url" : "http://atom.dendai.ac.jp/"
       },
       "東京電機大学千葉ニュータウンキャンパス" : {
+         "english_long_name" : "Tokyo Denki University",
          "location_area" : "千葉県",
+         "sort_name" : "とうきようてんき",
+         "url" : "http://atom.dendai.ac.jp/",
          "wikipedia_name" : "東京電機大学"
       },
       "東京電機大学鳩山キャンパス" : {
+         "english_long_name" : "Tokyo Denki University",
          "location_area" : "埼玉県",
+         "sort_name" : "とうきようてんき",
+         "url" : "http://atom.dendai.ac.jp/",
          "wikipedia_name" : "東京電機大学"
       },
       "東京音楽大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo College of Music",
+         "location_area" : "東京都",
+         "sort_name" : "とうきようおんかくたいかく",
+         "url" : "http://www.tokyo-ondai.ac.jp"
       },
       "東北公益文科大学" : {
-         "location_area" : "山形県"
+         "english_long_name" : "Tōhoku University of Community Service and Science",
+         "location_area" : "山形県",
+         "sort_name" : "とうほくこうえきふんか",
+         "url" : "http://www.koeki-u.ac.jp/"
       },
       "東北大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Tohoku University",
+         "location_area" : "宮城県",
+         "sort_name" : "とうほく",
+         "url" : "http://www.tohoku.ac.jp/"
       },
       "東北女子大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Tohoku Women's College",
+         "location_area" : "青森県",
+         "sort_name" : "とうほくしよしたいかく",
+         "url" : "http://www.tojo.ac.jp/"
       },
       "東北学院大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Tohoku Gakuin University",
+         "location_area" : "宮城県",
+         "sort_name" : "とうほくかくいん",
+         "url" : "http://www.tohoku-gakuin.ac.jp/"
       },
       "東北工業大学" : {
          "location_area" : "宮城県"
       },
       "東北文化学園大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Tohoku Bunka Gakuen University",
+         "location_area" : "宮城県",
+         "sort_name" : "とうほくふんかかくえんたいかく",
+         "url" : "http://www.tbgu.ac.jp/"
       },
       "東北生活文化大学" : {
          "location_area" : "宮城県"
@@ -1670,950 +2933,1684 @@
          "location_area" : "宮城県"
       },
       "東北芸術工科大学" : {
-         "location_area" : "山形県"
+         "english_long_name" : "Tōhoku University of Art & Design",
+         "location_area" : "山形県",
+         "sort_name" : "とうほくけいしゆつこうかたいかく",
+         "url" : "http://www.tuad.ac.jp/"
       },
       "東北薬科大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Tohoku Pharmaceutical University",
+         "location_area" : "宮城県",
+         "sort_name" : "とうほくやつか",
+         "url" : "http://www.tohoku-pharm.ac.jp/"
       },
       "東和大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "TOHWA UNIVERSITY",
+         "location_area" : "福岡県",
+         "sort_name" : "とうわ",
+         "url" : "http://www.tohwa-u.ac.jp/"
       },
       "東大阪大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Higashiosaka College",
+         "location_area" : "大阪府",
+         "sort_name" : "ひかしおおさかたいかく",
+         "url" : "http://www.higashiosaka.ac.jp/"
       },
       "東日本国際大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "Higashi Nippon International University",
+         "location_area" : "福島県",
+         "sort_name" : "ひかしにつほんこくさいたいかく",
+         "url" : "http://www.tonichi-kokusai-u.ac.jp/hiu/"
       },
       "東洋大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Toyo University",
+         "location_area" : "東京都",
+         "sort_name" : "とうよう",
+         "url" : "http://www.toyo.ac.jp/"
       },
       "東洋大学朝霞・川越キャンパス" : {
+         "english_long_name" : "Toyo University",
          "location_area" : "埼玉県",
+         "sort_name" : "とうよう",
+         "url" : "http://www.toyo.ac.jp/",
          "wikipedia_name" : "東洋大学"
       },
       "東洋大学板倉キャンパス" : {
+         "english_long_name" : "Toyo University",
          "location_area" : "群馬県",
+         "sort_name" : "とうよう",
+         "url" : "http://www.toyo.ac.jp/",
          "wikipedia_name" : "東洋大学"
       },
       "東洋学園大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうようかくえん"
       },
       "東洋学園大学流山キャンパス" : {
          "location_area" : "千葉県",
+         "sort_name" : "とうようかくえん",
          "wikipedia_name" : "東洋学園大学"
       },
       "東洋英和女学院大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Toyo Eiwa University",
+         "location_area" : "神奈川県",
+         "sort_name" : "とうようえいわしよかくいんたいかく",
+         "url" : "http://www.toyoeiwa.ac.jp/daigaku/daigaku.html"
       },
       "東海大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokai University",
+         "location_area" : "東京都",
+         "sort_name" : "とうかいたいかく",
+         "url" : "http://www.u-tokai.ac.jp/"
       },
       "東海大学札幌、旭川キャンパス" : {
+         "english_long_name" : "Tokai University",
          "location_area" : "北海道",
+         "sort_name" : "とうかいたいかく",
+         "url" : "http://www.u-tokai.ac.jp/",
          "wikipedia_name" : "東海大学"
       },
       "東海大学沼津・清水キャンパス" : {
+         "english_long_name" : "Tokai University",
          "location_area" : "静岡県",
+         "sort_name" : "とうかいたいかく",
+         "url" : "http://www.u-tokai.ac.jp/",
          "wikipedia_name" : "東海大学"
       },
       "東海大学湘南・伊勢原キャンパス" : {
+         "english_long_name" : "Tokai University",
          "location_area" : "神奈川県",
+         "sort_name" : "とうかいたいかく",
+         "url" : "http://www.u-tokai.ac.jp/",
          "wikipedia_name" : "東海大学"
       },
       "東海大学熊本、阿蘇キャンパス" : {
+         "english_long_name" : "Tokai University",
          "location_area" : "熊本県",
+         "sort_name" : "とうかいたいかく",
+         "url" : "http://www.u-tokai.ac.jp/",
          "wikipedia_name" : "東海大学"
       },
       "東海学園大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "とうかいかくえんたいかく",
+         "url" : "http://www.tokaigakuen-u.ac.jp/"
       },
       "東海学院大学" : {
-         "location_area" : "岐阜県"
+         "english_long_name" : "Tokai Gakuin University",
+         "location_area" : "岐阜県",
+         "sort_name" : "とうかいかくいん",
+         "url" : "http://www.tokaigakuin-u.ac.jp/"
       },
       "東邦大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "とうほうたいかく"
       },
       "東邦大学習志野キャンパス" : {
          "location_area" : "千葉県",
+         "sort_name" : "とうほうたいかく",
          "wikipedia_name" : "東邦大学"
       },
       "東邦音楽大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Toho College of Music",
+         "location_area" : "埼玉県",
+         "sort_name" : "とうほうおんかくたいかく",
+         "url" : "http://www.toho-music.ac.jp/index_j.html"
       },
       "松山大学" : {
-         "location_area" : "愛媛県"
+         "english_long_name" : "Matsuyama University",
+         "location_area" : "愛媛県",
+         "sort_name" : "まつやまたいかく",
+         "url" : "http://www.matsuyama-u.ac.jp/"
       },
       "松山東雲女子大学" : {
-         "location_area" : "愛媛県"
+         "english_long_name" : "Matsuyama Shinonome College",
+         "location_area" : "愛媛県",
+         "sort_name" : "まつやましののめしよし",
+         "url" : "http://www.shinonome.ac.jp/college/"
       },
       "松本大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Matsumoto University",
+         "location_area" : "長野県",
+         "sort_name" : "まつもとたいかく",
+         "url" : "http://www.matsu.ac.jp/matsumoto_u/"
       },
       "松本歯科大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Matsumoto Dental University",
+         "location_area" : "長野県",
+         "sort_name" : "まつもとしか",
+         "url" : "http://www.mdu.ac.jp/"
       },
       "松蔭大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Shoin University",
+         "location_area" : "神奈川県",
+         "sort_name" : "しよういんたいかく",
+         "url" : "http://www.shoin-u.ac.jp/"
       },
       "桃山学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "St. Andrew's University",
+         "location_area" : "大阪府",
+         "sort_name" : "ももやまかくいん",
+         "url" : "http://www.andrew.ac.jp/"
       },
       "桐朋学園大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Toho Gakuen School of Music",
+         "location_area" : "東京都",
+         "sort_name" : "とうほうかくえんたいかく",
+         "url" : "http://www.tohomusic.ac.jp/"
       },
       "桐生大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Kiryu University",
+         "location_area" : "群馬県",
+         "sort_name" : "きりゆうたいかく",
+         "url" : "http://www.kiryu-u.ac.jp/"
       },
       "桐蔭横浜大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Toin University of Yokohama",
+         "location_area" : "神奈川県",
+         "sort_name" : "とういんよこはま",
+         "url" : "http://www.cc.toin.ac.jp/univ/"
       },
       "桜美林大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "J.F.Oberlin University",
+         "location_area" : "東京都",
+         "sort_name" : "おうひりん",
+         "url" : "http://www.obirin.ac.jp/"
       },
       "桜花学園大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Ohkagakuen University",
+         "location_area" : "愛知県",
+         "sort_name" : "おうかかくえん",
+         "url" : "http://www.ohkagakuen-u.ac.jp/"
       },
       "梅光学院大学" : {
-         "location_area" : "山口県"
+         "english_long_name" : "Baiko Gakuin University.",
+         "location_area" : "山口県",
+         "sort_name" : "はいこうかくいん",
+         "url" : "http://www.baiko.ac.jp/university/"
       },
       "梅花女子大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "BAIKA Women's University",
+         "location_area" : "大阪府",
+         "sort_name" : "はいかしよし",
+         "url" : "http://www.baika.ac.jp/"
       },
       "森ノ宮医療大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "もりのみやいりよう"
       },
       "植草学園大学" : {
          "location_area" : "千葉県"
       },
       "椙山女学園大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "すきやましよかくえんたいかく"
       },
       "横浜商科大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "よこはましようかたいかく"
       },
       "横浜国立大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "よこはまこくりつたいかく"
       },
       "横浜市立大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Yokohama City University",
+         "location_area" : "神奈川県",
+         "sort_name" : "よこはましりつたいかく",
+         "url" : "http://www.yokohama-cu.ac.jp/"
       },
       "横浜薬科大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "よこはまやつか"
       },
       "武庫川女子大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Mukogawa Women's University",
+         "location_area" : "兵庫県",
+         "sort_name" : "むこかわしよしたいかく",
+         "url" : "http://www.mukogawa-u.ac.jp/"
       },
       "武蔵大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Musashi University",
+         "location_area" : "東京都",
+         "sort_name" : "むさしたいかく",
+         "url" : "http://www.musashi.ac.jp/"
       },
       "武蔵野大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Musashino University",
+         "location_area" : "東京都",
+         "sort_name" : "むさしの",
+         "url" : "http://www.musashino-u.ac.jp/"
       },
       "武蔵野学院大学" : {
-         "location_area" : "埼玉県"
+         "location_area" : "埼玉県",
+         "sort_name" : "むさしのかくいん"
       },
       "武蔵野美術大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "むさしのひしゆつ"
       },
       "武蔵野音楽大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Musashino Academia Musicae",
+         "location_area" : "東京都",
+         "sort_name" : "むさしのおんかく",
+         "url" : "http://www.musashino-music.ac.jp/"
       },
       "武蔵野音楽大学入間キャンパス" : {
+         "english_long_name" : "Musashino Academia Musicae",
          "location_area" : "埼玉県",
+         "sort_name" : "むさしのおんかく",
+         "url" : "http://www.musashino-music.ac.jp/",
          "wikipedia_name" : "武蔵野音楽大学"
       },
       "比治山大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "HIJIYAMA Univ.",
+         "location_area" : "広島県",
+         "sort_name" : "ひしやまたいかく",
+         "url" : "http://www.hijiyama-u.ac.jp/"
       },
       "江戸川大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Edogawa University",
+         "location_area" : "千葉県",
+         "sort_name" : "えとかわたいかく",
+         "url" : "http://www.edogawa-u.ac.jp/"
       },
       "沖縄キリスト教学院大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Okinawa Christian University",
+         "location_area" : "沖縄県",
+         "sort_name" : "おきなわきりすときようかくいん",
+         "url" : "http://www.ocjc.ac.jp/"
       },
       "沖縄国際大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Okinawa International University",
+         "location_area" : "沖縄県",
+         "sort_name" : "おきなわこくさいたいかく",
+         "url" : "http://www.okiu.ac.jp/"
       },
       "沖縄大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Okinawa University",
+         "location_area" : "沖縄県",
+         "sort_name" : "おきなわたいかく",
+         "url" : "http://www.okinawa-u.ac.jp/"
       },
       "沖縄県立看護大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Okinawa Prefectural College of Nursing",
+         "location_area" : "沖縄県",
+         "sort_name" : "おきなわけんりつかんこ",
+         "url" : "http://www.okinawa-nurs.ac.jp/"
       },
       "沖縄県立芸術大学" : {
-         "location_area" : "沖縄県"
+         "english_long_name" : "Okinawa Prefectural University of Arts",
+         "location_area" : "沖縄県",
+         "sort_name" : "おきなわけんりつけいしゆつたいかく",
+         "url" : "http://www.okigei.ac.jp/"
       },
       "法政大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Hosei University",
+         "location_area" : "東京都",
+         "sort_name" : "ほうせいたいかく",
+         "url" : "http://www.hosei.ac.jp/"
       },
       "洗足学園音楽大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Senzoku Gakuen College of Music",
+         "location_area" : "神奈川県",
+         "sort_name" : "せんそくかくえんおんかくたいかく",
+         "url" : "http://www.senzoku.ac.jp/music/index.html"
       },
       "津田塾大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "つたしゆくたいかく"
       },
       "活水女子大学" : {
-         "location_area" : "長崎県"
+         "english_long_name" : "Kwassui Women's College",
+         "location_area" : "長崎県",
+         "sort_name" : "かつすいしよしたいかく",
+         "url" : "http://www.kwassui.ac.jp/college/"
       },
       "流通科学大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "University　of Marketing and Distribution Sciences",
+         "location_area" : "兵庫県",
+         "sort_name" : "りゆうつうかかく",
+         "url" : "http://www.umds.ac.jp/"
       },
       "流通経済大学" : {
-         "location_area" : "茨城県"
+         "location_area" : "茨城県",
+         "sort_name" : "りゆうつうけいさい"
       },
       "流通経済大学新松戸キャンパス" : {
          "location_area" : "千葉県",
+         "sort_name" : "りゆうつうけいさい",
          "wikipedia_name" : "流通経済大学"
       },
       "浜松医科大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Hamamatsu University School of Medicine",
+         "location_area" : "静岡県",
+         "sort_name" : "はままついかたいかく",
+         "url" : "http://www.hama-med.ac.jp/"
       },
       "浜松大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Hamamatsu University",
+         "location_area" : "静岡県",
+         "sort_name" : "はままつたいかく",
+         "url" : "http://www.hamamatsu-u.ac.jp/"
       },
       "浜松学院大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Hamamatsu Gakuin University",
+         "location_area" : "静岡県",
+         "sort_name" : "はままつかくいんたいかく",
+         "url" : "http://www.hgu.ac.jp/"
       },
       "浦和大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Urawa University",
+         "location_area" : "埼玉県",
+         "sort_name" : "うらわたいかく",
+         "url" : "http://www.urawa.ac.jp/"
       },
       "淑徳大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Shukutoku University",
+         "location_area" : "千葉県",
+         "sort_name" : "しゆくとくたいかく",
+         "url" : "http://www.shukutoku.ac.jp/"
       },
       "淑徳大学みずほ台キャンパス" : {
+         "english_long_name" : "Shukutoku University",
          "location_area" : "埼玉県",
+         "sort_name" : "しゆくとくたいかく",
+         "url" : "http://www.shukutoku.ac.jp/",
          "wikipedia_name" : "淑徳大学"
       },
       "清和大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "SEIWA UNIVERSITY",
+         "location_area" : "千葉県",
+         "sort_name" : "せいわたいかく",
+         "url" : "http://www.seiwa-univ.ac.jp/"
       },
       "清泉女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "せいせんしよしたいかく"
       },
       "清泉女学院大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Seisen Jogakuin College",
+         "location_area" : "長野県",
+         "sort_name" : "せいせんしよかくいん",
+         "url" : "http://www.seisen-jc.ac.jp/"
       },
       "湘南工科大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Shonan Institute of Technology",
+         "location_area" : "神奈川県",
+         "sort_name" : "しようなんこうか",
+         "url" : "http://www.shonan-it.ac.jp/"
       },
       "滋賀医科大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Shiga University of Medical Science",
+         "location_area" : "滋賀県",
+         "sort_name" : "しかいか",
+         "url" : "http://www.shiga-med.ac.jp/"
       },
       "滋賀大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Shiga University",
+         "location_area" : "滋賀県",
+         "sort_name" : "しかたいかく",
+         "url" : "http://www.shiga-u.ac.jp/"
       },
       "滋賀県立大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "The University of Shiga Prefecture",
+         "location_area" : "滋賀県",
+         "sort_name" : "しかけんりつたいかく",
+         "url" : "http://www.usp.ac.jp/japanese/"
       },
       "熊本保健科学大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "くまもとほけんかかく"
       },
       "熊本大学" : {
-         "location_area" : "熊本県"
+         "english_long_name" : "Kumamoto University",
+         "location_area" : "熊本県",
+         "sort_name" : "くまもとたいかく",
+         "url" : "http://www.kumamoto-u.ac.jp/"
       },
       "熊本学園大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "くまもとかくえん"
       },
       "熊本県立大学" : {
-         "location_area" : "熊本県"
+         "location_area" : "熊本県",
+         "sort_name" : "くまもとけんりつたいかく"
       },
       "獨協医科大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Dokkyo Medical University",
+         "location_area" : "栃木県",
+         "sort_name" : "とつきよういか",
+         "url" : "http://www.dokkyomed.ac.jp/"
       },
       "獨協大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Dokkyo University",
+         "location_area" : "埼玉県",
+         "sort_name" : "とつきようたいかく",
+         "url" : "http://www.dokkyo.ac.jp/"
       },
       "玉川大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tamagawa University",
+         "location_area" : "東京都",
+         "sort_name" : "たまかわたいかく",
+         "url" : "http://www.tamagawa.jp/university/"
       },
       "琉球大学" : {
-         "location_area" : "沖縄県"
+         "location_area" : "沖縄県",
+         "sort_name" : "りゆうきゆうたいかく"
       },
       "環太平洋大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "International Pacific University",
+         "location_area" : "岡山県",
+         "sort_name" : "かんたいへいよう",
+         "url" : "http://www.ipu-japan.ac.jp/"
       },
       "産業医科大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "University of Occupational and Environmental Health Japan",
+         "location_area" : "福岡県",
+         "sort_name" : "さんきよういか",
+         "url" : "http://www.uoeh-u.ac.jp/JP/index.html"
       },
       "産業能率大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "SANNO UNIVERSITY",
+         "location_area" : "東京都",
+         "sort_name" : "さんきようのうりつ",
+         "url" : "http://www.mi.sanno.ac.jp/"
       },
       "産業能率大学湘南キャンパス" : {
+         "english_long_name" : "SANNO UNIVERSITY",
          "location_area" : "神奈川県",
+         "sort_name" : "さんきようのうりつ",
+         "url" : "http://www.mi.sanno.ac.jp/",
          "wikipedia_name" : "産業能率大学"
       },
       "田園調布学園大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Den-en Chofu University",
+         "location_area" : "神奈川県",
+         "sort_name" : "てんえんちようふかくえん",
+         "url" : "http://www.dcu.ac.jp/"
       },
       "甲南大学" : {
-         "location_area" : "兵庫県"
+         "location_area" : "兵庫県",
+         "sort_name" : "こうなんたいかく"
       },
       "甲南女子大学" : {
          "location_area" : "兵庫県"
       },
       "甲子園大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Koshien University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうしえんたいかく",
+         "url" : "http://www.koshien.ac.jp/"
       },
       "畿央大学" : {
-         "location_area" : "奈良県"
+         "location_area" : "奈良県",
+         "sort_name" : "きおう"
       },
       "白梅学園大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "しらうめかくえんたいかく"
       },
       "白百合女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "しらゆりしよしたいかく"
       },
       "白鴎大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Hakuoh University",
+         "location_area" : "栃木県",
+         "sort_name" : "はくおうたいかく",
+         "url" : "http://web.hakuoh.ac.jp/"
       },
       "皇學館大学" : {
-         "location_area" : "三重県"
+         "english_long_name" : "Kogakkan University",
+         "location_area" : "三重県",
+         "sort_name" : "こうかつかん",
+         "url" : "http://www.kogakkan-u.ac.jp/"
       },
       "盛岡大学" : {
-         "location_area" : "岩手県"
+         "english_long_name" : "Morioka College",
+         "location_area" : "岩手県",
+         "sort_name" : "もりおかたいかく",
+         "url" : "http://www.morioka-u.ac.jp/"
       },
       "目白大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Mejiro University",
+         "location_area" : "東京都",
+         "sort_name" : "めしろたいかく",
+         "url" : "http://www.mejiro.ac.jp/"
       },
       "目白大学岩槻キャンパス" : {
+         "english_long_name" : "Mejiro University",
          "location_area" : "埼玉県",
+         "sort_name" : "めしろたいかく",
+         "url" : "http://www.mejiro.ac.jp/",
          "wikipedia_name" : "目白大学"
       },
       "相愛大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Soai University",
+         "location_area" : "大阪府",
+         "sort_name" : "そうあいたいかく",
+         "url" : "http://www.soai.ac.jp/"
       },
       "相模女子大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Sagami Women's University",
+         "location_area" : "神奈川県",
+         "sort_name" : "さかみしよしたいかく",
+         "url" : "http://www.sagami-wu.ac.jp/"
       },
       "県立広島大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Prefectural University of Hiroshima",
+         "location_area" : "広島県",
+         "sort_name" : "けんりつひろしまたいかく",
+         "url" : "http://www.pu-hiroshima.ac.jp/"
       },
       "石川県立大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Ishikawa Prefectural Univ.",
+         "location_area" : "石川県",
+         "sort_name" : "いしかわけんりつ",
+         "url" : "http://www.pref.ishikawa.jp/ishikawa-pu/"
       },
       "石川県立看護大学" : {
-         "location_area" : "石川県"
+         "location_area" : "石川県",
+         "sort_name" : "いしかわけんりつかんこ"
       },
       "石巻専修大学" : {
-         "location_area" : "宮城県"
+         "english_long_name" : "Ishinomaki Senshu University",
+         "location_area" : "宮城県",
+         "sort_name" : "いしのまきせんしゆう",
+         "url" : "http://www.isenshu-u.ac.jp/general/"
       },
       "神奈川大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "かなかわたいかく"
       },
       "神奈川工科大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Kanagawa Institute of Technology",
+         "location_area" : "神奈川県",
+         "sort_name" : "かなかわこうか",
+         "url" : "http://www.kait.jp/"
       },
       "神奈川歯科大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "かなかわしかたいかく"
       },
       "神奈川県立保健福祉大学" : {
-         "location_area" : "神奈川県"
+         "location_area" : "神奈川県",
+         "sort_name" : "かなかわけんりつほけんふくし"
       },
       "神戸ファッション造形大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe University　of Fashion and Design",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへふあつしよんそうけい",
+         "url" : "http://www.kobe-fashion.ac.jp/"
       },
       "神戸国際大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe International University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへこくさいたいかく",
+         "url" : "http://www.kobe-kiu.ac.jp/"
       },
       "神戸夙川学院大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Shukugawa Gakuin University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしゆくかわかくいん",
+         "url" : "http://www.kobeshukugawa.ac.jp/"
       },
       "神戸大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへたいかく",
+         "url" : "http://www.kobe-u.ac.jp/"
       },
       "神戸女子大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Women's University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしよし",
+         "url" : "http://www.yg.kobe-wu.ac.jp/wu/"
       },
       "神戸女学院大学" : {
-         "location_area" : "兵庫県"
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしよかくいん"
       },
       "神戸学院大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Gakuin University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへかくいんたいかく",
+         "url" : "http://www.kobegakuin.ac.jp/"
       },
       "神戸山手大学" : {
          "location_area" : "兵庫県"
       },
       "神戸市外国語大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe City University of Foreign Studies",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしかいこくこ",
+         "url" : "http://www.kobe-cufs.ac.jp/"
       },
       "神戸市看護大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe City College of Nursing",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしかんこ",
+         "url" : "http://www.kobe-ccn.ac.jp/"
       },
       "神戸常盤大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Tokiwa University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへときわたいかく",
+         "url" : "http://www.kobe-tokiwa.ac.jp/univ/index.html"
       },
       "神戸松蔭女子学院大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Shoin Women's University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへしよういんしよしかくいん",
+         "url" : "http://www.shoin.ac.jp/"
       },
       "神戸海星女子学院大学" : {
          "location_area" : "兵庫県"
       },
       "神戸芸術工科大学" : {
-         "location_area" : "兵庫県"
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへけいしゆつこうかたいかく"
       },
       "神戸薬科大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kobe Pharmaceutical University",
+         "location_area" : "兵庫県",
+         "sort_name" : "こうへやつか",
+         "url" : "http://www.kobepharma-u.ac.jp/"
       },
       "神戸親和女子大学" : {
          "location_area" : "兵庫県"
       },
       "神田外語大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Kanda University of International Studies",
+         "location_area" : "千葉県",
+         "sort_name" : "かんたかいこたいかく",
+         "url" : "http://www.kandagaigo.ac.jp/kuis/"
       },
       "福井大学" : {
-         "location_area" : "福井県"
+         "english_long_name" : "University of Fukui",
+         "location_area" : "福井県",
+         "sort_name" : "ふくいたいかく",
+         "url" : "http://www.u-fukui.ac.jp/"
       },
       "福井工業大学" : {
-         "location_area" : "福井県"
+         "english_long_name" : "Fukui University of Technology",
+         "location_area" : "福井県",
+         "sort_name" : "ふくいこうきよう",
+         "url" : "http://www.fukui-ut.ac.jp/docs/index.html"
       },
       "福井県立大学" : {
-         "location_area" : "福井県"
+         "english_long_name" : "Fukui Prefectural University",
+         "location_area" : "福井県",
+         "sort_name" : "ふくいけんりつ",
+         "url" : "http://www.fpu.ac.jp/index.html"
       },
       "福山大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Fukuyama University",
+         "location_area" : "広島県",
+         "sort_name" : "ふくやまたいかく",
+         "url" : "http://www.fukuyama-u.ac.jp/"
       },
       "福山平成大学" : {
-         "location_area" : "広島県"
+         "english_long_name" : "Fukuyama HEISEI University",
+         "location_area" : "広島県",
+         "sort_name" : "ふくやまへいせい",
+         "url" : "http://www.heisei-u.ac.jp/"
       },
       "福岡医療福祉大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Fukuoka Social Medical Welfare University",
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかいりようふくし",
+         "url" : "http://www.dfu.ac.jp/"
       },
       "福岡国際大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Fukuoka International University",
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかこくさいたいかく",
+         "url" : "http://www.fukuoka-int-u.ac.jp/"
       },
       "福岡大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかたいかく"
       },
       "福岡女子大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Fukuoka Women's University",
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかしよしたいかく",
+         "url" : "http://www.fwu.ac.jp/"
       },
       "福岡女学院大学" : {
          "location_area" : "福岡県"
       },
       "福岡女学院看護大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Fukuoka jogakuin Nursing College",
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかしよかくいんかんこ",
+         "url" : "http://www2.fukujo.ac.jp/ns/index.php"
       },
       "福岡工業大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかこうきようたいかく"
       },
       "福岡教育大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかきよういくたいかく"
       },
       "福岡歯科大学" : {
          "location_area" : "福岡県"
       },
       "福岡県立大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Fukuoka Prefectural University",
+         "location_area" : "福岡県",
+         "sort_name" : "ふくおかけんりつたいかく",
+         "url" : "http://www.fukuoka-pu.ac.jp/"
       },
       "福岡経済大学" : {
          "location_area" : "福岡県"
       },
       "福島大学" : {
-         "location_area" : "福島県"
+         "location_area" : "福島県",
+         "sort_name" : "ふくしまたいかく"
       },
       "福島学院大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "Fukushima College",
+         "location_area" : "福島県",
+         "sort_name" : "ふくしまかくいん",
+         "url" : "http://www.fukushima-college.ac.jp/"
       },
       "福島県立医科大学" : {
-         "location_area" : "福島県"
+         "location_area" : "福島県",
+         "sort_name" : "ふくしまけんりついか"
       },
       "秀明大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Shumei University",
+         "location_area" : "千葉県",
+         "sort_name" : "しゆうめい",
+         "url" : "http://www.shumei-u.ac.jp/"
       },
       "秋田大学" : {
-         "location_area" : "秋田県"
+         "english_long_name" : "Akita University",
+         "location_area" : "秋田県",
+         "sort_name" : "あきたたいかく",
+         "url" : "http://www.akita-u.ac.jp"
       },
       "秋田看護福祉大学" : {
-         "location_area" : "秋田県"
+         "location_area" : "秋田県",
+         "sort_name" : "あきたかんこふくしたいかく"
       },
       "秋田県立大学" : {
-         "location_area" : "秋田県"
+         "english_long_name" : "Akita Prefectual University",
+         "location_area" : "秋田県",
+         "sort_name" : "あきたけんりつたいかく",
+         "url" : "http://www.akita-pu.ac.jp/"
       },
       "稚内北星学園大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Wakkanai Hokusei Gakuen University",
+         "location_area" : "北海道",
+         "sort_name" : "わつかないほくせいかくえん"
       },
       "種智院大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Shuchiin University",
+         "location_area" : "京都府",
+         "sort_name" : "しゆちいんたい",
+         "url" : "http://www.shuchiin.ac.jp/"
       },
       "立命館アジア太平洋大学" : {
-         "location_area" : "大分県"
+         "english_long_name" : "Ritsumeikan Asia Pacific University",
+         "location_area" : "大分県",
+         "sort_name" : "りつめいかんあしあたいへいようたいかく",
+         "url" : "http://www.apu.ac.jp"
       },
       "立命館大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Ritsumeikan University",
+         "location_area" : "京都府",
+         "sort_name" : "りつめいかんたいかく",
+         "url" : "http://www.ritsumei.jp/index_j.html"
       },
       "立命館大学びわこ・くさつキャンパス" : {
+         "english_long_name" : "Ritsumeikan University",
          "location_area" : "滋賀県",
+         "sort_name" : "りつめいかんたいかく",
+         "url" : "http://www.ritsumei.jp/index_j.html",
          "wikipedia_name" : "立命館大学"
       },
       "立教大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Rikkyo University／Saint Paul's University",
+         "location_area" : "東京都",
+         "sort_name" : "りつきよう",
+         "url" : "http://www.rikkyo.ac.jp/"
       },
       "立教大学武蔵野新座キャンパス" : {
+         "english_long_name" : "Rikkyo University／Saint Paul's University",
          "location_area" : "埼玉県",
+         "sort_name" : "りつきよう",
+         "url" : "http://www.rikkyo.ac.jp/",
          "wikipedia_name" : "立教大学"
       },
       "立正大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "りつしようたいかく"
       },
       "立正大学熊谷キャンパス" : {
          "location_area" : "埼玉県",
+         "sort_name" : "りつしようたいかく",
          "wikipedia_name" : "立正大学"
       },
       "第一工業大学" : {
-         "location_area" : "鹿児島県"
+         "english_long_name" : "daiichi Institute of Technology",
+         "location_area" : "鹿児島県",
+         "sort_name" : "たいいちこうきようたいかく",
+         "url" : "http://www.daiichi-koudai.ac.jp"
       },
       "第一薬科大学" : {
-         "location_area" : "福岡県"
+         "location_area" : "福岡県",
+         "sort_name" : "たいいちやつかたいかく"
       },
       "筑波大学" : {
-         "location_area" : "茨城県"
+         "english_long_name" : "University of Tsukuba",
+         "location_area" : "茨城県",
+         "sort_name" : "つくはたいかく",
+         "url" : "http://www.tsukuba.ac.jp/"
       },
       "筑波大学東京キャンパス" : {
+         "english_long_name" : "University of Tsukuba",
          "location_area" : "東京都",
+         "sort_name" : "つくはたいかく",
+         "url" : "http://www.tsukuba.ac.jp/",
          "wikipedia_name" : "筑波大学"
       },
       "筑波学院大学" : {
-         "location_area" : "茨城県"
+         "english_long_name" : "Tsukuba Gakuin University",
+         "location_area" : "茨城県",
+         "sort_name" : "つくはかくいんたいかく",
+         "url" : "http://www.tsukuba-g.ac.jp/"
       },
       "筑波技術大学" : {
-         "location_area" : "茨城県"
+         "location_area" : "茨城県",
+         "sort_name" : "つくはきしゆつ"
       },
       "筑紫女学園大学" : {
          "location_area" : "福岡県"
       },
       "美作大学" : {
-         "location_area" : "岡山県"
+         "english_long_name" : "Mimasaka University",
+         "location_area" : "岡山県",
+         "sort_name" : "みまさか",
+         "url" : "http://mimasaka.jp/"
       },
       "群馬パース大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Gumma Paz College",
+         "location_area" : "群馬県",
+         "sort_name" : "くんまはあす",
+         "url" : "http://www.paz.ac.jp/college.html"
       },
       "群馬大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Gunma University",
+         "location_area" : "群馬県",
+         "sort_name" : "くんま",
+         "url" : "http://www.gunma-u.ac.jp/"
       },
       "群馬県立女子大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Gunma Prefectual Women's University",
+         "location_area" : "群馬県",
+         "sort_name" : "くんまけんりつしよし",
+         "url" : "http://www.gpwu.ac.jp/"
       },
       "群馬県立県民健康科学大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Gunma Prefectual College of Health Sciences",
+         "location_area" : "群馬県",
+         "sort_name" : "くんまけんりつけんみんほけんかかく",
+         "url" : "http://www.gchs.ac.jp/"
       },
       "群馬社会福祉大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Gunma University of Social Welfare",
+         "location_area" : "群馬県",
+         "sort_name" : "くんましやかいふくしたいかく",
+         "url" : "http://www.shoken-gakuen.ac.jp/university/top/top.html"
       },
       "羽衣国際大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Hagoromo International University",
+         "location_area" : "大阪府",
+         "sort_name" : "はころもこくさい",
+         "url" : "http://www.hagoromo.ac.jp/"
       },
       "聖カタリナ大学" : {
-         "location_area" : "愛媛県"
+         "english_long_name" : "St. Catherine University",
+         "location_area" : "愛媛県",
+         "sort_name" : "せいかたりな",
+         "url" : "http://www.catherine.ac.jp/"
       },
       "聖トマス大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "St. Thomas University / Sapientia University / St. Thomas University of Osaka",
+         "location_area" : "兵庫県",
+         "sort_name" : "せいとます",
+         "url" : "http://www.sapientia.ac.jp/"
       },
       "聖マリアンナ医科大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "St. Marianna University. School of Medicine",
+         "location_area" : "神奈川県",
+         "sort_name" : "せいまりあんないかたいかく",
+         "url" : "http://www.marianna-u.ac.jp/"
       },
       "聖マリア学院大学" : {
          "location_area" : "福岡県"
       },
       "聖和大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Seiwa College",
+         "location_area" : "兵庫県",
+         "sort_name" : "せいわたいかく",
+         "url" : "http://www.seiwa-u.ac.jp/"
       },
       "聖学院大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Seigakuin University",
+         "location_area" : "埼玉県",
+         "sort_name" : "せいかくいんたいかく",
+         "url" : "http://www.seigakuin-univ.ac.jp/"
       },
       "聖徳大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Seitoku University",
+         "location_area" : "千葉県",
+         "sort_name" : "せいとくたいかく",
+         "url" : "http://www.seitoku.jp/univ/index.html"
       },
       "聖心女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "せいしんしよし"
       },
       "聖母大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Seibo College",
+         "location_area" : "東京都",
+         "sort_name" : "せいほたいかく",
+         "url" : "http://www.seibo-c.ac.jp/"
       },
       "聖泉大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Seisen University",
+         "location_area" : "滋賀県",
+         "sort_name" : "せいせん",
+         "url" : "http://www.seisen.ac.jp/"
       },
       "聖路加看護大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "St. Luke's College of Nursing",
+         "location_area" : "東京都",
+         "sort_name" : "せいるかかんこ",
+         "url" : "http://www.slcn.ac.jp"
       },
       "聖隷クリストファー大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Seirei Christopher University",
+         "location_area" : "静岡県",
+         "sort_name" : "せいれいくりすとふああ",
+         "url" : "http://www.seirei.ac.jp/"
       },
       "自治医科大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Jichi Medical University",
+         "location_area" : "栃木県",
+         "sort_name" : "しちいか",
+         "url" : "http://www.jichi.ac.jp/"
       },
       "至学館大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "しかつかん"
       },
       "芝浦工業大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Shibaura Institute of Technology",
+         "location_area" : "東京都",
+         "sort_name" : "しはうらこうきよう",
+         "url" : "http://www.shibaura-it.ac.jp/"
       },
       "芝浦工業大学大宮キャンパス" : {
+         "english_long_name" : "Shibaura Institute of Technology",
          "location_area" : "埼玉県",
+         "sort_name" : "しはうらこうきよう",
+         "url" : "http://www.shibaura-it.ac.jp/",
          "wikipedia_name" : "芝浦工業大学"
       },
       "芦屋大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Ashiya University",
+         "location_area" : "兵庫県",
+         "sort_name" : "あしやたいかく",
+         "url" : "http://www.ashiya-u.ac.jp/"
       },
       "花園大学" : {
-         "location_area" : "京都府"
+         "location_area" : "京都府",
+         "sort_name" : "はなその"
       },
       "苫小牧駒澤大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Tomakomai Komazawa University",
+         "location_area" : "北海道",
+         "sort_name" : "とまこまいこまさわ",
+         "url" : "http://www.t-komazawa.ac.jp/"
       },
       "茨城キリスト教大学" : {
-         "location_area" : "茨城県"
+         "location_area" : "茨城県",
+         "sort_name" : "いはらききりすときよう"
       },
       "茨城大学" : {
-         "location_area" : "茨城県"
+         "location_area" : "茨城県",
+         "sort_name" : "いはらきたいかく"
       },
       "茨城県立医療大学" : {
-         "location_area" : "茨城県"
+         "english_long_name" : "Ibaraki Prefectural University of Health Sciences",
+         "location_area" : "茨城県",
+         "sort_name" : "いはらきけんりついりよう",
+         "url" : "http://www.ipu.ac.jp/"
       },
       "藍野大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Aino University",
+         "location_area" : "大阪府",
+         "sort_name" : "あいの",
+         "url" : "http://www.aino.ac.jp/ainouniv/"
       },
       "藤女子大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "ふししよし"
       },
       "藤田保健衛生大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Fujita Health University",
+         "location_area" : "愛知県",
+         "sort_name" : "ふしたほけんえいせいたいかく",
+         "url" : "http://www.fujita-hu.ac.jp/"
       },
       "西九州大学" : {
-         "location_area" : "佐賀県"
+         "location_area" : "佐賀県",
+         "sort_name" : "にしきゆうしゆう"
       },
       "西南女学院大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Seinan Jo Gakuin University",
+         "location_area" : "福岡県",
+         "sort_name" : "せいなんしよかくいん",
+         "url" : "http://www.seinan-jo.ac.jp/univers/"
       },
       "西南学院大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Seinan Gakuin University",
+         "location_area" : "福岡県",
+         "sort_name" : "せいなんかくいん",
+         "url" : "http://www.seinan-gu.ac.jp/"
       },
       "西日本工業大学" : {
-         "location_area" : "福岡県"
+         "english_long_name" : "Nishinippon Institute of Technology",
+         "location_area" : "福岡県",
+         "sort_name" : "にしにつほんこうきよう",
+         "url" : "http://www.nishitech.ac.jp"
       },
       "西武文理大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Bunri University of Hospitality",
+         "location_area" : "埼玉県",
+         "sort_name" : "せいふふんり",
+         "url" : "http://www.bunri-c.ac.jp/univ/"
       },
       "諏訪東京理科大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Tokyo University of Science, Suwa",
+         "location_area" : "長野県",
+         "sort_name" : "すわとうきようりか",
+         "url" : "http://www.suwa.tus.ac.jp/"
       },
       "豊橋創造大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "とよはしそうそうたいかく"
       },
       "豊橋技術科学大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Toyohashi University of Technology",
+         "location_area" : "愛知県",
+         "sort_name" : "とよはしきしゆつかかく",
+         "url" : "http://www.tut.ac.jp/"
       },
       "豊田工業大学" : {
-         "location_area" : "愛知県"
+         "location_area" : "愛知県",
+         "sort_name" : "とよたこうきよう"
       },
       "足利工業大学" : {
-         "location_area" : "栃木県"
+         "english_long_name" : "Ashikaga Institute of Technology",
+         "location_area" : "栃木県",
+         "sort_name" : "あしかかこうきようたいかく",
+         "url" : "http://www.ashitech.ac.jp/"
       },
       "跡見学園女子大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Atomi University",
+         "location_area" : "東京都",
+         "sort_name" : "あとみかくえんしよし",
+         "url" : "http://www.atomi.ac.jp/daigaku/"
       },
       "跡見学園女子大学新座キャンパス" : {
+         "english_long_name" : "Atomi University",
          "location_area" : "埼玉県",
+         "sort_name" : "あとみかくえんしよし",
+         "url" : "http://www.atomi.ac.jp/daigaku/",
          "wikipedia_name" : "跡見学園女子大学"
       },
       "身延山大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "Minobusan University",
+         "location_area" : "山梨県",
+         "sort_name" : "みのふさんたいかく",
+         "url" : "http://www.min.ac.jp/"
       },
       "近大姫路大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "University of KinDAI Himeji",
+         "location_area" : "兵庫県",
+         "sort_name" : "きんたいひめし",
+         "url" : "http://kindaihimeji-u.ac.jp/"
       },
       "近畿医療福祉大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kinki Health Welfare University",
+         "location_area" : "兵庫県",
+         "sort_name" : "きんきいりようふくし",
+         "url" : "http://www.kinwu.ac.jp/"
       },
       "近畿大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Kinki University",
+         "location_area" : "大阪府",
+         "sort_name" : "きんき",
+         "url" : "http://www.kindai.ac.jp/"
       },
       "近畿大学和歌山キャンパス" : {
+         "english_long_name" : "Kinki University",
          "location_area" : "和歌山県",
+         "sort_name" : "きんき",
+         "url" : "http://www.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学"
       },
       "近畿大学奈良キャンパス" : {
+         "english_long_name" : "Kinki University",
          "location_area" : "奈良県",
+         "sort_name" : "きんき",
+         "url" : "http://www.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学"
       },
       "近畿大学広島キャンパス" : {
+         "english_long_name" : "Kinki University",
          "location_area" : "広島県",
+         "sort_name" : "きんき",
+         "url" : "http://www.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学"
       },
       "近畿大学福岡キャンパス" : {
+         "english_long_name" : "Kinki University",
          "location_area" : "福岡県",
+         "sort_name" : "きんき",
+         "url" : "http://www.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学"
       },
       "追手門学院大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Otemon Gakuin University",
+         "location_area" : "大阪府",
+         "sort_name" : "おうてもんかくいんたいかく",
+         "url" : "http://www.otemon.ac.jp/"
       },
       "道都大学" : {
-         "location_area" : "北海道"
+         "english_long_name" : "Dohto University",
+         "location_area" : "北海道",
+         "sort_name" : "とうとたいかく",
+         "url" : "http://www.dohto.ac.jp/"
       },
       "郡山女子大学" : {
-         "location_area" : "福島県"
+         "english_long_name" : "Kaisei Gakuen Colledes",
+         "location_area" : "福島県",
+         "sort_name" : "こおりやましよし",
+         "url" : "http://www.koriyama-kgc.ac.jp/"
       },
       "都留文科大学" : {
-         "location_area" : "山梨県"
+         "english_long_name" : "TSURU University",
+         "location_area" : "山梨県",
+         "sort_name" : "つるふんかたいかく",
+         "url" : "http://www.tsuru.ac.jp/"
       },
       "酪農学園大学" : {
          "location_area" : "北海道"
       },
       "金城大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Kinjo University",
+         "location_area" : "石川県",
+         "sort_name" : "きんしようたいかく",
+         "url" : "http://www.kinjo.ac.jp/ku/"
       },
       "金城学院大学" : {
-         "location_area" : "愛知県"
+         "english_long_name" : "Kinjo Gakuin University",
+         "location_area" : "愛知県",
+         "sort_name" : "きんしようかくいんたいかく",
+         "url" : "http://www.kinjo-u.ac.jp/"
       },
       "金沢医科大学" : {
-         "location_area" : "石川県"
+         "location_area" : "石川県",
+         "sort_name" : "かなさわいか"
       },
       "金沢大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Kanazawa University",
+         "location_area" : "石川県",
+         "sort_name" : "かなさわたいかく",
+         "url" : "http://www.kanazawa-u.ac.jp/"
       },
       "金沢学院大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Kanazawa Gakuin University",
+         "location_area" : "石川県",
+         "sort_name" : "かなさわかくいんたいかく",
+         "url" : "http://www.kanazawa-gu.ac.jp/"
       },
       "金沢工業大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Kanazawa Institute of Technology",
+         "location_area" : "石川県",
+         "sort_name" : "かなさわこうきよう",
+         "url" : "http://www.kanazawa-it.ac.jp/"
       },
       "金沢工業大学東京虎ノ門キャンパス" : {
+         "english_long_name" : "Kanazawa Institute of Technology",
          "location_area" : "東京都",
+         "sort_name" : "かなさわこうきよう",
+         "url" : "http://www.kanazawa-it.ac.jp/",
          "wikipedia_name" : "金沢工業大学"
       },
       "金沢星稜大学" : {
-         "location_area" : "石川県"
+         "english_long_name" : "Kanazawa Seiryo University",
+         "location_area" : "石川県",
+         "sort_name" : "かなさわせいりよう",
+         "url" : "http://www.seiryo-u.ac.jp/index.html"
       },
       "金沢美術工芸大学" : {
-         "location_area" : "石川県"
+         "location_area" : "石川県",
+         "sort_name" : "かなさわひしゆつこうけい"
       },
       "釧路公立大学" : {
-         "location_area" : "北海道"
+         "location_area" : "北海道",
+         "sort_name" : "くしろこうりつ"
       },
       "鈴鹿医療科学大学" : {
-         "location_area" : "三重県"
+         "location_area" : "三重県",
+         "sort_name" : "すすかいりようかかく"
       },
       "鈴鹿国際大学" : {
-         "location_area" : "三重県"
+         "english_long_name" : "Suzuka International University",
+         "location_area" : "三重県",
+         "sort_name" : "すすかこくさい",
+         "url" : "http://www.suzuka-iu.ac.jp/"
       },
       "鎌倉女子大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Kamakura Women's University",
+         "location_area" : "神奈川県",
+         "sort_name" : "かまくらしよしたいかく",
+         "url" : "http://www.kamakura-u.ac.jp/index.html"
       },
       "長岡大学" : {
-         "location_area" : "新潟県"
+         "location_area" : "新潟県",
+         "sort_name" : "なかおかたいかく"
       },
       "長岡技術科学大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Nagaoka University of Technology",
+         "location_area" : "新潟県",
+         "sort_name" : "なかおかきしゆつかかく",
+         "url" : "http://www.nagaokaut.ac.jp/"
       },
       "長岡造形大学" : {
-         "location_area" : "新潟県"
+         "english_long_name" : "Nagaoka Institute Of Design",
+         "location_area" : "新潟県",
+         "sort_name" : "なかおかそうけいたいかく",
+         "url" : "http://www.nagaoka-id.ac.jp/"
       },
       "長崎ウエスレヤン大学" : {
-         "location_area" : "長崎県"
+         "location_area" : "長崎県",
+         "sort_name" : "なかさきうえすれやん"
       },
       "長崎国際大学" : {
-         "location_area" : "長崎県"
+         "location_area" : "長崎県",
+         "sort_name" : "なかさきこくさい"
       },
       "長崎外国語大学" : {
-         "location_area" : "長崎県"
+         "location_area" : "長崎県",
+         "sort_name" : "なかさきかいこくこ"
       },
       "長崎大学" : {
-         "location_area" : "長崎県"
+         "english_long_name" : "Nagasaki University",
+         "location_area" : "長崎県",
+         "sort_name" : "なかさき",
+         "url" : "http://www.nagasaki-u.ac.jp"
       },
       "長崎県立大学" : {
-         "location_area" : "長崎県"
+         "location_area" : "長崎県",
+         "sort_name" : "なかさきけんりつたいかく"
       },
       "長崎純心大学" : {
          "location_area" : "長崎県"
       },
       "長崎総合科学大学" : {
-         "location_area" : "長崎県"
+         "english_long_name" : "Nagasaki Institute of Applied Science",
+         "location_area" : "長崎県",
+         "sort_name" : "なかさきそうこうかかくたいかく",
+         "url" : "http://www.nias.ac.jp/"
       },
       "長浜バイオ大学" : {
-         "location_area" : "滋賀県"
+         "english_long_name" : "Nagahama Institute of Bio-Science and Technology",
+         "location_area" : "滋賀県",
+         "sort_name" : "なかはまはいお",
+         "url" : "http://www.nagahama-i-bio.ac.jp/"
       },
       "長野大学" : {
-         "location_area" : "長野県"
+         "english_long_name" : "Nagano University",
+         "location_area" : "長野県",
+         "sort_name" : "なかのたいかく",
+         "url" : "http://www.nagano.ac.jp/"
       },
       "長野県看護大学" : {
          "location_area" : "長野県"
       },
       "関東学園大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Kanto Gakuen University",
+         "location_area" : "群馬県",
+         "sort_name" : "かんとうかくえんたいかく",
+         "url" : "http://www.kanto-gakuen.ac.jp/univer/index.htm"
       },
       "関東学院大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Kanto Gakuin University",
+         "location_area" : "神奈川県",
+         "sort_name" : "かんとうかくいん",
+         "url" : "http://univ.kanto-gakuin.ac.jp/"
       },
       "関西医療大学" : {
          "location_area" : "大阪府"
       },
       "関西医科大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Kansai Medical University",
+         "location_area" : "大阪府",
+         "sort_name" : "かんさいいかたいかく",
+         "url" : "http://www.kmu.ac.jp/"
       },
       "関西国際大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kansai University of International Studies",
+         "location_area" : "兵庫県",
+         "sort_name" : "かんさいこくさい",
+         "url" : "http://www.kuins.ac.jp/"
       },
       "関西外国語大学" : {
-         "location_area" : "大阪府"
+         "location_area" : "大阪府",
+         "sort_name" : "かんさいかいこくこ"
       },
       "関西大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Kansai University",
+         "location_area" : "大阪府",
+         "sort_name" : "かんさいたいかく",
+         "url" : "http://www.kansai-u.ac.jp/"
       },
       "関西学院大学" : {
-         "location_area" : "兵庫県"
+         "english_long_name" : "Kwansei Gakuin University",
+         "location_area" : "兵庫県",
+         "sort_name" : "かんせいかくいん",
+         "url" : "http://www.kwansei.ac.jp/"
       },
       "関西学院大学大阪梅田キャンパス" : {
+         "english_long_name" : "Kwansei Gakuin University",
          "location_area" : "大阪府",
+         "sort_name" : "かんせいかくいん",
+         "url" : "http://www.kwansei.ac.jp/",
          "wikipedia_name" : "関西学院大学"
       },
       "関西福祉大学" : {
-         "location_area" : "兵庫県"
+         "location_area" : "兵庫県",
+         "sort_name" : "かんさいふくし"
       },
       "関西福祉科学大学" : {
          "location_area" : "大阪府"
       },
       "阪南大学" : {
-         "location_area" : "大阪府"
+         "english_long_name" : "Hannan University",
+         "location_area" : "大阪府",
+         "sort_name" : "はんなんたいかく",
+         "url" : "http://www.hannan-u.ac.jp/"
       },
       "電気通信大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "てんきつうしん"
       },
       "青山学院大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Aoyama Gakuin University",
+         "location_area" : "東京都",
+         "sort_name" : "あおやまかくいん",
+         "url" : "http://www.aoyama.ac.jp/"
       },
       "青山学院大学相模原キャンパス" : {
+         "english_long_name" : "Aoyama Gakuin University",
          "location_area" : "神奈川県",
+         "sort_name" : "あおやまかくいん",
+         "url" : "http://www.aoyama.ac.jp/",
          "wikipedia_name" : "青山学院大学"
       },
       "青森中央学院大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Aomori　Chuo Gakuin University",
+         "location_area" : "青森県",
+         "sort_name" : "あおもりちゆうおうかくいん",
+         "url" : "http://www.aomoricgu.ac.jp/"
       },
       "青森公立大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Aomori Public College",
+         "location_area" : "青森県",
+         "sort_name" : "あおもりこうりつ",
+         "url" : "http://www.nebuta.ac.jp/"
       },
       "青森大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Aomori University",
+         "location_area" : "青森県",
+         "sort_name" : "あおもりたいかく",
+         "url" : "http://www.aomori-u.ac.jp/"
       },
       "青森県立保健大学" : {
-         "location_area" : "青森県"
+         "english_long_name" : "Aomori University of Health and Welfare",
+         "location_area" : "青森県",
+         "sort_name" : "あおもりけんりつほけん",
+         "url" : "http://www.auhw.ac.jp/"
       },
       "静岡大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Shizuoka University.",
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかたいかく",
+         "url" : "http://www.shizuoka.ac.jp/"
       },
       "静岡文化芸術大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Shizuoka University of Art and Culture",
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかふんかけいしゆつたいかく",
+         "url" : "http://www.suac.ac.jp/"
       },
       "静岡理工科大学" : {
-         "location_area" : "静岡県"
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかりこうか"
       },
       "静岡産業大学" : {
-         "location_area" : "静岡県"
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかさんきよう"
       },
       "静岡県立大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "University of Shizuoka",
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかけんりつたいかく",
+         "url" : "http://www.u-shizuoka-ken.ac.jp/"
       },
       "静岡福祉大学" : {
-         "location_area" : "静岡県"
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかふくしたいかく"
       },
       "静岡英和学院大学" : {
-         "location_area" : "静岡県"
+         "english_long_name" : "Shizuoka Eiwa Gakuin University",
+         "location_area" : "静岡県",
+         "sort_name" : "しすおかえいわかくいんたいかく",
+         "url" : "http://www.shizuoka-eiwa.ac.jp/"
       },
       "順天堂大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Juntendo University",
+         "location_area" : "東京都",
+         "sort_name" : "しゆんてんとう",
+         "url" : "http://www.juntendo.ac.jp/"
       },
       "順天堂大学さくら・浦安キャンパス" : {
+         "english_long_name" : "Juntendo University",
          "location_area" : "千葉県",
+         "sort_name" : "しゆんてんとう",
+         "url" : "http://www.juntendo.ac.jp/",
          "wikipedia_name" : "順天堂大学"
       },
       "順心会看護医療大学" : {
          "location_area" : "兵庫県"
       },
       "首都大学東京" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Tokyo Metropolitan University",
+         "location_area" : "東京都",
+         "sort_name" : "しゆとたいかくとうきよう",
+         "url" : "http://www.tmu.ac.jp/"
       },
       "香川大学" : {
-         "location_area" : "香川県"
+         "english_long_name" : "Kagawa University",
+         "location_area" : "香川県",
+         "sort_name" : "かかわたいかく",
+         "url" : "http://www.kagawa-u.ac.jp/"
       },
       "香川県立保健医療大学" : {
-         "location_area" : "香川県"
+         "english_long_name" : "Kagawa Prefectural College of Health Sciences",
+         "location_area" : "香川県",
+         "sort_name" : "かかわけんりつほけんいりよう",
+         "url" : "http://www.pref.kagawa.jp/daigaku/"
       },
       "駒沢女子大学" : {
-         "location_area" : "東京都"
+         "location_area" : "東京都",
+         "sort_name" : "こまさわしよしたいかく"
       },
       "駒澤大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Komazawa University",
+         "location_area" : "東京都",
+         "sort_name" : "こまさわたいかく",
+         "url" : "http://www.komazawa-u.ac.jp/"
       },
       "駿河台大学" : {
-         "location_area" : "埼玉県"
+         "english_long_name" : "Surugadai University",
+         "location_area" : "埼玉県",
+         "sort_name" : "するかたい",
+         "url" : "http://www.surugadai.ac.jp/"
       },
       "駿河台大学お茶の水キャンパス" : {
+         "english_long_name" : "Surugadai University",
          "location_area" : "東京都",
+         "sort_name" : "するかたい",
+         "url" : "http://www.surugadai.ac.jp/",
          "wikipedia_name" : "駿河台大学"
       },
       "高千穂大学" : {
-         "location_area" : "東京都"
+         "english_long_name" : "Takachiho University",
+         "location_area" : "東京都",
+         "sort_name" : "たかちほたいかく",
+         "url" : "http://www.takachiho.ac.jp/"
       },
       "高岡法科大学" : {
-         "location_area" : "富山県"
+         "english_long_name" : "Takaoka University of Law",
+         "location_area" : "富山県",
+         "sort_name" : "たかおかほうか",
+         "url" : "http://www.takaoka.ac.jp/"
       },
       "高崎健康福祉大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Takasaki University of Health and Welfare",
+         "location_area" : "群馬県",
+         "sort_name" : "たかさきけんこうふくしたいかく",
+         "url" : "http://www.takasaki-u.ac.jp/uhw/"
       },
       "高崎商科大学" : {
-         "location_area" : "群馬県"
+         "english_long_name" : "Takasaki University of Commerce",
+         "location_area" : "群馬県",
+         "sort_name" : "たかさきしようかたいかく",
+         "url" : "http://www.tuc.ac.jp/index2.html"
       },
       "高崎経済大学" : {
-         "location_area" : "群馬県"
+         "location_area" : "群馬県",
+         "sort_name" : "たかさきけいさいたいかく"
       },
       "高松大学" : {
-         "location_area" : "香川県"
+         "english_long_name" : "Takamatsu University",
+         "location_area" : "香川県",
+         "sort_name" : "たかまつたいかく",
+         "url" : "http://www.takamatsu-u.ac.jp/"
       },
       "高知大学" : {
-         "location_area" : "高知県"
+         "english_long_name" : "Kochi University",
+         "location_area" : "高知県",
+         "sort_name" : "こうちたいかく",
+         "url" : "http://www.kochi-u.ac.jp/"
       },
       "高知女子大学" : {
-         "location_area" : "高知県"
+         "english_long_name" : "Kochi Women's University",
+         "location_area" : "高知県",
+         "sort_name" : "こうちしよし",
+         "url" : "http://www.kochi-wu.ac.jp/"
       },
       "高知工科大学" : {
-         "location_area" : "高知県"
+         "english_long_name" : "Kochi University of Technology",
+         "location_area" : "高知県",
+         "sort_name" : "こうちこうか",
+         "url" : "http://www.kochi-tech.ac.jp/"
       },
       "高野山大学" : {
-         "location_area" : "和歌山県"
+         "english_long_name" : "Kouyasan University",
+         "location_area" : "和歌山県",
+         "sort_name" : "こうやさん",
+         "url" : "http://www.koyasan-u.ac.jp/"
       },
       "鳥取大学" : {
-         "location_area" : "鳥取県"
+         "location_area" : "鳥取県",
+         "sort_name" : "とつとりたいかく"
       },
       "鳥取環境大学" : {
-         "location_area" : "鳥取県"
+         "english_long_name" : "Tottori University of Environmental Studies",
+         "location_area" : "鳥取県",
+         "sort_name" : "とつとりかんきよう",
+         "url" : "http://www.kankyo-u.ac.jp/"
       },
       "鳴門教育大学" : {
-         "location_area" : "徳島県"
+         "english_long_name" : "Naruto University of Education",
+         "location_area" : "徳島県",
+         "sort_name" : "なるときょういく",
+         "url" : "http://www.naruto-u.ac.jp/"
       },
       "鶴見大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Tsurumi University",
+         "location_area" : "神奈川県",
+         "sort_name" : "つるみたいかく",
+         "url" : "http://www.tsurumi-u.ac.jp/"
       },
       "鹿児島国際大学" : {
-         "location_area" : "鹿児島県"
+         "english_long_name" : "The International University of Kagoshima",
+         "location_area" : "鹿児島県",
+         "sort_name" : "かこしまこくさい",
+         "url" : "http://www.iuk.ac.jp/"
       },
       "鹿児島大学" : {
-         "location_area" : "鹿児島県"
+         "english_long_name" : "Kagoshima University",
+         "location_area" : "鹿児島県",
+         "sort_name" : "かこしまたいかく",
+         "url" : "http://www.kagoshima-u.ac.jp/"
       },
       "鹿児島純心女子大学" : {
-         "location_area" : "鹿児島県"
+         "location_area" : "鹿児島県",
+         "sort_name" : "かこしましゆんしんしよし"
       },
       "鹿屋体育大学" : {
-         "location_area" : "鹿児島県"
+         "english_long_name" : "National Institute of Fitness and Sports in Kanoya",
+         "location_area" : "鹿児島県",
+         "sort_name" : "かのやたいいく",
+         "url" : "http://www.nifs-k.ac.jp/"
       },
       "麗澤大学" : {
-         "location_area" : "千葉県"
+         "english_long_name" : "Reitaku University",
+         "location_area" : "千葉県",
+         "sort_name" : "れいたく",
+         "url" : "http://www.reitaku-u.ac.jp/"
       },
       "麻布大学" : {
-         "location_area" : "神奈川県"
+         "english_long_name" : "Azabu University",
+         "location_area" : "神奈川県",
+         "sort_name" : "あさふたいかく",
+         "url" : "http://www.azabu-u.ac.jp/"
       },
       "龍谷大学" : {
-         "location_area" : "京都府"
+         "english_long_name" : "Ryūkoku University",
+         "location_area" : "京都府",
+         "sort_name" : "りゆうこく",
+         "url" : "http://www.ryukoku.ac.jp/"
       },
       "龍谷大学瀬田キャンパス" : {
+         "english_long_name" : "Ryūkoku University",
          "location_area" : "滋賀県",
+         "sort_name" : "りゆうこく",
+         "url" : "http://www.ryukoku.ac.jp/",
          "wikipedia_name" : "龍谷大学"
       }
    }
