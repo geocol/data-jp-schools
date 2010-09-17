@@ -39,8 +39,11 @@ sub save_page_xml ($$$) {
       if ($word =~ /$title_pattern/) {
         my $f = $class->get_f_from_title ($word);
         print STDERR "$word -> $f\n";
-        my $file = $f->openw;
-        print $file $_;
+        eval {
+          my $file = $f->openw;
+          print $file $_;
+          1;
+        } or warn $@;
       }
     }
   }

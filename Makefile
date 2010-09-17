@@ -74,7 +74,7 @@ cache-senior-high-schools: #$(JA_CURRENT_XML)
 	    $(JA_CURRENT_XML)
 
 cache-tech-colleges:
-	$(PREPARE_CACHES_BY_PATTERN) '^日本の高等専門学校一覧' \
+	$(PREPARE_CACHES_BY_PATTERN) '^日本の高等専門学校一覧|高等専門学校' \
 	    $(JA_CURRENT_XML)
 
 cache-univs:
