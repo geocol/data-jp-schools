@@ -8,6 +8,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23512B",
          "short_name" : "中京大学附属中京高校",
+         "sort_name" : "ちゆうきようたいかくふそくちゆうきようこうとうかつこう",
          "url" : "http://www.chukyo.ed.jp/"
       },
       "中部大学第一高等学校" : {
@@ -17,6 +18,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23523H",
          "short_name" : "中部大学第一高校",
+         "sort_name" : "ちゆうふたいかくたい1",
          "url" : "http://www.chubu-ichi.ed.jp/"
       },
       "享栄高等学校" : {
@@ -27,6 +29,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23507F",
          "short_name" : "享栄高校",
+         "sort_name" : "きようえい",
          "url" : "http://www.kyoei-h.ed.jp/"
       },
       "人間環境大学岡崎学園高等学校" : {
@@ -36,6 +39,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23543B",
          "short_name" : "人間環境大学岡崎学園高校",
+         "sort_name" : "にんけんかんきようたいかくおかさきかくえん",
          "url" : "http://www.okazakigakuen-h.ed.jp/junior/",
          "wikipedia_name" : "人間環境大学岡崎学園中学校・高等学校"
       },
@@ -47,6 +51,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23530A",
          "short_name" : "修文女子高校",
+         "sort_name" : "しゆうふんしよし",
          "url" : "http://www.joshi-ko.ichinomiya.ac.jp/"
       },
       "光ヶ丘女子高等学校" : {
@@ -56,6 +61,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23548C",
          "short_name" : "光ヶ丘女子高校",
+         "sort_name" : "ひかりかおかしよし",
          "url" : "http://www.hikarigaoka-h.ed.jp/"
       },
       "南山国際高等学校" : {
@@ -66,6 +72,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23555F",
          "short_name" : "南山国際高校",
+         "sort_name" : "なんさんこくさいちゆうかつこうこうとうかつこう",
          "url" : "http://www.nanzan-kokusai.ed.jp/",
          "wikipedia_name" : "南山国際中学校・高等学校"
       },
@@ -73,6 +80,7 @@
          "owner_type" : "私立",
          "school_area" : "尾張学区",
          "short_name" : "南山高校女子部",
+         "sort_name" : "なんさんちゆうかつこうこうとうかつこうしよしふ",
          "wikipedia_name" : "南山中学校・高等学校女子部"
       },
       "南山高等学校男子部" : {
@@ -82,6 +90,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23526B",
          "short_name" : "南山高校男子部",
+         "sort_name" : "なんさんちゆうかつこうこうとうかつこうたんしふ",
          "url" : "http://www.nanzan-boys.ed.jp",
          "wikipedia_name" : "南山中学校・高等学校男子部"
       },
@@ -93,6 +102,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23518A",
          "short_name" : "同朋高校",
+         "sort_name" : "とうほうこうとうかつこう",
          "url" : "http://www.doho-h.ed.jp/"
       },
       "名古屋国際高等学校" : {
@@ -103,6 +113,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23521A",
          "short_name" : "名古屋国際高校",
+         "sort_name" : "なこやこくさいちゆうかつこうこうとうかつこう",
          "url" : "http://www.nihs.ed.jp/",
          "wikipedia_name" : "名古屋国際中学校・高等学校"
       },
@@ -119,6 +130,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23506H",
          "short_name" : "名古屋大谷高校",
+         "sort_name" : "なこやおおたに",
          "url" : "http://www.owari.ac.jp/nagoya/index.html"
       },
       "名古屋女子大学高等学校" : {
@@ -127,6 +139,7 @@
          "owner_type" : "私立",
          "school_area" : "尾張学区",
          "short_name" : "名古屋女子大学高校",
+         "sort_name" : "なこやしよしたいかくちゆうかつこうこうとうかつこう",
          "url" : "http://www.koshihara.nagoya-wu.ac.jp/",
          "wikipedia_name" : "名古屋女子大学中学校・高等学校"
       },
@@ -138,6 +151,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23520C",
          "short_name" : "名古屋工業高校",
+         "sort_name" : "なこやこうきようこうとうかつこう",
          "url" : "http://www.wa.commufa.jp/~meikou/web/"
       },
       "名古屋市立中央高等学校" : {
@@ -146,6 +160,7 @@
          "location_zipcode" : "460-0007",
          "senior_high_school_code" : "23240J",
          "short_name" : "中央高校",
+         "sort_name" : "ちゆおう",
          "url" : "http://www.chuo-h.nagoya-c.ed.jp/"
       },
       "名古屋市立北高等学校" : {
@@ -160,11 +175,12 @@
       "名古屋市立名古屋商業高等学校" : {
          "location" : "名古屋市千種区自由ヶ丘2丁目11番48号",
          "location_wikipedia_latlon" : "|35|10|29.3|N|136|57|53.1|E|",
-         "location_zipcode" : "464ｰ0044",
+         "location_zipcode" : "464",
          "owner_type" : "市立",
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23237J",
          "short_name" : "名古屋商業高校",
+         "sort_name" : "なこやしりつなこやしようきよう",
          "url" : "http://www.nagoya-ch.ed.jp/"
       },
       "名古屋市立名東高等学校" : {
@@ -174,6 +190,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23274C",
          "short_name" : "名東高校",
+         "sort_name" : "なこやしりつめいとうこうとうかつこう",
          "url" : "http://www.meito-h.nagoya-c.ed.jp/"
       },
       "名古屋市立向陽高等学校" : {
@@ -183,6 +200,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23231K",
          "short_name" : "向陽高校",
+         "sort_name" : "なこやしりつこうよう",
          "url" : "http://www.koyo-h.nagoya-c.ed.jp/"
       },
       "名古屋市立富田高等学校" : {
@@ -192,6 +210,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23243C",
          "short_name" : "富田高校",
+         "sort_name" : "なこやしりつとみたこうとうかつこう",
          "url" : "http://www.tomida-h.nagoya-c.ed.jp/"
       },
       "名古屋市立山田高等学校" : {
@@ -201,6 +220,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23244A",
          "short_name" : "山田高校",
+         "sort_name" : "なこやしりつやまたこうとうかつこう",
          "url" : "http://www.yamada-h.nagoya-c.ed.jp/"
       },
       "名古屋市立工業高等学校" : {
@@ -210,6 +230,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23234D",
          "short_name" : "工業高校",
+         "sort_name" : "こうきよう",
          "url" : "http://www.kogyo-th.nagoya-c.ed.jp/"
       },
       "名古屋市立工芸高等学校" : {
@@ -220,6 +241,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23235B",
          "short_name" : "工芸高校",
+         "sort_name" : "こうけい",
          "url" : "http://www.kogei-th.nagoya-c.ed.jp/"
       },
       "名古屋市立桜台高等学校" : {
@@ -230,6 +252,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23232H",
          "short_name" : "桜台高校",
+         "sort_name" : "さくらたい",
          "url" : "http://www.sakuradai-h.nagoya-c.ed.jp/"
       },
       "名古屋市立緑高等学校" : {
@@ -240,6 +263,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23239E",
          "short_name" : "緑高校",
+         "sort_name" : "なこやしりつみとりこうとうかつこう",
          "url" : "http://www.midori-h.nagoya-c.ed.jp/"
       },
       "名古屋市立若宮商業高等学校" : {
@@ -249,6 +273,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23238G",
          "short_name" : "若宮商業高校",
+         "sort_name" : "わかみやしようきよう",
          "url" : "http://www.wakamiya-ch.nagoya-c.ed.jp/"
       },
       "名古屋市立菊里高等学校" : {
@@ -258,6 +283,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23230A",
          "short_name" : "菊里高校",
+         "sort_name" : "きくさと",
          "url" : "http://www.kikuzato-h.nagoya-c.ed.jp/"
       },
       "名古屋市立西陵高等学校" : {
@@ -267,6 +293,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23236A",
          "short_name" : "西陵高校",
+         "sort_name" : "せいりよう",
          "url" : "http://www.seiryo.ed.jp/"
       },
       "名古屋経済大学市邨高等学校" : {
@@ -275,6 +302,7 @@
          "owner_type" : "私立",
          "school_area" : "尾張学区",
          "short_name" : "名古屋経済大学市邨高校",
+         "sort_name" : "なこやけいさいたいかくいちむら",
          "url" : "http://www.ichimura.ed.jp/",
          "wikipedia_name" : "名古屋経済大学市邨中学校・高等学校"
       },
@@ -285,6 +313,7 @@
          "owner_type" : "私立",
          "school_area" : "尾張学区",
          "short_name" : "名古屋経済大学高蔵高校",
+         "sort_name" : "なこやけいさいたいかくたかくら",
          "url" : "http://www.takakura-hj.info/",
          "wikipedia_name" : "名古屋経済大学高蔵高等学校・中学校"
       },
@@ -296,6 +325,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23519K",
          "short_name" : "名古屋高校",
+         "sort_name" : "なこやちゆうかつこうこうとうかつこう",
          "url" : "http://www.meigaku.ac.jp/",
          "wikipedia_name" : "名古屋中学校・高等学校"
       },
@@ -316,6 +346,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23503C",
          "short_name" : "啓明学館高校",
+         "sort_name" : "けいめいかつかん",
          "url" : "http://www.keimeigakkan-h.ed.jp/"
       },
       "大同大学大同高等学校" : {
@@ -326,6 +357,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23510F",
          "short_name" : "大同大学大同高校",
+         "sort_name" : "たいとうたいかくたいとうこうとうかつこう",
          "url" : "http://www.daido-h.ed.jp/"
       },
       "大成高等学校" : {
@@ -336,6 +368,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23554H",
          "short_name" : "大成高校",
+         "sort_name" : "たいせい",
          "url" : "http://www.taisei-hi.ed.jp/top.htm",
          "wikipedia_name" : "大成中学校・高等学校 (愛知県)"
       },
@@ -346,6 +379,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23542D",
          "short_name" : "安城学園岡崎城西高校",
+         "sort_name" : "あんしようかくえんおかさきしようせい",
          "url" : "http://www.johsei.okazaki.aichi.jp/"
       },
       "安城学園高等学校" : {
@@ -355,6 +389,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23541F",
          "short_name" : "安城学園高校",
+         "sort_name" : "あんしようかくえん",
          "url" : "http://www.gakusen.ac.jp/anjogakuen/"
       },
       "弥富高等学校" : {
@@ -364,6 +399,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23538F",
          "short_name" : "弥富高校",
+         "sort_name" : "やとみこうとうかつこう",
          "url" : "http://www.yatomi-h.ed.jp/"
       },
       "愛知みずほ大学瑞穂高等学校" : {
@@ -374,6 +410,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23527A",
          "short_name" : "愛知みずほ大学瑞穂高校",
+         "sort_name" : "あいちみすほたいかくみすほ",
          "url" : "http://www.aichi-mizuho.ac.jp/mhs/index.html"
       },
       "愛知啓成高等学校" : {
@@ -384,6 +421,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23531J",
          "short_name" : "愛知啓成高校",
+         "sort_name" : "あいちけいせい",
          "url" : "http://www.keisei.ed.jp/"
       },
       "愛知工業大学名電高等学校" : {
@@ -393,6 +431,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23525D",
          "short_name" : "愛知工業大学名電高校",
+         "sort_name" : "あいちこうきようたいかくめいてん",
          "url" : "http://www.meiden.ed.jp/"
       },
       "愛知教育大学附属高等学校" : {
@@ -401,6 +440,7 @@
          "owner_type" : "国立",
          "senior_high_school_code" : "23002C",
          "short_name" : "愛知教育大学附属高校",
+         "sort_name" : "あいちきよういくたいかくふそく",
          "url" : "http://www.auehs.aichi-edu.ac.jp/"
       },
       "愛知淑徳高等学校" : {
@@ -415,6 +455,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23550E",
          "short_name" : "愛知産業大学三河高校",
+         "sort_name" : "あいちさんきようたいかくみかわ",
          "url" : "http://asu-group.net/mikawaj/",
          "wikipedia_name" : "愛知産業大学三河中学校・高等学校"
       },
@@ -425,6 +466,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23516E",
          "short_name" : "愛知産業大学工業高校",
+         "sort_name" : "あいちさんきようたいかくこうきよう",
          "url" : "http://asu-g.net/tech/"
       },
       "愛知県立一宮北高等学校" : {
@@ -455,6 +497,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23145C",
          "short_name" : "一宮商業高校",
+         "sort_name" : "あいちけんりついちのみやしようきよう",
          "url" : "http://www.ichinomiya-ch.aichi-c.ed.jp/"
       },
       "愛知県立一宮工業高等学校" : {
@@ -465,6 +508,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23144E",
          "short_name" : "一宮工業高校",
+         "sort_name" : "いちのみやこうきよう",
          "url" : "http://www.ichinomiya-th.aichi-c.ed.jp/"
       },
       "愛知県立一宮興道高等学校" : {
@@ -495,6 +539,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23141A",
          "short_name" : "一宮高校",
+         "sort_name" : "あいちけんりついちのみや",
          "url" : "http://yariko.kir.jp/"
       },
       "愛知県立一色高等学校" : {
@@ -504,6 +549,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23188G",
          "short_name" : "一色高校",
+         "sort_name" : "いつしき]",
          "url" : "http://www.isshiki-h.aichi-c.ed.jp/"
       },
       "愛知県立三好高等学校" : {
@@ -513,6 +559,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23204B",
          "short_name" : "三好高校",
+         "sort_name" : "あいちけんりつみよし",
          "url" : "http://www.miyoshi-h.aichi-c.ed.jp/"
       },
       "愛知県立三谷水産高等学校" : {
@@ -522,6 +569,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23221B",
          "short_name" : "三谷水産高校",
+         "sort_name" : "あいちけんりつみやすいさん",
          "url" : "http://www.miyasuisan-h.aichi-c.ed.jp/index.html"
       },
       "愛知県立中川商業高等学校" : {
@@ -531,6 +579,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23118F",
          "short_name" : "中川商業高校",
+         "sort_name" : "あいちけんりつなかかわしようきよう",
          "url" : "http://www.nakagawa-ch.aichi-c.ed.jp/"
       },
       "愛知県立中村高等学校" : {
@@ -558,6 +607,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23156J",
          "short_name" : "五条高校",
+         "sort_name" : "あいちけんりつこしようこうとうかつこう",
          "url" : "http://www.gojo-h.aichi-c.ed.jp/"
       },
       "愛知県立佐屋高等学校" : {
@@ -567,6 +617,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23154B",
          "short_name" : "佐屋高校",
+         "sort_name" : "さや",
          "url" : "http://www.saya-h.aichi-c.ed.jp/"
       },
       "愛知県立佐織工業高等学校" : {
@@ -576,6 +627,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23158E",
          "short_name" : "佐織工業高校",
+         "sort_name" : "さおりこうきよう",
          "url" : "http://www.saori-th.aichi-c.ed.jp/"
       },
       "愛知県立作手高等学校" : {
@@ -585,6 +637,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23251D",
          "short_name" : "作手高校",
+         "sort_name" : "あいちけんりつつくてこうとうかつこう",
          "url" : "http://www.tsukude-h.aichi-c.ed.jp/"
       },
       "愛知県立内海高等学校" : {
@@ -595,6 +648,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23165H",
          "short_name" : "内海高校",
+         "sort_name" : "あいちけんりつうつみこうとうかつこう",
          "url" : "http://www.utsumi-h.aichi-c.ed.jp"
       },
       "愛知県立刈谷北高等学校" : {
@@ -613,6 +667,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23178K",
          "short_name" : "刈谷工業高校",
+         "sort_name" : "かりやこうきよう",
          "url" : "http://www.kariya-th.aichi-c.ed.jp/"
       },
       "愛知県立刈谷東高等学校" : {
@@ -620,6 +675,7 @@
          "location_zipcode" : "448-8653",
          "senior_high_school_code" : "23179H",
          "short_name" : "刈谷東高校",
+         "sort_name" : "かりやひかし",
          "url" : "http://www.kariyahigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立刈谷高等学校" : {
@@ -629,6 +685,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23176C",
          "short_name" : "刈谷高校",
+         "sort_name" : "あいちけんりつかりや",
          "url" : "http://www.kariya-h.aichi-c.ed.jp/"
       },
       "愛知県立加茂丘高等学校" : {
@@ -658,6 +715,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23169A",
          "short_name" : "半田商業高校",
+         "sort_name" : "はんたしようきよう",
          "url" : "http://www.handa-ch.aichi-c.ed.jp/"
       },
       "愛知県立半田工業高等学校" : {
@@ -668,6 +726,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23168B",
          "short_name" : "半田工業高校",
+         "sort_name" : "はんたこうきよう",
          "url" : "http://www.handa-th.aichi-c.ed.jp/"
       },
       "愛知県立半田東高等学校" : {
@@ -678,6 +737,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23261A",
          "short_name" : "半田東高校",
+         "sort_name" : "あいちけんりつはんたひかし",
          "url" : "http://www.handahigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立半田農業高等学校" : {
@@ -688,6 +748,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23167D",
          "short_name" : "半田農業高校",
+         "sort_name" : "あいちけんりつはんたのうきようこうとうかつこう",
          "url" : "http://www.handanogyo-h.aichi-c.ed.jp/"
       },
       "愛知県立半田高等学校" : {
@@ -707,6 +768,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23111J",
          "short_name" : "南陽高校",
+         "sort_name" : "なんよう",
          "url" : "http://www.nanyo-h.aichi-c.ed.jp/"
       },
       "愛知県立古知野高等学校" : {
@@ -716,6 +778,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23136D",
          "short_name" : "古知野高校",
+         "sort_name" : "こちの",
          "url" : "http://www.kochino-h.aichi-c.ed.jp/"
       },
       "愛知県立吉良高等学校" : {
@@ -725,6 +788,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23187J",
          "short_name" : "吉良高校",
+         "sort_name" : "きら",
          "url" : "http://www.kira-h.aichi-c.ed.jp/"
       },
       "愛知県立名南工業高等学校" : {
@@ -763,6 +827,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23211E",
          "short_name" : "国府高校",
+         "sort_name" : "こうこうとうかつこう",
          "url" : "http://www.koh-h.aichi-c.ed.jp/"
       },
       "愛知県立大府東高等学校" : {
@@ -773,6 +838,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23266B",
          "short_name" : "大府東高校",
+         "sort_name" : "あいちけんりつおおふひかしこうとうかつこう",
          "url" : "http://www.obuhigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立大府高等学校" : {
@@ -783,6 +849,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23159C",
          "short_name" : "大府高校",
+         "sort_name" : "おおふこうとうかつこう",
          "url" : "http://www.obu-h.aichi-c.ed.jp/"
       },
       "愛知県立天白高等学校" : {
@@ -792,6 +859,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23226C",
          "short_name" : "天白高校",
+         "sort_name" : "あいちけんりつてんはくこうとうかつこう",
          "url" : "http://www.tempaku-h.aichi-c.ed.jp/"
       },
       "愛知県立守山高等学校" : {
@@ -811,6 +879,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23269G",
          "short_name" : "安城南高校",
+         "sort_name" : "あいちけんりつあんしようみなみこうとうかつこう",
          "url" : "http://www.anjominami-h.aichi-c.ed.jp/"
       },
       "愛知県立安城東高等学校" : {
@@ -821,6 +890,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23182H",
          "short_name" : "安城東高校",
+         "sort_name" : "あいちけんりつあんしようひかしこうとうかつこう",
          "url" : "http://www.anjohigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立安城農林高等学校" : {
@@ -830,6 +900,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23183F",
          "short_name" : "安城農林高校",
+         "sort_name" : "あんしようのうりん",
          "url" : "http://www.anjonorin-h.aichi-c.ed.jp/"
       },
       "愛知県立安城高等学校" : {
@@ -840,6 +911,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23181K",
          "short_name" : "安城高校",
+         "sort_name" : "あんしよう",
          "url" : "http://www.anjo-h.aichi-c.ed.jp/"
       },
       "愛知県立宝陵高等学校" : {
@@ -849,6 +921,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23210G",
          "short_name" : "宝陵高校",
+         "sort_name" : "あいちけんりつほうりようこうとうかつこう",
          "url" : "http://www.horyo-h.aichi-c.ed.jp/"
       },
       "愛知県立小坂井高等学校" : {
@@ -858,6 +931,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23225E",
          "short_name" : "小坂井高校",
+         "sort_name" : "あいちけんりつこさかいこうとうかつこう",
          "url" : "http://www.kozakai-h.aichi-c.ed.jp/"
       },
       "愛知県立小牧南高等学校" : {
@@ -867,6 +941,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23259K",
          "short_name" : "小牧南高校",
+         "sort_name" : "こまきみなみ",
          "url" : "http://www.komakiminami-h.aichi-c.ed.jp/"
       },
       "愛知県立小牧工業高等学校" : {
@@ -876,6 +951,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23138A",
          "short_name" : "小牧工業高校",
+         "sort_name" : "こまきこうきよう",
          "url" : "http://www.komaki-th.aichi-c.ed.jp/"
       },
       "愛知県立小牧高等学校" : {
@@ -885,6 +961,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23137B",
          "short_name" : "小牧高校",
+         "sort_name" : "こまき",
          "url" : "http://www.komaki-h.aichi-c.ed.jp/"
       },
       "愛知県立尾北高等学校" : {
@@ -894,6 +971,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23135F",
          "short_name" : "尾北高校",
+         "sort_name" : "あいちけんりつひほくこうとうかつこう",
          "url" : "http://www.bihoku-h.aichi-c.ed.jp/"
       },
       "愛知県立尾西高等学校" : {
@@ -913,6 +991,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23190J",
          "short_name" : "岡崎北高校",
+         "sort_name" : "あいちけんりつおかさききたこうとうかつこう",
          "url" : "http://www.okazakikita-h.aichi-c.ed.jp/"
       },
       "愛知県立岡崎商業高等学校" : {
@@ -922,6 +1001,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23193C",
          "short_name" : "岡崎商業高校",
+         "sort_name" : "おかさきしようきよう",
          "url" : "http://www.okazaki-ch.aichi-c.ed.jp/"
       },
       "愛知県立岡崎工業高等学校" : {
@@ -932,6 +1012,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23192E",
          "short_name" : "岡崎工業高校",
+         "sort_name" : "おかさきこうきよう",
          "url" : "http://www.okazaki-th.aichi-c.ed.jp/"
       },
       "愛知県立岡崎東高等学校" : {
@@ -941,6 +1022,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23191G",
          "short_name" : "岡崎東高校",
+         "sort_name" : "あいちけんりつおかさきひかし",
          "url" : "http://www.okazakihigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立岡崎西高等学校" : {
@@ -951,6 +1033,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23273E",
          "short_name" : "岡崎西高校",
+         "sort_name" : "あいちけんりつおかさきにしこうとうかつこう",
          "url" : "http://www.okazakinishi-h.aichi-c.ed.jp/"
       },
       "愛知県立岡崎高等学校" : {
@@ -960,6 +1043,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23189E",
          "short_name" : "岡崎高校",
+         "sort_name" : "あいちけんりつおかさき",
          "url" : "http://www.okazaki-h.aichi-c.ed.jp/"
       },
       "愛知県立岩倉総合高等学校" : {
@@ -978,6 +1062,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23194A",
          "short_name" : "岩津高校",
+         "sort_name" : "いわつ",
          "url" : "http://www.iwazu-h.aichi-c.ed.jp/"
       },
       "愛知県立常滑高等学校" : {
@@ -988,6 +1073,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23163A",
          "short_name" : "常滑高校",
+         "sort_name" : "あいちけんりつとこなめこうとうかつこう",
          "url" : "http://www.tokoname-h.aichi-c.ed.jp/"
       },
       "愛知県立幸田高等学校" : {
@@ -1006,6 +1092,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23279D",
          "short_name" : "御津高校",
+         "sort_name" : "あいちけんりつみとこうとうかつこう",
          "url" : "http://www.mito-h.aichi-c.ed.jp/"
       },
       "愛知県立惟信高等学校" : {
@@ -1016,6 +1103,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23105D",
          "short_name" : "惟信高校",
+         "sort_name" : "いしん",
          "url" : "http://www.ishin-h.aichi-c.ed.jp/"
       },
       "愛知県立愛知商業高等学校" : {
@@ -1025,6 +1113,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23117H",
          "short_name" : "愛知商業高校",
+         "sort_name" : "あいちしようきよう",
          "url" : "http://www.aichi-ch.aichi-c.ed.jp/"
       },
       "愛知県立愛知工業高等学校" : {
@@ -1034,6 +1123,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23114C",
          "short_name" : "愛知工業高校",
+         "sort_name" : "あいちこうきよう",
          "url" : "http://www.aichi-th.aichi-c.ed.jp/"
       },
       "愛知県立成章高等学校" : {
@@ -1043,6 +1133,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23222A",
          "short_name" : "成章高校",
+         "sort_name" : "せいしよう",
          "url" : "http://www.seisho-h.aichi-c.ed.jp/"
       },
       "愛知県立新城東高等学校" : {
@@ -1052,6 +1143,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23209C",
          "short_name" : "新城東高校",
+         "sort_name" : "あいちけんりつしんしろひかしこうとうかつこう",
          "url" : "http://www.shinshirohigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立新城高等学校" : {
@@ -1061,6 +1153,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23208E",
          "short_name" : "新城高校",
+         "sort_name" : "しんしろこうとうかつこう",
          "url" : "http://www.shinshiro-h.aichi-c.ed.jp/"
       },
       "愛知県立新川高等学校" : {
@@ -1070,6 +1163,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23278F",
          "short_name" : "新川高校",
+         "sort_name" : "あいちけんりつしんかわこうとうかつこう",
          "url" : "http://www.shinkawa-h.aichi-c.ed.jp/"
       },
       "愛知県立日進西高等学校" : {
@@ -1097,6 +1191,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23101A",
          "short_name" : "旭丘高校",
+         "sort_name" : "あさひかおか",
          "url" : "http://www2.starcat.ne.jp/~asahi/"
       },
       "愛知県立旭野高等学校" : {
@@ -1106,6 +1201,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23127E",
          "short_name" : "旭野高校",
+         "sort_name" : "あいちけんりつあさひの",
          "url" : "http://www.asahino-h.aichi-c.ed.jp/"
       },
       "愛知県立旭陵高等学校" : {
@@ -1113,6 +1209,7 @@
          "location_zipcode" : "461-8654",
          "senior_high_school_code" : "23123B",
          "short_name" : "旭陵高校",
+         "sort_name" : "あいちけんりつきよくりよう",
          "url" : "http://www.kyokuryo.ed.jp/"
       },
       "愛知県立明和高等学校" : {
@@ -1123,6 +1220,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23102K",
          "short_name" : "明和高校",
+         "sort_name" : "めいわ",
          "url" : "http://www.meiwa-h.aichi-c.ed.jp/"
       },
       "愛知県立春日井南高等学校" : {
@@ -1141,6 +1239,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23126G",
          "short_name" : "春日井商業高校",
+         "sort_name" : "かすかいしようきよう",
          "url" : "http://www.kasugai-ch.aichi-c.ed.jp/"
       },
       "愛知県立春日井工業高等学校" : {
@@ -1150,6 +1249,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23262K",
          "short_name" : "春日井工業高校",
+         "sort_name" : "かすかいこうきよう",
          "url" : "http://www.kasugai-th.aichi-c.ed.jp/"
       },
       "愛知県立春日井東高等学校" : {
@@ -1178,6 +1278,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23124A",
          "short_name" : "春日井高校",
+         "sort_name" : "かすかい",
          "url" : "http://www.kasugai-h.aichi-c.ed.jp/"
       },
       "愛知県立昭和高等学校" : {
@@ -1197,6 +1298,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23213A",
          "short_name" : "時習館高校",
+         "sort_name" : "ししゆうかんこうとうかつこう",
          "url" : "http://www.jishukan-h.aichi-c.ed.jp/"
       },
       "愛知県立木曽川高等学校" : {
@@ -1226,6 +1328,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23115A",
          "short_name" : "東山工業高校",
+         "sort_name" : "あいちけんりつひかしやまこうきようこうとうかつこう",
          "url" : "http://www.higashiyama-th.aichi-c.ed.jp/"
       },
       "愛知県立東浦高等学校" : {
@@ -1236,6 +1339,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23170D",
          "short_name" : "東浦高校",
+         "sort_name" : "あいちけんりつひかしうらこうとうかつこう",
          "url" : "http://www.higashiura-h.aichi-c.ed.jp/"
       },
       "愛知県立東海南高等学校" : {
@@ -1256,6 +1360,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23162C",
          "short_name" : "東海商業高校",
+         "sort_name" : "あいちけんりつとうかいしようきよう",
          "url" : "http://www.tokai-ch.aichi-c.ed.jp/"
       },
       "愛知県立東郷高等学校" : {
@@ -1285,6 +1390,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23106B",
          "short_name" : "松蔭高校",
+         "sort_name" : "あいちけんりつしよういんこうとうかつこう",
          "url" : "http://www.shoin-h.aichi-c.ed.jp/"
       },
       "愛知県立桃陵高等学校" : {
@@ -1295,6 +1401,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23160G",
          "short_name" : "桃陵高校",
+         "sort_name" : "あいちけんりつとうりようこうとうかつこう",
          "url" : "http://www.toryo-h.aichi-c.ed.jp/"
       },
       "愛知県立横須賀高等学校" : {
@@ -1305,6 +1412,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23161E",
          "short_name" : "横須賀高校",
+         "sort_name" : "よこすかこうとう",
          "url" : "http://www.yokosuka-h.aichi-c.ed.jp/"
       },
       "愛知県立武豊高等学校" : {
@@ -1333,6 +1441,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23153D",
          "short_name" : "津島北高校",
+         "sort_name" : "つしまきた",
          "url" : "http://www.tsushimakita-h.aichi-c.ed.jp/"
       },
       "愛知県立津島東高等学校" : {
@@ -1342,7 +1451,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23248D",
          "short_name" : "津島東高校",
-         "url" : "[ 公式サイト]"
+         "url" : " 公式サイト"
       },
       "愛知県立津島高等学校" : {
          "location" : "愛知県津島市宮川町3-80",
@@ -1351,6 +1460,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23152F",
          "short_name" : "津島高校",
+         "sort_name" : "つしま",
          "url" : "http://www.tsushima-h.aichi-c.ed.jp/"
       },
       "愛知県立海翔高等学校" : {
@@ -1369,6 +1479,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23223J",
          "short_name" : "渥美農業高校",
+         "sort_name" : "あつみのうきよう",
          "url" : "http://www.atsuminogyo-h.aichi-c.ed.jp/"
       },
       "愛知県立瀬戸北高等学校" : {
@@ -1378,6 +1489,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23272G",
          "short_name" : "瀬戸北高校",
+         "sort_name" : "あいちけんりつせときたこうとうかつこう",
          "url" : "http://www.setokita-h.aichi-c.ed.jp/"
       },
       "愛知県立瀬戸窯業高等学校" : {
@@ -1387,6 +1499,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23131C",
          "short_name" : "瀬戸窯業高校",
+         "sort_name" : "せとようきよう",
          "url" : "http://www.setoyogyo-h.aichi-c.ed.jp/data/start.html"
       },
       "愛知県立瀬戸西高等学校" : {
@@ -1406,6 +1519,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23130E",
          "short_name" : "瀬戸高校",
+         "sort_name" : "あいちけんりつせとこうとうかつこう",
          "url" : "http://www.seto-h.aichi-c.ed.jp/"
       },
       "愛知県立熱田高等学校" : {
@@ -1433,6 +1547,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23134H",
          "short_name" : "犬山高校",
+         "sort_name" : "いぬやま",
          "url" : "http://www.inuyama-h.aichi-c.ed.jp/"
       },
       "愛知県立猿投農林高等学校" : {
@@ -1443,6 +1558,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23199B",
          "short_name" : "猿投農林高校",
+         "sort_name" : "さなけのうりん",
          "url" : "http://www.sanagenorin-h.aichi-c.ed.jp/"
       },
       "愛知県立瑞陵高等学校" : {
@@ -1453,6 +1569,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23104F",
          "short_name" : "瑞陵高校",
+         "sort_name" : "すいりようこうとうかつこう",
          "url" : "http://www.zuiryo-h.aichi-c.ed.jp/"
       },
       "愛知県立田口高等学校" : {
@@ -1462,6 +1579,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23205A",
          "short_name" : "田口高校",
+         "sort_name" : "あいちけんりつたくち",
          "url" : "http://www.taguchi-h.aichi-c.ed.jp/"
       },
       "愛知県立知多翔洋高等学校" : {
@@ -1490,6 +1608,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23180A",
          "short_name" : "知立高校",
+         "sort_name" : "あいちけんりつちりゆうこうとうかつこう",
          "url" : "http://www.chiryu-h.aichi-c.ed.jp/"
       },
       "愛知県立碧南工業高等学校" : {
@@ -1500,6 +1619,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23174G",
          "short_name" : "碧南工業高校",
+         "sort_name" : "へきなんこうきよう",
          "url" : "http://www.hekinan-th.aichi-c.ed.jp/"
       },
       "愛知県立碧南高等学校" : {
@@ -1510,6 +1630,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23173J",
          "short_name" : "碧南高校",
+         "sort_name" : "へきなん",
          "url" : "http://www.hekinan-h.aichi-c.ed.jp/"
       },
       "愛知県立福江高等学校" : {
@@ -1539,6 +1660,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23149F",
          "short_name" : "稲沢高校",
+         "sort_name" : "いなさわ",
          "url" : "http://www.inazawa-h.aichi-c.ed.jp/"
       },
       "愛知県立緑丘商業高等学校" : {
@@ -1566,6 +1688,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23220D",
          "short_name" : "蒲郡東高校",
+         "sort_name" : "かまこおりひかし",
          "url" : "http://www.gamagorihigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立蒲郡高等学校" : {
@@ -1575,6 +1698,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23219A",
          "short_name" : "蒲郡高校",
+         "sort_name" : "かまこおり",
          "url" : "http://www.gamagori-h.aichi-c.ed.jp/"
       },
       "愛知県立衣台高等学校" : {
@@ -1594,6 +1718,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23185B",
          "short_name" : "西尾東高校",
+         "sort_name" : "あいちけんりつにしおひかしこうとうかつこう",
          "url" : "http://www.nishiohigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立西尾高等学校" : {
@@ -1622,6 +1747,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23215H",
          "short_name" : "豊丘高校",
+         "sort_name" : "ゆたかかおか",
          "url" : "http://www.yutakagaoka-h.aichi-c.ed.jp/"
       },
       "愛知県立豊川工業高等学校" : {
@@ -1631,6 +1757,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23212C",
          "short_name" : "豊川工業高校",
+         "sort_name" : "あいちけんりつとよかわこうきようこうとうかつこう",
          "url" : "http://www.toyokawa-th.aichi-c.ed.jp/"
       },
       "愛知県立豊明高等学校" : {
@@ -1649,6 +1776,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23216F",
          "short_name" : "豊橋南高校",
+         "sort_name" : "とよはしみなみ",
          "url" : "http://www.toyohashiminami-h.aichi-c.ed.jp/"
       },
       "愛知県立豊橋商業高等学校" : {
@@ -1658,6 +1786,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23218B",
          "short_name" : "豊橋商業高校",
+         "sort_name" : "とよはししようきよう",
          "url" : "http://www.toyohashi-ch.aichi-c.ed.jp/"
       },
       "愛知県立豊橋工業高等学校" : {
@@ -1667,6 +1796,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23217D",
          "short_name" : "豊橋工業高校",
+         "sort_name" : "とよはしこうきよう",
          "url" : "http://www.toyohashi-th.aichi-c.ed.jp/"
       },
       "愛知県立豊橋東高等学校" : {
@@ -1677,6 +1807,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23214K",
          "short_name" : "豊橋東高校",
+         "sort_name" : "とよはしひかし",
          "url" : "http://www.toyohashihigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立豊橋西高等学校" : {
@@ -1686,6 +1817,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23270A",
          "short_name" : "豊橋西高校",
+         "sort_name" : "とよはしにし",
          "url" : "http://www.toyohashinishi-h.aichi-c.ed.jp/"
       },
       "愛知県立豊田北高等学校" : {
@@ -1716,6 +1848,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23201H",
          "short_name" : "豊田工業高校",
+         "sort_name" : "とよたこうきよう",
          "url" : "http://www.toyota-th.aichi-c.ed.jp/"
       },
       "愛知県立豊田東高等学校" : {
@@ -1726,6 +1859,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23197F",
          "short_name" : "豊田東高校",
+         "sort_name" : "とよたひかし",
          "url" : "http://www.toyotahigashi-h.aichi-c.ed.jp/"
       },
       "愛知県立豊田西高等学校" : {
@@ -1736,6 +1870,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23196H",
          "short_name" : "豊田西高校",
+         "sort_name" : "とよたにし",
          "url" : "http://www.toyotanishi-h.aichi-c.ed.jp/"
       },
       "愛知県立豊田高等学校" : {
@@ -1766,6 +1901,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23148H",
          "short_name" : "起工業高校",
+         "sort_name" : "おこしこうきよう",
          "url" : "http://www.okoshi-th.aichi-c.ed.jp/"
       },
       "愛知県立足助高等学校" : {
@@ -1775,6 +1911,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23202F",
          "short_name" : "足助高校",
+         "sort_name" : "あいちけんりつあすけ",
          "url" : "http://www.asuke-h.aichi-c.ed.jp/"
       },
       "愛知県立長久手高等学校" : {
@@ -1784,6 +1921,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23128C",
          "short_name" : "長久手高校",
+         "sort_name" : "あいちけんりつなかくて",
          "url" : "http://www.nagakute-h.aichi-c.ed.jp/"
       },
       "愛知県立阿久比高等学校" : {
@@ -1804,6 +1942,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23175E",
          "short_name" : "高浜高校",
+         "sort_name" : "あいちけんりつたかはまこうとうかつこう",
          "url" : "http://www.takahama-h.aichi-c.ed.jp/"
       },
       "愛知県立高蔵寺高等学校" : {
@@ -1823,6 +1962,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23207G",
          "short_name" : "鳳来寺高校",
+         "sort_name" : "あいちけんりつほうらいしこうとうかつこう",
          "url" : "http://www.horaiji-h.aichi-c.ed.jp/"
       },
       "愛知県立鳴海高等学校" : {
@@ -1852,6 +1992,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23501G",
          "short_name" : "愛知高校",
+         "sort_name" : "あいちちゆうかつこうこうとうかつこう",
          "url" : "http://www.aichi-h.ed.jp/",
          "wikipedia_name" : "愛知中学校・高等学校"
       },
@@ -1863,6 +2004,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23511D",
          "short_name" : "日本福祉大学付属高校",
+         "sort_name" : "にほんふくしたいかくふそくこうとうかつこう",
          "url" : "http://www.n-fukushi.ac.jp/koukou/"
       },
       "星城高等学校" : {
@@ -1872,6 +2014,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23533E",
          "short_name" : "星城高校",
+         "sort_name" : "せいしようちゆうかつこうこうとうかつこう",
          "url" : "http://www.ueno.ed.jp/",
          "wikipedia_name" : "星城中学校・高等学校"
       },
@@ -1882,6 +2025,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23536K",
          "short_name" : "春日丘高校",
+         "sort_name" : "はるひかおか",
          "url" : "http://www.haruhigaoka.ed.jp/",
          "wikipedia_name" : "春日丘中学校・高等学校"
       },
@@ -1893,6 +2037,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23545J",
          "short_name" : "杜若高校",
+         "sort_name" : "としやく",
          "url" : "http://www.tojaku-h.ed.jp/"
       },
       "東海学園高等学校" : {
@@ -1902,6 +2047,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23515G",
          "short_name" : "東海学園高校",
+         "sort_name" : "とうかいかくえん",
          "url" : "http://www.tokaigakuen.ed.jp/"
       },
       "東海高等学校" : {
@@ -1912,6 +2058,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23514J",
          "short_name" : "東海高校",
+         "sort_name" : "とうかいちゆうかつこうこうとうかつこう",
          "url" : "http://www.tokai-jh.ed.jp/",
          "wikipedia_name" : "東海中学校・高等学校"
       },
@@ -1922,6 +2069,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23517C",
          "short_name" : "東邦高校",
+         "sort_name" : "とうほうこうとうかつこう",
          "url" : "http://www.toho-h.ed.jp/"
       },
       "栄徳高等学校" : {
@@ -1931,6 +2079,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23552A",
          "short_name" : "栄徳高校",
+         "sort_name" : "えいとくこうとうかつこう",
          "url" : "http://www.eitoku-h.ed.jp/"
       },
       "桜丘高等学校" : {
@@ -1940,6 +2089,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23544A",
          "short_name" : "桜丘高校",
+         "sort_name" : "さくらかおか あいち",
          "url" : "http://www.sakuragaoka-h.ed.jp/index.html",
          "wikipedia_name" : "桜丘中学校・高等学校 (愛知県)"
       },
@@ -1950,6 +2100,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23524F",
          "short_name" : "桜花学園高校",
+         "sort_name" : "おうかかくえんこうとうかつこう",
          "url" : "http://www.ohka.ac.jp/index2.html"
       },
       "椙山女学園高等学校" : {
@@ -1965,6 +2116,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23537H",
          "short_name" : "清林館高校",
+         "sort_name" : "せいりんかん",
          "url" : "http://www.seirinkan.ed.jp/index.htm"
       },
       "滝高等学校" : {
@@ -1974,6 +2126,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23535A",
          "short_name" : "滝高校",
+         "sort_name" : "たきちゆうかつこうこうとうかつこう",
          "url" : "http://www.taki-hj.ac.jp/",
          "wikipedia_name" : "滝中学校・高等学校"
       },
@@ -1984,6 +2137,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23532G",
          "short_name" : "聖カピタニオ女子高校",
+         "sort_name" : "せいかひたにおしよし",
          "url" : "http://www.st-capitanio.ed.jp/"
       },
       "聖霊高等学校" : {
@@ -1993,6 +2147,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23534C",
          "short_name" : "聖霊高校",
+         "sort_name" : "せいれいちゆうかつこうこうとうかつこう",
          "url" : "http://seireihs.seto-seirei-js.ed.jp/",
          "wikipedia_name" : "聖霊中学校・高等学校"
       },
@@ -2004,6 +2159,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23513A",
          "short_name" : "至学館高校",
+         "sort_name" : "しかくかんこうとうかつこう",
          "url" : "http://www.shigakukan-h.ed.jp/"
       },
       "菊華高等学校" : {
@@ -2013,6 +2169,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23529G",
          "short_name" : "菊華高校",
+         "sort_name" : "きくかこうとう",
          "url" : "http://www.kikuka.ed.jp/"
       },
       "藤ノ花女子高等学校" : {
@@ -2022,6 +2179,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23549A",
          "short_name" : "藤ノ花女子高校",
+         "sort_name" : "ふしのはなよし",
          "url" : "http://www.fujinohana-h.ed.jp/"
       },
       "見晴台学園高等学校" : {
@@ -2037,6 +2195,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23551C",
          "short_name" : "誉高校",
+         "sort_name" : "ほまれこうとうかつこう",
          "url" : "http://www.homare.ac.jp/"
       },
       "誠信高等学校" : {
@@ -2046,6 +2205,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23540H",
          "short_name" : "誠信高校",
+         "sort_name" : "せいしんこうとうかつこう",
          "url" : "http://www.a-seishin.com/"
       },
       "豊川高等学校" : {
@@ -2055,6 +2215,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23546G",
          "short_name" : "豊川高校",
+         "sort_name" : "とよかわこうとうかつこう",
          "url" : "http://www.toyokawa.ed.jp/"
       },
       "豊橋中央高等学校" : {
@@ -2064,6 +2225,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23547E",
          "short_name" : "豊橋中央高校",
+         "sort_name" : "とよはしちゆうおう",
          "url" : "http://www.toyohashi-chuo.jp/"
       },
       "豊橋市立豊橋高等学校" : {
@@ -2071,6 +2233,7 @@
          "location_zipcode" : "440-0068",
          "senior_high_school_code" : "23229H",
          "short_name" : "豊橋高校",
+         "sort_name" : "とよはししりつとよはし",
          "url" : "http://www.highschool.toyohashi.ed.jp/"
       },
       "豊田大谷高等学校" : {
@@ -2080,6 +2243,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23553K",
          "short_name" : "豊田大谷高校",
+         "sort_name" : "とよたおおたに",
          "url" : "http://www.owari.ac.jp/toyota/"
       },
       "金城学院高等学校" : {
@@ -2090,6 +2254,7 @@
          "school_area" : "尾張学区",
          "senior_high_school_code" : "23508D",
          "short_name" : "金城学院高校",
+         "sort_name" : "きんしようかくいんちゆうかつこうこうとうかつこう",
          "url" : "http://www.hs.kinjo-u.ac.jp/",
          "wikipedia_name" : "金城学院中学校・高等学校"
       },
@@ -2100,6 +2265,7 @@
          "school_area" : "三河学区",
          "senior_high_school_code" : "23556D",
          "short_name" : "黄柳野高校",
+         "sort_name" : "つけのこうとうかつこう",
          "url" : "http://www.tsugeno.ac.jp/"
       }
    }

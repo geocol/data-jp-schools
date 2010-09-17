@@ -11,6 +11,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09507K",
          "short_name" : "佐野清澄高校",
+         "sort_name" : "さのきよすみこうとうかつこう",
          "url" : "http://www.sanokiyosumi-h.ed.jp/index.htm"
       },
       "作新学院高等学校" : {
@@ -23,6 +24,7 @@
          "location_zipcode" : "328-8588",
          "owner_type" : "私立",
          "short_name" : "國學院大學栃木高校",
+         "sort_name" : "こくかくいんたいかくとちき",
          "url" : "http://www.kokugakuintochigi.ac.jp/pindex.html",
          "wikipedia_name" : "國學院大學栃木中学校・高等学校"
       },
@@ -32,6 +34,7 @@
          "location_zipcode" : "320-0048",
          "owner_type" : "私立",
          "short_name" : "宇都宮文星女子高校",
+         "sort_name" : "うつのみやふんせいしよし",
          "url" : "http://www.bunsei-gh.ed.jp/"
       },
       "宇都宮海星女子学院高等学校" : {
@@ -41,6 +44,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09505C",
          "short_name" : "宇都宮海星女子学院高校",
+         "sort_name" : "うつのみやかいせいしよしかくいん",
          "url" : "http://www.u-kaisei.ed.jp/",
          "wikipedia_name" : "宇都宮海星女子学院中学校・高等学校"
       },
@@ -49,6 +53,7 @@
          "location_zipcode" : "320-8585",
          "owner_type" : "私立",
          "short_name" : "宇都宮短大附属高校",
+         "sort_name" : "うつのみやたんきたいかくふそく",
          "url" : "http://www.utanf-jh.ed.jp/utanfjh/index.html",
          "wikipedia_name" : "宇都宮短期大学附属中学校・高等学校"
       },
@@ -58,6 +63,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09518E",
          "short_name" : "幸福の科学学園高校",
+         "sort_name" : "こうふくのかかくかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.happy-science.ac.jp/",
          "wikipedia_name" : "幸福の科学学園中学校・高等学校"
       },
@@ -68,6 +74,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09502J",
          "short_name" : "文星芸術大学附属高校",
+         "sort_name" : "ふんせいけいしゆつたいかくふそくこうとうかつこう",
          "url" : "http://www.bunsei-art.ac.jp/",
          "wikipedia_name" : "文星芸術大学附属中学校・高等学校"
       },
@@ -78,6 +85,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09516J",
          "short_name" : "日々輝学園高校",
+         "sort_name" : "ひひきかくえん",
          "url" : "http://www.hibiki-gakuen.ed.jp/"
       },
       "栃木県立さくら清修高等学校" : {
@@ -93,7 +101,8 @@
       "栃木県立上三川高等学校" : {
          "owner_type" : "県立",
          "school_area" : "下都賀学区",
-         "short_name" : "上三川高校"
+         "short_name" : "上三川高校",
+         "sort_name" : "とちきけんりつかみのかわ"
       },
       "栃木県立今市工業高等学校" : {
          "owner_type" : "県立",
@@ -116,6 +125,7 @@
          "school_area" : "安足学区",
          "senior_high_school_code" : "09129E",
          "short_name" : "佐野女子高校",
+         "sort_name" : "とちきけんりつさのしよし",
          "url" : "http://www.tochigi-edu.ed.jp/sanojoshi/"
       },
       "栃木県立佐野松陽高等学校" : {
@@ -124,6 +134,7 @@
          "owner_type" : "県立",
          "school_area" : "安足学区",
          "short_name" : "佐野松陽高校",
+         "sort_name" : "さのしようよう",
          "url" : "http://www.tochigi-edu.ed.jp/sanoshoyo/"
       },
       "栃木県立佐野高等学校" : {
@@ -153,6 +164,7 @@
          "school_area" : "那須学区",
          "senior_high_school_code" : "09147C",
          "short_name" : "大田原女子高校",
+         "sort_name" : "とちきけんりつおおたわらしよし",
          "url" : "http://www.tochigi-edu.ed.jp/otawarajoshi/"
       },
       "栃木県立大田原東高等学校" : {
@@ -161,7 +173,8 @@
          "owner_type" : "県立",
          "school_area" : "那須学区",
          "senior_high_school_code" : "09148A",
-         "short_name" : "大田原東高校"
+         "short_name" : "大田原東高校",
+         "sort_name" : "おおたわらひかし"
       },
       "栃木県立大田原高等学校" : {
          "location" : "栃木県大田原市紫塚3丁目2651番地",
@@ -170,6 +183,7 @@
          "school_area" : "那須学区",
          "senior_high_school_code" : "09146E",
          "short_name" : "大田原高校",
+         "sort_name" : "とちきけんりつおおたわら",
          "url" : "http://web2.tochigi-edu.ed.jp/otawara/"
       },
       "栃木県立学悠館高等学校" : {
@@ -179,7 +193,8 @@
          "owner_type" : "県立",
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09172D",
-         "short_name" : "学悠館高校"
+         "short_name" : "学悠館高校",
+         "sort_name" : "かくゆうかん"
       },
       "栃木県立宇都宮中央女子高等学校" : {
          "location" : "栃木県宇都宮市若草2-2-46",
@@ -188,13 +203,15 @@
          "owner_type" : "県立",
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09105H",
-         "short_name" : "宇都宮中央女子高校"
+         "short_name" : "宇都宮中央女子高校",
+         "sort_name" : "とちきけんりつうつのみやちゆうおうしよし"
       },
       "栃木県立宇都宮北高等学校" : {
          "location_wikipedia_latlon" : "|36|35|24.5|N|139|53|53.2|E|",
          "owner_type" : "県立",
          "school_area" : "宇都宮学区",
-         "short_name" : "宇都宮北高校"
+         "short_name" : "宇都宮北高校",
+         "sort_name" : "うつのみやきた"
       },
       "栃木県立宇都宮南高等学校" : {
          "location" : "栃木県宇都宮市東谷町660番地1",
@@ -203,6 +220,7 @@
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09103A",
          "short_name" : "宇都宮南高校",
+         "sort_name" : "うつのみやみなみ",
          "url" : "http://www.tochigi-edu.ed.jp/utsunomiyaminami/nc/"
       },
       "栃木県立宇都宮商業高等学校" : {
@@ -213,7 +231,7 @@
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09108B",
          "short_name" : "宇都宮商業高校",
-         "url" : "http://(Web"
+         "sort_name" : "うつのみやしようきよう"
       },
       "栃木県立宇都宮女子高等学校" : {
          "location" : "栃木県宇都宮市操町5-19",
@@ -223,6 +241,7 @@
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09104K",
          "short_name" : "宇都宮女子高校",
+         "sort_name" : "うつのみやしよし",
          "url" : "http://www.tochigi-edu.ed.jp/utsunomiyajoshi/"
       },
       "栃木県立宇都宮工業高等学校" : {
@@ -232,6 +251,7 @@
          "owner_type" : "県立",
          "school_area" : "宇都宮学区",
          "short_name" : "宇都宮工業高校",
+         "sort_name" : "とちきけんりつうつのみやこうきよう",
          "url" : "http://www.tochigi-edu.ed.jp/utsunomiyakogyo/"
       },
       "栃木県立宇都宮東高等学校" : {
@@ -255,6 +275,7 @@
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09106F",
          "short_name" : "宇都宮白楊高校",
+         "sort_name" : "とちきけんりつうつのみやはくよう",
          "url" : "http://www.tochigi-edu.ed.jp/utsunomiyahakuyo/"
       },
       "栃木県立宇都宮高等学校" : {
@@ -265,6 +286,7 @@
          "school_area" : "宇都宮学区",
          "senior_high_school_code" : "09101E",
          "short_name" : "宇都宮高校",
+         "sort_name" : "とちきけんりつうつのみや",
          "url" : "http://www.tochigi-edu.ed.jp/utsunomiya/"
       },
       "栃木県立小山北桜高等学校" : {
@@ -273,6 +295,7 @@
          "owner_type" : "県立",
          "school_area" : "下都賀学区",
          "short_name" : "小山北桜高校",
+         "sort_name" : "おやまほくおう",
          "url" : "http://www.tochigi-edu.ed.jp/oyamahokuo/nc/"
       },
       "栃木県立小山南高等学校" : {
@@ -299,6 +322,7 @@
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09169D",
          "short_name" : "小山西高校",
+         "sort_name" : "とちきけんりつおやまにし",
          "url" : "http://www.tochigi-edu.ed.jp/oyamanishi/"
       },
       "栃木県立小山高等学校" : {
@@ -309,6 +333,7 @@
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09118K",
          "short_name" : "小山高校",
+         "sort_name" : "とちきけんりつおやま",
          "url" : "http://www.tochigi-edu.ed.jp/oyama/"
       },
       "栃木県立日光明峰高等学校" : {
@@ -322,6 +347,7 @@
          "owner_type" : "県立",
          "school_area" : "下都賀学区",
          "short_name" : "栃木商業高校",
+         "sort_name" : "とちきけんりつとちきしようきよう",
          "url" : "http://www.tochigi-edu.ed.jp/tochigishogyo/"
       },
       "栃木県立栃木女子高等学校" : {
@@ -347,6 +373,7 @@
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09174A",
          "short_name" : "栃木翔南高校",
+         "sort_name" : "とちきけんりつとちきしようなん",
          "url" : "http://www.tochigi-edu.ed.jp/tochigishonan/"
       },
       "栃木県立栃木農業高等学校" : {
@@ -357,6 +384,7 @@
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09123F",
          "short_name" : "栃木農業高校",
+         "sort_name" : "とちきのうきよう",
          "url" : "http://www.tochigi-ah.ed.jp/index.html"
       },
       "栃木県立栃木高等学校" : {
@@ -367,6 +395,7 @@
          "school_area" : "下都賀学区",
          "senior_high_school_code" : "09121K",
          "short_name" : "栃木高校",
+         "sort_name" : "とちきけんりつとちき",
          "url" : "http://www.tochigi-edu.ed.jp/tochigi/"
       },
       "栃木県立烏山高等学校" : {
@@ -395,7 +424,8 @@
       "栃木県立真岡北陵高等学校" : {
          "owner_type" : "県立",
          "school_area" : "芳賀学区",
-         "short_name" : "真岡北陵高校"
+         "short_name" : "真岡北陵高校",
+         "sort_name" : "もおかほくりよう"
       },
       "栃木県立真岡女子高等学校" : {
          "location" : "栃木県真岡市台町2815番地",
@@ -404,6 +434,7 @@
          "school_area" : "芳賀学区",
          "senior_high_school_code" : "09138D",
          "short_name" : "真岡女子高校",
+         "sort_name" : "とちきけんりつもおかしよしこうとうかつこう",
          "url" : "http://www.tochigi-edu.ed.jp/mokajoshi/nc/"
       },
       "栃木県立真岡工業高等学校" : {
@@ -413,6 +444,7 @@
          "school_area" : "芳賀学区",
          "senior_high_school_code" : "09140F",
          "short_name" : "真岡工業高校",
+         "sort_name" : "もおかこうきよう",
          "url" : "http://www.tochigi-edu.ed.jp/mokakogyo/"
       },
       "栃木県立真岡高等学校" : {
@@ -421,6 +453,7 @@
          "owner_type" : "県立",
          "school_area" : "芳賀学区",
          "short_name" : "真岡高校",
+         "sort_name" : "もおか",
          "url" : "http://www.tochigi-edu.ed.jp/moka/"
       },
       "栃木県立矢板東高等学校" : {
@@ -431,6 +464,7 @@
          "school_area" : "塩谷・南那須学区",
          "senior_high_school_code" : "09156B",
          "short_name" : "矢板東高校",
+         "sort_name" : "とちきけんりつやいたひかし",
          "url" : "http://www.pref.tochigi.jp/education/gakkoukyouiku/koutou/1191205013847.html"
       },
       "栃木県立矢板高等学校" : {
@@ -441,6 +475,7 @@
          "school_area" : "塩谷・南那須学区",
          "senior_high_school_code" : "09155D",
          "short_name" : "矢板高校",
+         "sort_name" : "やいた",
          "url" : "http://www.tochigi-edu.ed.jp/yaita/"
       },
       "栃木県立石橋高等学校" : {
@@ -456,7 +491,8 @@
          "location_wikipedia_latlon" : "|36|31|16.5|N|139|40|26|E|",
          "owner_type" : "県立",
          "school_area" : "上都賀学区",
-         "short_name" : "粟野高校"
+         "short_name" : "粟野高校",
+         "sort_name" : "とちきけんりつあわのこうとうかつこう"
       },
       "栃木県立茂木高等学校" : {
          "owner_type" : "県立",
@@ -491,6 +527,7 @@
          "school_area" : "安足学区",
          "senior_high_school_code" : "09135K",
          "short_name" : "足利工業高校",
+         "sort_name" : "あしかかこうきよう",
          "url" : "http://www.tochigi-edu.ed.jp/ashikagakogyo/"
       },
       "栃木県立足利清風高等学校" : {
@@ -511,6 +548,7 @@
          "school_area" : "安足学区",
          "senior_high_school_code" : "09131G",
          "short_name" : "足利高校",
+         "sort_name" : "とちきけんりつあしかか",
          "url" : "http://www.tochigi-edu.ed.jp/ashikaga/"
       },
       "栃木県立那須拓陽高等学校" : {
@@ -519,12 +557,14 @@
          "owner_type" : "県立",
          "school_area" : "那須学区",
          "short_name" : "那須拓陽高校",
+         "sort_name" : "なすたくよう",
          "url" : "http://www.pref.tochigi.jp/gakkou-kyouiku/koukou/highschool/NasuTakuyo/INDEX.HTM"
       },
       "栃木県立那須清峰高等学校" : {
          "owner_type" : "県立",
          "school_area" : "那須学区",
-         "short_name" : "那須清峰高校"
+         "short_name" : "那須清峰高校",
+         "sort_name" : "なすせいほう"
       },
       "栃木県立那須高等学校" : {
          "location" : "栃木県那須郡那須町大字寺子乙3932-48",
@@ -532,6 +572,7 @@
          "owner_type" : "県立",
          "school_area" : "那須学区",
          "short_name" : "那須高校",
+         "sort_name" : "とちきけんりつなすこうとうかつこう",
          "url" : "http://www.tochigi-edu.ed.jp/nasu/"
       },
       "栃木県立馬頭高等学校" : {
@@ -552,7 +593,8 @@
       "栃木県立鹿沼南高等学校" : {
          "owner_type" : "県立",
          "school_area" : "上都賀学区",
-         "short_name" : "鹿沼南高校"
+         "short_name" : "鹿沼南高校",
+         "sort_name" : "とちきけんりつかぬまみなみ"
       },
       "栃木県立鹿沼商工高等学校" : {
          "location" : "栃木県鹿沼市花岡町180-1",
@@ -562,6 +604,7 @@
          "school_area" : "上都賀学区",
          "senior_high_school_code" : "09111B",
          "short_name" : "鹿沼商工高校",
+         "sort_name" : "かぬましようこう",
          "url" : "http://www.tochigi-edu.ed.jp/kanumashoko/"
       },
       "栃木県立鹿沼東高等学校" : {
@@ -583,6 +626,7 @@
          "owner_type" : "県立",
          "school_area" : "上都賀学区",
          "short_name" : "鹿沼高校",
+         "sort_name" : "とちきけんりつかぬまこうとうかつこう",
          "url" : "http://www.tochigi-edu.ed.jp/kanuma/"
       },
       "栃木県立黒磯南高等学校" : {
@@ -592,6 +636,7 @@
          "school_area" : "那須学区",
          "senior_high_school_code" : "09154F",
          "short_name" : "黒磯南高校",
+         "sort_name" : "とちきけんりつくろいそみなみ",
          "url" : "http://www.tochigi-edu.ed.jp/kuroisominami/"
       },
       "栃木県立黒磯高等学校" : {
@@ -601,6 +646,7 @@
          "school_area" : "那須学区",
          "senior_high_school_code" : "09153H",
          "short_name" : "黒磯高校",
+         "sort_name" : "とちきけんりつくろいそ",
          "url" : "http://www.tochigi-edu.ed.jp/kuroiso/"
       },
       "栃木県立黒羽高等学校" : {
@@ -618,6 +664,7 @@
          "location_zipcode" : "326-0054",
          "owner_type" : "私立",
          "short_name" : "白鴎大学足利高校",
+         "sort_name" : "はくおうたいかくあしかか",
          "url" : "http://www.hakuoh.ed.jp/",
          "wikipedia_name" : "白鴎大学足利中学校・高等学校"
       },
@@ -628,6 +675,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09512F",
          "short_name" : "矢板中央高校",
+         "sort_name" : "やいたちゆうおう",
          "url" : "http://www.nasu-net.or.jp/~ycsisei/"
       },
       "足利工業大学附属高等学校" : {
@@ -636,6 +684,7 @@
          "location_zipcode" : "326-0331",
          "owner_type" : "私立",
          "short_name" : "足利工業大学附属高校",
+         "sort_name" : "あしかかこうきようたいかくふそく",
          "url" : "http://www.ashitech-h.ed.jp/"
       },
       "足利短期大学附属高等学校" : {
@@ -644,6 +693,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09509F",
          "short_name" : "足利短大附属高校",
+         "sort_name" : "あしかかたんきたいかくふそく",
          "url" : "http://www.ashikaga-jc-h.ed.jp/"
       },
       "那須高原海城高等学校" : {
@@ -652,6 +702,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09515A",
          "short_name" : "那須高原海城高校",
+         "sort_name" : "なすこうけんかいしよう",
          "url" : "http://www.nasukaijo.ed.jp/",
          "wikipedia_name" : "那須高原海城中学校・高等学校"
       },
@@ -661,6 +712,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "09513D",
          "short_name" : "青藍泰斗高校",
+         "sort_name" : "せいらんたいと",
          "url" : "http://www.seirantaito.ed.jp/index02.htm"
       }
    }

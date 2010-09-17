@@ -8,6 +8,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26523D",
          "short_name" : "ノートルダム女学院高校",
+         "sort_name" : "のおとるたむしよかくいんちゆうかつこうこうとうかつこう",
          "url" : "http://www.notredame-jogakuin.ed.jp/",
          "wikipedia_name" : "ノートルダム女学院中学校・高等学校"
       },
@@ -24,12 +25,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26512J",
          "short_name" : "京都両洋高校",
+         "sort_name" : "きようとりようようこうとうかつこう",
          "url" : "http://www.kyoto-ryoyo.ed.jp/"
       },
       "京都光華高等学校" : {
          "location_area" : "京都市",
          "owner_type" : "私立",
          "short_name" : "京都光華高校",
+         "sort_name" : "きようとこうか",
          "wikipedia_name" : "京都光華中学校・高等学校"
       },
       "京都共栄学園高等学校" : {
@@ -38,6 +41,7 @@
          "location_zipcode" : "620-0933",
          "owner_type" : "私立",
          "short_name" : "京都共栄学園高校",
+         "sort_name" : "きようときようえい",
          "url" : "http://www.kyoei.ed.jp/",
          "wikipedia_name" : "京都共栄学園中学校・高等学校"
       },
@@ -49,6 +53,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26542A",
          "short_name" : "京都国際高校",
+         "sort_name" : "きようとこくさい",
          "url" : "http://web.kyoto-inet.or.jp/org/kkgakuen/",
          "wikipedia_name" : "京都国際中学校・高等学校"
       },
@@ -59,6 +64,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26504H",
          "short_name" : "京都外大西高校",
+         "sort_name" : "きようとかいたいにし",
          "url" : "http://www.kufs.ac.jp/nishiko/"
       },
       "京都女子高等学校" : {
@@ -68,6 +74,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26515C",
          "short_name" : "京都女子高校",
+         "sort_name" : "きようとしよしちゆうかつこうこうとうかつこう",
          "url" : "http://www.kgs.ed.jp/",
          "wikipedia_name" : "京都女子中学校・高等学校"
       },
@@ -78,6 +85,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26503K",
          "short_name" : "京都学園高校",
+         "sort_name" : "きようとかくえん",
          "url" : "http://www.kyotogakuen.ac.jp/~shs/",
          "wikipedia_name" : "京都学園中学校・高等学校"
       },
@@ -87,6 +95,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "26157C",
          "short_name" : "京都堀川音楽高校",
+         "sort_name" : "きようとしりつきようとほりかわおんかくこうとうかつこう",
          "url" : "http://www.edu.city.kyoto.jp/hp/ongaku/"
       },
       "京都市立伏見工業高等学校" : {
@@ -95,6 +104,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "26137J",
          "short_name" : "伏見工業高校",
+         "sort_name" : "ふしみこうきよう",
          "url" : "http://www.edu.city.kyoto.jp/hp/fushimi/FushimiWeb/index.htm"
       },
       "京都市立堀川高等学校" : {
@@ -105,6 +115,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26139E",
          "short_name" : "堀川高校",
+         "sort_name" : "ほりかわこうとうかっこう",
          "url" : "http://www.edu.city.kyoto.jp/hp/horikawa/"
       },
       "京都市立塔南高等学校" : {
@@ -115,6 +126,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26142E",
          "short_name" : "塔南高校",
+         "sort_name" : "とうなん",
          "url" : "http://www.edu.city.kyoto.jp/hp/tounan/"
       },
       "京都市立日吉ヶ丘高等学校" : {
@@ -125,6 +137,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26140J",
          "short_name" : "日吉ヶ丘高校",
+         "sort_name" : "ひよしかおか",
          "url" : "http://www.edu.city.kyoto.jp/hp/hiyoshi/"
       },
       "京都市立洛陽工業高等学校" : {
@@ -134,6 +147,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "26136A",
          "short_name" : "洛陽工業高校",
+         "sort_name" : "らくようこうきよう",
          "url" : "http://www.edu.city.kyoto.jp/hp/rakuyo/"
       },
       "京都市立紫野高等学校" : {
@@ -144,6 +158,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26141G",
          "short_name" : "紫野高校",
+         "sort_name" : "きようとしりつむさきのこうとうかつこう",
          "url" : "http://www.edu.city.kyoto.jp/hp/murasaki/"
       },
       "京都市立西京高等学校" : {
@@ -156,6 +171,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "26145K",
          "short_name" : "銅駝美術工芸高校",
+         "sort_name" : "きようとしりつとうたひしゆつこうけいこうとうかつこう",
          "url" : "http://www.edu.city.kyoto.jp/hp/douda/"
       },
       "京都府立久御山高等学校" : {
@@ -183,6 +199,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26110G",
          "short_name" : "乙訓高校",
+         "sort_name" : "きようとふりつおとくにこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/otokuni-hs/"
       },
       "京都府立亀岡高等学校" : {
@@ -201,22 +218,26 @@
          "owner_type" : "府立",
          "senior_high_school_code" : "26155G",
          "short_name" : "京都すばる高校",
+         "sort_name" : "すはる",
          "url" : "http://www.kyoto-be.ne.jp/subaru-hs/"
       },
       "京都府立京都八幡高等学校" : {
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "京都八幡高校"
+         "short_name" : "京都八幡高校",
+         "sort_name" : "きようとふりつやわたこうとうかつこう"
       },
       "京都府立京都八幡高等学校北キャンパス" : {
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "京都八幡高校北キャンパス"
+         "short_name" : "京都八幡高校北キャンパス",
+         "sort_name" : "きようとふりつきようとやわたこうとうかつこう"
       },
       "京都府立京都八幡高等学校南キャンパス" : {
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "京都八幡高校南キャンパス"
+         "short_name" : "京都八幡高校南キャンパス",
+         "sort_name" : "きようとふりつきようとやわたこうとうかつこう"
       },
       "京都府立加悦谷高等学校" : {
          "location" : "京都府与謝郡与謝野町字三河内810",
@@ -226,6 +247,7 @@
          "school_area" : "丹後通学圏",
          "senior_high_school_code" : "26130A",
          "short_name" : "加悦谷高校",
+         "sort_name" : "きようとふりつかやたにこうとう",
          "url" : "http://www1.kyoto-be.ne.jp/kayadani-hs/"
       },
       "京都府立北嵯峨高等学校" : {
@@ -235,6 +257,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26108E",
          "short_name" : "北嵯峨高校",
+         "sort_name" : "きようとふりつきたさかこうとうかつこう",
          "url" : "http://www.kyoto-be.ne.jp/kitasaga-hs/"
       },
       "京都府立北桑田高等学校" : {
@@ -243,6 +266,7 @@
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
          "short_name" : "北桑田高校",
+         "sort_name" : "きようとふりつきたくわた",
          "url" : "http://www1.kyoto-be.ne.jp/kitakuwada-hs/"
       },
       "京都府立北稜高等学校" : {
@@ -253,6 +277,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26148D",
          "short_name" : "北稜高校",
+         "sort_name" : "ほくりよう",
          "url" : "http://www.kyoto-be.ne.jp/hokuryou-hs/"
       },
       "京都府立南丹高等学校" : {
@@ -272,6 +297,7 @@
          "school_area" : "山城通学圏",
          "senior_high_school_code" : "26156E",
          "short_name" : "南陽高校",
+         "sort_name" : "きようとふりつなんようこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/nannyou-hs/"
       },
       "京都府立向陽高等学校" : {
@@ -282,6 +308,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26111E",
          "short_name" : "向陽高校",
+         "sort_name" : "きようとふりつこうよう",
          "url" : "http://www1.kyoto-be.ne.jp/kouyou-hs/"
       },
       "京都府立園部高等学校" : {
@@ -311,6 +338,7 @@
          "school_area" : "山城通学圏",
          "senior_high_school_code" : "26114K",
          "short_name" : "城陽高校",
+         "sort_name" : "しようようこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/jyouyou-hs/"
       },
       "京都府立大江高等学校" : {
@@ -320,6 +348,7 @@
          "school_area" : "中丹通学圏",
          "senior_high_school_code" : "26127A",
          "short_name" : "大江高校",
+         "sort_name" : "きようとふりつおおえこうとうかつこう",
          "url" : "http://www.kyoto-be.ne.jp/ooe-hs/"
       },
       "京都府立宮津高等学校" : {
@@ -330,6 +359,7 @@
          "school_area" : "丹後通学圏",
          "senior_high_school_code" : "26128K",
          "short_name" : "宮津高校",
+         "sort_name" : "きようとふりつみやつこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/miyazu-hs"
       },
       "京都府立山城高等学校" : {
@@ -340,6 +370,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26101H",
          "short_name" : "山城高校",
+         "sort_name" : "きようとふりつやましろこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/yamashiro-hs/"
       },
       "京都府立峰山高等学校" : {
@@ -349,6 +380,7 @@
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
          "short_name" : "峰山高校",
+         "sort_name" : "きようとふりつみねやまこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/mineyama-hs/"
       },
       "京都府立嵯峨野高等学校" : {
@@ -367,6 +399,7 @@
          "owner_type" : "府立",
          "senior_high_school_code" : "26124G",
          "short_name" : "工業高校",
+         "sort_name" : "きようとふりつこうきよう",
          "url" : "http://www1.kyoto-be.ne.jp/kyoto-ths/"
       },
       "京都府立木津高等学校" : {
@@ -376,6 +409,7 @@
          "school_area" : "山城通学圏",
          "senior_high_school_code" : "26117D",
          "short_name" : "木津高校",
+         "sort_name" : "きようとふりつきつこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/kizu-hs/"
       },
       "京都府立朱雀高等学校" : {
@@ -386,13 +420,15 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26104B",
          "short_name" : "朱雀高校",
+         "sort_name" : "すさく",
          "url" : "http://www1.kyoto-be.ne.jp/suzaku-hs/"
       },
       "京都府立東宇治高等学校" : {
          "location_wikipedia_latlon" : "|34|55|31.6|N|135|48|33.9|E|",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "東宇治高校"
+         "short_name" : "東宇治高校",
+         "sort_name" : "きようとふりつひかしうし"
       },
       "京都府立東稜高等学校" : {
          "location" : "京都府京都市伏見区醍醐新町裏町25-1",
@@ -420,6 +456,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26107G",
          "short_name" : "桂高校",
+         "sort_name" : "かつらこうとうかつこう",
          "url" : "http://www.kyoto-be.ne.jp/katsura-hs/"
       },
       "京都府立桃山高等学校" : {
@@ -429,6 +466,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26109C",
          "short_name" : "桃山高校",
+         "sort_name" : "ももやま",
          "url" : "http://www.kyoto-be.ne.jp/momoyama-hs/"
       },
       "京都府立洛北高等学校" : {
@@ -439,6 +477,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26103D",
          "short_name" : "洛北高校",
+         "sort_name" : "らくほく",
          "url" : "http://www1.kyoto-be.ne.jp/rakuhoku-hs/",
          "wikipedia_name" : "京都府立洛北高等学校・附属中学校"
       },
@@ -458,6 +497,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26143C",
          "short_name" : "洛水高校",
+         "sort_name" : "きようとふりつらくすいこうとう",
          "url" : "http://www1.kyoto-be.ne.jp/rakusui-hs/"
       },
       "京都府立洛西高等学校" : {
@@ -504,6 +544,7 @@
          "school_area" : "丹後通学圏",
          "senior_high_school_code" : "26132H",
          "short_name" : "網野高校",
+         "sort_name" : "あみの",
          "url" : "http://www1.kyoto-be.ne.jp/amino-hs/"
       },
       "京都府立綾部高等学校" : {
@@ -533,6 +574,7 @@
          "school_area" : "京都市南通学圏",
          "senior_high_school_code" : "26153A",
          "short_name" : "西乙訓高校",
+         "sort_name" : "きようとふりつにしおとくにこうとうかつこう",
          "url" : "http://www.kyoto-be.ne.jp/nishiotokuni-hs/"
       },
       "京都府立西城陽高等学校" : {
@@ -542,6 +584,7 @@
          "school_area" : "山城通学圏",
          "senior_high_school_code" : "26149B",
          "short_name" : "西城陽高校",
+         "sort_name" : "にししようようこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/nishijyouyou-hs/"
       },
       "京都府立西舞鶴高等学校" : {
@@ -552,6 +595,7 @@
          "school_area" : "中丹通学圏",
          "senior_high_school_code" : "26126C",
          "short_name" : "西舞鶴高校",
+         "sort_name" : "にしまいつるこうとうかつこう",
          "url" : "http://www1.kyoto-be.ne.jp/nishimaizuru-hs/"
       },
       "京都府立農芸高等学校" : {
@@ -561,6 +605,7 @@
          "owner_type" : "府立",
          "senior_high_school_code" : "26151D",
          "short_name" : "農芸高校",
+         "sort_name" : "のうけい",
          "url" : "http://www.kyoto-be.ne.jp/nougei-hs/"
       },
       "京都府立須知高等学校" : {
@@ -590,6 +635,7 @@
          "school_area" : "京都市北通学圏",
          "senior_high_school_code" : "26102F",
          "short_name" : "鴨沂高校",
+         "sort_name" : "おうき",
          "url" : "http://www1.kyoto-be.ne.jp/ohki-hs/"
       },
       "京都成章高等学校" : {
@@ -599,6 +645,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26539A",
          "short_name" : "京都成章高校",
+         "sort_name" : "きようとせいしよう",
          "url" : "http://www.kyoto-econ.ac.jp/seisho/"
       },
       "京都教育大学附属高等学校" : {
@@ -607,6 +654,7 @@
          "owner_type" : "国立",
          "senior_high_school_code" : "26001A",
          "short_name" : "京都教育大学附属高校",
+         "sort_name" : "きようときよういくたいかくふそくこうとう",
          "url" : "http://www117.sakura.ne.jp/~kyokyofk/"
       },
       "京都文教高等学校" : {
@@ -617,13 +665,15 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26513G",
          "short_name" : "京都文教高校",
+         "sort_name" : "きようとふんきよう",
          "url" : "http://www.kbu.ac.jp/kbghs/",
          "wikipedia_name" : "京都文教中学校・高等学校"
       },
       "京都明徳高等学校" : {
          "location_area" : "京都市",
          "owner_type" : "私立",
-         "short_name" : "京都明徳高校"
+         "short_name" : "京都明徳高校",
+         "sort_name" : "きようとめいとくこうとうかつこう"
       },
       "京都暁星高等学校" : {
          "location" : "京都府宮津市獅子崎30",
@@ -632,6 +682,7 @@
          "location_zipcode" : "626-0065",
          "owner_type" : "私立",
          "short_name" : "京都暁星高校",
+         "sort_name" : "きようときようせい",
          "url" : "http://www.kghs.ed.jp/"
       },
       "京都橘高等学校" : {
@@ -647,6 +698,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26519F",
          "short_name" : "京都産業大学附属高校",
+         "sort_name" : "きようとさんきようたいかくふそく",
          "url" : "http://www.jsh.kyoto-su.ac.jp/index.html",
          "wikipedia_name" : "京都産業大学附属中学校・高等学校"
       },
@@ -663,12 +715,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26538B",
          "short_name" : "京都美山高校",
+         "sort_name" : "きようとみやま",
          "url" : "http://www.miyama.ed.jp/tushin/"
       },
       "京都翔英高等学校" : {
          "location_area" : "宇治市",
          "owner_type" : "私立",
-         "short_name" : "京都翔英高校"
+         "short_name" : "京都翔英高校",
+         "sort_name" : "きようとしようえい"
       },
       "京都聖カタリナ高等学校" : {
          "location" : "京都府南丹市園部町美園町1号78番地",
@@ -678,6 +732,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26531E",
          "short_name" : "京都聖カタリナ高校",
+         "sort_name" : "きようとせいかたりなこうとうかつこう",
          "url" : "http://www.catalina-kyoto.ed.jp/"
       },
       "京都芸術高等学校" : {
@@ -688,6 +743,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26541B",
          "short_name" : "京都芸術高校",
+         "sort_name" : "きようとけいしゆつ",
          "url" : "http://www.kyoto-geikou.ed.jp/"
       },
       "京都西山高等学校" : {
@@ -697,6 +753,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26522F",
          "short_name" : "京都西山高校",
+         "sort_name" : "きようとにしやま",
          "url" : "http://www.kyotonishiyama.ed.jp/"
       },
       "南京都高等学校" : {
@@ -714,6 +771,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26536F",
          "short_name" : "同志社国際高校",
+         "sort_name" : "とうししやこくさい",
          "url" : "http://www.intnl.doshisha.ac.jp/",
          "wikipedia_name" : "同志社国際中学校・高等学校"
       },
@@ -725,6 +783,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26521H",
          "short_name" : "同志社女子高校",
+         "sort_name" : "とうししやしよし",
          "url" : "http://www.girls.doshisha.ac.jp/",
          "wikipedia_name" : "同志社女子中学校・高等学校"
       },
@@ -741,6 +800,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26502A",
          "short_name" : "大谷高校",
+         "sort_name" : "おおたにちゆうかつこうこうとうかつこう",
          "url" : "http://www.otani.ed.jp/",
          "wikipedia_name" : "大谷中学校・高等学校 (京都府)"
       },
@@ -751,6 +811,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26524B",
          "short_name" : "平安女学院高校",
+         "sort_name" : "へいあんしよかくいん",
          "url" : "http://www.heian.ac.jp/high/index.php",
          "wikipedia_name" : "平安女学院中学校・高等学校"
       },
@@ -762,6 +823,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26533A",
          "short_name" : "日星高校",
+         "sort_name" : "につせいこうとうかつこう",
          "url" : "http://nisseihs.ed.jp/"
       },
       "東山高等学校" : {
@@ -772,6 +834,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26507B",
          "short_name" : "東山高校",
+         "sort_name" : "ひかしやま",
          "url" : "http://www.higashiyama.ed.jp/",
          "wikipedia_name" : "東山中学校・高等学校"
       },
@@ -782,6 +845,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26510B",
          "short_name" : "洛南高校",
+         "sort_name" : "らくなんこうとうかつこう",
          "url" : "http://www.rakunan-h.ed.jp/",
          "wikipedia_name" : "洛南高等学校・附属中学校"
       },
@@ -792,6 +856,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26509J",
          "short_name" : "洛星高校",
+         "sort_name" : "らくせい",
          "url" : "http://www.rakusei.ac.jp/index.html",
          "wikipedia_name" : "洛星中学校・高等学校"
       },
@@ -802,12 +867,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26527G",
          "short_name" : "洛陽総合高校",
+         "sort_name" : "らくようそうこう",
          "url" : "http://www.rakuyo.ed.jp/"
       },
       "福知山女子高等学校" : {
          "location_area" : "福知山市",
          "owner_type" : "私立",
-         "short_name" : "福知山女子高校"
+         "short_name" : "福知山女子高校",
+         "sort_name" : "ふくちやましよし"
       },
       "福知山成美高等学校" : {
          "location" : "京都府福知山市堀水内3471-1",
@@ -817,6 +884,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26530G",
          "short_name" : "福知山成美高校",
+         "sort_name" : "ふくちやませいひこうとうかつこう",
          "url" : "http://www.seibi-hs.jp"
       },
       "福知山淑徳高等学校" : {
@@ -827,6 +895,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26534K",
          "short_name" : "福知山淑徳高校",
+         "sort_name" : "ふくちやましゆくとくこうとうかつこう",
          "url" : "http://www.kan-on-sen-ku.ed.jp/"
       },
       "立命館宇治高等学校" : {
@@ -837,6 +906,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26528E",
          "short_name" : "立命館宇治高校",
+         "sort_name" : "りつめいかんうし",
          "url" : "http://www.ujc.ritsumei.ac.jp/ujc/",
          "wikipedia_name" : "立命館宇治中学校・高等学校"
       },
@@ -847,6 +917,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26511A",
          "short_name" : "立命館高校",
+         "sort_name" : "りつめいかん",
          "url" : "http://www.ritsumei.ac.jp/fkc/",
          "wikipedia_name" : "立命館中学校・高等学校"
       },
@@ -857,6 +928,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26520K",
          "short_name" : "聖母学院高校",
+         "sort_name" : "せいほかくいん",
          "url" : "http://www.seibo.ed.jp/kyoto-hs/",
          "wikipedia_name" : "聖母学院中学高等学校"
       },
@@ -867,6 +939,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26506D",
          "short_name" : "花園高校",
+         "sort_name" : "はなそのちゆうこう",
          "url" : "http://www.kyoto-hanazono-h.ed.jp/",
          "wikipedia_name" : "花園中学校・高等学校"
       },
@@ -876,6 +949,7 @@
          "location_zipcode" : "605-0062",
          "owner_type" : "私立",
          "short_name" : "華頂女子高校",
+         "sort_name" : "かちようしよし",
          "url" : "http://www.kacho.ac.jp/chukou/",
          "wikipedia_name" : "華頂女子中学校・高等学校"
       },
@@ -887,6 +961,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "26508A",
          "short_name" : "龍谷大学付属平安高校",
+         "sort_name" : "りゆうこくたいかくふそくへいあん",
          "url" : "http://www.heian.ed.jp/index2.htm",
          "wikipedia_name" : "龍谷大学付属平安中学校・高等学校"
       }

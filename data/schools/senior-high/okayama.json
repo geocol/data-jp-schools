@@ -13,17 +13,12 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33519D",
          "short_name" : "おかやま山陽高校",
+         "sort_name" : "おかやまさんよう",
          "url" : "http://www.okayama-sanyo-hs.ed.jp/"
       },
       "クラーク記念国際高等学校岡山キャンパス" : {
-         "location" : "北海道深川市納内町3丁目2-40",
-         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
-         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
-         "senior_high_school_code" : "01556D",
-         "short_name" : "クラーク記念国際高校岡山キャンパス",
-         "url" : "http://www.clark.ed.jp/",
-         "wikipedia_name" : "クラーク記念国際高等学校"
+         "short_name" : "クラーク記念国際高校岡山キャンパス"
       },
       "井原市立高等学校" : {
          "owner_type" : "市立",
@@ -37,6 +32,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33190C",
          "short_name" : "倉敷翔南高校",
+         "sort_name" : "くらしきしようなん",
          "url" : "http://www.kurashiki-oky.ed.jp/school/syounan-h/"
       },
       "倉敷市立工業高等学校" : {
@@ -54,6 +50,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "33180F",
          "short_name" : "真備陵南高校",
+         "sort_name" : "まひりようなん",
          "url" : "http://www.kurashiki-oky.ed.jp/school/mabiryounan-h/"
       },
       "倉敷市立精思高等学校" : {
@@ -67,6 +64,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33509G",
          "short_name" : "倉敷翠松高校",
+         "sort_name" : "くらしきすいしよう",
          "url" : "http://www.suisho.ed.jp/"
       },
       "倉敷高等学校" : {
@@ -76,6 +74,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33507A",
          "short_name" : "倉敷高校",
+         "sort_name" : "くらしき",
          "url" : "http://www.kurashiki.ac.jp/"
       },
       "備前市立片上高等学校" : {
@@ -87,6 +86,7 @@
          "location_zipcode" : "700-0054",
          "owner_type" : "私立",
          "short_name" : "創志学園高校",
+         "sort_name" : "そうしかくえん",
          "url" : "http://www.soshigakuen.ed.jp/"
       },
       "吉備高原学園高等学校" : {
@@ -94,6 +94,7 @@
          "location_zipcode" : "709-2393",
          "owner_type" : "私立",
          "short_name" : "吉備高原学園高校",
+         "sort_name" : "きひこうけん",
          "url" : "http://www.kibikogengakuen.ed.jp/"
       },
       "就実高等学校" : {
@@ -102,6 +103,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33502K",
          "short_name" : "就実高校",
+         "sort_name" : "しゆうしつ",
          "url" : "http://www.shujitsu-h.ed.jp/",
          "wikipedia_name" : "就実中学校・高等学校"
       },
@@ -111,6 +113,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33501A",
          "short_name" : "山陽女子高校",
+         "sort_name" : "さんようしよしちゅうかつこうこうとうかつこう",
          "url" : "http://www.sanyojoshi.ed.jp/",
          "wikipedia_name" : "山陽女子中学校・高等学校"
       },
@@ -120,6 +123,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33505D",
          "short_name" : "岡山商科大学附属高校",
+         "sort_name" : "おかやましようかたいかくふそく",
          "url" : "http://www.osu-h.ed.jp/index.html"
       },
       "岡山学芸館高等学校" : {
@@ -128,6 +132,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33514C",
          "short_name" : "岡山学芸館高校",
+         "sort_name" : "おかやまかくけいかん",
          "url" : "http://www.gakugeikan.ed.jp/"
       },
       "岡山市立岡山後楽館高等学校" : {
@@ -135,6 +140,7 @@
          "location_zipcode" : "700-0814",
          "owner_type" : "市立",
          "short_name" : "岡山後楽館高校",
+         "sort_name" : "おかやましりつおかやまこうらくかんちゆうかつこう",
          "url" : "http://www.city-okayama.ed.jp/~korakukan/index.htm",
          "wikipedia_name" : "岡山市立岡山後楽館中学校・高等学校"
       },
@@ -145,6 +151,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33508J",
          "short_name" : "岡山理科大学附属高校",
+         "sort_name" : "おかやまりかたいかくふそく",
          "url" : "http://www.kake.ac.jp/~info-j/",
          "wikipedia_name" : "岡山理科大学附属中学校・高等学校"
       },
@@ -154,6 +161,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33522D",
          "short_name" : "岡山白陵高校",
+         "sort_name" : "おかやまはくりよう",
          "url" : "http://www.okahaku.ed.jp/",
          "wikipedia_name" : "岡山白陵中学校・高等学校"
       },
@@ -164,6 +172,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33511J",
          "short_name" : "岡山県作陽高校",
+         "sort_name" : "さくよう",
          "url" : "http://www.sakuyo-h.ed.jp/"
       },
       "岡山県共生高等学校" : {
@@ -173,6 +182,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33521F",
          "short_name" : "岡山県共生高校",
+         "sort_name" : "おかやまけんきようせいこうとうかつこう",
          "url" : "http://www.kyousei.ed.jp/"
       },
       "岡山県立久世高等学校" : {
@@ -190,6 +200,7 @@
          "owner_type" : "県立",
          "school_area" : "西備学区",
          "short_name" : "井原高校",
+         "sort_name" : "おかやまけんりついはらこうとうかつこう",
          "url" : "http://www.ibara.okayama-c.ed.jp/"
       },
       "岡山県立倉敷中央高等学校" : {
@@ -200,6 +211,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33113K",
          "short_name" : "倉敷中央高校",
+         "sort_name" : "おかやまけんりつくらしきちゆうおう",
          "url" : "http://www.kurachuo.okayama-c.ed.jp/index.html"
       },
       "岡山県立倉敷南高等学校" : {
@@ -209,6 +221,7 @@
          "school_area" : "倉敷学区",
          "senior_high_school_code" : "33112A",
          "short_name" : "倉敷南高校",
+         "sort_name" : "くらしきみなみ",
          "url" : "http://www.kuramina.okayama-c.ed.jp/"
       },
       "岡山県立倉敷古城池高等学校" : {
@@ -219,6 +232,7 @@
          "school_area" : "倉敷学区",
          "senior_high_school_code" : "33183A",
          "short_name" : "倉敷古城池高校",
+         "sort_name" : "くらしきこしよういけ",
          "url" : "http://www.kojoike.okayama-c.ed.jp/"
       },
       "岡山県立倉敷商業高等学校" : {
@@ -229,6 +243,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33116D",
          "short_name" : "倉敷商業高校",
+         "sort_name" : "おかやまけんりつくらしきしようきよう",
          "url" : "http://www.kurasho.okayama-c.ed.jp/"
       },
       "岡山県立倉敷天城高等学校" : {
@@ -238,6 +253,7 @@
          "school_area" : "倉敷学区",
          "senior_high_school_code" : "33111C",
          "short_name" : "倉敷天城高校",
+         "sort_name" : "くらしきあまき",
          "url" : "http://www.amaki-jhs.okayama-c.ed.jp/",
          "wikipedia_name" : "岡山県立倉敷天城中学校・高等学校"
       },
@@ -249,6 +265,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33114H",
          "short_name" : "倉敷工業高校",
+         "sort_name" : "おかやまけんりつくらしきこうきよう",
          "url" : "http://www.kurako.okayama-c.ed.jp/"
       },
       "岡山県立倉敷青陵高等学校" : {
@@ -258,6 +275,7 @@
          "school_area" : "倉敷学区",
          "senior_high_school_code" : "33110E",
          "short_name" : "倉敷青陵高校",
+         "sort_name" : "くらしきせいりよう",
          "url" : "http://www.seiryo.okayama-c.ed.jp/"
       },
       "岡山県立倉敷鷲羽高等学校" : {
@@ -268,6 +286,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33192K",
          "short_name" : "倉敷鷲羽高校",
+         "sort_name" : "くらしきわしゆう",
          "url" : "http://www.washu.okayama-c.ed.jp/"
       },
       "岡山県立備前緑陽高等学校" : {
@@ -277,6 +296,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33189K",
          "short_name" : "備前緑陽高校",
+         "sort_name" : "おかやまけんりつひせんりよくようこうとうかつこう",
          "url" : "http://www.ryokuyou.okayama-c.ed.jp/"
       },
       "岡山県立勝山高等学校" : {
@@ -302,7 +322,8 @@
          "location_zipcode" : "716-1112",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "吉備北陵高校"
+         "short_name" : "吉備北陵高校",
+         "sort_name" : "きひほくりようこうとうかつこう"
       },
       "岡山県立和気閑谷高等学校" : {
          "location" : "岡山県和気郡和気町尺所15番地",
@@ -321,6 +342,7 @@
          "school_area" : "岡山学区",
          "senior_high_school_code" : "33182B",
          "short_name" : "岡山一宮高校",
+         "sort_name" : "おかやまけんりつおかやまいちのみやこうとうかつこう",
          "url" : "http://www.itinomiy.okayama-c.ed.jp/itiko.htm"
       },
       "岡山県立岡山南高等学校" : {
@@ -330,6 +352,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33109A",
          "short_name" : "岡山南高校",
+         "sort_name" : "おかやまけんりつおかやまみなみこうとうかつこう",
          "url" : "http://www.okaminam.okayama-c.ed.jp/welcome.htm"
       },
       "岡山県立岡山城東高等学校" : {
@@ -339,6 +362,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33187C",
          "short_name" : "岡山城東高校",
+         "sort_name" : "おかやまけんりつおかやましようとうこうとうかつこう",
          "url" : "http://www.joto.okayama-c.ed.jp/"
       },
       "岡山県立岡山大安寺高等学校" : {
@@ -348,6 +372,7 @@
          "school_area" : "岡山学区",
          "senior_high_school_code" : "33104A",
          "short_name" : "岡山大安寺高校",
+         "sort_name" : "おかやまけんりつおかやまたいあんしこうとうかつこう",
          "url" : "http://www.daianji.okayama-c.ed.jp/"
       },
       "岡山県立岡山工業高等学校" : {
@@ -358,6 +383,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33106G",
          "short_name" : "岡山工業高校",
+         "sort_name" : "おかやまけんりつおかやまこうきようこうとうかつこう",
          "url" : "http://www.okako.okayama-c.ed.jp/"
       },
       "岡山県立岡山御津高等学校" : {
@@ -367,6 +393,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33193H",
          "short_name" : "岡山御津高校",
+         "sort_name" : "おかやまけんりつおかやまみつこうとうかつこう",
          "url" : "http://www.mitsu.okayama-c.ed.jp/pc/"
       },
       "岡山県立岡山操山高等学校" : {
@@ -376,6 +403,7 @@
          "school_area" : "岡山学区",
          "senior_high_school_code" : "33103B",
          "short_name" : "岡山操山高校",
+         "sort_name" : "おかやまけんりつおかやまそうさんこうとうかつこう",
          "url" : "http://www.sozan-jhs.okayama-c.ed.jp/",
          "wikipedia_name" : "岡山県立岡山操山中学校・高等学校"
       },
@@ -386,6 +414,7 @@
          "school_area" : "岡山学区",
          "senior_high_school_code" : "33101F",
          "short_name" : "岡山朝日高校",
+         "sort_name" : "おかやまけんりつおかやまあさひこうとうかつこう",
          "url" : "http://www.asahi.okayama-c.ed.jp/asahi.htm"
       },
       "岡山県立岡山東商業高等学校" : {
@@ -395,6 +424,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33108C",
          "short_name" : "岡山東商業高校",
+         "sort_name" : "おかやまけんりつおかやまひかししようきようこうとうかつこう",
          "url" : "http://www.higasho.okayama-c.ed.jp/"
       },
       "岡山県立岡山芳泉高等学校" : {
@@ -403,6 +433,7 @@
          "owner_type" : "県立",
          "school_area" : "岡山学区",
          "short_name" : "岡山芳泉高校",
+         "sort_name" : "おかやまけんりつおかやまほうせんこうとうかつこう",
          "url" : "http://www.hosen.okayama-c.ed.jp/"
       },
       "岡山県立弓削高等学校" : {
@@ -411,6 +442,7 @@
          "owner_type" : "県立",
          "school_area" : "全県学区",
          "short_name" : "弓削高校",
+         "sort_name" : "おかやまけんりつゆけこうとうかつこう",
          "url" : "http://www.yuge.okayama-c.ed.jp/yuge.htm"
       },
       "岡山県立新見高等学校" : {
@@ -420,6 +452,7 @@
          "owner_type" : "県立",
          "school_area" : "備北学区",
          "short_name" : "新見高校",
+         "sort_name" : "おかやまけんりつにいみこうとうかつこう",
          "url" : "http://www.niimi.okayama-c.ed.jp/niimi.htm"
       },
       "岡山県立新見高等学校北校地" : {
@@ -434,6 +467,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33107E",
          "short_name" : "東岡山工業高校",
+         "sort_name" : "おかやまけんりつひかしおかやまこうきようこうとうかつこう",
          "url" : "http://www.toko.okayama-c.ed.jp/index.htm"
       },
       "岡山県立林野高等学校" : {
@@ -443,6 +477,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33160A",
          "short_name" : "林野高校",
+         "sort_name" : "おかやまけんりつはやしのこうとうかつこう",
          "url" : "http://www.hayasino.okayama-c.ed.jp/"
       },
       "岡山県立水島工業高等学校" : {
@@ -453,6 +488,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33115F",
          "short_name" : "水島工業高校",
+         "sort_name" : "おかやまけんりつみすしまこうきよう",
          "url" : "http://www.mizuko.okayama-c.ed.jp/"
       },
       "岡山県立津山商業高等学校" : {
@@ -463,6 +499,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33119J",
          "short_name" : "津山商業高校",
+         "sort_name" : "つやましようきよう",
          "url" : "http://www.tusho.okayama-c.ed.jp/"
       },
       "岡山県立津山工業高等学校" : {
@@ -473,6 +510,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33118A",
          "short_name" : "津山工業高校",
+         "sort_name" : "つやまこうきようこうとうかつこう",
          "url" : "http://www.tsukou.okayama-c.ed.jp/"
       },
       "岡山県立津山東高等学校" : {
@@ -483,6 +521,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33120B",
          "short_name" : "津山東高校",
+         "sort_name" : "おかやまけんりつつやまひかし",
          "url" : "http://www.tuhigasi.okayama-c.ed.jp/"
       },
       "岡山県立津山高等学校" : {
@@ -492,6 +531,7 @@
          "school_area" : "美作学区",
          "senior_high_school_code" : "33117B",
          "short_name" : "津山高校",
+         "sort_name" : "つやまこうとうかつこう",
          "url" : "http://www.tuyama.okayama-c.ed.jp/"
       },
       "岡山県立瀬戸南高等学校" : {
@@ -500,6 +540,7 @@
          "owner_type" : "県立",
          "school_area" : "全県学区",
          "short_name" : "瀬戸南高校",
+         "sort_name" : "おかやまけんりつせとみなみこうとうかつこう",
          "url" : "http://www.setomina.okayama-c.ed.jp/"
       },
       "岡山県立瀬戸高等学校" : {
@@ -509,6 +550,7 @@
          "school_area" : "東備学区",
          "senior_high_school_code" : "33139C",
          "short_name" : "瀬戸高校",
+         "sort_name" : "おかやまけんりつせとこうとうかつこう",
          "url" : "http://www.seto.okayama-c.ed.jp/"
       },
       "岡山県立烏城高等学校" : {
@@ -518,6 +560,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33102D",
          "short_name" : "烏城高校",
+         "sort_name" : "うしよう",
          "url" : "http://www.ujo.okayama-c.ed.jp/"
       },
       "岡山県立玉島商業高等学校" : {
@@ -527,6 +570,7 @@
          "owner_type" : "県立",
          "school_area" : "全県学区",
          "short_name" : "玉島商業高校",
+         "sort_name" : "おかやまけんりつたましましようきよう",
          "url" : "http://www.tamasho.okayama-c.ed.jp/"
       },
       "岡山県立玉島高等学校" : {
@@ -536,6 +580,7 @@
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
          "short_name" : "玉島高校",
+         "sort_name" : "たましま",
          "url" : "http://www.tamasima.okayama-c.ed.jp/"
       },
       "岡山県立玉野光南高等学校" : {
@@ -546,6 +591,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33184J",
          "short_name" : "玉野光南高校",
+         "sort_name" : "おかやまけんりつたまのこうなん",
          "url" : "http://www.konan.okayama-c.ed.jp/"
       },
       "岡山県立玉野高等学校" : {
@@ -574,6 +620,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33128H",
          "short_name" : "笠岡商業高校",
+         "sort_name" : "おかやまけんりつかさおかしようきようこうとうかつこう",
          "url" : "http://www.kasasho.okayama-c.ed.jp/"
       },
       "岡山県立笠岡工業高等学校" : {
@@ -583,6 +630,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33127K",
          "short_name" : "笠岡工業高校",
+         "sort_name" : "おかやまけんりつかさおかこうきようこうとうかつこう",
          "url" : "http://www.kasako.okayama-c.ed.jp/"
       },
       "岡山県立笠岡高等学校" : {
@@ -591,6 +639,7 @@
          "owner_type" : "県立",
          "school_area" : "西備学区",
          "short_name" : "笠岡高校",
+         "sort_name" : "おかやまけんりつかさおか",
          "url" : "http://www.kasaoka.okayama-c.ed.jp/kasaoka.htm"
       },
       "岡山県立総社南高等学校" : {
@@ -600,6 +649,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33186E",
          "short_name" : "総社南高校",
+         "sort_name" : "そうしやみなみこうとうかつこう",
          "url" : "http://www.sojam.okayama-c.ed.jp/"
       },
       "岡山県立総社高等学校" : {
@@ -610,6 +660,7 @@
          "school_area" : "倉敷学区",
          "senior_high_school_code" : "33132F",
          "short_name" : "総社高校",
+         "sort_name" : "そうしやこうとうかつこう",
          "url" : "http://www.soja.okayama-c.ed.jp/"
       },
       "岡山県立興陽高等学校" : {
@@ -619,6 +670,7 @@
          "school_area" : "全県学区",
          "senior_high_school_code" : "33145H",
          "short_name" : "興陽高校",
+         "sort_name" : "おかやまけんりつこうようこうとうかつこう",
          "url" : "http://www.koyohigh.okayama-c.ed.jp/"
       },
       "岡山県立落合高等学校" : {
@@ -645,6 +697,7 @@
          "school_area" : "岡山学区",
          "senior_high_school_code" : "33129F",
          "short_name" : "西大寺高校",
+         "sort_name" : "おかやまけんりつさいたいしこうとうかつこう",
          "url" : "http://www.saidaizi.okayama-c.ed.jp/saidai.htm"
       },
       "岡山県立邑久高等学校" : {
@@ -658,6 +711,7 @@
          "owner_type" : "県立",
          "school_area" : "全県学区",
          "short_name" : "高松農業高校",
+         "sort_name" : "おかやまけんりつたかまつのうきようこうとうかつこう",
          "url" : "http://www.takano.okayama-c.ed.jp/index1.htm"
       },
       "岡山県立高梁城南高等学校" : {
@@ -694,6 +748,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33510A",
          "short_name" : "岡山県美作高校",
+         "sort_name" : "おかやまけんみまさか",
          "url" : "http://www.mimasaka.ed.jp/"
       },
       "岡山県高梁日新高等学校" : {
@@ -702,6 +757,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33516K",
          "short_name" : "岡山県高梁日新高校",
+         "sort_name" : "たかはしにつしん",
          "url" : "http://www.takahashinisshin.ed.jp/index.html"
       },
       "岡山高等学校" : {
@@ -710,6 +766,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33523B",
          "short_name" : "岡山高校",
+         "sort_name" : "おかやま",
          "url" : "http://www.okayama-h.ed.jp/",
          "wikipedia_name" : "岡山中学校・高等学校"
       },
@@ -719,6 +776,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33513E",
          "short_name" : "岡山龍谷高校",
+         "sort_name" : "おかやまりゆうこく",
          "url" : "http://ok-ryukoku.ed.jp/index.html"
       },
       "川崎医科大学附属高等学校" : {
@@ -728,6 +786,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33520H",
          "short_name" : "川崎医科大学附属高校",
+         "sort_name" : "かわさきたいかくふそくこうとうかつこう",
          "url" : "http://www.kawasaki-m.ac.jp/highschool/"
       },
       "明誠学院高等学校" : {
@@ -736,6 +795,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33503H",
          "short_name" : "明誠学院高校",
+         "sort_name" : "めいせいかくいんこうとうかつこう",
          "url" : "http://www.meiseigakuin.ac.jp/"
       },
       "朝日塾高等学校" : {
@@ -744,6 +804,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33525J",
          "short_name" : "朝日塾高校",
+         "sort_name" : "あさひしゆく",
          "url" : "http://www.asahijuku.com/index.php",
          "wikipedia_name" : "朝日塾中学高等学校"
       },
@@ -753,6 +814,7 @@
          "location_zipcode" : "701-0195",
          "owner_type" : "私立",
          "short_name" : "清心女子高校",
+         "sort_name" : "せいしんしよし",
          "url" : "http://www.nd-seishin.ac.jp/",
          "wikipedia_name" : "清心中学校・清心女子高等学校"
       },
@@ -761,6 +823,7 @@
          "location_zipcode" : "706-0021",
          "owner_type" : "市立",
          "short_name" : "玉野備南高校",
+         "sort_name" : "たまのしりつたまのひなん",
          "url" : "http://www.binan.ed.jp/"
       },
       "玉野市立玉野商業高等学校" : {
@@ -769,6 +832,7 @@
          "location_zipcode" : "706-0012",
          "owner_type" : "市立",
          "short_name" : "玉野商業高校",
+         "sort_name" : "たまのしりつたまのしようきよう",
          "url" : "http://www.tamanosho.ed.jp/"
       },
       "興譲館高等学校" : {
@@ -777,6 +841,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33515A",
          "short_name" : "興譲館高校",
+         "sort_name" : "こうしようかん",
          "url" : "http://www.kojokan-h.ed.jp/"
       },
       "金光学園高等学校" : {
@@ -785,6 +850,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33518F",
          "short_name" : "金光学園高校",
+         "sort_name" : "こんこうかくえん",
          "url" : "http://www.konkougakuen.net/",
          "wikipedia_name" : "金光学園中学校・高等学校"
       },
@@ -794,6 +860,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "33506B",
          "short_name" : "関西高校",
+         "sort_name" : "かんせいこうとうかつこう",
          "url" : "http://www.kanzei.ac.jp/"
       },
       "高梁市立宇治高等学校" : {

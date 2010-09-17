@@ -2,21 +2,26 @@
    "high_schools" : {
       "愛媛県立今治東中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "今治東中等教育学校"
+         "short_name" : "今治東中等教育学校",
+         "sort_name" : "いまはりひかし"
       },
       "愛媛県立宇和島南中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "宇和島南中等教育学校"
+         "short_name" : "宇和島南中等教育学校",
+         "sort_name" : "うわしまみなみちゆうとうきよういく"
       },
       "愛媛県立松山西中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "松山西中等教育学校"
+         "short_name" : "松山西中等教育学校",
+         "sort_name" : "まつやまにしちゆうとうきよういくかつこう"
       },
       "新田青雲中等教育学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "につたせいうん"
       },
       "済美平成中等教育学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "さいひへいせい"
       }
    },
    "senior_high_schools" : {
@@ -25,6 +30,7 @@
          "location_zipcode" : "794-0054",
          "owner_type" : "私立",
          "short_name" : "今治明徳高校",
+         "sort_name" : "いまはりめいとくこうとうかつこう",
          "url" : "http://ns.ima-meitoku.ed.jp/meitoku/"
       },
       "今治明徳高等学校矢田分校" : {
@@ -36,6 +42,7 @@
          "location_zipcode" : "794-0055",
          "owner_type" : "私立",
          "short_name" : "今治精華高校",
+         "sort_name" : "いまはりせいか",
          "url" : "http://www.imabariseika.ac.jp/"
       },
       "帝京冨士高等学校" : {
@@ -43,6 +50,7 @@
          "location_zipcode" : "795-0011",
          "owner_type" : "私立",
          "short_name" : "帝京冨士高校",
+         "sort_name" : "ていきようとみす",
          "url" : "http://www.tomisu.ac.jp/",
          "wikipedia_name" : "帝京冨士中学校・高等学校"
       },
@@ -52,6 +60,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38510H",
          "short_name" : "帝京第五高校",
+         "sort_name" : "ていきようたいこ",
          "url" : "http://www.teikyo5-h.ed.jp/"
       },
       "愛光高等学校" : {
@@ -61,6 +70,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38505A",
          "short_name" : "愛光高校",
+         "sort_name" : "あいこうかくえん",
          "url" : "http://www.aiko.ed.jp/index.shtml",
          "wikipedia_name" : "愛光中学校・高等学校"
       },
@@ -71,6 +81,7 @@
          "school_area" : "全国",
          "senior_high_school_code" : "38001G",
          "short_name" : "愛媛大学附属高校",
+         "sort_name" : "えひめたいかくふそくこうとう",
          "url" : "http://www.hi.ehime-u.ac.jp/"
       },
       "愛媛県立三島高等学校" : {
@@ -98,6 +109,7 @@
          "location_zipcode" : "798-1115",
          "owner_type" : "県立",
          "short_name" : "三間高校",
+         "sort_name" : "えひめけんりつみま",
          "url" : "http://mima-h.esnet.ed.jp/"
       },
       "愛媛県立上浮穴高等学校" : {
@@ -106,6 +118,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38129C",
          "short_name" : "上浮穴高校",
+         "sort_name" : "かみうけな",
          "url" : "http://kamiukena-h.esnet.ed.jp/cms/"
       },
       "愛媛県立中山高等学校" : {
@@ -131,6 +144,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38115C",
          "short_name" : "今治北高校",
+         "sort_name" : "いまはりきた",
          "url" : "http://imabarikita-h.esnet.ed.jp/"
       },
       "愛媛県立今治北高等学校大三島分校" : {
@@ -143,6 +157,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38114E",
          "short_name" : "今治南高校",
+         "sort_name" : "いまはりみなみこうとうかつこう",
          "url" : "http://www.e-minami.ed.jp/"
       },
       "愛媛県立今治工業高等学校" : {
@@ -151,6 +166,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38116A",
          "short_name" : "今治工業高校",
+         "sort_name" : "いまはりこうきよう",
          "url" : "http://imabari-th.esnet.ed.jp/"
       },
       "愛媛県立今治西高等学校" : {
@@ -159,6 +175,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38113G",
          "short_name" : "今治西高校",
+         "sort_name" : "えひめけんりついまはりにし",
          "url" : "http://imabarinishi-h.esnet.ed.jp/"
       },
       "愛媛県立伊予農業高等学校" : {
@@ -199,6 +216,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38137D",
          "short_name" : "八幡浜高校",
+         "sort_name" : "やわたはまこうとうかつこう",
          "url" : "http://yawatahama-h.esnet.ed.jp/"
       },
       "愛媛県立内子高等学校" : {
@@ -216,11 +234,13 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38149H",
          "short_name" : "北宇和高校",
+         "sort_name" : "きたうわ",
          "url" : "http://kitauwa-h.esnet.ed.jp/"
       },
       "愛媛県立北宇和高等学校日吉分校" : {
          "owner_type" : "県立",
-         "short_name" : "北宇和高校日吉分校"
+         "short_name" : "北宇和高校日吉分校",
+         "sort_name" : "きたうわこうとうかつこうひよしふんこう"
       },
       "愛媛県立北条高等学校" : {
          "location" : "愛媛県松山市北条辻600-1",
@@ -229,6 +249,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38121H",
          "short_name" : "北条高校",
+         "sort_name" : "ほうしよう",
          "url" : "http://ehm-hojo-h.esnet.ed.jp/"
       },
       "愛媛県立南宇和高等学校" : {
@@ -236,6 +257,7 @@
          "location_zipcode" : "798-4192",
          "owner_type" : "県立",
          "short_name" : "南宇和高校",
+         "sort_name" : "えひめけんりつみなみうわこうとうかつこう",
          "url" : "http://minamiuwa-h.esnet.ed.jp/"
       },
       "愛媛県立吉田高等学校" : {
@@ -251,6 +273,7 @@
          "location_zipcode" : "799-0701",
          "owner_type" : "県立",
          "short_name" : "土居高校",
+         "sort_name" : "といこうとうかつこう",
          "url" : "http://doi-h.esnet.ed.jp/index.php"
       },
       "愛媛県立大洲農業高等学校" : {
@@ -276,7 +299,8 @@
       },
       "愛媛県立宇和島南高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "宇和島南高校"
+         "short_name" : "宇和島南高校",
+         "sort_name" : "うわしまみなみ"
       },
       "愛媛県立宇和島東高等学校" : {
          "location" : "愛媛県宇和島市文京町1-1",
@@ -284,6 +308,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38144G",
          "short_name" : "宇和島東高校",
+         "sort_name" : "うわしまひかし",
          "url" : "http://uwajimahigashi-h.esnet.ed.jp/"
       },
       "愛媛県立宇和島水産高等学校" : {
@@ -300,6 +325,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38142A",
          "short_name" : "宇和高校",
+         "sort_name" : "うわ",
          "url" : "http://uwa-h.esnet.ed.jp/"
       },
       "愛媛県立小松高等学校" : {
@@ -315,6 +341,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38130G",
          "short_name" : "小田高校",
+         "sort_name" : "えひめけんりつおた",
          "url" : "http://oda-h.esnet.ed.jp/"
       },
       "愛媛県立川之江高等学校" : {
@@ -324,6 +351,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38101C",
          "short_name" : "川之江高校",
+         "sort_name" : "かわのえこうとうかつこう",
          "url" : "http://kawanoe-h.esnet.ed.jp/"
       },
       "愛媛県立川之石高等学校" : {
@@ -345,7 +373,8 @@
       "愛媛県立新居浜商業高等学校" : {
          "location_wikipedia_latlon" : "|33|56|45.3|N|133|17|53.7|E|",
          "owner_type" : "県立",
-         "short_name" : "新居浜商業高校"
+         "short_name" : "新居浜商業高校",
+         "sort_name" : "にいはましようきよう"
       },
       "愛媛県立新居浜工業高等学校" : {
          "owner_type" : "県立",
@@ -364,6 +393,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38105F",
          "short_name" : "新居浜西高校",
+         "sort_name" : "にいはまにしこうとうかつこう",
          "url" : "http://niihamanishi-h.esnet.ed.jp/"
       },
       "愛媛県立東予高等学校" : {
@@ -384,6 +414,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38155B",
          "short_name" : "松山中央高校",
+         "sort_name" : "まつやまちゆうおう",
          "url" : "http://matsuyamachuo-h.esnet.ed.jp/index.html"
       },
       "愛媛県立松山北高等学校" : {
@@ -393,6 +424,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38125A",
          "short_name" : "松山北高校",
+         "sort_name" : "まつやまきた",
          "url" : "http://matsuyamakita-h.esnet.ed.jp/"
       },
       "愛媛県立松山北高等学校中島分校" : {
@@ -402,10 +434,11 @@
       "愛媛県立松山南高等学校" : {
          "location" : "愛媛県松山市末広町11-1",
          "location_wikipedia_latlon" : "|33|50|0.5|N|132|45|46.5|E|",
-         "location_zipcode" : "790－0023",
+         "location_zipcode" : "790",
          "owner_type" : "県立",
          "senior_high_school_code" : "38124B",
          "short_name" : "松山南高校",
+         "sort_name" : "まつやまみなみ",
          "url" : "http://matsuyamaminami-h.esnet.ed.jp/"
       },
       "愛媛県立松山南高等学校砥部分校" : {
@@ -422,6 +455,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38127G",
          "short_name" : "松山商業高校",
+         "sort_name" : "まつやましようきよう",
          "url" : "http://matsuyama-ch.esnet.ed.jp/"
       },
       "愛媛県立松山工業高等学校" : {
@@ -430,6 +464,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38126J",
          "short_name" : "松山工業高校",
+         "sort_name" : "まつやまこうきよう",
          "url" : "http://matsuyama-th.esnet.ed.jp/"
       },
       "愛媛県立松山東高等学校" : {
@@ -439,6 +474,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38122F",
          "short_name" : "松山東高校",
+         "sort_name" : "まつやまひかし",
          "url" : "http://matsuyamahigashi-h.esnet.ed.jp/cms/"
       },
       "愛媛県立津島高等学校" : {
@@ -459,6 +495,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "38108A",
          "short_name" : "西条高校",
+         "sort_name" : "さいしようこうとうかつこう",
          "url" : "http://saijo-h.esnet.ed.jp/"
       },
       "愛媛県立野村高等学校" : {
@@ -484,6 +521,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38503E",
          "short_name" : "新田高校",
+         "sort_name" : "につたこうとうかつこう",
          "url" : "http://www.nitta.ac.jp/"
       },
       "日本ウェルネス高等学校" : {
@@ -492,6 +530,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38514A",
          "short_name" : "日本ウェルネス高校",
+         "sort_name" : "にほんうえるねす",
          "url" : "http://www.taiken.ac.jp/wellness/"
       },
       "未来高等学校" : {
@@ -500,11 +539,13 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38515J",
          "short_name" : "未来高校",
+         "sort_name" : "みらい",
          "url" : "http://www.kbc-ehime.ac.jp/mirai-hs/"
       },
       "松山城南高等学校" : {
          "owner_type" : "私立",
-         "short_name" : "松山城南高校"
+         "short_name" : "松山城南高校",
+         "sort_name" : "まつやましようなん"
       },
       "松山東雲高等学校" : {
          "location" : "愛媛県松山市大街道三丁目2番24号",
@@ -512,6 +553,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38507H",
          "short_name" : "松山東雲高校",
+         "sort_name" : "まつやましののめ",
          "url" : "http://www.shinonome.ac.jp/highschool/index.php",
          "wikipedia_name" : "松山東雲中学校・高等学校"
       },
@@ -521,6 +563,7 @@
          "location_zipcode" : "791-8016",
          "owner_type" : "私立",
          "short_name" : "松山聖陵高校",
+         "sort_name" : "まつやませいりよう",
          "url" : "http://www.matsuyamaseiryo-h.ed.jp/"
       },
       "済美高等学校" : {
@@ -529,6 +572,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38509D",
          "short_name" : "済美高校",
+         "sort_name" : "さいひ",
          "url" : "http://saibi.ac.jp/",
          "wikipedia_name" : "済美高等学校 (愛媛県)"
       },
@@ -539,6 +583,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "38508F",
          "short_name" : "聖カタリナ女子高校",
+         "sort_name" : "せいかたりなしよし",
          "url" : "http://www.catalina.ed.jp/"
       }
    }

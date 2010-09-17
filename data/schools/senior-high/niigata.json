@@ -6,6 +6,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "15200F",
          "short_name" : "高志中等教育学校",
+         "sort_name" : "にいかたしりつこうしこうとうかつこう",
          "url" : "http://www.niigata-inet.or.jp/kohshi-h/",
          "wikipedia_name" : "新潟市立高志高等学校"
       },
@@ -14,6 +15,7 @@
          "location_zipcode" : "952-0005",
          "owner_type" : "県立",
          "short_name" : "佐渡中等教育学校",
+         "sort_name" : "にいかたけんりつさとちゆうとうきょういく",
          "url" : "http://www.sado-ss.nein.ed.jp/"
       },
       "新潟県立村上中等教育学校" : {
@@ -21,6 +23,7 @@
          "location_zipcode" : "958-0031",
          "owner_type" : "県立",
          "short_name" : "村上中等教育学校",
+         "sort_name" : "むらかみちゆうとうきよういくかつこう",
          "url" : "http://www.murakami-ss.nein.ed.jp/"
       },
       "新潟県立柏崎翔洋中等教育学校" : {
@@ -30,6 +33,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15211A",
          "short_name" : "柏崎翔洋中等教育学校",
+         "sort_name" : "かしわさきしようよう",
          "url" : "http://www.kashiwazakishoyo-ss.nein.ed.jp/"
       },
       "新潟県立津南中等教育学校" : {
@@ -37,17 +41,20 @@
          "location_zipcode" : "949-8201",
          "owner_type" : "県立",
          "short_name" : "津南中等教育学校",
+         "sort_name" : "にいかたけんりつつなん",
          "url" : "http://www.tsunan-ss.nein.ed.jp/"
       },
       "新潟県立燕中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "燕中等教育学校"
+         "short_name" : "燕中等教育学校",
+         "sort_name" : "にいかたけんりつつはめちゆうとうきよういくかつこう"
       },
       "新潟県立直江津中等教育学校" : {
          "location" : "新潟県上越市西本町4-20-1",
          "location_zipcode" : "942-8505",
          "owner_type" : "県立",
          "short_name" : "直江津中等教育学校",
+         "sort_name" : "にいかたけんりつなおえつちゆうとう",
          "url" : "http://www.naoetsu-jh.nein.ed.jp/index.htm"
       }
    },
@@ -60,6 +67,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15507B",
          "short_name" : "上越高校",
+         "sort_name" : "しようえつ",
          "url" : "http://www.joetsu-hs.jorne.ed.jp/"
       },
       "中越高等学校" : {
@@ -69,12 +77,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15504H",
          "short_name" : "中越高校",
+         "sort_name" : "ちゆうえつこうとうかつこう",
          "url" : "http://www.chuetsu-h.ed.jp/"
       },
       "加茂暁星高等学校" : {
          "location_area" : "加茂市",
          "owner_type" : "私立",
-         "short_name" : "加茂暁星高校"
+         "short_name" : "加茂暁星高校",
+         "sort_name" : "かもきようせい"
       },
       "北越高等学校" : {
          "location" : "新潟県新潟市中央区米山5-12-1",
@@ -84,6 +94,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15503K",
          "short_name" : "北越高校",
+         "sort_name" : "ほくえつこうとうかつこう",
          "url" : "http://www.hokuetsu.ed.jp/"
       },
       "帝京長岡高等学校" : {
@@ -93,6 +104,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15505F",
          "short_name" : "帝京長岡高校",
+         "sort_name" : "ていきようなかおか",
          "url" : "http://www.teikyo-nagaoka.ed.jp/",
          "wikipedia_name" : "帝京長岡中学校・高等学校"
       },
@@ -103,6 +115,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15512J",
          "short_name" : "敬和学園高校",
+         "sort_name" : "けいわかくえん",
          "url" : "http://www.keiwa-h.ed.jp/"
       },
       "新潟市立万代高等学校" : {
@@ -111,6 +124,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "15193K",
          "short_name" : "万代高校",
+         "sort_name" : "にいかたしりつはんたいこうとうかつこう",
          "url" : "http://www.bandai-h.city-niigata.ed.jp/"
       },
       "新潟市立明鏡高等学校" : {
@@ -119,6 +133,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "15201D",
          "short_name" : "明鏡高校",
+         "sort_name" : "にいかたしりつめいきよう",
          "url" : "http://www.niigata-meikyo.city-niigata.ed.jp/"
       },
       "新潟市立高志高等学校" : {
@@ -127,6 +142,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "15200F",
          "short_name" : "高志高校",
+         "sort_name" : "にいかたしりつこうしこうとうかつこう",
          "url" : "http://www.niigata-inet.or.jp/kohshi-h/"
       },
       "新潟明訓高等学校" : {
@@ -136,6 +152,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15501C",
          "short_name" : "新潟明訓高校",
+         "sort_name" : "にいかためいくん",
          "url" : "http://www.niigata-meikun.ed.jp/",
          "wikipedia_name" : "新潟明訓中学校・高等学校"
       },
@@ -146,6 +163,7 @@
          "location_zipcode" : "950-2101",
          "owner_type" : "私立",
          "short_name" : "新潟清心女子高校",
+         "sort_name" : "にいかたせいしんしよし",
          "url" : "http://www.seishin.ed.jp/",
          "wikipedia_name" : "新潟清心女子中学校・高等学校"
       },
@@ -162,6 +180,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15147F",
          "short_name" : "三条商業高校",
+         "sort_name" : "さんしようしようきよう",
          "url" : "http://www.sanjous-h.nein.ed.jp/"
       },
       "新潟県立三条東高等学校" : {
@@ -181,6 +200,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15144A",
          "short_name" : "三条高校",
+         "sort_name" : "にいかたけんりつさんしよう",
          "url" : "http://www.sanjou-h.nein.ed.jp/"
       },
       "新潟県立上越総合技術高等学校" : {
@@ -190,6 +210,7 @@
          "location_zipcode" : "943-8503",
          "owner_type" : "県立",
          "short_name" : "上越総合技術高校",
+         "sort_name" : "しようえつそうこうきしゆつ",
          "url" : "http://www.jouetsusougi-h.nein.ed.jp/"
       },
       "新潟県立両津高等学校" : {
@@ -199,6 +220,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15187E",
          "short_name" : "両津高校",
+         "sort_name" : "にいかたけんりつりようつこうとうかつこう",
          "url" : "http://www.ryoutsu-h.nein.ed.jp/"
       },
       "新潟県立中条高等学校" : {
@@ -218,6 +240,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15217A",
          "short_name" : "久比岐高校",
+         "sort_name" : "くひき",
          "url" : "http://www.kubiki-h.nein.ed.jp/"
       },
       "新潟県立五泉高等学校" : {
@@ -227,6 +250,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15132H",
          "short_name" : "五泉高校",
+         "sort_name" : "こせんこうとうかつこう",
          "url" : "http://www.gosen-h.nein.ed.jp/"
       },
       "新潟県立佐渡総合高等学校" : {
@@ -236,6 +260,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15189A",
          "short_name" : "佐渡総合高校",
+         "sort_name" : "さとそうこう",
          "url" : "http://www.sadosou-h.nein.ed.jp/"
       },
       "新潟県立佐渡高等学校" : {
@@ -245,6 +270,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15184A",
          "short_name" : "佐渡高校",
+         "sort_name" : "さとこうとうかつこう",
          "url" : "http://www.sado-h.nein.ed.jp/"
       },
       "新潟県立八海高等学校" : {
@@ -263,6 +289,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15155G",
          "short_name" : "六日町高校",
+         "sort_name" : "にいかたけんりつむいかまち",
          "url" : "http://www.muikamachi-h.nein.ed.jp/"
       },
       "新潟県立出雲崎高等学校" : {
@@ -272,6 +299,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15167A",
          "short_name" : "出雲崎高校",
+         "sort_name" : "いすもさき",
          "url" : "http://www.izumozaki-h.nein.ed.jp/"
       },
       "新潟県立分水高等学校" : {
@@ -289,6 +317,7 @@
          "location_zipcode" : "959-1325",
          "owner_type" : "県立",
          "short_name" : "加茂農林高校",
+         "sort_name" : "かものうりん",
          "url" : "http://www.kamonorin-h.nein.ed.jp/"
       },
       "新潟県立加茂高等学校" : {
@@ -298,6 +327,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15149B",
          "short_name" : "加茂高校",
+         "sort_name" : "にいかたけんりつかもこうとうかつこう",
          "url" : "http://www.kamo-h.nein.ed.jp/"
       },
       "新潟県立十日町総合高等学校" : {
@@ -307,6 +337,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15159K",
          "short_name" : "十日町総合高校",
+         "sort_name" : "とおかまちそうこう",
          "url" : "http://www.tookamachisou-h.nein.ed.jp/"
       },
       "新潟県立十日町高等学校" : {
@@ -316,6 +347,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15158A",
          "short_name" : "十日町高校",
+         "sort_name" : "とおかまちこうとうかつこう",
          "url" : "http://www.tookamachi-h.nein.ed.jp/"
       },
       "新潟県立吉田高等学校" : {
@@ -334,6 +366,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15209K",
          "short_name" : "国際情報高校",
+         "sort_name" : "にいかたけんりつこくさいしようほう",
          "url" : "http://www.kokusaijouhou-h.nein.ed.jp/"
       },
       "新潟県立堀之内高等学校" : {
@@ -343,6 +376,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15153A",
          "short_name" : "堀之内高校",
+         "sort_name" : "ほりのうち",
          "url" : "http://www.horinouchi-h.nein.ed.jp/"
       },
       "新潟県立塩沢商工高等学校" : {
@@ -352,6 +386,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15157C",
          "short_name" : "塩沢商工高校",
+         "sort_name" : "しおさわしようこう",
          "url" : "http://www.shiozawasyoko-h.nein.ed.jp/"
       },
       "新潟県立安塚高等学校" : {
@@ -362,6 +397,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15180H",
          "short_name" : "安塚高校",
+         "sort_name" : "やすつか",
          "url" : "http://www.yasuzuka-h.nein.ed.jp/"
       },
       "新潟県立安塚高等学校松之山分校" : {
@@ -371,6 +407,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15180H",
          "short_name" : "安塚高校松之山分校",
+         "sort_name" : "やすつかまつのやま",
          "url" : "http://www.yasuzkmatsu-h.nein.ed.jp/"
       },
       "新潟県立小出高等学校" : {
@@ -399,6 +436,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15151D",
          "short_name" : "小千谷高校",
+         "sort_name" : "おちやこうとうかつこう",
          "url" : "http://www.ojiya-h.nein.ed.jp//"
       },
       "新潟県立川西高等学校" : {
@@ -408,6 +446,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15192A",
          "short_name" : "川西高校",
+         "sort_name" : "かわにしこう",
          "url" : "http://www.kawanishi-h.nein.ed.jp/index.html"
       },
       "新潟県立巻総合高等学校" : {
@@ -417,6 +456,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15113A",
          "short_name" : "巻総合高校",
+         "sort_name" : "まきそうこう",
          "url" : "http://www.makisou-h.nein.ed.jp/"
       },
       "新潟県立巻高等学校" : {
@@ -435,6 +475,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15174C",
          "short_name" : "新井高校",
+         "sort_name" : "あらいこうとうかつこう",
          "url" : "http://www.arai-h.nein.ed.jp/"
       },
       "新潟県立新津南高等学校" : {
@@ -462,6 +503,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15129H",
          "short_name" : "新津高校",
+         "sort_name" : "にいかたけんりつにいつこうとうかつこう",
          "url" : "http://www.niitsu-h.nein.ed.jp/index.html"
       },
       "新潟県立新潟中央高等学校" : {
@@ -471,6 +513,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15102F",
          "short_name" : "新潟中央高校",
+         "sort_name" : "にいかたけんりつにいかたちゆうおう",
          "url" : "http://www.niigatachuo-h.nein.ed.jp/"
       },
       "新潟県立新潟北高等学校" : {
@@ -490,6 +533,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15103D",
          "short_name" : "新潟南高校",
+         "sort_name" : "にいかたけんりつにいかたみなみ",
          "url" : "http://www.niigatami-h.nein.ed.jp/"
       },
       "新潟県立新潟向陽高等学校" : {
@@ -500,6 +544,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15110G",
          "short_name" : "新潟向陽高校",
+         "sort_name" : "にいかたこうよう",
          "url" : "http://www.niigatakoyo-h.nein.ed.jp/"
       },
       "新潟県立新潟商業高等学校" : {
@@ -509,6 +554,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15109C",
          "short_name" : "新潟商業高校",
+         "sort_name" : "にいかたしようきよう",
          "url" : "http://www.niigata-ch.ed.jp/"
       },
       "新潟県立新潟工業高等学校" : {
@@ -518,6 +564,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15107G",
          "short_name" : "新潟工業高校",
+         "sort_name" : "にいかたこうきよう",
          "url" : "http://www.niigatak-h.nein.ed.jp/"
       },
       "新潟県立新潟東工業高等学校" : {
@@ -555,6 +602,7 @@
          "school_area" : "新潟県",
          "senior_high_school_code" : "15146H",
          "short_name" : "新潟県央工業高校",
+         "sort_name" : "にいかたけんおうこうきよう",
          "url" : "http://www.niigatakenohk-h.nein.ed.jp"
       },
       "新潟県立新潟翠江高等学校" : {
@@ -565,6 +613,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15212K",
          "short_name" : "新潟翠江高校",
+         "sort_name" : "にいかたすいこう",
          "url" : "http://www.niigatasuikou-h.nein.ed.jp/"
       },
       "新潟県立新潟西高等学校" : {
@@ -584,6 +633,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15101H",
          "short_name" : "新潟高校",
+         "sort_name" : "にいかたけんりつにいかた",
          "url" : "http://www.niigata-h.nein.ed.jp/"
       },
       "新潟県立新発田南高等学校" : {
@@ -594,6 +644,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15204J",
          "short_name" : "新発田南高校",
+         "sort_name" : "しはたみなみ",
          "url" : "http://www.shibatami-h.nein.ed.jp/"
       },
       "新潟県立新発田南高等学校豊浦分校" : {
@@ -603,6 +654,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15204J",
          "short_name" : "新発田南高校豊浦分校",
+         "sort_name" : "しはたみなみとようら",
          "url" : "http://www.shibatamity-h.nein.ed.jp/"
       },
       "新潟県立新発田商業高等学校" : {
@@ -612,6 +664,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15205G",
          "short_name" : "新発田商業高校",
+         "sort_name" : "しはたしようきよう",
          "url" : "http://www.shibatas-h.nein.ed.jp/"
       },
       "新潟県立新発田農業高等学校" : {
@@ -621,6 +674,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15120D",
          "short_name" : "新発田農業高校",
+         "sort_name" : "にいかたけんりつしはたのうきようこうとうかつこう",
          "url" : "http://www.shibata-ah.ed.jp/"
       },
       "新潟県立新発田高等学校" : {
@@ -630,6 +684,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15118B",
          "short_name" : "新発田高校",
+         "sort_name" : "しはた",
          "url" : "http://www.shibata-h.nein.ed.jp/"
       },
       "新潟県立有恒高等学校" : {
@@ -639,6 +694,7 @@
          "location_zipcode" : "944-0131",
          "owner_type" : "県立",
          "short_name" : "有恒高校",
+         "sort_name" : "ゆうこう",
          "url" : "http://www.yuukou-h.nein.ed.jp/"
       },
       "新潟県立村上桜ヶ丘高等学校" : {
@@ -648,6 +704,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15123J",
          "short_name" : "村上桜ヶ丘高校",
+         "sort_name" : "むらかみさくらかおかこうとうかつこう",
          "url" : "http://www.murakamiskrgk-h.nein.ed.jp/"
       },
       "新潟県立村上高等学校" : {
@@ -657,6 +714,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15122A",
          "short_name" : "村上高校",
+         "sort_name" : "むらかみこうとうかつこう",
          "url" : "http://www.murakami-h.nein.ed.jp/"
       },
       "新潟県立村松高等学校" : {
@@ -685,6 +743,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15165D",
          "short_name" : "柏崎工業高校",
+         "sort_name" : "かしわさきこうきよう",
          "url" : "http://www.kashiwazakik-h.nein.ed.jp/"
       },
       "新潟県立柏崎常盤高等学校" : {
@@ -724,6 +783,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15143C",
          "short_name" : "栃尾高校",
+         "sort_name" : "とちおこうとうかつこう",
          "url" : "http://www.tochio-h.nein.ed.jp/"
       },
       "新潟県立正徳館高等学校" : {
@@ -734,6 +794,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15214F",
          "short_name" : "正徳館高校",
+         "sort_name" : "しようとくかん",
          "url" : "http://www.shotokukan-h.nein.ed.jp/"
       },
       "新潟県立海洋高等学校" : {
@@ -772,6 +833,7 @@
          "location_zipcode" : "942-8505",
          "owner_type" : "県立",
          "short_name" : "直江津高校",
+         "sort_name" : "なおえつこうとうかつこう",
          "url" : "http://www.naoetsu-h.nein.ed.jp/"
       },
       "新潟県立相川高等学校" : {
@@ -787,6 +849,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15182D",
          "short_name" : "糸魚川白嶺高校",
+         "sort_name" : "いといかわはくれい",
          "url" : "http://www.itoigawahakurei-h.nein.ed.jp/"
       },
       "新潟県立糸魚川高等学校" : {
@@ -797,6 +860,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15181F",
          "short_name" : "糸魚川高校",
+         "sort_name" : "いといかわこう",
          "url" : "http://www.itoigawa-h.nein.ed.jp/"
       },
       "新潟県立羽茂高等学校" : {
@@ -811,6 +875,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15206E",
          "short_name" : "荒川高校",
+         "sort_name" : "にいかたけんりつあらかわ",
          "url" : "http://www.arakawa-h.nein.ed.jp/"
       },
       "新潟県立西川竹園高等学校" : {
@@ -820,6 +885,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15116F",
          "short_name" : "西川竹園高校",
+         "sort_name" : "にいかたけんりつにしかわたけその",
          "url" : "http://www.nishikawatzn-h.nein.ed.jp/"
       },
       "新潟県立西新発田高等学校" : {
@@ -856,6 +922,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15207C",
          "short_name" : "長岡向陵高校",
+         "sort_name" : "にいかたけんりつなかおかこうりよう",
          "url" : "http://www.nagaokakoryo-h.nein.ed.jp/"
       },
       "新潟県立長岡商業高等学校" : {
@@ -866,6 +933,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15140J",
          "short_name" : "長岡商業高校",
+         "sort_name" : "なかおかしようきよう",
          "url" : "http://www9.ocn.ne.jp/~chosho/"
       },
       "新潟県立長岡大手高等学校" : {
@@ -876,6 +944,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15136A",
          "short_name" : "長岡大手高校",
+         "sort_name" : "なかおかおおて",
          "url" : "http://www.nagaokaohte-h.nein.ed.jp/"
       },
       "新潟県立長岡工業高等学校" : {
@@ -885,6 +954,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15139E",
          "short_name" : "長岡工業高校",
+         "sort_name" : "なかおかこうきよう",
          "url" : "http://www.nagaokak-h.nein.ed.jp/"
       },
       "新潟県立長岡明徳高等学校" : {
@@ -899,6 +969,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15138G",
          "short_name" : "長岡農業高校",
+         "sort_name" : "なかおかのうきようこうとうかつこう",
          "url" : "http://www.nagaokan-h.nein.ed.jp/"
       },
       "新潟県立長岡高等学校" : {
@@ -909,6 +980,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15135B",
          "short_name" : "長岡高校",
+         "sort_name" : "なかおか",
          "url" : "http://www.nagaoka-h.nein.ed.jp/"
       },
       "新潟県立阿賀野高等学校" : {
@@ -938,6 +1010,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15169G",
          "short_name" : "高田北城高校",
+         "sort_name" : "にいかたけんりつたかたきたしろ",
          "url" : "http://www.takadaktsr-h.nein.ed.jp/"
       },
       "新潟県立高田南城高等学校" : {
@@ -947,6 +1020,7 @@
          "location_zipcode" : "943-0837",
          "owner_type" : "県立",
          "short_name" : "高田南城高校",
+         "sort_name" : "たかたみなみしろ",
          "url" : "http://www.takadammsr-h.nein.ed.jp/"
       },
       "新潟県立高田商業高等学校" : {
@@ -957,6 +1031,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15173E",
          "short_name" : "高田商業高校",
+         "sort_name" : "にいかたけんりつたかたしようきようこうとうかつこう",
          "url" : "http://www.takadas-h.nein.ed.jp/"
       },
       "新潟県立高田農業高等学校" : {
@@ -967,6 +1042,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "15171J",
          "short_name" : "高田農業高校",
+         "sort_name" : "たかたのうきよう",
          "url" : "http://www.jorne.or.jp/~tak-agri/"
       },
       "新潟県立高田高等学校" : {
@@ -978,6 +1054,7 @@
          "school_area" : "新潟県第七",
          "senior_high_school_code" : "15168J",
          "short_name" : "高田高校",
+         "sort_name" : "にいかたけんりつたかた",
          "url" : "http://www.takada-h.nein.ed.jp/index.htm"
       },
       "新潟第一高等学校" : {
@@ -987,6 +1064,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15514E",
          "short_name" : "新潟第一高校",
+         "sort_name" : "にいかたたいいち",
          "url" : "http://www.n-daiichi.ed.jp/",
          "wikipedia_name" : "新潟第一中学校・高等学校"
       },
@@ -997,6 +1075,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15502A",
          "short_name" : "新潟青陵高校",
+         "sort_name" : "にいかたせいりようこうとうかつこう",
          "url" : "http://www.seiryo-high.ed.jp/index.html"
       },
       "新発田中央高等学校" : {
@@ -1012,6 +1091,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15516A",
          "short_name" : "日本文理高校",
+         "sort_name" : "にほんふんり",
          "url" : "http://www.nihonbunri.ed.jp/"
       },
       "日本海聖高等学校" : {
@@ -1021,6 +1101,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15518H",
          "short_name" : "日本海聖高校",
+         "sort_name" : "につほんかいせいこうとうかつこう",
          "url" : "http://www.nipponkaisei.ed.jp/"
       },
       "東京学館新潟高等学校" : {
@@ -1039,6 +1120,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15519F",
          "short_name" : "英智ウィル学院高校",
+         "sort_name" : "えいちういるかくいん",
          "url" : "http://www.eichi.ed.jp/"
       },
       "開志学園高等学校" : {
@@ -1048,6 +1130,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15517K",
          "short_name" : "開志学園高校",
+         "sort_name" : "かいしかくえん",
          "url" : "http://www.kaishi.ed.jp/"
       },
       "関根学園高等学校" : {
@@ -1058,6 +1141,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "15513G",
          "short_name" : "関根学園高校",
+         "sort_name" : "せきねかくえん",
          "url" : "http://www.sekine-hs.jorne.ed.jp/"
       }
    }

@@ -2,7 +2,8 @@
    "high_schools" : {
       "福岡県立輝翔館中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "輝翔館中等教育学校"
+         "short_name" : "輝翔館中等教育学校",
+         "sort_name" : "ふくおかけんりつきしようかん"
       }
    },
    "senior_high_schools" : {
@@ -13,18 +14,13 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "08524D",
          "short_name" : "つくば開成高校",
+         "sort_name" : "つくはかいせいこうとうかつこう",
          "url" : "http://www.t-kaisei.ed.jp/"
       },
       "クラーク記念国際高等学校小倉キャンパス" : {
-         "location" : "北海道深川市納内町3丁目2-40",
          "location_area" : "北九州市",
-         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
-         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
-         "senior_high_school_code" : "01556D",
-         "short_name" : "クラーク記念国際高校小倉キャンパス",
-         "url" : "http://www.clark.ed.jp/",
-         "wikipedia_name" : "クラーク記念国際高等学校"
+         "short_name" : "クラーク記念国際高校小倉キャンパス"
       },
       "クラーク記念国際高等学校福岡キャンパス" : {
          "location_area" : "福岡市",
@@ -34,8 +30,7 @@
       "一ツ葉高等学校小倉キャンパス" : {
          "location_area" : "北九州市",
          "owner_type" : "私立",
-         "short_name" : "一ツ葉高校小倉キャンパス",
-         "wikipedia_name" : "一ツ葉高等学校"
+         "short_name" : "一ツ葉高校小倉キャンパス"
       },
       "一ツ葉高等学校福岡キャンパス" : {
          "location_area" : "福岡市",
@@ -49,6 +44,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40564H",
          "short_name" : "中村学園三陽高校",
+         "sort_name" : "なかむらかくえんさんよう",
          "url" : "http://www.nakamura-sanyo.ed.jp/",
          "wikipedia_name" : "中村学園三陽中学校・高等学校"
       },
@@ -59,6 +55,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40533H",
          "short_name" : "中村学園女子高校",
+         "sort_name" : "なかむらかくえんしよし",
          "url" : "http://nakamura-njh.ed.jp/",
          "wikipedia_name" : "中村学園女子中学校・高等学校"
       },
@@ -68,6 +65,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40547H",
          "short_name" : "久留米信愛女学院高校",
+         "sort_name" : "くるめしんあいしよかくいん",
          "url" : "http://www.kurume-shinai.ac.jp/",
          "wikipedia_name" : "久留米信愛女学院中学校・高等学校"
       },
@@ -77,6 +75,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40548F",
          "short_name" : "久留米大学附設高校",
+         "sort_name" : "くるめたいかくふせつ",
          "url" : "http://www.mii.kurume-u.ac.jp/fusetsu/",
          "wikipedia_name" : "久留米大学附設中学校・高等学校"
       },
@@ -86,11 +85,13 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40551F",
          "short_name" : "久留米学園高校",
+         "sort_name" : "くるめかくえん",
          "url" : "http://www.gakuen.ac.jp/"
       },
       "久留米市立久留米商業高等学校" : {
          "owner_type" : "市立",
-         "short_name" : "久留米商業高校"
+         "short_name" : "久留米商業高校",
+         "sort_name" : "くるめしようきよう"
       },
       "久留米市立南筑高等学校" : {
          "location" : "福岡県久留米市御井町1360-5",
@@ -113,6 +114,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40534F",
          "short_name" : "九州産業大学付属九州産業高校",
+         "sort_name" : "きゆうしゆうさんきようたいかくふそくきゆうしゆうさんきよう",
          "url" : "http://www.kyusanfukyusan-h.ed.jp/"
       },
       "九州産業大学付属九州高等学校" : {
@@ -122,6 +124,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40557E",
          "short_name" : "九州産業大学付属九州高校",
+         "sort_name" : "きゆうしゆうさんきようたいかくふそくきゆうしゆう",
          "url" : "http://www.kyushu-h.jp/"
       },
       "仰星学園高等学校" : {
@@ -130,6 +133,7 @@
          "location_zipcode" : "806-0018",
          "owner_type" : "私立",
          "short_name" : "仰星学園高校",
+         "sort_name" : "きようせいかくえん",
          "url" : "http://www.gyoseigakuen.ne.jp/"
       },
       "八女学院高等学校" : {
@@ -139,6 +143,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40555J",
          "short_name" : "八女学院高校",
+         "sort_name" : "やめかくいん",
          "url" : "http://www.yamegakuin.ac.jp/",
          "wikipedia_name" : "八女学院中学校・高等学校"
       },
@@ -148,6 +153,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "40196A",
          "short_name" : "高校",
+         "sort_name" : "きたきゆうしゆうしりつこうとうかつこう",
          "url" : "http://www.tobata-ch.jp/"
       },
       "博多女子高等学校" : {
@@ -158,6 +164,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40536B",
          "short_name" : "博多女子高校",
+         "sort_name" : "はかたしよし",
          "url" : "http://www.ghakata.ac.jp/",
          "wikipedia_name" : "博多女子中学校・高等学校"
       },
@@ -173,7 +180,8 @@
       "啓知高等学校" : {
          "location_area" : "北九州市",
          "owner_type" : "私立",
-         "short_name" : "啓知高校"
+         "short_name" : "啓知高校",
+         "sort_name" : "けいち"
       },
       "大和青藍高等学校" : {
          "location" : "福岡県直方市日吉町10番12号",
@@ -181,6 +189,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40522B",
          "short_name" : "大和青藍高校",
+         "sort_name" : "やまとせいらん",
          "url" : "http://www.yamato-gakuen.ac.jp/"
       },
       "大牟田高等学校" : {
@@ -188,6 +197,7 @@
          "location_zipcode" : "837-0916",
          "owner_type" : "私立",
          "short_name" : "大牟田高校",
+         "sort_name" : "おおむた",
          "url" : "http://www.ohmuta-j.ed.jp/",
          "wikipedia_name" : "大牟田中学校・高等学校"
       },
@@ -197,6 +207,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40560E",
          "short_name" : "希望が丘高校",
+         "sort_name" : "きほうかおかこうとうかつこう",
          "url" : "http://www.kibou.ed.jp/"
       },
       "常磐高等学校" : {
@@ -207,6 +218,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40508G",
          "short_name" : "常磐高校",
+         "sort_name" : "ときわこうとうかつこう",
          "url" : "http://www.tokiwa-hs.ed.jp/",
          "wikipedia_name" : "常磐高等学校 (福岡県)"
       },
@@ -217,6 +229,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40505B",
          "short_name" : "慶成高校",
+         "sort_name" : "けいせい",
          "url" : "http://www.keisei-h.jp/"
       },
       "折尾愛真高等学校" : {
@@ -226,6 +239,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40502H",
          "short_name" : "折尾愛真高校",
+         "sort_name" : "おりおあいしん",
          "url" : "http://www.orioaishin.ac.jp/",
          "wikipedia_name" : "折尾愛真中学校・高等学校"
       },
@@ -235,6 +249,7 @@
          "location_zipcode" : "800-0035",
          "owner_type" : "私立",
          "short_name" : "敬愛高校",
+         "sort_name" : "けいあい",
          "url" : "http://www.keiai.net/junior/main.htm",
          "wikipedia_name" : "敬愛中学校・高等学校"
       },
@@ -244,6 +259,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40553B",
          "short_name" : "明光学園高校",
+         "sort_name" : "めいこうかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.meiko.ed.jp/",
          "wikipedia_name" : "明光学園中学校・高等学校"
       },
@@ -254,6 +270,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40512E",
          "short_name" : "明治学園高校",
+         "sort_name" : "めいしかくえん",
          "url" : "http://www.meijigakuen.com/sho/",
          "wikipedia_name" : "明治学園小学校・中学校・高等学校"
       },
@@ -265,12 +282,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "01558A",
          "short_name" : "星槎国際高校",
+         "sort_name" : "せいさこくさい",
          "url" : "http://www.seisa.ed.jp/"
       },
       "星琳高等学校" : {
          "location_area" : "北九州市",
          "owner_type" : "私立",
-         "short_name" : "星琳高校"
+         "short_name" : "星琳高校",
+         "sort_name" : "せいりん"
       },
       "杉森高等学校" : {
          "location" : "福岡県柳川市奥州町3番地",
@@ -278,6 +297,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40550H",
          "short_name" : "杉森高校",
+         "sort_name" : "すきもりこうとうかつこう",
          "url" : "http://q-n.co.jp/ccms/sugimori/"
       },
       "東海大学付属第五高等学校" : {
@@ -286,6 +306,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40563K",
          "short_name" : "東海大学付属第五高校",
+         "sort_name" : "とうかいたいかくふそくたい5",
          "url" : "http://www.tokai5.ed.jp/"
       },
       "東福岡高等学校" : {
@@ -296,6 +317,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40538J",
          "short_name" : "東福岡高校",
+         "sort_name" : "ひかしふくおか",
          "url" : "http://higashifukuoka-h.ed.jp/",
          "wikipedia_name" : "東福岡自彊館中学校・東福岡高等学校"
       },
@@ -306,6 +328,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40509E",
          "short_name" : "東筑紫学園高校",
+         "sort_name" : "ひかしちくしかくえん",
          "url" : "http://www.hcg.ed.jp/",
          "wikipedia_name" : "東筑紫学園高等学校・照曜館中学校"
       },
@@ -315,6 +338,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40554A",
          "short_name" : "柳川高校",
+         "sort_name" : "やなかわこうとうかつこう",
          "url" : "http://www.yanagawa.ed.jp/"
       },
       "沖学園高等学校" : {
@@ -324,6 +348,7 @@
          "location_zipcode" : "816-0095",
          "owner_type" : "私立",
          "short_name" : "沖学園高校",
+         "sort_name" : "おきかくえん",
          "url" : "http://www.okigakuen.ed.jp/oki/",
          "wikipedia_name" : "沖学園隆徳館中学校・沖学園高等学校"
       },
@@ -334,6 +359,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40529K",
          "short_name" : "泰星高校",
+         "sort_name" : "たいせい",
          "url" : "http://www.taisei-js.ed.jp/",
          "wikipedia_name" : "泰星中学校・高等学校"
       },
@@ -344,6 +370,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40503F",
          "short_name" : "真颯館高校",
+         "sort_name" : "しんそうかん",
          "url" : "http://www.shinsokan-h.ed.jp/"
       },
       "祐誠高等学校" : {
@@ -362,6 +389,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40524J",
          "short_name" : "福岡大学附属大濠高校",
+         "sort_name" : "ふくおかたいかくふそくおおほり",
          "url" : "http://www.ohori.ed.jp/",
          "wikipedia_name" : "福岡大学附属大濠中学校・高等学校"
       },
@@ -372,6 +400,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40525G",
          "short_name" : "福岡大学附属若葉高校",
+         "sort_name" : "ふくおかたいかくふそくわかは",
          "url" : "http://www.f-wakaba.ed.jp/"
       },
       "福岡女学院高等学校" : {
@@ -382,6 +411,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40539G",
          "short_name" : "福岡女学院高校",
+         "sort_name" : "ふくおかしよかくいん",
          "url" : "http://www.fukujo.ac.jp/js_new/index.html",
          "wikipedia_name" : "福岡女学院中学校・高等学校"
       },
@@ -392,6 +422,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40541J",
          "short_name" : "福岡工業大学附属城東高校",
+         "sort_name" : "ふくおかこうきようたいかくふそくしようとう",
          "url" : "http://jyoto.fit.jp/"
       },
       "福岡市立博多工業高等学校" : {
@@ -401,6 +432,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "40199E",
          "short_name" : "博多工業高校",
+         "sort_name" : "はかたこうきようこうとうかつこう",
          "url" : "http://www.hakatath.ed.jp/"
       },
       "福岡市立福岡女子高等学校" : {
@@ -416,6 +448,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "40200B",
          "short_name" : "福岡西陵高校",
+         "sort_name" : "ふくおかせいりよう",
          "url" : "http://academic1.plala.or.jp/fseiryou/"
       },
       "福岡市立福翔高等学校" : {
@@ -424,6 +457,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "40197J",
          "short_name" : "福翔高校",
+         "sort_name" : "ふくしようこうとうかつこう",
          "url" : "http://members.jcom.home.ne.jp/fukusho/"
       },
       "福岡常葉高等学校" : {
@@ -431,6 +465,7 @@
          "location_zipcode" : "818-0025",
          "owner_type" : "私立",
          "short_name" : "福岡常葉高校",
+         "sort_name" : "ふくおかしようようこうとうかつこう",
          "url" : "http://www.f-joyo.ed.jp/"
       },
       "福岡海星女子学院高等学校" : {
@@ -441,6 +476,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40558C",
          "short_name" : "福岡海星女子学院高校",
+         "sort_name" : "ふくおかかいせいしよしかくいん",
          "url" : "http://www.f-kaisei.ed.jp/"
       },
       "福岡県公立三井中央高等学校" : {
@@ -449,6 +485,7 @@
          "owner_type" : "公立",
          "senior_high_school_code" : "40205C",
          "short_name" : "福岡県公立三井中央高校",
+         "sort_name" : "ふくおかけんこうりつみいちゆうおう",
          "url" : "http://www.kaokt.jp/"
       },
       "福岡県公立古賀竟成館高等学校" : {
@@ -466,6 +503,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40224K",
          "short_name" : "ありあけ新世高校",
+         "sort_name" : "ありあけしんせいこうとうかつこう",
          "url" : "http://ariakeshinsei.fku.ed.jp/"
       },
       "福岡県立ひびき高等学校" : {
@@ -474,6 +512,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40120A",
          "short_name" : "ひびき高校",
+         "sort_name" : "ひひき",
          "url" : "http://hibiki.fku.ed.jp/"
       },
       "福岡県立三井高等学校" : {
@@ -492,6 +531,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40160K",
          "short_name" : "三池工業高校",
+         "sort_name" : "みいけこうきよう",
          "url" : "http://miike-tech.fku.ed.jp/"
       },
       "福岡県立三池高等学校" : {
@@ -501,6 +541,7 @@
          "school_area" : "福岡県第十一・十二学区",
          "senior_high_school_code" : "40159F",
          "short_name" : "三池高校",
+         "sort_name" : "みいけこうとうかつこう",
          "url" : "http://miike.fku.ed.jp/"
       },
       "福岡県立三潴高等学校" : {
@@ -509,6 +550,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40154E",
          "short_name" : "三潴高校",
+         "sort_name" : "みすまこうとう",
          "url" : "http://mizuma.fku.ed.jp/"
       },
       "福岡県立中間高等学校" : {
@@ -518,6 +560,7 @@
          "school_area" : "福岡県第四学区",
          "senior_high_school_code" : "40209F",
          "short_name" : "中間高校",
+         "sort_name" : "ふくおかけんりつなかま",
          "url" : "http://nakama.fku.ed.jp/"
       },
       "福岡県立久留米筑水高等学校" : {
@@ -527,6 +570,7 @@
          "school_area" : "福岡県内全域",
          "senior_high_school_code" : "40151A",
          "short_name" : "久留米筑水高校",
+         "sort_name" : "くるめちくすい",
          "url" : "http://kurumechikusui.fku.ed.jp/"
       },
       "福岡県立久留米高等学校" : {
@@ -564,6 +608,7 @@
          "school_area" : "福岡県第六学区",
          "senior_high_school_code" : "40142A",
          "short_name" : "修猷館高校",
+         "sort_name" : "ふくおかけんりつしゆうゆうかんこうとうかつこう",
          "url" : "http://shuyu.fku.ed.jp/"
       },
       "福岡県立光陵高等学校" : {
@@ -592,6 +637,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40168E",
          "short_name" : "八女農業高校",
+         "sort_name" : "やめのうきよう",
          "url" : "http://yame-agr.fku.ed.jp/"
       },
       "福岡県立八女高等学校" : {
@@ -602,6 +648,7 @@
          "school_area" : "福岡県第十学区",
          "senior_high_school_code" : "40165A",
          "short_name" : "八女高校",
+         "sort_name" : "やめこうとうかつこう",
          "url" : "http://yame.fku.ed.jp/"
       },
       "福岡県立八幡中央高等学校" : {
@@ -623,7 +670,8 @@
       },
       "福岡県立八幡工業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "八幡工業高校"
+         "short_name" : "八幡工業高校",
+         "sort_name" : "ふくおかけんりつやはたこうきようこうとうかつこう"
       },
       "福岡県立八幡高等学校" : {
          "location" : "福岡県北九州市八幡東区清田3丁目1-1",
@@ -631,6 +679,7 @@
          "location_zipcode" : "805-0034",
          "owner_type" : "県立",
          "short_name" : "八幡高校",
+         "sort_name" : "やはた",
          "url" : "http://yahata.fku.ed.jp/"
       },
       "福岡県立北九州高等学校" : {
@@ -640,6 +689,7 @@
          "school_area" : "福岡県第二・三学区",
          "senior_high_school_code" : "40118J",
          "short_name" : "北九州高校",
+         "sort_name" : "ふくおかけんりつきたきゆうしゆうこうとうかつこう",
          "url" : "http://kitakyushu.fku.ed.jp/"
       },
       "福岡県立北筑高等学校" : {
@@ -657,6 +707,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40221E",
          "short_name" : "博多青松高校",
+         "sort_name" : "はかたせいしよう",
          "url" : "http://www.h-seisho.ed.jp/index.htm"
       },
       "福岡県立嘉穂東高等学校" : {
@@ -671,7 +722,8 @@
       },
       "福岡県立嘉穂総合高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "嘉穂総合高校"
+         "short_name" : "嘉穂総合高校",
+         "sort_name" : "かほそうこう"
       },
       "福岡県立嘉穂総合高等学校嘉麻市立大隈城山校" : {
          "location" : "福岡県嘉麻市大隈町725番地",
@@ -680,6 +732,7 @@
          "school_area" : "福岡県内全域",
          "senior_high_school_code" : "40230D",
          "short_name" : "嘉穂総合高校嘉麻市立大隈城山校",
+         "sort_name" : "かほそうこうおおくましようさん",
          "url" : "http://kahochuo.fku.ed.jp/bunko/"
       },
       "福岡県立嘉穂高等学校" : {
@@ -708,6 +761,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40223A",
          "short_name" : "大川樟風高校",
+         "sort_name" : "おおかわしようふう",
          "url" : "http://shofu.fku.ed.jp/"
       },
       "福岡県立大牟田北高等学校" : {
@@ -717,6 +771,7 @@
          "school_area" : "福岡県第11・12学区",
          "senior_high_school_code" : "40163D",
          "short_name" : "大牟田北高校",
+         "sort_name" : "おおむたきたこうとうかつこう",
          "url" : "http://omutakita.fku.ed.jp/"
       },
       "福岡県立太宰府高等学校" : {
@@ -734,6 +789,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40135J",
          "short_name" : "宇美商業高校",
+         "sort_name" : "うみしようきよう",
          "url" : "http://umishoh.fku.ed.jp/"
       },
       "福岡県立宗像高等学校" : {
@@ -752,6 +808,7 @@
          "school_area" : "福岡県第二・三学区",
          "senior_high_school_code" : "40113H",
          "short_name" : "小倉南高校",
+         "sort_name" : "ふくおかけんりつこくらみなみこうとうかつこう",
          "url" : "http://kokuraminami.fku.ed.jp/"
       },
       "福岡県立小倉商業高等学校" : {
@@ -760,6 +817,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40114F",
          "short_name" : "小倉商業高校",
+         "sort_name" : "こくらしようきよう",
          "url" : "http://kokura-ch.fku.ed.jp/"
       },
       "福岡県立小倉工業高等学校" : {
@@ -768,6 +826,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40116B",
          "short_name" : "小倉工業高校",
+         "sort_name" : "こくらこうきよう",
          "url" : "http://kokura-th.fku.ed.jp/"
       },
       "福岡県立小倉東高等学校" : {
@@ -777,6 +836,7 @@
          "school_area" : "福岡県第2学区",
          "senior_high_school_code" : "40208H",
          "short_name" : "小倉東高校",
+         "sort_name" : "ふくおかけんりつこくらひかし",
          "url" : "http://kokurahigashi.fku.ed.jp/"
       },
       "福岡県立小倉西高等学校" : {
@@ -795,6 +855,7 @@
          "school_area" : "福岡県第二学区",
          "senior_high_school_code" : "40115D",
          "short_name" : "小倉高校",
+         "sort_name" : "ふくおかけんりつこくら",
          "url" : "http://kokura.fku.ed.jp/"
       },
       "福岡県立小郡高等学校" : {
@@ -832,6 +893,7 @@
          "school_area" : "福岡県第2学区",
          "senior_high_school_code" : "40119G",
          "short_name" : "戸畑高校",
+         "sort_name" : "ふくおかけんりつとはた",
          "url" : "http://tobata.fku.ed.jp/"
       },
       "福岡県立折尾高等学校" : {
@@ -840,6 +902,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40129D",
          "short_name" : "折尾高校",
+         "sort_name" : "おりお",
          "url" : "http://orio.fku.ed.jp/"
       },
       "福岡県立新宮高等学校" : {
@@ -849,6 +912,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40133B",
          "short_name" : "新宮高校",
+         "sort_name" : "ふくおかけんりつしんくうこうとうかつこう",
          "url" : "http://singu.fku.ed.jp"
       },
       "福岡県立早良高等学校" : {
@@ -859,6 +923,7 @@
          "school_area" : "福岡県第七学区",
          "senior_high_school_code" : "40218E",
          "short_name" : "早良高校",
+         "sort_name" : "ふくおかけんりつさわらこうとうかつこう",
          "url" : "http://sawara.fku.ed.jp/"
       },
       "福岡県立明善高等学校" : {
@@ -868,6 +933,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40152J",
          "short_name" : "明善高校",
+         "sort_name" : "めいせん",
          "url" : "http://meizen.fku.ed.jp/"
       },
       "福岡県立春日高等学校" : {
@@ -886,6 +952,7 @@
          "school_area" : "福岡県第8学区",
          "senior_high_school_code" : "40232A",
          "short_name" : "朝倉光陽高校",
+         "sort_name" : "あさくらこうよう",
          "url" : "http://asakurakoyo.fku.ed.jp/"
       },
       "福岡県立朝倉東高等学校" : {
@@ -895,6 +962,7 @@
          "school_area" : "福岡県第8学区",
          "senior_high_school_code" : "40174K",
          "short_name" : "朝倉東高校",
+         "sort_name" : "あさくらひかし",
          "url" : "http://asakurahigashi.fku.ed.jp/"
       },
       "福岡県立朝倉農業高等学校" : {
@@ -904,6 +972,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40175H",
          "short_name" : "朝倉農業高校",
+         "sort_name" : "あさくらのうきようこうとうかつこう",
          "url" : "http://asakura-agr.fku.ed.jp/"
       },
       "福岡県立朝倉高等学校" : {
@@ -913,6 +982,7 @@
          "school_area" : "福岡県第8学区",
          "senior_high_school_code" : "40173A",
          "short_name" : "朝倉高校",
+         "sort_name" : "あさくらこうとう",
          "url" : "http://asakura.fku.ed.jp/"
       },
       "福岡県立朝羽高等学校" : {
@@ -922,6 +992,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40176F",
          "short_name" : "朝羽高校",
+         "sort_name" : "あさはこうとうかつこう",
          "url" : "http://asaha.fku.ed.jp/"
       },
       "福岡県立東筑高等学校" : {
@@ -931,6 +1002,7 @@
          "school_area" : "福岡県第3学区",
          "senior_high_school_code" : "40128F",
          "short_name" : "東筑高校",
+         "sort_name" : "とうちく",
          "url" : "http://tochiku.fku.ed.jp/"
       },
       "福岡県立東鷹高等学校" : {
@@ -940,6 +1012,7 @@
          "school_area" : "福岡県第十三学区",
          "senior_high_school_code" : "40179A",
          "short_name" : "東鷹高校",
+         "sort_name" : "とうようこうとうかつこう",
          "url" : "http://toyo.fku.ed.jp/"
       },
       "福岡県立柏陵高等学校" : {
@@ -984,6 +1057,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40228B",
          "short_name" : "浮羽究真館高校",
+         "sort_name" : "うきはきゆうしんかん",
          "url" : "http://kyushin.fku.ed.jp/"
       },
       "福岡県立玄洋高等学校" : {
@@ -993,6 +1067,7 @@
          "school_area" : "福岡県第六学区",
          "senior_high_school_code" : "40215A",
          "short_name" : "玄洋高校",
+         "sort_name" : "ふくおかけんりつけんよう",
          "url" : "http://genyo.fku.ed.jp/"
       },
       "福岡県立玄界高等学校" : {
@@ -1012,6 +1087,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40229A",
          "short_name" : "田川科学技術高校",
+         "sort_name" : "たかわかかくきしゆつこうとうかつこう",
          "url" : "http://tagawakagaku.fku.ed.jp/"
       },
       "福岡県立田川高等学校" : {
@@ -1020,6 +1096,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40177D",
          "short_name" : "田川高校",
+         "sort_name" : "たかわこうとうかつこう",
          "url" : "http://tagawa.fku.ed.jp"
       },
       "福岡県立直方高等学校" : {
@@ -1030,6 +1107,7 @@
          "school_area" : "福岡県第十五学区",
          "senior_high_school_code" : "40190A",
          "short_name" : "直方高校",
+         "sort_name" : "のおかた",
          "url" : "http://nogata.fku.ed.jp/"
       },
       "福岡県立福岡中央高等学校" : {
@@ -1048,6 +1126,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40143K",
          "short_name" : "福岡工業高校",
+         "sort_name" : "ふくおかけんりつふくおかこうきようこうとうかつこう",
          "url" : "http://fths.fku.ed.jp/"
       },
       "福岡県立福岡講倫館高等学校" : {
@@ -1057,11 +1136,13 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40144H",
          "short_name" : "福岡講倫館高校",
+         "sort_name" : "ふくおかけんりつふくおかこうりんかんこうとうかつこう",
          "url" : "http://kourin.fku.ed.jp/"
       },
       "福岡県立福岡農業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "福岡農業高校"
+         "short_name" : "福岡農業高校",
+         "sort_name" : "ふくおかのうきよう"
       },
       "福岡県立福岡高等学校" : {
          "location" : "福岡市博多区堅粕1丁目29番1号",
@@ -1070,6 +1151,7 @@
          "school_area" : "福岡県第四学区(旧第五学区)",
          "senior_high_school_code" : "40138C",
          "short_name" : "福岡高校",
+         "sort_name" : "ふくおか",
          "url" : "http://fukuoka.fku.ed.jp/"
       },
       "福岡県立福岡魁誠高等学校" : {
@@ -1088,6 +1170,7 @@
          "school_area" : "福岡県第10学区",
          "senior_high_school_code" : "40167G",
          "short_name" : "福島高校",
+         "sort_name" : "ふくしま",
          "url" : "http://fukushima.fku.ed.jp/"
       },
       "福岡県立稲築志耕館高等学校" : {
@@ -1115,6 +1198,7 @@
          "school_area" : "福岡県第五学区",
          "senior_high_school_code" : "40139A",
          "short_name" : "筑紫丘高校",
+         "sort_name" : "ふくおかけんりつちくしかおか",
          "url" : "http://chikushigaoka.fku.ed.jp/"
       },
       "福岡県立筑紫中央高等学校" : {
@@ -1124,6 +1208,7 @@
          "school_area" : "福岡県第6学区",
          "senior_high_school_code" : "40146D",
          "short_name" : "筑紫中央高校",
+         "sort_name" : "ちくしちゆうおうこうとうかつこう",
          "url" : "http://chikushichuo.fku.ed.jp/"
       },
       "福岡県立筑紫高等学校" : {
@@ -1153,6 +1238,7 @@
          "owner_type" : "町立",
          "senior_high_school_code" : "40104J",
          "short_name" : "築上西高校築上町立上城井分校",
+         "sort_name" : "ふくおかけんりつちくしようにしこうとうかつこうちくしようちようりつかみきいふんこう",
          "url" : "http://chikujo-nishi.fku.ed.jp/bunkou/annai/index.htm"
       },
       "福岡県立糸島農業高等学校" : {
@@ -1161,6 +1247,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40149J",
          "short_name" : "糸島農業高校",
+         "sort_name" : "いとしまのうきよう",
          "url" : "http://itoshima-ah.fku.ed.jp/"
       },
       "福岡県立糸島高等学校" : {
@@ -1178,7 +1265,8 @@
       },
       "福岡県立苅田工業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "苅田工業高校"
+         "short_name" : "苅田工業高校",
+         "sort_name" : "かんたこうきよう"
       },
       "福岡県立若松商業高等学校" : {
          "location" : "福岡県北九州市若松区片山3丁目2番1号",
@@ -1195,6 +1283,7 @@
          "school_area" : "福岡県第三学区",
          "senior_high_school_code" : "40122G",
          "short_name" : "若松高校",
+         "sort_name" : "ふくおかけんりつわかまつ",
          "url" : "http://wakamatu.fku.ed.jp/"
       },
       "福岡県立行橋高等学校" : {
@@ -1213,6 +1302,7 @@
          "school_area" : "福岡県第十一学区",
          "senior_high_school_code" : "40181B",
          "short_name" : "西田川高校",
+         "sort_name" : "にしたかわこうとうかつこう",
          "url" : "http://nishitagawa.fku.ed.jp/"
       },
       "福岡県立遠賀高等学校" : {
@@ -1247,6 +1337,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "40222C",
          "short_name" : "青豊高校",
+         "sort_name" : "せいほうこうとうかつこう",
          "url" : "http://seiho.fku.ed.jp/"
       },
       "福岡県立鞍手竜徳高等学校" : {
@@ -1268,7 +1359,8 @@
       },
       "福岡県立鞍手高等学校鞍手町立鞍手分校" : {
          "owner_type" : "町立",
-         "short_name" : "鞍手高校鞍手町立鞍手分校"
+         "short_name" : "鞍手高校鞍手町立鞍手分校",
+         "sort_name" : "くらてくらてふんこう"
       },
       "福岡県立須恵高等学校" : {
          "location" : "福岡県糟屋郡須恵町大字旅石72-3",
@@ -1313,6 +1405,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40540A",
          "short_name" : "福岡第一高校",
+         "sort_name" : "ふくおかたいいちこうとうかつこう",
          "url" : "http://www.f-parama.ed.jp/"
       },
       "福岡舞鶴高等学校" : {
@@ -1321,6 +1414,7 @@
          "location_zipcode" : "819-0375",
          "owner_type" : "私立",
          "short_name" : "福岡舞鶴高校",
+         "sort_name" : "ふくおかまいつる",
          "url" : "http://www.fmaizuru.ed.jp/",
          "wikipedia_name" : "福岡舞鶴中学校・高等学校"
       },
@@ -1331,6 +1425,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40542G",
          "short_name" : "福岡雙葉高校",
+         "sort_name" : "ふくおかふたは",
          "url" : "http://www.fukuokafutaba.ed.jp/",
          "wikipedia_name" : "福岡雙葉中学校・高等学校"
       },
@@ -1340,6 +1435,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40523A",
          "short_name" : "福智高校",
+         "sort_name" : "ふくちこうとうかつこう",
          "url" : "http://www.fukuchi-h.ed.jp/"
       },
       "立花高等学校" : {
@@ -1349,6 +1445,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40544C",
          "short_name" : "立花高校",
+         "sort_name" : "たちはなこうとうかつこう",
          "url" : "http://tachibanahs.ac.jp/"
       },
       "第一薬科大学付属高等学校" : {
@@ -1358,6 +1455,7 @@
          "location_zipcode" : "815-0037",
          "owner_type" : "私立",
          "short_name" : "第一薬科大学付属高校",
+         "sort_name" : "たいいちやつかたいかくふそくこうとうかつこう",
          "url" : "http://www.f-parama.ed.jp/"
       },
       "筑紫台高等学校" : {
@@ -1367,6 +1465,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40530C",
          "short_name" : "筑紫台高校",
+         "sort_name" : "ちくしたいこうとうかつこう",
          "url" : "http://www.chikushidai.ed.jp/"
       },
       "筑紫女学園高等学校" : {
@@ -1376,6 +1475,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40531A",
          "short_name" : "筑紫女学園高校",
+         "sort_name" : "ちくししよかくえん",
          "url" : "http://www.chikushi.ac.jp/hsc/j/info/index.html",
          "wikipedia_name" : "筑紫女学園中学校・高等学校"
       },
@@ -1385,6 +1485,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40532K",
          "short_name" : "筑陽学園高校",
+         "sort_name" : "ちくようかくえん",
          "url" : "http://www.chikuyogakuen.jp/index.html",
          "wikipedia_name" : "筑陽学園中学校・高等学校"
       },
@@ -1395,6 +1496,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40527C",
          "short_name" : "精華女子高校",
+         "sort_name" : "せいかしよし",
          "url" : "http://www.seika-ghs.ed.jp/"
       },
       "純真高等学校" : {
@@ -1410,6 +1512,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40511G",
          "short_name" : "美萩野女子高校",
+         "sort_name" : "みはきのしよし",
          "url" : "http://www.mihagino.ac.jp/"
       },
       "自由ケ丘高等学校" : {
@@ -1418,6 +1521,7 @@
          "location_zipcode" : "807-0867",
          "owner_type" : "私立",
          "short_name" : "自由ケ丘高校",
+         "sort_name" : "しゆうかおかこうとうかつこう",
          "url" : "http://www.kwuc.ac.jp/liberty/"
       },
       "西南女学院高等学校" : {
@@ -1427,6 +1531,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40506A",
          "short_name" : "西南女学院高校",
+         "sort_name" : "せいなんしよかくいん",
          "url" : "http://www.seinan-jogakuin.jp/",
          "wikipedia_name" : "西南女学院中学校・高等学校"
       },
@@ -1438,6 +1543,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40528A",
          "short_name" : "西南学院高校",
+         "sort_name" : "せいなんかくいんちゆうかつこう・こうとうかつこう",
          "url" : "http://www.seinan.ed.jp/hs/",
          "wikipedia_name" : "西南学院中学校・高等学校"
       },
@@ -1448,6 +1554,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40559A",
          "short_name" : "西日本短大附属高校",
+         "sort_name" : "にしにほんたんきたいかくふそく",
          "url" : "http://www.nishitan.ed.jp/main.html"
       },
       "誠修高等学校" : {
@@ -1456,6 +1563,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40549D",
          "short_name" : "誠修高校",
+         "sort_name" : "せいしゆうこうとうかつこう",
          "url" : "http://www.seishu.ed.jp/"
       },
       "豊国学園高等学校" : {
@@ -1465,6 +1573,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40510J",
          "short_name" : "豊国学園高校",
+         "sort_name" : "ほうこくかくえん",
          "url" : "http://www.houkoku.ac.jp/"
       },
       "近畿大学附属福岡高等学校" : {
@@ -1474,6 +1583,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40520F",
          "short_name" : "近畿大学附属福岡高校",
+         "sort_name" : "きんきたいかくふそくふくおか",
          "url" : "http://www.fhs.kindai.ac.jp/"
       },
       "那珂川町立福岡女子商業高等学校" : {
@@ -1487,6 +1597,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "40517F",
          "short_name" : "飯塚高校",
+         "sort_name" : "いいつかこうとうかつこう",
          "url" : "http://www.iizuka.ed.jp/"
       },
       "高稜高等学校" : {

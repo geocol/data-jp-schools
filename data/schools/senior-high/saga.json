@@ -2,18 +2,21 @@
    "senior_high_schools" : {
       "佐賀女子短期大学付属佐賀女子高等学校" : {
          "owner_type" : "私立",
-         "short_name" : "佐賀女子短大付属佐賀女子高校"
+         "short_name" : "佐賀女子短大付属佐賀女子高校",
+         "sort_name" : "さかしよしたんきたいかくふそくさかしよし"
       },
       "佐賀学園高等学校" : {
          "location_wikipedia_latlon" : "|33|15|59.4|N|130|18|5|E|",
          "owner_type" : "私立",
-         "short_name" : "佐賀学園高校"
+         "short_name" : "佐賀学園高校",
+         "sort_name" : "さかかくえんこうとうかつこう"
       },
       "佐賀清和高等学校" : {
          "location" : "佐賀県佐賀市与賀町78番地",
          "location_zipcode" : "840-0047",
          "owner_type" : "私立",
          "short_name" : "佐賀清和高校",
+         "sort_name" : "さかせいわ",
          "url" : "http://www.sagaseiwa.com/",
          "wikipedia_name" : "佐賀清和中学校・高等学校"
       },
@@ -25,16 +28,19 @@
          "school_area" : "東部学区",
          "senior_high_school_code" : "41113C",
          "short_name" : "三養基高校",
+         "sort_name" : "みやきこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/miyaki/"
       },
       "佐賀県立伊万里商業高等学校" : {
          "location_wikipedia_latlon" : "|33|16|58.8|N|129|52|52.3|E|",
          "owner_type" : "県立",
-         "short_name" : "伊万里商業高校"
+         "short_name" : "伊万里商業高校",
+         "sort_name" : "さかけんりついまりしようきようこうとうかつこう"
       },
       "佐賀県立伊万里農林高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "伊万里農林高校"
+         "short_name" : "伊万里農林高校",
+         "sort_name" : "さかけんりついまりのうりんこうとうかつこう"
       },
       "佐賀県立伊万里高等学校" : {
          "location" : "佐賀県伊万里市二里町大里甲2600",
@@ -54,6 +60,7 @@
          "school_area" : "中部学区",
          "senior_high_school_code" : "41102H",
          "short_name" : "佐賀北高校",
+         "sort_name" : "さかけんりつさかきたこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/sagakita/index.html"
       },
       "佐賀県立佐賀商業高等学校" : {
@@ -63,6 +70,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41130C",
          "short_name" : "佐賀商業高校",
+         "sort_name" : "さかけんりつさかしようきようこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10033/index.html"
       },
       "佐賀県立佐賀工業高等学校" : {
@@ -72,6 +80,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41124J",
          "short_name" : "佐賀工業高校",
+         "sort_name" : "さかこうきよう",
          "url" : "http://www3.saga-ed.jp/school/edq10027/"
       },
       "佐賀県立佐賀東高等学校" : {
@@ -82,6 +91,7 @@
          "school_area" : "中部学区",
          "senior_high_school_code" : "41103F",
          "short_name" : "佐賀東高校",
+         "sort_name" : "さかひかし",
          "url" : "http://www3.saga-ed.jp/school/edq10004/"
       },
       "佐賀県立佐賀西高等学校" : {
@@ -92,11 +102,13 @@
          "school_area" : "中部学区",
          "senior_high_school_code" : "41101K",
          "short_name" : "佐賀西高校",
+         "sort_name" : "さかにし",
          "url" : "http://www3.saga-ed.jp/school/edq10005/"
       },
       "佐賀県立佐賀農業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "佐賀農業高校"
+         "short_name" : "佐賀農業高校",
+         "sort_name" : "さかけんりつさかのうきようこうとうかつこう"
       },
       "佐賀県立厳木高等学校" : {
          "location" : "佐賀県唐津市厳木町厳木727番地",
@@ -105,11 +117,13 @@
          "school_area" : "北部学区",
          "senior_high_school_code" : "41105B",
          "short_name" : "厳木高校",
+         "sort_name" : "きゆうらきこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10012/"
       },
       "佐賀県立唐津南高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "唐津南高校"
+         "short_name" : "唐津南高校",
+         "sort_name" : "さかけんりつからつみなみこうとうかつこう"
       },
       "佐賀県立唐津商業高等学校" : {
          "location" : "佐賀県唐津市元石町235-2",
@@ -118,11 +132,13 @@
          "school_area" : "北部学区",
          "senior_high_school_code" : "41132K",
          "short_name" : "唐津商業高校",
+         "sort_name" : "さかけんりつからつしようきようこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10034/"
       },
       "佐賀県立唐津工業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "唐津工業高校"
+         "short_name" : "唐津工業高校",
+         "sort_name" : "からつこうきようこうとうかつこう"
       },
       "佐賀県立唐津東高等学校" : {
          "location" : "佐賀県唐津市鏡新開1番地新東唐津駅土地区画整理事業の換地処分公告があった翌日（2010年1月22日）に施行された。施行前の所在地は鏡字新開3164番地1。",
@@ -131,6 +147,7 @@
          "school_area" : "北部学区",
          "senior_high_school_code" : "41104D",
          "short_name" : "唐津東高校",
+         "sort_name" : "からつひかしちゆうかつこうこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10010/",
          "wikipedia_name" : "佐賀県立唐津東中学校・高等学校"
       },
@@ -141,6 +158,7 @@
          "school_area" : "北部学区",
          "senior_high_school_code" : "41105B",
          "short_name" : "唐津西高校",
+         "sort_name" : "からつにしこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/edq10011/"
       },
       "佐賀県立唐津青翔高等学校" : {
@@ -154,7 +172,8 @@
       },
       "佐賀県立塩田工業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "塩田工業高校"
+         "short_name" : "塩田工業高校",
+         "sort_name" : "しおたこうきようこうとうかつこう"
       },
       "佐賀県立多久高等学校" : {
          "location" : "佐賀県多久市北多久町大字小侍23",
@@ -162,6 +181,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41128A",
          "short_name" : "多久高校",
+         "sort_name" : "さかけんりつたくこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10028/topmenu.htm"
       },
       "佐賀県立太良高等学校" : {
@@ -171,12 +191,14 @@
       },
       "佐賀県立嬉野高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "嬉野高校"
+         "short_name" : "嬉野高校",
+         "sort_name" : "さかけんりつうれしのこうとうかつこう"
       },
       "佐賀県立小城高等学校" : {
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "小城高校"
+         "short_name" : "小城高校",
+         "sort_name" : "さかけんりつおきこうとうかつこう"
       },
       "佐賀県立有田工業高等学校" : {
          "location" : "佐賀県西松浦郡有田町桑古場乙2902",
@@ -185,11 +207,13 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41126E",
          "short_name" : "有田工業高校",
+         "sort_name" : "ありたこうきよう",
          "url" : "http://www4.saga-ed.jp/ariko/"
       },
       "佐賀県立杵島商業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "杵島商業高校"
+         "short_name" : "杵島商業高校",
+         "sort_name" : "さかけんりつきしましようきようこうとうかつこう"
       },
       "佐賀県立武雄高等学校" : {
          "owner_type" : "県立",
@@ -198,7 +222,8 @@
       },
       "佐賀県立牛津高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "牛津高校"
+         "short_name" : "牛津高校",
+         "sort_name" : "さかけんりつうしつこうとうかつこう"
       },
       "佐賀県立白石高等学校" : {
          "location" : "佐賀県杵島郡白石町大字今泉138番地",
@@ -207,11 +232,13 @@
          "school_area" : "西部学区",
          "senior_high_school_code" : "41122B",
          "short_name" : "白石高校",
+         "sort_name" : "さかけんりつしろいし",
          "url" : "http://www3.saga-ed.jp/school/edq10018/"
       },
       "佐賀県立神埼清明高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "神埼清明高校"
+         "short_name" : "神埼清明高校",
+         "sort_name" : "さかけんりつかんさきせいめいこうとうかつこう"
       },
       "佐賀県立神埼高等学校" : {
          "location" : "佐賀県神埼市神埼町田道ヶ里2213",
@@ -220,6 +247,7 @@
          "school_area" : "東部学区",
          "senior_high_school_code" : "41114A",
          "short_name" : "神埼高校",
+         "sort_name" : "さかけんりつかんさき",
          "url" : "http://www3.saga-ed.jp/school/edq10003/"
       },
       "佐賀県立致遠館高等学校" : {
@@ -230,13 +258,15 @@
          "school_area" : "中部学区",
          "senior_high_school_code" : "41138J",
          "short_name" : "致遠館高校",
+         "sort_name" : "さかけんりつちえんかん",
          "url" : "http://www3.saga-ed.jp/school/chien-jhs/index.htm",
          "wikipedia_name" : "佐賀県立致遠館中学校・高等学校"
       },
       "佐賀県立高志館高等学校" : {
          "location_wikipedia_latlon" : "|33|18|52.6|N|130|16|39.4|E|",
          "owner_type" : "県立",
-         "short_name" : "高志館高校"
+         "short_name" : "高志館高校",
+         "sort_name" : "さかけんりつこうしかんこうとうかつこう"
       },
       "佐賀県立鳥栖商業高等学校" : {
          "location" : "佐賀県鳥栖市平田町1110-8",
@@ -244,6 +274,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41135D",
          "short_name" : "鳥栖商業高校",
+         "sort_name" : "さかけんりつとすしようきようこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/edq10032/"
       },
       "佐賀県立鳥栖工業高等学校" : {
@@ -258,6 +289,7 @@
          "school_area" : "東部学区",
          "senior_high_school_code" : "41112E",
          "short_name" : "鳥栖高校",
+         "sort_name" : "とすこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/tosu-hs/",
          "wikipedia_name" : "佐賀県立香楠中学校・鳥栖高等学校"
       },
@@ -267,6 +299,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "41136B",
          "short_name" : "鹿島実業高校",
+         "sort_name" : "さかけんりつかしましつきようこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10038/"
       },
       "佐賀県立鹿島高等学校" : {
@@ -276,18 +309,21 @@
          "school_area" : "西部学区",
          "senior_high_school_code" : "41111G",
          "short_name" : "鹿島高校",
+         "sort_name" : "かしま",
          "url" : "http://www3.saga-ed.jp/school/edq10019/"
       },
       "佐賀龍谷高等学校" : {
          "location_wikipedia_latlon" : "|33|14|48.2|N|130|18|22.5|E|",
          "owner_type" : "私立",
          "short_name" : "佐賀龍谷高校",
+         "sort_name" : "さかりゆうこく",
          "wikipedia_name" : "佐賀龍谷中学校・高等学校"
       },
       "北陵高等学校" : {
          "location_wikipedia_latlon" : "|33|16|54.7|N|130|16|57|E|",
          "owner_type" : "私立",
-         "short_name" : "北陵高校"
+         "short_name" : "北陵高校",
+         "sort_name" : "ほくりようこうとうかつこう"
       },
       "国立唐津海上技術学校" : {
          "owner_type" : "国立"
@@ -299,23 +335,27 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "41507D",
          "short_name" : "弘学館高校",
+         "sort_name" : "こうかくかんちゆうかつこうこうとうかつこう",
          "url" : "http://www.kogakukan.ac.jp/",
          "wikipedia_name" : "弘学館中学校・高等学校"
       },
       "成穎高等部" : {
          "owner_type" : "私立",
+         "sort_name" : "せいえいちゆうかつこうこうとうふ",
          "wikipedia_name" : "成穎中学校・高等部"
       },
       "敬徳高等学校" : {
          "location_wikipedia_latlon" : "|33|16|37.9|N|129|52|52.3|E|",
          "owner_type" : "私立",
-         "short_name" : "敬徳高校"
+         "short_name" : "敬徳高校",
+         "sort_name" : "けいとく"
       },
       "早稲田佐賀高等学校" : {
          "location" : "佐賀県唐津市東城内7番1号",
          "location_zipcode" : "847-0016",
          "owner_type" : "私立",
          "short_name" : "早稲田佐賀高校",
+         "sort_name" : "わせたさかちゆうかつこうこうとうかつこう",
          "url" : "http://www.wasedasaga.jp/",
          "wikipedia_name" : "早稲田佐賀中学校・高等学校"
       },
@@ -324,6 +364,7 @@
          "location_zipcode" : "841-0204",
          "owner_type" : "私立",
          "short_name" : "東明館高校",
+         "sort_name" : "とうめいかんちゆうかつこうこうとうかつこう",
          "url" : "http://www.tomeikan.ed.jp/",
          "wikipedia_name" : "東明館中学校・高等学校"
       }

@@ -2,10 +2,11 @@
    "tech_colleges" : {
       "サレジオ工業高等専門学校" : {
          "english_long_name" : "Salesian Polytechnic",
-         "location" : "東京都町田市小山ヶ丘4-6-8",
+         "location" : "",
          "location_area" : "東京都",
          "location_zipcode" : "194-0215",
          "short_name" : "サレジオ工業高専",
+         "sort_name" : "されしおこうきようこうとうせんもん",
          "url" : "http://www.salesio-sp.ac.jp/"
       },
       "一関工業高等専門学校" : {
@@ -14,6 +15,7 @@
          "location" : "岩手県一関市萩荘字高梨",
          "location_area" : "岩手県",
          "short_name" : "一関工業高専",
+         "sort_name" : "いちのせきこうきようこうとうせんもん",
          "url" : "http://www.ichinoseki.ac.jp/index-j.html"
       },
       "久留米工業高等専門学校" : {
@@ -22,74 +24,85 @@
          "location" : "福岡県久留米市小森野1-1-1",
          "location_area" : "福岡県",
          "short_name" : "久留米工業高専",
+         "sort_name" : "くるめこうきようこうとうせんもん",
          "url" : "http://www.kurume-nct.ac.jp/"
       },
       "仙台高等専門学校" : {
          "english_abbr_name" : "SNCT",
          "english_long_name" : "Sendi National College of Technology",
-         "location" : "宮城県名取市愛島塩手字野田山48",
+         "location" : "名取キャンパス",
          "location_area" : "宮城県",
-         "location_zipcode" : "981-1239",
          "short_name" : "仙台高専",
+         "sort_name" : "せんたいこうとうせんもんかつこう",
          "url" : "http://web.sendai-nct.ac.jp/"
       },
       "佐世保工業高等専門学校" : {
          "english_abbr_name" : "SNCT",
          "english_long_name" : "Sasebo National College of Technology",
-         "location" : "長崎県佐世保市沖新町1-1",
+         "location" : "",
          "location_area" : "長崎県",
          "location_zipcode" : "857-1193",
          "short_name" : "佐世保工業高専",
+         "sort_name" : "させほこうきようこうとうせんもん",
          "url" : "http://www.sasebo.ac.jp/"
       },
       "八戸工業高等専門学校" : {
          "english_abbr_name" : "HNCT",
          "english_long_name" : "Hachinohe National College of Technology",
-         "location" : "青森県八戸市田面木字上野平16-1",
+         "location" : "",
          "location_area" : "青森県",
          "location_zipcode" : "039-1192",
          "short_name" : "八戸工業高専",
+         "sort_name" : "はちのへこうきようこうとうせんもんかつこう",
          "url" : "http://www.hachinohe-ct.ac.jp/"
       },
       "函館工業高等専門学校" : {
          "english_abbr_name" : "HNCT",
          "english_long_name" : "Hakodate National College of Technology",
-         "location" : "北海道函館市戸倉町14-1",
+         "location" : "",
          "location_area" : "北海道",
          "location_zipcode" : "042-8501",
          "short_name" : "函館工業高専",
+         "sort_name" : "はこたてこうきようこうとうせんもん",
          "url" : "http://www.hakodate-ct.ac.jp/"
       },
       "北九州工業高等専門学校" : {
          "english_abbr_name" : ", KCT",
          "english_long_name" : "Kitakyushu National College of Technology",
-         "location" : "福岡県北九州市小倉南区志井5-20-1",
+         "location" : "",
          "location_area" : "福岡県",
          "location_zipcode" : "802-0985",
          "short_name" : "北九州工業高専",
+         "sort_name" : "きたきゆうしゆうこうきようこうとうせんもん",
          "url" : "http://www.kct.ac.jp/"
       },
       "呉工業高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kure National College of Technology",
-         "location" : "広島県呉市阿賀南2-2-11",
+         "location" : "",
          "location_area" : "広島県",
          "location_zipcode" : "737-8506",
          "short_name" : "呉工業高専",
+         "sort_name" : "くれこうきようこうとうせんもん",
          "url" : "http://www.kure-nct.ac.jp/"
       },
       "和歌山工業高等専門学校" : {
+         "location" : "和歌山県御坊市名田町野島77",
          "location_area" : "和歌山県",
-         "short_name" : "和歌山工業高専"
+         "location_zipcode" : "644-0023",
+         "short_name" : "和歌山工業高専",
+         "sort_name" : "わかやまこうきようこうとうせんもん",
+         "url" : "http://www.wakayama-nct.ac.jp/"
       },
       "大分工業高等専門学校" : {
          "english_abbr_name" : "ONCT",
          "english_long_name" : "Oita National College of Technology",
-         "location" : "大分県大分市大字牧1666",
+         "location" : "",
          "location_area" : "大分県",
          "location_wikipedia_latlon" : "|33|13|57.7|N|131|39|3.8|E|",
          "location_zipcode" : "870-0152",
          "short_name" : "大分工業高専",
+         "sort_name" : "おおいたこうきようこうとうせんもん",
          "url" : "http://www.oita-ct.ac.jp/"
       },
       "大島商船高等専門学校" : {
@@ -98,6 +111,7 @@
          "location" : "山口県大島郡周防大島町大字小松1091番地",
          "location_area" : "山口県",
          "short_name" : "大島商船高専",
+         "sort_name" : "おおしましようせんこうとうせんもんかつこう",
          "url" : "http://www.oshima-k.ac.jp/"
       },
       "大阪府立工業高等専門学校" : {
@@ -106,42 +120,46 @@
          "location" : "大阪府寝屋川市幸町26-12",
          "location_area" : "大阪府",
          "short_name" : "工業高専",
+         "sort_name" : "おおさかふりつこうきようこうとうせんもん",
          "url" : "http://www.osaka-pct.ac.jp/"
       },
       "奈良工業高等専門学校" : {
          "english_abbr_name" : "NNCT",
          "english_long_name" : "Nara National College of Technology,",
-         "location" : "奈良県大和郡山市矢田町22",
+         "location" : "",
          "location_area" : "奈良県",
          "location_zipcode" : "639-1080",
          "short_name" : "奈良工業高専",
+         "sort_name" : "ならこうきようこうとうせんもん",
          "url" : "http://www.nara-k.ac.jp/"
       },
       "宇部工業高等専門学校" : {
          "english_abbr_name" : "UNCT",
          "english_long_name" : "Ube National College of Technology",
-         "location" : "山口県宇部市常盤台2-14-1",
+         "location" : "",
          "location_area" : "山口県",
          "location_zipcode" : "755-8555",
          "short_name" : "宇部工業高専",
+         "sort_name" : "うへこうきようこうとうせんもん",
          "url" : "http://www.ube-k.ac.jp/"
       },
       "富山高等専門学校" : {
          "english_abbr_name" : "TNCT",
          "english_long_name" : "Toyama National College of Technology",
-         "location" : "富山県富山市本郷町13",
+         "location" : "本郷キャンパス",
          "location_area" : "富山県",
-         "location_zipcode" : "939-8630",
          "short_name" : "富山高専",
+         "sort_name" : "とやまこうとうせんもんかつこう",
          "url" : "http://www.nc-toyama.ac.jp/"
       },
       "小山工業高等専門学校" : {
          "english_abbr_name" : "ONCT",
          "english_long_name" : "Oyama National College of Technology",
-         "location" : "栃木県小山市大字中久喜771",
+         "location" : "",
          "location_area" : "栃木県",
          "location_zipcode" : "323-0806",
          "short_name" : "小山工業高専",
+         "sort_name" : "おやまこうきようこうとうせんもん",
          "url" : "http://www.oyama-ct.ac.jp/"
       },
       "岐阜工業高等専門学校" : {
@@ -150,113 +168,126 @@
          "location" : "岐阜県本巣市上真桑2236-2",
          "location_area" : "岐阜県",
          "short_name" : "岐阜工業高専",
+         "sort_name" : "きふこうきようこうとうせんもん",
          "url" : "http://www.gifu-nct.ac.jp/"
       },
       "広島商船高等専門学校" : {
          "english_abbr_name" : "HNCMT",
          "english_long_name" : "Hiroshima National College of Maritime Technology",
-         "location" : "広島県豊田郡大崎上島町東野4272-1",
+         "location" : "",
          "location_area" : "広島県",
          "location_wikipedia_latlon" : "|34|15|14.1|N|132|54|15.6|E|",
          "location_zipcode" : "725-0231",
          "short_name" : "広島商船高専",
+         "sort_name" : "ひろしましようせんこうとうせんもん",
          "url" : "http://www.hiroshima-cmt.ac.jp/"
       },
       "弓削商船高等専門学校" : {
          "english_abbr_name" : "YNCMT",
          "english_long_name" : "Yuge National College of Maritime Technology",
-         "location" : "愛媛県越智郡上島町弓削下弓削1000番",
+         "location" : "",
          "location_area" : "愛媛県",
          "location_wikipedia_latlon" : "|34|15|7.8|N|133|12|26.6|E|",
          "location_zipcode" : "794-2593",
          "short_name" : "弓削商船高専",
+         "sort_name" : "ゆけしようせんこうとうせんもんかつこう",
          "url" : "http://www.yuge.ac.jp/"
       },
       "徳山工業高等専門学校" : {
          "english_abbr_name" : "TCT",
          "english_long_name" : "Tokuyama College of Technology",
-         "location" : "山口県周南市学園台3538番地",
+         "location" : "",
          "location_area" : "山口県",
          "location_zipcode" : "745-8585",
          "short_name" : "徳山工業高専",
+         "sort_name" : "とくやまこうきようこうとうせんもん",
          "url" : "http://www.tokuyama.ac.jp/"
       },
       "新居浜工業高等専門学校" : {
          "english_abbr_name" : "NNCT",
          "english_long_name" : "Niihama National College of Technology",
-         "location" : "愛媛県新居浜市八雲町7-1",
+         "location" : "",
          "location_area" : "愛媛県",
          "location_wikipedia_latlon" : "|33|57|39.2|N|133|17|35.2|E|",
          "location_zipcode" : "792-8580",
          "short_name" : "新居浜工業高専",
+         "sort_name" : "にいはまこうきようこうとうせんもん",
          "url" : "http://www.niihama-nct.ac.jp/"
       },
       "旭川工業高等専門学校" : {
          "english_abbr_name" : "ANCT",
          "english_long_name" : "Asahikawa National College of Technology",
-         "location" : "北海道旭川市春光台2条2丁目1番6号",
+         "location" : "",
          "location_area" : "北海道",
          "location_zipcode" : "071-8142",
          "short_name" : "旭川工業高専",
+         "sort_name" : "あさひかわこうきようこうとうせんもん",
          "url" : "http://www.asahikawa-nct.ac.jp/"
       },
       "明石工業高等専門学校" : {
          "english_abbr_name" : "ANCT",
          "english_long_name" : "Akashi National College of Technology",
-         "location" : "兵庫県明石市魚住町西岡679-3",
+         "location" : "",
          "location_area" : "兵庫県",
          "location_zipcode" : "674-8501",
          "short_name" : "明石工業高専",
+         "sort_name" : "あかしこうきようこうとうせんもん",
          "url" : "http://www.akashi.ac.jp/"
       },
       "有明工業高等専門学校" : {
          "english_abbr_name" : "ANCT",
          "english_long_name" : "Ariake National College of Technology",
-         "location" : "福岡県大牟田市東萩尾町150",
+         "location" : "",
          "location_area" : "福岡県",
          "location_zipcode" : "836-8585",
          "short_name" : "有明工業高専",
+         "sort_name" : "ありあけこうきようこうとうせんもんかつこう",
          "url" : "http://www.ariake-nct.ac.jp/0/n10.shtml"
       },
       "木更津工業高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kisarazu National College of Technology",
-         "location" : "千葉県木更津市清見台東2-11-1",
+         "location" : "",
          "location_area" : "千葉県",
          "location_wikipedia_latlon" : "|35|23|4.6|N|139|57|20.4|E|",
          "location_zipcode" : "292-0041",
          "short_name" : "木更津工業高専",
+         "sort_name" : "きさらつこうきようこうとうせんもん",
          "url" : "http://www.kisarazu.ac.jp/"
       },
       "札幌市立高等専門学校" : {
          "location_area" : "北海道",
-         "short_name" : "高専"
+         "short_name" : "高専",
+         "sort_name" : "さつほろしりつこうとうせんもんｊかつこう"
       },
       "東京工業高等専門学校" : {
          "english_abbr_name" : "TNCT",
          "english_long_name" : "Tokyo National College of Technology",
-         "location" : "東京都八王子市椚田町1220-2",
+         "location" : "",
          "location_area" : "東京都",
          "location_zipcode" : "193-0997",
          "short_name" : "東京工業高専",
+         "sort_name" : "とうきようこうきよう",
          "url" : "http://www.tokyo-ct.ac.jp/"
       },
       "東京都立産業技術高等専門学校" : {
          "english_abbr_name" : "TMCIT",
          "english_long_name" : "Tokyo Metropolitan College of Industrial Technology",
-         "location" : "東京都品川区東大井1-10-40",
+         "location" : "",
          "location_area" : "東京都",
          "location_zipcode" : "140-0011",
          "short_name" : "産業技術高専",
+         "sort_name" : "とうきようとりつさんきようきしゆつこうとうせんもん",
          "url" : "http://www.metro-cit.ac.jp/"
       },
       "松江工業高等専門学校" : {
          "english_abbr_name" : "MCT",
          "english_long_name" : "Matsue College of Technology",
-         "location" : "島根県松江市西生馬町14-4",
+         "location" : "",
          "location_area" : "島根県",
          "location_zipcode" : "690-8518",
          "short_name" : "松江工業高専",
+         "sort_name" : "まつえこうきようこうとうせんもん",
          "url" : "http://www.matsue-ct.ac.jp/"
       },
       "沖縄工業高等専門学校" : {
@@ -266,44 +297,48 @@
          "location_area" : "沖縄県",
          "location_wikipedia_latlon" : "|26|31|34.1|N|128|1|52.2|E|",
          "short_name" : "沖縄工業高専",
+         "sort_name" : "おきなわこうきようこうとうせんもん",
          "url" : "http://www.okinawa-ct.ac.jp/"
       },
       "沼津工業高等専門学校" : {
          "english_abbr_name" : "NCT",
          "english_long_name" : "Numazu National College of Technology",
-         "location" : "静岡県沼津市大岡3600",
+         "location" : "",
          "location_area" : "静岡県",
          "location_wikipedia_latlon" : "|35|8|9.4|N|138|53|3.4|E|",
          "location_zipcode" : "410-8501",
          "short_name" : "沼津工業高専",
+         "sort_name" : "ぬまつこうきようこうとうせんもん",
          "url" : "http://www.numazu-ct.ac.jp/"
       },
       "津山工業高等専門学校" : {
          "english_abbr_name" : "TNCT",
          "english_long_name" : "Tsuyama National College of Technology",
-         "location" : "岡山県津山市沼624-1",
+         "location" : "",
          "location_area" : "岡山県",
          "location_zipcode" : "708-8509",
          "short_name" : "津山工業高専",
+         "sort_name" : "つやまこうきようこうとうせんもん",
          "url" : "http://www.tsuyama-ct.ac.jp/"
       },
       "熊本高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kumamoto National College of Technology",
-         "location" : "熊本県合志市須屋2659-2",
+         "location" : "熊本キャンパス",
          "location_area" : "熊本県",
-         "location_zipcode" : "861-1102",
          "short_name" : "熊本高専",
+         "sort_name" : "くまもとこうとうせんもんかつこう",
          "url" : "http://www.kumamoto-nct.ac.jp/"
       },
       "石川工業高等専門学校" : {
          "english_abbr_name" : "INCT",
          "english_long_name" : "Ishikawa National College of Technology",
-         "location" : "石川県河北郡津幡町北中条タ1",
+         "location" : "",
          "location_area" : "石川県",
          "location_wikipedia_latlon" : "|36|39|46.2|N|136|44|22.3|E|",
          "location_zipcode" : "929-0392",
          "short_name" : "石川工業高専",
+         "sort_name" : "いしかわこうきようこうとうせんもん",
          "url" : "http://www.ishikawa-nct.ac.jp/"
       },
       "神戸市立工業高等専門学校" : {
@@ -317,77 +352,85 @@
       "福井工業高等専門学校" : {
          "english_abbr_name" : "FNCT",
          "english_long_name" : "Fukui National College of Technology",
-         "location" : "福井県鯖江市下司町",
+         "location" : "",
          "location_area" : "福井県",
          "location_wikipedia_latlon" : "|35|56|14.4|N|136|10|18.7|E|",
          "location_zipcode" : "916-8507",
          "short_name" : "福井工業高専",
+         "sort_name" : "ふくいこうきようこうとうせんもん",
          "url" : "http://www.fukui-nct.ac.jp/"
       },
       "福島工業高等専門学校" : {
          "english_abbr_name" : "FNCT",
          "english_long_name" : "Fukushima National College of Technology",
-         "location" : "福島県いわき市平上荒川字長尾30",
+         "location" : "",
          "location_area" : "福島県",
          "location_wikipedia_latlon" : "|37|1|58.4|N|140|53|20|E|",
          "location_zipcode" : "970-8034",
          "short_name" : "福島工業高専",
+         "sort_name" : "ふくしまこうきようこうとうせんもんかつこう",
          "url" : "http://www.fukushima-nct.ac.jp/"
       },
       "秋田工業高等専門学校" : {
          "english_abbr_name" : "ANCT",
          "english_long_name" : "Akita National College of Technology",
-         "location" : "秋田県秋田市飯島文京町1-1",
+         "location" : "",
          "location_area" : "秋田県",
          "location_zipcode" : "011-8511",
          "short_name" : "秋田工業高専",
+         "sort_name" : "あきたこうきようこうとうせんもん",
          "url" : "http://akita-nct.jp/"
       },
       "米子工業高等専門学校" : {
          "english_abbr_name" : "YNCT",
          "english_long_name" : "Yonago National College of Technology",
-         "location" : "鳥取県米子市彦名町4448",
+         "location" : "",
          "location_area" : "鳥取県",
          "location_wikipedia_latlon" : "|35|27|18.9|N|133|17|23.2|E|",
          "location_zipcode" : "683-8502",
          "short_name" : "米子工業高専",
+         "sort_name" : "よなここうきようこうとうせんもん",
          "url" : "http://www.yonago-k.ac.jp"
       },
       "群馬工業高等専門学校" : {
          "english_abbr_name" : "GNCT",
          "english_long_name" : "Gunma National College of Technology",
-         "location" : "群馬県前橋市鳥羽町580番地",
+         "location" : "",
          "location_area" : "群馬県",
          "location_zipcode" : "371-8530",
          "short_name" : "群馬工業高専",
+         "sort_name" : "くんまこうきようこうとうせんもん",
          "url" : "http://www.gunma-ct.ac.jp/"
       },
       "舞鶴工業高等専門学校" : {
          "english_abbr_name" : "MNCT",
          "english_long_name" : "Maizuru National College of Technology",
-         "location" : "京都府舞鶴市字白屋234",
+         "location" : "",
          "location_area" : "京都府",
          "location_wikipedia_latlon" : "|35|29|46.2|N|135|26|23.0|E|",
          "location_zipcode" : "625-8511",
          "short_name" : "舞鶴工業高専",
+         "sort_name" : "まいつるこうきようこうとうせんもん",
          "url" : "http://www.maizuru-ct.ac.jp/"
       },
       "苫小牧工業高等専門学校" : {
          "english_abbr_name" : "TNCT",
          "english_long_name" : "Tomakomai National College of Technology",
-         "location" : "北海道苫小牧市字錦岡443番地",
+         "location" : "",
          "location_area" : "北海道",
          "location_zipcode" : "059-1275",
          "short_name" : "苫小牧工業高専",
+         "sort_name" : "とまこまいこうきようこうとうせんもん",
          "url" : "http://www.tomakomai-ct.ac.jp/"
       },
       "茨城工業高等専門学校" : {
          "english_abbr_name" : "INCT",
          "english_long_name" : "Ibaraki National College of Technology",
-         "location" : "茨城県ひたちなか市中根866",
+         "location" : "",
          "location_area" : "茨城県",
          "location_zipcode" : "312-8508",
          "short_name" : "茨城工業高専",
+         "sort_name" : "いはらきこうきようこうとうせんもん",
          "url" : "http://www.ibaraki-ct.ac.jp/"
       },
       "豊田工業高等専門学校" : {
@@ -396,6 +439,7 @@
          "location" : "愛知県豊田市栄生町2-1",
          "location_area" : "愛知県",
          "short_name" : "豊田工業高専",
+         "sort_name" : "とよたこうきようこうとうせんもん",
          "url" : "http://www.toyota-ct.ac.jp/"
       },
       "近畿大学工業高等専門学校" : {
@@ -412,6 +456,7 @@
          "location" : "宮崎県都城市吉尾町真孝473-1",
          "location_area" : "宮崎県",
          "short_name" : "都城工業高専",
+         "sort_name" : "みやこのしようこうきようこうとうせんもん",
          "url" : "http://www.cc.miyakonojo-nct.ac.jp/"
       },
       "金沢工業高等専門学校" : {
@@ -425,11 +470,12 @@
       "釧路工業高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kushiro National College of Technology",
-         "location" : "北海道釧路市大楽毛西2丁目32番1号",
+         "location" : "",
          "location_area" : "北海道",
          "location_wikipedia_latlon" : "|43|0|58.3|N|144|15|41|E|",
          "location_zipcode" : "084-0916",
          "short_name" : "釧路工業高専",
+         "sort_name" : "くしろこうきようこうとうせんもん",
          "url" : "http://www.kushiro-ct.ac.jp/"
       },
       "鈴鹿工業高等専門学校" : {
@@ -438,70 +484,77 @@
          "location" : "三重県鈴鹿市白子町6742-1",
          "location_area" : "三重県",
          "short_name" : "鈴鹿工業高専",
+         "sort_name" : "すすかこうきようこうとうせんもん",
          "url" : "http://www.suzuka-ct.ac.jp/"
       },
       "長岡工業高等専門学校" : {
          "english_abbr_name" : "NNCT",
          "english_long_name" : "Nagaoka National College of Technology",
-         "location" : "新潟県長岡市西片貝町888",
+         "location" : "",
          "location_area" : "新潟県",
          "location_zipcode" : "940-8532",
          "short_name" : "長岡工業高専",
+         "sort_name" : "なかおかこうきようこうとうせんもん",
          "url" : "http://www.nagaoka-ct.ac.jp/"
       },
       "長野工業高等専門学校" : {
          "english_abbr_name" : "NNCT",
          "english_long_name" : "Nagano National College of Technology",
-         "location" : "長野県長野市徳間716",
+         "location" : "",
          "location_area" : "長野県",
          "location_zipcode" : "381-8550",
          "short_name" : "長野工業高専",
+         "sort_name" : "なかのこうきようこうとうせんもん",
          "url" : "http://www.nagano-nct.ac.jp/"
       },
       "阿南工業高等専門学校" : {
          "english_abbr_name" : "ACT",
          "english_long_name" : "Anan National College of Technology",
-         "location" : "徳島県阿南市見能林町青木265",
+         "location" : "",
          "location_area" : "徳島県",
          "location_zipcode" : "774-0017",
          "short_name" : "阿南工業高専",
+         "sort_name" : "あなんこうきようこうとうせんもん",
          "url" : "http://www.anan-nct.ac.jp/"
       },
       "香川高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kagawa National College of Technology",
-         "location" : "香川県高松市勅使町字小山355番地",
+         "location" : "高松キャンパス",
          "location_area" : "香川県",
-         "location_zipcode" : "761-8058",
          "short_name" : "香川高専",
+         "sort_name" : "かかわこうとうせんもんかつこう",
          "url" : "http://www.kagawa-nct.ac.jp/"
       },
       "高知工業高等専門学校" : {
          "english_abbr_name" : "KNCT",
          "english_long_name" : "Kochi National College of Technology",
-         "location" : "高知県南国市物部乙200-1",
+         "location" : "",
          "location_area" : "高知県",
          "location_zipcode" : "783-8508",
          "short_name" : "高知工業高専",
+         "sort_name" : "こうちこうきようこうとうせんもん",
          "url" : "http://www.kochi-ct.ac.jp/"
       },
       "鳥羽商船高等専門学校" : {
          "english_abbr_name" : "TNCMT",
          "english_long_name" : "Toba National College of Maritime Technology",
-         "location" : "三重県鳥羽市池上町1番1号",
+         "location" : "",
          "location_area" : "三重県",
          "location_zipcode" : "517-8501",
          "short_name" : "鳥羽商船高専",
+         "sort_name" : "とはしようせんこうとうせんもん",
          "url" : "http://www.toba-cmt.ac.jp/"
       },
       "鶴岡工業高等専門学校" : {
          "english_abbr_name" : "TNCT",
          "english_long_name" : "Tsuruoka National College of Technology",
-         "location" : "山形県鶴岡市井岡字沢田104",
+         "location" : "",
          "location_area" : "山形県",
          "location_wikipedia_latlon" : "|38|42|35.4|N|139|47|50.9|E",
          "location_zipcode" : "997-8511",
          "short_name" : "鶴岡工業高専",
+         "sort_name" : "つるおかこうきようこうとうせんもん",
          "url" : "http://www.tsuruoka-nct.ac.jp/"
       },
       "鹿児島工業高等専門学校" : {
@@ -510,6 +563,7 @@
          "location" : "鹿児島県霧島市隼人町真孝1460-1",
          "location_area" : "鹿児島県",
          "short_name" : "鹿児島工業高専",
+         "sort_name" : "かこしまこうきようこうとうせんもん",
          "url" : "http://www.kagoshima-ct.ac.jp/"
       }
    }

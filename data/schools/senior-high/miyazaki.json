@@ -3,7 +3,8 @@
       "宮崎県立五ヶ瀬中等教育学校" : {
          "location_area" : "西臼杵郡五ヶ瀬町",
          "owner_type" : "県立",
-         "short_name" : "五ヶ瀬中等教育学校"
+         "short_name" : "五ヶ瀬中等教育学校",
+         "sort_name" : "みやさきけんりつこかせ"
       }
    },
    "senior_high_schools" : {
@@ -14,6 +15,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45502E",
          "short_name" : "宮崎学園高校",
+         "sort_name" : "みやさきかくえん",
          "url" : "http://www.miyagaku.ed.jp/",
          "wikipedia_name" : "宮崎学園中学校・高等学校"
       },
@@ -24,6 +26,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45503C",
          "short_name" : "宮崎日本大学高校",
+         "sort_name" : "みやさきにほんたいかくかくえん",
          "url" : "http://www.m-nichidai.com/",
          "wikipedia_name" : "宮崎日本大学中学校・高等学校"
       },
@@ -35,6 +38,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45143G",
          "short_name" : "佐土原高校",
+         "sort_name" : "みやさきけんりつさとわら",
          "url" : "http://www.miyazaki-c.ed.jp/sadowara-th/"
       },
       "宮崎県立妻高等学校" : {
@@ -54,6 +58,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45142J",
          "short_name" : "宮崎北高校",
+         "sort_name" : "みやさきけんりつみやさききた",
          "url" : "http://www.miyazaki-c.ed.jp/miyazakikita-h/"
       },
       "宮崎県立宮崎南高等学校" : {
@@ -64,6 +69,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45119D",
          "short_name" : "宮崎南高校",
+         "sort_name" : "みやさきけんりつみやさきみなみ",
          "url" : "http://www.miyazaki-c.ed.jp/miyazakiminami-h/"
       },
       "宮崎県立宮崎商業高等学校" : {
@@ -73,6 +79,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45122D",
          "short_name" : "宮崎商業高校",
+         "sort_name" : "みやさきけんりつみやさきしようきよう",
          "url" : "http://www.miyazaki-c.ed.jp/miyazaki-ch/"
       },
       "宮崎県立宮崎大宮高等学校" : {
@@ -83,6 +90,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45117H",
          "short_name" : "宮崎大宮高校",
+         "sort_name" : "みやさきおおみや",
          "url" : "http://www.miyazaki-c.ed.jp/miyazakiohmiya-h/"
       },
       "宮崎県立宮崎工業高等学校" : {
@@ -92,6 +100,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45118F",
          "short_name" : "宮崎工業高校",
+         "sort_name" : "みやさきこうきよう",
          "url" : "http://www.miyazaki-c.ed.jp/miyazaki-th/"
       },
       "宮崎県立宮崎東高等学校" : {
@@ -102,6 +111,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45124A",
          "short_name" : "宮崎東高校",
+         "sort_name" : "みやさきひかし",
          "url" : "http://www.miyazaki-c.ed.jp/miyazakihigashi-h/"
       },
       "宮崎県立宮崎海洋高等学校" : {
@@ -119,6 +129,7 @@
          "location_wikipedia_latlon" : "|31|54|27.9|N|131|23|9.6|E|",
          "owner_type" : "県立",
          "short_name" : "宮崎西高校",
+         "sort_name" : "みやさきにし",
          "wikipedia_name" : "宮崎県立宮崎西高等学校・附属中学校"
       },
       "宮崎県立宮崎農業高等学校" : {
@@ -129,6 +140,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45123B",
          "short_name" : "宮崎農業高校",
+         "sort_name" : "みやさきけんりつみやさきのうきよう",
          "url" : "http://www.miyazaki-c.ed.jp/miyazaki-ah/"
       },
       "宮崎県立富島高等学校" : {
@@ -138,6 +150,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45108J",
          "short_name" : "富島高校",
+         "sort_name" : "とみしま",
          "url" : "http://www.miyazaki-c.ed.jp/tomishima-h/"
       },
       "宮崎県立小林商業高等学校" : {
@@ -158,6 +171,7 @@
          "school_area" : "なし",
          "senior_high_school_code" : "45147K",
          "short_name" : "小林秀峰高校",
+         "sort_name" : "みやさきけんりつこはやししゆうほう",
          "url" : "http://www.miyazaki-c.ed.jp/kobayasisyuho-h/"
       },
       "宮崎県立小林高等学校" : {
@@ -168,6 +182,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45136D",
          "short_name" : "小林高校",
+         "sort_name" : "こはやしこうとうかつこう",
          "url" : "http://www.miyazaki-c.ed.jp/kobayashi-h/"
       },
       "宮崎県立延岡商業高等学校" : {
@@ -177,6 +192,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45105D",
          "short_name" : "延岡商業高校",
+         "sort_name" : "のへおかしようきよう",
          "url" : "http://www.miyazaki-c.ed.jp/nobeoka-ch/"
       },
       "宮崎県立延岡工業高等学校" : {
@@ -185,6 +201,7 @@
          "location_zipcode" : "882-0863",
          "owner_type" : "県立",
          "short_name" : "延岡工業高校",
+         "sort_name" : "のへおかこうきよう",
          "url" : "http://www.miyazaki-c.ed.jp/nobetec/"
       },
       "宮崎県立延岡星雲高等学校" : {
@@ -195,6 +212,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45146A",
          "short_name" : "延岡星雲高校",
+         "sort_name" : "のへおかせいうんこうとうかつこう",
          "url" : "http://www.miyazaki-c.ed.jp/nobeokaseiun-h"
       },
       "宮崎県立延岡青朋高等学校" : {
@@ -210,6 +228,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45102K",
          "short_name" : "延岡高校",
+         "sort_name" : "のへおか",
          "url" : "http://www.miyazaki-c.ed.jp/nobeoka-h/"
       },
       "宮崎県立日南工業高等学校" : {
@@ -219,6 +238,7 @@
          "owner_type" : "県立",
          "school_area" : "なし",
          "short_name" : "日南工業高校",
+         "sort_name" : "にちなんこうぎょう",
          "url" : "http://www.miyazaki-c.ed.jp/nichinan-th/"
       },
       "宮崎県立日南振徳商業高等学校" : {
@@ -229,6 +249,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45128C",
          "short_name" : "日南振徳商業高校",
+         "sort_name" : "にちなんしんとくしようきよう",
          "url" : "http://www.miyazaki-c.ed.jp/shintoku-ch/"
       },
       "宮崎県立日南農林高等学校" : {
@@ -245,6 +266,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45125J",
          "short_name" : "日南高校",
+         "sort_name" : "にちなんこうとうかつこう",
          "url" : "http://www.miyazaki-c.ed.jp/nichinan-h/"
       },
       "宮崎県立日向工業高等学校" : {
@@ -254,6 +276,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45109G",
          "short_name" : "日向工業高校",
+         "sort_name" : "ひゆうかこうきよう",
          "url" : "http://www.miyazaki-c.ed.jp/hyuga-th/index.html"
       },
       "宮崎県立日向高等学校" : {
@@ -263,6 +286,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45110A",
          "short_name" : "日向高校",
+         "sort_name" : "ひゆうか",
          "url" : "http://www.miyazaki-c.ed.jp/hyuga-h/"
       },
       "宮崎県立本庄高等学校" : {
@@ -272,6 +296,7 @@
          "location_zipcode" : "880-1101",
          "owner_type" : "県立",
          "short_name" : "本庄高校",
+         "sort_name" : "ほんしようこうとうかつこう",
          "url" : "http://www.miyazaki-c.ed.jp/myz-honjo-h/index.html"
       },
       "宮崎県立福島高等学校" : {
@@ -282,6 +307,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45129A",
          "short_name" : "福島高校",
+         "sort_name" : "ふくしま",
          "url" : "http://www.miyazaki-c.ed.jp/myz-fukushima-h/"
       },
       "宮崎県立西都商業高等学校" : {
@@ -291,6 +317,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45115A",
          "short_name" : "西都商業高校",
+         "sort_name" : "さいとしようきよう",
          "url" : "http://www.miyazaki-c.ed.jp/saito-ch/"
       },
       "宮崎県立都城商業高等学校" : {
@@ -300,6 +327,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45133K",
          "short_name" : "都城商業高校",
+         "sort_name" : "みやこのしようしようきよう",
          "url" : "http://www.miyazaki-c.ed.jp/miyakonojo-ch/"
       },
       "宮崎県立都城工業高等学校" : {
@@ -324,6 +352,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45132A",
          "short_name" : "都城西高校",
+         "sort_name" : "みやさきけんりつみやこのしようにし",
          "url" : "http://www.miyazaki-c.ed.jp/miyakonojonishi-h/"
       },
       "宮崎県立都城農業高等学校" : {
@@ -334,6 +363,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45131C",
          "short_name" : "都城農業高校",
+         "sort_name" : "みやさきけんりつみやこのしようのうきよう",
          "url" : "http://www.miyazaki-c.ed.jp/miyakonojo-ah/"
       },
       "宮崎県立都農高等学校" : {
@@ -352,6 +382,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45107A",
          "short_name" : "門川高校",
+         "sort_name" : "かとかわ",
          "url" : "http://www.miyazaki-c.ed.jp/kadokawa-ah/"
       },
       "宮崎県立飯野高等学校" : {
@@ -361,6 +392,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45139J",
          "short_name" : "飯野高校",
+         "sort_name" : "いいの",
          "url" : "http://www.miyazaki-c.ed.jp/myz-iino-h/"
       },
       "宮崎県立高千穂高等学校" : {
@@ -371,6 +403,7 @@
          "school_area" : "西臼杵郡高千穂町、日之影町、五ヶ瀬町",
          "senior_high_school_code" : "45101A",
          "short_name" : "高千穂高校",
+         "sort_name" : "たかちほ",
          "url" : "http://www.miyazaki-c.ed.jp/takachiho-h/"
       },
       "宮崎県立高原高等学校" : {
@@ -396,6 +429,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45113E",
          "short_name" : "高鍋農業高校",
+         "sort_name" : "たかなへのうきようこうとうかつこう",
          "url" : "http://www.miyazaki-c.ed.jp/takanabe-ah/"
       },
       "宮崎県立高鍋高等学校" : {
@@ -405,6 +439,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "45112G",
          "short_name" : "高鍋高校",
+         "sort_name" : "たかなへこうとうかっこう",
          "url" : "http://www.miyazaki-c.ed.jp/takanabe-h/"
       },
       "宮崎第一高等学校" : {
@@ -414,6 +449,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45506H",
          "short_name" : "宮崎第一高校",
+         "sort_name" : "みやさきたいいち",
          "url" : "http://www.miyaichi.ed.jp/Daiichi_Tyuu/",
          "wikipedia_name" : "宮崎第一中学校・高等学校"
       },
@@ -424,6 +460,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45510F",
          "short_name" : "小林西高校",
+         "sort_name" : "こはやしにし",
          "url" : "http://www.kobayashi-nishi.net/"
       },
       "尚学館高等部" : {
@@ -431,7 +468,8 @@
          "location_wikipedia_latlon" : "|32|37|35.5|N|131|40|38.3|E|",
          "location_zipcode" : "882-0001",
          "owner_type" : "私立",
-         "senior_high_school_code" : "45507F<br/>[[延岡学園高等学校]]と同じ。",
+         "senior_high_school_code" : "45507F",
+         "sort_name" : "しようかくかん",
          "url" : "http://www.shogakkan.jp/",
          "wikipedia_name" : "尚学館中学校・高等部"
       },
@@ -442,6 +480,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45507F",
          "short_name" : "延岡学園高校",
+         "sort_name" : "のへおかかくえん",
          "url" : "http://www.nobeokagakuen-ed.jp/"
       },
       "日南学園高等学校" : {
@@ -460,6 +499,7 @@
          "location_zipcode" : "880-0878",
          "owner_type" : "私立",
          "short_name" : "日向学院高校",
+         "sort_name" : "ひゆうかかくいん",
          "url" : "http://www.hyugagakuin.ac.jp/",
          "wikipedia_name" : "日向学院中学校・高等学校"
       },
@@ -469,6 +509,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45515G",
          "short_name" : "日章学園九州国際高校",
+         "sort_name" : "につしようかくえんきゆうしゆうこくさいこうとうかつこう",
          "url" : "http://www.nissho.ac.jp/nkih/"
       },
       "日章学園高等学校" : {
@@ -478,6 +519,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45505K",
          "short_name" : "日章学園高校",
+         "sort_name" : "につしようかくえん",
          "url" : "http://www.nissho.ac.jp/ngh/",
          "wikipedia_name" : "日章学園中学校・高等学校"
       },
@@ -487,6 +529,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45513A",
          "short_name" : "聖心ウルスラ学園高校",
+         "sort_name" : "せいしんうるすらかくえん",
          "url" : "http://www.ursula.jp/high/"
       },
       "都城東高等学校" : {
@@ -495,6 +538,7 @@
          "location_zipcode" : "889-1996",
          "owner_type" : "私立",
          "short_name" : "都城東高校",
+         "sort_name" : "みやこのしようひかし",
          "url" : "http://miyako-higashi.ac.jp/index.html"
       },
       "都城聖ドミニコ学園高等学校" : {
@@ -503,6 +547,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45514J",
          "short_name" : "都城聖ドミニコ学園高校",
+         "sort_name" : "みやこのしようせいとみにこかくえん",
          "url" : "http://www.mdominico.ac.jp/welcome.html"
       },
       "都城高等学校" : {
@@ -512,6 +557,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45508D",
          "short_name" : "都城高校",
+         "sort_name" : "みやこのしようこうとうかつこう",
          "url" : "http://www.kubogakuen.ac.jp/"
       },
       "鵬翔高等学校" : {
@@ -521,6 +567,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "45504A",
          "short_name" : "鵬翔高校",
+         "sort_name" : "ほうしよう",
          "url" : "http://www.hosho-h.ed.jp/",
          "wikipedia_name" : "鵬翔中学校・高等学校"
       }

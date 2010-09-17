@@ -6,12 +6,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32513K",
          "short_name" : "キリスト教愛真高校",
+         "sort_name" : "きりすときようあいしん",
          "url" : "http://www.iwami.or.jp/aishin/"
       },
       "七尾学園 益田東高等学校" : {
          "location_wikipedia_latlon" : "|34|40|48.0|N|131|51|50.6|E|",
          "owner_type" : "私立",
          "short_name" : "七尾学園 益田東高校",
+         "sort_name" : "ますたひかしこうとうかつこう",
          "wikipedia_name" : "益田東高等学校"
       },
       "大多和学園 開星高等学校" : {
@@ -21,6 +23,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32501F",
          "short_name" : "開星高校",
+         "sort_name" : "かいせいちゆうかつこうこうとうかつこう",
          "url" : "http://www.kaisei.matsue.shimane.jp/",
          "wikipedia_name" : "開星中学校・高等学校"
       },
@@ -31,6 +34,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32109F",
          "short_name" : "三刀屋高校",
+         "sort_name" : "みとやこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/mitoya/"
       },
       "島根県立三刀屋高等学校掛合分校" : {
@@ -46,18 +50,21 @@
          "location_area" : "出雲市",
          "location_wikipedia_latlon" : "|35|21|30.1|N|132|46|41.1|E|",
          "owner_type" : "県立",
-         "short_name" : "出雲商業高校"
+         "short_name" : "出雲商業高校",
+         "sort_name" : "いすもしようきようこうとうかつこう"
       },
       "島根県立出雲工業高等学校" : {
          "location_area" : "出雲市",
          "location_wikipedia_latlon" : "|35|20|41.5|N|132|45|36.1|E|",
          "owner_type" : "県立",
-         "short_name" : "出雲工業高校"
+         "short_name" : "出雲工業高校",
+         "sort_name" : "いすもこうきようこうとうかつこう"
       },
       "島根県立出雲農林高等学校" : {
          "location_area" : "出雲市",
          "owner_type" : "県立",
-         "short_name" : "出雲農林高校"
+         "short_name" : "出雲農林高校",
+         "sort_name" : "いすものうりんこうとうかつこう"
       },
       "島根県立出雲高等学校" : {
          "location" : "島根県出雲市今市町1800",
@@ -66,6 +73,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32112F",
          "short_name" : "出雲高校",
+         "sort_name" : "いすもこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/izumo/"
       },
       "島根県立吉賀高等学校" : {
@@ -93,6 +101,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32117G",
          "short_name" : "大田高校",
+         "sort_name" : "おおたこうこう",
          "url" : "http://www.shimanet.ed.jp/ohda/"
       },
       "島根県立大社高等学校" : {
@@ -103,6 +112,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32116J",
          "short_name" : "大社高校",
+         "sort_name" : "しまねけんりつたいしや",
          "url" : "http://www.shimanet.ed.jp/taisha/"
       },
       "島根県立大社高等学校佐田分校" : {
@@ -120,6 +130,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32101A",
          "short_name" : "安来高校",
+         "sort_name" : "しまねけんりつやすきこうとうかつこう",
          "url" : "http://www.yasugi-hs.ed.jp/"
       },
       "島根県立宍道高等学校" : {
@@ -128,6 +139,7 @@
          "location_zipcode" : "699-0492",
          "owner_type" : "県立",
          "short_name" : "宍道高校",
+         "sort_name" : "しまねけんりつしんし",
          "url" : "http://www.shimanet.ed.jp/shinjikoko/"
       },
       "島根県立島根中央高等学校" : {
@@ -142,6 +154,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32111H",
          "short_name" : "平田高校",
+         "sort_name" : "ひらたこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/hirata/"
       },
       "島根県立情報科学高等学校" : {
@@ -161,6 +174,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32102J",
          "short_name" : "松江北高校",
+         "sort_name" : "まつえきた",
          "url" : "http://www.matsuekita.ed.jp/"
       },
       "島根県立松江南高等学校" : {
@@ -176,7 +190,8 @@
       "島根県立松江南高等学校宍道分校" : {
          "location_area" : "松江市",
          "owner_type" : "県立",
-         "short_name" : "松江南高校宍道分校"
+         "short_name" : "松江南高校宍道分校",
+         "sort_name" : "しまねけんりつまつえみなみ しんし"
       },
       "島根県立松江商業高等学校" : {
          "location" : "島根県松江市浜乃木8-1-1",
@@ -185,6 +200,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32106A",
          "short_name" : "松江商業高校",
+         "sort_name" : "まつえしようきよう",
          "url" : "http://www.shimanet.ed.jp/matsue-ch/"
       },
       "島根県立松江工業高等学校" : {
@@ -194,6 +210,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32105C",
          "short_name" : "松江工業高校",
+         "sort_name" : "まつえこうきよう",
          "url" : "http://www.shimanet.ed.jp/matsue-th/"
       },
       "島根県立松江東高等学校" : {
@@ -204,6 +221,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32136C",
          "short_name" : "松江東高校",
+         "sort_name" : "しまねけんりつまつえひかし",
          "url" : "http://www.matsuehigashi.ed.jp/"
       },
       "島根県立松江農林高等学校" : {
@@ -223,6 +241,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32108H",
          "short_name" : "横田高校",
+         "sort_name" : "よこたこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/yokota/index.html"
       },
       "島根県立江津工業高等学校" : {
@@ -230,7 +249,8 @@
          "location_area" : "江津市",
          "location_zipcode" : "695-0011",
          "owner_type" : "県立",
-         "short_name" : "江津工業高校"
+         "short_name" : "江津工業高校",
+         "sort_name" : "しまねけんりつこうつこうきようこうとうかつこう"
       },
       "島根県立江津高等学校" : {
          "location" : "島根県江津市都野津町293番地",
@@ -248,6 +268,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32131B",
          "short_name" : "津和野高校",
+         "sort_name" : "しまねけんりつつわのこうとうかつこう",
          "url" : "http://www.tsuwano.ne.jp/tsuko/"
       },
       "島根県立浜田商業高等学校" : {
@@ -257,6 +278,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32125H",
          "short_name" : "浜田商業高校",
+         "sort_name" : "はまたしようきようこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/hamasho/"
       },
       "島根県立浜田水産高等学校" : {
@@ -266,15 +288,17 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32126F",
          "short_name" : "浜田水産高校",
+         "sort_name" : "はまたすいさんこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/hamasui/"
       },
       "島根県立浜田高等学校" : {
          "location" : "島根県浜田市黒川町3749番地",
          "location_area" : "浜田市",
-         "location_zipcode" : "697-0024/697-0426",
+         "location_zipcode" : "697-0024",
          "owner_type" : "県立",
          "senior_high_school_code" : "32124K",
          "short_name" : "浜田高校",
+         "sort_name" : "はまたこうとうかつこう",
          "url" : "http://www.shimanet.ed.jp/hamada/"
       },
       "島根県立浜田高等学校今市分校" : {
@@ -289,7 +313,8 @@
       "島根県立益田翔陽高等学校" : {
          "location_area" : "益田市",
          "owner_type" : "県立",
-         "short_name" : "益田翔陽高校"
+         "short_name" : "益田翔陽高校",
+         "sort_name" : "ますたしようよう"
       },
       "島根県立益田高等学校" : {
          "location" : "島根県益田市七尾町1-17",
@@ -297,6 +322,7 @@
          "location_zipcode" : "698-0017",
          "owner_type" : "県立",
          "short_name" : "益田高校",
+         "sort_name" : "しまねけんりつますた",
          "url" : "http://www.shimanet.ed.jp/masuda/"
       },
       "島根県立矢上高等学校" : {
@@ -310,7 +336,8 @@
       "島根県立邇摩高等学校" : {
          "location_area" : "大田市",
          "owner_type" : "県立",
-         "short_name" : "邇摩高校"
+         "short_name" : "邇摩高校",
+         "sort_name" : "にまこうとうかつこう"
       },
       "島根県立隠岐島前高等学校" : {
          "location" : "島根県隠岐郡海士町大字福井1403番地",
@@ -318,6 +345,7 @@
          "location_zipcode" : "684-0404",
          "owner_type" : "県立",
          "short_name" : "隠岐島前高校",
+         "sort_name" : "おきどうぜん",
          "url" : "http://dozen.ed.jp/"
       },
       "島根県立隠岐水産高等学校" : {
@@ -336,16 +364,19 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "32132A",
          "short_name" : "隠岐高校",
+         "sort_name" : "おき",
          "url" : "http://www.shimanet.ed.jp/oki/"
       },
       "島根県立飯南高等学校" : {
          "location_area" : "飯石郡",
          "owner_type" : "県立",
-         "short_name" : "飯南高校"
+         "short_name" : "飯南高校",
+         "sort_name" : "しまねけんりついいなんこうとうかつこう"
       },
       "松徳学院高等学校" : {
          "owner_type" : "私立",
          "short_name" : "松徳学院高校",
+         "sort_name" : "しようとくかくいんちゆうかつこう こうとうかつこう",
          "wikipedia_name" : "松徳学院中学校・高等学校"
       },
       "松江市立女子高等学校" : {
@@ -355,6 +386,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "32135E",
          "short_name" : "女子高校",
+         "sort_name" : "まつえしりつしよし",
          "url" : "http://www.mable.ne.jp/~matsuegh/"
       },
       "水谷学園出雲北陵高等学校" : {
@@ -363,6 +395,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32506G",
          "short_name" : "水谷学園出雲北陵高校",
+         "sort_name" : "いすもほくりようちゆうかつこうこうとうかつこう",
          "url" : "http://izumohokuryo-h.ed.jp/",
          "wikipedia_name" : "出雲北陵中学校・高等学校"
       },
@@ -371,6 +404,7 @@
          "location_zipcode" : "693-0032",
          "owner_type" : "私立",
          "short_name" : "永島学園 出雲西高校",
+         "sort_name" : "いすもにし",
          "url" : "http://www.izumonishikou.jp/",
          "wikipedia_name" : "出雲西高等学校"
       },
@@ -381,6 +415,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32505J",
          "short_name" : "永島学園 松江西高校",
+         "sort_name" : "まつえにし",
          "url" : "http://www.matsuenishi-h.ed.jp/",
          "wikipedia_name" : "松江西高等学校"
       },
@@ -390,6 +425,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32508C",
          "short_name" : "江の川学園 石見智翠館高校",
+         "sort_name" : "いわみちすいかん",
          "url" : "http://www.iwamichisuikan.ed.jp/",
          "wikipedia_name" : "石見智翠館高等学校"
       },
@@ -400,6 +436,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32509A",
          "short_name" : "益田永島学園 明誠高校",
+         "sort_name" : "めいせい",
          "url" : "http://meisei-masuda.ed.jp/",
          "wikipedia_name" : "明誠高等学校 (島根県)"
       },
@@ -410,6 +447,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "32502D",
          "short_name" : "立正大学淞南高校",
+         "sort_name" : "りつしようたいかくしようなん",
          "url" : "http://www.shonangakuen-h.ed.jp/"
       }
    }

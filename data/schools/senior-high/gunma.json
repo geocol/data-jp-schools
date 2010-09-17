@@ -5,18 +5,21 @@
          "short_name" : "四ツ葉学園中等教育学校"
       },
       "創世中等教育学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "そうせいちゆうとうきよういくかつこう"
       },
       "群馬県立中央中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "中央中等教育学校"
+         "short_name" : "中央中等教育学校",
+         "sort_name" : "くんまけんりつちゆうおうちゆうとうきよういくかつこう"
       }
    },
    "senior_high_schools" : {
       "伊勢崎市立伊勢崎高等学校" : {
          "location_area" : "伊勢崎市",
          "owner_type" : "市立",
-         "short_name" : "伊勢崎高校"
+         "short_name" : "伊勢崎高校",
+         "sort_name" : "いせさきしりついせさきこうとう"
       },
       "共愛学園高等学校" : {
          "owner_type" : "私立",
@@ -29,6 +32,7 @@
          "school_area" : "群馬県",
          "senior_high_school_code" : "10166E",
          "short_name" : "利根沼田学校組合立利根商業高校",
+         "sort_name" : "とねぬまたくみあいりつとねしようきよう",
          "url" : "http://www.tonesho.ed.jp/"
       },
       "前橋市立前橋高等学校" : {
@@ -38,6 +42,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "10160F",
          "short_name" : "前橋高校",
+         "sort_name" : "まえはししりつまえはし",
          "url" : "http://www.maeichi-hs.menet.ed.jp/"
       },
       "前橋育英高等学校" : {
@@ -46,6 +51,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10510E",
          "short_name" : "前橋育英高校",
+         "sort_name" : "まえはしいくえい",
          "url" : "http://www.maebashiikuei-h.ed.jp/"
       },
       "太田市立商業高等学校" : {
@@ -56,6 +62,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "10165G",
          "short_name" : "商業高校",
+         "sort_name" : "おおたしりつしようきよう",
          "url" : "http://www.tasyo.com/"
       },
       "学芸館高等学校" : {
@@ -65,6 +72,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10516D",
          "short_name" : "学芸館高校",
+         "sort_name" : "かくけいかん",
          "url" : "http://www.gakugeikan.ac.jp/"
       },
       "常磐高等学校" : {
@@ -83,6 +91,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10504A",
          "short_name" : "新島学園高校",
+         "sort_name" : "にいしまかくえん",
          "url" : "http://namesv.neesima.ac.jp/",
          "wikipedia_name" : "新島学園中学校・高等学校"
       },
@@ -102,6 +111,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10508C",
          "short_name" : "東京農業大学第二高校",
+         "sort_name" : "とうきようのうきようたいかくたい2",
          "url" : "http://www.nodai-2-h.ed.jp/"
       },
       "桐生市立商業高等学校" : {
@@ -111,6 +121,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "10162B",
          "short_name" : "商業高校",
+         "sort_name" : "きりゆうしりつしようきよう",
          "url" : "http://www.kirisyo.jp/"
       },
       "桐生第一高等学校" : {
@@ -119,6 +130,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10502D",
          "short_name" : "桐生第一高校",
+         "sort_name" : "きりゆうたいいちこうとうかつこう",
          "url" : "http://www.kiriichi.ac.jp/"
       },
       "樹徳高等学校" : {
@@ -128,6 +140,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10903H",
          "short_name" : "樹徳高校",
+         "sort_name" : "しゆとく",
          "url" : "http://www.jutoku.ed.jp/junior/index.htm",
          "wikipedia_name" : "樹徳中学校・高等学校"
       },
@@ -136,6 +149,7 @@
          "location_zipcode" : "377-1701",
          "owner_type" : "私立",
          "senior_high_school_code" : "10513K",
+         "sort_name" : "しらねかいせん",
          "url" : "http://www.shirane.ac.jp/",
          "wikipedia_name" : "白根開善学校中等部・高等部"
       },
@@ -156,12 +170,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10147J",
          "short_name" : "中之条高校",
+         "sort_name" : "くんまけんりつなかのしよう",
          "url" : "http://www.nakanojo-hs.gsn.ed.jp/"
       },
       "群馬県立伊勢崎商業高等学校" : {
          "location_area" : "伊勢崎市",
          "owner_type" : "県立",
-         "short_name" : "伊勢崎商業高校"
+         "short_name" : "伊勢崎商業高校",
+         "sort_name" : "くんまけんりついせさきしようきよう"
       },
       "群馬県立伊勢崎工業高等学校" : {
          "location" : "群馬県伊勢崎市中央町3番地8",
@@ -171,6 +187,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10120G",
          "short_name" : "伊勢崎工業高校",
+         "sort_name" : "くんまけんりついせさきこうきよう",
          "url" : "http://www.iko-hs.gsn.ed.jp/"
       },
       "群馬県立伊勢崎清明高等学校" : {
@@ -181,7 +198,8 @@
       "群馬県立伊勢崎興陽高等学校" : {
          "location_area" : "伊勢崎市",
          "owner_type" : "県立",
-         "short_name" : "伊勢崎興陽高校"
+         "short_name" : "伊勢崎興陽高校",
+         "sort_name" : "くんまけんりついせさきこうよう"
       },
       "群馬県立伊勢崎高等学校" : {
          "location" : "群馬県伊勢崎市南千木町1670",
@@ -190,6 +208,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10178J",
          "short_name" : "伊勢崎高校",
+         "sort_name" : "くんまけんりついせさき",
          "url" : "http://www.isesaki-hs.gsn.ed.jp/"
       },
       "群馬県立利根実業高等学校" : {
@@ -213,6 +232,7 @@
          "location_zipcode" : "371-0805",
          "owner_type" : "県立",
          "short_name" : "前橋商業高校",
+         "sort_name" : "まえはししようきよう",
          "url" : "http://www.maesho-hs.gsn.ed.jp/"
       },
       "群馬県立前橋女子高等学校" : {
@@ -231,6 +251,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10105C",
          "short_name" : "前橋工業高校",
+         "sort_name" : "まえはしこうきようこうとうかつこう",
          "url" : "http://www.maeko-hs.gsn.ed.jp/"
       },
       "群馬県立前橋東高等学校" : {
@@ -239,8 +260,7 @@
          "location_zipcode" : "371-0002",
          "owner_type" : "県立",
          "senior_high_school_code" : "10169K",
-         "short_name" : "前橋東高校",
-         "url" : "http://(Web"
+         "short_name" : "前橋東高校"
       },
       "群馬県立前橋清陵高等学校" : {
          "location" : "群馬県前橋市文京町2-20-3",
@@ -249,6 +269,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10107K",
          "short_name" : "前橋清陵高校",
+         "sort_name" : "まえはしせいりよう",
          "url" : "http://www.center.gsn.ed.jp/gakko/kou/seiryo/"
       },
       "群馬県立前橋西高等学校" : {
@@ -265,17 +286,20 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10101A",
          "short_name" : "前橋高校",
+         "sort_name" : "くんまけんりつまえはし",
          "url" : "http://www.maebashi-hs.gsn.ed.jp/"
       },
       "群馬県立勢多農林高等学校" : {
          "location_area" : "前橋市",
          "owner_type" : "県立",
-         "short_name" : "勢多農林高校"
+         "short_name" : "勢多農林高校",
+         "sort_name" : "くんまけんりつせたのうりん"
       },
       "群馬県立吉井高等学校" : {
          "location_area" : "高崎市",
          "owner_type" : "県立",
-         "short_name" : "吉井高校"
+         "short_name" : "吉井高校",
+         "sort_name" : "くんまけんりつよしい"
       },
       "群馬県立吾妻高等学校" : {
          "location" : "群馬県吾妻郡東吾妻町原町192",
@@ -293,6 +317,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10158D",
          "short_name" : "大泉高校",
+         "sort_name" : "くんまけんりつおおいすみ",
          "url" : "http://www.oizumi-hs.gsn.ed.jp/"
       },
       "群馬県立大間々高等学校" : {
@@ -303,6 +328,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10155K",
          "short_name" : "大間々高校",
+         "sort_name" : "くんまけんりつおおまま",
          "url" : "http://www.oma-hs.gsn.ed.jp/"
       },
       "群馬県立太田フレックス高等学校" : {
@@ -312,6 +338,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10179G",
          "short_name" : "太田フレックス高校",
+         "sort_name" : "おおたふれつくす",
          "url" : "http://www.otaflex-hs.gsn.ed.jp/"
       },
       "群馬県立太田女子高等学校" : {
@@ -322,13 +349,15 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10123A",
          "short_name" : "太田女子高校",
+         "sort_name" : "くんまけんりつおおたしよし",
          "url" : "http://www.tajyo-hs.gsn.ed.jp/"
       },
       "群馬県立太田工業高等学校" : {
          "location_area" : "太田市",
          "location_wikipedia_latlon" : "|36|17|45.6|N|139|25|3.5|E|",
          "owner_type" : "県立",
-         "short_name" : "太田工業高校"
+         "short_name" : "太田工業高校",
+         "sort_name" : "おおたこうきよう"
       },
       "群馬県立太田東高等学校" : {
          "location" : "群馬県太田市台之郷町448",
@@ -338,6 +367,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10171A",
          "short_name" : "太田東高校",
+         "sort_name" : "おおたひかし",
          "url" : "http://www.center.gsn.ed.jp/gakko/kou/tahigasi/"
       },
       "群馬県立太田高等学校" : {
@@ -348,6 +378,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10122C",
          "short_name" : "太田高校",
+         "sort_name" : "くんまけんりつおおた",
          "url" : "http://www.ota-hs.gsn.ed.jp/"
       },
       "群馬県立嬬恋高等学校" : {
@@ -366,12 +397,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10180A",
          "short_name" : "安中総合学園高校",
+         "sort_name" : "くんまけんりつあんなかそうこうかくえん",
          "url" : "http://www.annakasogo-hs.gsn.ed.jp/"
       },
       "群馬県立富岡実業高等学校" : {
          "location_area" : "富岡市",
          "owner_type" : "県立",
-         "short_name" : "富岡実業高校"
+         "short_name" : "富岡実業高校",
+         "sort_name" : "くんまけんりつとみおかしつきよう"
       },
       "群馬県立富岡東高等学校" : {
          "location" : "群馬県富岡市富岡118-6",
@@ -380,6 +413,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10137A",
          "short_name" : "富岡東高校",
+         "sort_name" : "くんまけんりつとみおかひかし",
          "url" : "http://www.tomihi-hs.gsn.ed.jp/"
       },
       "群馬県立富岡高等学校" : {
@@ -389,6 +423,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07167G",
          "short_name" : "富岡高校",
+         "sort_name" : "くんまけんりつとみおか",
          "url" : "http://www.gsn.ed.jp/gakko/kou/tomioka/"
       },
       "群馬県立尾瀬高等学校" : {
@@ -403,6 +438,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10154A",
          "short_name" : "新田暁高校",
+         "sort_name" : "くんまけんりつにつたあかつき",
          "url" : "http://www.akatsuki-hs.gsn.ed.jp/"
       },
       "群馬県立松井田高等学校" : {
@@ -427,6 +463,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10114B",
          "short_name" : "桐生南高校",
+         "sort_name" : "くんまけんりつきりゆうみなみ",
          "url" : "http://www.gsn.ed.jp/gakko/kou/kiriminami/"
       },
       "群馬県立桐生女子高等学校" : {
@@ -436,6 +473,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10115A",
          "short_name" : "桐生女子高校",
+         "sort_name" : "くんまけんりつきりゆうしよし",
          "url" : "http://www.kirijo-hs.gsn.ed.jp/"
       },
       "群馬県立桐生工業高等学校" : {
@@ -446,6 +484,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10116J",
          "short_name" : "桐生工業高校",
+         "sort_name" : "きりゆうこうきよう",
          "url" : "http://www.kiriko-hs.gsn.ed.jp/"
       },
       "群馬県立桐生西高等学校" : {
@@ -455,6 +494,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10168A",
          "short_name" : "桐生西高校",
+         "sort_name" : "くんまけんりつきりゆうにし",
          "url" : "http://www.gsn.ed.jp/gakko/kou/kirinisi/"
       },
       "群馬県立桐生高等学校" : {
@@ -464,6 +504,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10113D",
          "short_name" : "桐生高校",
+         "sort_name" : "くんまけんりつきりゆう",
          "url" : "http://www.kiryu-hs.gsn.ed.jp/"
       },
       "群馬県立榛名高等学校" : {
@@ -487,6 +528,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10126F",
          "short_name" : "沼田高校",
+         "sort_name" : "くんまけんりつぬまた",
          "url" : "http://www.numata-hs.gsn.ed.jp/"
       },
       "群馬県立渋川女子高等学校" : {
@@ -505,6 +547,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10164J",
          "short_name" : "渋川工業高校",
+         "sort_name" : "くんまけんりつしふかわこうきよう",
          "url" : "http://www.shibuko-hs.gsn.ed.jp/"
       },
       "群馬県立渋川青翠高等学校" : {
@@ -524,6 +567,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10131B",
          "short_name" : "渋川高校",
+         "sort_name" : "くんまけんりつしふかわ",
          "url" : "http://www.sibukawa-hs.gsn.ed.jp/"
       },
       "群馬県立玉村高等学校" : {
@@ -537,14 +581,14 @@
          "location_zipcode" : "375-0015",
          "owner_type" : "県立",
          "senior_high_school_code" : "10177A",
-         "short_name" : "藤岡中央高校",
-         "url" : "http://(Web"
+         "short_name" : "藤岡中央高校"
       },
       "群馬県立藤岡北高等学校" : {
          "location_area" : "藤岡市",
          "location_wikipedia_latlon" : "|36|15|29|N|139|3|57.6|E|",
          "owner_type" : "県立",
-         "short_name" : "藤岡北高校"
+         "short_name" : "藤岡北高校",
+         "sort_name" : "くんまけんりつふしおかきた"
       },
       "群馬県立藤岡工業高等学校" : {
          "location_area" : "藤岡市",
@@ -559,6 +603,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10157F",
          "short_name" : "西邑楽高校",
+         "sort_name" : "くんまけんりつにしおうら",
          "url" : "http://www.gsn.ed.jp/gakko/kou/nisiora/"
       },
       "群馬県立長野原高等学校" : {
@@ -578,6 +623,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10174F",
          "short_name" : "館林商工高校",
+         "sort_name" : "くんまけんりつたてはやししようこう",
          "url" : "http://www.kansyoko-hs.gsn.ed.jp/next.htm"
       },
       "群馬県立館林女子高等学校" : {
@@ -598,6 +644,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10129A",
          "short_name" : "館林高校",
+         "sort_name" : "くんまけんりつたてはやし",
          "url" : "http://www.center.gsn.ed.jp/gakko/kou/tatebayasi/"
       },
       "群馬県立高崎北高等学校" : {
@@ -608,6 +655,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10167C",
          "short_name" : "高崎北高校",
+         "sort_name" : "たかさききたこうとうかつこう",
          "url" : "http://www.center.gsn.ed.jp/gakko/kou/takakita/"
       },
       "群馬県立高崎商業高等学校" : {
@@ -616,6 +664,7 @@
          "location_zipcode" : "370-0041",
          "owner_type" : "県立",
          "short_name" : "高崎商業高校",
+         "sort_name" : "たかさきしようきよう",
          "url" : "http://www.takasyo-hs.gsn.ed.jp/"
       },
       "群馬県立高崎女子高等学校" : {
@@ -625,6 +674,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10110K",
          "short_name" : "高崎女子高校",
+         "sort_name" : "くんまけんりつたかさきしよし",
          "url" : "http://www.takajo-hs.gsn.ed.jp/"
       },
       "群馬県立高崎工業高等学校" : {
@@ -634,6 +684,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10111H",
          "short_name" : "高崎工業高校",
+         "sort_name" : "くんまけんりつたかさきこうきよう",
          "url" : "http://www.takako-hs.gsn.ed.jp/"
       },
       "群馬県立高崎東高等学校" : {
@@ -653,12 +704,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "10108H",
          "short_name" : "高崎高校",
+         "sort_name" : "くんまけんりつたかさき",
          "url" : "http://www.takasaki.ed.jp/"
       },
       "関東学園大学附属高等学校" : {
          "location_wikipedia_latlon" : "|36|14|40.8|N|139|29|54.6|E|",
          "owner_type" : "私立",
-         "short_name" : "関東学園大学附属高校"
+         "short_name" : "関東学園大学附属高校",
+         "sort_name" : "かんとうかくえんたいかくふそく"
       },
       "高崎健康福祉大学高崎高等学校" : {
          "location" : "群馬県高崎市中大類町531",
@@ -667,6 +720,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10175D",
          "short_name" : "高崎健康福祉大学高崎高校",
+         "sort_name" : "たかさきけんこうふくしたいかくたかさき",
          "url" : "http://www.tuhw-h.ed.jp/"
       },
       "高崎商科大学附属高等学校" : {
@@ -676,6 +730,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "10506G",
          "short_name" : "高崎商科大学附属高校",
+         "sort_name" : "たかさきしようかたいかくふそく",
          "url" : "http://www.tuc-hs.ed.jp/hs/index.htm"
       },
       "高崎経済大学附属高等学校" : {

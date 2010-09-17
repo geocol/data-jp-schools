@@ -7,12 +7,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "18502H",
          "short_name" : "仁愛女子高校",
+         "sort_name" : "しんあいしよしこうとうかつこう",
          "url" : "http://www.jin-ai-h.ed.jp/index.html"
       },
       "北陸学園北陸高等学校" : {
          "location_area" : "福井市",
          "owner_type" : "私立",
          "short_name" : "北陸学園北陸高校",
+         "sort_name" : "ほくりく",
          "wikipedia_name" : "北陸学園北陸中学校・高等学校"
       },
       "啓新高等学校" : {
@@ -23,6 +25,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "18504D",
          "short_name" : "啓新高校",
+         "sort_name" : "けいしんこうとう",
          "url" : "http://www.keishin.ed.jp/"
       },
       "敦賀気比高等学校" : {
@@ -33,6 +36,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "18506A",
          "short_name" : "敦賀気比高校",
+         "sort_name" : "つるかけひ",
          "url" : "http://www.tsurugakehi.ed.jp/",
          "wikipedia_name" : "敦賀気比高等学校・付属中学校"
       },
@@ -49,13 +53,15 @@
       "福井南高等学校" : {
          "location_area" : "福井市",
          "owner_type" : "私立",
-         "short_name" : "福井南高校"
+         "short_name" : "福井南高校",
+         "sort_name" : "ふくいみなみ"
       },
       "福井工業大学附属福井高等学校" : {
          "location_area" : "福井市",
          "location_wikipedia_latlon" : "|36|4|14.2|N|136|11|46.0|E|",
          "owner_type" : "私立",
          "short_name" : "福井工業大学附属福井高校",
+         "sort_name" : "ふくいこうきようたいかくふそくふくい",
          "wikipedia_name" : "福井工業大学附属福井中学校・高等学校"
       },
       "福井県立三国高等学校" : {
@@ -66,6 +72,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18109K",
          "short_name" : "三国高校",
+         "sort_name" : "みくにこうとうかつこう",
          "url" : "http://www.mikuni-h.ed.jp/"
       },
       "福井県立丸岡高等学校" : {
@@ -76,6 +83,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18127H",
          "short_name" : "丸岡高校",
+         "sort_name" : "まるおか",
          "url" : "http://maruoka-h.sakura.ne.jp/"
       },
       "福井県立丸岡高等学校城東分校" : {
@@ -87,7 +95,8 @@
          "location_area" : "鯖江市",
          "location_wikipedia_latlon" : "|35|57|13.5|N|136|10|7.8|E|",
          "owner_type" : "県立",
-         "short_name" : "丹南高校"
+         "short_name" : "丹南高校",
+         "sort_name" : "ふくいけんりつたんなんこうとうかつこう"
       },
       "福井県立丹生高等学校" : {
          "location_area" : "丹生郡越前町",
@@ -118,6 +127,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18110C",
          "short_name" : "坂井農業高校",
+         "sort_name" : "さかいのうきよう",
          "url" : "http://www.sakai-ah.ed.jp/"
       },
       "福井県立大野東高等学校" : {
@@ -136,6 +146,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18112K",
          "short_name" : "大野高校",
+         "sort_name" : "おおの",
          "url" : "http://www.daiko.ed.jp/"
       },
       "福井県立小浜水産高等学校" : {
@@ -156,6 +167,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18122G",
          "short_name" : "敦賀工業高校",
+         "sort_name" : "つるかこうきようこうとうかつこう",
          "url" : "http://www.tsuruga-th.ed.jp/"
       },
       "福井県立敦賀高等学校" : {
@@ -166,6 +178,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18121J",
          "short_name" : "敦賀高校",
+         "sort_name" : "つるか",
          "url" : "http://www.tonkou.ed.jp/"
       },
       "福井県立春江工業高等学校" : {
@@ -181,19 +194,22 @@
       "福井県立武生商業高等学校" : {
          "location_area" : "越前市",
          "owner_type" : "県立",
-         "short_name" : "武生商業高校"
+         "short_name" : "武生商業高校",
+         "sort_name" : "ふくいけんりつたけふしようきようこうとうかつこう"
       },
       "福井県立武生工業高等学校" : {
          "location_area" : "越前市",
          "location_wikipedia_latlon" : "|35|53|23.1|N|136|9|44.6|E|",
          "owner_type" : "県立",
-         "short_name" : "武生工業高校"
+         "short_name" : "武生工業高校",
+         "sort_name" : "ふくいけんりつたけふこうきようこうとうかつこう"
       },
       "福井県立武生東高等学校" : {
          "location_area" : "越前市",
          "location_wikipedia_latlon" : "|35|54|31.4|N|136|13|6.5|E|",
          "owner_type" : "県立",
-         "short_name" : "武生東高校"
+         "short_name" : "武生東高校",
+         "sort_name" : "ふくいけんりつたけふひかしこうとうかつこう"
       },
       "福井県立武生高等学校" : {
          "location" : "福井県越前市八幡1丁目25-15",
@@ -203,6 +219,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18118J",
          "short_name" : "武生高校",
+         "sort_name" : "ふくいけんりつたけふこうとうかつこう",
          "url" : "http://www.takefu-h.ed.jp/"
       },
       "福井県立武生高等学校池田分校" : {
@@ -217,19 +234,22 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18105G",
          "short_name" : "福井商業高校",
+         "sort_name" : "ふくいしようきよう",
          "url" : "http://www.fukusho-ch.ed.jp/"
       },
       "福井県立福井農林高等学校" : {
          "location_area" : "福井市",
          "location_wikipedia_latlon" : "|36|4|44.8|N|136|15|12.4|E|",
          "owner_type" : "県立",
-         "short_name" : "福井農林高校"
+         "short_name" : "福井農林高校",
+         "sort_name" : "ふくいのうりん"
       },
       "福井県立科学技術高等学校" : {
          "location_area" : "福井市",
          "location_wikipedia_latlon" : "|36|2|47.0|N|136|10|44.6|E|",
          "owner_type" : "県立",
-         "short_name" : "科学技術高校"
+         "short_name" : "科学技術高校",
+         "sort_name" : "かかくきしゆつ"
       },
       "福井県立美方高等学校" : {
          "location" : "福井県三方上中郡若狭町気山114",
@@ -239,6 +259,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18123E",
          "short_name" : "美方高校",
+         "sort_name" : "みかたこうとうかつこう",
          "url" : "http://www.mikata-h.ed.jp/"
       },
       "福井県立羽水高等学校" : {
@@ -259,6 +280,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18126K",
          "short_name" : "若狭東高校",
+         "sort_name" : "わかさひかし",
          "url" : "http://www.wakasahigashi-h.ed.jp/"
       },
       "福井県立若狭高等学校" : {
@@ -268,6 +290,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18124C",
          "short_name" : "若狭高校",
+         "sort_name" : "ふくいけんりつわかさこうとうかつこう",
          "url" : "http://www.wakasa-h.ed.jp/"
       },
       "福井県立藤島高等学校" : {
@@ -278,6 +301,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18101D",
          "short_name" : "藤島高校",
+         "sort_name" : "ふししま",
          "url" : "http://www.fujishima-h.ed.jp/"
       },
       "福井県立足羽高等学校" : {
@@ -298,6 +322,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18108A",
          "short_name" : "道守高校",
+         "sort_name" : "みちもり",
          "url" : "http://www.michimori-h.ed.jp/"
       },
       "福井県立金津高等学校" : {
@@ -307,6 +332,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18129D",
          "short_name" : "金津高校",
+         "sort_name" : "かなつ",
          "url" : "http://www.kanazu-h.ed.jp/"
       },
       "福井県立高志高等学校" : {
@@ -317,12 +343,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "18102B",
          "short_name" : "高志高校",
+         "sort_name" : "ふくいけんりつこしこうとうかつこう",
          "url" : "http://www.koshi-h.ed.jp/"
       },
       "福井県立鯖江高等学校" : {
          "location_area" : "鯖江市",
          "owner_type" : "県立",
-         "short_name" : "鯖江高校"
+         "short_name" : "鯖江高校",
+         "sort_name" : "ふくいけんりつさはえこうとうかつこう"
       }
    }
 }

@@ -7,7 +7,8 @@
       "大月短期大学附属高等学校" : {
          "location_wikipedia_latlon" : "|35|36|46.6|N|138|56|49.7|E|",
          "owner_type" : "市立",
-         "short_name" : "大月短大附属高校"
+         "short_name" : "大月短大附属高校",
+         "sort_name" : "おおつきたんきたいかくふそく"
       },
       "富士学苑高等学校" : {
          "location_area" : "富士吉田市",
@@ -22,6 +23,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19505H",
          "short_name" : "山梨学院大学附属高校",
+         "sort_name" : "やまなしかくいんたいかくちゆうかくこうとうかつこう",
          "url" : "http://www.yghs.ed.jp/",
          "wikipedia_name" : "山梨学院大学附属中学高等学校"
       },
@@ -33,6 +35,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19141J",
          "short_name" : "ひばりが丘高校",
+         "sort_name" : "ひはりかおか",
          "url" : "http://www.hibarih.kai.ed.jp/"
       },
       "山梨県立上野原高等学校" : {
@@ -43,6 +46,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19136B",
          "short_name" : "上野原高校",
+         "sort_name" : "うえのはらこうとうかつこう",
          "url" : "http://www.kai.ed.jp/ueko/"
       },
       "山梨県立中央高等学校" : {
@@ -53,12 +57,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19111G",
          "short_name" : "中央高校",
+         "sort_name" : "ちゆうおう",
          "url" : "http://www.chuouh.kai.ed.jp/"
       },
       "山梨県立北杜高等学校" : {
          "location_area" : "北杜市",
          "owner_type" : "県立",
-         "short_name" : "北杜高校"
+         "short_name" : "北杜高校",
+         "sort_name" : "やまなしけんりつほくと"
       },
       "山梨県立吉田高等学校" : {
          "location" : "山梨県富士吉田市下吉田2075-2",
@@ -68,6 +74,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19126E",
          "short_name" : "吉田高校",
+         "sort_name" : "やまなしけんりつよした",
          "url" : "http://www.kai.ed.jp/yoshidah/"
       },
       "山梨県立塩山高等学校" : {
@@ -78,6 +85,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19122B",
          "short_name" : "塩山高校",
+         "sort_name" : "えんさんこうとうかつこう",
          "url" : "http://www.enzanh.kai.ed.jp/"
       },
       "山梨県立増穂商業高等学校" : {
@@ -87,6 +95,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19114A",
          "short_name" : "増穂商業高校",
+         "sort_name" : "やまなしけんりつますほしようきよう",
          "url" : "http://www.masuho-chs.kai.ed.jp/"
       },
       "山梨県立富士北稜高等学校" : {
@@ -97,6 +106,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19140A",
          "short_name" : "富士北稜高校",
+         "sort_name" : "ふしほくりよう",
          "url" : "http://fujihokuryo.ed.jp/"
       },
       "山梨県立富士河口湖高等学校" : {
@@ -116,6 +126,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19121D",
          "short_name" : "山梨高校",
+         "sort_name" : "やまなし",
          "url" : "http://www.yamah.kai.ed.jp/jp/"
       },
       "山梨県立峡南高等学校" : {
@@ -125,6 +136,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19116H",
          "short_name" : "峡南高校",
+         "sort_name" : "やまなしけんりつきようなん",
          "url" : "http://www.kyonanh.kai.ed.jp/"
       },
       "山梨県立巨摩高等学校" : {
@@ -134,6 +146,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19113C",
          "short_name" : "巨摩高校",
+         "sort_name" : "こまこうとうかつこう",
          "url" : "http://www.ko.kai.ed.jp/"
       },
       "山梨県立市川高等学校" : {
@@ -143,6 +156,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19115K",
          "short_name" : "市川高校",
+         "sort_name" : "いちかわこうとうかつこう",
          "url" : "http://www.ichikawa.kai.ed.jp/"
       },
       "山梨県立日川高等学校" : {
@@ -153,6 +167,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19120F",
          "short_name" : "日川高校",
+         "sort_name" : "やまなしけんりつひかわ",
          "url" : "http://www.kai.ed.jp/hikawa/"
       },
       "山梨県立桂高等学校" : {
@@ -163,6 +178,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19125G",
          "short_name" : "桂高校",
+         "sort_name" : "やまなしけんりつかつら",
          "url" : "http://www.katsura.kai.ed.jp/"
       },
       "山梨県立甲府南高等学校" : {
@@ -173,6 +189,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19107J",
          "short_name" : "甲府南高校",
+         "sort_name" : "やまなしけんりつこうふみなみ",
          "url" : "http://www.kofuminami-h.ed.jp/"
       },
       "山梨県立甲府城西高等学校" : {
@@ -183,6 +200,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19132K",
          "short_name" : "甲府城西高校",
+         "sort_name" : "こうふしようさい",
          "url" : "http://www.josaih.kai.ed.jp/"
       },
       "山梨県立甲府工業高等学校" : {
@@ -193,6 +211,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19109E",
          "short_name" : "甲府工業高校",
+         "sort_name" : "やまなしけんりつこうふこうきよう",
          "url" : "http://www.kofu-th.ed.jp/"
       },
       "山梨県立甲府昭和高等学校" : {
@@ -213,6 +232,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19130C",
          "short_name" : "甲府東高校",
+         "sort_name" : "こうふひかし",
          "url" : "http://www.higasih.kai.ed.jp/"
       },
       "山梨県立甲府第一高等学校" : {
@@ -223,6 +243,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19106A",
          "short_name" : "甲府第一高校",
+         "sort_name" : "やまなしけんりつこうふたいいちこうとうかつこう",
          "url" : "http://www.first.kai.ed.jp/"
       },
       "山梨県立甲府西高等学校" : {
@@ -233,6 +254,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19129K",
          "short_name" : "甲府西高校",
+         "sort_name" : "こうふにし",
          "url" : "http://www.kai.ed.jp/nishi/top.htm"
       },
       "山梨県立白根高等学校" : {
@@ -242,6 +264,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19138J",
          "short_name" : "白根高校",
+         "sort_name" : "しらねこう",
          "url" : "http://www.shirane-hs.kai.ed.jp/"
       },
       "山梨県立笛吹高等学校" : {
@@ -251,6 +274,7 @@
          "location_zipcode" : "406-0031",
          "owner_type" : "県立",
          "short_name" : "笛吹高校",
+         "sort_name" : "ふえふき",
          "url" : "http://www.fuefukih.kai.ed.jp/"
       },
       "山梨県立谷村工業高等学校" : {
@@ -261,6 +285,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19124J",
          "short_name" : "谷村工業高校",
+         "sort_name" : "やまなしけんりつやむらこうきよう",
          "url" : "http://www.yamura-th.ed.jp/"
       },
       "山梨県立身延高等学校" : {
@@ -270,6 +295,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19117F",
          "short_name" : "身延高校",
+         "sort_name" : "やまなしけんりつみのふ",
          "url" : "http://www.kai.ed.jp/minobu/"
       },
       "山梨県立農林高等学校" : {
@@ -279,6 +305,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19112E",
          "short_name" : "農林高校",
+         "sort_name" : "やまなしけんりつのうりん",
          "url" : "http://www.norinh.kai.ed.jp/"
       },
       "山梨県立都留高等学校" : {
@@ -288,6 +315,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19123A",
          "short_name" : "都留高校",
+         "sort_name" : "やまなしけんりつつる",
          "url" : "http://www.tsuru-h.ed.jp/"
       },
       "山梨県立韮崎工業高等学校" : {
@@ -297,6 +325,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19105B",
          "short_name" : "韮崎工業高校",
+         "sort_name" : "やまなしけんりつにらさきこうきよう",
          "url" : "http://www.nirasakith.kai.ed.jp/"
       },
       "山梨県立韮崎高等学校" : {
@@ -307,6 +336,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "19104D",
          "short_name" : "韮崎高校",
+         "sort_name" : "やまなしけんりつにらさき",
          "url" : "http://www.niratakah.kai.ed.jp/"
       },
       "山梨英和高等学校" : {
@@ -316,6 +346,7 @@
          "location_zipcode" : "400-8507",
          "owner_type" : "私立",
          "short_name" : "山梨英和高校",
+         "sort_name" : "やまなしえいわちゆうかつこうこうとうかつこう",
          "url" : "http://www.y-eiwa.ed.jp/",
          "wikipedia_name" : "山梨英和中学校・高等学校"
       },
@@ -326,6 +357,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19508B",
          "short_name" : "帝京第三高校",
+         "sort_name" : "ていきようたい3",
          "url" : "http://www.teikyo3.ed.jp/"
       },
       "日本大学明誠高等学校" : {
@@ -336,6 +368,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19507D",
          "short_name" : "日本大学明誠高校",
+         "sort_name" : "にほんたいかくめいせいこうとうかつこう",
          "url" : "http://www.meisei.hs.nihon-u.ac.jp/"
       },
       "日本航空高等学校" : {
@@ -351,6 +384,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19506F",
          "short_name" : "東海大学甲府高校",
+         "sort_name" : "とうかいたいかくこうふこうとうかつこう",
          "url" : "http://www.kofu.tokai.ed.jp/"
       },
       "甲府市立甲府商業高等学校" : {
@@ -360,6 +394,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "19133H",
          "short_name" : "甲府商業高校",
+         "sort_name" : "こうふしりつこうふしようきよう",
          "url" : "http://www.kchs.city.kofu.yamanashi.jp/"
       },
       "甲府湯田高等学校" : {
@@ -370,6 +405,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19502C",
          "short_name" : "甲府湯田高校",
+         "sort_name" : "こうふゆた",
          "url" : "http://www.yuda.ito-gakuen.ed.jp/"
       },
       "自然学園高等学校" : {
@@ -384,6 +420,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19503A",
          "short_name" : "身延山高校",
+         "sort_name" : "みのふさんこうとうかつこう",
          "url" : "http://www.min.jp/minhi/index.html"
       },
       "駿台甲府高等学校" : {
@@ -394,6 +431,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "19504K",
          "short_name" : "駿台甲府高校",
+         "sort_name" : "すんたいこうふ",
          "url" : "http://www.sundai-kofu.ed.jp/",
          "wikipedia_name" : "駿台甲府小学校・中学校・高等学校"
       }

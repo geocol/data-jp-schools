@@ -7,6 +7,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47506J",
          "short_name" : "八洲学園大学国際高校",
+         "sort_name" : "やしまかくえんたいかくこくさい",
          "url" : "http://study.jp/hs/yashima/index.asp"
       },
       "昭和薬科大学附属高等学校" : {
@@ -16,6 +17,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47505A",
          "short_name" : "昭和薬科大学附属高校",
+         "sort_name" : "しようわやつかたいかくふそく",
          "url" : "http://www.showayakka-jh.ed.jp/",
          "wikipedia_name" : "昭和薬科大学附属高等学校・中学校"
       },
@@ -26,6 +28,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47507G",
          "short_name" : "沖縄カトリック高校",
+         "sort_name" : "おきなわかとりつくちゆうかつこうこうとうかつこう",
          "url" : "http://www.catholic-okinawa.ed.jp/",
          "wikipedia_name" : "沖縄カトリック中学校・高等学校"
       },
@@ -35,6 +38,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47504B",
          "short_name" : "沖縄女子短大附属高校",
+         "sort_name" : "おきなわしよしたんきたいかくふそくこうとうかつこう",
          "url" : "http://www.owjc.ac.jp/"
       },
       "沖縄尚学高等学校" : {
@@ -43,6 +47,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47501H",
          "short_name" : "沖縄尚学高校",
+         "sort_name" : "おきなわしようかく",
          "url" : "http://www.okisho.ed.jp/",
          "wikipedia_name" : "沖縄尚学高等学校・附属中学校"
       },
@@ -53,6 +58,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47110A",
          "short_name" : "コザ高校",
+         "sort_name" : "こさこうとうかつこう",
          "url" : "http://www.koza-h.open.ed.jp/"
       },
       "沖縄県立与勝高等学校" : {
@@ -67,6 +73,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47123C",
          "short_name" : "中部商業高校",
+         "sort_name" : "ちゆうふしようきようこうとうかつこう",
          "url" : "http://www.chubu-ch.open.ed.jp/"
       },
       "沖縄県立中部農林高等学校" : {
@@ -77,6 +84,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47134J",
          "short_name" : "中部農林高校",
+         "sort_name" : "ちゆうふのうりん",
          "url" : "http://www.chubu-ah.open.ed.jp/"
       },
       "沖縄県立久米島高等学校" : {
@@ -86,6 +94,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47119E",
          "short_name" : "久米島高校",
+         "sort_name" : "おきなわけんりつくめしま",
          "url" : "http://www.kumejima-h.open.ed.jp/"
       },
       "沖縄県立伊良部高等学校" : {
@@ -100,12 +109,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47138A",
          "short_name" : "八重山商工高校",
+         "sort_name" : "やえやましようこう",
          "url" : "http://www.yaeyama-th.open.ed.jp/"
       },
       "沖縄県立八重山農林高等学校" : {
          "location_area" : "石垣市",
          "owner_type" : "県立",
-         "short_name" : "八重山農林高校"
+         "short_name" : "八重山農林高校",
+         "sort_name" : "やえやまのうりんこうとうかつこう"
       },
       "沖縄県立八重山高等学校" : {
          "location" : "沖縄県石垣市字登野城275番地",
@@ -114,6 +125,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47121G",
          "short_name" : "八重山高校",
+         "sort_name" : "やえやまこうとうかつこう",
          "url" : "http://www.yaeyama-h.open.ed.jp/"
       },
       "沖縄県立具志川商業高等学校" : {
@@ -124,6 +136,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47144F",
          "short_name" : "具志川商業高校",
+         "sort_name" : "くしかわしようきようこうとうかつこう",
          "url" : "http://www.gushikawa-ch.open.ed.jp/"
       },
       "沖縄県立具志川高等学校" : {
@@ -133,6 +146,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47152G",
          "short_name" : "具志川高校",
+         "sort_name" : "くしかわこうとうかつこう",
          "url" : "http://www.gushikawa-h.open.ed.jp/"
       },
       "沖縄県立前原高等学校" : {
@@ -143,6 +157,7 @@
          "school_area" : "中頭学区",
          "senior_high_school_code" : "47112H",
          "short_name" : "前原高校",
+         "sort_name" : "まえはらこうとうかつこう",
          "url" : "http://www.maehara-h.open.ed.jp/"
       },
       "沖縄県立北中城高等学校" : {
@@ -154,6 +169,7 @@
          "school_area" : "中頭学区",
          "senior_high_school_code" : "47153E",
          "short_name" : "北中城高校",
+         "sort_name" : "きたなかくすくこうとうかつこう",
          "url" : "http://www.kitanaka-h.open.ed.jp/"
       },
       "沖縄県立北山高等学校" : {
@@ -164,6 +180,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47117J",
          "short_name" : "北山高校",
+         "sort_name" : "ほくさんこうとうかつこう",
          "url" : "http://www.hokuzan-h.open.ed.jp/"
       },
       "沖縄県立北谷高等学校" : {
@@ -175,6 +192,7 @@
          "school_area" : "中頭学区",
          "senior_high_school_code" : "47142K",
          "short_name" : "北谷高校",
+         "sort_name" : "ちやたんこうとうかつこう",
          "url" : "http://www.chatan-h.open.ed.jp/"
       },
       "沖縄県立北部農林高等学校" : {
@@ -185,6 +203,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47135G",
          "short_name" : "北部農林高校",
+         "sort_name" : "ほくふのうりん",
          "url" : "http://www.hokubu-ah.open.ed.jp/"
       },
       "沖縄県立南部商業高等学校" : {
@@ -208,6 +227,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47133A",
          "short_name" : "南部農林高校",
+         "sort_name" : "なんふのうりん",
          "url" : "http://www.nanbu-ah.open.ed.jp/"
       },
       "沖縄県立南風原高等学校" : {
@@ -218,6 +238,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47143H",
          "short_name" : "南風原高校",
+         "sort_name" : "はえはるこうとうかつこう",
          "url" : "http://www.haebaru-h.open.ed.jp/"
       },
       "沖縄県立名護商工高等学校" : {
@@ -228,6 +249,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47163B",
          "short_name" : "名護商工高校",
+         "sort_name" : "なこしようこうこうとうかつこう",
          "url" : "http://www.nago-th.open.ed.jp/"
       },
       "沖縄県立名護高等学校" : {
@@ -238,6 +260,7 @@
          "school_area" : "国頭学区",
          "senior_high_school_code" : "47115B",
          "short_name" : "名護高校",
+         "sort_name" : "なここうとうかつこう",
          "url" : "http://www.nago-h.open.ed.jp/"
       },
       "沖縄県立向陽高等学校" : {
@@ -249,6 +272,7 @@
          "school_area" : "理数科・国際文科：県全域",
          "senior_high_school_code" : "47161F",
          "short_name" : "向陽高校",
+         "sort_name" : "おきなわけんりつこうよう",
          "url" : "http://koyo-h.open.ed.jp/"
       },
       "沖縄県立嘉手納高等学校" : {
@@ -259,6 +283,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47156K",
          "short_name" : "嘉手納高校",
+         "sort_name" : "おきなわけんりつかてなこうとうかつこう",
          "url" : "http://www.kadena-h.open.ed.jp/"
       },
       "沖縄県立宜野座高等学校" : {
@@ -269,6 +294,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47114D",
          "short_name" : "宜野座高校",
+         "sort_name" : "きのさこうとうかつこう",
          "url" : "http://www.ginoza-h.open.ed.jp/"
       },
       "沖縄県立宜野湾高等学校" : {
@@ -279,6 +305,7 @@
          "school_area" : "中頭学区",
          "senior_high_school_code" : "47149G",
          "short_name" : "宜野湾高校",
+         "sort_name" : "きのわんこうとうかつこう",
          "url" : "http://www.ginowan-h.open.ed.jp/"
       },
       "沖縄県立宮古工業高等学校" : {
@@ -289,7 +316,8 @@
       "沖縄県立宮古総合実業高等学校" : {
          "location_area" : "宮古島市",
          "owner_type" : "県立",
-         "short_name" : "宮古総合実業高校"
+         "short_name" : "宮古総合実業高校",
+         "sort_name" : "みやこそうこう"
       },
       "沖縄県立宮古高等学校" : {
          "location" : "沖縄県平良市字西里718-1",
@@ -298,6 +326,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47120J",
          "short_name" : "宮古高校",
+         "sort_name" : "おきなわけんりつみやこ",
          "url" : "http://www.miyako-h.open.ed.jp/"
       },
       "沖縄県立小禄高等学校" : {
@@ -307,6 +336,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47105E",
          "short_name" : "小禄高校",
+         "sort_name" : "おきなわけんりつおろくこうとうかつこう",
          "url" : "http://www.oroku-h.open.ed.jp/"
       },
       "沖縄県立普天間高等学校" : {
@@ -317,6 +347,7 @@
          "school_area" : "中頭学区",
          "senior_high_school_code" : "47109H",
          "short_name" : "普天間高校",
+         "sort_name" : "ふてんまこうとうかつこう",
          "url" : "http://www.futenma-h.open.ed.jp/"
       },
       "沖縄県立本部高等学校" : {
@@ -328,6 +359,7 @@
          "school_area" : "国頭学区",
          "senior_high_school_code" : "47116A",
          "short_name" : "本部高校",
+         "sort_name" : "もとふこうとうかつこう",
          "url" : "http://www.motobu-h.open.ed.jp/"
       },
       "沖縄県立沖縄工業高等学校" : {
@@ -337,6 +369,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47124A",
          "short_name" : "沖縄工業高校",
+         "sort_name" : "おきなわこうきようこうとうかつこう",
          "url" : "http://www.okinawa-th.open.ed.jp/"
       },
       "沖縄県立沖縄水産高等学校" : {
@@ -346,6 +379,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47131D",
          "short_name" : "沖縄水産高校",
+         "sort_name" : "おきなわけんりつおきなわすいさん",
          "url" : "http://www.okisui-h.open.ed.jp/"
       },
       "沖縄県立泊高等学校" : {
@@ -356,6 +390,7 @@
          "school_area" : "県全域",
          "senior_high_school_code" : "47145D",
          "short_name" : "泊高校",
+         "sort_name" : "とまり",
          "url" : "http://www.tomari-h.open.ed.jp/"
       },
       "沖縄県立浦添商業高等学校" : {
@@ -367,6 +402,7 @@
          "school_area" : "県全域",
          "senior_high_school_code" : "47140C",
          "short_name" : "浦添商業高校",
+         "sort_name" : "うらそえしようきよう",
          "url" : "http://www.urasoe-ch.open.ed.jp/"
       },
       "沖縄県立浦添工業高等学校" : {
@@ -377,6 +413,7 @@
          "school_area" : "沖縄県全域",
          "senior_high_school_code" : "47154C",
          "short_name" : "浦添工業高校",
+         "sort_name" : "うらそえこうきよう",
          "url" : "http://www.urasoe-th.open.ed.jp/"
       },
       "沖縄県立浦添高等学校" : {
@@ -386,6 +423,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47106C",
          "short_name" : "浦添高校",
+         "sort_name" : "うらそえこうとうかつこう",
          "url" : "http://www.urasoe-h.open.ed.jp/"
       },
       "沖縄県立球陽高等学校" : {
@@ -397,6 +435,7 @@
          "school_area" : "県全域",
          "senior_high_school_code" : "47160H",
          "short_name" : "球陽高校",
+         "sort_name" : "おきなわけんりつきゆうよう",
          "url" : "http://www.kyuyo-h.open.ed.jp"
       },
       "沖縄県立真和志高等学校" : {
@@ -406,6 +445,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47107A",
          "short_name" : "真和志高校",
+         "sort_name" : "まわしこうとうかつこう",
          "url" : "http://www.mawashi-h.open.ed.jp/"
       },
       "沖縄県立知念高等学校" : {
@@ -415,6 +455,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47102A",
          "short_name" : "知念高校",
+         "sort_name" : "おきなわけんりつちねんこうとうかつこう",
          "url" : "http://www.chinen-h.open.ed.jp/"
       },
       "沖縄県立石川高等学校" : {
@@ -425,6 +466,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47113F",
          "short_name" : "石川高校",
+         "sort_name" : "いしかわこう",
          "url" : "http://www.ishikawa-h.open.ed.jp/"
       },
       "沖縄県立糸満高等学校" : {
@@ -435,6 +477,7 @@
          "school_area" : "島尻学区",
          "senior_high_school_code" : "47101B",
          "short_name" : "糸満高校",
+         "sort_name" : "いとまんこうとうかつこう",
          "url" : "http://www.itoman-h.open.ed.jp/"
       },
       "沖縄県立美来工科高等学校" : {
@@ -445,6 +488,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47125K",
          "short_name" : "美来工科高校",
+         "sort_name" : "みらいこうかこうとうかつこう",
          "url" : "http://www.mirai-th.open.ed.jp/"
       },
       "沖縄県立美里工業高等学校" : {
@@ -455,6 +499,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47129B",
          "short_name" : "美里工業高校",
+         "sort_name" : "みさとこうきようこうとうかつこう",
          "url" : "http://www.misato-th.open.ed.jp/"
       },
       "沖縄県立美里高等学校" : {
@@ -465,6 +510,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47146B",
          "short_name" : "美里高校",
+         "sort_name" : "みさとこうとうかつこう",
          "url" : "http://www.misato-h.open.ed.jp/"
       },
       "沖縄県立西原高等学校" : {
@@ -476,6 +522,7 @@
          "school_area" : "那覇学区",
          "senior_high_school_code" : "47141A",
          "short_name" : "西原高校",
+         "sort_name" : "おきなわけんりつにしはらこうとうかつこう",
          "url" : "http://www.nishihara-h.open.ed.jp/hp-top/index.html"
       },
       "沖縄県立読谷高等学校" : {
@@ -485,6 +532,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47111K",
          "short_name" : "読谷高校",
+         "sort_name" : "よみたんこうとうかつこう",
          "url" : "http://www.yomitan-h.open.ed.jp/"
       },
       "沖縄県立豊見城南高等学校" : {
@@ -500,6 +548,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47108K",
          "short_name" : "豊見城高校",
+         "sort_name" : "とみしろこうとうかつこう",
          "url" : "http://www.tomishiro-h.open.ed.jp/"
       },
       "沖縄県立辺土名高等学校" : {
@@ -511,6 +560,7 @@
          "school_area" : "国頭学区",
          "senior_high_school_code" : "47118G",
          "short_name" : "辺土名高校",
+         "sort_name" : "へんとなこうとうかつこう",
          "url" : "http://www.hentona-h.open.ed.jp/"
       },
       "沖縄県立那覇商業高等学校" : {
@@ -520,6 +570,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47122E",
          "short_name" : "那覇商業高校",
+         "sort_name" : "なはしようきよう",
          "url" : "http://www.naha-ch.open.ed.jp/"
       },
       "沖縄県立那覇国際高等学校" : {
@@ -531,6 +582,7 @@
          "school_area" : "県内全域",
          "senior_high_school_code" : "47162D",
          "short_name" : "那覇国際高校",
+         "sort_name" : "おきなわけんりつなはこくさい",
          "url" : "http://www.nahakokusai-h.open.ed.jp/"
       },
       "沖縄県立那覇工業高等学校" : {
@@ -541,6 +593,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47127F",
          "short_name" : "那覇工業高校",
+         "sort_name" : "なはこうきよう",
          "url" : "http://www.naha-th.open.ed.jp/"
       },
       "沖縄県立那覇西高等学校" : {
@@ -551,6 +604,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47159D",
          "short_name" : "那覇西高校",
+         "sort_name" : "おきなわけんりつなはにしこうとうかつこう",
          "url" : "http://www.nahanishi-h.open.ed.jp/"
       },
       "沖縄県立那覇高等学校" : {
@@ -562,6 +616,7 @@
          "school_area" : "那覇学区",
          "senior_high_school_code" : "47103J",
          "short_name" : "那覇高校",
+         "sort_name" : "おきなわけんりつなはこうとうかつこう",
          "url" : "http://www.naha-h.open.ed.jp/"
       },
       "沖縄県立開邦高等学校" : {
@@ -573,6 +628,7 @@
          "school_area" : "県全域",
          "senior_high_school_code" : "47157H",
          "short_name" : "開邦高校",
+         "sort_name" : "おきなわけんりつかいほう",
          "url" : "http://www.kaiho-h.open.ed.jp/"
       },
       "沖縄県立陽明高等学校" : {
@@ -583,6 +639,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47147A",
          "short_name" : "陽明高校",
+         "sort_name" : "おきなわけんりつようめいこうとうかつこう",
          "url" : "http://www.yomei-h.open.ed.jp/"
       },
       "沖縄県立首里東高等学校" : {
@@ -592,6 +649,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47155A",
          "short_name" : "首里東高校",
+         "sort_name" : "しゆりひかしこうとうかつこう",
          "url" : "http://www.shurihigashi-h.open.ed.jp/"
       },
       "沖縄県立首里高等学校" : {
@@ -601,6 +659,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "47104G",
          "short_name" : "首里高校",
+         "sort_name" : "しゆりこうとうかつこう",
          "url" : "http://www.shuri-h.open.ed.jp/"
       },
       "興南高等学校" : {
@@ -609,6 +668,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "47503D",
          "short_name" : "興南高校",
+         "sort_name" : "こうなんちゆうかつこうこうとうかつこう",
          "url" : "http://senior.konan-h.ed.jp/index.jsp",
          "wikipedia_name" : "興南中学校・高等学校"
       }

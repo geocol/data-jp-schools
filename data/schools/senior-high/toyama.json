@@ -8,6 +8,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16501J",
          "short_name" : "不二越工業高校",
+         "sort_name" : "ふしこしこうきようこうとうかつこう",
          "url" : "http://www.fujikoshiko.ac.jp/"
       },
       "富山国際大学付属高等学校" : {
@@ -18,6 +19,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16505A",
          "short_name" : "富山国際大学付属高校",
+         "sort_name" : "とやまこくさいたいかくふそく",
          "url" : "http://www.tuins-h.ed.jp/"
       },
       "富山県立となみ野高等学校" : {
@@ -25,13 +27,14 @@
          "location_wikipedia_latlon" : "|36|37|7.6|N|136|54|5.2|E|",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "となみ野高校"
+         "short_name" : "となみ野高校",
+         "sort_name" : "とやまけんりつとなみの"
       },
       "富山県立上市高等学校" : {
          "location" : "富山県中新川郡上市町斉神新444",
          "location_area" : "中新川郡",
          "location_wikipedia_latlon" : "|36|42|23.9|N|137|22|7.6|E|",
-         "location_zipcode" : "930－0424",
+         "location_zipcode" : "930",
          "owner_type" : "県立",
          "school_area" : "新川学区",
          "senior_high_school_code" : "16109J",
@@ -43,7 +46,8 @@
          "location_wikipedia_latlon" : "|36|35|23|N|137|14|41.3|E|",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "中央農業高校"
+         "short_name" : "中央農業高校",
+         "sort_name" : "ちゆうおうのうきよう"
       },
       "富山県立二上工業高等学校" : {
          "location_area" : "高岡市",
@@ -71,6 +75,7 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16102A",
          "short_name" : "入善高校",
+         "sort_name" : "にゆうせん",
          "url" : "http://www.tym.ed.jp/sc320/"
       },
       "富山県立八尾高等学校" : {
@@ -88,25 +93,29 @@
          "location_area" : "南砺市",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "南砺平高校"
+         "short_name" : "南砺平高校",
+         "sort_name" : "なんとたいらこうとうかつこう"
       },
       "富山県立南砺福光高等学校" : {
          "location_area" : "南砺市",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "南砺福光高校"
+         "short_name" : "南砺福光高校",
+         "sort_name" : "なんとふくみつこうとうかつこう"
       },
       "富山県立南砺福野高等学校" : {
          "location_area" : "南砺市",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "南砺福野高校"
+         "short_name" : "南砺福野高校",
+         "sort_name" : "とやまけんりつなんとふくのこうとうかつこう"
       },
       "富山県立南砺総合高等学校井波高等学校" : {
          "location_area" : "南砺市",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "南砺総合高校井波高等学校"
+         "short_name" : "南砺総合高校井波高等学校",
+         "sort_name" : "なんとそうこうこうとうかつこういなみこうとうかつこう"
       },
       "富山県立呉羽高等学校" : {
          "location" : "富山県富山市呉羽町2070‐5",
@@ -117,6 +126,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16145E",
          "short_name" : "呉羽高校",
+         "sort_name" : "くれは",
          "url" : "http://www.kureha-h.tym.ed.jp/"
       },
       "富山県立大沢野工業高等学校" : {
@@ -127,6 +137,7 @@
          "owner_type" : "県立",
          "school_area" : "富山学区",
          "short_name" : "大沢野工業高校",
+         "sort_name" : "おおさわのこうきよう",
          "url" : "http://www.tym.ed.jp/sc329/"
       },
       "富山県立大門高等学校" : {
@@ -147,6 +158,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16115C",
          "short_name" : "富山いずみ高校",
+         "sort_name" : "とやまいすみ",
          "url" : "http://www.izumi-h.tym.ed.jp/"
       },
       "富山県立富山中部高等学校" : {
@@ -157,6 +169,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16116A",
          "short_name" : "富山中部高校",
+         "sort_name" : "とやまけんりつとやまちゆうふこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc332/"
       },
       "富山県立富山北部高等学校" : {
@@ -167,6 +180,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16111A",
          "short_name" : "富山北部高校",
+         "sort_name" : "とやまけんりつとやまほくふこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc333"
       },
       "富山県立富山南高等学校" : {
@@ -178,6 +192,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16113G",
          "short_name" : "富山南高校",
+         "sort_name" : "とやまけんりつとやまみなみ",
          "url" : "http://www.minami-h.tym.ed.jp/"
       },
       "富山県立富山商業高等学校" : {
@@ -189,6 +204,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16117K",
          "short_name" : "富山商業高校",
+         "sort_name" : "とやましようきよう",
          "url" : "http://www.tomisho-h.tym.ed.jp/"
       },
       "富山県立富山工業高等学校" : {
@@ -200,6 +216,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16118H",
          "short_name" : "富山工業高校",
+         "sort_name" : "とやまけんりつとやまこうきようこうとうかつこう",
          "url" : "http://www.toyama-th.tym.ed.jp/"
       },
       "富山県立富山東高等学校" : {
@@ -211,6 +228,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16112J",
          "short_name" : "富山東高校",
+         "sort_name" : "とやまけんりつとやまひかしこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc337/"
       },
       "富山県立富山西高等学校" : {
@@ -222,6 +240,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16120K",
          "short_name" : "富山西高校",
+         "sort_name" : "とやまにし",
          "url" : "http://www.toyamanishi-h.tym.ed.jp/"
       },
       "富山県立富山高等学校" : {
@@ -232,6 +251,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16114E",
          "short_name" : "富山高校",
+         "sort_name" : "とやまけんりつとやま",
          "url" : "http://www.toyama-hi.ed.jp"
       },
       "富山県立小杉高等学校" : {
@@ -243,6 +263,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16124B",
          "short_name" : "小杉高校",
+         "sort_name" : "とやまけんりつこすきこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc346/"
       },
       "富山県立小矢部園芸高等学校" : {
@@ -250,7 +271,8 @@
          "location_wikipedia_latlon" : "|36|39|31.9|N|136|54|31.2|E|",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "小矢部園芸高校"
+         "short_name" : "小矢部園芸高校",
+         "sort_name" : "とやまけんりつおやへえんけい"
       },
       "富山県立志貴野高等学校" : {
          "location" : "富山県高岡市末広町1-7",
@@ -261,13 +283,15 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16135H",
          "short_name" : "志貴野高校",
+         "sort_name" : "しきの",
          "url" : "http://www.shikino-h.tym.ed.jp/"
       },
       "富山県立新川みどり野高等学校" : {
          "location_area" : "魚津市",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "新川みどり野高校"
+         "short_name" : "新川みどり野高校",
+         "sort_name" : "とやまけんりつにいかわみとりの"
       },
       "富山県立新湊高等学校" : {
          "location" : "富山県射水市西新湊21-10",
@@ -277,6 +301,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16131E",
          "short_name" : "新湊高校",
+         "sort_name" : "しんみなとこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc356/"
       },
       "富山県立有磯高等学校" : {
@@ -297,6 +322,7 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16103K",
          "short_name" : "桜井高校",
+         "sort_name" : "とやまけんりつさくらいこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc321/"
       },
       "富山県立水橋高等学校" : {
@@ -319,6 +345,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16132C",
          "short_name" : "氷見高校",
+         "sort_name" : "ひみこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc357/"
       },
       "富山県立泊高等学校" : {
@@ -330,6 +357,7 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16101C",
          "short_name" : "泊高校",
+         "sort_name" : "とまりこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc319/"
       },
       "富山県立海洋高等学校" : {
@@ -346,6 +374,7 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16107B",
          "short_name" : "滑川高校",
+         "sort_name" : "なめりかわこうとうかっこう",
          "url" : "http://www.namerikawa-h.tym.ed.jp//"
       },
       "富山県立石動高等学校" : {
@@ -356,6 +385,7 @@
          "school_area" : "砺波学区",
          "senior_high_school_code" : "16143J",
          "short_name" : "石動高校",
+         "sort_name" : "いするきこうとうかつこう",
          "url" : "http://www.isurugi-h.tym.ed.jp/"
       },
       "富山県立砺波工業高等学校" : {
@@ -366,6 +396,7 @@
          "owner_type" : "県立",
          "school_area" : "砺波学区",
          "short_name" : "砺波工業高校",
+         "sort_name" : "とやまけんりつとなみこうきようこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc365/"
       },
       "富山県立砺波高等学校" : {
@@ -386,6 +417,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16146C",
          "short_name" : "福岡高校",
+         "sort_name" : "とやまけんりつふくおか",
          "url" : "http://www.fukuoka-h.tym.ed.jp/"
       },
       "富山県立雄山高等学校" : {
@@ -396,6 +428,7 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16110B",
          "short_name" : "雄山高校",
+         "sort_name" : "おやまこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc328/"
       },
       "富山県立雄峰高等学校" : {
@@ -406,6 +439,7 @@
          "school_area" : "富山学区",
          "senior_high_school_code" : "16122F",
          "short_name" : "雄峰高校",
+         "sort_name" : "ゆうほう",
          "url" : "http://www.yuho-h.tym.ed.jp/"
       },
       "富山県立高岡南高等学校" : {
@@ -427,6 +461,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16129C",
          "short_name" : "高岡商業高校",
+         "sort_name" : "とやまけんりつたかおかしようきようこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc352/"
       },
       "富山県立高岡工芸高等学校" : {
@@ -434,7 +469,8 @@
          "location_wikipedia_latlon" : "|36|45|2.6|N|137|1|33.3|E|",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "高岡工芸高校"
+         "short_name" : "高岡工芸高校",
+         "sort_name" : "とやまけんりつたかおかこうけいこうとうかつこう"
       },
       "富山県立高岡西高等学校" : {
          "location" : "富山県高岡市横田町3-4-1",
@@ -454,6 +490,7 @@
          "school_area" : "高岡学区",
          "senior_high_school_code" : "16125A",
          "short_name" : "高岡高校",
+         "sort_name" : "とやまけんりつたかおかこうとうかつこう",
          "url" : "http://www.tym.ed.jp/sc348/"
       },
       "富山県立魚津工業高等学校" : {
@@ -476,17 +513,23 @@
          "school_area" : "新川学区",
          "senior_high_school_code" : "16104H",
          "short_name" : "魚津高校",
+         "sort_name" : "とやまけんりつうおつこうとうかつこう",
          "url" : "http://www.uozu-h.tym.ed.jp/"
       },
       "富山第一高等学校" : {
          "location_area" : "富山市",
          "owner_type" : "私立",
-         "short_name" : "富山第一高校"
+         "short_name" : "富山第一高校",
+         "sort_name" : "とやまたいいち"
       },
       "片山学園高等学校" : {
+         "location" : "富山県富山市東黒牧10",
          "location_area" : "富山市",
+         "location_zipcode" : "930-1262",
          "owner_type" : "私立",
          "short_name" : "片山学園高校",
+         "sort_name" : "かたやまかくえん",
+         "url" : "http://www.katayamagakuen.jp/",
          "wikipedia_name" : "片山学園中学校・高等学校"
       },
       "荒井学園新川高等学校" : {
@@ -502,6 +545,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16508F",
          "short_name" : "高岡向陵高校",
+         "sort_name" : "たかおかこうりようこうとうかつこう",
          "url" : "http://www.takaokakoryo-h.ed.jp/"
       },
       "高岡第一高等学校" : {
@@ -511,6 +555,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16506K",
          "short_name" : "高岡第一高校",
+         "sort_name" : "たかおかたいいち",
          "url" : "http://www.takaoka1-h.ed.jp/"
       },
       "高岡龍谷高等学校" : {
@@ -520,6 +565,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16507H",
          "short_name" : "高岡龍谷高校",
+         "sort_name" : "たかおかりゆうこく",
          "url" : "http://www.takaokaryukoku-h.ed.jp/"
       },
       "高朋高等学校" : {
@@ -529,6 +575,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16503E",
          "short_name" : "高朋高校",
+         "sort_name" : "こうほうこうとうかつこう",
          "url" : "http://www.koho.ac.jp/"
       },
       "龍谷富山高等学校" : {
@@ -538,6 +585,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "16502G",
          "short_name" : "龍谷富山高校",
+         "sort_name" : "りゆうこくとやま",
          "url" : "http://www.ryukokutoyama-h.ed.jp/"
       }
    }

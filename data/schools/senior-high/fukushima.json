@@ -6,6 +6,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07519B",
          "short_name" : "いわき秀英高校",
+         "sort_name" : "いわきしゆうえいこうとうかつこう",
          "url" : "http://www.iwaki-shuei.ac.jp/"
       },
       "仁愛高等学校" : {
@@ -14,6 +15,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07515K",
          "short_name" : "仁愛高校",
+         "sort_name" : "しんあいこうとう",
          "url" : "http://www.jinai.ac.jp/index2.htm"
       },
       "会津若松ザベリオ学園高等学校" : {
@@ -26,6 +28,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07520F",
          "short_name" : "大智学園高校",
+         "sort_name" : "たいちかくえん",
          "url" : "http://daichi.ed.jp/"
       },
       "学校法人石川高等学校" : {
@@ -34,6 +37,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07512E",
          "short_name" : "学校法人石川高校",
+         "sort_name" : "かつこうほうしんいしかわ",
          "url" : "http://ishikawa-gijuku.ac.jp/",
          "wikipedia_name" : "学校法人石川高等学校・石川義塾中学校"
       },
@@ -44,6 +48,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07509E",
          "short_name" : "尚志学園尚志高校",
+         "sort_name" : "しようしかくえんしようしこうとうかつこう",
          "url" : "http://www.shoshi.ed.jp/highschool/"
       },
       "帝京安積高等学校" : {
@@ -53,6 +58,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07508G",
          "short_name" : "帝京安積高校",
+         "sort_name" : "ていきようあさか",
          "url" : "http://www.teikyoasaka.ed.jp/"
       },
       "日本大学東北高等学校" : {
@@ -62,6 +68,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07510J",
          "short_name" : "日本大学東北高校",
+         "sort_name" : "にほんたいかくとうほくこうとうかつこう",
          "url" : "http://www.tohoku.hs.nihon-u.ac.jp/"
       },
       "東日本国際大学附属昌平高等学校" : {
@@ -71,12 +78,14 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07511G",
          "short_name" : "東日本国際大学附属昌平高校",
+         "sort_name" : "ひかしにつほんこくさいたいかくふそく",
          "url" : "http://www.shohei-chukou.ac.jp/",
          "wikipedia_name" : "東日本国際大学附属昌平中学・高等学校"
       },
       "松栄高等学校" : {
          "owner_type" : "私立",
-         "short_name" : "松栄高校"
+         "short_name" : "松栄高校",
+         "sort_name" : "しようえい"
       },
       "松韻学園福島高等学校" : {
          "location" : "福島県福島市御山町9-1",
@@ -85,6 +94,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07501K",
          "short_name" : "松韻学園福島高校",
+         "sort_name" : "しよういんかくえんふくしま",
          "url" : "http://www.gakufuku-h.fks.ed.jp/"
       },
       "桜の聖母学院高等学校" : {
@@ -92,6 +102,7 @@
          "location_zipcode" : "960-8055",
          "owner_type" : "私立",
          "short_name" : "桜の聖母学院高校",
+         "sort_name" : "さくらのせいほかくいん",
          "url" : "http://www.ssg.ac.jp/ckfiles/",
          "wikipedia_name" : "桜の聖母学院中学校・高等学校"
       },
@@ -100,6 +111,7 @@
          "location_zipcode" : "970-8025",
          "owner_type" : "私立",
          "short_name" : "磐城緑蔭高校",
+         "sort_name" : "いわきりよくいん",
          "url" : "http://www.ryokuin.ed.jp/",
          "wikipedia_name" : "磐城緑蔭中学校・高等学校"
       },
@@ -114,6 +126,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07505B",
          "short_name" : "福島東稜高校",
+         "sort_name" : "ふくしまとうりよう",
          "url" : "http://www.toryo.ac.jp/"
       },
       "福島県磐城第一高等学校" : {
@@ -122,6 +135,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07516H",
          "short_name" : "福島県磐城第一高校",
+         "sort_name" : "ふくしまけんいわきたい1",
          "url" : "http://www.iwaki1-h.ed.jp/"
       },
       "福島県立あさか開成高等学校" : {
@@ -131,6 +145,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07180D",
          "short_name" : "あさか開成高校",
+         "sort_name" : "ふくしまけんりつあさかかいせい",
          "url" : "http://www.asakakaisei-h.fks.ed.jp"
       },
       "福島県立いわき光洋高等学校" : {
@@ -139,6 +154,7 @@
          "location_zipcode" : "970-8047",
          "owner_type" : "県立",
          "short_name" : "いわき光洋高校",
+         "sort_name" : "ふくしまけんりついわきこうよう",
          "url" : "http://www.iwakikoyo-h.fks.ed.jp/"
       },
       "福島県立いわき海星高等学校" : {
@@ -147,6 +163,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07159F",
          "short_name" : "いわき海星高校",
+         "sort_name" : "ふくしまけんりついわきかいせい",
          "url" : "http://www.iwakikaisei-h.fks.ed.jp/"
       },
       "福島県立いわき総合高等学校" : {
@@ -156,6 +173,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07155C",
          "short_name" : "いわき総合高校",
+         "sort_name" : "ふくしまけんりついわきそうこう",
          "url" : "http://www.iwakisogo-h.fks.ed.jp/"
       },
       "福島県立いわき翠の杜高等学校" : {
@@ -163,6 +181,7 @@
          "location_zipcode" : "973-8403",
          "owner_type" : "県立",
          "short_name" : "いわき翠の杜高校",
+         "sort_name" : "ふくしまけんりついわきみとりのもり",
          "url" : "http://www.iwakimidorinomori-h.fks.ed.jp/"
       },
       "福島県立二本松工業高等学校" : {
@@ -172,6 +191,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07112K",
          "short_name" : "二本松工業高校",
+         "sort_name" : "ふくしまけんりつにほんまつこうきよう",
          "url" : "http://www.nihonmatsu-th.fks.ed.jp/"
       },
       "福島県立会津学鳳高等学校" : {
@@ -180,6 +200,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07134A",
          "short_name" : "会津学鳳高校",
+         "sort_name" : "ふくしまけんりつあいつかくほう",
          "url" : "http://www.aizugakuho-h.fks.ed.jp/",
          "wikipedia_name" : "福島県立会津学鳳中学校・高等学校"
       },
@@ -188,6 +209,7 @@
          "location_zipcode" : "965-0802",
          "owner_type" : "県立",
          "short_name" : "会津工業高校",
+         "sort_name" : "ふくしまけんりつあいつこうきよう",
          "url" : "http://www.aizu-th.fks.ed.jp/"
       },
       "福島県立会津第二高等学校" : {
@@ -196,6 +218,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07183J",
          "short_name" : "会津第二高校",
+         "sort_name" : "ふくしまけんりつあいつたいに",
          "url" : "http://www.aizu2-h.fks.ed.jp/"
       },
       "福島県立会津農林高等学校" : {
@@ -204,6 +227,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07146D",
          "short_name" : "会津農林高校",
+         "sort_name" : "ふくしまけんりつあいつのうりん",
          "url" : "http://www.aizunorin-h.fks.ed.jp/"
       },
       "福島県立会津高等学校" : {
@@ -212,6 +236,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07132D",
          "short_name" : "会津高校",
+         "sort_name" : "ふくしまけんりつあいつ",
          "url" : "http://www.aizu-h.fks.ed.jp/"
       },
       "福島県立保原高等学校" : {
@@ -220,6 +245,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07110C",
          "short_name" : "保原高校",
+         "sort_name" : "ほはらこうとうかつこう",
          "url" : "http://www.hobara-h.fks.ed.jp/"
       },
       "福島県立修明高等学校" : {
@@ -228,6 +254,7 @@
          "location_zipcode" : "963-6131",
          "owner_type" : "県立",
          "short_name" : "修明高校",
+         "sort_name" : "ふくしまけんりつしゆうめい",
          "url" : "http://www.shumei-h.fks.ed.jp/"
       },
       "福島県立修明高等学校鮫川校" : {
@@ -236,6 +263,7 @@
          "location_zipcode" : "963-8401",
          "owner_type" : "県立",
          "short_name" : "修明高校鮫川校",
+         "sort_name" : "ふくしまけんりつしゆうめい さめかわ",
          "url" : "http://www.shumei-h-samegawa.fks.ed.jp/"
       },
       "福島県立光南高等学校" : {
@@ -244,6 +272,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07192H",
          "short_name" : "光南高校",
+         "sort_name" : "ふくしまけんりつこうなん",
          "url" : "http://www.kohnan-h.fks.ed.jp/"
       },
       "福島県立勿来工業高等学校" : {
@@ -252,6 +281,7 @@
          "location_zipcode" : "974-8261",
          "owner_type" : "県立",
          "short_name" : "勿来工業高校",
+         "sort_name" : "ふくしまけんりつなこそこうきよう",
          "url" : "http://www.nakoso-th.fks.ed.jp/"
       },
       "福島県立勿来高等学校" : {
@@ -261,6 +291,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07160K",
          "short_name" : "勿来高校",
+         "sort_name" : "ふくしまけんりつなこそ",
          "url" : "http://www.nakoso-h.fks.ed.jp/"
       },
       "福島県立南会津高等学校" : {
@@ -269,6 +300,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07149J",
          "short_name" : "南会津高校",
+         "sort_name" : "ふくしまけんりつみなみあいつ",
          "url" : "http://www.minamiaizu-h.fks.ed.jp/"
       },
       "福島県立原町高等学校" : {
@@ -277,6 +309,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07172C",
          "short_name" : "原町高校",
+         "sort_name" : "ふくしまけんりつはらまち",
          "url" : "http://www.haramachi-h.fks.ed.jp/"
       },
       "福島県立双葉翔陽高等学校" : {
@@ -286,6 +319,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07168E",
          "short_name" : "双葉翔陽高校",
+         "sort_name" : "ふくしまけんりつふたはしようよう",
          "url" : "http://www.futabashoyo-h.fks.ed.jp/"
       },
       "福島県立双葉高等学校" : {
@@ -296,6 +330,7 @@
          "school_area" : "福島県双葉",
          "senior_high_school_code" : "07165A",
          "short_name" : "双葉高校",
+         "sort_name" : "ふくしまけんりつふたはこうとうかつこう",
          "url" : "http://www.futaba-h.fks.ed.jp/"
       },
       "福島県立只見高等学校" : {
@@ -304,6 +339,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07150B",
          "short_name" : "只見高校",
+         "sort_name" : "ふくしまけんりつたたみ",
          "url" : "http://www.tadami-h.fks.ed.jp/"
       },
       "福島県立喜多方東高等学校" : {
@@ -312,6 +348,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07139A",
          "short_name" : "喜多方東高校",
+         "sort_name" : "ふくしまけんりつきたかたひかし",
          "url" : "http://www.kitakatahigashi-h.fks.ed.jp/"
       },
       "福島県立喜多方桐桜高等学校" : {
@@ -319,7 +356,7 @@
          "location_zipcode" : "966-0914",
          "owner_type" : "県立",
          "short_name" : "喜多方桐桜高校",
-         "url" : " "
+         "sort_name" : "ふくしまけんりつきたかたとうおう"
       },
       "福島県立喜多方高等学校" : {
          "location" : "福島県喜多方市桜ガ丘1-129",
@@ -327,6 +364,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07138C",
          "short_name" : "喜多方高校",
+         "sort_name" : "ふくしまけんりつきたかた",
          "url" : "http://www.kitakata-h.fks.ed.jp/"
       },
       "福島県立四倉高等学校" : {
@@ -336,6 +374,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07164B",
          "short_name" : "四倉高校",
+         "sort_name" : "ふくしまけんりつよつくら",
          "url" : "http://www.yotsukura-h.fks.ed.jp/"
       },
       "福島県立坂下高等学校" : {
@@ -344,6 +383,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07145F",
          "short_name" : "坂下高校",
+         "sort_name" : "ふくしまけんりつはんけ",
          "url" : "http://www.bange-h.fks.ed.jp/"
       },
       "福島県立塙工業高等学校" : {
@@ -352,6 +392,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07125A",
          "short_name" : "塙工業高校",
+         "sort_name" : "ふくしまけんりつはなわこうきよう",
          "url" : "http://www.hanawa-th.fks.ed.jp/"
       },
       "福島県立大沼高等学校" : {
@@ -360,6 +401,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07144H",
          "short_name" : "大沼高校",
+         "sort_name" : "ふくしまけんりつおおぬま",
          "url" : "http://www.ohnuma-h.fks.ed.jp/"
       },
       "福島県立好間高等学校" : {
@@ -369,6 +411,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07156A",
          "short_name" : "好間高校",
+         "sort_name" : "ふくしまけんりつよしま",
          "url" : "http://www.yoshima-h.fks.ed.jp/"
       },
       "福島県立安積高等学校" : {
@@ -377,6 +420,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07114F",
          "short_name" : "安積高校",
+         "sort_name" : "ふくしまけんりつあさか",
          "url" : "http://www.asaka-h.fks.ed.jp/"
       },
       "福島県立安積高等学校御舘校" : {
@@ -385,6 +429,7 @@
          "location_zipcode" : "963-0831",
          "owner_type" : "県立",
          "short_name" : "安積高校御舘校",
+         "sort_name" : "ふくしまけんりつあさか みたて",
          "url" : "http://www.asaka-h-mitate.fks.ed.jp/"
       },
       "福島県立安積黎明高等学校" : {
@@ -394,6 +439,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07116B",
          "short_name" : "安積黎明高校",
+         "sort_name" : "ふくしまけんりつあさかれいめい",
          "url" : "http://www.asakareimei-h.fks.ed.jp"
       },
       "福島県立安達東高等学校" : {
@@ -403,6 +449,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07177D",
          "short_name" : "安達東高校",
+         "sort_name" : "ふくしまけんりつあたちひかし",
          "url" : "http://www.adachihigashi-h.fks.ed.jp/"
       },
       "福島県立安達高等学校" : {
@@ -412,6 +459,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07111A",
          "short_name" : "安達高校",
+         "sort_name" : "ふくしまけんりつあたちこうとうかつこう",
          "url" : "http://www.adachi-h.fks.ed.jp/"
       },
       "福島県立富岡高等学校" : {
@@ -421,6 +469,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07167G",
          "short_name" : "富岡高校",
+         "sort_name" : "ふくしまけんりつとみおか",
          "url" : "http://www.tomioka-h.fks.ed.jp/"
       },
       "福島県立富岡高等学校川内校" : {
@@ -428,6 +477,7 @@
          "location_zipcode" : "979-1202",
          "owner_type" : "県立",
          "short_name" : "富岡高校川内校",
+         "sort_name" : "とみおかかわうち",
          "url" : "http://www.tomioka-h-kawauchi.fks.ed.jp/"
       },
       "福島県立小名浜高等学校" : {
@@ -437,6 +487,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07158H",
          "short_name" : "小名浜高校",
+         "sort_name" : "ふくしまけんりつおなはま",
          "url" : "http://www.onahama-h.fks.ed.jp/"
       },
       "福島県立小野高等学校" : {
@@ -446,6 +497,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07131F",
          "short_name" : "小野高校",
+         "sort_name" : "ふくしまけんりつおの",
          "url" : "http://www.ono-h.fks.ed.jp/"
       },
       "福島県立小野高等学校平田校" : {
@@ -454,6 +506,7 @@
          "location_zipcode" : "963-8202",
          "owner_type" : "県立",
          "short_name" : "小野高校平田校",
+         "sort_name" : "ふくしまけんりつおの ひらた",
          "url" : "http://www.ono-h-hirata.fks.ed.jp/"
       },
       "福島県立小高商業高等学校" : {
@@ -462,11 +515,13 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07174K",
          "short_name" : "小高商業高校",
+         "sort_name" : "ふくしまけんりつおたかしようきよう",
          "url" : "http://www.odaka-ch.fks.ed.jp/"
       },
       "福島県立小高工業高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "小高工業高校"
+         "short_name" : "小高工業高校",
+         "sort_name" : "ふくしまけんりつおたかこうきよう"
       },
       "福島県立岩瀬農業高等学校" : {
          "location" : "福島県岩瀬郡鏡石町鏡田桜町207",
@@ -474,6 +529,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07121J",
          "short_name" : "岩瀬農業高校",
+         "sort_name" : "ふくしまけんりついわせのうきようこうとうかつこう",
          "url" : "http://www.iwase-ah.fks.ed.jp/"
       },
       "福島県立川俣高等学校" : {
@@ -483,6 +539,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07108A",
          "short_name" : "川俣高校",
+         "sort_name" : "ふくしまけんりつかわまた",
          "url" : "http://www.kawamata-h.fks.ed.jp/"
       },
       "福島県立川口高等学校" : {
@@ -491,6 +548,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07147B",
          "short_name" : "川口高校",
+         "sort_name" : "ふくしまけんりつかわくち",
          "url" : "http://www.kawaguchi-h.fks.ed.jp/"
       },
       "福島県立平商業高等学校" : {
@@ -500,6 +558,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07154E",
          "short_name" : "平商業高校",
+         "sort_name" : "ふくしまけんりつたいらしようきよう",
          "url" : "http://www.taira-ch.fks.ed.jp/"
       },
       "福島県立平工業高等学校" : {
@@ -508,6 +567,7 @@
          "location_zipcode" : "970-8032",
          "owner_type" : "県立",
          "short_name" : "平工業高校",
+         "sort_name" : "ふくしまけんりつたいらこうきよう",
          "url" : "http://www.taira-th.fks.ed.jp/"
       },
       "福島県立新地高等学校" : {
@@ -524,6 +584,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07113H",
          "short_name" : "本宮高校",
+         "sort_name" : "ふくしまけんりつもとみや",
          "url" : "http://www.motomiya-h.fks.ed.jp/"
       },
       "福島県立梁川高等学校" : {
@@ -533,6 +594,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07109K",
          "short_name" : "梁川高校",
+         "sort_name" : "ふくしまけんりつやなかわ",
          "url" : "http://www.yanagawa-h.fks.ed.jp/"
       },
       "福島県立橘高等学校" : {
@@ -542,6 +604,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14210H",
          "short_name" : "橘高校",
+         "sort_name" : "ふくしまけんりつたちはな",
          "url" : "http://www.tachibana-h.fks.ed.jp/"
       },
       "福島県立浪江高等学校" : {
@@ -551,6 +614,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07166J",
          "short_name" : "浪江高校",
+         "sort_name" : "ふくしまけんりつなみえ",
          "url" : "http://www.namie-h.fks.ed.jp/"
       },
       "福島県立浪江高等学校津島校" : {
@@ -560,6 +624,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07166J",
          "short_name" : "浪江高校津島校",
+         "sort_name" : "ふくしまけんりつなみえ つしま",
          "url" : "http://www.namie-h-tsushima.fks.ed.jp/"
       },
       "福島県立清陵情報高等学校" : {
@@ -569,6 +634,7 @@
          "school_area" : "県下一円",
          "senior_high_school_code" : "07190A",
          "short_name" : "清陵情報高校",
+         "sort_name" : "せいりようしようほうこうとうかつこう",
          "url" : "http://www.seiryojoho-h.ed.jp/"
       },
       "福島県立湖南高等学校" : {
@@ -578,6 +644,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07115D",
          "short_name" : "湖南高校",
+         "sort_name" : "ふくしまけんりつこなん",
          "url" : "http://www.konan-h.fks.ed.jp"
       },
       "福島県立湯本高等学校" : {
@@ -587,6 +654,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07157K",
          "short_name" : "湯本高校",
+         "sort_name" : "ふくしまけんりつゆもと",
          "url" : "http://www.yumoto-h.fks.ed.jp/"
       },
       "福島県立猪苗代高等学校" : {
@@ -596,6 +664,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07137E",
          "short_name" : "猪苗代高校",
+         "sort_name" : "ふくしまけんりついなわしろ",
          "url" : "http://www.inawashiro-h.fks.ed.jp/"
       },
       "福島県立田島高等学校" : {
@@ -604,6 +673,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07148A",
          "short_name" : "田島高校",
+         "sort_name" : "ふくしまけんりつたしま",
          "url" : "http://www.tajima-h.fks.ed.jp/"
       },
       "福島県立田村高等学校" : {
@@ -613,6 +683,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07129D",
          "short_name" : "田村高校",
+         "sort_name" : "ふくしまけんりつたむら",
          "url" : "http://www.tamura-h.fks.ed.jp"
       },
       "福島県立白河実業高等学校" : {
@@ -620,6 +691,7 @@
          "location_zipcode" : "961-0822",
          "owner_type" : "県立",
          "short_name" : "白河実業高校",
+         "sort_name" : "ふくしまけんりつしらかわしつきよう",
          "url" : "http://www.shirakawa-bh.fks.ed.jp/"
       },
       "福島県立白河旭高等学校" : {
@@ -628,6 +700,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07123E",
          "short_name" : "白河旭高校",
+         "sort_name" : "ふくしまけんりつしらかわあさひ",
          "url" : "http://www.shirakawaasahi-h.fks.ed.jp/"
       },
       "福島県立白河第二高等学校" : {
@@ -635,6 +708,7 @@
          "location_zipcode" : "961-0851",
          "owner_type" : "県立",
          "short_name" : "白河第二高校",
+         "sort_name" : "ふくしまけんりつしらかわたいに",
          "url" : "http://www.shirakawa2-h.fks.ed.jp/"
       },
       "福島県立白河高等学校" : {
@@ -643,6 +717,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07122G",
          "short_name" : "白河高校",
+         "sort_name" : "ふくしまけんりつしらかわ",
          "url" : "http://www.shirakawa-h.fks.ed.jp/"
       },
       "福島県立相馬東高等学校" : {
@@ -652,6 +727,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07171E",
          "short_name" : "相馬東高校",
+         "sort_name" : "ふくしまけんりつそうまひかし",
          "url" : "http://www.somahigashi-h.fks.ed.jp/"
       },
       "福島県立相馬農業高等学校" : {
@@ -660,6 +736,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07173A",
          "short_name" : "相馬農業高校",
+         "sort_name" : "ふくしまけんりつそうまのうきよう",
          "url" : "http://www.soma-ah.fks.ed.jp/"
       },
       "福島県立相馬農業高等学校飯舘校" : {
@@ -674,6 +751,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07169C",
          "short_name" : "相馬高校",
+         "sort_name" : "ふくしまけんりつそうま",
          "url" : "http://www.soma-h.fks.ed.jp/"
       },
       "福島県立石川高等学校" : {
@@ -682,6 +760,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07128F",
          "short_name" : "石川高校",
+         "sort_name" : "ふくしまけんりついしかわ",
          "url" : "http://www.ishikawa-h.fks.ed.jp/"
       },
       "福島県立磐城桜が丘高等学校" : {
@@ -691,6 +770,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07152J",
          "short_name" : "磐城桜が丘高校",
+         "sort_name" : "ふくしまけんりついわきさくらかおか",
          "url" : "http://www.iwakisakuragaoka-h.fks.ed.jp"
       },
       "福島県立磐城農業高等学校" : {
@@ -698,6 +778,7 @@
          "location_zipcode" : "974-8261",
          "owner_type" : "県立",
          "short_name" : "磐城農業高校",
+         "sort_name" : "ふくしまけんりついわきのうきよう",
          "url" : "http://www.iwaki-ah.fks.ed.jp/"
       },
       "福島県立磐城高等学校" : {
@@ -707,6 +788,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07151A",
          "short_name" : "磐城高校",
+         "sort_name" : "ふくしまけんりついわき",
          "url" : "http://www.iwaki-h.fks.ed.jp/"
       },
       "福島県立福島中央高等学校" : {
@@ -716,6 +798,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07176F",
          "short_name" : "福島中央高校",
+         "sort_name" : "ふくしまけんりつふくしまちゆうおう",
          "url" : "http://www.fukushimachuo-h.fks.ed.jp/"
       },
       "福島県立福島北高等学校" : {
@@ -725,6 +808,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07107C",
          "short_name" : "福島北高校",
+         "sort_name" : "ふくしまきた",
          "url" : "http://www.fukushimakita-h.fks.ed.jp/"
       },
       "福島県立福島南高等学校" : {
@@ -734,6 +818,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07189H",
          "short_name" : "福島南高校",
+         "sort_name" : "ふくしまけんりつふくしまみなみ",
          "url" : "http://www.fukushimaminami-h.fks.ed.jp/"
       },
       "福島県立福島商業高等学校" : {
@@ -742,6 +827,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07104J",
          "short_name" : "福島商業高校",
+         "sort_name" : "ふくしまけんりつふくしましようきよう",
          "url" : "http://www.fukushima-ch.fks.ed.jp/"
       },
       "福島県立福島工業高等学校" : {
@@ -751,6 +837,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07106E",
          "short_name" : "福島工業高校",
+         "sort_name" : "ふくしまけんりつふくしまこうきよう",
          "url" : "http://www.fukushima-th.fks.ed.jp/"
       },
       "福島県立福島明成高等学校" : {
@@ -759,6 +846,7 @@
          "location_zipcode" : "960-1192",
          "owner_type" : "県立",
          "short_name" : "福島明成高校",
+         "sort_name" : "ふくしまけんりつふくしまめいせい",
          "url" : "http://www.fukushimameisei-h.fks.ed.jp/"
       },
       "福島県立福島東高等学校" : {
@@ -768,6 +856,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07188K",
          "short_name" : "福島東高校",
+         "sort_name" : "ふくしまけんりつふくしまひかし",
          "url" : "http://www.fukushimahigashi-h.fks.ed.jp/"
       },
       "福島県立福島西高等学校" : {
@@ -777,6 +866,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07103A",
          "short_name" : "福島西高校",
+         "sort_name" : "ふくしまけんりつふくしまにしこうとうかつこう",
          "url" : "http://www.fukushimanishi-h.fks.ed.jp/"
       },
       "福島県立福島高等学校" : {
@@ -786,6 +876,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07101D",
          "short_name" : "福島高校",
+         "sort_name" : "ふくしまけんりつふくしま",
          "url" : "http://www.fukushima-h.fks.ed.jp/"
       },
       "福島県立耶麻農業高等学校" : {
@@ -794,6 +885,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07142A",
          "short_name" : "耶麻農業高校",
+         "sort_name" : "ふくしまけんりつやまのうきよう",
          "url" : "http://www.yama-ah.fks.ed.jp/"
       },
       "福島県立船引高等学校" : {
@@ -803,6 +895,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07130H",
          "short_name" : "船引高校",
+         "sort_name" : "ふくしまけんりつふねひき",
          "url" : "http://www.funehiki-h.fks.ed.jp/"
       },
       "福島県立若松商業高等学校" : {
@@ -811,6 +904,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07135J",
          "short_name" : "若松商業高校",
+         "sort_name" : "ふくしまけんりつわかまつしようきよう",
          "url" : "http://www.wakamatsu-ch.fks.ed.jp/"
       },
       "福島県立葵高等学校" : {
@@ -820,6 +914,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07133B",
          "short_name" : "葵高校",
+         "sort_name" : "ふくしまけんりつあおいこうとうかつこう",
          "url" : "http://www.aoi-h.fks.ed.jp/"
       },
       "福島県立西会津高等学校" : {
@@ -828,6 +923,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07143K",
          "short_name" : "西会津高校",
+         "sort_name" : "ふくしまけんりつにしあいつ",
          "url" : "http://www.nishiaizu-h.fks.ed.jp/"
       },
       "福島県立遠野高等学校" : {
@@ -837,6 +933,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07163D",
          "short_name" : "遠野高校",
+         "sort_name" : "ふくしまけんりつとおの",
          "url" : "http://www.tono-h.fks.ed.jp/"
       },
       "福島県立郡山北工業高等学校" : {
@@ -845,6 +942,7 @@
          "location_zipcode" : "963-8052",
          "owner_type" : "県立",
          "short_name" : "郡山北工業高校",
+         "sort_name" : "こおりやまきたこうきよう",
          "url" : "http://www.koriyamakita-th.fks.ed.jp/"
       },
       "福島県立郡山商業高等学校" : {
@@ -854,6 +952,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07118J",
          "short_name" : "郡山商業高校",
+         "sort_name" : "ふくしまけんりつこおりやましようきよう",
          "url" : "http://www.koriyama-ch.fks.ed.jp/"
       },
       "福島県立郡山東高等学校" : {
@@ -863,6 +962,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07117A",
          "short_name" : "郡山東高校",
+         "sort_name" : "ふくしまけんりつこおりやまひかし",
          "url" : "http://www.koriyamahigashi-h.fks.ed.jp"
       },
       "福島県立郡山萌世高等学校" : {
@@ -872,6 +972,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07193F",
          "short_name" : "郡山萌世高校",
+         "sort_name" : "こおりやまほうせい",
          "url" : "http://www.housei-h.fks.ed.jp/"
       },
       "福島県立郡山高等学校" : {
@@ -881,6 +982,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "07185E",
          "short_name" : "郡山高校",
+         "sort_name" : "ふくしまけんりつこおりやま",
          "url" : "http://www.koriyama-h.fks.ed.jp"
       },
       "福島県立長沼高等学校" : {
@@ -890,6 +992,7 @@
          "school_area" : "県中地区",
          "senior_high_school_code" : "07187A",
          "short_name" : "長沼高校",
+         "sort_name" : "ふくしまけんりつなかぬま",
          "url" : "http://www.naganuma-h.fks.ed.jp/index.html"
       },
       "福島県立須賀川桐陽高等学校" : {
@@ -899,6 +1002,7 @@
          "school_area" : "県央地区",
          "senior_high_school_code" : "07120A",
          "short_name" : "須賀川桐陽高校",
+         "sort_name" : "ふくしまけんりつすかかわとうよう",
          "url" : "http://www.sukagawatoyo-h.fks.ed.jp/"
       },
       "福島県立須賀川高等学校" : {
@@ -908,6 +1012,7 @@
          "school_area" : "県中地区",
          "senior_high_school_code" : "07119G",
          "short_name" : "須賀川高校",
+         "sort_name" : "ふくしまけんりつすかかわ",
          "url" : "http://www.sukagawa-h.fks.ed.jp/"
       },
       "聖光学院高等学校" : {
@@ -917,6 +1022,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07506A",
          "short_name" : "聖光学院高校",
+         "sort_name" : "せいこうかくいん",
          "url" : "http://www.seikogakuin-h.fks.ed.jp/"
       },
       "若松第一高等学校" : {
@@ -925,6 +1031,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07513C",
          "short_name" : "若松第一高校",
+         "sort_name" : "わかまつたい1",
          "url" : "http://www15.plala.or.jp/wakamatsu1/"
       },
       "郡山女子大学附属高等学校" : {
@@ -934,6 +1041,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "07507J",
          "short_name" : "郡山女子大学附属高校",
+         "sort_name" : "こおりやましよしたいかくふそくこうとう",
          "url" : "http://fuzoku.koriyama-kgc.ac.jp/"
       }
    }

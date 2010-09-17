@@ -677,10 +677,13 @@
          "short_name" : "出戸小学校"
       },
       "潟上市立大久保小学校" : {
+         "location" : "秋田県潟上市昭和大久保字高田22",
          "location_area" : "潟上市",
+         "location_zipcode" : "018-1401",
          "owner_type" : "市立",
          "short_name" : "大久保小学校",
-         "sort_name" : "かたかみしりつおおくほ"
+         "sort_name" : "かたかみしりつおおくほ",
+         "url" : "http://shisetsu.city.katagami.akita.jp/school/okubo-es/"
       },
       "潟上市立天王小学校" : {
          "location_area" : "潟上市",
@@ -703,9 +706,12 @@
          "short_name" : "追分小学校"
       },
       "潟上市立飯田川小学校" : {
+         "location" : "秋田県潟上市飯田川和田妹川字岩崎12番地12",
          "location_area" : "潟上市",
+         "location_zipcode" : "018-1503",
          "owner_type" : "市立",
-         "short_name" : "飯田川小学校"
+         "short_name" : "飯田川小学校",
+         "url" : "http://shisetsu.city.katagami.akita.jp/school/iitagawa-es/"
       },
       "由利本荘市立上川大内小学校" : {
          "location_area" : "由利本荘市",

@@ -2,7 +2,8 @@
    "high_schools" : {
       "時任学園中等教育学校" : {
          "location_area" : "八街市印西市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ときとうかくえん"
       }
    },
    "senior_high_schools" : {
@@ -13,6 +14,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12563G",
          "short_name" : "あずさ第一高校",
+         "sort_name" : "あすさたいいち",
          "url" : "http://www.azusa1.ed.jp/"
       },
       "わせがく高等学校" : {
@@ -22,18 +24,13 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12560B",
          "short_name" : "わせがく高校",
+         "sort_name" : "わせかく",
          "url" : "http://www.wasegaku.ac.jp/index.html"
       },
       "クラーク記念国際高等学校千葉キャンパス" : {
-         "location" : "北海道深川市納内町3丁目2-40",
          "location_area" : "千葉市中央区",
-         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
-         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
-         "senior_high_school_code" : "01556D",
-         "short_name" : "クラーク記念国際高校千葉キャンパス",
-         "url" : "http://www.clark.ed.jp/",
-         "wikipedia_name" : "クラーク記念国際高等学校"
+         "short_name" : "クラーク記念国際高校千葉キャンパス"
       },
       "不二女子高等学校" : {
          "location" : "千葉県市川市八幡四丁目5番7号",
@@ -43,6 +40,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12538F",
          "short_name" : "不二女子高校",
+         "sort_name" : "ふししよし",
          "url" : "http://www.fujijyoshi.ed.jp/"
       },
       "中央学院高等学校" : {
@@ -62,6 +60,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12562J",
          "short_name" : "中山学園高校",
+         "sort_name" : "なかやまかくえん",
          "url" : "http://nakayama-gakuen.ac.jp/ngh/"
       },
       "二松學舍大学附属沼南高等学校" : {
@@ -72,6 +71,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12531J",
          "short_name" : "二松學舍大学附属沼南高校",
+         "sort_name" : "にしようかくしやたいかくふそくしようなん",
          "url" : "http://nisho-shonan.ed.jp/"
       },
       "八千代松陰高等学校" : {
@@ -87,6 +87,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12519K",
          "short_name" : "千葉商科大学付属高校",
+         "sort_name" : "ちはしようかたいかくふそく",
          "url" : "http://www.hs.cuc.ac.jp/"
       },
       "千葉国際高等学校" : {
@@ -96,6 +97,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12556D",
          "short_name" : "千葉国際高校",
+         "sort_name" : "ちはこくさい",
          "url" : "http://www.chiba-kokusai.ed.jp/",
          "wikipedia_name" : "千葉国際中学校・高等学校"
       },
@@ -106,6 +108,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12520C",
          "short_name" : "千葉学芸高校",
+         "sort_name" : "ちはかくけい",
          "url" : "http://www.cgh.ed.jp/"
       },
       "千葉市立千葉高等学校" : {
@@ -114,6 +117,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "12193C",
          "short_name" : "千葉高校",
+         "sort_name" : "ちはしりつちはこう",
          "url" : "http://www.ich.ed.jp/"
       },
       "千葉市立稲毛高等学校" : {
@@ -127,6 +131,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12504A",
          "short_name" : "千葉敬愛高校",
+         "sort_name" : "ちはけいあい",
          "url" : "http://www.keiai.ed.jp/"
       },
       "千葉日本大学第一高等学校" : {
@@ -137,6 +142,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12530A",
          "short_name" : "千葉日本大学第一高校",
+         "sort_name" : "ちはにほんたいかくたいいちちゆうかつこうこうとうかつこう",
          "url" : "http://www.chibanichi.ed.jp/",
          "wikipedia_name" : "千葉日本大学第一中学校・高等学校"
       },
@@ -146,6 +152,7 @@
          "location_zipcode" : "260-8685",
          "owner_type" : "私立",
          "short_name" : "千葉明徳高校",
+         "sort_name" : "ちはめいとく",
          "url" : "http://www.chibameitoku.ac.jp/koukou.html"
       },
       "千葉県安房西高等学校" : {
@@ -165,6 +172,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12165H",
          "short_name" : "一宮商業高校",
+         "sort_name" : "ちはけんりついちのみやしようきよう",
          "url" : "http://www.chiba-c.ed.jp/chb-ichinomiya-ch/"
       },
       "千葉県立上総高等学校" : {
@@ -175,6 +183,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12183F",
          "short_name" : "上総高校",
+         "sort_name" : "ちはけんりつかすさ",
          "url" : "http://saas01.netcommons.net/kazusa/"
       },
       "千葉県立下総高等学校" : {
@@ -184,6 +193,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12143G",
          "short_name" : "下総高校",
+         "sort_name" : "ちはけんりつしもふさ",
          "url" : "http://www.chiba-c.ed.jp/shimofusa-h/"
       },
       "千葉県立九十九里高等学校" : {
@@ -202,6 +212,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12105D",
          "short_name" : "京葉工業高校",
+         "sort_name" : "ちはけんりつけいようこうきよう",
          "url" : "http://www.chiba-c.ed.jp/keiyo-th/"
       },
       "千葉県立京葉高等学校" : {
@@ -232,6 +243,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12139J",
          "short_name" : "佐倉東高校",
+         "sort_name" : "ちはけんりつさくらひかし",
          "url" : "http://www.chiba-c.ed.jp/sakurahigashi-h/"
       },
       "千葉県立佐倉西高等学校" : {
@@ -254,6 +266,7 @@
          "school_area" : "千葉県第4",
          "senior_high_school_code" : "12138A",
          "short_name" : "佐倉高校",
+         "sort_name" : "ちはけんりつさくら",
          "url" : "http://www.chiba-c.ed.jp/sakura-h/"
       },
       "千葉県立佐原白楊高等学校" : {
@@ -273,6 +286,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12144E",
          "short_name" : "佐原高校",
+         "sort_name" : "ちはけんりつさわら",
          "url" : "http://www.chiba-c.ed.jp/sawara-h/"
       },
       "千葉県立八千代東高等学校" : {
@@ -283,6 +297,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12208E",
          "short_name" : "八千代東高校",
+         "sort_name" : "ちはけんりつやちよひかし",
          "url" : "http://www.chiba-c.ed.jp/yachiyohigashi-h/"
       },
       "千葉県立八千代西高等学校" : {
@@ -293,6 +308,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12221B",
          "short_name" : "八千代西高校",
+         "sort_name" : "ちはけんりつやちよにし",
          "url" : "http://www.chiba-c.ed.jp/yachiyonishi-h/"
       },
       "千葉県立八千代高等学校" : {
@@ -303,6 +319,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12111J",
          "short_name" : "八千代高校",
+         "sort_name" : "ちはけんりつやちよ",
          "url" : "http://www.chiba-c.ed.jp/chb-yachiyo-h/"
       },
       "千葉県立八街高等学校" : {
@@ -323,6 +340,7 @@
          "school_area" : "全県下",
          "senior_high_school_code" : "12171B",
          "short_name" : "勝浦若潮高校",
+         "sort_name" : "ちはけんりつかつうらわかしお",
          "url" : "http://saas01.netcommons.net/wakashiohs/htdocs/"
       },
       "千葉県立匝瑳高等学校" : {
@@ -333,6 +351,7 @@
          "school_area" : "第5学区",
          "senior_high_school_code" : "12153D",
          "short_name" : "匝瑳高校",
+         "sort_name" : "ちはけんりつそうさ",
          "url" : "http://www.chiba-c.ed.jp/sosa-h/index.htm"
       },
       "千葉県立千城台高等学校" : {
@@ -352,6 +371,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12109G",
          "short_name" : "千葉北高校",
+         "sort_name" : "ちはけんりつちはきた",
          "url" : "http://www.chiba-c.ed.jp/chibakita-h/"
       },
       "千葉県立千葉南高等学校" : {
@@ -361,6 +381,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12107A",
          "short_name" : "千葉南高校",
+         "sort_name" : "ちはけんりつちはみなみ",
          "url" : "http://www.chiba-c.ed.jp/chibaminami-h/"
       },
       "千葉県立千葉商業高等学校" : {
@@ -370,6 +391,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12104F",
          "short_name" : "千葉商業高校",
+         "sort_name" : "ちはけんりつちはしようきよう",
          "url" : "http://www.chiba-c.ed.jp/chiba-ch/"
       },
       "千葉県立千葉大宮高等学校" : {
@@ -379,6 +401,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12231K",
          "short_name" : "千葉大宮高校",
+         "sort_name" : "ちはおおみや",
          "url" : "http://www.chiba-c.ed.jp/chibaohmiya-h/"
       },
       "千葉県立千葉女子高等学校" : {
@@ -398,6 +421,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12106B",
          "short_name" : "千葉工業高校",
+         "sort_name" : "ちはけんりつちはこうきよう",
          "url" : "http://www.chiba-c.ed.jp/chiba-th/"
       },
       "千葉県立千葉東高等学校" : {
@@ -408,6 +432,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12103H",
          "short_name" : "千葉東高校",
+         "sort_name" : "ちはけんりつちはひかし",
          "url" : "http://www.chiba-c.ed.jp/chibahigashi-h/"
       },
       "千葉県立千葉西高等学校" : {
@@ -417,14 +442,16 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12240J",
          "short_name" : "千葉西高校",
+         "sort_name" : "ちはけんりつちはにし",
          "url" : "http://www.chiba-c.ed.jp/chibanishi-h/"
       },
       "千葉県立千葉高等学校" : {
          "location_area" : "千葉市中央区",
-         "location_zipcode" : "260-0853|所在地 = [[千葉県]][[千葉市]][[中央区_(千葉市)|中央区]]葛城一丁目5番2号",
+         "location_zipcode" : "260-0853",
          "owner_type" : "県立",
          "senior_high_school_code" : "12101A",
          "short_name" : "千葉高校",
+         "sort_name" : "ちはけんりつちは",
          "url" : "http://www.chiba-c.ed.jp/chiba-h/",
          "wikipedia_name" : "千葉県立千葉中学校・高等学校"
       },
@@ -436,6 +463,7 @@
          "school_area" : "千葉県第4学区",
          "senior_high_school_code" : "12136D",
          "short_name" : "印旛明誠高校",
+         "sort_name" : "ちはけんりついんはめいせい",
          "url" : "http://www.chiba-c.ed.jp/inba-h/"
       },
       "千葉県立君津商業高等学校" : {
@@ -445,6 +473,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12179H",
          "short_name" : "君津商業高校",
+         "sort_name" : "ちはけんりつきみつしようきよう",
          "url" : "http://www.chiba-c.ed.jp/kimisho/"
       },
       "千葉県立君津青葉高等学校" : {
@@ -455,6 +484,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12184D",
          "short_name" : "君津青葉高校",
+         "sort_name" : "ちはけんりつきみつあおは",
          "url" : "http://www.chiba-c.ed.jp/kimitsuaoba-h/"
       },
       "千葉県立君津高等学校" : {
@@ -465,6 +495,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12182H",
          "short_name" : "君津高校",
+         "sort_name" : "ちはけんりつきみつ",
          "url" : "http://www.chiba-c.ed.jp/kimitsu-h/"
       },
       "千葉県立四街道北高等学校" : {
@@ -503,6 +534,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12120H",
          "short_name" : "国府台高校",
+         "sort_name" : "ちはけんりつこうのたい",
          "url" : "http://www.chiba-c.ed.jp/kohnodai-h/"
       },
       "千葉県立土気高等学校" : {
@@ -530,6 +562,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12168B",
          "short_name" : "大原高校",
+         "sort_name" : "ちはけんりつおおはら",
          "url" : "http://www.chiba-c.ed.jp/chb-oohara-h/"
       },
       "千葉県立大多喜高等学校" : {
@@ -540,6 +573,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12166F",
          "short_name" : "大多喜高校",
+         "sort_name" : "ちはけんりつおおたき",
          "url" : "http://www.chiba-c.ed.jp/otaki-h/"
       },
       "千葉県立大網高等学校" : {
@@ -549,6 +583,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12158E",
          "short_name" : "大網高校",
+         "sort_name" : "ちはけんりつおおあみ",
          "url" : "http://saas01.netcommons.net/oami/htdocs/"
       },
       "千葉県立天羽高等学校" : {
@@ -558,6 +593,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12178K",
          "short_name" : "天羽高校",
+         "sort_name" : "ちはけんりつあまは",
          "url" : "http://www.chiba-c.ed.jp/amaha-h/"
       },
       "千葉県立姉崎高等学校" : {
@@ -568,6 +604,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12196H",
          "short_name" : "姉崎高校",
+         "sort_name" : "ちはけんりつあねさき",
          "url" : "http://www.chiba-c.ed.jp/anesaki-h/"
       },
       "千葉県立安房拓心高等学校" : {
@@ -578,6 +615,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12173J",
          "short_name" : "安房拓心高校",
+         "sort_name" : "ちはけんりつあわたくしん",
          "url" : "http://www.boso.net/takusin/index.html"
       },
       "千葉県立安房高等学校" : {
@@ -589,6 +627,7 @@
          "school_area" : "第8学区",
          "senior_high_school_code" : "12174G",
          "short_name" : "安房高校",
+         "sort_name" : "ちはけんりつあわ",
          "url" : "http://www.chiba-c.ed.jp/awakou/"
       },
       "千葉県立実籾高等学校" : {
@@ -628,6 +667,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12125J",
          "short_name" : "小金高校",
+         "sort_name" : "ちはけんりつこかね",
          "url" : "http://www.asahi-net.or.jp/~at5n-smgm/"
       },
       "千葉県立岬高等学校" : {
@@ -637,6 +677,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12170D",
          "short_name" : "岬高校",
+         "sort_name" : "ちはけんりつみさき",
          "url" : "http://www.chiba-c.ed.jp/chb-misaki-h/"
       },
       "千葉県立市原八幡高等学校" : {
@@ -665,6 +706,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12186A",
          "short_name" : "市原高校",
+         "sort_name" : "ちはけんりついちはら",
          "url" : "http://www.chiba-c.ed.jp/ichihara-h/"
       },
       "千葉県立市川北高等学校" : {
@@ -684,6 +726,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12229H",
          "short_name" : "市川南高校",
+         "sort_name" : "ちはけんりついちかわみなみ",
          "url" : "http://www.chiba-c.ed.jp/ichikawaminami-h/"
       },
       "千葉県立市川工業高等学校" : {
@@ -693,6 +736,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12118F",
          "short_name" : "市川工業高校",
+         "sort_name" : "ちはけんりついちかわこうきよう",
          "url" : "http://www.chiba-c.ed.jp/ichiko/"
       },
       "千葉県立市川昴高等学校" : {
@@ -737,6 +781,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12253A",
          "short_name" : "幕張総合高校",
+         "sort_name" : "ちはけんりつまくはりそうこう",
          "url" : "http://www.chiba-c.ed.jp/msh/"
       },
       "千葉県立成東高等学校" : {
@@ -746,6 +791,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12155A",
          "short_name" : "成東高校",
+         "sort_name" : "ちはけんりつなるとう",
          "url" : "http://www.chiba-c.ed.jp/narutou-h/"
       },
       "千葉県立成田北高等学校" : {
@@ -756,6 +802,7 @@
          "school_area" : "第4学区",
          "senior_high_school_code" : "12226C",
          "short_name" : "成田北高校",
+         "sort_name" : "ちはけんりつなりたきた",
          "url" : "http://www.chiba-c.ed.jp/naritakita-h/"
       },
       "千葉県立成田国際高等学校" : {
@@ -766,6 +813,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12142J",
          "short_name" : "成田国際高校",
+         "sort_name" : "ちはけんりつなりたこくさい",
          "url" : "http://www.chiba-c.ed.jp/naritakokusai-h/"
       },
       "千葉県立成田西陵高等学校" : {
@@ -794,6 +842,7 @@
          "school_area" : "千葉全県",
          "senior_high_school_code" : "12151H",
          "short_name" : "旭農業高校",
+         "sort_name" : "ちはけんりつあさひのうきよう",
          "url" : "http://www.chiba-c.ed.jp/asahi-ah/"
       },
       "千葉県立木更津東高等学校" : {
@@ -803,6 +852,7 @@
          "location_zipcode" : "292-0056",
          "owner_type" : "県立",
          "short_name" : "木更津東高校",
+         "sort_name" : "ちはけんりつきさらつひかし",
          "url" : "http://www.chiba-c.ed.jp/ki-higashi/"
       },
       "千葉県立木更津高等学校" : {
@@ -812,6 +862,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12180A",
          "short_name" : "木更津高校",
+         "sort_name" : "ちはけんりつきさらつ",
          "url" : "http://www.chiba-c.ed.jp/kisarazu-h/"
       },
       "千葉県立東総工業高等学校" : {
@@ -821,6 +872,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12152F",
          "short_name" : "東総工業高校",
+         "sort_name" : "ちはけんりつとうそうこうきよう",
          "url" : "http://www.chiba-c.ed.jp/toso-th/"
       },
       "千葉県立東葛飾高等学校" : {
@@ -830,6 +882,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12128C",
          "short_name" : "東葛飾高校",
+         "sort_name" : "ちはけんりつひかしかつしか",
          "url" : "http://www.chiba-c.ed.jp/tohkatsu/"
       },
       "千葉県立東金商業高等学校" : {
@@ -839,6 +892,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12157G",
          "short_name" : "東金商業高校",
+         "sort_name" : "ちはけんりつとうかねしようきよう",
          "url" : "http://www.chiba-c.ed.jp/toushou/"
       },
       "千葉県立東金高等学校" : {
@@ -848,6 +902,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12156J",
          "short_name" : "東金高校",
+         "sort_name" : "ちはけんりつとうかね",
          "url" : "http://www.chiba-c.ed.jp/togane-h/"
       },
       "千葉県立松尾高等学校" : {
@@ -888,6 +943,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12126G",
          "short_name" : "松戸国際高校",
+         "sort_name" : "ちはけんりつまつとこくさい",
          "url" : "http://www.chiba-c.ed.jp/matsudokokusai-h/"
       },
       "千葉県立松戸矢切高等学校" : {
@@ -908,6 +964,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12235B",
          "short_name" : "松戸秋山高校",
+         "sort_name" : "ちはけんりつまつとあきやま",
          "url" : "http://www.chiba-c.ed.jp/akiyama-h/"
       },
       "千葉県立松戸馬橋高等学校" : {
@@ -928,6 +985,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12124A",
          "short_name" : "松戸高校",
+         "sort_name" : "ちはけんりつまつと",
          "url" : "http://www.chiba-c.ed.jp/matsudo-h/"
       },
       "千葉県立柏の葉高等学校" : {
@@ -974,6 +1032,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12205A",
          "short_name" : "柏陵高校",
+         "sort_name" : "ちはけんりつはくりよう",
          "url" : "http://saas01.netcommons.net/hakuryo/htdocs/"
       },
       "千葉県立柏高等学校" : {
@@ -985,12 +1044,13 @@
          "school_area" : "千葉県第3学区",
          "senior_high_school_code" : "12129A",
          "short_name" : "柏高校",
+         "sort_name" : "ちはけんりつかしわ",
          "url" : "http://www.chiba-c.ed.jp/kashiwa-h/"
       },
       "千葉県立検見川高等学校" : {
          "location" : "千葉県千葉市美浜区真砂四丁目17番1号",
          "location_area" : "千葉市美浜区",
-         "location_zipcode" : "261‐0011",
+         "location_zipcode" : "261",
          "owner_type" : "県立",
          "senior_high_school_code" : "12108C",
          "short_name" : "検見川高校",
@@ -1032,6 +1092,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12203D",
          "short_name" : "津田沼高校",
+         "sort_name" : "ちはけんりつつたぬま",
          "url" : "http://www.chiba-c.ed.jp/tsudanuma-h/"
       },
       "千葉県立流山おおたかの森高等学校" : {
@@ -1041,6 +1102,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "08200H",
          "short_name" : "流山おおたかの森高校",
+         "sort_name" : "ちはけんりつなかれやまおおたかのもり",
          "url" : "http://www.chiba-c.ed.jp/n.otaka-h/"
       },
       "千葉県立流山北高等学校" : {
@@ -1071,6 +1133,7 @@
          "school_area" : "千葉県全域",
          "senior_high_school_code" : "12131C",
          "short_name" : "流山高校",
+         "sort_name" : "ちはけんりつなかれやま",
          "url" : "http://www.chiba-c.ed.jp/nagareyama/"
       },
       "千葉県立浦安南高等学校" : {
@@ -1099,6 +1162,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12134H",
          "short_name" : "清水高校",
+         "sort_name" : "ちはけんりつしみす",
          "url" : "http://www.chiba-c.ed.jp/chb-shimizu-bh/"
       },
       "千葉県立湖北高等学校" : {
@@ -1116,6 +1180,7 @@
          "location_zipcode" : "262-0012",
          "owner_type" : "県立",
          "short_name" : "犢橋高校",
+         "sort_name" : "ちはけんりつこてはし",
          "url" : "http://www.chiba-c.ed.jp/kotehashi-h/"
       },
       "千葉県立生浜高等学校" : {
@@ -1135,6 +1200,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12237J",
          "short_name" : "白井高校",
+         "sort_name" : "ちはけんりつしろい",
          "url" : "http://www.chiba-c.ed.jp/shiroi-h/"
       },
       "千葉県立磯辺高等学校" : {
@@ -1201,6 +1267,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12114C",
          "short_name" : "船橋東高校",
+         "sort_name" : "ちはけんりつふなはしひかし",
          "url" : "http://www.chiba-c.ed.jp/funabashieast-h/"
       },
       "千葉県立船橋法典高等学校" : {
@@ -1252,6 +1319,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12112G",
          "short_name" : "船橋高校",
+         "sort_name" : "ちはけんりつふなはし",
          "url" : "http://www.chiba-c.ed.jp/funako/"
       },
       "千葉県立若松高等学校" : {
@@ -1270,6 +1338,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12163A",
          "short_name" : "茂原樟陽高校",
+         "sort_name" : "ちはけんりつもはらしようよう",
          "url" : "http://www.chiba-c.ed.jp/mobarasyouyou/"
       },
       "千葉県立茂原高等学校" : {
@@ -1290,6 +1359,7 @@
          "school_area" : "第2学区",
          "senior_high_school_code" : "12113E",
          "short_name" : "薬園台高校",
+         "sort_name" : "ちはけんりつやくえんたい",
          "url" : "http://www.chiba-c.ed.jp/yakuendai-h/"
       },
       "千葉県立行徳高等学校" : {
@@ -1300,6 +1370,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12122D",
          "short_name" : "行徳高校",
+         "sort_name" : "ちはけんりつきようとく",
          "url" : "http://www.chiba-c.ed.jp/gyotoku-h/"
       },
       "千葉県立袖ヶ浦高等学校" : {
@@ -1317,6 +1388,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12204B",
          "short_name" : "野田中央高校",
+         "sort_name" : "ちはけんりつのたちゆうおう",
          "url" : "http://www.chiba-c.ed.jp/nodachuo-h/"
       },
       "千葉県立銚子商業高等学校" : {
@@ -1326,6 +1398,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12149F",
          "short_name" : "銚子商業高校",
+         "sort_name" : "ちはけんりつちようししようきよう",
          "url" : "http://www.chiba-c.ed.jp/choshi-ch/"
       },
       "千葉県立銚子高等学校" : {
@@ -1358,6 +1431,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12117H",
          "short_name" : "鎌ケ谷高校",
+         "sort_name" : "ちはけんりつかまかや",
          "url" : "http://www.chiba-c.ed.jp/kamagaya-h/index.html"
       },
       "千葉県立長狭高等学校" : {
@@ -1377,6 +1451,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12161E",
          "short_name" : "長生高校",
+         "sort_name" : "ちはけんりつちようせい",
          "url" : "http://www.chiba-c.ed.jp/chosei-h/"
       },
       "千葉県立関宿高等学校" : {
@@ -1396,6 +1471,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12176C",
          "short_name" : "館山総合高校",
+         "sort_name" : "ちはけんりつたてやまそうこう",
          "url" : "http://www.chiba-c.ed.jp/tateyama-h/"
       },
       "千葉県立鶴舞桜が丘高等学校" : {
@@ -1405,6 +1481,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "12187J",
          "short_name" : "鶴舞桜が丘高校",
+         "sort_name" : "ちはけんりつつるまいさくらかおか",
          "url" : "http://saas01.netcommons.net/tsurumai/"
       },
       "千葉経済大学附属高等学校" : {
@@ -1414,6 +1491,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12505K",
          "short_name" : "千葉経済大学附属高校",
+         "sort_name" : "ちはけいさいたいかくふそく",
          "url" : "http://www.cku-h.ed.jp/"
       },
       "千葉聖心高等学校" : {
@@ -1433,6 +1511,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12515G",
          "short_name" : "千葉英和高校",
+         "sort_name" : "ちはえいわ",
          "url" : "http://www.ceh.ed.jp/"
       },
       "千葉萌陽高等学校" : {
@@ -1451,6 +1530,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12511D",
          "short_name" : "千葉黎明高校",
+         "sort_name" : "ちはれいめい",
          "url" : "http://www.reimei.ac.jp/"
       },
       "和洋国府台女子高等学校" : {
@@ -1461,6 +1541,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12512B",
          "short_name" : "和洋国府台女子高校",
+         "sort_name" : "わようこうのたいしよし",
          "url" : "http://www.wayokonodai.ed.jp/",
          "wikipedia_name" : "和洋国府台女子中学校・高等学校"
       },
@@ -1477,6 +1558,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12524F",
          "short_name" : "専修大学松戸高校",
+         "sort_name" : "せんしゆうたいかくまつと",
          "url" : "http://www.senshu-u-matsudo.ed.jp/",
          "wikipedia_name" : "専修大学松戸中学校・高等学校"
       },
@@ -1487,6 +1569,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12550E",
          "short_name" : "市原中央高校",
+         "sort_name" : "いちはらちゆうおう",
          "url" : "http://www.kimigaku.ed.jp/ich/index.html"
       },
       "市川高等学校" : {
@@ -1496,6 +1579,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12506H",
          "short_name" : "市川高校",
+         "sort_name" : "いちかわ",
          "url" : "http://www.ichigaku.ac.jp/",
          "wikipedia_name" : "市川中学校・高等学校"
       },
@@ -1506,6 +1590,7 @@
          "location_zipcode" : "292-8568",
          "owner_type" : "私立",
          "senior_high_school_code" : "12547E",
+         "sort_name" : "しかくかん",
          "url" : "http://www.shigakukan.ed.jp",
          "wikipedia_name" : "志学館中等部・高等部 (千葉県)"
       },
@@ -1517,6 +1602,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12544A",
          "short_name" : "愛国学園大学附属四街道高校",
+         "sort_name" : "あいこくかくえんたいかくふそくよつかいとう",
          "url" : "http://www011.upp.so-net.ne.jp/aikokuyotukaido/"
       },
       "成田高等学校" : {
@@ -1526,6 +1612,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12502E",
          "short_name" : "成田高校",
+         "sort_name" : "なりた",
          "url" : "http://www.narita.ac.jp/",
          "wikipedia_name" : "成田高等学校・付属中学校"
       },
@@ -1546,6 +1633,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12537H",
          "short_name" : "拓殖大学紅陵高校",
+         "sort_name" : "たくしよくたいかくこうりよう",
          "url" : "http://www.koryo.ed.jp/"
       },
       "敬愛大学八日市場高等学校" : {
@@ -1555,6 +1643,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12501G",
          "short_name" : "敬愛大学八日市場高校",
+         "sort_name" : "けいあいたいかくようかいちは",
          "url" : "http://www1.ocn.ne.jp/%7Ekeiai/top.htm"
       },
       "敬愛学園高等学校" : {
@@ -1564,6 +1653,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12523H",
          "short_name" : "敬愛学園高校",
+         "sort_name" : "けいあいかくえん",
          "url" : "http://www.hs-keiai.ac.jp/"
       },
       "文理開成高等学校" : {
@@ -1573,6 +1663,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12510F",
          "short_name" : "文理開成高校",
+         "sort_name" : "ふんりかいせい",
          "url" : "http://www.bunri-kaisei.com/"
       },
       "日出学園高等学校" : {
@@ -1583,6 +1674,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12517C",
          "short_name" : "日出学園高校",
+         "sort_name" : "ひのてかくえん",
          "url" : "http://www.hinode.ed.jp/",
          "wikipedia_name" : "日出学園中学校・高等学校"
       },
@@ -1594,6 +1686,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12528J",
          "short_name" : "日本大学習志野高校",
+         "sort_name" : "にほんたいかくならしの",
          "url" : "http://www.nnhs.cst.nihon-u.ac.jp/"
       },
       "明聖高等学校" : {
@@ -1603,6 +1696,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12558A",
          "short_name" : "明聖高校",
+         "sort_name" : "めいせい",
          "url" : "http://www.meisei-hs.ac.jp/"
       },
       "昭和学院秀英高等学校" : {
@@ -1613,6 +1707,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12549A",
          "short_name" : "昭和学院秀英高校",
+         "sort_name" : "しようわかくいんしゆうえいちゆうかつこうこうとうかつこう",
          "url" : "http://www.showa-shuei.ed.jp/",
          "wikipedia_name" : "昭和学院秀英中学校・高等学校"
       },
@@ -1624,6 +1719,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12503C",
          "short_name" : "昭和学院高校",
+         "sort_name" : "しようわかくいん",
          "url" : "http://www.showa-gkn.ed.jp/js/",
          "wikipedia_name" : "昭和学院中学校・高等学校"
       },
@@ -1639,6 +1735,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12561A",
          "short_name" : "木更津総合高校",
+         "sort_name" : "きさらつそうこう",
          "url" : "http://www.kimigaku.ed.jp/sohgoh/"
       },
       "東京学館浦安高等学校" : {
@@ -1648,6 +1745,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12546G",
          "short_name" : "東京学館浦安高校",
+         "sort_name" : "とうきようかつかんうらやす",
          "url" : "http://www.gakkan-urayasu.ed.jp/",
          "wikipedia_name" : "東京学館浦安中学校・高等学校"
       },
@@ -1659,6 +1757,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12555F",
          "short_name" : "東京学館船橋高校",
+         "sort_name" : "とうきようかつかんふなはし",
          "url" : "http://www.gakkan-f.jp/"
       },
       "東京学館高等学校" : {
@@ -1668,6 +1767,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12541F",
          "short_name" : "東京学館高校",
+         "sort_name" : "とうきようかつかん",
          "url" : "http://www.tokyogakkan.ed.jp/"
       },
       "東海大学付属望洋高等学校" : {
@@ -1677,6 +1777,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12534C",
          "short_name" : "東海大学付属望洋高校",
+         "sort_name" : "とうかいたいかくふそくほうよう",
          "url" : "http://www.boyo.tokai.ed.jp/"
       },
       "東海大学付属浦安高等学校" : {
@@ -1686,6 +1787,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12536K",
          "short_name" : "東海大学付属浦安高校",
+         "sort_name" : "とうかいたいかくふそくうらやす",
          "url" : "http://www.urayasu.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属浦安高等学校・中等部"
       },
@@ -1696,6 +1798,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12507F",
          "short_name" : "東葉高校",
+         "sort_name" : "とうよう",
          "url" : "http://www.toyohs.ed.jp/"
       },
       "東邦大学付属東邦高等学校" : {
@@ -1705,6 +1808,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12522K",
          "short_name" : "東邦大学付属東邦高校",
+         "sort_name" : "とうほうたいかくふそくとうほう",
          "url" : "http://www.tohojh.toho-u.ac.jp/",
          "wikipedia_name" : "東邦大学付属東邦中学校・高等学校"
       },
@@ -1715,6 +1819,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "12194A",
          "short_name" : "松戸高校",
+         "sort_name" : "まつとしりつまつとこう",
          "url" : "http://www.matsudo.ed.jp/~ichimatsu-h/"
       },
       "柏市立柏高等学校" : {
@@ -1724,6 +1829,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "12199B",
          "short_name" : "柏高校",
+         "sort_name" : "かしわしりつかしわこう",
          "url" : "http://www.hs.kashiwa.ed.jp/index.html"
       },
       "柏日体高等学校" : {
@@ -1734,6 +1840,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12525D",
          "short_name" : "柏日体高校",
+         "sort_name" : "かしわにつたい",
          "url" : "http://www.k-nittai.ed.jp/"
       },
       "桜林高等学校" : {
@@ -1752,6 +1859,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12542D",
          "short_name" : "植草学園大学附属高校",
+         "sort_name" : "うえくさかくえんたふそくこうとうかつこう",
          "url" : "http://u-u-a.uekusa.ac.jp/"
       },
       "横芝敬愛高等学校" : {
@@ -1761,6 +1869,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12535A",
          "short_name" : "横芝敬愛高校",
+         "sort_name" : "よこしはけいあい",
          "url" : "http://www.yokoshibakeiai.ed.jp/"
       },
       "流通経済大学付属柏高等学校" : {
@@ -1771,6 +1880,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12553K",
          "short_name" : "流通経済大学付属柏高校",
+         "sort_name" : "りゆうつうけいさいたいかくふそくかしわ",
          "url" : "http://www.rku.ac.jp/rkukhs/index.html"
       },
       "渋谷教育学園幕張高等学校" : {
@@ -1781,6 +1891,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12548C",
          "short_name" : "渋谷教育学園幕張高校",
+         "sort_name" : "しふやきよういくかくえんまくはりちゆうかつこうこうとうかつこう",
          "url" : "http://www.shibumaku.jp/",
          "wikipedia_name" : "渋谷教育学園幕張中学校・高等学校"
       },
@@ -1792,6 +1903,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12552A",
          "short_name" : "秀明大学八千代高校",
+         "sort_name" : "しゆうめいやちよ",
          "url" : "http://www.shumeiyachiyo.ed.jp/",
          "wikipedia_name" : "秀明八千代中学校・高等学校"
       },
@@ -1802,6 +1914,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "12192E",
          "short_name" : "習志野高校",
+         "sort_name" : "ならしのしりつならしのこう",
          "url" : "http://www.nkc.city.narashino.chiba.jp/narako/"
       },
       "聖徳大学附属女子高等学校" : {
@@ -1812,6 +1925,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12551C",
          "short_name" : "聖徳大学附属女子高校",
+         "sort_name" : "せいとくたいかくふそくしよし",
          "url" : "http://www.seitoku.jp/highschool/index.html",
          "wikipedia_name" : "聖徳大学附属女子中学校・高等学校"
       },
@@ -1822,6 +1936,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "12191G",
          "short_name" : "船橋高校",
+         "sort_name" : "ふなはししりつふなはしこう",
          "url" : "http://www1.biz.biglobe.ne.jp/~ichifuna/ichifuna.html"
       },
       "芝浦工業大学柏高等学校" : {
@@ -1832,6 +1947,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12545J",
          "short_name" : "芝浦工業大学柏高校",
+         "sort_name" : "しはうらこうきようたいかくかしわ",
          "url" : "http://www.ka.shibaura-it.ac.jp/",
          "wikipedia_name" : "芝浦工業大学柏中学高等学校"
       },
@@ -1842,6 +1958,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12508D",
          "short_name" : "茂原北陵高校",
+         "sort_name" : "もはらほくりよう",
          "url" : "http://homepage3.nifty.com/mhhs/"
       },
       "西武台千葉高等学校" : {
@@ -1851,6 +1968,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12554H",
          "short_name" : "西武台千葉高校",
+         "sort_name" : "せいふたいちは",
          "url" : "http://www.seibudai-chiba.jp/",
          "wikipedia_name" : "西武台中学校・西武台千葉高等学校"
       },
@@ -1861,6 +1979,7 @@
          "school_area" : "第5学区",
          "senior_high_school_code" : "12190J",
          "short_name" : "銚子高校",
+         "sort_name" : "ちようししりつちようしこう",
          "url" : "http://choshi-h.jp/"
       },
       "青森山田高等学校" : {
@@ -1871,6 +1990,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "02505E",
          "short_name" : "青森山田高校",
+         "sort_name" : "あおもりやまたちゆうこう",
          "url" : "http://www.aomori-yamada-hs.ac.jp/",
          "wikipedia_name" : "青森山田中学高等学校"
       },
@@ -1882,6 +2002,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "12513A",
          "short_name" : "麗澤高校",
+         "sort_name" : "れいたく",
          "url" : "http://www.hs.reitaku.jp/",
          "wikipedia_name" : "麗澤中学校・高等学校"
       }

@@ -1,14 +1,8 @@
 {
    "senior_high_schools" : {
       "クラーク記念国際高等学校鳥取キャンパス" : {
-         "location" : "北海道深川市納内町3丁目2-40",
-         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
-         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
-         "senior_high_school_code" : "01556D",
-         "short_name" : "クラーク記念国際高校鳥取キャンパス",
-         "url" : "http://www.clark.ed.jp/",
-         "wikipedia_name" : "クラーク記念国際高等学校"
+         "short_name" : "クラーク記念国際高校鳥取キャンパス"
       },
       "倉吉北高等学校" : {
          "location" : "鳥取県倉吉市福庭町1丁目180番地",
@@ -16,6 +10,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31503G",
          "short_name" : "倉吉北高校",
+         "sort_name" : "くらよしきたこうとうかつこう",
          "url" : "http://www.kurayoshikita-h.ed.jp/"
       },
       "湯梨浜高等学校" : {
@@ -25,6 +20,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31507K",
          "short_name" : "湯梨浜高校",
+         "sort_name" : "ゆりはま",
          "url" : "http://yurihamagakuen.ac.jp/",
          "wikipedia_name" : "湯梨浜中学校・高等学校"
       },
@@ -34,6 +30,7 @@
          "location_zipcode" : "683-0851",
          "owner_type" : "私立",
          "short_name" : "米子北斗高校",
+         "sort_name" : "よなこほくと",
          "url" : "http://www.yonagohokuto.ed.jp/",
          "wikipedia_name" : "米子北斗中学校・高等学校"
       },
@@ -44,6 +41,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31504E",
          "short_name" : "米子北高校",
+         "sort_name" : "よなこきた",
          "url" : "http://www.yonagokita.ed.jp/"
       },
       "米子松蔭高等学校" : {
@@ -53,6 +51,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31505C",
          "short_name" : "米子松蔭高校",
+         "sort_name" : "よなこしよういん",
          "url" : "http://www.yonagoshoin.ed.jp/"
       },
       "鳥取城北高等学校" : {
@@ -61,6 +60,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31502J",
          "short_name" : "鳥取城北高校",
+         "sort_name" : "とつとりしようほく",
          "url" : "http://www.yatani-gakuen.ac.jp/jyohoku/"
       },
       "鳥取敬愛高等学校" : {
@@ -69,6 +69,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "31501A",
          "short_name" : "鳥取敬愛高校",
+         "sort_name" : "とつとりけいあい",
          "url" : "http://www.hal.ne.jp/keiai/"
       },
       "鳥取県立倉吉東高等学校" : {
@@ -78,6 +79,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31111B",
          "short_name" : "倉吉東高校",
+         "sort_name" : "くらよしひかし",
          "url" : "http://www.torikyo.ed.jp/kurae-h/"
       },
       "鳥取県立倉吉総合産業高等学校" : {
@@ -87,6 +89,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31131G",
          "short_name" : "倉吉総合産業高校",
+         "sort_name" : "くらよしそうこうさんきよう",
          "url" : "http://kss.kssh.ed.jp/"
       },
       "鳥取県立倉吉西高等学校" : {
@@ -105,6 +108,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31113J",
          "short_name" : "倉吉農業高校",
+         "sort_name" : "くらよしのうきよう",
          "url" : "http://www.torikyo.ed.jp/kurano-h/"
       },
       "鳥取県立八頭高等学校" : {
@@ -115,6 +119,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31108B",
          "short_name" : "八頭高校",
+         "sort_name" : "とつとりけんりつやす",
          "url" : "http://www.torikyo.ed.jp/yazu-h/"
       },
       "鳥取県立境港総合技術高等学校" : {
@@ -124,6 +129,7 @@
          "location_zipcode" : "684-0043",
          "owner_type" : "県立",
          "short_name" : "境港総合技術高校",
+         "sort_name" : "さかいみなとそうこうきしゆつ",
          "url" : "http://www.torikyo.ed.jp/sakaisogo-h/"
       },
       "鳥取県立境高等学校" : {
@@ -134,6 +140,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31124D",
          "short_name" : "境高校",
+         "sort_name" : "さかいこうとうかつこう",
          "url" : "http://www.torikyo.ed.jp/sakai-h/"
       },
       "鳥取県立岩美高等学校" : {
@@ -154,6 +161,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31129E",
          "short_name" : "日野高校",
+         "sort_name" : "ひの",
          "url" : "http://www.torikyo.ed.jp/hino-h/"
       },
       "鳥取県立智頭農林高等学校" : {
@@ -173,6 +181,7 @@
          "location_zipcode" : "683-0033",
          "owner_type" : "県立",
          "short_name" : "米子南高校",
+         "sort_name" : "とつとりけんりつよなこみなみ",
          "url" : "http://www.torikyo.ed.jp/yonagom-h/"
       },
       "鳥取県立米子工業高等学校" : {
@@ -183,6 +192,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31122H",
          "short_name" : "米子工業高校",
+         "sort_name" : "よなここうきよう",
          "url" : "http://www.torikyo.ed.jp/yonagoko-h/"
       },
       "鳥取県立米子東高等学校" : {
@@ -194,6 +204,7 @@
          "school_area" : "鳥取県",
          "senior_high_school_code" : "31118",
          "short_name" : "米子東高校",
+         "sort_name" : "とつとりけんりつよなこひかし",
          "url" : "http://cmsweb1.torikyo.ed.jp/yonagoe-h/"
       },
       "鳥取県立米子白鳳高等学校" : {
@@ -204,6 +215,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31135K",
          "short_name" : "米子白鳳高校",
+         "sort_name" : "よなこはくほう",
          "url" : "http://www.torikyo.ed.jp/hakuhou-h/"
       },
       "鳥取県立米子西高等学校" : {
@@ -214,6 +226,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31119H",
          "short_name" : "米子西高校",
+         "sort_name" : "よなこにし",
          "url" : "http://www.torikyo.ed.jp/yonagow-h/"
       },
       "鳥取県立米子高等学校" : {
@@ -225,6 +238,7 @@
          "school_area" : "鳥取県",
          "senior_high_school_code" : "31120A",
          "short_name" : "米子高校",
+         "sort_name" : "とつとりけんりつよなここうとうかつこう",
          "url" : "http://www.torikyo.ed.jp/yonago-h/"
       },
       "鳥取県立青谷高等学校" : {
@@ -254,6 +268,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31103A",
          "short_name" : "鳥取商業高校",
+         "sort_name" : "とつとりしようきよう",
          "url" : "http://www.torikyo.ed.jp/torisyo-h/"
       },
       "鳥取県立鳥取工業高等学校" : {
@@ -263,6 +278,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31104K",
          "short_name" : "鳥取工業高校",
+         "sort_name" : "とつとりこうきよう",
          "url" : "http://www.torikyo.ed.jp/toriko-h/"
       },
       "鳥取県立鳥取東高等学校" : {
@@ -273,6 +289,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31101E",
          "short_name" : "鳥取東高校",
+         "sort_name" : "とつとりひかし",
          "url" : "http://www.torikyo.ed.jp/torie-h/"
       },
       "鳥取県立鳥取湖陵高等学校" : {
@@ -282,6 +299,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31130J",
          "short_name" : "鳥取湖陵高校",
+         "sort_name" : "とつとりこりよう",
          "url" : "http://www.tkoryo.ed.jp/"
       },
       "鳥取県立鳥取緑風高等学校" : {
@@ -293,6 +311,7 @@
          "school_area" : "全県",
          "senior_high_school_code" : "31134A",
          "short_name" : "鳥取緑風高校",
+         "sort_name" : "とつとりりよくふう",
          "url" : "http://www.torikyo.ed.jp/ryokufu-h/"
       },
       "鳥取県立鳥取西高等学校" : {
@@ -303,6 +322,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "31102C",
          "short_name" : "鳥取西高校",
+         "sort_name" : "とつとりけんりつとつとりにし",
          "url" : "http://www.torikyo.ed.jp/toriw-h/"
       }
    }

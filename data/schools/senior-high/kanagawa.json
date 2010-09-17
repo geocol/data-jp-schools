@@ -2,21 +2,25 @@
    "high_schools" : {
       "横浜富士見丘学園中等教育学校" : {
          "location_area" : "横浜市旭区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "よこはまふしみおかかくえんちゆうとうきよういくかつこう"
       },
       "神奈川県立平塚中等教育学校" : {
          "location_area" : "平塚市",
          "owner_type" : "県立",
-         "short_name" : "平塚中等教育学校"
+         "short_name" : "平塚中等教育学校",
+         "sort_name" : "ひらつかちゅうとうきよういく"
       },
       "神奈川県立相模原中等教育学校" : {
          "location_area" : "相模原市南区",
          "owner_type" : "県立",
-         "short_name" : "相模原中等教育学校"
+         "short_name" : "相模原中等教育学校",
+         "sort_name" : "さかみはらちゆうとう"
       },
       "自修館中等教育学校" : {
          "location_area" : "伊勢原市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ししゆうかん"
       }
    },
    "senior_high_schools" : {
@@ -27,6 +31,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14560C",
          "short_name" : "アレセイア湘南高校",
+         "sort_name" : "あれせいあしようなん",
          "url" : "http://www.h.aletheia.ac.jp/",
          "wikipedia_name" : "アレセイア湘南中学校・高等学校"
       },
@@ -37,6 +42,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14537J",
          "short_name" : "カリタス女子高校",
+         "sort_name" : "かりたすしよしちゆうかつこうこうとうかつこう",
          "url" : "http://www.caritas.ed.jp/",
          "wikipedia_name" : "カリタス女子中学校・高等学校"
       },
@@ -47,6 +53,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14538G",
          "short_name" : "サレジオ学院高校",
+         "sort_name" : "されしおかくいん",
          "url" : "http://www.salesio-gakuin.ed.jp/",
          "wikipedia_name" : "サレジオ学院中学校・高等学校"
       },
@@ -58,6 +65,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14501H",
          "short_name" : "フェリス女学院高校",
+         "sort_name" : "ふえりすしよかくいん",
          "url" : "http://www.ferris.ed.jp/",
          "wikipedia_name" : "フェリス女学院中学校・高等学校"
       },
@@ -68,6 +76,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14533F",
          "short_name" : "三浦学苑高校",
+         "sort_name" : "みうらかくえん",
          "url" : "http://www.miura.ed.jp/"
       },
       "中央大学横浜山手高等学校" : {
@@ -77,6 +86,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14505A",
          "short_name" : "中央大学横浜山手高校",
+         "sort_name" : "ちゆうおうたいかくよこはまやまて",
          "url" : "http://yokohama-js.chuo-u.ac.jp/",
          "wikipedia_name" : "中央大学横浜山手中学校・高等学校"
       },
@@ -88,6 +98,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14563H",
          "short_name" : "光明学園相模原高校",
+         "sort_name" : "こうみようさかみはら",
          "url" : "http://www.komyo.ed.jp/"
       },
       "公文国際学園高等部" : {
@@ -97,6 +108,7 @@
          "location_zipcode" : "102-0073",
          "owner_type" : "私立",
          "senior_high_school_code" : "14578F",
+         "sort_name" : "くもんこくさいかくえん",
          "url" : "http://www.kumon.ac.jp/k-gakuen/kokusai/",
          "wikipedia_name" : "公文国際学園中等部・高等部"
       },
@@ -107,6 +119,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14569G",
          "short_name" : "函嶺白百合学園高校",
+         "sort_name" : "かんれいしらゆりかくえん",
          "url" : "http://kanrei-shirayuri.ed.jp/",
          "wikipedia_name" : "函嶺白百合学園中学校・高等学校"
       },
@@ -118,6 +131,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14546H",
          "short_name" : "北鎌倉女子学園高校",
+         "sort_name" : "きたかまくらしよしかくえん",
          "url" : "http://www.kitakama.ac.jp/",
          "wikipedia_name" : "北鎌倉女子学園中学校・高等学校"
       },
@@ -128,6 +142,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14580H",
          "short_name" : "厚木中央高校",
+         "sort_name" : "あつきちゆうおう",
          "url" : "http://www.suzukigakuen.ac.jp/chuo/index.html"
       },
       "向上高等学校" : {
@@ -137,6 +152,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14557C",
          "short_name" : "向上高校",
+         "sort_name" : "こうしようこうとうかつこう",
          "url" : "http://www.kojo.ac.jp/"
       },
       "大西学園高等学校" : {
@@ -147,6 +163,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14536A",
          "short_name" : "大西学園高校",
+         "sort_name" : "おおにしかくえん",
          "url" : "http://www.ohnishigakuen.ac.jp/"
       },
       "山手学院高等学校" : {
@@ -156,6 +173,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14531K",
          "short_name" : "山手学院高校",
+         "sort_name" : "やまてかくいん",
          "url" : "http://www.yamate-gakuin.ac.jp/",
          "wikipedia_name" : "山手学院中学校・高等学校"
       },
@@ -167,6 +185,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "14216G",
          "short_name" : "商業高校",
+         "sort_name" : "かわさきしようきよう",
          "url" : "http://www.kch.ac.jp/"
       },
       "川崎市立川崎総合科学高等学校" : {
@@ -177,6 +196,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "14217E",
          "short_name" : "川崎総合科学高校",
+         "sort_name" : "かわさきしりつかわさきそうこうかかく",
          "url" : "http://www.kst-h.ed.jp/"
       },
       "川崎市立川崎高等学校" : {
@@ -188,6 +208,7 @@
          "school_area" : "全日制普通科・川崎市内全域",
          "senior_high_school_code" : "14208F",
          "short_name" : "川崎高校",
+         "sort_name" : "かわさきしりつかわさきこうとうかつこう",
          "url" : "http://www.keins.city.kawasaki.jp/5/ke500101/"
       },
       "川崎市立橘高等学校" : {
@@ -199,6 +220,7 @@
          "school_area" : "全日制普通科・川崎市内全域",
          "senior_high_school_code" : "14210H",
          "short_name" : "橘高校",
+         "sort_name" : "かわさきしりつたちはな",
          "url" : "http://www.keins.city.kawasaki.jp/5/ke500401/"
       },
       "川崎市立高津高等学校" : {
@@ -210,6 +232,7 @@
          "school_area" : "全日制・川崎市内全域",
          "senior_high_school_code" : "14209D",
          "short_name" : "高津高校",
+         "sort_name" : "かわさきしりつたかつこうとう",
          "url" : "http://www.keins.city.kawasaki.jp/5/ke500501/"
       },
       "平塚学園高等学校" : {
@@ -219,6 +242,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14542E",
          "short_name" : "平塚学園高校",
+         "sort_name" : "ひらつかかくえん",
          "url" : "http://www.hiragaku.ac.jp/main.html"
       },
       "慶應義塾湘南藤沢高等部" : {
@@ -233,6 +257,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14523J",
          "short_name" : "慶應義塾高校",
+         "sort_name" : "けいおうきしゆくこうとう",
          "url" : "http://www.hs.keio.ac.jp/"
       },
       "捜真女学校高等学部" : {
@@ -247,6 +272,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14553A",
          "short_name" : "日本大学藤沢高校",
+         "sort_name" : "にほんたいかくふしさわ",
          "url" : "http://www.fujisawa.hs.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学藤沢高等学校・中学校"
       },
@@ -257,6 +283,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14525E",
          "short_name" : "日本大学高校",
+         "sort_name" : "にほんたいかくこうとうかつこうちゆうかつこう",
          "url" : "http://www.nihon-u.ac.jp/orgni/yokohama/",
          "wikipedia_name" : "日本大学高等学校・中学校"
       },
@@ -268,6 +295,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14541G",
          "short_name" : "日本女子大学附属高校",
+         "sort_name" : "にほんしよしたいかくふそくちゆうかつこう・こうとうかつこう",
          "url" : "http://www.jwu.ac.jp/hsc.html",
          "wikipedia_name" : "日本女子大学附属中学校・高等学校"
       },
@@ -279,6 +307,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14559K",
          "short_name" : "旭丘高校",
+         "sort_name" : "あさひかおかこうとう",
          "url" : "http://www9.plala.or.jp/Niina/index.html",
          "wikipedia_name" : "旭丘高等学校 (神奈川県)"
       },
@@ -290,6 +319,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14565D",
          "short_name" : "東海大学付属相模高校",
+         "sort_name" : "とうかいたいかくふそくさかみ",
          "url" : "http://www.sagami.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属相模高等学校・中等部"
       },
@@ -300,6 +330,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14579D",
          "short_name" : "柏木学園高校",
+         "sort_name" : "かしわきかくえん",
          "url" : "http://www.kashiwagi.ac.jp/kouko/index.html"
       },
       "栄光学園高等学校" : {
@@ -310,6 +341,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14543C",
          "short_name" : "栄光学園高校",
+         "sort_name" : "えいこうかくえん",
          "url" : "http://ekh.jp/",
          "wikipedia_name" : "栄光学園中学校・高等学校"
       },
@@ -320,6 +352,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14573E",
          "short_name" : "桐光学園高校",
+         "sort_name" : "とうこうかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.toko.ed.jp/high/index.html",
          "wikipedia_name" : "桐光学園中学校・高等学校"
       },
@@ -331,6 +364,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14524G",
          "short_name" : "桐蔭学園高校",
+         "sort_name" : "とういんかくえん",
          "url" : "http://www.cc.toin.ac.jp/index.html",
          "wikipedia_name" : "桐蔭学園中学校・高等学校"
       },
@@ -346,6 +380,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14503D",
          "short_name" : "横浜共立学園高校",
+         "sort_name" : "よこはまきようりつかくえんちゆうかくこうこうとうかつこう",
          "url" : "http://www.kjg.ed.jp/",
          "wikipedia_name" : "横浜共立学園中学校・高等学校"
       },
@@ -357,6 +392,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14529H",
          "short_name" : "横浜創学館高校",
+         "sort_name" : "よこはまそうかくかん",
          "url" : "http://www.so-gakukan.ed.jp/"
       },
       "横浜創英高等学校" : {
@@ -378,6 +414,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14520D",
          "short_name" : "横浜商科大学高校",
+         "sort_name" : "よこはましようかたいかくこうとうかつこう",
          "url" : "http://www.shodai-h.ed.jp/"
       },
       "横浜国際女学院翠陵高等学校" : {
@@ -387,6 +424,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14576K",
          "short_name" : "横浜国際女学院翠陵高校",
+         "sort_name" : "よこはまこくさいしよしかくいんすいりよう",
          "url" : "http://www.suiryo.ed.jp/",
          "wikipedia_name" : "横浜国際女学院翠陵中学校・高等学校"
       },
@@ -397,6 +435,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14504B",
          "short_name" : "横浜女学院高校",
+         "sort_name" : "よこはましよかくいん",
          "url" : "http://www.yjg.y-gakuin.ed.jp/",
          "wikipedia_name" : "横浜女学院中学校・高等学校"
       },
@@ -412,6 +451,7 @@
          "owner_type" : "市立",
          "school_area" : "横浜市内全域",
          "short_name" : "みなと総合高校",
+         "sort_name" : "みなとそうこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/hs/m-sogo/"
       },
       "横浜市立南高等学校" : {
@@ -422,6 +462,7 @@
          "school_area" : "横浜市内全域",
          "senior_high_school_code" : "14202G",
          "short_name" : "南高校",
+         "sort_name" : "みなみこうとうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/hs/minami/"
       },
       "横浜市立戸塚高等学校" : {
@@ -433,6 +474,7 @@
          "school_area" : "全日制・横浜市内全域",
          "senior_high_school_code" : "14206K",
          "short_name" : "戸塚高校",
+         "sort_name" : "よこはましりつとつかこうとうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/hs/totsuka/"
       },
       "横浜市立東高等学校" : {
@@ -464,6 +506,7 @@
          "school_area" : "横浜市内全域",
          "senior_high_school_code" : "14315E",
          "short_name" : "横浜サイエンスフロンティア高校",
+         "sort_name" : "よこはましりつよこはまさいえんすふろていあこうとう",
          "url" : "http://www.city.yokohama.jp/me/kyoiku/sidou2/koukou/sfh/"
       },
       "横浜市立横浜商業高等学校" : {
@@ -474,6 +517,7 @@
          "school_area" : "商業科・県内全域",
          "senior_high_school_code" : "14212D",
          "short_name" : "横浜商業高校",
+         "sort_name" : "よこはましようきよう",
          "url" : "http://www.edu.city.yokohama.jp/sch/hs/y-shogyo/"
       },
       "横浜市立横浜総合高等学校" : {
@@ -484,6 +528,7 @@
          "school_area" : "横浜市内全域",
          "senior_high_school_code" : "14286H",
          "short_name" : "横浜総合高校",
+         "sort_name" : "よこはまそうこうこうとうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/hs/y-sogo/"
       },
       "横浜市立金沢高等学校" : {
@@ -515,6 +560,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14510G",
          "short_name" : "横浜清風高校",
+         "sort_name" : "よこはませいふう",
          "url" : "http://www.y-seifu.ac.jp/index.html"
       },
       "横浜英和女学院高等学校" : {
@@ -530,6 +576,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14572G",
          "short_name" : "横浜隼人高校",
+         "sort_name" : "よこはまはやと",
          "url" : "http://www.hayato.ed.jp/junior/",
          "wikipedia_name" : "横浜隼人中学校・高等学校"
       },
@@ -540,6 +587,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14502F",
          "short_name" : "横浜雙葉高校",
+         "sort_name" : "よこはまふたは",
          "url" : "http://www.yokohamafutaba.ed.jp/",
          "wikipedia_name" : "横浜雙葉中学校・高等学校"
       },
@@ -550,6 +598,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14530A",
          "short_name" : "横浜高校",
+         "sort_name" : "よこはま",
          "url" : "http://www.yokohama-jsh.ac.jp/",
          "wikipedia_name" : "横浜中学校・高等学校"
       },
@@ -566,6 +615,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "14292B",
          "short_name" : "横須賀総合高校",
+         "sort_name" : "よこすかそうこうこうとう",
          "url" : "http://schoolnet.edu.city.yokosuka.kanagawa.jp/schoolnet/highschool/301sougou/"
       },
       "橘学苑高等学校" : {
@@ -575,6 +625,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14516F",
          "short_name" : "橘学苑高校",
+         "sort_name" : "たちはなかくえん",
          "url" : "http://www.tachibana.ac.jp/",
          "wikipedia_name" : "橘学苑中学校・高等学校"
       },
@@ -585,6 +636,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14526C",
          "short_name" : "武相高校",
+         "sort_name" : "ふそうちゆうこう",
          "url" : "http://www.buso.ac.jp/",
          "wikipedia_name" : "武相中学校・高等学校"
       },
@@ -596,6 +648,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14519A",
          "short_name" : "法政大学女子高校",
+         "sort_name" : "ほうせいたいかくしよし",
          "url" : "http://www.hosei.ac.jp/general/jyoshi/"
       },
       "法政大学第二高等学校" : {
@@ -606,6 +659,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14540J",
          "short_name" : "法政大学第二高校",
+         "sort_name" : "ほうせいたいかくたいに",
          "url" : "http://www.hosei2.ed.jp/",
          "wikipedia_name" : "法政大学第二中・高等学校"
       },
@@ -617,6 +671,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14539E",
          "short_name" : "洗足学園高校",
+         "sort_name" : "せんそくかくえんちゆうかくこうとうかつこう",
          "url" : "http://www.senzoku-gakuen.ed.jp/",
          "wikipedia_name" : "洗足学園中学校・高等学校"
       },
@@ -628,6 +683,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14511E",
          "short_name" : "浅野高校",
+         "sort_name" : "あさのかくえん",
          "url" : "http://www.asano.ed.jp/",
          "wikipedia_name" : "浅野中学校・高等学校"
       },
@@ -638,6 +694,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14570A",
          "short_name" : "清心女子高校",
+         "sort_name" : "せいしんしよし",
          "url" : "http://www.seisin.ed.jp/index.html"
       },
       "清泉女学院高等学校" : {
@@ -647,6 +704,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14548D",
          "short_name" : "清泉女学院高校",
+         "sort_name" : "せいせんしよかくいん",
          "url" : "http://izumi.seisen-h.ed.jp/index.html",
          "wikipedia_name" : "清泉女学院中学高等学校"
       },
@@ -657,6 +715,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14551D",
          "short_name" : "湘南学園高校",
+         "sort_name" : "しようなんかくえん",
          "url" : "http://www.shogak.ac.jp/mh/index.html",
          "wikipedia_name" : "湘南学園中学校・高等学校"
       },
@@ -667,6 +726,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14532H",
          "short_name" : "湘南学院高校",
+         "sort_name" : "しようなんかくいん",
          "url" : "http://www.shonangakuin.ed.jp/top.html"
       },
       "湘南工科大学附属高等学校" : {
@@ -676,6 +736,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14550F",
          "short_name" : "湘南工科大学附属高校",
+         "sort_name" : "しようなんこうかたいかくふそく",
          "url" : "http://www.sh.shonan-it.ac.jp/contents/"
       },
       "湘南白百合学園高等学校" : {
@@ -685,6 +746,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14552B",
          "short_name" : "湘南白百合学園高校",
+         "sort_name" : "しようなんしらゆりかくえん",
          "url" : "http://www.shonan-shirayuri.ac.jp/",
          "wikipedia_name" : "湘南白百合学園中学・高等学校"
       },
@@ -696,11 +758,17 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14515H",
          "short_name" : "白鵬女子高校",
+         "sort_name" : "はくほうしよし",
          "url" : "http://www.hakuhojoshi-h.ed.jp/"
       },
       "相模女子大学高等部" : {
+         "location" : "神奈川県相模原市南区文京2-1-1",
          "location_area" : "相模原市南区",
+         "location_zipcode" : "228-8533",
          "owner_type" : "私立",
+         "senior_high_school_code" : "14564F",
+         "sort_name" : "さかみしよしたいかくちゆうかくふこうとうふ",
+         "url" : "http://www.sagami-wu.ac.jp/chukou/index.html",
          "wikipedia_name" : "相模女子大学中学部・高等部"
       },
       "相洋高等学校" : {
@@ -711,6 +779,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14558A",
          "short_name" : "相洋高校",
+         "sort_name" : "そうよう",
          "url" : "http://www.soyo.ac.jp/"
       },
       "神奈川大学附属高等学校" : {
@@ -720,6 +789,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14571J",
          "short_name" : "神奈川大学附属高校",
+         "sort_name" : "かなかわたいかくふそく",
          "url" : "http://www.fhs.kanagawa-u.ac.jp/",
          "wikipedia_name" : "神奈川大学附属中・高等学校"
       },
@@ -730,6 +800,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14512C",
          "short_name" : "神奈川学園高校",
+         "sort_name" : "かなかわかくえん",
          "url" : "http://www.kanagawa-kgs.ac.jp/index.html",
          "wikipedia_name" : "神奈川学園中学校・高等学校"
       },
@@ -750,6 +821,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14299K",
          "short_name" : "三浦臨海高校",
+         "sort_name" : "みうらりんかいこうとうかつこう",
          "url" : "http://www.miurarinkai-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立上溝南高等学校" : {
@@ -760,6 +832,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14172A",
          "short_name" : "上溝南高校",
+         "sort_name" : "かみみそみなみこうとうかつこう",
          "url" : "http://www.kamimizominami-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立上溝高等学校" : {
@@ -770,6 +843,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14167E",
          "short_name" : "上溝高校",
+         "sort_name" : "かみみそこうとうかつこう",
          "url" : "http://www.kamimizo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立上矢部高等学校" : {
@@ -780,6 +854,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14252C",
          "short_name" : "上矢部高校",
+         "sort_name" : "かみやへこうとうかつこう",
          "url" : "http://www.kamiyabe-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立上鶴間高等学校" : {
@@ -790,6 +865,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14199C",
          "short_name" : "上鶴間高校",
+         "sort_name" : "かみつるまこうとうかつこう",
          "url" : "http://www.kamitsuruma-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立中央農業高等学校" : {
@@ -800,6 +876,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14183G",
          "short_name" : "中央農業高校",
+         "sort_name" : "ちゆうおうのうきようこうとうかつこう",
          "url" : "http://www.chuo-ah.pen-kanagawa.ed.jp/"
       },
       "神奈川県立二俣川看護福祉高等学校" : {
@@ -820,6 +897,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14224H",
          "short_name" : "二宮高校",
+         "sort_name" : "にのみやこうとうかつこう",
          "url" : "http://www.ninomiya-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立伊勢原高等学校" : {
@@ -829,6 +907,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14182J",
          "short_name" : "伊勢原高校",
+         "sort_name" : "いせはら",
          "url" : "http://www.isehara-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立伊志田高等学校" : {
@@ -838,6 +917,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14180B",
          "short_name" : "伊志田高校",
+         "sort_name" : "いした",
          "url" : "http://www.ishida-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立住吉高等学校" : {
@@ -848,6 +928,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14240K",
          "short_name" : "住吉高校",
+         "sort_name" : "すみよし",
          "url" : "http://www.sumiyoshi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立保土ヶ谷高等学校" : {
@@ -882,6 +963,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14226D",
          "short_name" : "厚木北高校",
+         "sort_name" : "あつききたこうとうかつこう",
          "url" : "http://www.atsugikita-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立厚木商業高等学校" : {
@@ -892,6 +974,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14179J",
          "short_name" : "厚木商業高校",
+         "sort_name" : "あつきしようきよう",
          "url" : "http://www.atsugi-ch.pen-kanagawa.ed.jp/"
       },
       "神奈川県立厚木東高等学校" : {
@@ -902,6 +985,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14178A",
          "short_name" : "厚木東高校",
+         "sort_name" : "あつきひかし",
          "url" : "http://www.atsugihigashi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立厚木清南高等学校" : {
@@ -912,6 +996,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14301E",
          "short_name" : "厚木清南高校",
+         "sort_name" : "あつきせいなんこうとうかつこう",
          "url" : "http://www.atsugiseinan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立厚木西高等学校" : {
@@ -932,6 +1017,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14177B",
          "short_name" : "厚木高校",
+         "sort_name" : "あつきこうとうかつこう",
          "url" : "http://www.atsugi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立吉田島総合高等学校" : {
@@ -941,6 +1027,7 @@
          "location_zipcode" : "258-0021",
          "owner_type" : "県立",
          "short_name" : "吉田島総合高校",
+         "sort_name" : "よしたしまそうこうこうとうかつこう",
          "url" : "http://www.yoshidajima-ah.pen-kanagawa.ed.jp/"
       },
       "神奈川県立向の岡工業高等学校" : {
@@ -951,6 +1038,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14135G",
          "short_name" : "向の岡工業高校",
+         "sort_name" : "むかいのおかこうきようこうとうかつこう",
          "url" : "http://www.mukainooka-th.pen-kanagawa.ed.jp/"
       },
       "神奈川県立商工高等学校" : {
@@ -961,6 +1049,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14112H",
          "short_name" : "商工高校",
+         "sort_name" : "しようこう",
          "url" : "http://www.shoko-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立城山高等学校" : {
@@ -971,6 +1060,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14188H",
          "short_name" : "城山高校",
+         "sort_name" : "しろやま",
          "url" : "http://www.shiroyama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立城郷高等学校" : {
@@ -990,6 +1080,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14134J",
          "short_name" : "多摩高校",
+         "sort_name" : "かなかわけんりつたま",
          "url" : "http://tama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大井高等学校" : {
@@ -1009,6 +1100,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14270A",
          "short_name" : "大原高校",
+         "sort_name" : "おおはらこうとうかつこう",
          "url" : "http://www.ohara-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大和南高等学校" : {
@@ -1026,6 +1118,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14247G",
          "short_name" : "大和東高校",
+         "sort_name" : "やまとひかしこうとうかつこう",
          "url" : "http://www.yamatohigashi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大和西高等学校" : {
@@ -1035,6 +1128,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14278G",
          "short_name" : "大和西高校",
+         "sort_name" : "やまとにし",
          "url" : "http://www.yamatonishi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大和高等学校" : {
@@ -1044,6 +1138,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14181A",
          "short_name" : "大和高校",
+         "sort_name" : "やまとこうとうかつこう",
          "url" : "http://www.yamato-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大師高等学校" : {
@@ -1054,6 +1149,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14255H",
          "short_name" : "大師高校",
+         "sort_name" : "たいし",
          "url" : "http://www.daishi-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大楠高等学校" : {
@@ -1063,6 +1159,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14241H",
          "short_name" : "大楠高校",
+         "sort_name" : "おおくすこうとうかつこう",
          "url" : "http://www.ogusu-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大磯高等学校" : {
@@ -1073,6 +1170,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14185C",
          "short_name" : "大磯高校",
+         "sort_name" : "おおいそ",
          "url" : "http://www.oiso-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立大船高等学校" : {
@@ -1083,6 +1181,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14258B",
          "short_name" : "大船高校",
+         "sort_name" : "おおふなこうとうかつこう",
          "url" : "http://www.ofuna-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立寒川高等学校" : {
@@ -1093,6 +1192,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14223K",
          "short_name" : "寒川高校",
+         "sort_name" : "かなかわけんりつさむかわ",
          "url" : "http://www.samukawa-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立小田原城北工業高等学校" : {
@@ -1103,6 +1203,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14161F",
          "short_name" : "小田原城北工業高校",
+         "sort_name" : "おたわらしようほくこうきようこうとうかつこう",
          "url" : "http://www.odawarajohoku-th.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立小田原総合ビジネス高等学校" : {
@@ -1112,6 +1213,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14307D",
          "short_name" : "小田原総合ビジネス高校",
+         "sort_name" : "おたわらそうこうひしねす",
          "url" : "http://www.odawarasogobiz-h.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立小田原高等学校" : {
@@ -1122,6 +1224,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14157H",
          "short_name" : "小田原高校",
+         "sort_name" : "かなかわけんりつおたわら",
          "url" : "http://www.odawara-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立山北高等学校" : {
@@ -1150,6 +1253,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14120J",
          "short_name" : "川和高校",
+         "sort_name" : "かなかわけんりつたちかわかわわこうとうかつこう",
          "url" : "http://www.kawawa-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立川崎北高等学校" : {
@@ -1160,6 +1264,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14132B",
          "short_name" : "川崎北高校",
+         "sort_name" : "かわさききた",
          "url" : "http://www.kawasakikita-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立川崎工科高等学校" : {
@@ -1169,6 +1274,7 @@
          "location_zipcode" : "211-0013",
          "owner_type" : "県立",
          "short_name" : "川崎工科高校",
+         "sort_name" : "かわさきこうかこうとうかつこう",
          "url" : "http://www.kawasaki-th.pen-kanagawa.ed.jp/shinkou/shinkoutop.htm"
       },
       "神奈川県立川崎高等学校" : {
@@ -1179,6 +1285,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14129B",
          "short_name" : "川崎高校",
+         "sort_name" : "かわさき",
          "url" : "http://www.kawasaki-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立市ヶ尾高等学校" : {
@@ -1199,6 +1306,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14113F",
          "short_name" : "希望ヶ丘高校",
+         "sort_name" : "きほうかおか",
          "url" : "http://www.kibogaoka-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立平塚商業高等学校" : {
@@ -1209,6 +1317,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14148J",
          "short_name" : "平塚商業高校",
+         "sort_name" : "ひらつかしようきよう",
          "url" : "http://www.hiratsuka-ch.pen-kanagawa.ed.jp/"
       },
       "神奈川県立平塚工科高等学校" : {
@@ -1219,6 +1328,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14289B",
          "short_name" : "平塚工科高校",
+         "sort_name" : "ひらつかこうか",
          "url" : "http://www.hiratsukakoka-th.pen-kanagawa.ed.jp/"
       },
       "神奈川県立平塚江南高等学校" : {
@@ -1229,6 +1339,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14143H",
          "short_name" : "平塚江南高校",
+         "sort_name" : "ひらつかこうなん",
          "url" : "http://www.hiratsukakonan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立平塚湘風高等学校" : {
@@ -1239,6 +1350,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14243D",
          "short_name" : "平塚湘風高校",
+         "sort_name" : "ひらつかしようふう",
          "url" : "http://www.hiratsukashofu-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立平塚農業高等学校" : {
@@ -1248,12 +1360,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14145D",
          "short_name" : "平塚農業高校",
+         "sort_name" : "ひらつかのうきようこうとうかつこう",
          "url" : "http://www.hiratsuka-ah.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立平塚農業高等学校初声分校" : {
          "location_area" : "三浦市",
          "owner_type" : "県立",
-         "short_name" : "平塚農業高校初声分校"
+         "short_name" : "平塚農業高校初声分校",
+         "sort_name" : "ひらつかのうきようこうとうかつこう"
       },
       "神奈川県立座間総合高等学校" : {
          "location" : "神奈川県座間市栗原2487",
@@ -1262,6 +1376,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14312A",
          "short_name" : "座間総合高校",
+         "sort_name" : "さまそうこう",
          "url" : "http://www.zamasogo-ih.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立座間高等学校" : {
@@ -1271,6 +1386,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14184E",
          "short_name" : "座間高校",
+         "sort_name" : "さまこうとうかつこう",
          "url" : "http://www.zama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立弥栄高等学校" : {
@@ -1280,6 +1396,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14308B",
          "short_name" : "弥栄高校",
+         "sort_name" : "かなかわけんりつやえい",
          "url" : "http://www.yaei-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立愛川高等学校" : {
@@ -1289,6 +1406,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14263J",
          "short_name" : "愛川高校",
+         "sort_name" : "あいかわ",
          "url" : "http://www.aikawa-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立新城高等学校" : {
@@ -1299,6 +1417,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14131D",
          "short_name" : "新城高校",
+         "sort_name" : "しんしよう",
          "url" : "http://www.shinjo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立新栄高等学校" : {
@@ -1309,6 +1428,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14251E",
          "short_name" : "新栄高校",
+         "sort_name" : "しんえい",
          "url" : "http://www.shinei-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立新羽高等学校" : {
@@ -1327,6 +1447,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14115B",
          "short_name" : "旭高校",
+         "sort_name" : "あさひこうとうかつこう",
          "url" : "http://www.asahi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立有馬高等学校" : {
@@ -1337,6 +1458,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14261B",
          "short_name" : "有馬高校",
+         "sort_name" : "ありまこうとうかつこう",
          "url" : "http://www.arima-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立松陽高等学校" : {
@@ -1346,6 +1468,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14125K",
          "short_name" : "松陽高校",
+         "sort_name" : "かなかわけんりつしようよう",
          "url" : "http://www.shoyo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立柏陽高等学校" : {
@@ -1355,6 +1478,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14124A",
          "short_name" : "柏陽高校",
+         "sort_name" : "かなかわけんりつはくよう",
          "url" : "http://www.hakuyo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜修悠館高等学校" : {
@@ -1364,6 +1488,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14304K",
          "short_name" : "横浜修悠館高校",
+         "sort_name" : "かなかわけんりつよこはましゆうゆうかん",
          "url" : "http://www.y-shuyukan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜南陵高等学校" : {
@@ -1373,6 +1498,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14287F",
          "short_name" : "横浜南陵高校",
+         "sort_name" : "よこはまなんりよう",
          "url" : "http://www.y-nanryo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜国際高等学校" : {
@@ -1381,6 +1507,7 @@
          "location_zipcode" : "232-0066",
          "owner_type" : "県立",
          "short_name" : "横浜国際高校",
+         "sort_name" : "よこはまこくさいこうとうかつこう",
          "url" : "http://www.yokohamakokusai-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜平沼高等学校" : {
@@ -1390,6 +1517,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14104G",
          "short_name" : "横浜平沼高校",
+         "sort_name" : "かなかわけんりつよこはまひらぬまこうとうかつこう",
          "url" : "http://www.yokohamahiranuma-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜旭陵高等学校" : {
@@ -1400,6 +1528,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14294J",
          "short_name" : "横浜旭陵高校",
+         "sort_name" : "よこはまきよくりようこう",
          "url" : "http://www.y-kyokuryo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜栄高等学校" : {
@@ -1410,6 +1539,7 @@
          "school_area" : "なし",
          "senior_high_school_code" : "14310D",
          "short_name" : "横浜栄高校",
+         "sort_name" : "よこはまさかえこうとうかつこう",
          "url" : "http://www.yokohamasakae-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜桜陽高等学校" : {
@@ -1420,6 +1550,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14288D",
          "short_name" : "横浜桜陽高校",
+         "sort_name" : "よこはまおうよう",
          "url" : "http://www.y-oyo-h.pen-kanagawa.ed.jp/index.htm"
       },
       "神奈川県立横浜清陵総合高等学校" : {
@@ -1438,6 +1569,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14106C",
          "short_name" : "横浜立野高校",
+         "sort_name" : "よこはまたての",
          "url" : "http://www.y-tateno-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜緑ヶ丘高等学校" : {
@@ -1447,6 +1579,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14105E",
          "short_name" : "横浜緑ヶ丘高校",
+         "sort_name" : "かなかわけんりつよこはまみとりかおかこうとうかつこう",
          "url" : "http://www.y-midorigaoka-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜緑園総合高等学校" : {
@@ -1455,6 +1588,7 @@
          "location_zipcode" : "245-0003",
          "owner_type" : "県立",
          "short_name" : "横浜緑園総合高校",
+         "sort_name" : "よこはまりよくえんそうこう",
          "url" : "http://www.y-ryokuensogo-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横浜翠嵐高等学校" : {
@@ -1464,6 +1598,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14103J",
          "short_name" : "横浜翠嵐高校",
+         "sort_name" : "よこはますいらん",
          "url" : "http://www.yokohamasuiran-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横須賀大津高等学校" : {
@@ -1473,6 +1608,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14139K",
          "short_name" : "横須賀大津高校",
+         "sort_name" : "よこすかおおつこうとうかつこう",
          "url" : "http://www.yokosukaotsu-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横須賀工業高等学校" : {
@@ -1483,6 +1619,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14140C",
          "short_name" : "横須賀工業高校",
+         "sort_name" : "よこすかこうきよう",
          "url" : "http://www.yokosuka-th.pen-kanagawa.ed.jp/"
       },
       "神奈川県立横須賀明光高等学校" : {
@@ -1491,7 +1628,8 @@
          "location_zipcode" : "239-0835",
          "owner_type" : "県立",
          "senior_high_school_code" : "14306F",
-         "short_name" : "横須賀明光高校"
+         "short_name" : "横須賀明光高校",
+         "sort_name" : "よこすかめいこう"
       },
       "神奈川県立横須賀高等学校" : {
          "location" : "神奈川県横須賀市公郷町3-109",
@@ -1500,6 +1638,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14138A",
          "short_name" : "横須賀高校",
+         "sort_name" : "よこすかこうとうかつこう",
          "url" : "http://www.yokosuka-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立橋本高等学校" : {
@@ -1510,6 +1649,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14225F",
          "short_name" : "橋本高校",
+         "sort_name" : "はしもとこうとうかつこう",
          "url" : "http://www.hashimoto-h.pen-kanagawa.ed.jp/main.html"
       },
       "神奈川県立氷取沢高等学校" : {
@@ -1520,6 +1660,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14254K",
          "short_name" : "氷取沢高校",
+         "sort_name" : "ひとりさわこうとうかつこう",
          "url" : "http://www.hitorizawa-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立永谷高等学校" : {
@@ -1529,6 +1670,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14276A",
          "short_name" : "永谷高校",
+         "sort_name" : "かなかわけんりつなかや",
          "url" : "http://www.nagaya-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立津久井浜高等学校" : {
@@ -1538,6 +1680,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14189F",
          "short_name" : "津久井浜高校",
+         "sort_name" : "つくいはまこうとうかつこう",
          "url" : "http://www.tsukuihama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立津久井高等学校" : {
@@ -1547,6 +1690,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14189F",
          "short_name" : "津久井高校",
+         "sort_name" : "つくいこうとうかつこう",
          "url" : "http://www.tsukui-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立海洋科学高等学校" : {
@@ -1557,6 +1701,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14305H",
          "short_name" : "海洋科学高校",
+         "sort_name" : "かいようかかくこうとうかつこう",
          "url" : "http://www.kaiyokagaku-h.pen-kanagawa.ed.jp/index.htm"
       },
       "神奈川県立海老名高等学校" : {
@@ -1577,6 +1722,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14277J",
          "short_name" : "深沢高校",
+         "sort_name" : "ふかさわ",
          "url" : "http://www.fukasawa-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立港北高等学校" : {
@@ -1593,6 +1739,7 @@
          "location_zipcode" : "252-0805",
          "owner_type" : "県立",
          "short_name" : "湘南台高校",
+         "sort_name" : "しようなんたい",
          "url" : "http://www.shonandai-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立湘南高等学校" : {
@@ -1602,6 +1749,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14153E",
          "short_name" : "湘南高校",
+         "sort_name" : "しようなんこうとうかっこう",
          "url" : "http://www.shonan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立瀬谷西高等学校" : {
@@ -1611,6 +1759,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14220E",
          "short_name" : "瀬谷西高校",
+         "sort_name" : "せやにしこうとうかつこう",
          "url" : "http://www.seyanishi-h.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立瀬谷高等学校" : {
@@ -1620,6 +1769,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14127F",
          "short_name" : "瀬谷高校",
+         "sort_name" : "せやこうとうかつこう",
          "url" : "http://www.seya-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立生田東高等学校" : {
@@ -1659,6 +1809,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14123C",
          "short_name" : "白山高校",
+         "sort_name" : "かなかわけんりつはくさんこうとうかつこう",
          "url" : "http://www.hakusan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立百合丘高等学校" : {
@@ -1669,6 +1820,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14137C",
          "short_name" : "百合丘高校",
+         "sort_name" : "かなかわけんりつゆりかおか",
          "url" : "http://www.yurigaoka-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相原高等学校" : {
@@ -1678,6 +1830,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14268K",
          "short_name" : "相原高校",
+         "sort_name" : "あいはら",
          "url" : "http://www.aihara-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相模原総合高等学校" : {
@@ -1687,6 +1840,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14291D",
          "short_name" : "相模原総合高校",
+         "sort_name" : "さかみはらそうこう",
          "url" : "http://www.sagamiharasogo-ih.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立相模原青陵高等学校" : {
@@ -1695,6 +1849,7 @@
          "location_zipcode" : "252-0325",
          "owner_type" : "県立",
          "short_name" : "相模原青陵高校",
+         "sort_name" : "さかみはらせいりようこうとうかつこう",
          "url" : "http://www.sagamiharaseiryo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相模原高等学校" : {
@@ -1705,6 +1860,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14169A",
          "short_name" : "相模原高校",
+         "sort_name" : "さかみはらこうとうかつこう",
          "url" : "http://www.sagamihara-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相模向陽館高等学校" : {
@@ -1713,6 +1869,7 @@
          "location_zipcode" : "228-0003",
          "owner_type" : "県立",
          "short_name" : "相模向陽館高校",
+         "sort_name" : "さかみこうようかん",
          "url" : "http://www.sagamikoyokan-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相模大野高等学校" : {
@@ -1723,6 +1880,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14273F",
          "short_name" : "相模大野高校",
+         "sort_name" : "さかみおおの",
          "url" : "http://www.sagamiono-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立相模田名高等学校" : {
@@ -1733,6 +1891,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14283C",
          "short_name" : "相模田名高校",
+         "sort_name" : "さかみたなこうとうかつこう",
          "url" : "http://www.sagamitana-h.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立磯子工業高等学校" : {
@@ -1743,6 +1902,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14116A",
          "short_name" : "磯子工業高校",
+         "sort_name" : "いそここうきようこうこう",
          "url" : "http://www.isogo-th.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立磯子高等学校" : {
@@ -1752,6 +1912,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14194B",
          "short_name" : "磯子高校",
+         "sort_name" : "いそここうとうかつこう",
          "url" : "http://www.isogo-h.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立神奈川工業高等学校" : {
@@ -1760,6 +1921,7 @@
          "location_zipcode" : "221-0812",
          "owner_type" : "県立",
          "short_name" : "神奈川工業高校",
+         "sort_name" : "かなかわこうきようこうとうかつこう",
          "url" : "http://www.kanagawa-th.pen-kanagawa.ed.jp/"
       },
       "神奈川県立神奈川総合産業高等学校" : {
@@ -1770,6 +1932,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14300G",
          "short_name" : "神奈川総合産業高校",
+         "sort_name" : "かなかわそうこうさんきようこうとうかつこう",
          "url" : "http://www.kanagawasogosangyo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立神奈川総合高等学校" : {
@@ -1778,6 +1941,7 @@
          "location_zipcode" : "221-0812",
          "owner_type" : "県立",
          "short_name" : "神奈川総合高校",
+         "sort_name" : "かなかわそうこうこうとうかつこう",
          "url" : "http://www.kanagawasohgoh-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立秦野曽屋高等学校" : {
@@ -1786,8 +1950,7 @@
          "location_zipcode" : "257-0031",
          "owner_type" : "県立",
          "senior_high_school_code" : "14281G",
-         "short_name" : "秦野曽屋高校",
-         "url" : "http://(Web"
+         "short_name" : "秦野曽屋高校"
       },
       "神奈川県立秦野総合高等学校" : {
          "location" : "神奈川県秦野市南が丘1丁目4番地の1",
@@ -1796,6 +1959,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14309A",
          "short_name" : "秦野総合高校",
+         "sort_name" : "はたのそうこうこうこう",
          "url" : "http://www.hadanosogo-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立秦野高等学校" : {
@@ -1814,6 +1978,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14262A",
          "short_name" : "綾瀬西高校",
+         "sort_name" : "あやせにしこうとうがつこう",
          "url" : "http://www.ayasenishi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立綾瀬高等学校" : {
@@ -1823,6 +1988,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14201J",
          "short_name" : "綾瀬高校",
+         "sort_name" : "あやせ",
          "url" : "http://www.ayase-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立舞岡高等学校" : {
@@ -1833,6 +1999,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14128D",
          "short_name" : "舞岡高校",
+         "sort_name" : "まいおかこうとうかつこう",
          "url" : "http://www.maioka-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立茅ヶ崎北陵高等学校" : {
@@ -1853,6 +2020,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14242F",
          "short_name" : "茅ヶ崎西浜高校",
+         "sort_name" : "ちかさきにしはま",
          "url" : "http://www.chigasakinishihama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立茅ヶ崎高等学校" : {
@@ -1862,6 +2030,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14162D",
          "short_name" : "茅ヶ崎高校",
+         "sort_name" : "ちかさきこうとうかつこう",
          "url" : "http://www.chigasaki-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立荏田高等学校" : {
@@ -1872,6 +2041,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14227B",
          "short_name" : "荏田高校",
+         "sort_name" : "かなかわけんりつえたこうとうかつこう",
          "url" : "http://www.eda-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立菅高等学校" : {
@@ -1892,6 +2062,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14290F",
          "short_name" : "藤沢工科高校",
+         "sort_name" : "ふしさわこうか",
          "url" : "http://www.fujisawakoka-th.pen-kanagawa.ed.jp/"
       },
       "神奈川県立藤沢清流高等学校" : {
@@ -1900,6 +2071,7 @@
          "location_zipcode" : "251-0002",
          "owner_type" : "県立",
          "short_name" : "藤沢清流高校",
+         "sort_name" : "ふしさわせいりゆうこうとうかつこう",
          "url" : "http://www.fujisawaseiryu-h.pen-kanagawa.ed.jp/index.html"
       },
       "神奈川県立藤沢総合高等学校" : {
@@ -1909,6 +2081,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14296E",
          "short_name" : "藤沢総合高校",
+         "sort_name" : "ふしさわそうこう",
          "url" : "http://www.fujisawasogo-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立藤沢西高等学校" : {
@@ -1918,6 +2091,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14155A",
          "short_name" : "藤沢西高校",
+         "sort_name" : "かなかわけんりつふしさわにしこうとう",
          "url" : "http://www.fujisawanishi-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立西湘高等学校" : {
@@ -1927,6 +2101,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14160H",
          "short_name" : "西湘高校",
+         "sort_name" : "せいしよう",
          "url" : "http://www.seisho-h.pen-kanagawa.ed.jp"
       },
       "神奈川県立足柄高等学校" : {
@@ -1945,6 +2120,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14142K",
          "short_name" : "追浜高校",
+         "sort_name" : "おつはまこうとうかつこう",
          "url" : "http://www.oppama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立逗子高等学校" : {
@@ -1964,6 +2140,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14222A",
          "short_name" : "逗葉高校",
+         "sort_name" : "すようこうとうかつこう",
          "url" : "http://www.zuyo-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立金井高等学校" : {
@@ -1973,6 +2150,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14126H",
          "short_name" : "金井高校",
+         "sort_name" : "かなかわけんりつかない",
          "url" : "http://www.kanai-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立金沢総合高等学校" : {
@@ -1983,6 +2161,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14298A",
          "short_name" : "金沢総合高校",
+         "sort_name" : "かなさわそうこう",
          "url" : "http://www.kanazawasogo-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立釜利谷高等学校" : {
@@ -1993,6 +2172,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14267A",
          "short_name" : "釜利谷高校",
+         "sort_name" : "かまりやこうとうかつこう",
          "url" : "http://www.kamariya-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立鎌倉高等学校" : {
@@ -2003,6 +2183,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14150A",
          "short_name" : "鎌倉高校",
+         "sort_name" : "かなかわけんりつかまくらこうとうかつこう",
          "url" : "http://www.kamakura-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立霧が丘高等学校" : {
@@ -2022,6 +2203,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14147A",
          "short_name" : "高浜高校",
+         "sort_name" : "かなかわけんりつたかはまこうとうかつこう",
          "url" : "http://www.takahama-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立鶴嶺高等学校" : {
@@ -2032,6 +2214,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14164A",
          "short_name" : "鶴嶺高校",
+         "sort_name" : "つるみね",
          "url" : "http://www.tsurumine-h.pen-kanagawa.ed.jp/"
       },
       "神奈川県立鶴見総合高等学校" : {
@@ -2041,6 +2224,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "14297C",
          "short_name" : "鶴見総合高校",
+         "sort_name" : "つるみそうこう",
          "url" : "http://www.tsurumisogo-ih.pen-kanagawa.ed.jp/"
       },
       "神奈川県立鶴見高等学校" : {
@@ -2087,6 +2271,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14575A",
          "short_name" : "秀英高校",
+         "sort_name" : "しゆうえい",
          "url" : "http://www.shuei.ed.jp/"
       },
       "立花学園高等学校" : {
@@ -2095,6 +2280,7 @@
          "location_zipcode" : "258-0003",
          "owner_type" : "私立",
          "short_name" : "立花学園高校",
+         "sort_name" : "たちはなかくえんこうとうかつこう",
          "url" : "http://tachibana-g.ac.jp/"
       },
       "緑ヶ丘女子高等学校" : {
@@ -2104,6 +2290,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14534D",
          "short_name" : "緑ヶ丘女子高校",
+         "sort_name" : "みとりかおかしよし",
          "url" : "http://www.midorigaoka.ed.jp/",
          "wikipedia_name" : "緑ヶ丘女子中学校・高等学校"
       },
@@ -2114,6 +2301,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14567A",
          "short_name" : "聖セシリア女子高校",
+         "sort_name" : "せいせしりあしよし",
          "url" : "http://www.cecilia.ac.jp/",
          "wikipedia_name" : "聖セシリア女子中学校・高等学校"
       },
@@ -2124,6 +2312,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14518B",
          "short_name" : "聖ヨゼフ学園高校",
+         "sort_name" : "せいよせふちゆうかつこう・こうとうかつこう",
          "url" : "http://www.st-joseph.ac.jp/",
          "wikipedia_name" : "聖ヨゼフ学園中学校・高等学校"
       },
@@ -2134,6 +2323,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14506J",
          "short_name" : "聖光学院高校",
+         "sort_name" : "せいこうかくいん",
          "url" : "http://www.seiko.ac.jp/",
          "wikipedia_name" : "聖光学院中学校・高等学校"
       },
@@ -2144,6 +2334,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14561A",
          "short_name" : "聖和学院高校",
+         "sort_name" : "せいわかくいん",
          "url" : "http://www.seiwagakuin.ed.jp/tyukou/",
          "wikipedia_name" : "聖和学院中学校・高等学校"
       },
@@ -2154,6 +2345,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14556E",
          "short_name" : "聖園女学院高校",
+         "sort_name" : "みそのしよかくいん",
          "url" : "http://www.misono.jp/",
          "wikipedia_name" : "聖園女学院中学校・高等学校"
       },
@@ -2164,6 +2356,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14554J",
          "short_name" : "藤嶺学園藤沢高校",
+         "sort_name" : "とうれいかくえんふしさわ",
          "url" : "http://www.tohrei-fujisawa.jp/",
          "wikipedia_name" : "藤嶺学園藤沢中学校・高等学校"
       },
@@ -2174,6 +2367,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14555G",
          "short_name" : "藤沢翔陵高校",
+         "sort_name" : "ふしさわしようりよう",
          "url" : "http://www.shoryo.jp/"
       },
       "逗子開成高等学校" : {
@@ -2184,6 +2378,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14562K",
          "short_name" : "逗子開成高校",
+         "sort_name" : "すしかいせい",
          "url" : "http://www.zushi-kaisei.ac.jp/",
          "wikipedia_name" : "逗子開成中学校・高等学校"
       },
@@ -2193,6 +2388,7 @@
          "location_zipcode" : "247-8511",
          "owner_type" : "私立",
          "senior_high_school_code" : "14547F",
+         "sort_name" : "かまくらしよしたいかくちゆうとうふこうとうふ",
          "url" : "http://www.kamakura-u.ac.jp/tyukou/",
          "wikipedia_name" : "鎌倉女子大学中等部・高等部"
       },
@@ -2204,6 +2400,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14545K",
          "short_name" : "鎌倉女学院高校",
+         "sort_name" : "かまくらしよかくいん",
          "url" : "http://www.kamajo.ac.jp/",
          "wikipedia_name" : "鎌倉女学院中学校・高等学校"
       },
@@ -2215,6 +2412,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14544A",
          "short_name" : "鎌倉学園高校",
+         "sort_name" : "かまくらかくえん",
          "url" : "http://www.kamagaku.ac.jp/",
          "wikipedia_name" : "鎌倉学園中学校・高等学校"
       },
@@ -2226,6 +2424,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14528K",
          "short_name" : "関東学院六浦高校",
+         "sort_name" : "かんとうかくいんむつうら",
          "url" : "http://www.kanto-mutsuura.com/",
          "wikipedia_name" : "関東学院六浦中学校・高等学校"
       },
@@ -2236,6 +2435,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14507G",
          "short_name" : "関東学院高校",
+         "sort_name" : "かんとうかくいんちゆうかつこうこうとうかつこう",
          "url" : "http://www.kantogakuin.ed.jp/",
          "wikipedia_name" : "関東学院中学校高等学校"
       },
@@ -2246,6 +2446,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14522A",
          "short_name" : "高木学園女子高校",
+         "sort_name" : "たかきかくえんしよし",
          "url" : "http://www.takagigakuen.ed.jp/"
       },
       "鵠沼高等学校" : {
@@ -2255,6 +2456,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14549B",
          "short_name" : "鵠沼高校",
+         "sort_name" : "くけぬま",
          "url" : "http://kugenuma.ed.jp/"
       },
       "鶴見大学附属高等学校" : {
@@ -2276,6 +2478,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "14566B",
          "short_name" : "麻布大学附属渕野辺高校",
+         "sort_name" : "あさふたいふちのへ",
          "url" : "http://azabufuchiko.jp/"
       }
    }

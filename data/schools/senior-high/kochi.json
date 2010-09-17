@@ -6,6 +6,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39510C",
          "short_name" : "土佐塾高校",
+         "sort_name" : "とさしゆく",
          "url" : "http://www.tosajuku.ed.jp/",
          "wikipedia_name" : "土佐塾中学校・高等学校"
       },
@@ -15,6 +16,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39503A",
          "short_name" : "土佐女子高校",
+         "sort_name" : "とさしよし",
          "url" : "http://www.tosajoshi-jh.ed.jp/",
          "wikipedia_name" : "土佐女子中学校・高等学校"
       },
@@ -25,6 +27,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39502B",
          "short_name" : "土佐高校",
+         "sort_name" : "とさ",
          "url" : "http://www.tosa.ed.jp/",
          "wikipedia_name" : "土佐中学校・高等学校"
       },
@@ -34,10 +37,11 @@
       },
       "明徳義塾高等学校" : {
          "location" : "(本校堂ノ浦キャンパス)",
-         "location_zipcode" : "785-0195･781-1165",
+         "location_zipcode" : "785-0195",
          "owner_type" : "私立",
          "senior_high_school_code" : "39509K",
          "short_name" : "明徳義塾高校",
+         "sort_name" : "めいとくきしゆく",
          "url" : "http://www.meitoku-gijuku.ed.jp/",
          "wikipedia_name" : "明徳義塾中学校・高等学校"
       },
@@ -48,6 +52,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39505G",
          "short_name" : "清和学園女子高校",
+         "sort_name" : "せいわかくえんしよし",
          "url" : "http://www.i-kochi.or.jp/hp/seiwa/",
          "wikipedia_name" : "清和学園女子中学校・高等学校"
       },
@@ -57,6 +62,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39501D",
          "short_name" : "高知中央高校",
+         "sort_name" : "こうちちゆうおうこうとうかつこう",
          "url" : "http://www.kochi-chuo.ed.jp/"
       },
       "高知学芸高等学校" : {
@@ -64,13 +70,15 @@
          "location_zipcode" : "708-8084",
          "owner_type" : "私立",
          "short_name" : "高知学芸高校",
+         "sort_name" : "こうちかくけい",
          "url" : "http://www.kochi-gakugei.ed.jp/",
          "wikipedia_name" : "高知学芸中学校・高等学校"
       },
       "高知市立高知商業高等学校" : {
          "location_area" : "高知市",
          "owner_type" : "市立",
-         "short_name" : "高知商業高校"
+         "short_name" : "高知商業高校",
+         "sort_name" : "こうちしりつこうちしようきよう"
       },
       "高知県立中村高等学校" : {
          "location" : "高知県四万十市中村丸の内24",
@@ -79,6 +87,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39130B",
          "short_name" : "中村高校",
+         "sort_name" : "こうちけんりつなかむらちゆかつこうこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/kennakamura-jh/",
          "wikipedia_name" : "高知県立中村中学校・高等学校"
       },
@@ -88,6 +97,7 @@
          "location_zipcode" : "787-1612",
          "owner_type" : "県立",
          "short_name" : "中村高校西土佐分校",
+         "sort_name" : "こうちけんりつなかむらにしとさ",
          "url" : "http://www.kochinet.ed.jp/nishitosa-h/"
       },
       "高知県立中芸高等学校" : {
@@ -97,6 +107,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39103E",
          "short_name" : "中芸高校",
+         "sort_name" : "ちゆうけい",
          "url" : "http://www.kochinet.ed.jp/chugei-h/"
       },
       "高知県立仁淀高等学校" : {
@@ -105,6 +116,7 @@
          "location_zipcode" : "781-1751",
          "owner_type" : "県立",
          "short_name" : "仁淀高校",
+         "sort_name" : "こうちけんりつによとこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/niyodo-h/"
       },
       "高知県立伊野商業高等学校" : {
@@ -115,6 +127,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39119A",
          "short_name" : "伊野商業高校",
+         "sort_name" : "いのしようきよう",
          "url" : "http://www.kochinet.ed.jp/inosho-h/"
       },
       "高知県立佐川高等学校" : {
@@ -124,6 +137,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39122A",
          "short_name" : "佐川高校",
+         "sort_name" : "さかわ",
          "url" : "http://www.kochinet.ed.jp/sakawa-h/"
       },
       "高知県立四万十高等学校" : {
@@ -133,6 +147,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39128A",
          "short_name" : "四万十高校",
+         "sort_name" : "こうちけんりつしまんと",
          "url" : "http://www.kochinet.ed.jp/shimanto-h/"
       },
       "高知県立城山高等学校" : {
@@ -142,6 +157,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39106K",
          "short_name" : "城山高校",
+         "sort_name" : "こうちけんりつしろやま",
          "url" : "http://www.kochinet.ed.jp/shiroyama-h/"
       },
       "高知県立大方高等学校" : {
@@ -151,12 +167,14 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39139F",
          "short_name" : "大方高校",
+         "sort_name" : "おおかた",
          "url" : "http://www.kochinet.ed.jp/ogata-h/"
       },
       "高知県立大栃高等学校" : {
          "location_area" : "香美市",
          "owner_type" : "県立",
          "short_name" : "大栃高校",
+         "sort_name" : "こうちけんりつおおとち",
          "url" : "http://www.kochinet.ed.jp/odochi-h/"
       },
       "高知県立安芸桜ケ丘高等学校" : {
@@ -175,6 +193,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39104C",
          "short_name" : "安芸高校",
+         "sort_name" : "こうちけんりつあきちゆかつこうこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/kenaki-jh/",
          "wikipedia_name" : "高知県立安芸中学校・高等学校"
       },
@@ -185,6 +204,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39102G",
          "short_name" : "室戸高校",
+         "sort_name" : "こうちけんりつむろとこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/muroto-h/"
       },
       "高知県立宿毛工業高等学校" : {
@@ -200,6 +220,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39132J",
          "short_name" : "宿毛高校",
+         "sort_name" : "こうちけんりつすくもこうこう",
          "url" : "http://www.kochinet.ed.jp/sukumo-h/"
       },
       "高知県立宿毛高等学校大月分校" : {
@@ -208,6 +229,7 @@
          "location_zipcode" : "788-0302",
          "owner_type" : "県立",
          "short_name" : "宿毛高校大月分校",
+         "sort_name" : "こうちけんりつすくもおおつき",
          "url" : "http://www.kochinet.ed.jp/otsuki-h/"
       },
       "高知県立山田高等学校" : {
@@ -217,6 +239,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39107H",
          "short_name" : "山田高校",
+         "sort_name" : "こうちけんりつやまたこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/yamada-h/"
       },
       "高知県立岡豊高等学校" : {
@@ -227,6 +250,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39136A",
          "short_name" : "岡豊高校",
+         "sort_name" : "こうちけんりつおこうこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/oko-h/"
       },
       "高知県立嶺北高等学校" : {
@@ -235,6 +259,7 @@
          "location_zipcode" : "781-3601",
          "owner_type" : "県立",
          "short_name" : "嶺北高校",
+         "sort_name" : "こうちけんりつれいほく",
          "url" : "http://www.kochinet.ed.jp/reihoku-h/"
       },
       "高知県立幡多農業高等学校" : {
@@ -250,6 +275,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39120E",
          "short_name" : "春野高校",
+         "sort_name" : "はるの",
          "url" : "http://www.kochinet.ed.jp/haruno-h/"
       },
       "高知県立檮原高等学校" : {
@@ -258,6 +284,7 @@
          "location_zipcode" : "785-0610",
          "owner_type" : "県立",
          "short_name" : "檮原高校",
+         "sort_name" : "こうちけんりつゆすはらこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/yusuhara-h/"
       },
       "高知県立清水高等学校" : {
@@ -267,6 +294,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39134E",
          "short_name" : "清水高校",
+         "sort_name" : "こうちけんりつしみす",
          "url" : "http://www.kochinet.ed.jp/shimizu-h/"
       },
       "高知県立窪川高等学校" : {
@@ -295,6 +323,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39121C",
          "short_name" : "高岡高校",
+         "sort_name" : "こうちけんりつたかおかこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/takaoka-h/"
       },
       "高知県立高知丸の内高等学校" : {
@@ -304,6 +333,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39114A",
          "short_name" : "高知丸の内高校",
+         "sort_name" : "こうちけんりつこうちまるのうち",
          "url" : "http://www.kochinet.ed.jp/maruno-h/"
       },
       "高知県立高知北高等学校" : {
@@ -314,6 +344,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39117E",
          "short_name" : "高知北高校",
+         "sort_name" : "こうちきた",
          "url" : "http://www.kochinet.ed.jp/kita-h/"
       },
       "高知県立高知南高等学校" : {
@@ -323,6 +354,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39137K",
          "short_name" : "高知南高校",
+         "sort_name" : "こうちけんりつこうちみなみちゆうかつこうこうとうかつこう",
          "url" : "http://www.kochiminami.jp/",
          "wikipedia_name" : "高知県立高知南中学校・高等学校"
       },
@@ -333,6 +365,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39115J",
          "short_name" : "高知小津高校",
+         "sort_name" : "こうちけんりつこうちおつ",
          "url" : "http://www.kochinet.ed.jp/ozu-h/"
       },
       "高知県立高知工業高等学校" : {
@@ -361,6 +394,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39112D",
          "short_name" : "高知東高校",
+         "sort_name" : "こうちひかし",
          "url" : "http://www.kochinet.ed.jp/higashi-h/"
       },
       "高知県立高知海洋高等学校" : {
@@ -380,6 +414,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39116G",
          "short_name" : "高知西高校",
+         "sort_name" : "こうちけんりつこうちにしこうとうかつこう",
          "url" : "http://www.kochinet.ed.jp/nishi-h/"
       },
       "高知県立高知農業高等学校" : {
@@ -396,6 +431,7 @@
          "owner_type" : "県立",
          "senior_high_school_code" : "39113B",
          "short_name" : "高知追手前高校",
+         "sort_name" : "こうちけんりつこうちおうてまえ",
          "url" : "http://www.kochinet.ed.jp/otemae-h/"
       },
       "高知県立高知追手前高等学校吾北分校" : {
@@ -409,6 +445,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "39504J",
          "short_name" : "高知高校",
+         "sort_name" : "こうち",
          "url" : "http://www.kochigakuen.jp/",
          "wikipedia_name" : "高知中学校・高等学校"
       }

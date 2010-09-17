@@ -1,6 +1,12 @@
 {
    "special_schools" : {
-      "信州大学教育学部附属特別支援学校" : {},
+      "信州大学教育学部附属特別支援学校" : {
+         "location" : "長野県長野市南堀109番地",
+         "location_wikipedia_latlon" : "|36|39|45|N|138|14|47|E|",
+         "location_zipcode" : "381-0016",
+         "sort_name" : "しんしゆうたいかくきよういくかくふふそくとくへつしえん",
+         "url" : "http://cert.shinshu-u.ac.jp/sch/toku/fyougo/index-j.html"
+      },
       "長野県上田養護学校" : {
          "location_area" : "上田市",
          "short_name" : "上田養護学校"

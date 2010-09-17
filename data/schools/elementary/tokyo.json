@@ -61,8 +61,12 @@
          "short_name" : "西秋留小学校"
       },
       "お茶の水女子大学附属小学校" : {
+         "english_long_name" : "Ochanomizu University Elementary School",
+         "location" : "東京都文京区大塚2-1-1",
+         "location_zipcode" : "112-8610",
          "owner_type" : "国立",
-         "sort_name" : "おちやのみすしよしたいかくふそくしよう"
+         "sort_name" : "おちやのみすしよしたいかくふそくしよう",
+         "url" : "http://www.fs.ocha.ac.jp/"
       },
       "むさしの学園小学校" : {
          "location_area" : "府中市",
@@ -2316,9 +2320,12 @@
          "owner_type" : "私立"
       },
       "成蹊小学校" : {
+         "location" : "東京都武蔵野市吉祥寺北町3-3-1",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-8633",
          "owner_type" : "私立",
-         "sort_name" : "せいけいしようかつこう"
+         "sort_name" : "せいけいしようかつこう",
+         "url" : "http://www.seikei.ac.jp/elementary/"
       },
       "文京区立千駄木小学校" : {
          "location_area" : "文京区",
@@ -3014,10 +3021,13 @@
          "short_name" : "馬橋小学校"
       },
       "杉並区立高井戸小学校" : {
+         "location" : "東京都杉並区高井戸西2丁目2番地1号",
          "location_area" : "杉並区",
+         "location_zipcode" : "168-0071",
          "owner_type" : "区立",
          "short_name" : "高井戸小学校",
-         "sort_name" : "すきなみくりつたかいと"
+         "sort_name" : "すきなみくりつたかいと",
+         "url" : "http://www.suginami-school.ed.jp/takaidoshou/"
       },
       "杉並区立高井戸東小学校" : {
          "location_area" : "杉並区",
@@ -3119,9 +3129,12 @@
          "owner_type" : "私立"
       },
       "東京創価小学校" : {
+         "location" : "東京都小平市上水新町2-20-1",
          "location_area" : "小平市",
+         "location_zipcode" : "187-0023",
          "owner_type" : "私立",
-         "sort_name" : "とうきようそうかしようかつこう"
+         "sort_name" : "とうきようそうかしようかつこう",
+         "url" : "http://www.tokyo.soka.ed.jp/elementary/index.html"
       },
       "東京女学館小学校" : {
          "location" : "東京都渋谷区広尾3-7-16",
@@ -5229,8 +5242,12 @@
          "url" : "http://prim.rikkyo.ac.jp/"
       },
       "筑波大学附属小学校" : {
+         "english_long_name" : "Elementary School, University of Tsukuba",
+         "location" : "東京都文京区大塚3-29-1",
+         "location_zipcode" : "112-0012",
          "owner_type" : "国立",
-         "sort_name" : "つくはたいかくふそくしよう"
+         "sort_name" : "つくはたいかくふそくしよう",
+         "url" : "http://www.elementary-s.tsukuba.ac.jp/"
       },
       "練馬区立上石神井北小学校" : {
          "location_area" : "練馬区",
@@ -5289,10 +5306,13 @@
          "short_name" : "光が丘第八小学校"
       },
       "練馬区立光和小学校" : {
+         "location" : "東京都練馬区石神井町2-16-34",
          "location_area" : "練馬区",
+         "location_zipcode" : "177-0014",
          "owner_type" : "区立",
          "short_name" : "光和小学校",
-         "sort_name" : "ねりまくりつこうわ"
+         "sort_name" : "ねりまくりつこうわ",
+         "url" : "http://www.kouwa-e.nerima-tky.ed.jp/"
       },
       "練馬区立八坂小学校" : {
          "location_area" : "練馬区",

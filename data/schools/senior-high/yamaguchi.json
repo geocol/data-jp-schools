@@ -5,6 +5,7 @@
          "location_zipcode" : "750-0072",
          "senior_high_school_code" : "35168H",
          "short_name" : "下関中等教育学校",
+         "sort_name" : "やまくちけんりつしものせきちゆうとう",
          "url" : "http://www.s-chuto.ysn21.jp/"
       }
    },
@@ -14,11 +15,13 @@
          "location_zipcode" : "756-0080",
          "owner_type" : "私立",
          "short_name" : "サビエル高校",
+         "sort_name" : "さひえるこうとうかつこう",
          "url" : "http://www.ymg.urban.ne.jp/home/xavierhs/index.html"
       },
       "下関国際高等学校" : {
          "owner_type" : "私立",
-         "short_name" : "下関国際高校"
+         "short_name" : "下関国際高校",
+         "sort_name" : "しものせきこくさい"
       },
       "下関市立下関商業高等学校" : {
          "location" : "山口県下関市後田町4-11-1",
@@ -27,6 +30,7 @@
          "owner_type" : "市立",
          "senior_high_school_code" : "35160B",
          "short_name" : "下関商業高校",
+         "sort_name" : "しものせきしようきよう",
          "url" : "http://www.shimosho.ed.jp/"
       },
       "下関短期大学付属高等学校" : {
@@ -35,6 +39,7 @@
          "location_zipcode" : "750-0035",
          "owner_type" : "私立",
          "short_name" : "下関短大付属高校",
+         "sort_name" : "しものせきたんきたいかくふそく",
          "url" : "http://www.shimonoseki-jc.ac.jp/high/"
       },
       "中村女子高等学校" : {
@@ -43,6 +48,7 @@
          "location_zipcode" : "753-8530",
          "owner_type" : "私立",
          "short_name" : "中村女子高校",
+         "sort_name" : "なかむらしよし",
          "url" : "http://www.y-nakamura.ed.jp/"
       },
       "宇部フロンティア大学付属香川高等学校" : {
@@ -50,6 +56,7 @@
          "location_zipcode" : "755-0035",
          "owner_type" : "私立",
          "short_name" : "宇部フロンティア大学付属香川高校",
+         "sort_name" : "うへふろんていあたいかくふそくかかわ",
          "url" : "http://kagawa-h.ed.jp/index.html",
          "wikipedia_name" : "宇部フロンティア大学付属中学校・香川高等学校"
       },
@@ -59,6 +66,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35510A",
          "short_name" : "宇部鴻城高校",
+         "sort_name" : "うへこうしよう",
          "url" : "http://www.ubekojo-h.ed.jp/"
       },
       "山口県桜ケ丘高等学校" : {
@@ -67,6 +75,7 @@
          "location_zipcode" : "745-0874",
          "owner_type" : "私立",
          "short_name" : "山口県桜ケ丘高校",
+         "sort_name" : "やまくちけんさくらかおか",
          "url" : "http://www.y-sakuragaoka.ed.jp/",
          "wikipedia_name" : "山口県桜ケ丘高等学校・晃英館中学校"
       },
@@ -77,6 +86,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35118A",
          "short_name" : "下松工業高校",
+         "sort_name" : "くたまつこうきようこうとうかつこう",
          "url" : "http://www.kudamatsu-t.ysn21.jp/"
       },
       "山口県立下松高等学校" : {
@@ -86,6 +96,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35117C",
          "short_name" : "下松高校",
+         "sort_name" : "くたまつこうとうかつこう",
          "url" : "http://www.kudamatsu-h.ysn21.jp/"
       },
       "山口県立下関中央工業高等学校" : {
@@ -94,6 +105,7 @@
          "owner_type" : "県立",
          "school_area" : "下関学区",
          "short_name" : "下関中央工業高校",
+         "sort_name" : "しものせきちゆうおうこうきよう",
          "url" : "http://www.chuo-t.ysn21.jp/chuo/index.html"
       },
       "山口県立下関南高等学校" : {
@@ -112,6 +124,7 @@
          "school_area" : "下関学区",
          "senior_high_school_code" : "35150E",
          "short_name" : "下関工業高校",
+         "sort_name" : "しものせきこうきよう",
          "url" : "http://www.sekko-t.ysn21.jp/"
       },
       "山口県立下関西高等学校" : {
@@ -121,6 +134,7 @@
          "school_area" : "下関学区",
          "senior_high_school_code" : "35146G",
          "short_name" : "下関西高校",
+         "sort_name" : "しものせきにし",
          "url" : "http://www.shimonishi-h.ysn21.jp/kyouiku/"
       },
       "山口県立佐波高等学校" : {
@@ -140,7 +154,8 @@
       "山口県立光高等学校" : {
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "光高校"
+         "short_name" : "光高校",
+         "sort_name" : "ひかりこうとうかつこう"
       },
       "山口県立南陽工業高等学校" : {
          "location" : "山口県周南市温田1丁目1番1号",
@@ -149,14 +164,16 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35124F",
          "short_name" : "南陽工業高校",
+         "sort_name" : "なんようこうきよう",
          "url" : "http://www.nanyo-t.ysn21.jp/"
       },
       "山口県立厚狭高等学校" : {
          "location" : "（北）山陽小野田市大字厚狭束の原1660",
-         "location_zipcode" : "757-0001<small>（北校舎）</small>",
+         "location_zipcode" : "757-0001",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
          "short_name" : "厚狭高校",
+         "sort_name" : "あさこうとうかつこう",
          "url" : "http://www.asa-nh.ysn21.jp/kyouiku/"
       },
       "山口県立周防大島高等学校" : {
@@ -166,6 +183,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35172F",
          "short_name" : "周防大島高校",
+         "sort_name" : "やまくちけんりつすおうおおしま",
          "url" : "http://www.suo-oshima-h.ysn21.jp/"
       },
       "山口県立大津高等学校" : {
@@ -175,17 +193,20 @@
          "school_area" : "萩学区",
          "senior_high_school_code" : "35153K",
          "short_name" : "大津高校",
+         "sort_name" : "おおつこうとうかつこう",
          "url" : "http://www.ohtsu-h.ysn21.jp/"
       },
       "山口県立奈古高等学校" : {
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "奈古高校"
+         "short_name" : "奈古高校",
+         "sort_name" : "なここうとうかつこう"
       },
       "山口県立宇部中央高等学校" : {
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "宇部中央高校"
+         "short_name" : "宇部中央高校",
+         "sort_name" : "うへちゆうおう"
       },
       "山口県立宇部商業高等学校" : {
          "location" : "宇部市大字際波字岡の原220番地",
@@ -194,6 +215,7 @@
          "school_area" : "厚狭学区",
          "senior_high_school_code" : "35134C",
          "short_name" : "宇部商業高校",
+         "sort_name" : "やまくちけんりつうへしようきようこうとうかつこう",
          "url" : "http://www.ube-c.ysn21.jp/"
       },
       "山口県立宇部工業高等学校" : {
@@ -203,12 +225,14 @@
          "school_area" : "厚狭学区",
          "senior_high_school_code" : "35135A",
          "short_name" : "宇部工業高校",
+         "sort_name" : "うへこうきよう",
          "url" : "http://www.ube-th.ed.jp/html/07-kokoro/"
       },
       "山口県立宇部西高等学校" : {
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "宇部西高校"
+         "short_name" : "宇部西高校",
+         "sort_name" : "うへにし"
       },
       "山口県立宇部高等学校" : {
          "location" : "山口県宇部市寺の前町3番1号",
@@ -216,6 +240,7 @@
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
          "short_name" : "宇部高校",
+         "sort_name" : "やまくちけんりつうへ",
          "url" : "http://www.ube-h.ed.jp/"
       },
       "山口県立小野田工業高等学校" : {
@@ -225,6 +250,7 @@
          "school_area" : "厚狭学区",
          "senior_high_school_code" : "35137H",
          "short_name" : "小野田工業高校",
+         "sort_name" : "おのたこうきよう",
          "url" : "http://www.onoda-th.ed.jp/"
       },
       "山口県立小野田高等学校" : {
@@ -233,6 +259,7 @@
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
          "short_name" : "小野田高校",
+         "sort_name" : "おのたこうとうかつこう",
          "url" : "http://www.onoda-h.ysn21.jp/kyouiku/"
       },
       "山口県立山口中央高等学校" : {
@@ -250,6 +277,7 @@
          "owner_type" : "県立",
          "school_area" : "防府学区",
          "short_name" : "山口農業高校",
+         "sort_name" : "やまくちのうきよう",
          "url" : "http://www.yamaguchi-a.ysn21.jp/kyouiku/"
       },
       "山口県立山口高等学校" : {
@@ -259,6 +287,7 @@
          "school_area" : "防府学区",
          "senior_high_school_code" : "35128J",
          "short_name" : "山口高校",
+         "sort_name" : "やまくちけんりつやまくち",
          "url" : "http://www.yamaguchi-h.ysn21.jp/"
       },
       "山口県立山口高等学校徳佐分校" : {
@@ -277,6 +306,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35105K",
          "short_name" : "岩国商業高校",
+         "sort_name" : "いわくにしようきよう",
          "url" : "http://www.iwakuni-c.ysn21.jp/"
       },
       "山口県立岩国商業高等学校東分校" : {
@@ -291,6 +321,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35106H",
          "short_name" : "岩国工業高校",
+         "sort_name" : "いわくにこうきよう",
          "url" : "http://www.iwakuni-t.ysn21.jp/"
       },
       "山口県立岩国総合高等学校" : {
@@ -300,6 +331,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35104A",
          "short_name" : "岩国総合高校",
+         "sort_name" : "いわくにそうこう",
          "url" : "http://www.iwakunisogo-h.ysn21.jp//"
       },
       "山口県立岩国高等学校" : {
@@ -309,6 +341,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35103C",
          "short_name" : "岩国高校",
+         "sort_name" : "やまくちけんりついわくに",
          "url" : "http://www.iwakuni-h.ysn21.jp/"
       },
       "山口県立岩国高等学校坂上分校" : {
@@ -318,6 +351,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35107F",
          "short_name" : "岩国高校坂上分校",
+         "sort_name" : "いわくにこうとうかつこうさかうえふんこう",
          "url" : "http://www.iwakuni-sh.ysn21.jp/"
       },
       "山口県立岩国高等学校広瀬分校" : {
@@ -327,6 +361,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35108D",
          "short_name" : "岩国高校広瀬分校",
+         "sort_name" : "いわくにこうとうかつこうひろせふんこう",
          "url" : "http://www.iwakuni-hh.ysn21.jp/"
       },
       "山口県立徳山北高等学校" : {
@@ -334,7 +369,8 @@
          "location_zipcode" : "745-0122",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "徳山北高校"
+         "short_name" : "徳山北高校",
+         "sort_name" : "とくやまきたこうとうかつこう"
       },
       "山口県立徳山商工高等学校" : {
          "location" : "山口県周南市周陽3丁目1番1号",
@@ -343,6 +379,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35170K",
          "short_name" : "徳山商工高校",
+         "sort_name" : "とくやましようこう",
          "url" : "http://www.tokuyama-ct.ysn21.jp/"
       },
       "山口県立徳山高等学校" : {
@@ -352,6 +389,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35119K",
          "short_name" : "徳山高校",
+         "sort_name" : "とくやまこうとうかつこう",
          "url" : "http://www.tokuyama-h.ysn21.jp/kyouiku/"
       },
       "山口県立徳山高等学校鹿野分校" : {
@@ -361,6 +399,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35123H",
          "short_name" : "徳山高校鹿野分校",
+         "sort_name" : "とくやまこうとうかつこうかのふんこう",
          "url" : "http://www.tokuyama-kh.ysn21.jp/"
       },
       "山口県立新南陽高等学校" : {
@@ -379,6 +418,7 @@
          "school_area" : "萩学区",
          "senior_high_school_code" : "35152A",
          "short_name" : "日置農業高校",
+         "sort_name" : "へきのうきようこうとうかつこう",
          "url" : "http://www.heki-a.ysn21.jp/"
       },
       "山口県立柳井商工高等学校" : {
@@ -388,6 +428,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35169F",
          "short_name" : "柳井商工高校",
+         "sort_name" : "やないしようこう",
          "url" : "http://www.yanai-ct.ysn21.jp/"
       },
       "山口県立柳井高等学校" : {
@@ -397,6 +438,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35110F",
          "short_name" : "柳井高校",
+         "sort_name" : "やないこうとうかつこう",
          "url" : "http://www.yanai-h.ysn21.jp/"
       },
       "山口県立水産高等学校" : {
@@ -406,6 +448,7 @@
          "school_area" : "萩学区",
          "senior_high_school_code" : "35154H",
          "short_name" : "水産高校",
+         "sort_name" : "すいさんこうとうかつこう",
          "url" : "http://www.suisan-h.ysn21.jp/"
       },
       "山口県立熊毛北高等学校" : {
@@ -424,6 +467,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35113A",
          "short_name" : "熊毛南高校",
+         "sort_name" : "くまけみなみこうとうかつこう",
          "url" : "http://www.yunan-h.ysn21.jp/"
       },
       "山口県立田布施工業高等学校" : {
@@ -433,6 +477,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35165C",
          "short_name" : "田布施工業高校",
+         "sort_name" : "たふせこうきようこうとうかつこう",
          "url" : "http://www.tabuse-t.ysn21.jp/"
       },
       "山口県立田布施農工高等学校" : {
@@ -447,6 +492,7 @@
          "school_area" : "柳井学区",
          "senior_high_school_code" : "35114J",
          "short_name" : "田布施農業高校",
+         "sort_name" : "たふせのうきようこうとうかつこう",
          "url" : "http://www.tabuse-a.ysn21.jp/"
       },
       "山口県立田部高等学校" : {
@@ -462,7 +508,8 @@
       "山口県立美祢高等学校" : {
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "美祢高校"
+         "short_name" : "美祢高校",
+         "sort_name" : "みねこうとうかつこう"
       },
       "山口県立華陵高等学校" : {
          "location" : "山口県下松市大字末武上217番地の2",
@@ -471,6 +518,7 @@
          "school_area" : "周南学区",
          "senior_high_school_code" : "35167K",
          "short_name" : "華陵高校",
+         "sort_name" : "かりようこうとうかつこう",
          "url" : "http://www.karyo-h.ysn21.jp/"
       },
       "山口県立萩商工高等学校" : {
@@ -481,6 +529,7 @@
          "school_area" : "萩学区",
          "senior_high_school_code" : "35171H",
          "short_name" : "萩商工高校",
+         "sort_name" : "はきしようこう",
          "url" : "http://www.hagi-ct.ysn21.jp/"
       },
       "山口県立萩高等学校" : {
@@ -490,6 +539,7 @@
          "school_area" : "萩学区",
          "senior_high_school_code" : "35155F",
          "short_name" : "萩高校",
+         "sort_name" : "はきこうとうかつこう",
          "url" : "http://www.hagi-h.ysn21.jp/"
       },
       "山口県立西京高等学校" : {
@@ -499,6 +549,7 @@
          "school_area" : "防府学区",
          "senior_high_school_code" : "35166A",
          "short_name" : "西京高校",
+         "sort_name" : "さいきよう",
          "url" : "http://www.saikyo-h.ysn21.jp/"
       },
       "山口県立西市高等学校" : {
@@ -526,6 +577,7 @@
          "school_area" : "下関学区",
          "senior_high_school_code" : "35144A",
          "short_name" : "豊浦高校",
+         "sort_name" : "やまくちけんりつとよら",
          "url" : "http://www.toyora-h.ysn21.jp/kyouiku/"
       },
       "山口県立長府高等学校" : {
@@ -544,6 +596,7 @@
          "owner_type" : "県立",
          "school_area" : "防府学区",
          "short_name" : "防府商業高校",
+         "sort_name" : "やまくちけんりつほうふしようきよう",
          "url" : "http://www.hsk.jp/index.html"
       },
       "山口県立防府西高等学校" : {
@@ -553,6 +606,7 @@
          "owner_type" : "県立",
          "school_area" : "防府学区",
          "short_name" : "防府西高校",
+         "sort_name" : "ほうふにしこうとうかつこう",
          "url" : "http://www.hofunishi-h.ysn21.jp/"
       },
       "山口県立防府高等学校" : {
@@ -561,6 +615,7 @@
          "owner_type" : "県立",
          "school_area" : "防府学区",
          "short_name" : "防府高校",
+         "sort_name" : "やまくちけんりつほうふ",
          "url" : "http://www.hofu-h.ysn21.jp/"
       },
       "山口県立青嶺高等学校" : {
@@ -584,6 +639,7 @@
          "school_area" : "岩国学区",
          "senior_high_school_code" : "35109B",
          "short_name" : "高森高校",
+         "sort_name" : "やまくちけんりつたかもりみとりちゆうかつこうたかもりこうとうかつこう",
          "url" : "http://www.takamori-h.ysn21.jp/",
          "wikipedia_name" : "山口県立高森みどり中学校・高森高等学校"
       },
@@ -594,6 +650,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35509H",
          "short_name" : "山口県鴻城高校",
+         "sort_name" : "やまくちけんこうしよう",
          "url" : "http://www.y-kojohs.jp/"
       },
       "慶進高等学校" : {
@@ -601,6 +658,7 @@
          "location_zipcode" : "755-0035",
          "owner_type" : "私立",
          "short_name" : "慶進高校",
+         "sort_name" : "けいしん",
          "url" : "http://www.keishin-ug.com/",
          "wikipedia_name" : "慶進中学校・高等学校"
       },
@@ -610,6 +668,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35512H",
          "short_name" : "成進高校",
+         "sort_name" : "せいしんこうとうかつこう",
          "url" : "http://www.mine-c.ed.jp/"
       },
       "早鞆高等学校" : {
@@ -618,6 +677,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35517J",
          "short_name" : "早鞆高校",
+         "sort_name" : "はやともこうとうかつこう",
          "url" : "http://www.hayatomo.ac.jp/"
       },
       "柳井学園高等学校" : {
@@ -626,6 +686,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35502A",
          "short_name" : "柳井学園高校",
+         "sort_name" : "やないかくえんこうとうかつこう",
          "url" : "http://www.yanai-g.ed.jp/"
       },
       "梅光女学院高等学校" : {
@@ -635,6 +696,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35516A",
          "short_name" : "梅光女学院高校",
+         "sort_name" : "はいこうしよかくいん",
          "url" : "http://www.baiko.ac.jp/highschool/index.htm",
          "wikipedia_name" : "梅光女学院中学校・高等学校"
       },
@@ -648,6 +710,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35503J",
          "short_name" : "聖光高校",
+         "sort_name" : "せいこうこうとうかつこう",
          "url" : "http://www.seiko-h.ed.jp/"
       },
       "萩光塩学院高等学校" : {
@@ -656,6 +719,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35520J",
          "short_name" : "萩光塩学院高校",
+         "sort_name" : "はきこうえんかくいん",
          "url" : "http://www.hagikoen.jp/002/",
          "wikipedia_name" : "萩光塩学院中学校・高等学校"
       },
@@ -666,6 +730,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35505E",
          "short_name" : "誠英高校",
+         "sort_name" : "せいえい",
          "url" : "http://www.seiei.ac.jp/"
       },
       "野田学園高等学校" : {
@@ -674,6 +739,7 @@
          "location_zipcode" : "753-0094",
          "owner_type" : "私立",
          "short_name" : "野田学園高校",
+         "sort_name" : "のたかくえん",
          "url" : "http://www.nodagakuen.ed.jp/s/",
          "wikipedia_name" : "野田学園中学校・高等学校"
       },
@@ -683,6 +749,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35519E",
          "short_name" : "長門高校",
+         "sort_name" : "なかとこうとうかつこう",
          "url" : "http://member.hot-cha.tv/~htb20402/nagato/"
       },
       "高川学園高等学校" : {
@@ -692,6 +759,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35506C",
          "short_name" : "高川学園高校",
+         "sort_name" : "たかかわかくえん",
          "url" : "http://www.takagawagakuen.com/",
          "wikipedia_name" : "高川学園高等学校・中学校"
       },
@@ -701,6 +769,7 @@
          "owner_type" : "私立",
          "senior_high_school_code" : "35501B",
          "short_name" : "高水高校",
+         "sort_name" : "たかみす",
          "url" : "http://www.takamizu-h.ed.jp/senior/",
          "wikipedia_name" : "高水高等学校・付属中学校"
       }
