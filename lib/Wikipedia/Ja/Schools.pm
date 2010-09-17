@@ -328,6 +328,13 @@ sub parse_text ($) {
           \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
         //x) {
           $props->{location_wikipedia_latlon} ||= $1;
+        } elsif ($school->{text} and $school->{text} =~ s/
+          \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+        //x) {
+          $props->{location_wikipedia_latlon} ||= $1;
+        }
+        if ($props->{location_wikipedia_latlon}) {
+          $props->{location_wikipedia_latlon} =~ s[<[^<>]+>][];
         }
         if ($props->{location}) {
           if ($props->{location} =~ s/
