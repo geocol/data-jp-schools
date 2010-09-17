@@ -3,13 +3,15 @@
       "新潟市立高志中等教育学校" : {
          "location_area" : "新潟市",
          "owner_type" : "市立",
-         "short_name" : "高志中等教育学校"
+         "short_name" : "高志中等教育学校",
+         "sort_name" : "にいかたしりつこうしちゆうとう"
       },
       "新潟県立村上中等教育学校" : {
          "location" : "新潟県村上市学校町6-8",
          "location_zipcode" : "958-0031",
          "owner_type" : "県立",
          "short_name" : "村上中等教育学校",
+         "sort_name" : "むらかみちゆうとうきよういくかつこう",
          "url" : "http://www.murakami-ss.nein.ed.jp/"
       },
       "新潟県立柏崎翔洋中等教育学校" : {
@@ -18,6 +20,7 @@
          "location_zipcode" : "949-8201",
          "owner_type" : "県立",
          "short_name" : "柏崎翔洋中等教育学校",
+         "sort_name" : "かしわさきしようよう",
          "url" : "http://www.kashiwazakishoyo-ss.nein.ed.jp/"
       },
       "新潟県立津南中等教育学校" : {
@@ -25,17 +28,20 @@
          "location_zipcode" : "949-8201",
          "owner_type" : "県立",
          "short_name" : "津南中等教育学校",
+         "sort_name" : "にいかたけんりつつなん",
          "url" : "http://www.tsunan-ss.nein.ed.jp/"
       },
       "新潟県立燕中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "燕中等教育学校"
+         "short_name" : "燕中等教育学校",
+         "sort_name" : "にいかたけんりつつはめちゆうとうきよういくかつこう"
       },
       "新潟県立直江津中等教育学校" : {
          "location" : "新潟県上越市西本町4-20-1",
          "location_zipcode" : "942-8505",
          "owner_type" : "県立",
          "short_name" : "直江津中等教育学校",
+         "sort_name" : "にいかたけんりつなおえつちゆうとう",
          "url" : "http://www.naoetsu-jh.nein.ed.jp/index.htm"
       }
    },
@@ -146,7 +152,8 @@
       "上越市立春日中学校" : {
          "location_area" : "上越市",
          "owner_type" : "市立",
-         "short_name" : "春日中学校"
+         "short_name" : "春日中学校",
+         "sort_name" : "かすかちゆうかつこう"
       },
       "上越市立板倉中学校" : {
          "location_area" : "上越市",
@@ -197,6 +204,7 @@
          "location" : "新潟県上越市本城町6-2",
          "location_zipcode" : "943-0835",
          "owner_type" : "国立",
+         "sort_name" : "しようえつきよういくたいかくふそくちゆう",
          "url" : "http://www.juen.ac.jp/jhs/"
       },
       "五泉市立五泉中学校" : {
@@ -317,7 +325,8 @@
       "刈羽村立刈羽中学校" : {
          "location_area" : "刈羽郡刈羽村",
          "owner_type" : "村立",
-         "short_name" : "刈羽中学校"
+         "short_name" : "刈羽中学校",
+         "sort_name" : "かりわそんりつかりわちゆうかつこう"
       },
       "加茂市立七谷中学校" : {
          "location_area" : "加茂市",
@@ -365,6 +374,7 @@
          "location_zipcode" : "948-0011",
          "owner_type" : "市立",
          "short_name" : "十日町中学校",
+         "sort_name" : "とおかまちしりつとおかまちちゆうかつこう",
          "url" : "http://www.edu.city.tokamachi.niigata.jp/jhs/tokamachi/"
       },
       "十日町市立南中学校" : {
@@ -383,6 +393,7 @@
          "location_zipcode" : "948-0141",
          "owner_type" : "市立",
          "short_name" : "川西中学校",
+         "sort_name" : "とおかまちしりつかわにしちゆうかつこう",
          "url" : "http://www.edu.city.tokamachi.niigata.jp/jhs/kawanishi/"
       },
       "十日町市立松之山中学校" : {
@@ -406,6 +417,7 @@
          "location_zipcode" : "949-6775",
          "owner_type" : "市立",
          "short_name" : "五十沢中学校",
+         "sort_name" : "みなみうおぬましりついかさわちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~ikazawa-jhs/"
       },
       "南魚沼市立六日町中学校" : {
@@ -414,6 +426,7 @@
          "location_zipcode" : "949-6634",
          "owner_type" : "市立",
          "short_name" : "六日町中学校",
+         "sort_name" : "みなみうおぬましりつむいかまちちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~muikamachi-jhs/"
       },
       "南魚沼市立城内中学校" : {
@@ -422,6 +435,7 @@
          "location_zipcode" : "949-7137",
          "owner_type" : "市立",
          "short_name" : "城内中学校",
+         "sort_name" : "みなみうおぬましりつじょうないちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~jyounai-jhs/"
       },
       "南魚沼市立塩沢中学校" : {
@@ -430,6 +444,7 @@
          "location_zipcode" : "949-6439",
          "owner_type" : "市立",
          "short_name" : "塩沢中学校",
+         "sort_name" : "みなみうおぬましりつしおさわちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~shiozawa-jhs/"
       },
       "南魚沼市立大和中学校" : {
@@ -438,6 +453,7 @@
          "location_zipcode" : "949-7302",
          "owner_type" : "市立",
          "short_name" : "大和中学校",
+         "sort_name" : "みなみうおぬましりつやまとちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~yamato-jhs/"
       },
       "南魚沼市立大巻中学校" : {
@@ -446,6 +462,7 @@
          "location_zipcode" : "949-7103",
          "owner_type" : "市立",
          "short_name" : "大巻中学校",
+         "sort_name" : "みなみうおぬましりつおおまきちゆうかつこう",
          "url" : "http://www.minamiuonuma.ed.jp/~oomaki-jhs/"
       },
       "妙高市立妙高中学校" : {
@@ -466,7 +483,8 @@
       "小千谷市立千田中学校" : {
          "location_area" : "小千谷市",
          "owner_type" : "市立",
-         "short_name" : "千田中学校"
+         "short_name" : "千田中学校",
+         "sort_name" : "おちやしりつちたちゆうかつこう"
       },
       "小千谷市立南中学校" : {
          "location_area" : "小千谷市",
@@ -476,7 +494,8 @@
       "小千谷市立小千谷中学校" : {
          "location_area" : "小千谷市",
          "owner_type" : "市立",
-         "short_name" : "小千谷中学校"
+         "short_name" : "小千谷中学校",
+         "sort_name" : "おちやしりつおちやちゆうかつこう"
       },
       "小千谷市立東小千谷中学校" : {
          "location" : "新潟県小千谷市東栄3-6-14",
@@ -484,6 +503,7 @@
          "location_zipcode" : "947-0004",
          "owner_type" : "市立",
          "short_name" : "東小千谷中学校",
+         "sort_name" : "おぢやしりつひがしおぢやちゆうかつこう",
          "url" : "http://www.city.ojiya.niigata.jp/tochu/"
       },
       "小千谷市立片貝中学校" : {
@@ -492,12 +512,14 @@
          "location_zipcode" : "947-0101",
          "owner_type" : "市立",
          "short_name" : "片貝中学校",
+         "sort_name" : "おちやしりつかたかいちゆうかつこう",
          "url" : "http://www.city.ojiya.niigata.jp/katachu/"
       },
       "帝京長岡中学校" : {
          "location" : "新潟県長岡市住吉3丁目9-1",
          "location_zipcode" : "940-0044",
          "owner_type" : "私立",
+         "sort_name" : "ていきようなかおか",
          "url" : "http://www.teikyo-nagaoka.ed.jp/",
          "wikipedia_name" : "帝京長岡中学校・高等学校"
       },
@@ -510,18 +532,21 @@
          "location" : "新潟県新潟市中央区西大畑町5214",
          "location_zipcode" : "951-8535",
          "owner_type" : "国立",
+         "sort_name" : "にいかたたいかくきよういくかくふふそくにいかたちゆうかつこう",
          "url" : "http://jhs.niigata.ed.niigata-u.ac.jp/"
       },
       "新潟大学教育学部附属長岡中学校" : {
          "location" : "新潟県長岡市学校町1-1-1",
          "location_zipcode" : "940-8530",
          "owner_type" : "国立",
+         "sort_name" : "にいかたたいかくきよういくかくふふそくなかおかちゆう",
          "url" : "http://www.nagaoka.ed.niigata-u.ac.jp/t_index/t_index0.html"
       },
       "新潟市立上山中学校" : {
          "location_area" : "新潟市中央区",
          "owner_type" : "市立",
-         "short_name" : "上山中学校"
+         "short_name" : "上山中学校",
+         "sort_name" : "にいかたしりつかみやまちゆうかつこう"
       },
       "新潟市立下山中学校" : {
          "location_area" : "新潟市東区",
@@ -564,6 +589,7 @@
          "location_zipcode" : "950-2076",
          "owner_type" : "市立",
          "short_name" : "五十嵐中学校",
+         "sort_name" : "にいかたしりついからしちゆうかつこう",
          "url" : "http://www.ikarashi-j.city-niigata.ed.jp/"
       },
       "新潟市立光晴中学校" : {
@@ -577,6 +603,7 @@
          "location_zipcode" : "950-2151",
          "owner_type" : "市立",
          "short_name" : "内野中学校",
+         "sort_name" : "にいかたしりつうちのちゆうかつこう",
          "url" : "http://www.niigata-inet.or.jp/uchino-j/"
       },
       "新潟市立南浜中学校" : {
@@ -595,6 +622,7 @@
          "location_zipcode" : "950-2055",
          "owner_type" : "市立",
          "short_name" : "坂井輪中学校",
+         "sort_name" : "にいかたしりつさかいわちゆうかつこう",
          "url" : "http://www.niigata-inet.or.jp/sakaiwa-j/"
       },
       "新潟市立大形中学校" : {
@@ -618,6 +646,7 @@
          "location_zipcode" : "951-8114",
          "owner_type" : "市立",
          "short_name" : "寄居中学校",
+         "sort_name" : "にいかたしりつよりいちゆうかつこう",
          "url" : "http://www.niigata-inet.or.jp/niigata-yorii-j/"
       },
       "新潟市立小合中学校" : {
@@ -636,6 +665,7 @@
          "location_zipcode" : "950-2022",
          "owner_type" : "市立",
          "short_name" : "小針中学校",
+         "sort_name" : "にいかたしりつこはりちゆうかつこう",
          "url" : "http://www.niigata-inet.or.jp/niigata-kobari-j/"
       },
       "新潟市立小須戸中学校" : {
@@ -784,6 +814,7 @@
          "location_zipcode" : "950-3313",
          "owner_type" : "市立",
          "short_name" : "葛塚中学校",
+         "sort_name" : "にいかたしりつくすつかちゆうかつこう",
          "url" : "http://kuzuchu.toyosaka-ngt.ed.jp/"
       },
       "新潟市立藤見中学校" : {
@@ -812,6 +843,7 @@
          "location_zipcode" : "951-8151",
          "owner_type" : "市立",
          "short_name" : "関屋中学校",
+         "sort_name" : "にいかたしりつせきやちゆうかつこう",
          "url" : "http://www.sekiya-j.city-niigata.ed.jp/"
       },
       "新潟市立鳥屋野中学校" : {
@@ -828,6 +860,7 @@
          "location" : "新潟県新潟市江南区北山1037",
          "location_zipcode" : "950-0116",
          "owner_type" : "私立",
+         "sort_name" : "にいかためいくん",
          "url" : "http://www.niigata-meikun.ed.jp/",
          "wikipedia_name" : "新潟明訓中学校・高等学校"
       },
@@ -836,6 +869,7 @@
          "location_wikipedia_latlon" : "|37|52|50|N|138|57|26.8|E|",
          "location_zipcode" : "950-2101",
          "owner_type" : "私立",
+         "sort_name" : "にいかたせいしんしよし",
          "url" : "http://www.seishin.ed.jp/",
          "wikipedia_name" : "新潟清心女子中学校・高等学校"
       },
@@ -851,6 +885,7 @@
          "location" : "新潟県新潟市中央区関新3-3-1",
          "location_zipcode" : "951-8141",
          "owner_type" : "私立",
+         "sort_name" : "にいかたたいいち",
          "url" : "http://www.n-daiichi.ed.jp/",
          "wikipedia_name" : "新潟第一中学校・高等学校"
       },
@@ -882,7 +917,8 @@
       "新発田市立東中学校" : {
          "location_area" : "新発田市",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "sort_name" : "しはたしりつひかしちゆうかつこう"
       },
       "新発田市立猿橋中学校" : {
          "location_area" : "新発田市",
@@ -1047,7 +1083,8 @@
       "田上町立田上中学校" : {
          "location_area" : "南蒲原郡田上町",
          "owner_type" : "町立",
-         "short_name" : "田上中学校"
+         "short_name" : "田上中学校",
+         "sort_name" : "たかみちようりつたかみ"
       },
       "粟島浦村立粟島浦中学校" : {
          "location_area" : "岩船郡粟島浦村",
@@ -1060,6 +1097,7 @@
          "location_zipcode" : "949-1306",
          "owner_type" : "市立",
          "short_name" : "磯部中学校",
+         "sort_name" : "廃いといかわしりついそへちゆうかつこう",
          "url" : "http://web.nou.ne.jp/~isobejhs/"
       },
       "糸魚川市立糸魚川中学校" : {
@@ -1085,7 +1123,8 @@
       "聖籠町立聖籠中学校" : {
          "location_area" : "北蒲原郡聖籠町",
          "owner_type" : "町立",
-         "short_name" : "聖籠中学校"
+         "short_name" : "聖籠中学校",
+         "sort_name" : "せいろうちようりつせいろうちゆうかつこう"
       },
       "胎内市立中条中学校" : {
          "location_area" : "胎内市",
@@ -1115,7 +1154,8 @@
       "見附市立南中学校" : {
          "location_area" : "見附市",
          "owner_type" : "市立",
-         "short_name" : "南中学校"
+         "short_name" : "南中学校",
+         "sort_name" : "みつけしりつみなみちゆうかつこう"
       },
       "見附市立西中学校" : {
          "location_area" : "見附市",
@@ -1133,6 +1173,7 @@
          "location_zipcode" : "940-2313",
          "owner_type" : "市立",
          "short_name" : "三島中学校",
+         "sort_name" : "なかおかしりつみしまちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/mishima-jhs/"
       },
       "長岡市立与板中学校" : {
@@ -1141,6 +1182,7 @@
          "location_zipcode" : "940-2401",
          "owner_type" : "市立",
          "short_name" : "与板中学校",
+         "sort_name" : "なかおかしりつよいたちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/yoita-jhs/"
       },
       "長岡市立中之島中学校" : {
@@ -1149,6 +1191,7 @@
          "location_zipcode" : "954-0173",
          "owner_type" : "市立",
          "short_name" : "中之島中学校",
+         "sort_name" : "なかおかしりつなかのしまちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/nakanoshima-jhs/"
       },
       "長岡市立刈谷田中学校" : {
@@ -1162,6 +1205,7 @@
          "location_zipcode" : "940-0029",
          "owner_type" : "市立",
          "short_name" : "北中学校",
+         "sort_name" : "なかおかしりつきたちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/kita-jhs/"
       },
       "長岡市立北辰中学校" : {
@@ -1170,6 +1214,7 @@
          "location_zipcode" : "949-4525",
          "owner_type" : "市立",
          "short_name" : "北辰中学校",
+         "sort_name" : "なかおかしりつほくしんちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/hokushin-jhs/"
       },
       "長岡市立南中学校" : {
@@ -1178,6 +1223,7 @@
          "location_zipcode" : "940-0081",
          "owner_type" : "市立",
          "short_name" : "南中学校",
+         "sort_name" : "なかおかしりつみなみちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/minami-jhs/"
       },
       "長岡市立堤岡中学校" : {
@@ -1186,6 +1232,7 @@
          "location_zipcode" : "940-0004",
          "owner_type" : "市立",
          "short_name" : "堤岡中学校",
+         "sort_name" : "なかおかしりつつつみおかちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/tsutsumioka-jhs/"
       },
       "長岡市立大島中学校" : {
@@ -1193,6 +1240,7 @@
          "location_area" : "長岡市",
          "owner_type" : "市立",
          "short_name" : "大島中学校",
+         "sort_name" : "なかおかしりつおおしまちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/oojima-jhs/"
       },
       "長岡市立太田中学校" : {
@@ -1206,6 +1254,7 @@
          "location_zipcode" : "940-1154",
          "owner_type" : "市立",
          "short_name" : "宮内中学校",
+         "sort_name" : "なかおかしりつみやうちちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/miyauchi-jhs/"
       },
       "長岡市立寺泊中学校" : {
@@ -1214,6 +1263,7 @@
          "location_zipcode" : "940-2507",
          "owner_type" : "市立",
          "short_name" : "寺泊中学校",
+         "sort_name" : "なかおかしりつてらとまりちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/teradomari-jhs/"
       },
       "長岡市立小国中学校" : {
@@ -1222,6 +1272,7 @@
          "location_zipcode" : "945-5215",
          "owner_type" : "市立",
          "short_name" : "小国中学校",
+         "sort_name" : "なかおかしりつおくにちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/oguni-jhs/"
       },
       "長岡市立山古志中学校" : {
@@ -1230,6 +1281,7 @@
          "location_zipcode" : "947-0204",
          "owner_type" : "市立",
          "short_name" : "山古志中学校",
+         "sort_name" : "なかおかしりつやまこしちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/yamakoshi-jhs/"
       },
       "長岡市立山本中学校" : {
@@ -1238,6 +1290,7 @@
          "location_zipcode" : "940-0805",
          "owner_type" : "市立",
          "short_name" : "山本中学校",
+         "sort_name" : "なかおかしりつやまもとちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/yamamoto-jhs/"
       },
       "長岡市立岡南中学校" : {
@@ -1246,6 +1299,7 @@
          "location_zipcode" : "940-1131",
          "owner_type" : "市立",
          "short_name" : "岡南中学校",
+         "sort_name" : "なかおかしりつこうなんちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/konan-jhs/"
       },
       "長岡市立川口中学校" : {
@@ -1259,6 +1313,7 @@
          "location_zipcode" : "940-0825",
          "owner_type" : "市立",
          "short_name" : "旭岡中学校",
+         "sort_name" : "なかおかしりつあさひおかちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/asahioka-jhs/"
       },
       "長岡市立東中学校" : {
@@ -1267,6 +1322,7 @@
          "location_zipcode" : "940-0093",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "なかおかしりつひかしちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/higashi-jhs/"
       },
       "長岡市立東北中学校" : {
@@ -1275,6 +1331,7 @@
          "location_zipcode" : "940-0864",
          "owner_type" : "市立",
          "short_name" : "東北中学校",
+         "sort_name" : "なかおかしりつとうほくちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/tohoku-jhs/"
       },
       "長岡市立栖吉中学校" : {
@@ -1283,6 +1340,7 @@
          "location_zipcode" : "940-0827",
          "owner_type" : "市立",
          "short_name" : "栖吉中学校",
+         "sort_name" : "なかおかしりつすよしちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/suyoshi-jhs/"
       },
       "長岡市立江陽中学校" : {
@@ -1291,6 +1349,7 @@
          "location_zipcode" : "940-2005",
          "owner_type" : "市立",
          "short_name" : "江陽中学校",
+         "sort_name" : "なかおかしりつこうようちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/koyo-jhs/"
       },
       "長岡市立秋葉中学校" : {
@@ -1304,6 +1363,7 @@
          "location_zipcode" : "940-2124",
          "owner_type" : "市立",
          "short_name" : "西中学校",
+         "sort_name" : "なかおかしりつにしちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/nishi-jhs/"
       },
       "長岡市立越路中学校" : {
@@ -1312,6 +1372,7 @@
          "location_zipcode" : "949-5411",
          "owner_type" : "市立",
          "short_name" : "越路中学校",
+         "sort_name" : "なかおかしりつこししちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/koshiji-jhs/"
       },
       "長岡市立関原中学校" : {
@@ -1320,6 +1381,7 @@
          "location_zipcode" : "940-2039",
          "owner_type" : "市立",
          "short_name" : "関原中学校",
+         "sort_name" : "なかおかしりつせきはらちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/sekihara-jhs/"
       },
       "長岡市立青葉台中学校" : {
@@ -1328,6 +1390,7 @@
          "location_zipcode" : "940-2145",
          "owner_type" : "市立",
          "short_name" : "青葉台中学校",
+         "sort_name" : "なかおかしりつあおはたいちゆうかつこう",
          "url" : "http://www.kome100.ne.jp/aobadai-jhs/"
       },
       "関川村立女川中学校" : {
@@ -1398,7 +1461,8 @@
       "魚沼市立湯之谷中学校" : {
          "location_area" : "魚沼市",
          "owner_type" : "市立",
-         "short_name" : "湯之谷中学校"
+         "short_name" : "湯之谷中学校",
+         "sort_name" : "うおぬましりつゆのたに"
       }
    }
 }

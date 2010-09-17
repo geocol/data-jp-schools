@@ -31,6 +31,7 @@
          "location_zipcode" : "926-0852",
          "owner_type" : "市立",
          "short_name" : "御祓中学校",
+         "sort_name" : "ななおしりつみそきちゆうかっこう",
          "url" : "http://www.city.nanao.lg.jp/misogityu/"
       },
       "七尾市立朝日中学校" : {
@@ -116,7 +117,8 @@
       "加賀市立錦城中学校" : {
          "location_area" : "加賀市",
          "owner_type" : "市立",
-         "short_name" : "錦城中学校"
+         "short_name" : "錦城中学校",
+         "sort_name" : "かかしりつきんしようちゆうかつこう"
       },
       "北陸学院中学校" : {
          "owner_type" : "私立"
@@ -153,6 +155,7 @@
          "location_zipcode" : "923-0054",
          "owner_type" : "市立",
          "short_name" : "国府中学校",
+         "sort_name" : "こまつしりつこくふちゆうかつこう",
          "url" : "http://www.hakusan.ed.jp/~kokuhu-j/"
       },
       "小松市立安宅中学校" : {
@@ -162,6 +165,7 @@
          "location_zipcode" : "923-0003",
          "owner_type" : "市立",
          "short_name" : "安宅中学校",
+         "sort_name" : "こまつしりつあたかちゆうかつこう",
          "url" : "http://www.hakusan.ed.jp/~ataka-j/"
       },
       "小松市立御幸中学校" : {
@@ -181,6 +185,7 @@
          "location_zipcode" : "923-0854",
          "owner_type" : "市立",
          "short_name" : "松陽中学校",
+         "sort_name" : "こまつしりつしようようちゆうかつこう",
          "url" : "http://www.hakusan.ed.jp/~syouyo-j/"
       },
       "小松市立板津中学校" : {
@@ -195,6 +200,7 @@
          "location_zipcode" : "923-0968",
          "owner_type" : "市立",
          "short_name" : "芦城中学校",
+         "sort_name" : "こまつしりつろしよう",
          "url" : "http://www.hakusan.ed.jp/~rozyou-j/"
       },
       "川北町立川北中学校" : {
@@ -216,6 +222,7 @@
          "location" : "石川県金沢市小坂町南206番地",
          "location_zipcode" : "920-0811",
          "owner_type" : "私立",
+         "sort_name" : "せいりようちゆうかつこう",
          "url" : "http://www.seiryo-hs.jp/index-j.html"
       },
       "津幡町立津幡中学校" : {
@@ -224,6 +231,7 @@
          "location_zipcode" : "929-0325",
          "owner_type" : "町立",
          "short_name" : "津幡中学校",
+         "sort_name" : "つはたちようりつつはたちゆうかつこう",
          "url" : "http://www2.spacelan.ne.jp/~tsubata-jh/"
       },
       "津幡町立津幡南中学校" : {
@@ -247,6 +255,7 @@
          "location_zipcode" : "927-1222",
          "owner_type" : "市立",
          "short_name" : "宝立中学校",
+         "sort_name" : "すすしりつほうりゆうちゆうかつこう",
          "url" : "http://academic4.plala.or.jp/hrc-kyu1/"
       },
       "珠洲市立緑丘中学校" : {
@@ -254,7 +263,8 @@
          "location_area" : "珠洲市",
          "location_zipcode" : "927-1213",
          "owner_type" : "市立",
-         "short_name" : "緑丘中学校"
+         "short_name" : "緑丘中学校",
+         "sort_name" : "すすしりつみとりかおかちゆうかつこう"
       },
       "白山市立光野中学校" : {
          "location_area" : "白山市",
@@ -313,6 +323,7 @@
          "location_zipcode" : "921-8151",
          "owner_type" : "県立",
          "short_name" : "金沢錦丘中学校",
+         "sort_name" : "いしかわけんりつかなさわにしきかおか",
          "url" : "http://www.ishikawa-c.ed.jp/~nisikh/",
          "wikipedia_name" : "石川県立金沢錦丘中学校・高等学校"
       },
@@ -336,6 +347,7 @@
          "location_area" : "鳳珠郡能登町",
          "owner_type" : "町立",
          "short_name" : "小木中学校",
+         "sort_name" : "のとちようりつおきちゆうかつこう",
          "url" : "http://www2.luckynet.jp/ogi-chu1/framepage.html"
       },
       "能登町立松波中学校" : {
@@ -354,6 +366,7 @@
          "location_zipcode" : "927-0441",
          "owner_type" : "町立",
          "short_name" : "能都中学校",
+         "sort_name" : "のとちようりつのとちゆうかつこう",
          "url" : "http://www.ishikawa-c.ed.jp/~notoxj"
       },
       "能登町立鵜川中学校" : {
@@ -417,6 +430,7 @@
          "location_zipcode" : "912-8802",
          "owner_type" : "町立",
          "short_name" : "布水中学校",
+         "sort_name" : "ののいちちようりつふすいちゆうかつこう",
          "url" : "http://education.town.nonoichi.ishikawa.jp/fusuityu/"
       },
       "野々市町立野々市中学校" : {
@@ -425,12 +439,14 @@
          "location_zipcode" : "912-8825",
          "owner_type" : "町立",
          "short_name" : "野々市中学校",
+         "sort_name" : "ののいちちようりつののいちちゆうかつこう",
          "url" : "http://education.town.nonoichi.ishikawa.jp/nonoichityu/"
       },
       "金沢大学附属中学校" : {
          "location" : "石川県金沢市平和町1-1-15",
          "location_zipcode" : "921-8105",
          "owner_type" : "国立",
+         "sort_name" : "かなさわたいかくふそくちゆうかつこう",
          "url" : "http://partner.ed.kanazawa-u.ac.jp/futyu/"
       },
       "金沢市立兼六中学校" : {
@@ -454,6 +470,7 @@
          "location_zipcode" : "920-1102",
          "owner_type" : "市立",
          "short_name" : "医王山中学校",
+         "sort_name" : "かなさわしりついおうせんちゆうかつこう",
          "url" : "http://www.kanazawa-city.ed.jp/iouzen-j/"
       },
       "金沢市立城南中学校" : {
@@ -462,6 +479,7 @@
          "location_zipcode" : "920-0966",
          "owner_type" : "市立",
          "short_name" : "城南中学校",
+         "sort_name" : "かなさわしりつしようなんちゆうかつこう",
          "url" : "http://www.kanazawa-city.ed.jp/jyounan-j/"
       },
       "金沢市立大徳中学校" : {

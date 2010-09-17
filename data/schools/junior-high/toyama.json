@@ -28,7 +28,8 @@
       "南砺市立井波中学校" : {
          "location_area" : "南砺市",
          "owner_type" : "市立",
-         "short_name" : "井波中学校"
+         "short_name" : "井波中学校",
+         "sort_name" : "なんとしりついなみ"
       },
       "南砺市立利賀中学校" : {
          "location_area" : "南砺市",
@@ -62,12 +63,14 @@
          "location_zipcode" : "939-1564",
          "owner_type" : "市立",
          "short_name" : "福野中学校",
+         "sort_name" : "なんとしりつふくのちゆうかつこう",
          "url" : "http://www.tym.ed.jp/sc317/"
       },
       "富山大学人間発達科学部附属中学校" : {
          "location" : "富山県富山市五艘1300",
          "location_zipcode" : "930-8556",
          "owner_type" : "国立",
+         "sort_name" : "とやまたいかくにんけんはつたつかかくふふそくちゆう",
          "url" : "http://fuzoku-jhs.edu.u-toyama.ac.jp/"
       },
       "富山市立三成中学校" : {
@@ -95,7 +98,8 @@
          "location_area" : "富山市",
          "location_zipcode" : "939-8202",
          "owner_type" : "市立",
-         "short_name" : "南部中学校"
+         "short_name" : "南部中学校",
+         "sort_name" : "とやましりつなんふ"
       },
       "富山市立呉羽中学校" : {
          "location_area" : "富山市",
@@ -110,7 +114,8 @@
       "富山市立城山中学校" : {
          "location_area" : "富山市",
          "owner_type" : "市立",
-         "short_name" : "城山中学校"
+         "short_name" : "城山中学校",
+         "sort_name" : "とやましりつしろやまちゆうかつこう"
       },
       "富山市立堀川中学校" : {
          "location_area" : "富山市",
@@ -132,7 +137,8 @@
          "location_area" : "富山市",
          "location_zipcode" : "930-0846",
          "owner_type" : "市立",
-         "short_name" : "奥田中学校"
+         "short_name" : "奥田中学校",
+         "sort_name" : "とやましりつしおくた"
       },
       "富山市立山室中学校" : {
          "location" : "富山県富山市山室30-1",
@@ -140,6 +146,7 @@
          "location_zipcode" : "939-8006",
          "owner_type" : "市立",
          "short_name" : "山室中学校",
+         "sort_name" : "とやましりつやまむろちゆうかつこう",
          "url" : "http://www.tym.ed.jp/sc258/"
       },
       "富山市立山田中学校" : {
@@ -158,6 +165,7 @@
          "location_zipcode" : "930-0982",
          "owner_type" : "市立",
          "short_name" : "新庄中学校",
+         "sort_name" : "とやましりつしんしようちゆうかつこう",
          "url" : "http://www.tym.ed.jp/sc256"
       },
       "富山市立月岡中学校" : {
@@ -193,7 +201,8 @@
       "富山市立芝園中学校" : {
          "location_area" : "富山市",
          "owner_type" : "市立",
-         "short_name" : "芝園中学校"
+         "short_name" : "芝園中学校",
+         "sort_name" : "とやましりつしはその"
       },
       "富山市立藤ノ木中学校" : {
          "location_area" : "富山市",
@@ -228,12 +237,14 @@
       "射水市立小杉中学校" : {
          "location_area" : "射水市",
          "owner_type" : "市立",
-         "short_name" : "小杉中学校"
+         "short_name" : "小杉中学校",
+         "sort_name" : "いみすしりつこすき"
       },
       "射水市立小杉南中学校" : {
          "location_area" : "射水市",
          "owner_type" : "市立",
-         "short_name" : "小杉南中学校"
+         "short_name" : "小杉南中学校",
+         "sort_name" : "いみすしりつこすきみなみ"
       },
       "射水市立新湊南部中学校" : {
          "location_area" : "射水市",
@@ -315,6 +326,7 @@
          "location" : "富山県富山市東黒牧10",
          "location_zipcode" : "930-1262",
          "owner_type" : "私立",
+         "sort_name" : "かたやまかくえん",
          "url" : "http://www.katayamagakuen.jp/",
          "wikipedia_name" : "片山学園中学校・高等学校"
       },
@@ -331,7 +343,8 @@
       "砺波市立庄西中学校" : {
          "location_area" : "砺波市",
          "owner_type" : "市立",
-         "short_name" : "庄西中学校"
+         "short_name" : "庄西中学校",
+         "sort_name" : "となみしりつしようせい"
       },
       "砺波市立般若中学校" : {
          "location_area" : "砺波市",
@@ -365,7 +378,8 @@
       "高岡市立南星中学校" : {
          "location_area" : "高岡市",
          "owner_type" : "市立",
-         "short_name" : "南星中学校"
+         "short_name" : "南星中学校",
+         "sort_name" : "たかおかしりつなんせいちゆうかつこう"
       },
       "高岡市立国吉中学校" : {
          "location_area" : "高岡市",
@@ -375,7 +389,8 @@
       "高岡市立志貴野中学校" : {
          "location_area" : "高岡市",
          "owner_type" : "市立",
-         "short_name" : "志貴野中学校"
+         "short_name" : "志貴野中学校",
+         "sort_name" : "たかおかしりつしきのちゆうかつこう"
       },
       "高岡市立戸出中学校" : {
          "location_area" : "高岡市",
@@ -395,12 +410,14 @@
       "高岡市立芳野中学校" : {
          "location_area" : "高岡市",
          "owner_type" : "市立",
-         "short_name" : "芳野中学校"
+         "short_name" : "芳野中学校",
+         "sort_name" : "たかおかしりつよしのちゆうかつこう"
       },
       "高岡市立高岡西部中学校" : {
          "location_area" : "高岡市",
          "owner_type" : "市立",
-         "short_name" : "高岡西部中学校"
+         "short_name" : "高岡西部中学校",
+         "sort_name" : "たかおかしりつたかおかせいふちゆうかつこう"
       },
       "高岡市立高陵中学校" : {
          "location_area" : "高岡市",
@@ -410,12 +427,14 @@
       "魚津市立東部中学校" : {
          "location_area" : "魚津市",
          "owner_type" : "市立",
-         "short_name" : "東部中学校"
+         "short_name" : "東部中学校",
+         "sort_name" : "うおつしりつとうふ"
       },
       "魚津市立西部中学校" : {
          "location_area" : "魚津市",
          "owner_type" : "市立",
-         "short_name" : "西部中学校"
+         "short_name" : "西部中学校",
+         "sort_name" : "うおつしりつせいふ"
       },
       "黒部市立宇奈月中学校" : {
          "location_area" : "黒部市",
@@ -425,7 +444,8 @@
       "黒部市立桜井中学校" : {
          "location_area" : "黒部市",
          "owner_type" : "市立",
-         "short_name" : "桜井中学校"
+         "short_name" : "桜井中学校",
+         "sort_name" : "くろへしりつさくらいちゆうかつこう"
       },
       "黒部市立高志野中学校" : {
          "location_area" : "黒部市",

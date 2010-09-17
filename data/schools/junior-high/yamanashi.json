@@ -126,6 +126,7 @@
          "location_zipcode" : "409-2212",
          "owner_type" : "町立",
          "short_name" : "南部中学校",
+         "sort_name" : "なんふちようりつなんふちゆう やまなし",
          "wikipedia_name" : "南部町立南部中学校 (山梨県)"
       },
       "南部町立富河中学校" : {
@@ -164,7 +165,8 @@
          "location_wikipedia_latlon" : "|35|28|50|N|138|48|01|E|",
          "location_zipcode" : "403-0004",
          "owner_type" : "市立",
-         "short_name" : "吉田中学校"
+         "short_name" : "吉田中学校",
+         "sort_name" : "ふしよしたしりつよしたちゆう"
       },
       "富士吉田市立富士見台中学校" : {
          "location_area" : "富士吉田市",
@@ -221,6 +223,7 @@
       },
       "山梨大学教育人間科学部附属中学校" : {
          "owner_type" : "国立",
+         "sort_name" : "やまなしたいかくきよういくにんけんかかくふふそく",
          "wikipedia_name" : "山梨大学教育人間科学部附属小学校・中学校"
       },
       "山梨学院大学附属中学校" : {
@@ -246,13 +249,15 @@
          "location_wikipedia_latlon" : "|35|40|2.1|N|138|34|32.2|E|",
          "location_zipcode" : "400-8507",
          "owner_type" : "私立",
+         "sort_name" : "やまなしえいわちゆうかつこうこうとうかつこう",
          "url" : "http://www.y-eiwa.ed.jp/",
          "wikipedia_name" : "山梨英和中学校・高等学校"
       },
       "市川三郷町立三珠中学校" : {
          "location_area" : "西八代郡市川三郷町",
          "owner_type" : "町立",
-         "short_name" : "三珠中学校"
+         "short_name" : "三珠中学校",
+         "sort_name" : "いちかわみさとちようりつみたま"
       },
       "市川三郷町立六郷中学校" : {
          "location_area" : "西八代郡市川三郷町",
@@ -333,6 +338,7 @@
          "location_zipcode" : "400-0072",
          "owner_type" : "市立",
          "short_name" : "北中学校",
+         "sort_name" : "こうふしりつきたちゆう",
          "url" : "http://www.kita-j.kofu-ymn.ed.jp/"
       },
       "甲府市立北東中学校" : {
@@ -341,6 +347,7 @@
          "location_zipcode" : "400-0015",
          "owner_type" : "市立",
          "short_name" : "北東中学校",
+         "sort_name" : "こうふしりつほくとうちゆう",
          "url" : "http://www.hokutou-j.kofu-ymn.ed.jp/"
       },
       "甲府市立北西中学校" : {
@@ -364,6 +371,7 @@
          "location_zipcode" : "400-0053",
          "owner_type" : "市立",
          "short_name" : "城南中学校",
+         "sort_name" : "こうふしりつしようなんちゆう",
          "url" : "http://www.jonan-j.kofu-ymn.ed.jp/"
       },
       "甲府市立富竹中学校" : {
@@ -372,6 +380,7 @@
          "location_zipcode" : "400-0049",
          "owner_type" : "市立",
          "short_name" : "富竹中学校",
+         "sort_name" : "こうふしりつとみたけちゆう",
          "url" : "http://www.tomitake-j.kofu-ymn.ed.jp/"
       },
       "甲府市立東中学校" : {
@@ -400,6 +409,7 @@
          "location_zipcode" : "400-0123",
          "owner_type" : "市立",
          "short_name" : "敷島中学校",
+         "sort_name" : "かいしりつしきしまちゆう",
          "url" : "http://www.city-kai.ed.jp/schu/"
       },
       "甲斐市立玉幡中学校" : {

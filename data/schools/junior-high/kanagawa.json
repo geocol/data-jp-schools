@@ -2,15 +2,18 @@
    "high_schools" : {
       "桐蔭学園中等教育学校" : {
          "location_area" : "横浜市青葉区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "とういんかくえん"
       },
       "横浜富士見丘学園中等教育学校" : {
          "location_area" : "横浜市旭区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "よこはまふしみおかかくえんちゆうとうきよういくかつこう"
       },
       "自修館中等教育学校" : {
          "location_area" : "伊勢原市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ししゆうかん"
       }
    },
    "junior_high_schools" : {
@@ -19,6 +22,7 @@
          "location_area" : "茅ヶ崎市",
          "location_zipcode" : "253-0031",
          "owner_type" : "私立",
+         "sort_name" : "あれせいあしようなん",
          "url" : "http://www.h.aletheia.ac.jp/",
          "wikipedia_name" : "アレセイア湘南中学校・高等学校"
       },
@@ -27,6 +31,7 @@
          "location_area" : "川崎市多摩区",
          "location_zipcode" : "214-0012",
          "owner_type" : "私立",
+         "sort_name" : "かりたすしよしちゆうかつこうこうとうかつこう",
          "url" : "http://www.caritas.ed.jp/",
          "wikipedia_name" : "カリタス女子中学校・高等学校"
       },
@@ -35,6 +40,7 @@
          "location_area" : "横浜市都筑区",
          "location_zipcode" : "224-0029",
          "owner_type" : "私立",
+         "sort_name" : "されしおかくいん",
          "url" : "http://www.salesio-gakuin.ed.jp/",
          "wikipedia_name" : "サレジオ学院中学校・高等学校"
       },
@@ -48,6 +54,7 @@
          "location_wikipedia_latlon" : "|35|26|16.9|N|139|38|51.4|E|",
          "location_zipcode" : "231-8660",
          "owner_type" : "私立",
+         "sort_name" : "ふえりすしよかくいん",
          "url" : "http://www.ferris.ed.jp/",
          "wikipedia_name" : "フェリス女学院中学校・高等学校"
       },
@@ -112,6 +119,7 @@
          "location_wikipedia_latlon" : "|35|22|16.1|N|139|30|46.7|E|",
          "location_zipcode" : "102-0073",
          "owner_type" : "私立",
+         "sort_name" : "くもんこくさいかくえん",
          "url" : "http://www.kumon.ac.jp/k-gakuen/kokusai/",
          "wikipedia_name" : "公文国際学園中等部・高等部"
       },
@@ -120,6 +128,7 @@
          "location_area" : "足柄下郡",
          "location_zipcode" : "250-0408",
          "owner_type" : "私立",
+         "sort_name" : "かんれいしらゆりかくえん",
          "url" : "http://kanrei-shirayuri.ed.jp/",
          "wikipedia_name" : "函嶺白百合学園中学校・高等学校"
       },
@@ -129,6 +138,7 @@
          "location_wikipedia_latlon" : "|35|20|13.5|N|139|32|30.6|E|",
          "location_zipcode" : "247-0062",
          "owner_type" : "私立",
+         "sort_name" : "きたかまくらしよしかくえん",
          "url" : "http://www.kitakama.ac.jp/",
          "wikipedia_name" : "北鎌倉女子学園中学校・高等学校"
       },
@@ -170,7 +180,8 @@
       "厚木市立小鮎中学校" : {
          "location_area" : "厚木市",
          "owner_type" : "市立",
-         "short_name" : "小鮎中学校"
+         "short_name" : "小鮎中学校",
+         "sort_name" : "あつきしりつこあゆ"
       },
       "厚木市立東名中学校" : {
          "location_area" : "厚木市",
@@ -204,6 +215,7 @@
          "location_zipcode" : "243-0203",
          "owner_type" : "市立",
          "short_name" : "睦合中学校",
+         "sort_name" : "あつきしりつむつあいちゆう",
          "url" : "http://www.edu.city.atsugi.kanagawa.jp/mutsuai-js/"
       },
       "厚木市立睦合東中学校" : {
@@ -287,6 +299,7 @@
          "location_wikipedia_latlon" : "|35|34|41.8|N|139|39|24.3|E|",
          "location_zipcode" : "211-0063",
          "owner_type" : "私立",
+         "sort_name" : "おおにしかくえん",
          "url" : "http://www.ohnishigakuen.ac.jp/",
          "wikipedia_name" : "大西学園高等学校"
       },
@@ -301,6 +314,7 @@
          "location_zipcode" : "253-0105",
          "owner_type" : "町立",
          "short_name" : "寒川東中学校",
+         "sort_name" : "さむかわちようりつさむかわひかしちゆう",
          "url" : "http://academic4.plala.or.jp/higashi3/"
       },
       "寒川町立旭が丘中学校" : {
@@ -314,6 +328,7 @@
          "location_zipcode" : "250-0215",
          "owner_type" : "市立",
          "short_name" : "千代中学校",
+         "sort_name" : "おたわらしりつちよ",
          "url" : "http://www.ed.city.odawara.kanagawa.jp/kids/chuugaku/chiyo/chiyo.html"
       },
       "小田原市立国府津中学校" : {
@@ -391,6 +406,7 @@
          "location_area" : "横浜市栄区",
          "location_zipcode" : "247-0013",
          "owner_type" : "私立",
+         "sort_name" : "やまてかくいん",
          "url" : "http://www.yamate-gakuin.ac.jp/",
          "wikipedia_name" : "山手学院中学校・高等学校"
       },
@@ -429,7 +445,8 @@
          "location_area" : "川崎市幸区",
          "location_zipcode" : "212-0055",
          "owner_type" : "市立",
-         "short_name" : "南加瀬中学校"
+         "short_name" : "南加瀬中学校",
+         "sort_name" : "かわさきしりつみなみかせちゆうかつこう"
       },
       "川崎市立南大師中学校" : {
          "location_area" : "川崎市川崎区",
@@ -447,6 +464,7 @@
          "location_zipcode" : "214-0035",
          "owner_type" : "市立",
          "short_name" : "南生田中学校",
+         "sort_name" : "みなみいくたちゆうかつこう",
          "url" : "http://www.keins.city.kawasaki.jp/3/ke304301/"
       },
       "川崎市立南菅中学校" : {
@@ -457,7 +475,8 @@
       "川崎市立向丘中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "向丘中学校"
+         "short_name" : "向丘中学校",
+         "sort_name" : "むかいかおかちゆうかつこう"
       },
       "川崎市立塚越中学校" : {
          "location_area" : "川崎市幸区",
@@ -480,6 +499,7 @@
          "location_zipcode" : "216-0006",
          "owner_type" : "市立",
          "short_name" : "宮前平中学校",
+         "sort_name" : "かわさきしりつみやまえたいらちゆうかつこう",
          "url" : "http://www.keins.city.kawasaki.jp/3/ke303201/top.html"
       },
       "川崎市立宮崎中学校" : {
@@ -508,7 +528,8 @@
       "川崎市立平中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "平中学校"
+         "short_name" : "平中学校",
+         "sort_name" : "たいらちゆうかつこう"
       },
       "川崎市立平間中学校" : {
          "location" : "神奈川県川崎市中原区上平間1368番地",
@@ -516,6 +537,7 @@
          "location_zipcode" : "211-00013",
          "owner_type" : "市立",
          "short_name" : "平間中学校",
+         "sort_name" : "かわさきしりつひらまちゆうかつこう",
          "url" : "http://www.keins.city.kawasaki.jp/3/ke301601/"
       },
       "川崎市立御幸中学校" : {
@@ -531,7 +553,8 @@
       "川崎市立有馬中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "有馬中学校"
+         "short_name" : "有馬中学校",
+         "sort_name" : "かわさきしりつありまちゆうかつこう"
       },
       "川崎市立東橘中学校" : {
          "location" : "神奈川県川崎市高津区子母口321",
@@ -574,7 +597,8 @@
       "川崎市立犬蔵中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "犬蔵中学校"
+         "short_name" : "犬蔵中学校",
+         "sort_name" : "いぬくらちゆうかつこう"
       },
       "川崎市立玉川中学校" : {
          "location_area" : "川崎市中原区",
@@ -584,7 +608,8 @@
       "川崎市立王禅寺中央中学校" : {
          "location_area" : "川崎市麻生区",
          "owner_type" : "市立",
-         "short_name" : "王禅寺中央中学校"
+         "short_name" : "王禅寺中央中学校",
+         "sort_name" : "おうせんしちゆうおうちゆうかつこう"
       },
       "川崎市立生田中学校" : {
          "location_area" : "川崎市多摩区",
@@ -622,7 +647,8 @@
       "川崎市立菅生中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "菅生中学校"
+         "short_name" : "菅生中学校",
+         "sort_name" : "すかおちゆうかつこう"
       },
       "川崎市立西中原中学校" : {
          "location" : "神奈川県川崎市中原区下小田中二丁目17-1",
@@ -630,6 +656,7 @@
          "location_zipcode" : "211-0041",
          "owner_type" : "市立",
          "short_name" : "西中原中学校",
+         "sort_name" : "かわさきしりつにしなかはらちゆうかつこう",
          "url" : "http://www.keins.city.kawasaki.jp/school/original/ke302301.html"
       },
       "川崎市立西生田中学校" : {
@@ -645,7 +672,8 @@
       "川崎市立野川中学校" : {
          "location_area" : "川崎市宮前区",
          "owner_type" : "市立",
-         "short_name" : "野川中学校"
+         "short_name" : "野川中学校",
+         "sort_name" : "のかわちゆうかつこう"
       },
       "川崎市立金程中学校" : {
          "location_area" : "川崎市麻生区",
@@ -660,7 +688,8 @@
       "川崎市立高津中学校" : {
          "location_area" : "川崎市高津区",
          "owner_type" : "市立",
-         "short_name" : "高津中学校"
+         "short_name" : "高津中学校",
+         "sort_name" : "たかつちゆうかつこう"
       },
       "川崎市立麻生中学校" : {
          "location_area" : "川崎市麻生区",
@@ -732,7 +761,8 @@
          "location_area" : "平塚市",
          "location_zipcode" : "254-0013",
          "owner_type" : "市立",
-         "short_name" : "神田中学校"
+         "short_name" : "神田中学校",
+         "sort_name" : "ひらつかしりつかんたちゆうかつこう"
       },
       "平塚市立金旭中学校" : {
          "location_area" : "平塚市",
@@ -752,7 +782,8 @@
       "座間市立座間中学校" : {
          "location_area" : "座間市",
          "owner_type" : "市立",
-         "short_name" : "座間中学校"
+         "short_name" : "座間中学校",
+         "sort_name" : "さましりつさまちゆう"
       },
       "座間市立東中学校" : {
          "location_area" : "座間市",
@@ -808,6 +839,7 @@
          "location_area" : "横浜市港北区",
          "location_zipcode" : "223-8566",
          "owner_type" : "私立",
+         "sort_name" : "にほんたいかくこうとうかつこうちゆうかつこう",
          "url" : "http://www.nihon-u.ac.jp/orgni/yokohama/",
          "wikipedia_name" : "日本大学高等学校・中学校"
       },
@@ -816,6 +848,7 @@
          "location_area" : "藤沢市",
          "location_zipcode" : "252-8505",
          "owner_type" : "私立",
+         "sort_name" : "にほんたいかくふしさわ",
          "url" : "http://www.fujisawa.hs.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学藤沢高等学校・中学校"
       },
@@ -825,6 +858,7 @@
          "location_wikipedia_latlon" : "|35|37|8.8|N|139|31|42|E|",
          "location_zipcode" : "214-8565",
          "owner_type" : "私立",
+         "sort_name" : "にほんしよしたいかくふそくちゆうかつこう・こうとうかつこう",
          "url" : "http://www.jwu.ac.jp/hsc.html",
          "wikipedia_name" : "日本女子大学附属中学校・高等学校"
       },
@@ -843,6 +877,7 @@
          "location_zipcode" : "252-0395",
          "owner_type" : "私立",
          "short_name" : "東海大学付属相模高校中等部",
+         "sort_name" : "とうかいたいかくふそくさかみ",
          "url" : "http://www.sagami.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属相模高等学校・中等部"
       },
@@ -862,6 +897,7 @@
          "location_wikipedia_latlon" : "|35|21|21.4|N|139|31|11.7|E|",
          "location_zipcode" : "247-0071",
          "owner_type" : "私立",
+         "sort_name" : "えいこうかくえん",
          "url" : "http://ekh.jp/",
          "wikipedia_name" : "栄光学園中学校・高等学校"
       },
@@ -870,6 +906,7 @@
          "location_area" : "川崎市麻生区",
          "location_zipcode" : "215-8555",
          "owner_type" : "私立",
+         "sort_name" : "とうこうかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.toko.ed.jp/high/index.html",
          "wikipedia_name" : "桐光学園中学校・高等学校"
       },
@@ -879,6 +916,7 @@
          "location_wikipedia_latlon" : "|35|34|0.5|N|139|31|16.9|E|region:JP",
          "location_zipcode" : "225-8502",
          "owner_type" : "私立",
+         "sort_name" : "とういんかくえん",
          "url" : "http://www.cc.toin.ac.jp/index.html",
          "wikipedia_name" : "桐蔭学園中学校・高等学校"
       },
@@ -892,6 +930,7 @@
          "location_area" : "横浜市金沢区",
          "location_zipcode" : "236-0053",
          "owner_type" : "私立",
+         "sort_name" : "よこはま",
          "url" : "http://www.yokohama-jsh.ac.jp/",
          "wikipedia_name" : "横浜中学校・高等学校"
       },
@@ -900,6 +939,7 @@
          "location_area" : "横浜市中区",
          "location_zipcode" : "231-8662",
          "owner_type" : "私立",
+         "sort_name" : "よこはまきようりつかくえんちゆうかくこうこうとうかつこう",
          "url" : "http://www.kjg.ed.jp/",
          "wikipedia_name" : "横浜共立学園中学校・高等学校"
       },
@@ -916,12 +956,14 @@
          "location" : "神奈川県横浜市南区大岡二丁目31番3号",
          "location_zipcode" : "232-0061",
          "owner_type" : "国立",
+         "sort_name" : "よこはまこくりつたいかくふそくよこはまちゆう",
          "url" : "http://www.yokochu.ynu.ac.jp/"
       },
       "横浜国立大学教育人間科学部附属鎌倉中学校" : {
          "location" : "神奈川県鎌倉市雪ノ下三丁目5番10号",
          "location_zipcode" : "248-0005",
          "owner_type" : "国立",
+         "sort_name" : "よこはまこくりつたいかくふそくかまくらちゆう",
          "url" : "http://www.kamajhs.ynu.ac.jp/"
       },
       "横浜国際女学院翠陵中学校" : {
@@ -929,6 +971,7 @@
          "location_area" : "横浜市緑区",
          "location_zipcode" : "226-0015",
          "owner_type" : "私立",
+         "sort_name" : "よこはまこくさいしよしかくいんすいりよう",
          "url" : "http://www.suiryo.ed.jp/",
          "wikipedia_name" : "横浜国際女学院翠陵中学校・高等学校"
       },
@@ -937,6 +980,7 @@
          "location_area" : "横浜市中区",
          "location_zipcode" : "231-8661",
          "owner_type" : "私立",
+         "sort_name" : "よこはましよかくいん",
          "url" : "http://www.yjg.y-gakuin.ed.jp/",
          "wikipedia_name" : "横浜女学院中学校・高等学校"
       },
@@ -990,6 +1034,7 @@
          "location_zipcode" : "230-0075",
          "owner_type" : "市立",
          "short_name" : "上の宮中学校",
+         "sort_name" : "かみのみやちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/kaminomiya/"
       },
       "横浜市立上永谷中学校" : {
@@ -1003,6 +1048,7 @@
          "location_zipcode" : "241-0001",
          "owner_type" : "市立",
          "short_name" : "上白根中学校",
+         "sort_name" : "よこはましりつかみしらねちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/kamishirane/index.htm"
       },
       "横浜市立上菅田中学校" : {
@@ -1011,6 +1057,7 @@
          "location_zipcode" : "240-0051",
          "owner_type" : "市立",
          "short_name" : "上菅田中学校",
+         "sort_name" : "よこはましりつかみすけたちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/kamisugeta/"
       },
       "横浜市立上郷中学校" : {
@@ -1069,6 +1116,7 @@
          "location_zipcode" : "241-0032",
          "owner_type" : "市立",
          "short_name" : "今宿中学校",
+         "sort_name" : "よこはましりついましゆくちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/imajuku/index.htm"
       },
       "横浜市立仲尾台中学校" : {
@@ -1077,6 +1125,7 @@
          "location_zipcode" : "231-0839",
          "owner_type" : "市立",
          "short_name" : "仲尾台中学校",
+         "sort_name" : "よこはましりつなかおたいちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/nakaodai//"
       },
       "横浜市立保土ヶ谷中学校" : {
@@ -1168,7 +1217,8 @@
       "横浜市立大正中学校" : {
          "location_area" : "横浜市戸塚区",
          "owner_type" : "市立",
-         "short_name" : "大正中学校"
+         "short_name" : "大正中学校",
+         "sort_name" : "よこはましりつたいしようちゆうかつこう"
       },
       "横浜市立大綱中学校" : {
          "location_area" : "横浜市港北区",
@@ -1206,6 +1256,7 @@
          "location_zipcode" : "236-0052",
          "owner_type" : "市立",
          "short_name" : "富岡中学校",
+         "sort_name" : "よこはましりつとみおかちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/tomioka/"
       },
       "横浜市立富岡東中学校" : {
@@ -1224,6 +1275,7 @@
          "location_zipcode" : "230-0074",
          "owner_type" : "市立",
          "short_name" : "寺尾中学校",
+         "sort_name" : "てらおちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/terao/"
       },
       "横浜市立小山台中学校" : {
@@ -1268,6 +1320,7 @@
          "location_zipcode" : "240-0011",
          "owner_type" : "市立",
          "short_name" : "岩崎中学校",
+         "sort_name" : "よこはましりついわさきちゆう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/iwasaki/"
       },
       "横浜市立川和中学校" : {
@@ -1291,6 +1344,7 @@
          "location_zipcode" : "230-0024",
          "owner_type" : "市立",
          "short_name" : "市場中学校",
+         "sort_name" : "いちはちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/ichiba/"
       },
       "横浜市立希望が丘中学校" : {
@@ -1366,6 +1420,7 @@
          "location_zipcode" : "241-0002",
          "owner_type" : "市立",
          "short_name" : "旭北中学校",
+         "sort_name" : "よこはましりつあさひきたちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/asahikita/"
       },
       "横浜市立末吉中学校" : {
@@ -1414,6 +1469,7 @@
          "location_zipcode" : "221-0851",
          "owner_type" : "市立",
          "short_name" : "松本中学校",
+         "sort_name" : "まつもとちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/matsumoto/index.htm"
       },
       "横浜市立栗田谷中学校" : {
@@ -1422,6 +1478,7 @@
          "location_zipcode" : "221-0804",
          "owner_type" : "市立",
          "short_name" : "栗田谷中学校",
+         "sort_name" : "よこはましりつくりたやちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/kuritaya/index.htm"
       },
       "横浜市立根岸中学校" : {
@@ -1537,7 +1594,8 @@
       "横浜市立神奈川中学校" : {
          "location_area" : "横浜市神奈川区",
          "owner_type" : "市立",
-         "short_name" : "神奈川中学校"
+         "short_name" : "神奈川中学校",
+         "sort_name" : "かなかわちゆうかつこう"
       },
       "横浜市立秋葉中学校" : {
          "location_area" : "横浜市戸塚区",
@@ -1617,7 +1675,8 @@
       "横浜市立西本郷中学校" : {
          "location_area" : "横浜市栄区",
          "owner_type" : "市立",
-         "short_name" : "西本郷中学校"
+         "short_name" : "西本郷中学校",
+         "sort_name" : "よこはましりつにしほんこうちゆうかつこう"
       },
       "横浜市立西柴中学校" : {
          "location_area" : "横浜市金沢区",
@@ -1727,6 +1786,7 @@
          "location_zipcode" : "241-0002",
          "owner_type" : "市立",
          "short_name" : "鶴ヶ峯中学校",
+         "sort_name" : "よこはましりつつるかみねちゆうかつこう",
          "url" : "http://www.edu.city.yokohama.jp/sch/jhs/tsurugamine/"
       },
       "横浜市立鶴見中学校" : {
@@ -1744,6 +1804,7 @@
          "location_area" : "横浜市瀬谷区",
          "location_zipcode" : "246-0026",
          "owner_type" : "私立",
+         "sort_name" : "よこはまはやと",
          "url" : "http://www.hayato.ed.jp/junior/",
          "wikipedia_name" : "横浜隼人中学校・高等学校"
       },
@@ -1752,6 +1813,7 @@
          "location_area" : "横浜市中区",
          "location_zipcode" : "231-8653",
          "owner_type" : "私立",
+         "sort_name" : "よこはまふたは",
          "url" : "http://www.yokohamafutaba.ed.jp/",
          "wikipedia_name" : "横浜雙葉中学校・高等学校"
       },
@@ -1790,6 +1852,7 @@
          "location_zipcode" : "238-0043",
          "owner_type" : "市立",
          "short_name" : "坂本中学校",
+         "sort_name" : "よこすかしりつさかもとちゆうかつこう",
          "url" : "http://schoolnet.yknet.ed.jp/schoolnet/juniorhigh/205sakamoto/"
       },
       "横須賀市立大楠中学校" : {
@@ -1803,6 +1866,7 @@
          "location_zipcode" : "237-0076",
          "owner_type" : "市立",
          "short_name" : "大津中学校",
+         "sort_name" : "よこすかしりつおおつちゆうかつこう",
          "url" : "http://schoolnet.edu.city.yokosuka.kanagawa.jp/schoolnet/juniorhigh/212ootsu/"
       },
       "横須賀市立大矢部中学校" : {
@@ -1833,7 +1897,8 @@
       "横須賀市立浦賀中学校" : {
          "location_area" : "横須賀市",
          "owner_type" : "市立",
-         "short_name" : "浦賀中学校"
+         "short_name" : "浦賀中学校",
+         "sort_name" : "よこすかしりつおおつちゆうかつこう"
       },
       "横須賀市立田浦中学校" : {
          "location_area" : "横須賀市",
@@ -1894,6 +1959,7 @@
          "location_area" : "横浜市鶴見区",
          "location_zipcode" : "230-0073",
          "owner_type" : "私立",
+         "sort_name" : "たちはなかくえん",
          "url" : "http://www.tachibana.ac.jp/",
          "wikipedia_name" : "橘学苑中学校・高等学校"
       },
@@ -1902,6 +1968,7 @@
          "location_area" : "横浜市港北区",
          "location_zipcode" : "222-0023",
          "owner_type" : "私立",
+         "sort_name" : "ふそうちゆうこう",
          "url" : "http://www.buso.ac.jp/",
          "wikipedia_name" : "武相中学校・高等学校"
       },
@@ -1911,6 +1978,7 @@
          "location_wikipedia_latlon" : "|35|34|18.6|N|139|39|5.5|E|",
          "location_zipcode" : "211-0031",
          "owner_type" : "私立",
+         "sort_name" : "ほうせいたいかくたいに",
          "url" : "http://www.hosei2.ed.jp/",
          "wikipedia_name" : "法政大学第二中・高等学校"
       },
@@ -1920,6 +1988,7 @@
          "location_wikipedia_latlon" : "|35|35|44.7|N|139|36|49.7|E|",
          "location_zipcode" : "213-8580",
          "owner_type" : "私立",
+         "sort_name" : "せんそくかくえんちゆうかくこうとうかつこう",
          "url" : "http://www.senzoku-gakuen.ed.jp/",
          "wikipedia_name" : "洗足学園中学校・高等学校"
       },
@@ -1929,6 +1998,7 @@
          "location_wikipedia_latlon" : "|35|29|27.7|N|139|39|31.9|E|",
          "location_zipcode" : "221-0012",
          "owner_type" : "私立",
+         "sort_name" : "あさのかくえん",
          "url" : "http://www.asano.ed.jp/",
          "wikipedia_name" : "浅野中学校・高等学校"
       },
@@ -1957,7 +2027,8 @@
          "location_area" : "海老名市",
          "location_zipcode" : "243-0405",
          "owner_type" : "市立",
-         "short_name" : "海老名中学校"
+         "short_name" : "海老名中学校",
+         "sort_name" : "えひなしりつえひなちゆう"
       },
       "海老名市立海西中学校" : {
          "location_area" : "海老名市",
@@ -1979,6 +2050,7 @@
          "location_area" : "鎌倉市",
          "location_zipcode" : "247-0074",
          "owner_type" : "私立",
+         "sort_name" : "せいせんしよかくいん",
          "url" : "http://izumi.seisen-h.ed.jp/index.html",
          "wikipedia_name" : "清泉女学院中学高等学校"
       },
@@ -1987,6 +2059,7 @@
          "location_area" : "藤沢市",
          "location_zipcode" : "251-8505",
          "owner_type" : "私立",
+         "sort_name" : "しようなんかくえん",
          "url" : "http://www.shogak.ac.jp/mh/index.html",
          "wikipedia_name" : "湘南学園中学校・高等学校"
       },
@@ -1995,6 +2068,7 @@
          "location_area" : "藤沢市",
          "location_zipcode" : "251-0034",
          "owner_type" : "私立",
+         "sort_name" : "しようなんしらゆりかくえん",
          "url" : "http://www.shonan-shirayuri.ac.jp/",
          "wikipedia_name" : "湘南白百合学園中学・高等学校"
       },
@@ -2021,7 +2095,8 @@
       "相模原市立中央中学校" : {
          "location_area" : "相模原市中央区",
          "owner_type" : "市立",
-         "short_name" : "中央中学校"
+         "short_name" : "中央中学校",
+         "sort_name" : "さかみはらしりつちゆうおう"
       },
       "相模原市立中沢中学校" : {
          "location_area" : "相模原市緑区",
@@ -2064,12 +2139,14 @@
          "location_zipcode" : "252-0135",
          "owner_type" : "市立",
          "short_name" : "大沢中学校",
+         "sort_name" : "さかみはらしりつおおさわ",
          "url" : "http://www.sagamihara-ohsawa-j.ed.jp/"
       },
       "相模原市立大野北中学校" : {
          "location_area" : "相模原市中央区",
          "owner_type" : "市立",
-         "short_name" : "大野北中学校"
+         "short_name" : "大野北中学校",
+         "sort_name" : "さかみはらしりつおおのきたちゆうかつこう"
       },
       "相模原市立大野南中学校" : {
          "location" : "神奈川県相模原市南区文京1-10-1",
@@ -2142,7 +2219,8 @@
       "相模原市立相武台中学校" : {
          "location_area" : "相模原市南区",
          "owner_type" : "市立",
-         "short_name" : "相武台中学校"
+         "short_name" : "相武台中学校",
+         "sort_name" : "さかみはらしりつそうふたい"
       },
       "相模原市立相陽中学校" : {
          "location_area" : "相模原市南区",
@@ -2205,6 +2283,7 @@
          "location_wikipedia_latlon" : "|35|15|6.8|N|139|8|45.0|E|",
          "location_zipcode" : "250-0045",
          "owner_type" : "私立",
+         "sort_name" : "そうよう",
          "url" : "http://www.soyo.ac.jp/",
          "wikipedia_name" : "相洋高等学校"
       },
@@ -2218,6 +2297,7 @@
          "location_area" : "横浜市緑区",
          "location_zipcode" : "226-0014",
          "owner_type" : "私立",
+         "sort_name" : "かなかわたいかくふそく",
          "url" : "http://www.fhs.kanagawa-u.ac.jp/",
          "wikipedia_name" : "神奈川大学附属中・高等学校"
       },
@@ -2226,6 +2306,7 @@
          "location_area" : "横浜市神奈川区",
          "location_zipcode" : "221-0844",
          "owner_type" : "私立",
+         "sort_name" : "かなかわかくえん",
          "url" : "http://www.kanagawa-kgs.ac.jp/index.html",
          "wikipedia_name" : "神奈川学園中学校・高等学校"
       },
@@ -2247,7 +2328,8 @@
       "秦野市立大根中学校" : {
          "location_area" : "秦野市",
          "owner_type" : "市立",
-         "short_name" : "大根中学校"
+         "short_name" : "大根中学校",
+         "sort_name" : "はたのしりつおおねちゆう"
       },
       "秦野市立本町中学校" : {
          "location_area" : "秦野市",
@@ -2314,6 +2396,7 @@
          "location_area" : "横須賀市",
          "location_zipcode" : "238-0018",
          "owner_type" : "私立",
+         "sort_name" : "みとりかおかしよし",
          "url" : "http://www.midorigaoka.ed.jp/",
          "wikipedia_name" : "緑ヶ丘女子中学校・高等学校"
       },
@@ -2327,6 +2410,7 @@
          "location_area" : "大和市",
          "location_zipcode" : "242-0006",
          "owner_type" : "私立",
+         "sort_name" : "せいせしりあしよし",
          "url" : "http://www.cecilia.ac.jp/",
          "wikipedia_name" : "聖セシリア女子中学校・高等学校"
       },
@@ -2335,6 +2419,7 @@
          "location_area" : "横浜市鶴見区",
          "location_zipcode" : "230-0016",
          "owner_type" : "私立",
+         "sort_name" : "せいよせふちゆうかつこう・こうとうかつこう",
          "url" : "http://www.st-joseph.ac.jp/",
          "wikipedia_name" : "聖ヨゼフ学園中学校・高等学校"
       },
@@ -2343,6 +2428,7 @@
          "location_area" : "横浜市中区",
          "location_zipcode" : "231-8681",
          "owner_type" : "私立",
+         "sort_name" : "せいこうかくいん",
          "url" : "http://www.seiko.ac.jp/",
          "wikipedia_name" : "聖光学院中学校・高等学校"
       },
@@ -2351,6 +2437,7 @@
          "location_area" : "逗子市",
          "location_zipcode" : "249-0001",
          "owner_type" : "私立",
+         "sort_name" : "せいわかくいん",
          "url" : "http://www.seiwagakuin.ed.jp/tyukou/",
          "wikipedia_name" : "聖和学院中学校・高等学校"
       },
@@ -2359,6 +2446,7 @@
          "location_area" : "藤沢市",
          "location_zipcode" : "251-0873",
          "owner_type" : "私立",
+         "sort_name" : "みそのしよかくいん",
          "url" : "http://www.misono.jp/",
          "wikipedia_name" : "聖園女学院中学校・高等学校"
       },
@@ -2377,7 +2465,8 @@
          "location_area" : "茅ヶ崎市",
          "location_zipcode" : "253-0081",
          "owner_type" : "市立",
-         "short_name" : "北陽中学校"
+         "short_name" : "北陽中学校",
+         "sort_name" : "ちかさきしりつほくよう"
       },
       "茅ヶ崎市立松林中学校" : {
          "location_area" : "茅ヶ崎市",
@@ -2397,12 +2486,14 @@
       "茅ヶ崎市立浜須賀中学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "浜須賀中学校"
+         "short_name" : "浜須賀中学校",
+         "sort_name" : "ちかさきしりつはますかちゆうかつこう"
       },
       "茅ヶ崎市立第一中学校" : {
          "location_area" : "茅ヶ崎市",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "ちかさきしりつたいいちちゆうかつこう"
       },
       "茅ヶ崎市立萩園中学校" : {
          "location" : "神奈川県茅ヶ崎市萩園2425",
@@ -2410,6 +2501,7 @@
          "location_zipcode" : "253-0071",
          "owner_type" : "市立",
          "short_name" : "萩園中学校",
+         "sort_name" : "ちかさきしりつはきそのちゆかつこう",
          "url" : "http://www.city.chigasaki.kanagawa.jp/newsection/kyousou/gakkousyoukai/31hagisono.html"
       },
       "茅ヶ崎市立西浜中学校" : {
@@ -2453,13 +2545,15 @@
          "location_area" : "藤沢市",
          "location_zipcode" : "251-0001",
          "owner_type" : "私立",
+         "sort_name" : "とうれいかくえんふしさわ",
          "url" : "http://www.tohrei-fujisawa.jp/",
          "wikipedia_name" : "藤嶺学園藤沢中学校・高等学校"
       },
       "藤沢市立六会中学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "六会中学校"
+         "short_name" : "六会中学校",
+         "sort_name" : "ふしさわしりつむつあいちゆうかつこう"
       },
       "藤沢市立善行中学校" : {
          "location_area" : "藤沢市",
@@ -2469,22 +2563,26 @@
       "藤沢市立大庭中学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "大庭中学校"
+         "short_name" : "大庭中学校",
+         "sort_name" : "ふしさわしりつおおはちゆうかつこう"
       },
       "藤沢市立大清水中学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "大清水中学校"
+         "short_name" : "大清水中学校",
+         "sort_name" : "ふしさわしりつおおしみす"
       },
       "藤沢市立御所見中学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "御所見中学校"
+         "short_name" : "御所見中学校",
+         "sort_name" : "ふしさわしりつこしよみ"
       },
       "藤沢市立明治中学校" : {
          "location_area" : "藤沢市",
          "owner_type" : "市立",
-         "short_name" : "明治中学校"
+         "short_name" : "明治中学校",
+         "sort_name" : "ふしさわしりつめいし"
       },
       "藤沢市立村岡中学校" : {
          "location_area" : "藤沢市",
@@ -2502,6 +2600,7 @@
          "location_zipcode" : "251-0045",
          "owner_type" : "市立",
          "short_name" : "湘洋中学校",
+         "sort_name" : "ふしさわしりつしようよう",
          "url" : "http://www1.fujisawa-kng.ed.jp/jshoy/"
       },
       "藤沢市立滝の沢中学校" : {
@@ -2515,6 +2614,7 @@
          "location_zipcode" : "251-0033",
          "owner_type" : "市立",
          "short_name" : "片瀬中学校",
+         "sort_name" : "ふしさわしりつかたせ",
          "url" : "http://www1.fujisawa-kng.ed.jp/jkata/"
       },
       "藤沢市立秋葉台中学校" : {
@@ -2523,6 +2623,7 @@
          "location_zipcode" : "252-0816",
          "owner_type" : "市立",
          "short_name" : "秋葉台中学校",
+         "sort_name" : "ふしさわしりつあきはたいちゆうかつこう",
          "url" : "http://www1.fujisawa-kng.ed.jp/jakih/index.cfm/1,html"
       },
       "藤沢市立第一中学校" : {
@@ -2561,6 +2662,7 @@
          "location_zipcode" : "251-0027",
          "owner_type" : "市立",
          "short_name" : "鵠沼中学校",
+         "sort_name" : "ふしさわしりつくけぬま",
          "url" : "http://www.fujisawa-kng.ed.jp/jkuge/"
       },
       "逗子市立久木中学校" : {
@@ -2584,6 +2686,7 @@
          "location_wikipedia_latlon" : "|35|17|38.3|N|139|34|22|E|",
          "location_zipcode" : "249-8510",
          "owner_type" : "私立",
+         "sort_name" : "すしかいせい",
          "url" : "http://www.zushi-kaisei.ac.jp/",
          "wikipedia_name" : "逗子開成中学校・高等学校"
       },
@@ -2592,6 +2695,7 @@
          "location_area" : "鎌倉市",
          "location_zipcode" : "247-8511",
          "owner_type" : "私立",
+         "sort_name" : "かまくらしよしたいかくちゆうとうふこうとうふ",
          "url" : "http://www.kamakura-u.ac.jp/tyukou/",
          "wikipedia_name" : "鎌倉女子大学中等部・高等部"
       },
@@ -2601,6 +2705,7 @@
          "location_wikipedia_latlon" : "|35|18|50|N|139|33|0.5|E|",
          "location_zipcode" : "248-0014",
          "owner_type" : "私立",
+         "sort_name" : "かまくらしよかくいん",
          "url" : "http://www.kamajo.ac.jp/",
          "wikipedia_name" : "鎌倉女学院中学校・高等学校"
       },
@@ -2610,6 +2715,7 @@
          "location_wikipedia_latlon" : "|35|19|52|N|139|33|10.8|E|",
          "location_zipcode" : "247-0062",
          "owner_type" : "私立",
+         "sort_name" : "かまくらかくえん",
          "url" : "http://www.kamagaku.ac.jp/",
          "wikipedia_name" : "鎌倉学園中学校・高等学校"
       },
@@ -2668,6 +2774,7 @@
          "location_area" : "横浜市南区",
          "location_zipcode" : "232-0002",
          "owner_type" : "私立",
+         "sort_name" : "かんとうかくいんちゆうかつこうこうとうかつこう",
          "url" : "http://www.kantogakuin.ed.jp/",
          "wikipedia_name" : "関東学院中学校高等学校"
       },
@@ -2677,6 +2784,7 @@
          "location_wikipedia_latlon" : "|35|19|24.0|N|139|37|29.8|E|",
          "location_zipcode" : "236-8504",
          "owner_type" : "私立",
+         "sort_name" : "かんとうかくいんむつうら",
          "url" : "http://www.kanto-mutsuura.com/",
          "wikipedia_name" : "関東学院六浦中学校・高等学校"
       },

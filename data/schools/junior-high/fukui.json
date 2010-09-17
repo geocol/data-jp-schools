@@ -5,14 +5,16 @@
          "location_area" : "あわら市",
          "location_zipcode" : "919-4105",
          "owner_type" : "市立",
-         "short_name" : "芦原中学校"
+         "short_name" : "芦原中学校",
+         "sort_name" : "あわらしりつあわらちゆうかつこう"
       },
       "あわら市立金津中学校" : {
          "location" : "福井県あわら市市姫1-5-1",
          "location_area" : "あわら市",
          "location_zipcode" : "919-0621",
          "owner_type" : "市立",
-         "short_name" : "金津中学校"
+         "short_name" : "金津中学校",
+         "sort_name" : "あわらしりつかなつちゆうかつこう"
       },
       "おおい町立名田庄中学校" : {
          "location" : "福井県大飯郡おおい町名田庄小倉2-9",
@@ -20,6 +22,7 @@
          "location_zipcode" : "917-0371",
          "owner_type" : "町立",
          "short_name" : "名田庄中学校",
+         "sort_name" : "おおいちようりつたなしようちゆうかつこう",
          "url" : "http://www.town-ohi.ed.jp/meichu-j/p/"
       },
       "おおい町立大飯中学校" : {
@@ -28,6 +31,7 @@
          "location_zipcode" : "919-2114",
          "owner_type" : "町立",
          "short_name" : "大飯中学校",
+         "sort_name" : "おおいちようりつおおいちゆうかつこう",
          "url" : "http://www.town-ohi.ed.jp/ohi-j/"
       },
       "かつやま子どもの村中学校" : {
@@ -71,7 +75,8 @@
       "坂井市立三国中学校" : {
          "location_area" : "坂井市",
          "owner_type" : "市立",
-         "short_name" : "三国中学校"
+         "short_name" : "三国中学校",
+         "sort_name" : "さかいしりつみくに"
       },
       "坂井市立丸岡中学校" : {
          "location" : "福井県坂井市丸岡町寅国5-15",
@@ -79,6 +84,7 @@
          "location_zipcode" : "910-0351",
          "owner_type" : "市立",
          "short_name" : "丸岡中学校",
+         "sort_name" : "さかいしりつまるおかちゆうかつこう",
          "url" : "http://www.maruoka-j.ed.jp/"
       },
       "坂井市立丸岡中学校竹田分校" : {
@@ -105,6 +111,7 @@
          "location_zipcode" : "919-0412",
          "owner_type" : "市立",
          "short_name" : "春江中学校",
+         "sort_name" : "さかいしりつはるえちゆうかつこう",
          "url" : "http://www.mitene.or.jp/~haruchu/"
       },
       "大野市上庄中学校" : {
@@ -196,11 +203,13 @@
          "location" : "福井県福井市二の宮4丁目45番1号",
          "location_zipcode" : "910-0015",
          "owner_type" : "国立",
+         "sort_name" : "ふくいたいかくふそくちゆう",
          "url" : "http://www.f-edu.fukui-u.ac.jp/~fuzoku-j/"
       },
       "福井工業大学附属福井中学校" : {
          "location_wikipedia_latlon" : "|36|4|14.2|N|136|11|46.0|E|",
          "owner_type" : "私立",
+         "sort_name" : "ふくいこうきようたいかくふそくふくい",
          "wikipedia_name" : "福井工業大学附属福井中学校・高等学校"
       },
       "福井市立光陽中学校" : {
@@ -209,6 +218,7 @@
          "location_zipcode" : "910-0026",
          "owner_type" : "市立",
          "short_name" : "光陽中学校",
+         "sort_name" : "ふくいしりつこうようちゆうかつこう",
          "url" : "http://www.fukui-city.ed.jp/koyo-j/"
       },
       "福井市立国見中学校" : {
@@ -227,6 +237,7 @@
          "location_zipcode" : "918-8212",
          "owner_type" : "市立",
          "short_name" : "大東中学校",
+         "sort_name" : "ふくいしりつたいとう",
          "url" : "http://www.fukui-city.ed.jp/daito-j/"
       },
       "福井市立安居中学校" : {
@@ -240,6 +251,7 @@
          "location_zipcode" : "910-3144",
          "owner_type" : "市立",
          "short_name" : "川西中学校",
+         "sort_name" : "ふくいしりつかわにし",
          "url" : "http://www.fukui-city.ed.jp/kawani-j/"
       },
       "福井市立成和中学校" : {
@@ -248,6 +260,7 @@
          "location_zipcode" : "910-0853",
          "owner_type" : "市立",
          "short_name" : "成和中学校",
+         "sort_name" : "ふくいしりつせいわ",
          "url" : "http://www.fukui-city.ed.jp/seiwa-j/"
       },
       "福井市立明倫中学校" : {
@@ -256,6 +269,7 @@
          "location_zipcode" : "918-8105",
          "owner_type" : "市立",
          "short_name" : "明倫中学校",
+         "sort_name" : "ふくいしりつめいりん",
          "url" : "http://www.fukui-city.ed.jp/meirin-j/"
       },
       "福井市立明道中学校" : {
@@ -264,6 +278,7 @@
          "location_zipcode" : "910-0017",
          "owner_type" : "市立",
          "short_name" : "明道中学校",
+         "sort_name" : "ふくいしりつめいとう",
          "url" : "http://www.fukui-city.ed.jp/meido-j/"
       },
       "福井市立棗中学校" : {
@@ -277,6 +292,7 @@
          "location_zipcode" : "910-0134",
          "owner_type" : "市立",
          "short_name" : "森田中学校",
+         "sort_name" : "ふくいしりつもりた",
          "url" : "http://www.fukui-city.ed.jp/morita-j/"
       },
       "福井市立殿下中学校" : {
@@ -290,6 +306,7 @@
          "location_zipcode" : "910-3623",
          "owner_type" : "市立",
          "short_name" : "清水中学校",
+         "sort_name" : "ふくいしりつしみす",
          "url" : "http://www.fukui-city.ed.jp/shimizu-j/"
       },
       "福井市立灯明寺中学校" : {
@@ -298,6 +315,7 @@
          "location_zipcode" : "910-0062",
          "owner_type" : "市立",
          "short_name" : "灯明寺中学校",
+         "sort_name" : "ふくいしりつとうみようし",
          "url" : "http://www.fukui-city.ed.jp/toumyou-j/"
       },
       "福井市立社中学校" : {
@@ -306,6 +324,7 @@
          "location_zipcode" : "918-8055",
          "owner_type" : "市立",
          "short_name" : "社中学校",
+         "sort_name" : "ふくいしりつやしろ",
          "url" : "http://www.fukui-city.ed.jp/yashiro-j/"
       },
       "福井市立美山中学校" : {
@@ -319,6 +338,7 @@
          "location_zipcode" : "918-8032",
          "owner_type" : "市立",
          "short_name" : "至民中学校",
+         "sort_name" : "ふくいしりつしみん",
          "url" : "http://www.fukui-city.ed.jp/shimin-j/"
       },
       "福井市立藤島中学校" : {
@@ -327,6 +347,7 @@
          "location_zipcode" : "910-0065",
          "owner_type" : "市立",
          "short_name" : "藤島中学校",
+         "sort_name" : "ふくいしりつふししま",
          "url" : "http://www.fukui-city.ed.jp/fujishi-j/"
       },
       "福井市立越廼中学校" : {
@@ -340,6 +361,7 @@
          "location_zipcode" : "918-8152",
          "owner_type" : "市立",
          "short_name" : "足羽中学校",
+         "sort_name" : "ふくいしりつあすわ",
          "url" : "http://www.fukui-city.ed.jp/asuwa-j/"
       },
       "福井市立足羽第一中学校" : {
@@ -348,6 +370,7 @@
          "location_zipcode" : "910-2177",
          "owner_type" : "市立",
          "short_name" : "足羽第一中学校",
+         "sort_name" : "ふくいしりつあすわたいいち",
          "url" : "http://www.fukui-city.ed.jp/asuichi-j/"
       },
       "福井市立進明中学校" : {
@@ -356,6 +379,7 @@
          "location_zipcode" : "910-0003",
          "owner_type" : "市立",
          "short_name" : "進明中学校",
+         "sort_name" : "ふくいしりつしんめい",
          "url" : "http://www.city.fukui.fukui.jp/gakkou/jun/sinmei/"
       },
       "福井市立鷹巣中学校" : {
@@ -446,7 +470,8 @@
          "location_area" : "大飯郡高浜町",
          "location_zipcode" : "919-2225",
          "owner_type" : "町立",
-         "short_name" : "高浜中学校"
+         "short_name" : "高浜中学校",
+         "sort_name" : "たかはまちようりつたかはまちゆうかつこう"
       },
       "鯖江市中央中学校" : {
          "location_area" : "鯖江市",
@@ -461,6 +486,7 @@
          "location_area" : "鯖江市",
          "location_zipcode" : "916-0028",
          "owner_type" : "公立",
+         "sort_name" : "さはえしりつさはえちゆうかつこう",
          "url" : "http://www.sabae.ed.jp/~jh-sabachu/"
       }
    }

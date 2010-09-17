@@ -1,11 +1,13 @@
 {
    "high_schools" : {
       "創世中等教育学校" : {
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "そうせいちゆうとうきよういくかつこう"
       },
       "群馬県立中央中等教育学校" : {
          "owner_type" : "県立",
-         "short_name" : "中央中等教育学校"
+         "short_name" : "中央中等教育学校",
+         "sort_name" : "くんまけんりつちゆうおうちゆうとうきよういくかつこう"
       }
    },
    "junior_high_schools" : {
@@ -26,6 +28,7 @@
          "location_zipcode" : "376-0304",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "みとりしりつあすまちゆう",
          "url" : "http://www.sunfield.ne.jp/~azumatch/"
       },
       "みどり市立笠懸中学校" : {
@@ -49,6 +52,7 @@
          "location_zipcode" : "379-1313",
          "owner_type" : "町立",
          "short_name" : "月夜野中学校",
+         "sort_name" : "みなかみちようりつつきよのちゆう",
          "url" : "http://www.edu.town.minakami.gunma.jp/~tsukiyono-jhs/"
       },
       "みなかみ町立水上中学校" : {
@@ -145,6 +149,7 @@
          "location" : "群馬県前橋市小屋原町1115-3",
          "location_zipcode" : "379-2185",
          "owner_type" : "私立",
+         "sort_name" : "きようあいかくえん",
          "url" : "http://www.js.kyoai.ac.jp/",
          "wikipedia_name" : "共愛学園中学校・高等学校"
       },
@@ -166,7 +171,8 @@
       "前橋市立大胡中学校" : {
          "location_area" : "前橋市",
          "owner_type" : "市立",
-         "short_name" : "大胡中学校"
+         "short_name" : "大胡中学校",
+         "sort_name" : "まえはししりつおおこちゆう"
       },
       "前橋市立宮城中学校" : {
          "location_area" : "前橋市",
@@ -214,12 +220,14 @@
       "前橋市立第七中学校" : {
          "location_area" : "前橋市",
          "owner_type" : "市立",
-         "short_name" : "第七中学校"
+         "short_name" : "第七中学校",
+         "sort_name" : "まえはししりつたい7ちゆう"
       },
       "前橋市立第三中学校" : {
          "location_area" : "前橋市",
          "owner_type" : "市立",
-         "short_name" : "第三中学校"
+         "short_name" : "第三中学校",
+         "sort_name" : "まえはししりつたい3ちゆう"
       },
       "前橋市立第二中学校" : {
          "location_area" : "前橋市",
@@ -287,6 +295,7 @@
          "location_zipcode" : "370-0518",
          "owner_type" : "町立",
          "short_name" : "北中学校",
+         "sort_name" : "おおいすみちようりつきたちゆう",
          "url" : "http://www.ooizumi-kita-j.ed.jp/"
       },
       "大泉町立南中学校" : {
@@ -295,6 +304,7 @@
          "location_zipcode" : "370-0523",
          "owner_type" : "町立",
          "short_name" : "南中学校",
+         "sort_name" : "おおいすみちようりつみなみちゆうかつこう",
          "url" : "http://www.ooizumi-minami-j.ed.jp/"
       },
       "大泉町立西中学校" : {
@@ -303,17 +313,20 @@
          "location_zipcode" : "370-0535",
          "owner_type" : "町立",
          "short_name" : "西中学校",
+         "sort_name" : "おおいすみちようりつにしちゆう",
          "url" : "http://www.ooizumi-nishi-j.ed.jp/"
       },
       "太田市立休泊中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "休泊中学校"
+         "short_name" : "休泊中学校",
+         "sort_name" : "おおたしりつきゆうはくちゆう"
       },
       "太田市立北中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "sort_name" : "おおたしりつきたちゆう"
       },
       "太田市立南中学校" : {
          "location_area" : "太田市",
@@ -337,27 +350,32 @@
       "太田市立宝泉中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "宝泉中学校"
+         "short_name" : "宝泉中学校",
+         "sort_name" : "おおたしりつほうせんちゆう"
       },
       "太田市立尾島中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "尾島中学校"
+         "short_name" : "尾島中学校",
+         "sort_name" : "おおたしりつおしまちゆう"
       },
       "太田市立強戸中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "強戸中学校"
+         "short_name" : "強戸中学校",
+         "sort_name" : "おおたしりつこうとちゆう"
       },
       "太田市立旭中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "旭中学校"
+         "short_name" : "旭中学校",
+         "sort_name" : "おおたしりつあさひちゆう"
       },
       "太田市立木崎中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "木崎中学校"
+         "short_name" : "木崎中学校",
+         "sort_name" : "おおたしりつきさきちゆう"
       },
       "太田市立東中学校" : {
          "location" : "群馬県太田市飯塚町80番地",
@@ -366,6 +384,7 @@
          "location_zipcode" : "373-0817",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "おおたしりつひかしちゆう",
          "url" : "http://www.ota-gnm.ed.jp/higashi-j/higashi-j/"
       },
       "太田市立毛里田中学校" : {
@@ -374,17 +393,20 @@
          "location_zipcode" : "373-0016",
          "owner_type" : "市立",
          "short_name" : "毛里田中学校",
+         "sort_name" : "おおたしりつもりたちゆう",
          "url" : "http://www.ota.ed.jp/morita-j/"
       },
       "太田市立生品中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "生品中学校"
+         "short_name" : "生品中学校",
+         "sort_name" : "おおたしりついくしなちゆう"
       },
       "太田市立綿打中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "綿打中学校"
+         "short_name" : "綿打中学校",
+         "sort_name" : "おおたしりつわたうちちゆう"
       },
       "太田市立藪塚本町中学校" : {
          "location" : "群馬県太田市大原町695",
@@ -398,7 +420,8 @@
       "太田市立西中学校" : {
          "location_area" : "太田市",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "sort_name" : "おおたしりつにしちゆう"
       },
       "嬬恋村立東中学校" : {
          "location_area" : "吾妻郡嬬恋村",
@@ -479,6 +502,7 @@
          "location" : "群馬県安中市安中3702",
          "location_zipcode" : "379-0116",
          "owner_type" : "私立",
+         "sort_name" : "にいしまかくえん",
          "url" : "http://namesv.neesima.ac.jp/",
          "wikipedia_name" : "新島学園中学校・高等学校"
       },
@@ -520,12 +544,14 @@
       "板倉町立板倉中学校" : {
          "location_area" : "邑楽郡板倉町",
          "owner_type" : "町立",
-         "short_name" : "板倉中学校"
+         "short_name" : "板倉中学校",
+         "sort_name" : "いたくらちようりついたくらちゆう"
       },
       "桐生市立中央中学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "中央中学校"
+         "short_name" : "中央中学校",
+         "sort_name" : "きりゆうしりつちゆうおうちゆう"
       },
       "桐生市立境野中学校" : {
          "location_area" : "桐生市",
@@ -560,7 +586,8 @@
       "桐生市立清流中学校" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "清流中学校"
+         "short_name" : "清流中学校",
+         "sort_name" : "きりゆうしりつせいりゆうちゆう"
       },
       "桐生市立相生中学校" : {
          "location_area" : "桐生市",
@@ -582,13 +609,15 @@
          "location_wikipedia_latlon" : "|36|24|26.4|N|139|19|55.01|E|",
          "location_zipcode" : "376-0023",
          "owner_type" : "私立",
+         "sort_name" : "しゆとく",
          "url" : "http://www.jutoku.ed.jp/junior/index.htm",
          "wikipedia_name" : "樹徳中学校・高等学校"
       },
       "沼田市立利根中学校" : {
          "location_area" : "沼田市",
          "owner_type" : "市立",
-         "short_name" : "利根中学校"
+         "short_name" : "利根中学校",
+         "sort_name" : "ぬまたしりつとねちゆう"
       },
       "沼田市立多那中学校" : {
          "location_area" : "沼田市",
@@ -606,6 +635,7 @@
          "location_zipcode" : "378-0053",
          "owner_type" : "市立",
          "short_name" : "沼田中学校",
+         "sort_name" : "ぬまたしりつぬまたちゆう",
          "url" : "http://www.n-numata-jhs.gsn.ed.jp/"
       },
       "沼田市立沼田南中学校" : {
@@ -720,6 +750,7 @@
          "location" : "群馬県吾妻郡中之条町大字入山1-1",
          "location_zipcode" : "377-1701",
          "owner_type" : "私立",
+         "sort_name" : "しらねかいせん",
          "url" : "http://www.shirane.ac.jp/",
          "wikipedia_name" : "白根開善学校中等部・高等部"
       },
@@ -732,12 +763,14 @@
          "location" : "群馬県前橋市上沖町612番地",
          "location_zipcode" : "371-0052",
          "owner_type" : "国立",
+         "sort_name" : "くんまたいかくきよういくかくふふそくちゆう",
          "url" : "http://www.fuzoku-jhs.menet.ed.jp//"
       },
       "草津町立草津中学校" : {
          "location_area" : "吾妻郡草津町",
          "owner_type" : "町立",
-         "short_name" : "草津中学校"
+         "short_name" : "草津中学校",
+         "sort_name" : "くさつちようりつくさつちゆう"
       },
       "藤岡市立北中学校" : {
          "location_area" : "藤岡市",
@@ -770,6 +803,7 @@
          "location_zipcode" : "370-0603",
          "owner_type" : "町立",
          "short_name" : "邑楽中学校",
+         "sort_name" : "おうらちようりつおうらちゆう",
          "url" : "http://www9.ocn.ne.jp/~orajh/"
       },
       "邑楽町立邑楽南中学校" : {
@@ -778,6 +812,7 @@
          "location_zipcode" : "370-0615",
          "owner_type" : "町立",
          "short_name" : "邑楽南中学校",
+         "sort_name" : "おうらちようりつおうらみなみちゆう",
          "url" : "http://www10.ocn.ne.jp/~oramijh/"
       },
       "長野原町立東中学校" : {
@@ -798,7 +833,8 @@
       "館林市立第一中学校" : {
          "location_area" : "館林市",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "たてはやししりつたい1ちゆう"
       },
       "館林市立第三中学校" : {
          "location" : "群馬県館林市青柳町1751番地の78",
@@ -806,6 +842,7 @@
          "location_zipcode" : "374-0035",
          "owner_type" : "市立",
          "short_name" : "第三中学校",
+         "sort_name" : "たてはやししりつたい3ちゆう",
          "url" : "http://www.city.tatebayashi.gunma.jp/school/chu.daisan/"
       },
       "館林市立第二中学校" : {

@@ -53,7 +53,8 @@
       "むつ市立大湊中学校" : {
          "location_area" : "むつ市",
          "owner_type" : "市立",
-         "short_name" : "大湊中学校"
+         "short_name" : "大湊中学校",
+         "sort_name" : "むつしりつおおみなとちゆう"
       },
       "むつ市立大畑中学校" : {
          "location_area" : "むつ市",
@@ -117,6 +118,7 @@
          "owner_type" : "市立",
          "school_area" : "松原町、東町3・4丁目、泉町、美野原、東岡三沢",
          "short_name" : "堀口中学校",
+         "sort_name" : "みさわしりつほりくちちゆう",
          "url" : "http://www17.ocn.ne.jp/~hori/"
       },
       "三沢市立天ヶ森中学校" : {
@@ -130,7 +132,8 @@
          "location_zipcode" : "033-0037",
          "owner_type" : "市立",
          "school_area" : "花園町、中央町、桜町、南町",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "みさわしりつたい1ちゆう"
       },
       "三沢市立第三中学校" : {
          "location_area" : "三沢市",
@@ -143,7 +146,8 @@
          "location_zipcode" : "033-0022",
          "owner_type" : "市立",
          "school_area" : "南山1～4丁目、大津1～4丁目、四川目1～6丁目",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "sort_name" : "みさわしりつたい2ちゆう"
       },
       "三沢市立第五中学校" : {
          "location" : "三沢市字古間木山141-111",
@@ -151,7 +155,8 @@
          "location_zipcode" : "033-0044",
          "owner_type" : "市立",
          "school_area" : "大町1～3丁目、本町1～4丁目、千代田町1～5丁目",
-         "short_name" : "第五中学校"
+         "short_name" : "第五中学校",
+         "sort_name" : "みさわしりつたい5ちゆう"
       },
       "中泊町立中里中学校" : {
          "location_area" : "北津軽郡中泊町",
@@ -183,7 +188,8 @@
          "location_area" : "五所川原市",
          "location_zipcode" : "037-0006",
          "owner_type" : "市立",
-         "short_name" : "五所川原第一中学校"
+         "short_name" : "五所川原第一中学校",
+         "sort_name" : "こしよかわらしりつこしよかわらたいいちちゆう"
       },
       "五所川原市立五所川原第三中学校" : {
          "location_area" : "五所川原市",
@@ -253,7 +259,8 @@
       "八戸市立下長中学校" : {
          "location_area" : "八戸市",
          "owner_type" : "市立",
-         "short_name" : "下長中学校"
+         "short_name" : "下長中学校",
+         "sort_name" : "はちのへしりつしもなかちゆう"
       },
       "八戸市立中沢中学校" : {
          "location_area" : "八戸市",
@@ -263,7 +270,8 @@
       "八戸市立北稜中学校" : {
          "location_area" : "八戸市",
          "owner_type" : "市立",
-         "short_name" : "北稜中学校"
+         "short_name" : "北稜中学校",
+         "sort_name" : "はちのへしりつほくりようちゆう"
       },
       "八戸市立南浜中学校" : {
          "location_area" : "八戸市",
@@ -311,6 +319,7 @@
          "location_zipcode" : "039-1166",
          "owner_type" : "市立",
          "short_name" : "根城中学校",
+         "sort_name" : "はちのへしりつねしようちゆう",
          "url" : "http://www.hachinohe.ed.jp/nejyo_j/"
       },
       "八戸市立江陽中学校" : {
@@ -339,6 +348,7 @@
          "location_zipcode" : "031-0833",
          "owner_type" : "市立",
          "short_name" : "白銀南中学校",
+         "sort_name" : "はちのへしりつしろかねみなみちゆう",
          "url" : "http://www.infoaomori.ne.jp/~szk1060/minami.html"
       },
       "八戸市立第一中学校" : {
@@ -347,6 +357,7 @@
          "location_zipcode" : "031-0003",
          "owner_type" : "市立",
          "short_name" : "第一中学校",
+         "sort_name" : "はちのへしりつたい1ちゆう",
          "url" : "http://www.hachinohe.ed.jp/daiich_j/"
       },
       "八戸市立第三中学校" : {
@@ -384,6 +395,7 @@
          "location_wikipedia_latlon" : "|40|29|26.0|N|141|26|56.8|E|",
          "location_zipcode" : "039-1104",
          "owner_type" : "私立",
+         "sort_name" : "はちのへせいうるすらかくいん",
          "url" : "http://www.ursula.ac.jp/",
          "wikipedia_name" : "八戸聖ウルスラ学院中学校・高等学校"
       },
@@ -425,7 +437,8 @@
       "十和田市立三本木中学校" : {
          "location_area" : "十和田市",
          "owner_type" : "市立",
-         "short_name" : "三本木中学校"
+         "short_name" : "三本木中学校",
+         "sort_name" : "とわたしりつさんほんきちゆう"
       },
       "十和田市立切田中学校" : {
          "location_area" : "十和田市",
@@ -465,7 +478,8 @@
       "南部町立南部中学校" : {
          "location_area" : "三戸郡南部町",
          "owner_type" : "町立",
-         "short_name" : "南部中学校"
+         "short_name" : "南部中学校",
+         "sort_name" : "なんふちようりつなんふちゆうかつこう"
       },
       "南部町立名川中学校" : {
          "location_area" : "三戸郡南部町",
@@ -510,7 +524,8 @@
       "大鰐町立大鰐中学校" : {
          "location_area" : "南津軽郡大鰐町",
          "owner_type" : "町立",
-         "short_name" : "大鰐中学校"
+         "short_name" : "大鰐中学校",
+         "sort_name" : "おおわにちようりつおおわにちゆう"
       },
       "平内町立小湊中学校" : {
          "location_area" : "東津軽郡平内町",
@@ -558,13 +573,15 @@
          "short_name" : "葛川中学校"
       },
       "弘前大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ひろさきたいかくきよういくかくふふそくちゆう"
       },
       "弘前学院聖愛中学校" : {
          "location" : "青森県弘前市大字原ヶ平字山元112-21",
          "location_wikipedia_latlon" : "|40|34|17.8|N|140|28|13.4|E|",
          "location_zipcode" : "036-8144",
          "owner_type" : "私立",
+         "sort_name" : "ひろさきかくいんせいあい",
          "url" : "http://www.seiai.ed.jp/",
          "wikipedia_name" : "弘前学院聖愛中学高等学校"
       },
@@ -603,7 +620,8 @@
       "弘前市立津軽中学校" : {
          "location_area" : "弘前市",
          "owner_type" : "市立",
-         "short_name" : "津軽中学校"
+         "short_name" : "津軽中学校",
+         "sort_name" : "ひろさきしりつつかるちゆう"
       },
       "弘前市立相馬中学校" : {
          "location_area" : "弘前市",
@@ -777,6 +795,7 @@
          "location_wikipedia_latlon" : "|40|48|14.0|N|140|44|57.5|E|",
          "location_zipcode" : "030-8520",
          "owner_type" : "私立",
+         "sort_name" : "あおもりやまたちゆうこう",
          "url" : "http://www.aomori-yamada-hs.ac.jp/",
          "wikipedia_name" : "青森山田中学高等学校"
       },
@@ -785,47 +804,54 @@
          "location_area" : "青森市",
          "location_zipcode" : "038-0031",
          "owner_type" : "市立",
-         "short_name" : "三内中学校"
+         "short_name" : "三内中学校",
+         "sort_name" : "あおもりしりつさんないちゆう"
       },
       "青森市立佃中学校" : {
          "location" : "青森県青森市中佃二丁目7-1",
          "location_area" : "青森市",
          "location_zipcode" : "030-0963",
          "owner_type" : "市立",
-         "short_name" : "佃中学校"
+         "short_name" : "佃中学校",
+         "sort_name" : "あおもりしりつつくたちゆう"
       },
       "青森市立北中学校" : {
          "location" : "青森県青森市大字清水字浜元135の1",
          "location_area" : "青森市",
          "location_zipcode" : "038-0052",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "sort_name" : "あおもりしりつきたちゆう"
       },
       "青森市立南中学校" : {
          "location" : "青森県青森市緑二丁目6-1",
          "location_area" : "青森市",
          "location_zipcode" : "030-0845",
          "owner_type" : "市立",
-         "short_name" : "南中学校"
+         "short_name" : "南中学校",
+         "sort_name" : "あおもりしりつみなみちゆう"
       },
       "青森市立古川中学校" : {
          "location" : "青森県青森市久須志二丁目9の1",
          "location_area" : "青森市",
          "location_zipcode" : "038-0013",
          "owner_type" : "市立",
-         "short_name" : "古川中学校"
+         "short_name" : "古川中学校",
+         "sort_name" : "あおもりしりつふるかわちゆう"
       },
       "青森市立戸山中学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "戸山中学校"
+         "short_name" : "戸山中学校",
+         "sort_name" : "あおもりしりつとやまちゆう"
       },
       "青森市立新城中学校" : {
          "location" : "青森県青森市大字新城字平岡160",
          "location_area" : "青森市",
          "location_zipcode" : "038-0042",
          "owner_type" : "市立",
-         "short_name" : "新城中学校"
+         "short_name" : "新城中学校",
+         "sort_name" : "あおもりしりつしんしようちゆう"
       },
       "青森市立東中学校" : {
          "location" : "青森県青森市八幡林字熊谷28",
@@ -833,100 +859,115 @@
          "location_wikipedia_latlon" : "|40|50|06|N|140|49|05|E|",
          "location_zipcode" : "030-0923",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "sort_name" : "あおもりしりつひかしちゆう"
       },
       "青森市立横内中学校" : {
          "location" : "青森県青森市大字四ツ石字里見64-6",
          "location_area" : "青森市",
          "location_zipcode" : "030-0125",
          "owner_type" : "市立",
-         "short_name" : "横内中学校"
+         "short_name" : "横内中学校",
+         "sort_name" : "あおもりしりつよこうちちゆう"
       },
       "青森市立沖館中学校" : {
          "location" : "青森県青森市沖館五丁目19の1",
          "location_area" : "青森市",
          "location_zipcode" : "038-0002",
          "owner_type" : "市立",
-         "short_name" : "沖館中学校"
+         "short_name" : "沖館中学校",
+         "sort_name" : "あおもりしりつおきたてちゆう"
       },
       "青森市立油川中学校" : {
          "location" : "青森県青森市大字羽白字沢田471",
          "location_area" : "青森市",
          "location_zipcode" : "038-0058",
          "owner_type" : "市立",
-         "short_name" : "油川中学校"
+         "short_name" : "油川中学校",
+         "sort_name" : "あおもりしりつあふらかわちゆう"
       },
       "青森市立浅虫中学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "浅虫中学校"
+         "short_name" : "浅虫中学校",
+         "sort_name" : "あおもりしりつあさむしちゆう"
       },
       "青森市立浦町中学校" : {
          "location" : "青森県青森市勝田二丁目25番12号",
          "location_area" : "青森市",
          "location_zipcode" : "030-0821",
          "owner_type" : "市立",
-         "short_name" : "浦町中学校"
+         "short_name" : "浦町中学校",
+         "sort_name" : "あおもりしりつうらまちちゆう"
       },
       "青森市立浪岡中学校" : {
          "location" : "青森県青森市浪岡大字浪岡字稲盛1",
          "location_area" : "青森市",
          "location_zipcode" : "038-1311",
          "owner_type" : "市立",
-         "short_name" : "浪岡中学校"
+         "short_name" : "浪岡中学校",
+         "sort_name" : "あおもりしりつなみおかちゆう"
       },
       "青森市立浪打中学校" : {
          "location" : "青森県青森市合浦一丁目11の10",
          "location_area" : "青森市",
          "location_zipcode" : "030-0902",
          "owner_type" : "市立",
-         "short_name" : "浪打中学校"
+         "short_name" : "浪打中学校",
+         "sort_name" : "あおもりしりつなみうちちゆう"
       },
       "青森市立甲田中学校" : {
          "location" : "青森県青森市金沢三丁目11番1号",
          "location_area" : "青森市",
          "location_zipcode" : "030-0853",
          "owner_type" : "市立",
-         "short_name" : "甲田中学校"
+         "short_name" : "甲田中学校",
+         "sort_name" : "あおもりしりつこうたちゆう"
       },
       "青森市立筒井中学校" : {
          "location" : "青森県青森市桜川八丁目15番1号",
          "location_area" : "青森市",
          "location_zipcode" : "030-0945",
          "owner_type" : "市立",
-         "short_name" : "筒井中学校"
+         "short_name" : "筒井中学校",
+         "sort_name" : "あおもりしりつつついちゆう"
       },
       "青森市立荒川中学校" : {
          "location" : "青森県青森市大字金浜字稲田107",
          "location_area" : "青森市",
          "location_zipcode" : "030-0145",
          "owner_type" : "市立",
-         "short_name" : "荒川中学校"
+         "short_name" : "荒川中学校",
+         "sort_name" : "あおもりしりつあらかわちゆう"
       },
       "青森市立西中学校" : {
          "location" : "青森県青森市大字浪館字志田36",
          "location_area" : "青森市",
          "location_zipcode" : "038-0022",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "sort_name" : "あおもりしりつにしちゆう"
       },
       "青森市立造道中学校" : {
          "location" : "青森県青森市岡造道二丁目14番1号",
          "location_area" : "青森市",
          "location_zipcode" : "030-0914",
          "owner_type" : "市立",
-         "short_name" : "造道中学校"
+         "short_name" : "造道中学校",
+         "sort_name" : "あおもりしりつつくりみちちゆう"
       },
       "青森市立高田中学校" : {
          "location_area" : "青森市",
          "owner_type" : "市立",
-         "short_name" : "高田中学校"
+         "short_name" : "高田中学校",
+         "sort_name" : "あおもりしりつたかた"
       },
       "青森明の星中学校" : {
          "location" : "青森県青森市浪打二丁目6番32号",
          "location_wikipedia_latlon" : "|40|49|27.2|N|140|46|53.6|E|",
          "location_zipcode" : "030-0961",
          "owner_type" : "私立",
+         "sort_name" : "あおもりあけのほしちゆうこう",
          "url" : "http://www.aomoriakenohoshi.ed.jp/",
          "wikipedia_name" : "青森明の星中学・高等学校"
       },

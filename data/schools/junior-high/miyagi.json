@@ -3,11 +3,13 @@
       "仙台市立仙台青陵中等教育学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "仙台青陵中等教育学校"
+         "short_name" : "仙台青陵中等教育学校",
+         "sort_name" : "せんたいしりつせんたいせいりよう"
       },
       "秀光中等教育学校" : {
          "location_wikipedia_latlon" : "|38|17|5.3|N|140|59|6.4|E|",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "しゆうこうちゆうとうきよういくかつこう"
       }
    },
    "junior_high_schools" : {
@@ -22,6 +24,7 @@
          "location_zipcode" : "985-0802",
          "owner_type" : "町立",
          "short_name" : "七ヶ浜中学校",
+         "sort_name" : "しちかはまちようりつしちかはまちゆうかつこう",
          "url" : "http://www.sitigahama.myswan.ne.jp/s_jhs/"
       },
       "七ヶ浜町立向洋中学校" : {
@@ -98,7 +101,8 @@
       "仙台市立中山中学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "中山中学校"
+         "short_name" : "中山中学校",
+         "sort_name" : "なかやまちゆう"
       },
       "仙台市立中田中学校" : {
          "location" : "宮城県仙台市太白区中田5丁目15の1",
@@ -137,6 +141,7 @@
          "location_zipcode" : "981-3223",
          "owner_type" : "市立",
          "short_name" : "住吉台中学校",
+         "sort_name" : "せんたいしりつすみよしたいちゆう",
          "url" : "http://www2.sendai-c.ed.jp/~sumiyosi/"
       },
       "仙台市立八乙女中学校" : {
@@ -145,6 +150,7 @@
          "location_zipcode" : "981-8004",
          "owner_type" : "市立",
          "short_name" : "八乙女中学校",
+         "sort_name" : "せんたいしりつやおとめちゆう",
          "url" : "http://www.sendai-c.ed.jp/~yaotomet/"
       },
       "仙台市立八木山中学校" : {
@@ -153,6 +159,7 @@
          "location_zipcode" : "982-0801",
          "owner_type" : "市立",
          "short_name" : "八木山中学校",
+         "sort_name" : "せんたいしりつやきやまちゆう",
          "url" : "http://www.sendai-c.ed.jp/~yagiyama/yagiyamaindex.htm"
       },
       "仙台市立八軒中学校" : {
@@ -171,6 +178,7 @@
          "location_zipcode" : "981-3122",
          "owner_type" : "市立",
          "short_name" : "加茂中学校",
+         "sort_name" : "せんたいしりつかもちゆう",
          "url" : "http://www.sendai-c.ed.jp/~kamo-jhs/"
       },
       "仙台市立北仙台中学校" : {
@@ -179,6 +187,7 @@
          "location_zipcode" : "981-0923",
          "owner_type" : "市立",
          "short_name" : "北仙台中学校",
+         "sort_name" : "せんたいしりつきたせんたいちゆう",
          "url" : "http://www2.sendai-c.ed.jp/~kitachu/index.html"
       },
       "仙台市立南中山中学校" : {
@@ -210,7 +219,8 @@
       "仙台市立南小泉中学校" : {
          "location_area" : "仙台市若林区",
          "owner_type" : "市立",
-         "short_name" : "南小泉中学校"
+         "short_name" : "南小泉中学校",
+         "sort_name" : "せんたいしりつみなみこいすみちゆう"
       },
       "仙台市立台原中学校" : {
          "location_area" : "仙台市青葉区",
@@ -231,6 +241,7 @@
          "location_zipcode" : "981-3117",
          "owner_type" : "市立",
          "short_name" : "向陽台中学校",
+         "sort_name" : "せんたいしりつこうようたいちゆう",
          "url" : "http://www2.sendai-c.ed.jp/~koyodai/"
       },
       "仙台市立大沢中学校" : {
@@ -252,7 +263,8 @@
       "仙台市立富沢中学校" : {
          "location_area" : "仙台市太白区",
          "owner_type" : "市立",
-         "short_name" : "富沢中学校"
+         "short_name" : "富沢中学校",
+         "sort_name" : "せんたいしりつとみさわちゆう"
       },
       "仙台市立寺岡中学校" : {
          "location" : "宮城県仙台市泉区寺岡2丁目13-1",
@@ -260,6 +272,7 @@
          "location_zipcode" : "981-3204",
          "owner_type" : "市立",
          "short_name" : "寺岡中学校",
+         "sort_name" : "せんたいしりつてらおかちゆう",
          "url" : "http://www.sendai-c.ed.jp/~tera-jh/"
       },
       "仙台市立将監中学校" : {
@@ -268,6 +281,7 @@
          "location_zipcode" : "981-3132",
          "owner_type" : "市立",
          "short_name" : "将監中学校",
+         "sort_name" : "せんたいしりつしようけんちゆう",
          "url" : "http://www.sendai-c.ed.jp/~syogen/"
       },
       "仙台市立将監東中学校" : {
@@ -276,6 +290,7 @@
          "location_zipcode" : "981-3132",
          "owner_type" : "市立",
          "short_name" : "将監東中学校",
+         "sort_name" : "せんたいしりつしようけんひかしちゆう",
          "url" : "http://www.sendai-c.ed.jp/~syogen/"
       },
       "仙台市立山田中学校" : {
@@ -284,6 +299,7 @@
          "location_zipcode" : "982-0813",
          "owner_type" : "市立",
          "short_name" : "山田中学校",
+         "sort_name" : "せんたいしりつやまた",
          "url" : "http://www.sendai-c.ed.jp/~yamada/"
       },
       "仙台市立岩切中学校" : {
@@ -357,12 +373,14 @@
          "location_zipcode" : "981-3221",
          "owner_type" : "市立",
          "short_name" : "根白石中学校",
+         "sort_name" : "せんたいしりつねのしろいしちゆう",
          "url" : "http://www.sendai-c.ed.jp/~neshiro-jh/"
       },
       "仙台市立桜丘中学校" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "桜丘中学校"
+         "short_name" : "桜丘中学校",
+         "sort_name" : "せんたいしりつさくらかおかちゆう"
       },
       "仙台市立沖野中学校" : {
          "location_area" : "仙台市若林区",
@@ -388,6 +406,7 @@
          "location_zipcode" : "982-0243",
          "owner_type" : "市立",
          "short_name" : "秋保中学校",
+         "sort_name" : "せんたいしりつあきう",
          "url" : "http://www.sendai-c.ed.jp/~akiu-jhs/index.html"
       },
       "仙台市立第一中学校" : {
@@ -461,6 +480,7 @@
          "location_zipcode" : "981-3214",
          "owner_type" : "市立",
          "short_name" : "館中学校",
+         "sort_name" : "せんたいしりつやかたちゆう",
          "url" : "http://www.sendai-c.ed.jp/~yakatajt/"
       },
       "仙台市立高森中学校" : {
@@ -479,6 +499,7 @@
          "location_zipcode" : "981-3109",
          "owner_type" : "市立",
          "short_name" : "鶴が丘中学校",
+         "sort_name" : "せんたいしりつつるかおかちゆう",
          "url" : "http://www.sendai-c.ed.jp/~turu-jh/"
       },
       "仙台市立鶴谷中学校" : {
@@ -491,6 +512,7 @@
          "location_wikipedia_latlon" : "|38|20|51.0|N|140|50|8.1|E|",
          "location_zipcode" : "981-3205",
          "owner_type" : "私立",
+         "sort_name" : "せんたいしらゆりかくえん",
          "url" : "http://sendaishirayuri-high.net/www/index.html",
          "wikipedia_name" : "仙台白百合学園中学校・高等学校"
       },
@@ -499,21 +521,24 @@
          "location_area" : "宮城郡利府町",
          "location_zipcode" : "981-0122",
          "owner_type" : "町立",
-         "short_name" : "しらかし台中学校"
+         "short_name" : "しらかし台中学校",
+         "sort_name" : "りふちようりつしらかしたいちゆう"
       },
       "利府町立利府中学校" : {
          "location" : "宮城県宮城郡利府町森郷字古戸6番地",
          "location_area" : "宮城郡利府町",
          "location_zipcode" : "981-0122",
          "owner_type" : "町立",
-         "short_name" : "利府中学校"
+         "short_name" : "利府中学校",
+         "sort_name" : "りふちようりつりふちゆう"
       },
       "利府町立利府西中学校" : {
          "location" : "宮城県宮城郡利府町菅谷字新洞風17番地",
          "location_area" : "宮城郡利府町",
          "location_zipcode" : "981-0122",
          "owner_type" : "町立",
-         "short_name" : "利府西中学校"
+         "short_name" : "利府西中学校",
+         "sort_name" : "りふちようりつりふにしちゆう"
       },
       "加美町立中新田中学校" : {
          "location_area" : "加美郡加美町",
@@ -550,6 +575,7 @@
          "location_wikipedia_latlon" : "|38|34|11.7|N|140|57|54.5|E|",
          "location_zipcode" : "989-6143",
          "owner_type" : "私立",
+         "sort_name" : "ふるかわかくえん",
          "url" : "http://www.furukawa-gakuen.ac.jp/",
          "wikipedia_name" : "古川学園中学校・高等学校"
       },
@@ -627,12 +653,14 @@
       "大和町立大和中学校" : {
          "location_area" : "黒川郡大和町",
          "owner_type" : "町立",
-         "short_name" : "大和中学校"
+         "short_name" : "大和中学校",
+         "sort_name" : "たいわちようりつたいわちゆう"
       },
       "大和町立宮床中学校" : {
          "location_area" : "黒川郡大和町",
          "owner_type" : "町立",
-         "short_name" : "宮床中学校"
+         "short_name" : "宮床中学校",
+         "sort_name" : "たいわちようりつみやとこちゆう"
       },
       "大崎市立三本木中学校" : {
          "location_area" : "大崎市",
@@ -667,7 +695,8 @@
       "大崎市立岩出山中学校" : {
          "location_area" : "大崎市",
          "owner_type" : "市立",
-         "short_name" : "岩出山中学校"
+         "short_name" : "岩出山中学校",
+         "sort_name" : "おおさきしりついわてやまちゆうかつこう"
       },
       "大崎市立松山中学校" : {
          "location_area" : "大崎市",
@@ -723,6 +752,7 @@
          "location" : "宮城県仙台市青葉区桜ヶ丘九丁目1番1号",
          "location_zipcode" : "981-8557",
          "owner_type" : "私立",
+         "sort_name" : "みやきかくいん",
          "url" : "http://www.mgu.ac.jp/home",
          "wikipedia_name" : "宮城学院中学校・高等学校"
       },
@@ -730,6 +760,7 @@
          "location" : "宮城県仙台市青葉区上杉六丁目4番1号",
          "location_zipcode" : "980-0011",
          "owner_type" : "国立",
+         "sort_name" : "みやききよういくたいかくふそくちゆう",
          "url" : "http://fu-cyuu.miyakyo-u.ac.jp/"
       },
       "宮城県仙台二華中学校" : {
@@ -738,6 +769,7 @@
          "location_zipcode" : "984-0052",
          "owner_type" : "県立",
          "short_name" : "仙台二華中学校",
+         "sort_name" : "みやきけんたいせんたいにか",
          "url" : "http://www.nika.myswan.ne.jp/",
          "wikipedia_name" : "宮城県仙台二華中学校・高等学校"
       },
@@ -749,7 +781,8 @@
       "富谷町立富谷中学校" : {
          "location_area" : "黒川郡富谷町",
          "owner_type" : "町立",
-         "short_name" : "富谷中学校"
+         "short_name" : "富谷中学校",
+         "sort_name" : "とみやちようりつとみや"
       },
       "富谷町立富谷第二中学校" : {
          "location_area" : "黒川郡富谷町",
@@ -776,6 +809,7 @@
          "location_wikipedia_latlon" : "|38|16|3.2|N|140|51|22.9|E|",
          "location_zipcode" : "980-0873",
          "owner_type" : "私立",
+         "sort_name" : "しようけいかくいんちゆうこう",
          "url" : "http://www.shokei.ed.jp/index.cfm/1.html",
          "wikipedia_name" : "尚絅学院中学校・高等学校"
       },
@@ -835,6 +869,7 @@
          "location_wikipedia_latlon" : "|38|16|35.8|N|140|56|36.5|E|",
          "location_zipcode" : "983-8565",
          "owner_type" : "私立",
+         "sort_name" : "とうほくかくいんちゆうかつこうこうとうかつこう",
          "url" : "http://www.jhs.tohoku-gakuin.ac.jp/",
          "wikipedia_name" : "東北学院中学校・高等学校"
       },
@@ -863,7 +898,8 @@
          "location_area" : "宮城郡松島町",
          "location_zipcode" : "981-0215",
          "owner_type" : "町立",
-         "short_name" : "松島中学校"
+         "short_name" : "松島中学校",
+         "sort_name" : "まつしまちようりつまつしまちゆう"
       },
       "柴田町立槻木中学校" : {
          "location_area" : "柴田郡柴田町",
@@ -965,7 +1001,8 @@
          "location_area" : "気仙沼市",
          "location_zipcode" : "988-0141",
          "owner_type" : "市立",
-         "short_name" : "条南中学校"
+         "short_name" : "条南中学校",
+         "sort_name" : "けせんぬましりつしようなんちゆう"
       },
       "気仙沼市立松岩中学校" : {
          "location" : "宮城県気仙沼市松崎柳沢186",
@@ -1214,12 +1251,14 @@
       },
       "聖ウルスラ学院英智中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "せいうるすらかくいんえいち",
          "wikipedia_name" : "聖ウルスラ学院英智小学校・中学校"
       },
       "聖ドミニコ学院中学校" : {
          "location" : "宮城県仙台市青葉区角五郎2-2-14",
          "location_zipcode" : "980-0874",
          "owner_type" : "私立",
+         "sort_name" : "せいとみにこかくいんこうとうかつこう",
          "url" : "http://www.dominic.ac.jp/",
          "wikipedia_name" : "聖ドミニコ学院中学校・高等学校"
       },

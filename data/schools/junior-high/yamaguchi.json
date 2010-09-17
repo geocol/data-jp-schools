@@ -6,6 +6,7 @@
          "location_zipcode" : "750-0072",
          "owner_type" : "県立",
          "short_name" : "下関中等教育学校",
+         "sort_name" : "やまくちけんりつしものせきちゆうとう",
          "url" : "http://www.s-chuto.ysn21.jp/"
       }
    },
@@ -60,7 +61,8 @@
          "location_area" : "下関市",
          "location_zipcode" : "751-0846",
          "owner_type" : "市立",
-         "short_name" : "垢田中学校"
+         "short_name" : "垢田中学校",
+         "sort_name" : "しものせきしりつあかた"
       },
       "下関市立夢が丘中学校" : {
          "location_area" : "下関市",
@@ -163,6 +165,7 @@
          "location_zipcode" : "743-0101",
          "owner_type" : "市立",
          "short_name" : "大和中学校",
+         "sort_name" : "ひかりしりつやまとちゆうかつこう",
          "url" : "http://yamato-j.hikari-net.ed.jp/"
       },
       "光市立室積中学校" : {
@@ -181,6 +184,7 @@
          "location_zipcode" : "743-0047",
          "owner_type" : "市立",
          "short_name" : "浅江中学校",
+         "sort_name" : "ひかりしりつあさえちゆうかつこう",
          "url" : "http://asae-j.hikari-net.ed.jp/"
       },
       "周南市立中須中学校" : {
@@ -194,6 +198,7 @@
          "location_zipcode" : "745-0064",
          "owner_type" : "市立",
          "short_name" : "住吉中学校",
+         "sort_name" : "しゆうなんしりつすみよしちゆうかつこう",
          "url" : "http://www.shunan.ed.jp/sumiyoshichu/"
       },
       "周南市立周陽中学校" : {
@@ -216,7 +221,8 @@
          "location_area" : "周南市",
          "location_zipcode" : "745-0801",
          "owner_type" : "市立",
-         "short_name" : "太華中学校"
+         "short_name" : "太華中学校",
+         "sort_name" : "しゆうなんしりつたいかちゆうかつこう"
       },
       "周南市立富田中学校" : {
          "location_area" : "周南市",
@@ -229,6 +235,7 @@
          "location_zipcode" : "745-0851",
          "owner_type" : "市立",
          "short_name" : "岐陽中学校",
+         "sort_name" : "しゆうなんしりつきようちゆうかつこう",
          "url" : "http://www.shunan.ed.jp/kiyochu/"
       },
       "周南市立桜田中学校" : {
@@ -272,6 +279,7 @@
          "location_zipcode" : "745-0302",
          "owner_type" : "市立",
          "short_name" : "鹿野中学校",
+         "sort_name" : "しゅうなんしりつかのちゆうかつこう",
          "url" : "http://www.shunan.ed.jp/kanochu/"
       },
       "周南市立鼓南中学校" : {
@@ -325,12 +333,14 @@
          "location_zipcode" : "740-0061",
          "owner_type" : "町立",
          "short_name" : "和木中学校",
+         "sort_name" : "わきちようりつわきちゆうかつこう",
          "url" : "http://www.wakichu.com/"
       },
       "宇部フロンティア大学付属中学校" : {
          "location" : "山口県宇部市文京町1-25",
          "location_zipcode" : "755-0035",
          "owner_type" : "私立",
+         "sort_name" : "うへふろんていあたいかくふそくかかわ",
          "url" : "http://kagawa-h.ed.jp/index.html",
          "wikipedia_name" : "宇部フロンティア大学付属中学校・香川高等学校"
       },
@@ -345,6 +355,7 @@
          "location_zipcode" : "759-0206",
          "owner_type" : "市立",
          "short_name" : "厚南中学校",
+         "sort_name" : "うへしりつこうなんちゆうかつこう",
          "url" : "http://www.ube-ygc.ed.jp/knj/"
       },
       "宇部市立厚東中学校" : {
@@ -368,6 +379,7 @@
          "location_zipcode" : "755-0092",
          "owner_type" : "市立",
          "short_name" : "常盤中学校",
+         "sort_name" : "うへしりつときわちゆうかつこう",
          "url" : "http://www.ube-ygc.ed.jp/twj/"
       },
       "宇部市立東岐波中学校" : {
@@ -406,18 +418,21 @@
          "location_zipcode" : "759-0209",
          "owner_type" : "市立",
          "short_name" : "黒石中学校",
+         "sort_name" : "うへしりつくろいしちゆうかつこう",
          "url" : "http://www.ube-ygc.ed.jp/kij/"
       },
       "山口大学教育学部附属光中学校" : {
          "location" : "山口県光市室積八丁目4番1号",
          "location_zipcode" : "743-0007",
          "owner_type" : "国立",
+         "sort_name" : "やまくちたいかくきよういくかくふふそくひかりちゆう",
          "url" : "http://www.hikari-jhs.yamaguchi-u.ac.jp/"
       },
       "山口大学教育学部附属山口中学校" : {
          "location" : "山口県山口市白石一丁目9番1号",
          "location_zipcode" : "753-0070",
          "owner_type" : "国立",
+         "sort_name" : "やまくちたいかくきよういくかくふふそくやまくちちゆう",
          "url" : "http://www.ymg-jhs.yamaguchi-u.ac.jp/"
       },
       "山口市立二島中学校" : {
@@ -466,7 +481,8 @@
       "山口市立平川中学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "平川中学校"
+         "short_name" : "平川中学校",
+         "sort_name" : "やまくちしりつひらかわ"
       },
       "山口市立徳地中学校" : {
          "location_area" : "山口市",
@@ -476,7 +492,8 @@
       "山口市立湯田中学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "湯田中学校"
+         "short_name" : "湯田中学校",
+         "sort_name" : "やまくちしりゆた"
       },
       "山口市立潟上中学校" : {
          "location_area" : "山口市",
@@ -511,7 +528,8 @@
       "山口市立鴻南中学校" : {
          "location_area" : "山口市",
          "owner_type" : "市立",
-         "short_name" : "鴻南中学校"
+         "short_name" : "鴻南中学校",
+         "sort_name" : "やまくちしりつこうなん"
       },
       "山口県立高森みどり中学校" : {
          "location" : "山口県岩国市玖珂町千束1253番地",
@@ -519,6 +537,7 @@
          "location_zipcode" : "742-0333",
          "owner_type" : "県立",
          "short_name" : "高森みどり中学校",
+         "sort_name" : "やまくちけんりつたかもりみとりちゆうかつこうたかもりこうとうかつこう",
          "url" : "http://www.takamori-h.ysn21.jp/",
          "wikipedia_name" : "山口県立高森みどり中学校・高森高等学校"
       },
@@ -568,6 +587,7 @@
          "location_zipcode" : "741-0061",
          "owner_type" : "市立",
          "short_name" : "岩国中学校",
+         "sort_name" : "いわくにしりついわくにちゆうかつこう",
          "url" : "http://www.iwj.edu.city.iwakuni.yamaguchi.jp/"
       },
       "岩国市立岩国西中学校" : {
@@ -591,6 +611,7 @@
          "location_zipcode" : "741-0083",
          "owner_type" : "市立",
          "short_name" : "御庄中学校",
+         "sort_name" : "いわくにしりつみしようちゆうかつこう",
          "url" : "http://www.msj.edu.city.iwakuni.yamaguchi.jp/"
       },
       "岩国市立本郷中学校" : {
@@ -605,6 +626,7 @@
          "location_zipcode" : "742-0016",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "いわくにしりつひかしちゆうかつこう",
          "url" : "http://www.hgj.edu.city.iwakuni.yamaguchi.jp/"
       },
       "岩国市立柱島中学校" : {
@@ -618,6 +640,7 @@
          "location_zipcode" : "740-0036",
          "owner_type" : "市立",
          "short_name" : "灘中学校",
+         "sort_name" : "いわくにしりつなたちゆうかつこう",
          "url" : "http://www.ndj.edu.city.iwakuni.yamaguchi.jp/"
       },
       "岩国市立玖珂中学校" : {
@@ -664,6 +687,7 @@
          "location" : "山口県宇部市西琴芝2丁目12番18号",
          "location_zipcode" : "755-0035",
          "owner_type" : "私立",
+         "sort_name" : "けいしん",
          "url" : "http://www.keishin-ug.com/",
          "wikipedia_name" : "慶進中学校・高等学校"
       },
@@ -672,6 +696,7 @@
          "location_wikipedia_latlon" : "|34|3|41.4|N|131|49|3.9|E|",
          "location_zipcode" : "745-0874",
          "owner_type" : "私立",
+         "sort_name" : "やまくちけんさくらかおか",
          "url" : "http://www.y-sakuragaoka.ed.jp/",
          "wikipedia_name" : "山口県桜ケ丘高等学校・晃英館中学校"
       },
@@ -700,6 +725,7 @@
          "location_wikipedia_latlon" : "|33|57|27.9|N|130|56|2.5|E|",
          "location_zipcode" : "750-0019",
          "owner_type" : "私立",
+         "sort_name" : "はいこうしよかくいん",
          "url" : "http://www.baiko.ac.jp/highschool/index.htm",
          "wikipedia_name" : "梅光女学院中学校・高等学校"
       },
@@ -752,6 +778,7 @@
          "location" : "山口県萩市東田町15",
          "location_zipcode" : "758-0047",
          "owner_type" : "私立",
+         "sort_name" : "はきこうえんかくいん",
          "url" : "http://www.hagikoen.jp/002/",
          "wikipedia_name" : "萩光塩学院中学校・高等学校"
       },
@@ -835,6 +862,7 @@
          "location_wikipedia_latlon" : "|34|11|12.3|N|131|28|46.1|E|",
          "location_zipcode" : "753-0094",
          "owner_type" : "私立",
+         "sort_name" : "のたかくえん",
          "url" : "http://www.nodagakuen.ed.jp/s/",
          "wikipedia_name" : "野田学園中学校・高等学校"
       },
@@ -919,6 +947,7 @@
          "location_zipcode" : "747-0006",
          "owner_type" : "市立",
          "short_name" : "牟礼中学校",
+         "sort_name" : "ほうふしりつむれちゅうがっこう",
          "url" : "http://www.c-able.ne.jp/~hofumure/index.html/"
       },
       "防府市立華西中学校" : {
@@ -951,6 +980,7 @@
          "location_wikipedia_latlon" : "|34|3|7.2|N|131|29|13.7|E|",
          "location_zipcode" : "747-1292",
          "owner_type" : "私立",
+         "sort_name" : "たかかわかくえん",
          "url" : "http://www.takagawagakuen.com/",
          "wikipedia_name" : "高川学園高等学校・中学校"
       },
@@ -959,6 +989,7 @@
          "location_zipcode" : "740-0032",
          "owner_type" : "私立",
          "short_name" : "高水高校付属中学校",
+         "sort_name" : "たかみす",
          "url" : "http://www.takamizu-h.ed.jp/senior/",
          "wikipedia_name" : "高水高等学校・付属中学校"
       }

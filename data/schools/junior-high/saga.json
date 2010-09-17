@@ -3,7 +3,8 @@
       "みやき町立三根中学校" : {
          "location_area" : "三養基郡みやき町",
          "owner_type" : "町立",
-         "short_name" : "三根中学校"
+         "short_name" : "三根中学校",
+         "sort_name" : "みやきちようりつみねちゆうかつこう"
       },
       "みやき町立中原中学校" : {
          "location_area" : "三養基郡みやき町",
@@ -64,6 +65,7 @@
          "location" : "佐賀県佐賀市城内一丁目14番4号",
          "location_zipcode" : "840-0041",
          "owner_type" : "国立",
+         "sort_name" : "さかたいかくふんかきよういくかくふふそくちゆう",
          "url" : "http://www.fuchu.pd.saga-u.ac.jp/"
       },
       "佐賀市立三瀬中学校" : {
@@ -79,7 +81,8 @@
       "佐賀市立城北中学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "城北中学校"
+         "short_name" : "城北中学校",
+         "sort_name" : "さかしりつしようほくちゆうかつこう"
       },
       "佐賀市立城南中学校" : {
          "location" : "佐賀県佐賀市南佐賀1丁目20番1号",
@@ -87,6 +90,7 @@
          "location_zipcode" : "840-0016",
          "owner_type" : "市立",
          "short_name" : "城南中学校",
+         "sort_name" : "さかしりつしようなんちゆうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10152/index.html"
       },
       "佐賀市立城東中学校" : {
@@ -112,7 +116,8 @@
       "佐賀市立川副中学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "川副中学校"
+         "short_name" : "川副中学校",
+         "sort_name" : "さかしりつかわそえちゆうかつこう"
       },
       "佐賀市立思斉中学校" : {
          "location_area" : "佐賀市",
@@ -125,6 +130,7 @@
          "location_zipcode" : "840-0814",
          "owner_type" : "市立",
          "short_name" : "成章中学校",
+         "sort_name" : "さかしりつせいしようちゆうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10151/"
       },
       "佐賀市立昭栄中学校" : {
@@ -160,13 +166,15 @@
       "佐賀市立鍋島中学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "市立",
-         "short_name" : "鍋島中学校"
+         "short_name" : "鍋島中学校",
+         "sort_name" : "さかしりつなへしまちゆうかつこう"
       },
       "佐賀清和中学校" : {
          "location" : "佐賀県佐賀市与賀町78番地",
          "location_area" : "佐賀市",
          "location_zipcode" : "840-0047",
          "owner_type" : "私立",
+         "sort_name" : "さかせいわ",
          "url" : "http://www.sagaseiwa.com/",
          "wikipedia_name" : "佐賀清和中学校・高等学校"
       },
@@ -177,6 +185,7 @@
          "owner_type" : "県立",
          "school_area" : "北部学区",
          "short_name" : "唐津東中学校",
+         "sort_name" : "からつひかしちゆうかつこうこうとうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq10010/",
          "wikipedia_name" : "佐賀県立唐津東中学校・高等学校"
       },
@@ -188,6 +197,7 @@
          "owner_type" : "県立",
          "school_area" : "中部学区",
          "short_name" : "致遠館中学校",
+         "sort_name" : "さかけんりつちえんかん",
          "url" : "http://www3.saga-ed.jp/school/chien-jhs/index.htm",
          "wikipedia_name" : "佐賀県立致遠館中学校・高等学校"
       },
@@ -200,6 +210,7 @@
          "location_area" : "佐賀市",
          "location_wikipedia_latlon" : "|33|14|48.2|N|130|18|22.5|E|",
          "owner_type" : "私立",
+         "sort_name" : "さかりゆうこく",
          "wikipedia_name" : "佐賀龍谷中学校・高等学校"
       },
       "吉野ヶ里町立三田川中学校" : {
@@ -335,7 +346,8 @@
       "基山町立基山中学校" : {
          "location_area" : "三養基郡基山町",
          "owner_type" : "町立",
-         "short_name" : "基山中学校"
+         "short_name" : "基山中学校",
+         "sort_name" : "きやまちようりつきやまちゆうかつこう"
       },
       "多久市立中央中学校" : {
          "location_area" : "多久市",
@@ -413,12 +425,14 @@
          "location_wikipedia_latlon" : "|33|19|54.3|N|130|18|16.0|E|",
          "location_zipcode" : "849-0906",
          "owner_type" : "私立",
+         "sort_name" : "こうかくかんちゆうかつこうこうとうかつこう",
          "url" : "http://www.kogakukan.ac.jp/",
          "wikipedia_name" : "弘学館中学校・高等学校"
       },
       "成穎中学校" : {
          "location_area" : "佐賀市",
          "owner_type" : "私立",
+         "sort_name" : "せいえいちゆうかつこうこうとうふ",
          "wikipedia_name" : "成穎中学校・高等部"
       },
       "早稲田佐賀中学校" : {
@@ -426,6 +440,7 @@
          "location_area" : "唐津市",
          "location_zipcode" : "847-0016",
          "owner_type" : "私立",
+         "sort_name" : "わせたさかちゆうかつこうこうとうかつこう",
          "url" : "http://www.wasedasaga.jp/",
          "wikipedia_name" : "早稲田佐賀中学校・高等学校"
       },
@@ -444,6 +459,7 @@
          "location_area" : "三養基郡",
          "location_zipcode" : "841-0204",
          "owner_type" : "私立",
+         "sort_name" : "とうめいかんちゆうかつこうこうとうかつこう",
          "url" : "http://www.tomeikan.ed.jp/",
          "wikipedia_name" : "東明館中学校・高等学校"
       },
@@ -478,6 +494,7 @@
          "location_zipcode" : "849-0501",
          "owner_type" : "町立",
          "short_name" : "江北中学校",
+         "sort_name" : "こうほくちようりつこうほくちゆうかつこう",
          "url" : "http://www3.saga-ed.jp/school/edq13951/index.html"
       },
       "玄海町立値賀中学校" : {
@@ -533,7 +550,8 @@
       "鳥栖市立鳥栖中学校" : {
          "location_area" : "鳥栖市",
          "owner_type" : "市立",
-         "short_name" : "鳥栖中学校"
+         "short_name" : "鳥栖中学校",
+         "sort_name" : "とすしりつとす"
       },
       "鳥栖市立鳥栖西中学校" : {
          "location_area" : "鳥栖市",

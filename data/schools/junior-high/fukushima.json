@@ -60,7 +60,8 @@
          "location_area" : "いわき市",
          "location_zipcode" : "979-0146",
          "owner_type" : "市立",
-         "short_name" : "勿来第二中学校"
+         "short_name" : "勿来第二中学校",
+         "sort_name" : "いわきしりつなこそたい2ちゆう"
       },
       "いわき市立四倉中学校" : {
          "location_area" : "いわき市",
@@ -157,12 +158,14 @@
          "location_area" : "いわき市",
          "location_zipcode" : "971-8186",
          "owner_type" : "市立",
-         "short_name" : "泉中学校"
+         "short_name" : "泉中学校",
+         "sort_name" : "いわきしりついすみちゆう"
       },
       "いわき市立湯本第一中学校" : {
          "location_area" : "いわき市",
          "owner_type" : "市立",
-         "short_name" : "湯本第一中学校"
+         "short_name" : "湯本第一中学校",
+         "sort_name" : "いわきしりつゆもとたい1ちゆう"
       },
       "いわき市立湯本第三中学校" : {
          "location_area" : "いわき市",
@@ -177,7 +180,8 @@
       "いわき市立玉川中学校" : {
          "location_area" : "いわき市",
          "owner_type" : "市立",
-         "short_name" : "玉川中学校"
+         "short_name" : "玉川中学校",
+         "sort_name" : "いわきしりつたまかわちゆうかつこう"
       },
       "いわき市立田人中学校" : {
          "location_area" : "いわき市",
@@ -272,7 +276,8 @@
       "二本松市立二本松第三中学校" : {
          "location_area" : "二本松市",
          "owner_type" : "市立",
-         "short_name" : "二本松第三中学校"
+         "short_name" : "二本松第三中学校",
+         "sort_name" : "にほんまつしりつにほんまつたい3ちゆう"
       },
       "二本松市立二本松第二中学校" : {
          "location_area" : "二本松市",
@@ -325,6 +330,7 @@
          "location_zipcode" : "960-0733",
          "owner_type" : "市立",
          "short_name" : "梁川中学校",
+         "sort_name" : "たてしりつやなかわちゆう",
          "url" : "http://www.yanagawa-j.fks.ed.jp/"
       },
       "伊達市立霊山中学校" : {
@@ -361,6 +367,7 @@
          "location" : "福島県会津若松市西栄町1-18",
          "location_zipcode" : "965-0877",
          "owner_type" : "私立",
+         "sort_name" : "あいつわかまつさへりおかくえん",
          "url" : "http://www.aizu-xavier.fks.ed.jp/",
          "wikipedia_name" : "会津若松ザベリオ学園小学校・中学校・高等学校"
       },
@@ -382,7 +389,8 @@
       "会津若松市立河東中学校" : {
          "location_area" : "会津若松市",
          "owner_type" : "市立",
-         "short_name" : "河東中学校"
+         "short_name" : "河東中学校",
+         "sort_name" : "あいつわかまつしりつかわひかしちゆう"
       },
       "会津若松市立湊中学校" : {
          "location_area" : "会津若松市",
@@ -402,7 +410,8 @@
       "会津若松市立第二中学校" : {
          "location_area" : "会津若松市",
          "owner_type" : "市立",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "sort_name" : "あいつわかまつしりつたい2ちゆう"
       },
       "会津若松市立第五中学校" : {
          "location_area" : "会津若松市",
@@ -417,7 +426,8 @@
       "会津若松市立第四中学校" : {
          "location_area" : "会津若松市",
          "owner_type" : "市立",
-         "short_name" : "第四中学校"
+         "short_name" : "第四中学校",
+         "sort_name" : "あいつわかまつしりつたい4ちゆう"
       },
       "北塩原村立第一中学校" : {
          "location_area" : "耶麻郡北塩原村",
@@ -642,7 +652,8 @@
       "本宮市立本宮第一中学校" : {
          "location_area" : "本宮市",
          "owner_type" : "市立",
-         "short_name" : "本宮第一中学校"
+         "short_name" : "本宮第一中学校",
+         "sort_name" : "もとみやしりつもとみやたい1ちゆう"
       },
       "本宮市立本宮第二中学校" : {
          "location_area" : "本宮市",
@@ -659,6 +670,7 @@
          "location_wikipedia_latlon" : "|37|4|52.1|N|140|54|48|E|",
          "location_zipcode" : "970-8011",
          "owner_type" : "私立",
+         "sort_name" : "ひかしにつほんこくさいたいかくふそく",
          "url" : "http://www.shohei-chukou.ac.jp/",
          "wikipedia_name" : "東日本国際大学附属昌平中学・高等学校"
       },
@@ -681,6 +693,7 @@
          "location" : "福島県福島市野田町七丁目11番1号",
          "location_zipcode" : "960-8055",
          "owner_type" : "私立",
+         "sort_name" : "さくらのせいほかくいん",
          "url" : "http://www.ssg.ac.jp/ckfiles/",
          "wikipedia_name" : "桜の聖母学院中学校・高等学校"
       },
@@ -702,7 +715,8 @@
       "泉崎村立泉崎中学校" : {
          "location_area" : "西白河郡泉崎村",
          "owner_type" : "村立",
-         "short_name" : "泉崎中学校"
+         "short_name" : "泉崎中学校",
+         "sort_name" : "いすみさきそんりついすみさきちゆう"
       },
       "浅川町立浅川中学校" : {
          "location_area" : "石川郡浅川町",
@@ -855,6 +869,7 @@
          "location_zipcode" : "979-2501",
          "owner_type" : "市立",
          "short_name" : "磯部中学校",
+         "sort_name" : "そうましりついそへちゆう",
          "url" : "http://www.soma.or.jp/~isobe/"
       },
       "矢吹町立矢吹中学校" : {
@@ -862,7 +877,8 @@
          "location_area" : "西白河郡矢吹町",
          "location_zipcode" : "969-0223",
          "owner_type" : "町立",
-         "short_name" : "矢吹中学校"
+         "short_name" : "矢吹中学校",
+         "sort_name" : "やぶきちょうりつやぶきちゅうがっこう"
       },
       "矢祭町立矢祭中学校" : {
          "location_area" : "東白川郡矢祭町",
@@ -883,6 +899,7 @@
          "location" : "福島県石川郡石川町大室502番地",
          "location_zipcode" : "963-7853",
          "owner_type" : "私立",
+         "sort_name" : "かつこうほうしんいしかわ",
          "url" : "http://ishikawa-gijuku.ac.jp/",
          "wikipedia_name" : "学校法人石川高等学校・石川義塾中学校"
       },
@@ -890,6 +907,7 @@
          "location" : "福島県いわき市平南白土字勝負田11",
          "location_zipcode" : "970-8025",
          "owner_type" : "私立",
+         "sort_name" : "いわきりよくいん",
          "url" : "http://www.ryokuin.ed.jp/",
          "wikipedia_name" : "磐城緑蔭中学校・高等学校"
       },
@@ -899,7 +917,8 @@
          "short_name" : "磐梯中学校"
       },
       "福島大学附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ふくしまたいかくふそくふそくちゆう"
       },
       "福島市立信夫中学校" : {
          "location_area" : "福島市",
@@ -911,7 +930,8 @@
          "location_area" : "福島市",
          "location_zipcode" : "960-0241",
          "owner_type" : "市立",
-         "short_name" : "信陵中学校"
+         "short_name" : "信陵中学校",
+         "sort_name" : "ふくしましりつしんりようちゆう"
       },
       "福島市立北信中学校" : {
          "location_area" : "福島市",
@@ -961,7 +981,8 @@
       "福島市立福島第三中学校" : {
          "location_area" : "福島市",
          "owner_type" : "市立",
-         "short_name" : "福島第三中学校"
+         "short_name" : "福島第三中学校",
+         "sort_name" : "ふくしましりつふくしまたい3ちゆう"
       },
       "福島市立福島第二中学校" : {
          "location_area" : "福島市",
@@ -1013,6 +1034,7 @@
          "location_wikipedia_latlon" : "|37|45|25.31|N|140|28|54.92|E|",
          "location_zipcode" : "960-8134",
          "owner_type" : "私立",
+         "sort_name" : "ふくしませいけい",
          "url" : "http://www.f-seikei.ed.jp/",
          "wikipedia_name" : "福島成蹊中学校・高等学校"
       },
@@ -1022,6 +1044,7 @@
          "location_zipcode" : "965-0003",
          "owner_type" : "県立",
          "short_name" : "会津学鳳中学校",
+         "sort_name" : "ふくしまけんりつあいつかくほう",
          "url" : "http://www.aizugakuho-h.fks.ed.jp/",
          "wikipedia_name" : "福島県立会津学鳳中学校・高等学校"
       },
@@ -1085,6 +1108,7 @@
          "location_zipcode" : "963-0106",
          "owner_type" : "市立",
          "short_name" : "安積中学校",
+         "sort_name" : "こおりやましりつあさかちゆう",
          "url" : "http://www.edu.city.koriyama.fukushima.jp/asaka-j/"
       },
       "郡山市立安積第二中学校" : {
@@ -1145,7 +1169,8 @@
       "郡山市立行健中学校" : {
          "location_area" : "郡山市",
          "owner_type" : "市立",
-         "short_name" : "行健中学校"
+         "short_name" : "行健中学校",
+         "sort_name" : "こおりやましりつこうけんちゆう"
       },
       "郡山市立西田中学校" : {
          "location_area" : "郡山市",
@@ -1175,7 +1200,8 @@
       "郡山市立郡山第二中学校" : {
          "location_area" : "郡山市",
          "owner_type" : "市立",
-         "short_name" : "郡山第二中学校"
+         "short_name" : "郡山第二中学校",
+         "sort_name" : "こおりやましりつこおりやまたいにちゆうかつこう"
       },
       "郡山市立郡山第五中学校" : {
          "location_area" : "郡山市",
@@ -1221,7 +1247,8 @@
       "須賀川市立小塩江中学校" : {
          "location_area" : "須賀川市",
          "owner_type" : "市立",
-         "short_name" : "小塩江中学校"
+         "short_name" : "小塩江中学校",
+         "sort_name" : "すかかわしりつおしおえちゆう"
       },
       "須賀川市立岩瀬中学校" : {
          "location_area" : "須賀川市",
@@ -1236,7 +1263,8 @@
       "須賀川市立第一中学校" : {
          "location_area" : "須賀川市",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "すかかわしりつたいいちちゆうかつこう"
       },
       "須賀川市立第三中学校" : {
          "location_area" : "須賀川市",
@@ -1249,6 +1277,7 @@
          "location_zipcode" : "962-0003",
          "owner_type" : "市立",
          "short_name" : "第二中学校",
+         "sort_name" : "すかかわしりつたいにちゆうかつこう",
          "url" : "http://gyousei1.city.sukagawa.fukushima.jp/cb/schoolhp/su2chu/"
       },
       "須賀川市立西袋中学校" : {

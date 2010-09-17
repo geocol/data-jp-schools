@@ -3,7 +3,8 @@
       "北海道登別明日中等教育学校" : {
          "location_wikipedia_latlon" : "|42|25|2.0|N|141|5|7.4|E|",
          "owner_type" : "道立",
-         "short_name" : "登別明日中等教育学校"
+         "short_name" : "登別明日中等教育学校",
+         "sort_name" : "ほつかいとうのほりへつあけひ"
       }
    },
    "junior_high_schools" : {
@@ -12,6 +13,7 @@
          "location_wikipedia_latlon" : "|42|35|5.7|N|140|43|28.8|E|",
          "location_zipcode" : "049-5411",
          "owner_type" : "私立",
+         "sort_name" : "いすみのかつこう",
          "url" : "http://www.hokkaido-steiner.org/",
          "wikipedia_name" : "いずみの学校初等部・中等部"
       },
@@ -248,7 +250,8 @@
       "八雲町立八雲中学校" : {
          "location_area" : "二海郡八雲町",
          "owner_type" : "町立",
-         "short_name" : "八雲中学校"
+         "short_name" : "八雲中学校",
+         "sort_name" : "やくもちようりつやくもちゆうかつこう"
       },
       "八雲町立熊石第一中学校" : {
          "location_area" : "二海郡八雲町",
@@ -280,6 +283,7 @@
          "location_wikipedia_latlon" : "|41|47|18.7|N|140|47|25.5|E|",
          "location_zipcode" : "041-8765",
          "owner_type" : "私立",
+         "sort_name" : "はこたてらさある",
          "url" : "http://www.h-lasalle.ed.jp/",
          "wikipedia_name" : "函館ラ・サール中学校・高等学校"
       },
@@ -293,7 +297,8 @@
          "location_area" : "函館市",
          "location_zipcode" : "041-0806",
          "owner_type" : "市立",
-         "short_name" : "亀田中学校"
+         "short_name" : "亀田中学校",
+         "sort_name" : "はこたてしりつかめた"
       },
       "函館市立五稜中学校" : {
          "location_area" : "函館市",
@@ -313,7 +318,8 @@
       "函館市立北中学校" : {
          "location_area" : "函館市",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "sort_name" : "はこたてしりつきたちゆう"
       },
       "函館市立大川中学校" : {
          "location_area" : "函館市",
@@ -435,6 +441,7 @@
          "location_wikipedia_latlon" : "|41|48|10.8|N|140|46|34.0|E|",
          "location_zipcode" : "041-8560",
          "owner_type" : "私立",
+         "sort_name" : "はこたてしらゆりかくえん",
          "url" : "http://www.hakodate-shirayuri.ed.jp/",
          "wikipedia_name" : "函館白百合学園中学校・高等学校"
       },
@@ -523,6 +530,7 @@
          "location_wikipedia_latlon" : "|42|58|17.8|N|141|25|29.8|E|",
          "location_zipcode" : "004-0839",
          "owner_type" : "私立",
+         "sort_name" : "ほくれい",
          "url" : "http://www.kibou.ac.jp/hokurei/",
          "wikipedia_name" : "北嶺中学校・高等学校"
       },
@@ -577,6 +585,7 @@
          "location_zipcode" : "049-0101",
          "owner_type" : "市立",
          "short_name" : "浜分中学校",
+         "sort_name" : "ほくとしりつはまわけちゆう",
          "url" : "http://www.city.hokuto.hokkaido.jp/gakko/hamatyu/index2010.html"
       },
       "北斗市立石別中学校" : {
@@ -594,27 +603,32 @@
          "location_wikipedia_latlon" : "|43|3|11|N|141|19|47.8|E|",
          "location_zipcode" : "064-8523",
          "owner_type" : "私立",
+         "sort_name" : "ほくせいかくえんしよし",
          "url" : "http://www.hokusei-ghs-jh.ed.jp/",
          "wikipedia_name" : "北星学園女子中学高等学校"
       },
       "北海道教育大学附属函館中学校" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属函館中学校"
+         "short_name" : "教育大学附属函館中学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくはこたてちゆうかつこう"
       },
       "北海道教育大学附属旭川中学校" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属旭川中学校"
+         "short_name" : "教育大学附属旭川中学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくあさひかわちゆう"
       },
       "北海道教育大学附属札幌中学校" : {
          "location" : "北海道札幌市北区あいの里5条3-1-11",
          "location_zipcode" : "002-8075",
          "owner_type" : "国立",
          "short_name" : "教育大学附属札幌中学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくさつほろちゆう",
          "url" : "http://fuzoku-chu.sap.hokkyodai.ac.jp/"
       },
       "北海道教育大学附属釧路中学校" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属釧路中学校"
+         "short_name" : "教育大学附属釧路中学校",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくくしろちゆうかつこう"
       },
       "北竜町立北竜中学校" : {
          "location_area" : "雨竜郡北竜町",
@@ -714,7 +728,8 @@
       "千歳市立千歳中学校" : {
          "location_area" : "千歳市",
          "owner_type" : "市立",
-         "short_name" : "千歳中学校"
+         "short_name" : "千歳中学校",
+         "sort_name" : "ちとせしりつちとせ"
       },
       "千歳市立向陽台中学校" : {
          "location_area" : "千歳市",
@@ -724,7 +739,8 @@
       "千歳市立富丘中学校" : {
          "location_area" : "千歳市",
          "owner_type" : "市立",
-         "short_name" : "富丘中学校"
+         "short_name" : "富丘中学校",
+         "sort_name" : "ちとせしりつとみおか"
       },
       "千歳市立東千歳中学校" : {
          "location_area" : "千歳市",
@@ -821,6 +837,7 @@
          "location_wikipedia_latlon" : "|43|11|12.4|N|141|0|22.6|E|",
          "location_zipcode" : "047-0014",
          "owner_type" : "私立",
+         "sort_name" : "ふたは",
          "url" : "http://www.futaba-h.ed.jp/",
          "wikipedia_name" : "双葉中学校・高等学校"
       },
@@ -964,14 +981,16 @@
          "location_area" : "奥尻郡奥尻町",
          "location_zipcode" : "043-1401",
          "owner_type" : "町立",
-         "short_name" : "奥尻中学校"
+         "short_name" : "奥尻中学校",
+         "sort_name" : "おくしりちようりつおくしりちゆうかつこう"
       },
       "奥尻町立青苗中学校" : {
          "location" : "北海道奥尻郡奥尻町字青苗378",
          "location_area" : "奥尻郡奥尻町",
          "location_zipcode" : "043-1521",
          "owner_type" : "町立",
-         "short_name" : "青苗中学校"
+         "short_name" : "青苗中学校",
+         "sort_name" : "おくしりちようりつあおなえちゆう"
       },
       "妹背牛町立妹背牛中学校" : {
          "location_area" : "雨竜郡妹背牛町",
@@ -1323,7 +1342,8 @@
          "location_area" : "中川郡幕別町",
          "location_zipcode" : "089-1703",
          "owner_type" : "町立",
-         "short_name" : "忠類中学校"
+         "short_name" : "忠類中学校",
+         "sort_name" : "まくへつちようりつちゆうるいちゆうかつこう"
       },
       "幕別町立札内中学校" : {
          "location_area" : "中川郡幕別町",
@@ -1381,6 +1401,7 @@
          "location_zipcode" : "061-0208",
          "owner_type" : "町立",
          "short_name" : "弁華別中学校",
+         "sort_name" : "とうへつちようりつへんけへつ",
          "url" : "http://www.infosnow.ne.jp/ben-chu/"
       },
       "当別町立当別中学校" : {
@@ -1389,6 +1410,7 @@
          "location_zipcode" : "061-0205",
          "owner_type" : "町立",
          "short_name" : "当別中学校",
+         "sort_name" : "とうへつちようりつとうへつ",
          "url" : "http://www.infosnow.ne.jp/~touchu/"
       },
       "当別町立西当別中学校" : {
@@ -1397,6 +1419,7 @@
          "location_zipcode" : "061-3772",
          "owner_type" : "町立",
          "short_name" : "西当別中学校",
+         "sort_name" : "とうへつちようりつにしとうへつ",
          "url" : "http://portal.town.tobetsu.hokkaido.jp/school/nishitobetsu-jh/"
       },
       "当麻町立当麻中学校" : {
@@ -1410,6 +1433,7 @@
          "location_zipcode" : "061-1371",
          "owner_type" : "市立",
          "short_name" : "恵み野中学校",
+         "sort_name" : "えにわしりつめくみのちゆう",
          "url" : "http://academic4.plala.or.jp/meguthu/"
       },
       "恵庭市立恵北中学校" : {
@@ -1418,6 +1442,7 @@
          "location_zipcode" : "061-1362",
          "owner_type" : "市立",
          "short_name" : "恵北中学校",
+         "sort_name" : "えにわしりつけいほくちゆう",
          "url" : "http://academic4.plala.or.jp/keihoku1/"
       },
       "恵庭市立恵庭中学校" : {
@@ -1426,6 +1451,7 @@
          "location_zipcode" : "061-1425",
          "owner_type" : "市立",
          "short_name" : "恵庭中学校",
+         "sort_name" : "えにわしりつえにわちゆう",
          "url" : "http://academic4.plala.or.jp/eniwathu/index.html"
       },
       "恵庭市立恵明中学校" : {
@@ -1434,6 +1460,7 @@
          "location_zipcode" : "061-1407",
          "owner_type" : "市立",
          "short_name" : "恵明中学校",
+         "sort_name" : "えにわしりつけいめいちゆう",
          "url" : "http://academic4.plala.or.jp/keimei/"
       },
       "恵庭市立柏陽中学校" : {
@@ -1442,6 +1469,7 @@
          "location_zipcode" : "061-1434",
          "owner_type" : "市立",
          "short_name" : "柏陽中学校",
+         "sort_name" : "えにわしりつはくようちゆう",
          "url" : "http://academic4.plala.or.jp/hakuyou/"
       },
       "愛別町立愛別中学校" : {
@@ -1510,6 +1538,7 @@
          "location_zipcode" : "068-1112",
          "owner_type" : "村立",
          "short_name" : "新篠津中学校",
+         "sort_name" : "しんしのつむらりつしんしのつ",
          "url" : "http://www.phoenix-c.or.jp/~sintyu00/"
       },
       "日高町立厚賀中学校" : {
@@ -1540,12 +1569,14 @@
       "旭川市立六合中学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "六合中学校"
+         "short_name" : "六合中学校",
+         "sort_name" : "あさひかわしりつろくこう"
       },
       "旭川市立北星中学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "北星中学校"
+         "short_name" : "北星中学校",
+         "sort_name" : "あさひかわしりつほくせい"
       },
       "旭川市立北都中学校" : {
          "location_area" : "旭川市",
@@ -1555,7 +1586,8 @@
       "旭川市立北門中学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "北門中学校"
+         "short_name" : "北門中学校",
+         "sort_name" : "あさひかわしりつほくもん"
       },
       "旭川市立千代ヶ岡中学校" : {
          "location_area" : "旭川市",
@@ -1575,7 +1607,8 @@
       "旭川市立常盤中学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "常盤中学校"
+         "short_name" : "常盤中学校",
+         "sort_name" : "あさひかわしりつときわ"
       },
       "旭川市立広陵中学校" : {
          "location_area" : "旭川市",
@@ -1640,7 +1673,8 @@
       "旭川市立永山中学校" : {
          "location_area" : "旭川市",
          "owner_type" : "市立",
-         "short_name" : "永山中学校"
+         "short_name" : "永山中学校",
+         "sort_name" : "あさひかわしりつなかやま"
       },
       "旭川市立永山南中学校" : {
          "location_area" : "旭川市",
@@ -1717,6 +1751,7 @@
          "location_wikipedia_latlon" : "|43|4|44.9|N|141|21|58.8|E|",
          "location_zipcode" : "065-0013",
          "owner_type" : "私立",
+         "sort_name" : "さつほろこうせい",
          "url" : "http://www.sapporokosei.ac.jp/",
          "wikipedia_name" : "札幌光星高等学校・中学校"
       },
@@ -1725,6 +1760,7 @@
          "location_wikipedia_latlon" : "|43|4|55.4|N|141|21|53.8|E|",
          "location_zipcode" : "065-0016",
          "owner_type" : "私立",
+         "sort_name" : "さつほろおおたに",
          "url" : "http://www.s-ohtani.ed.jp/",
          "wikipedia_name" : "札幌大谷中学校・高等学校"
       },
@@ -1734,6 +1770,7 @@
          "location_zipcode" : "002-8072",
          "owner_type" : "市立",
          "short_name" : "あいの里東中学校",
+         "sort_name" : "さつほろしりつあいのさとひかし",
          "url" : "http://www.ainosatohigashi-j.sapporo-c.ed.jp/"
       },
       "札幌市立あやめ野中学校" : {
@@ -1742,17 +1779,20 @@
          "location_zipcode" : "062-0053",
          "owner_type" : "市立",
          "short_name" : "あやめ野中学校",
+         "sort_name" : "さつほろしりつあやめのちゆう",
          "url" : "http://www.ayameno-j.sapporo-c.ed.jp/"
       },
       "札幌市立もみじ台中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "もみじ台中学校"
+         "short_name" : "もみじ台中学校",
+         "sort_name" : "さつほろしりつもみしたい"
       },
       "札幌市立もみじ台南中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "もみじ台南中学校"
+         "short_name" : "もみじ台南中学校",
+         "sort_name" : "さつほろしりつもみしたいみなみ"
       },
       "札幌市立上篠路中学校" : {
          "location_area" : "札幌市北区",
@@ -1762,7 +1802,8 @@
       "札幌市立上野幌中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "上野幌中学校"
+         "short_name" : "上野幌中学校",
+         "sort_name" : "さつほろしりつかみのほろ"
       },
       "札幌市立丘珠中学校" : {
          "location" : "北海道札幌市東区丘珠町674番地",
@@ -1770,12 +1811,14 @@
          "location_zipcode" : "007-0880",
          "owner_type" : "市立",
          "short_name" : "丘珠中学校",
+         "sort_name" : "さつほろしりつおかたまちゆう",
          "url" : "http://www.okadama-j.sapporo-c.ed.jp/"
       },
       "札幌市立中の島中学校" : {
          "location_area" : "札幌市豊平区",
          "owner_type" : "市立",
-         "short_name" : "中の島中学校"
+         "short_name" : "中の島中学校",
+         "sort_name" : "さつほろしりつなかのしま"
       },
       "札幌市立中央中学校" : {
          "location" : "北海道札幌市中央区北4条東三丁目",
@@ -1783,6 +1826,7 @@
          "location_zipcode" : "060-0031",
          "owner_type" : "市立",
          "short_name" : "中央中学校",
+         "sort_name" : "さつほろしりつちゆうおうちゆう",
          "url" : "http://www.chuo-j.sapporo-c.ed.jp/"
       },
       "札幌市立中島中学校" : {
@@ -1791,6 +1835,7 @@
          "location_zipcode" : "064-0912",
          "owner_type" : "市立",
          "short_name" : "中島中学校",
+         "sort_name" : "さつほろしりつなかしまちゆう",
          "url" : "http://www.nakajima-j.sapporo-c.ed.jp/"
       },
       "札幌市立伏見中学校" : {
@@ -1799,12 +1844,14 @@
          "location_zipcode" : "064-0916",
          "owner_type" : "市立",
          "short_name" : "伏見中学校",
+         "sort_name" : "さつほろしりつふしみちゆう",
          "url" : "http://www.fushimi-j.sapporo-c.ed.jp/"
       },
       "札幌市立信濃中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "信濃中学校"
+         "short_name" : "信濃中学校",
+         "sort_name" : "さつほろしりつしなのちゆう"
       },
       "札幌市立元町中学校" : {
          "location_area" : "札幌市東区",
@@ -1822,6 +1869,7 @@
          "location_zipcode" : "062-0908",
          "owner_type" : "市立",
          "short_name" : "八条中学校",
+         "sort_name" : "さつほろしりつはちしようちゆう",
          "url" : "http://www.hachijo-j.sapporo-c.ed.jp/"
       },
       "札幌市立八軒中学校" : {
@@ -1837,12 +1885,14 @@
       "札幌市立前田中学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "前田中学校"
+         "short_name" : "前田中学校",
+         "sort_name" : "さつほろしりつまえた"
       },
       "札幌市立前田北中学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "前田北中学校"
+         "short_name" : "前田北中学校",
+         "sort_name" : "さつほろしりつまえたきたちゆう"
       },
       "札幌市立北栄中学校" : {
          "location_area" : "札幌市東区",
@@ -1853,7 +1903,8 @@
          "location_area" : "札幌市白石区",
          "location_wikipedia_latlon" : "|43|03|52.5|N|141|25|8.5|E|",
          "owner_type" : "市立",
-         "short_name" : "北白石中学校"
+         "short_name" : "北白石中学校",
+         "sort_name" : "さつほろしりつきたしろいしちゆう"
       },
       "札幌市立北辰中学校" : {
          "location_area" : "札幌市北区",
@@ -1866,6 +1917,7 @@
          "location_zipcode" : "003-0869",
          "owner_type" : "市立",
          "short_name" : "北都中学校",
+         "sort_name" : "さつほろしりつほくとちゆう",
          "url" : "http://www.hokuto-j.sapporo-c.ed.jp/"
       },
       "札幌市立北野中学校" : {
@@ -1884,6 +1936,7 @@
          "location_zipcode" : "001-0034",
          "owner_type" : "市立",
          "short_name" : "北陽中学校",
+         "sort_name" : "さつほろしりつほくようちゆう",
          "url" : "http://www.hokuyo-j.sapporo-c.ed.jp/"
       },
       "札幌市立南が丘中学校" : {
@@ -1894,7 +1947,8 @@
       "札幌市立厚別中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "厚別中学校"
+         "short_name" : "厚別中学校",
+         "sort_name" : "さつほろしりつあつへつ"
       },
       "札幌市立厚別北中学校" : {
          "location" : "札幌市厚別区厚別町小野幌774番地5",
@@ -1902,12 +1956,14 @@
          "location_zipcode" : "004-0006",
          "owner_type" : "市立",
          "short_name" : "厚別北中学校",
+         "sort_name" : "さつほろしりつあつへつきた",
          "url" : "http://www.atsubetsukita-j.sapporo-c.ed.jp/"
       },
       "札幌市立厚別南中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "厚別南中学校"
+         "short_name" : "厚別南中学校",
+         "sort_name" : "さつほろしりつあつへつみなみ"
       },
       "札幌市立向陵中学校" : {
          "location" : "北海道札幌市中央区北4条西二十八丁目1番30号",
@@ -1915,6 +1971,7 @@
          "location_zipcode" : "064-0824",
          "owner_type" : "市立",
          "short_name" : "向陵中学校",
+         "sort_name" : "さつほろしりつこうりよう",
          "url" : "http://www.koryo-j.sapporo-c.ed.jp/"
       },
       "札幌市立啓明中学校" : {
@@ -1923,6 +1980,7 @@
          "location_zipcode" : "064-0809",
          "owner_type" : "市立",
          "short_name" : "啓明中学校",
+         "sort_name" : "さつほろしりつけいめいちゆう",
          "url" : "http://www.keimei-j.sapporo-c.ed.jp/"
       },
       "札幌市立太平中学校" : {
@@ -1946,6 +2004,7 @@
          "location_zipcode" : "064-0824",
          "owner_type" : "市立",
          "short_name" : "宮の森中学校",
+         "sort_name" : "さつほろしりつみやのもりちゆう",
          "url" : "http://www.miyanomori-j.sapporo-c.ed.jp/"
       },
       "札幌市立屯田中央中学校" : {
@@ -1964,6 +2023,7 @@
          "location_zipcode" : "064-0923",
          "owner_type" : "市立",
          "short_name" : "山鼻中学校",
+         "sort_name" : "さつほろしりつやまはなちゆう",
          "url" : "http://www.yamahana-j.sapporo-c.ed.jp/"
       },
       "札幌市立常盤中学校" : {
@@ -1977,6 +2037,7 @@
          "location_zipcode" : "003-0806",
          "owner_type" : "市立",
          "short_name" : "幌東中学校",
+         "sort_name" : "さつほろしりつこうとうちゆう",
          "url" : "http://www.koto-j.sapporo-c.ed.jp/"
       },
       "札幌市立平岡中央中学校" : {
@@ -1990,6 +2051,7 @@
          "location_zipcode" : "004-0872",
          "owner_type" : "市立",
          "short_name" : "平岡中学校",
+         "sort_name" : "さつほろしりつひらおかちゆうかつこう",
          "url" : "http://www.hiraoka-j.sapporo-c.ed.jp/"
       },
       "札幌市立平岡緑中学校" : {
@@ -1998,12 +2060,14 @@
          "location_zipcode" : "004-0882",
          "owner_type" : "市立",
          "short_name" : "平岡緑中学校",
+         "sort_name" : "さつほろしりつひらおかみとりちゆうかつこう",
          "url" : "http://www.hiraokamidori-j.sapporo-c.ed.jp/"
       },
       "札幌市立平岸中学校" : {
          "location_area" : "札幌市豊平区",
          "owner_type" : "市立",
-         "short_name" : "平岸中学校"
+         "short_name" : "平岸中学校",
+         "sort_name" : "さつほろしりつひらきし"
       },
       "札幌市立平岸中学校のぞみ分校" : {
          "location" : "北海道札幌市豊平区平岸4条18丁目1番25号",
@@ -2011,6 +2075,7 @@
          "location_zipcode" : "062-0934",
          "owner_type" : "市立",
          "short_name" : "平岸中学校のぞみ分校",
+         "sort_name" : "さつほろしりつひらきし のそみ",
          "url" : "http://www.nozomi-ej.sapporo-c.ed.jp/",
          "wikipedia_name" : "札幌市立平岸高台小学校・札幌市立平岸中学校のぞみ分校"
       },
@@ -2024,7 +2089,8 @@
          "location_area" : "札幌市西区",
          "location_zipcode" : "063-0032",
          "owner_type" : "市立",
-         "short_name" : "手稲東中学校"
+         "short_name" : "手稲東中学校",
+         "sort_name" : "さつほろしりつていねひかしちゆう"
       },
       "札幌市立手稲西中学校" : {
          "location_area" : "札幌市手稲区",
@@ -2037,12 +2103,14 @@
          "location_zipcode" : "001-0924",
          "owner_type" : "市立",
          "short_name" : "新川中学校",
+         "sort_name" : "さつほろしりつしんかわちゆう",
          "url" : "http://www.shinkawa-j.sapporo-c.ed.jp/"
       },
       "札幌市立新川西中学校" : {
          "location_area" : "札幌市北区",
          "owner_type" : "市立",
-         "short_name" : "新川西中学校"
+         "short_name" : "新川西中学校",
+         "sort_name" : "さつほろしりつしんかわにし"
       },
       "札幌市立新琴似中学校" : {
          "location" : "北海道札幌市北区新琴似7条四丁目1番1号",
@@ -2051,6 +2119,7 @@
          "location_zipcode" : "001-0907",
          "owner_type" : "市立",
          "short_name" : "新琴似中学校",
+         "sort_name" : "さつほろしりつしんことに",
          "url" : "http://www.shinkotoni-j.sapporo-c.ed.jp/"
       },
       "札幌市立新琴似北中学校" : {
@@ -2069,6 +2138,7 @@
          "location_zipcode" : "003-0004",
          "owner_type" : "市立",
          "short_name" : "日章中学校",
+         "sort_name" : "さつほろしりつにつしようちゆう",
          "url" : "http://www.nissho-j.sapporo-c.ed.jp/"
       },
       "札幌市立明園中学校" : {
@@ -2082,6 +2152,7 @@
          "location_zipcode" : "006-0853",
          "owner_type" : "市立",
          "short_name" : "星置中学校",
+         "sort_name" : "さつほろしりつほしおきちゆう",
          "url" : "http://www.hoshioki-j.sapporo-c.ed.jp/"
       },
       "札幌市立月寒中学校" : {
@@ -2090,13 +2161,15 @@
          "location_zipcode" : "062-0052",
          "owner_type" : "市立",
          "short_name" : "月寒中学校",
+         "sort_name" : "さつほろしりつつきさむちゆう",
          "url" : "http://www.tsukisamu-j.sapporo-c.ed.jp/"
       },
       "札幌市立札幌中学校" : {
          "location_area" : "札幌市東区",
          "location_wikipedia_latlon" : "|43|5|43|N|141|23|21|E|",
          "owner_type" : "市立",
-         "short_name" : "札幌中学校"
+         "short_name" : "札幌中学校",
+         "sort_name" : "さつほろしりつさつほろちゆう"
       },
       "札幌市立札苗中学校" : {
          "location_area" : "札幌市東区",
@@ -2114,6 +2187,7 @@
          "location_zipcode" : "062-0053",
          "owner_type" : "市立",
          "short_name" : "東月寒中学校",
+         "sort_name" : "さつほろしりつひかしつきさむちゆう",
          "url" : "http://www.higashitsukisamu-j.sapporo-c.ed.jp/"
       },
       "札幌市立東栄中学校" : {
@@ -2124,7 +2198,8 @@
       "札幌市立東白石中学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "東白石中学校"
+         "short_name" : "東白石中学校",
+         "sort_name" : "さつほろしりつひかししろいし"
       },
       "札幌市立東米里中学校" : {
          "location" : "北海道札幌市白石区東米里2124番地",
@@ -2132,13 +2207,15 @@
          "location_zipcode" : "003-0876",
          "owner_type" : "市立",
          "short_name" : "東米里中学校",
+         "sort_name" : "さつほろしりつひかしよねさと",
          "url" : "http://www.higashiyonesato-ej.sapporo-c.ed.jp/",
          "wikipedia_name" : "札幌市立東米里小学校・中学校"
       },
       "札幌市立柏丘中学校" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "柏丘中学校"
+         "short_name" : "柏丘中学校",
+         "sort_name" : "さつほろしりつかしわかおかちゆう"
       },
       "札幌市立柏中学校" : {
          "location" : "北海道札幌市中央区南21条西五丁目1番2号",
@@ -2146,6 +2223,7 @@
          "location_zipcode" : "064-0921",
          "owner_type" : "市立",
          "short_name" : "柏中学校",
+         "sort_name" : "さつほろしりつかしわちゆう",
          "url" : "http://www.kashiwa-j.sapporo-c.ed.jp/"
       },
       "札幌市立栄中学校" : {
@@ -2169,6 +2247,7 @@
          "location_zipcode" : "004-0843",
          "owner_type" : "市立",
          "short_name" : "清田中学校",
+         "sort_name" : "きよたちゆうかつこう",
          "url" : "http://www.kiyota-j.sapporo-c.ed.jp/"
       },
       "札幌市立澄川中学校" : {
@@ -2182,6 +2261,7 @@
          "location_zipcode" : "063-0004",
          "owner_type" : "市立",
          "short_name" : "琴似中学校",
+         "sort_name" : "さつほろしりつことにちゆう",
          "url" : "http://www.kotoni-j.sapporo-c.ed.jp/"
       },
       "札幌市立発寒中学校" : {
@@ -2195,12 +2275,14 @@
          "location_zipcode" : "003-0024",
          "owner_type" : "市立",
          "short_name" : "白石中学校",
+         "sort_name" : "さつほろしりつしろいしちゆう",
          "url" : "http://www.shiroishi-j.sapporo-c.ed.jp/"
       },
       "札幌市立真栄中学校" : {
          "location_area" : "札幌市清田区",
          "owner_type" : "市立",
-         "short_name" : "真栄中学校"
+         "short_name" : "真栄中学校",
+         "sort_name" : "さつほろしりつしんえいちゆう"
       },
       "札幌市立真駒内中学校" : {
          "location_area" : "札幌市南区",
@@ -2223,12 +2305,14 @@
          "location_zipcode" : "066-0012",
          "owner_type" : "市立",
          "short_name" : "福井野中学校",
+         "sort_name" : "さつほろしりつふくいのちゆう",
          "url" : "http://www.fukuino-j.sapporo-c.ed.jp/"
       },
       "札幌市立福移中学校" : {
          "location_area" : "札幌市東区",
          "owner_type" : "市立",
-         "short_name" : "福移中学校"
+         "short_name" : "福移中学校",
+         "sort_name" : "さつほろしりつふくい"
       },
       "札幌市立稲穂中学校" : {
          "location_area" : "札幌市手稲区",
@@ -2243,7 +2327,8 @@
       "札幌市立稲陵中学校" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "稲陵中学校"
+         "short_name" : "稲陵中学校",
+         "sort_name" : "さつほろしりつとうりようちゆうかつこう"
       },
       "札幌市立篠路中学校" : {
          "location" : "北海道札幌市北区篠路町篠路368番地",
@@ -2251,6 +2336,7 @@
          "location_zipcode" : "002-8053",
          "owner_type" : "市立",
          "short_name" : "篠路中学校",
+         "sort_name" : "さつほろしりつしのろちゆう",
          "url" : "http://www.shinoro-j.sapporo-c.ed.jp/"
       },
       "札幌市立篠路西中学校" : {
@@ -2269,6 +2355,7 @@
          "location_zipcode" : "062-0052",
          "owner_type" : "市立",
          "short_name" : "米里中学校",
+         "sort_name" : "さつほろしりつよねさとちゆう",
          "url" : "http://www.yonesato-j.sapporo-c.ed.jp/"
       },
       "札幌市立羊丘中学校" : {
@@ -2277,6 +2364,7 @@
          "location_zipcode" : "062-0041",
          "owner_type" : "市立",
          "short_name" : "羊丘中学校",
+         "sort_name" : "さつほろしりつひつしかおかちゆう",
          "url" : "http://www.hitsujigaoka-j.sapporo-c.ed.jp/"
       },
       "札幌市立美香保中学校" : {
@@ -2285,6 +2373,7 @@
          "location_zipcode" : "065-0017",
          "owner_type" : "市立",
          "short_name" : "美香保中学校",
+         "sort_name" : "さつほろしりつみかほちゆう",
          "url" : "http://www.mikaho-j.sapporo-c.ed.jp/"
       },
       "札幌市立藤野中学校" : {
@@ -2298,6 +2387,7 @@
          "location_zipcode" : "005-0807",
          "owner_type" : "市立",
          "short_name" : "藻岩中学校",
+         "sort_name" : "さつほろしりつもいわちゆう",
          "url" : "http://www.moiwa-j.sapporo-c.ed.jp/"
       },
       "札幌市立西岡中学校" : {
@@ -2306,6 +2396,7 @@
          "location_zipcode" : "062-0033",
          "owner_type" : "市立",
          "short_name" : "西岡中学校",
+         "sort_name" : "さつほろしりつにしおか",
          "url" : "http://www.nishioka-j.sapporo-c.ed.jp/"
       },
       "札幌市立西岡北中学校" : {
@@ -2314,6 +2405,7 @@
          "location_zipcode" : "062-0033",
          "owner_type" : "市立",
          "short_name" : "西岡北中学校",
+         "sort_name" : "さつほろしりつにしおかきた",
          "url" : "http://www.nishiokakita-j.sapporo-c.ed.jp/"
       },
       "札幌市立西野中学校" : {
@@ -2322,6 +2414,7 @@
          "location_zipcode" : "063-0038",
          "owner_type" : "市立",
          "short_name" : "西野中学校",
+         "sort_name" : "さつほろしりつにしの",
          "url" : "http://www.nishino-j.sapporo-c.ed.jp/"
       },
       "札幌市立西陵中学校" : {
@@ -2335,6 +2428,7 @@
          "location_zipcode" : "063-0802",
          "owner_type" : "市立",
          "short_name" : "陵北中学校",
+         "sort_name" : "さつほろしりつりようほくちゆう",
          "url" : "http://www.ryohoku-j.sapporo-c.ed.jp/"
       },
       "札幌市立陵陽中学校" : {
@@ -2343,18 +2437,21 @@
          "location_zipcode" : "062-0936",
          "owner_type" : "市立",
          "short_name" : "陵陽中学校",
+         "sort_name" : "さつほろしりつりようようちゆう",
          "url" : "http://www.ryoyo-j.sapporo-c.ed.jp/"
       },
       "札幌市立青葉中学校" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "青葉中学校"
+         "short_name" : "青葉中学校",
+         "sort_name" : "さつほろしりつあおは"
       },
       "札幌日本大学中学校" : {
          "location" : "北海道北広島市虹ヶ丘5丁目7-1",
          "location_wikipedia_latlon" : "|43|1|10.7|N|141|29|27.4|E|",
          "location_zipcode" : "061-1103",
          "owner_type" : "私立",
+         "sort_name" : "さつほろにほんたいかく",
          "url" : "http://www.sapporonichidai.ed.jp/",
          "wikipedia_name" : "札幌日本大学中学校・高等学校"
       },
@@ -2363,6 +2460,7 @@
          "location_wikipedia_latlon" : "|43|2|50.7|N|141|17|25.8|E|",
          "location_zipcode" : "064-8540",
          "owner_type" : "私立",
+         "sort_name" : "さつほろせいしんしよし",
          "url" : "http://www.spr-sacred-heart.ed.jp/",
          "wikipedia_name" : "札幌聖心女子学院中学校・高等学校"
       },
@@ -2377,6 +2475,7 @@
          "location_zipcode" : "005-8602",
          "owner_type" : "私立",
          "short_name" : "東海大学付属第四高校中等部",
+         "sort_name" : "とうかいたいかくふそくたい4",
          "url" : "http://www.tokai.ed.jp/daiyon/",
          "wikipedia_name" : "東海大学付属第四高等学校・中等部"
       },
@@ -2395,7 +2494,8 @@
          "location_area" : "松前郡松前町",
          "location_zipcode" : "791-3110",
          "owner_type" : "町立",
-         "short_name" : "松前中学校"
+         "short_name" : "松前中学校",
+         "sort_name" : "まさきちようりつまさきちゆうかつこう"
       },
       "枝幸町立志美宇丹中学校" : {
          "location_area" : "枝幸郡枝幸町",
@@ -2452,7 +2552,8 @@
          "location_area" : "根室市",
          "location_zipcode" : "087-0163",
          "owner_type" : "市立",
-         "short_name" : "歯舞中学校"
+         "short_name" : "歯舞中学校",
+         "sort_name" : "ねむろしりつはほまい"
       },
       "根室市立落石中学校" : {
          "location_area" : "根室市",
@@ -2465,6 +2566,7 @@
          "location_zipcode" : "437-0216",
          "owner_type" : "町立",
          "short_name" : "森中学校",
+         "sort_name" : "もりちようりつもりちゆうかつこう",
          "url" : "http://www.town.morimachi.shizuoka.jp/jhs-mori/"
       },
       "森町立砂原中学校" : {
@@ -2547,6 +2649,7 @@
          "location_wikipedia_latlon" : "|42|58|32.4|N|144|26|6.4|E|",
          "location_zipcode" : "085-0806",
          "owner_type" : "私立",
+         "sort_name" : "ふしゆうかん",
          "url" : "http://www.bushukan.jp/",
          "wikipedia_name" : "武修館中学校・高等学校"
       },
@@ -2558,7 +2661,8 @@
       "江別市立中央中学校" : {
          "location_area" : "江別市",
          "owner_type" : "市立",
-         "short_name" : "中央中学校"
+         "short_name" : "中央中学校",
+         "sort_name" : "えへつしりつちゆうおう"
       },
       "江別市立大麻中学校" : {
          "location_area" : "江別市",
@@ -2606,6 +2710,7 @@
          "location_zipcode" : "069-0832",
          "owner_type" : "市立",
          "short_name" : "野幌中学校",
+         "sort_name" : "えへつしりつのつほろ",
          "url" : "http://www.ebetsu-city.ed.jp/nopporo-t/index.htm"
       },
       "江差町立江差中学校" : {
@@ -2850,12 +2955,14 @@
          "location_zipcode" : "059-0003",
          "owner_type" : "市立",
          "short_name" : "幌別中学校",
+         "sort_name" : "のほりへつしりつほろへつ",
          "url" : "http://www.noboribetsu.ed.jp/~jh_info/"
       },
       "登別市立登別中学校" : {
          "location_area" : "登別市",
          "owner_type" : "市立",
-         "short_name" : "登別中学校"
+         "short_name" : "登別中学校",
+         "sort_name" : "のほりへつしりつのほりへつちゆう"
       },
       "登別市立緑陽中学校" : {
          "location_area" : "登別市",
@@ -2870,7 +2977,8 @@
       "登別市立鷲別中学校" : {
          "location_area" : "登別市",
          "owner_type" : "市立",
-         "short_name" : "鷲別中学校"
+         "short_name" : "鷲別中学校",
+         "sort_name" : "のほりへつしりつわしへつちゆうかつこう"
       },
       "白糠町立庶路中学校" : {
          "location_area" : "白糠郡白糠町",
@@ -2928,6 +3036,7 @@
          "location_zipcode" : "061-3256",
          "owner_type" : "市立",
          "short_name" : "樽川中学校",
+         "sort_name" : "いしかりしりつたるかわちゆうがつこう",
          "url" : "http://academic2.plala.or.jp/tarukawa/"
       },
       "石狩市立浜益中学校" : {
@@ -3001,6 +3110,7 @@
          "location_zipcode" : "098-6754",
          "owner_type" : "市立",
          "short_name" : "宗谷中学校",
+         "sort_name" : "わつかないしりつそうやちゆう",
          "url" : "http://www.soyacyu.wakkanai.ne.jp/"
       },
       "稚内市立潮見が丘中学校" : {
@@ -3009,22 +3119,26 @@
          "location_zipcode" : "097-0013",
          "owner_type" : "市立",
          "short_name" : "潮見が丘中学校",
+         "sort_name" : "わつかないしりつしおみかおか",
          "url" : "http://www.siocyu.wakkanai.ne.jp/"
       },
       "稚内市立稚内中学校" : {
          "location_area" : "稚内市",
          "owner_type" : "市立",
-         "short_name" : "稚内中学校"
+         "short_name" : "稚内中学校",
+         "sort_name" : "わつかないしりつわつかないちゆう"
       },
       "稚内市立稚内南中学校" : {
          "location_area" : "稚内市",
          "owner_type" : "市立",
-         "short_name" : "稚内南中学校"
+         "short_name" : "稚内南中学校",
+         "sort_name" : "わつかないしりつわつかないみなみちゆう"
       },
       "稚内市立稚内東中学校" : {
          "location_area" : "稚内市",
          "owner_type" : "市立",
-         "short_name" : "稚内東中学校"
+         "short_name" : "稚内東中学校",
+         "sort_name" : "わつかないしりつわつかないひかし"
       },
       "積丹町立美国中学校" : {
          "location_area" : "積丹郡積丹町",
@@ -3036,6 +3150,7 @@
          "location_wikipedia_latlon" : "|43|1|12.8|N|141|31|17.4|E|",
          "location_zipcode" : "069-0832",
          "owner_type" : "私立",
+         "sort_name" : "りつめいかんけいしよう",
          "url" : "http://www.spc.ritsumei.ac.jp/",
          "wikipedia_name" : "立命館慶祥中学校・高等学校"
       },
@@ -3122,7 +3237,8 @@
       "美唄市立美唄中学校" : {
          "location_area" : "美唄市",
          "owner_type" : "市立",
-         "short_name" : "美唄中学校"
+         "short_name" : "美唄中学校",
+         "sort_name" : "ひはいしりつひはいちゆう"
       },
       "美幌町立北中学校" : {
          "location_area" : "網走郡美幌町",
@@ -3187,7 +3303,8 @@
       "芦別市立芦別中学校" : {
          "location_area" : "芦別市",
          "owner_type" : "市立",
-         "short_name" : "芦別中学校"
+         "short_name" : "芦別中学校",
+         "sort_name" : "あしへつしりつあしへつ"
       },
       "芽室町立上美生中学校" : {
          "location_area" : "河西郡芽室町",
@@ -3299,6 +3416,7 @@
          "location_wikipedia_latlon" : "|43|4|47.7|N|141|20|59.3|E|",
          "location_zipcode" : "001-0016",
          "owner_type" : "私立",
+         "sort_name" : "ふししよし",
          "url" : "http://www.fuji-gjshs.jp/",
          "wikipedia_name" : "藤女子中学校・高等学校"
       },
@@ -3402,6 +3520,7 @@
          "location_wikipedia_latlon" : "|41|47|14.1|N|140|45|24.2|E|",
          "location_zipcode" : "041-8543",
          "owner_type" : "私立",
+         "sort_name" : "いあいしよし",
          "url" : "http://www.iaijoshi-h.ed.jp/main/",
          "wikipedia_name" : "遺愛女子中学校・高等学校"
       },
@@ -3611,6 +3730,7 @@
          "location_zipcode" : "343-0014",
          "owner_type" : "市立",
          "short_name" : "東米里小・中学校ひまわり分校",
+         "sort_name" : "ひかしよねさと ひまわり",
          "url" : "http://www.himawari-ej.sapporo-c.ed.jp/"
       },
       "根室市立海星小中学校" : {

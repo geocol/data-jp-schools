@@ -4,6 +4,7 @@
          "location" : "広島県広島市安佐南区祇園2-33-16",
          "location_zipcode" : "731-0138",
          "owner_type" : "私立",
+         "sort_name" : "ええあいしいしえい",
          "url" : "http://www.aicj.ed.jp/",
          "wikipedia_name" : "AICJ中学校・高等学校"
       },
@@ -11,6 +12,7 @@
          "location" : "広島県広島市西区己斐東1-10-1",
          "location_zipcode" : "733-0811",
          "owner_type" : "私立",
+         "sort_name" : "のおとるたむせいしん",
          "url" : "http://www.hiro-seishin.ed.jp/",
          "wikipedia_name" : "ノートルダム清心中学校・高等学校"
       },
@@ -50,6 +52,7 @@
          "location_zipcode" : "723-0016",
          "owner_type" : "市立",
          "short_name" : "第三中学校",
+         "sort_name" : "みはらしりつたいさんちゆうかつこう",
          "url" : "http://www.mihara.ed.jp/~dai3-jh/"
       },
       "三原市立第二中学校" : {
@@ -98,6 +101,7 @@
          "location_zipcode" : "728-0012",
          "owner_type" : "市立",
          "short_name" : "十日市中学校",
+         "sort_name" : "みよししりつとおかいちちゆう",
          "url" : "http://www.tokaichi-j.hiroshima-c.ed.jp/"
       },
       "三次市立吉舎中学校" : {
@@ -200,6 +204,7 @@
          "location_zipcode" : "737-0862",
          "owner_type" : "市立",
          "short_name" : "吉浦中学校",
+         "sort_name" : "くれしりつよしうらちゆうかつこう",
          "url" : "http://www.city.kure.hiroshima.jp/~yosc/"
       },
       "呉市立呉中央中学校" : {
@@ -320,6 +325,7 @@
       },
       "呉青山中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "くれあおやま",
          "wikipedia_name" : "呉青山中学校・高等学校"
       },
       "坂町立坂中学校" : {
@@ -363,12 +369,14 @@
          "location_wikipedia_latlon" : "|34|26|17.0|N|133|8|27.6|E|",
          "location_zipcode" : "723-8501",
          "owner_type" : "私立",
+         "sort_name" : "しよすいかん",
          "url" : "http://www.josuikan.ed.jp/",
          "wikipedia_name" : "如水館中学校・高等学校"
       },
       "安田女子中学校" : {
          "location_wikipedia_latlon" : "|34|24|44.5|N|132|27|53.4|E|",
          "owner_type" : "私立",
+         "sort_name" : "やすたしよし",
          "wikipedia_name" : "安田女子中学校・高等学校"
       },
       "安芸太田町立加計中学校" : {
@@ -448,6 +456,7 @@
          "location_zipcode" : "722-0062",
          "owner_type" : "市立",
          "short_name" : "向東中学校",
+         "sort_name" : "おのみちしりつむかいひかしちゆうかつこう",
          "url" : "http://www.onomichi.ed.jp/mukaihigashi-j/"
       },
       "尾道市立因北中学校" : {
@@ -476,6 +485,7 @@
          "location_zipcode" : "722-0023",
          "owner_type" : "市立",
          "short_name" : "栗原中学校",
+         "sort_name" : "おのみちしりつくりはらちゆうかつこう",
          "url" : "http://www.onomichi.ed.jp/kurihara-j/"
       },
       "尾道市立浦崎中学校" : {
@@ -519,6 +529,7 @@
          "location_zipcode" : "722-0046",
          "owner_type" : "市立",
          "short_name" : "長江中学校",
+         "sort_name" : "おのみちしりつなかえしょうかっこう",
          "url" : "http://www.onomichi.ed.jp/nagae-j/"
       },
       "尾道市立高西中学校" : {
@@ -530,6 +541,7 @@
          "location" : "広島県廿日市市佐方本町1-1",
          "location_zipcode" : "738-8504",
          "owner_type" : "私立",
+         "sort_name" : "さんようしよかくえん",
          "url" : "http://www.sanyo-jogakuen.ed.jp/",
          "wikipedia_name" : "山陽女学園中等部・高等部"
       },
@@ -541,23 +553,27 @@
          "location" : "広島県広島市佐伯区海老山南2-2-1",
          "location_zipcode" : "731-5138",
          "owner_type" : "私立",
+         "sort_name" : "ひろしまなきさ",
          "url" : "http://www.nagisa.ed.jp/",
          "wikipedia_name" : "広島なぎさ中学校・高等学校"
       },
       "広島三育学院中学校" : {
          "location_wikipedia_latlon" : "|34|33|13.8|N|132|55|10.5|E|",
          "owner_type" : "私立",
+         "sort_name" : "ひろしまさんいくかくいん",
          "wikipedia_name" : "広島三育学院高等学校・中学校・大和小学校"
       },
       "広島城北中学校" : {
          "location" : "広島県広島市東区戸坂城山町1-3",
          "location_zipcode" : "732-0015",
          "owner_type" : "私立",
+         "sort_name" : "ひろしましようほく",
          "url" : "http://www.hiroshimajohoku.ed.jp/index.html",
          "wikipedia_name" : "広島城北中学校・高等学校"
       },
       "広島大学附属三原中学校" : {
          "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくみはら",
          "wikipedia_name" : "広島大学附属三原幼稚園・小学校・中学校"
       },
       "広島大学附属中学校" : {
@@ -565,6 +581,7 @@
          "location_wikipedia_latlon" : "|34|22|20.9|N|132|27|55.5|E|",
          "location_zipcode" : "734-0005",
          "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそく",
          "url" : "http://www.hiroshima-u.ac.jp/fsc/index.html",
          "wikipedia_name" : "広島大学附属中学校・高等学校"
       },
@@ -575,6 +592,7 @@
          "location" : "広島県福山市春日町五丁目14番1号",
          "location_zipcode" : "721-8551",
          "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくふくやま",
          "url" : "http://www.fukuyama.hiroshima-u.ac.jp/",
          "wikipedia_name" : "広島大学附属福山中学校・高等学校"
       },
@@ -583,6 +601,7 @@
          "location_wikipedia_latlon" : "|34|23|54.2|N|132|28|1|E|",
          "location_zipcode" : "730-0014",
          "owner_type" : "私立",
+         "sort_name" : "ひろしましよかくいん",
          "url" : "http://www.hjs.ed.jp/",
          "wikipedia_name" : "広島女学院中学校・高等学校"
       },
@@ -590,6 +609,7 @@
          "location" : "広島県広島市西区古江上1丁目630番地",
          "location_zipcode" : "733-0875",
          "owner_type" : "私立",
+         "sort_name" : "ひろしまかくいん",
          "url" : "http://www.hiroshimagakuin.ed.jp/",
          "wikipedia_name" : "広島学院中学校・高等学校"
       },
@@ -614,6 +634,7 @@
          "location_zipcode" : "731-0232",
          "owner_type" : "市立",
          "short_name" : "亀山中学校",
+         "sort_name" : "ひろしまししりつかめやまちゆうかつこう",
          "url" : "http://www.kameyama-j.edu.city.hiroshima.jp"
       },
       "広島市立亀崎中学校" : {
@@ -668,6 +689,7 @@
          "location_zipcode" : "734-0026",
          "owner_type" : "市立",
          "short_name" : "仁保中学校",
+         "sort_name" : "ひろしましりつにほちゆうかつこう",
          "url" : "http://www.niho-j.edu.city.hiroshima.jp/index.htm"
       },
       "広島市立伴中学校" : {
@@ -681,6 +703,7 @@
          "location_zipcode" : "734-0017",
          "owner_type" : "市立",
          "short_name" : "似島中学校",
+         "sort_name" : "ひろしましりにのしまちゆうかつこう",
          "url" : "http://www.ninoshima-j.edu.city.hiroshima.jp/"
       },
       "広島市立似島学園中学校" : {
@@ -735,6 +758,7 @@
          "location_zipcode" : "731-0124",
          "owner_type" : "市立",
          "short_name" : "城山北中学校",
+         "sort_name" : "ひろしましりつしようやまきたちゆうかつこう",
          "url" : "http://www.jouyamakita-j.edu.city.hiroshima.jp/index.htm/"
       },
       "広島市立大州中学校" : {
@@ -761,6 +785,7 @@
          "location_zipcode" : "731-0212",
          "owner_type" : "市立",
          "short_name" : "安佐北中学校",
+         "sort_name" : "ひろしましりつあさきたちゆうかつこうこうとうかつこう",
          "url" : "http://www.asakita-h.edu.city.hiroshima.jp/",
          "wikipedia_name" : "広島市立安佐北中学校・高等学校"
       },
@@ -770,6 +795,7 @@
          "location_zipcode" : "731-0125",
          "owner_type" : "市立",
          "short_name" : "安佐南中学校",
+         "sort_name" : "ひろしましりつあさみなみちゆうかつこう",
          "url" : "http://www.asaminami-j.edu.city.hiroshima.jp/"
       },
       "広島市立安西中学校" : {
@@ -793,6 +819,7 @@
          "location_zipcode" : "730-0014",
          "owner_type" : "市立",
          "short_name" : "幟町中学校",
+         "sort_name" : "ひろしましりつのほりちようちゆうかつこう",
          "url" : "http://www.noborichou-j.edu.city.hiroshima.jp/"
       },
       "広島市立庚午中学校" : {
@@ -824,6 +851,7 @@
          "location_zipcode" : "732-0062",
          "owner_type" : "市立",
          "short_name" : "早稲田中学校",
+         "sort_name" : "ひろしましりつわせたちゆうかつこう",
          "url" : "http://www.waseda-j.edu.city.hiroshima.jp/"
       },
       "広島市立東原中学校" : {
@@ -842,6 +870,7 @@
          "location_zipcode" : "732-0813",
          "owner_type" : "市立",
          "short_name" : "段原中学校",
+         "sort_name" : "ひろしましりつたんはらちゆうかつこう",
          "url" : "http://www.danbara-j.edu.city.hiroshima.jp/"
       },
       "広島市立江波中学校" : {
@@ -950,6 +979,7 @@
          "location_zipcode" : "731-0136",
          "owner_type" : "市立",
          "short_name" : "長束中学校",
+         "sort_name" : "ひろしましりつなかつかちゆうかつこう",
          "url" : "http://www.nagatsuka-j.edu.city.hiroshima.jp/"
       },
       "広島市立阿戸中学校" : {
@@ -969,6 +999,7 @@
       },
       "広島新庄中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "ひろしましんしよう",
          "wikipedia_name" : "広島新庄中学校・高等学校"
       },
       "広島県立広島中学校" : {
@@ -978,6 +1009,7 @@
          "owner_type" : "県立",
          "school_area" : "全県",
          "short_name" : "広島中学校",
+         "sort_name" : "ひろしま",
          "url" : "http://www.hcyuko.hiroshima-c.ed.jp/",
          "wikipedia_name" : "広島県立広島中学校・高等学校"
       },
@@ -1106,6 +1138,7 @@
          "owner_type" : "市立",
          "school_area" : "八本松小学校区・原小学校区・吉川小学校区",
          "short_name" : "八本松中学校",
+         "sort_name" : "ひかしひろしましりつはちほんまつ",
          "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~hachihon-chu/"
       },
       "東広島市立向陽中学校" : {
@@ -1143,6 +1176,7 @@
          "owner_type" : "市立",
          "school_area" : "川上小学校区・平岩小学校区",
          "short_name" : "磯松中学校",
+         "sort_name" : "ひかしひろしましりついそまつちゆうかくつこう",
          "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~isomatsu-chu/"
       },
       "東広島市立福富中学校" : {
@@ -1180,6 +1214,7 @@
          "owner_type" : "市立",
          "school_area" : "中黒瀬小学校区・下黒瀬小学校区・上黒瀬小学校区・乃美尾小学校区・板城西小学校区",
          "short_name" : "黒瀬中学校",
+         "sort_name" : "ひかしひろしましりつくろせちゆうかつこう",
          "url" : "http://www2.city.higashihiroshima.hiroshima.jp/~kurose-chu/"
       },
       "武田中学校" : {
@@ -1187,12 +1222,14 @@
          "location_wikipedia_latlon" : "|34|21|27|N|132|40|40.5|E|",
          "location_zipcode" : "739-2611",
          "owner_type" : "私立",
+         "sort_name" : "たけた",
          "url" : "http://www.takeda.ed.jp/",
          "wikipedia_name" : "武田中学校・高等学校"
       },
       "比治山女子中学校" : {
          "location_wikipedia_latlon" : "|34|22|38|N|132|28|50|E|",
          "owner_type" : "私立",
+         "sort_name" : "ひしやましよし",
          "wikipedia_name" : "比治山女子中学校・高等学校"
       },
       "江田島市立三高中学校" : {
@@ -1231,6 +1268,7 @@
          "location_zipcode" : "736-0026",
          "owner_type" : "町立",
          "short_name" : "海田中学校",
+         "sort_name" : "かいたちようりつかいた",
          "url" : "http://www.hrs-kaita-j.ed.jp/"
       },
       "海田町立海田西中学校" : {
@@ -1239,6 +1277,7 @@
          "location_zipcode" : "736-0052",
          "owner_type" : "町立",
          "short_name" : "海田西中学校",
+         "sort_name" : "かいたちようりつかいたにし",
          "url" : "http://www.kaitanishi-j.ed.jp/"
       },
       "熊野町立熊野中学校" : {
@@ -1253,6 +1292,7 @@
       },
       "盈進中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "えいしん",
          "wikipedia_name" : "盈進中学校・盈進高等学校"
       },
       "神石高原町立三和中学校" : {
@@ -1319,6 +1359,7 @@
          "location_zipcode" : "720-0833",
          "owner_type" : "市立",
          "short_name" : "向丘中学校",
+         "sort_name" : "ふくやましりつむかいかおか",
          "url" : "http://www.edu.city.fukuyama.hiroshima.jp/chu-mukaigaoka/"
       },
       "福山市立城北中学校" : {
@@ -1415,6 +1456,7 @@
          "location_zipcode" : "720-0032",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "ふくやましりつひかしちゆうかつこう",
          "url" : "http://www.edu.city.fukuyama.hiroshima.jp/chu-higashi/"
       },
       "福山市立東朋中学校" : {
@@ -1519,6 +1561,7 @@
          "location_zipcode" : "720-2413",
          "owner_type" : "市立",
          "short_name" : "駅家中学校",
+         "sort_name" : "ふくやましりつえきや",
          "url" : "http://www.edu.city.fukuyama.hiroshima.jp/chu-ekiya//"
       },
       "福山市立駅家南中学校" : {
@@ -1546,6 +1589,7 @@
          "location" : "広島県福山市西深津町三丁目4番1号",
          "location_zipcode" : "721-8545",
          "owner_type" : "私立",
+         "sort_name" : "ふくやまあけのほし",
          "url" : "http://www.akenohoshi.ed.jp/",
          "wikipedia_name" : "福山暁の星女子中学校・高等学校"
       },
@@ -1576,6 +1620,7 @@
          "location" : "広島県福山市引野町980-1",
          "location_zipcode" : "721-8502",
          "owner_type" : "私立",
+         "sort_name" : "えいすうかつかん",
          "url" : "http://www.eisu-ejs.ac.jp/",
          "wikipedia_name" : "英数学館小学校・中学校・高等学校"
       },
@@ -1589,10 +1634,12 @@
       },
       "鈴峯女子中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "すすかみねしよし",
          "wikipedia_name" : "鈴峯女子中学校・高等学校"
       },
       "銀河学院中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "きんかかくいん",
          "wikipedia_name" : "銀河学院中学校・高等学校"
       }
    }

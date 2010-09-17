@@ -36,6 +36,7 @@
          "location_zipcode" : "871-0003",
          "owner_type" : "市立",
          "short_name" : "東中津中学校",
+         "sort_name" : "なかつしりつなかつ",
          "url" : "http://nak-higasinakatu-j.oita-ed.jp/"
       },
       "中津市立緑ケ丘中学校" : {
@@ -76,12 +77,14 @@
       "佐伯市立佐伯南中学校" : {
          "location_area" : "佐伯市",
          "owner_type" : "市立",
-         "short_name" : "佐伯南中学校"
+         "short_name" : "佐伯南中学校",
+         "sort_name" : "さいきしりつさいきみなみちゆうかつこう"
       },
       "佐伯市立佐伯城南中学校" : {
          "location_area" : "佐伯市",
          "owner_type" : "市立",
-         "short_name" : "佐伯城南中学校"
+         "short_name" : "佐伯城南中学校",
+         "sort_name" : "さいきしりつさいきしようなん"
       },
       "佐伯市立大入島中学校" : {
          "location_area" : "佐伯市",
@@ -97,6 +100,7 @@
          "location_area" : "佐伯市",
          "owner_type" : "市立",
          "short_name" : "宇目緑豊中学校",
+         "sort_name" : "さいきしりつうめりよくほうちゆうかつこう",
          "url" : "http://ume-ryokuhou-j.oita-ed.jp/"
       },
       "佐伯市立彦陽中学校" : {
@@ -135,6 +139,7 @@
          "location_zipcode" : "876-2401",
          "owner_type" : "市立",
          "short_name" : "蒲江翔南中学校",
+         "sort_name" : "さいきしりつかまえしようなんちゆうかつこう",
          "url" : "http://www.saiki.tv/~kamae-jh/"
       },
       "佐伯市立鶴見中学校" : {
@@ -158,6 +163,7 @@
          "location_zipcode" : "874-0021",
          "owner_type" : "市立",
          "short_name" : "北部中学校",
+         "sort_name" : "へつふしりつほくふちゆうかつこう",
          "url" : "http://bep-hokubu-j.oita-ed.jp"
       },
       "別府市立山の手中学校" : {
@@ -220,11 +226,13 @@
          "location" : "大分県大分市明野高尾一丁目6番1号",
          "location_zipcode" : "870-0162",
          "owner_type" : "私立",
+         "sort_name" : "おおいた",
          "url" : "http://www.oita-h.ed.jp/",
          "wikipedia_name" : "大分中学校・高等学校"
       },
       "大分大学教育福祉科学部附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "おおいたたいかくきよういくふくしかかくふふそくちゆう"
       },
       "大分市立上野ヶ丘中学校" : {
          "location" : "大分県大分市上野町4番5号",
@@ -232,6 +240,7 @@
          "location_zipcode" : "870-0832",
          "owner_type" : "市立",
          "short_name" : "上野ヶ丘中学校",
+         "sort_name" : "おおいたしりつうえのかおか",
          "url" : "http://oit-uenogaoka-j.oita-ed.jp/"
       },
       "大分市立佐賀関中学校" : {
@@ -240,6 +249,7 @@
          "location_zipcode" : "879-2201",
          "owner_type" : "市立",
          "short_name" : "佐賀関中学校",
+         "sort_name" : "おおいたしりつさかのせき",
          "url" : "http://sag-saganoseki-j.oita-ed.jp/"
       },
       "大分市立判田中学校" : {
@@ -256,6 +266,7 @@
          "location_zipcode" : "870-0807",
          "owner_type" : "市立",
          "short_name" : "南大分中学校",
+         "sort_name" : "おおいたしりつみなみおおいた",
          "url" : "http://www.oct-net.ne.jp/~nantu-j1/"
       },
       "大分市立原川中学校" : {
@@ -263,7 +274,8 @@
          "location_area" : "大分市",
          "location_zipcode" : "870-0137",
          "owner_type" : "市立",
-         "short_name" : "原川中学校"
+         "short_name" : "原川中学校",
+         "sort_name" : "おおいたしりつはるかわ"
       },
       "大分市立吉野中学校" : {
          "location" : "大分県大分市大字辻812番地",
@@ -271,13 +283,15 @@
          "location_zipcode" : "879-7871",
          "owner_type" : "市立",
          "short_name" : "吉野中学校",
+         "sort_name" : "おおいたしりつよしの",
          "url" : "http://www.oct-net.ne.jp/~yosin-j1/"
       },
       "大分市立坂ノ市中学校" : {
          "location_area" : "大分市",
          "location_zipcode" : "870-0308",
          "owner_type" : "市立",
-         "short_name" : "坂ノ市中学校"
+         "short_name" : "坂ノ市中学校",
+         "sort_name" : "おおいたしりつさかのいち"
       },
       "大分市立城南中学校" : {
          "location" : "大分県大分市大字荏隈754番地の19",
@@ -285,6 +299,7 @@
          "location_zipcode" : "870-0889",
          "owner_type" : "市立",
          "short_name" : "城南中学校",
+         "sort_name" : "おおいたしりつしようなん",
          "url" : "http://www.oct-net.ne.jp/~joutu-j1/"
       },
       "大分市立城東中学校" : {
@@ -293,6 +308,7 @@
          "location_zipcode" : "870-0925",
          "owner_type" : "市立",
          "short_name" : "城東中学校",
+         "sort_name" : "おおいたしりつしようとう",
          "url" : "http://www.oct-net.ne.jp/~joutou-1/"
       },
       "大分市立大分西中学校" : {
@@ -300,7 +316,8 @@
          "location_area" : "大分市",
          "location_zipcode" : "870-0872",
          "owner_type" : "市立",
-         "short_name" : "大分西中学校"
+         "short_name" : "大分西中学校",
+         "sort_name" : "おおいたしりつおおいたにし"
       },
       "大分市立大在中学校" : {
          "location" : "大分県大分市大字政所2602-12",
@@ -308,6 +325,7 @@
          "location_zipcode" : "870-0268",
          "owner_type" : "市立",
          "short_name" : "大在中学校",
+         "sort_name" : "おおいたしりつおおさい",
          "url" : "http://www.oct-net.ne.jp/~oozai-j1/"
       },
       "大分市立大東中学校" : {
@@ -317,6 +335,7 @@
          "location_zipcode" : "870-0126",
          "owner_type" : "市立",
          "short_name" : "大東中学校",
+         "sort_name" : "おおいたしりつたいとう",
          "url" : "http://www.oct-net.ne.jp/~daitou-1/"
       },
       "大分市立戸次中学校" : {
@@ -325,6 +344,7 @@
          "location_zipcode" : "879-7761",
          "owner_type" : "市立",
          "short_name" : "戸次中学校",
+         "sort_name" : "おおいたしりつへつき",
          "url" : "http://oit-hetugi-j.oita-ed.jp/"
       },
       "大分市立明野中学校" : {
@@ -333,6 +353,7 @@
          "location_zipcode" : "870-0163",
          "owner_type" : "市立",
          "short_name" : "明野中学校",
+         "sort_name" : "おおいたしりつあけの",
          "url" : "http://oit-akeno-j.oita-ed.jp/"
       },
       "大分市立東陽中学校" : {
@@ -341,6 +362,7 @@
          "location_zipcode" : "870-0118",
          "owner_type" : "市立",
          "short_name" : "東陽中学校",
+         "sort_name" : "おおいたしりつとうよう",
          "url" : "http://www.oct-net.ne.jp/~touyou-1/"
       },
       "大分市立滝尾中学校" : {
@@ -349,6 +371,7 @@
          "location_zipcode" : "870-0942",
          "owner_type" : "市立",
          "short_name" : "滝尾中学校",
+         "sort_name" : "おおいたしりつたきお",
          "url" : "http://www.oct-net.ne.jp/~takio-j1/"
       },
       "大分市立王子中学校" : {
@@ -356,7 +379,8 @@
          "location_area" : "大分市",
          "location_zipcode" : "870-0815",
          "owner_type" : "市立",
-         "short_name" : "王子中学校"
+         "short_name" : "王子中学校",
+         "sort_name" : "おおいたしりつおうし"
       },
       "大分市立碩田中学校" : {
          "location" : "大分県大分市碩田町2丁目5番60号",
@@ -364,6 +388,7 @@
          "location_zipcode" : "870-0048",
          "owner_type" : "市立",
          "short_name" : "碩田中学校",
+         "sort_name" : "おおいたしりつせきてん",
          "url" : "http://www.oct-net.ne.jp/~sekiden1/"
       },
       "大分市立神崎中学校" : {
@@ -372,6 +397,7 @@
          "location_zipcode" : "879-2111",
          "owner_type" : "市立",
          "short_name" : "神崎中学校",
+         "sort_name" : "おおいたしりつこうさき",
          "url" : "http://sag-kouzaki-j.oita-ed.jp/"
       },
       "大分市立稙田中学校" : {
@@ -380,6 +406,7 @@
          "location_zipcode" : "870-1151",
          "owner_type" : "市立",
          "short_name" : "稙田中学校",
+         "sort_name" : "おおいたしりつわさた",
          "url" : "http://www.oct-net.ne.jp/~watue-j1/"
       },
       "大分市立稙田南中学校" : {
@@ -388,6 +415,7 @@
          "location_zipcode" : "870-1143",
          "owner_type" : "市立",
          "short_name" : "稙田南中学校",
+         "sort_name" : "おおいたしりつわさたみなみ",
          "url" : "http://www.oct-net.ne.jp/~wasadam1/"
       },
       "大分市立稙田東中学校" : {
@@ -396,6 +424,7 @@
          "location_zipcode" : "870-1123",
          "owner_type" : "市立",
          "short_name" : "稙田東中学校",
+         "sort_name" : "おおいたしりつわさたひかし",
          "url" : "http://www.oct-net.ne.jp/~wasadah1/"
       },
       "大分市立稙田西中学校" : {
@@ -404,6 +433,7 @@
          "location_zipcode" : "870-1154",
          "owner_type" : "市立",
          "short_name" : "稙田西中学校",
+         "sort_name" : "おおいたしりつわさたにし",
          "url" : "http://www.oct-net.ne.jp/~wasadan1/"
       },
       "大分市立竹中中学校" : {
@@ -412,6 +442,7 @@
          "location_zipcode" : "879-7501",
          "owner_type" : "市立",
          "short_name" : "竹中中学校",
+         "sort_name" : "おおいたしりつたけなか",
          "url" : "http://www.oct-net.ne.jp/~taken-j1/"
       },
       "大分市立野津原中学校" : {
@@ -420,6 +451,7 @@
          "location_zipcode" : "870-1203",
          "owner_type" : "市立",
          "short_name" : "野津原中学校",
+         "sort_name" : "おおいたしりつのつはる",
          "url" : "http://www.oct-net.ne.jp/~nth-not1/"
       },
       "大分市立鶴崎中学校" : {
@@ -428,6 +460,7 @@
          "location_zipcode" : "870-0131",
          "owner_type" : "市立",
          "short_name" : "鶴崎中学校",
+         "sort_name" : "おおいたしりつつるさき",
          "url" : "http://www.oct-net.ne.jp/~turut-j1/"
       },
       "大分県立大分豊府中学校" : {
@@ -486,6 +519,7 @@
       },
       "岩田中学校" : {
          "owner_type" : "私立",
+         "sort_name" : "いわたかくえん",
          "wikipedia_name" : "岩田中学校・高等学校"
       },
       "日出町立南端中学校" : {
@@ -530,6 +564,7 @@
          "location_zipcode" : "877-0052",
          "owner_type" : "市立",
          "short_name" : "南部中学校",
+         "sort_name" : "ひたしりつなんふ",
          "url" : "http://hit-nanbu-j.oita-ed.jp/"
       },
       "日田市立大山中学校" : {
@@ -571,6 +606,7 @@
          "location" : "大分県別府市野口原3088番地",
          "location_zipcode" : "874-0903",
          "owner_type" : "私立",
+         "sort_name" : "めいほう",
          "url" : "http://www.meiho-beppu.jp/",
          "wikipedia_name" : "明豊中学校・高等学校"
       },
@@ -590,6 +626,7 @@
          "location_zipcode" : "879-1307",
          "owner_type" : "市立",
          "short_name" : "山香中学校",
+         "sort_name" : "きつきしりつやまかちゆうかつこう",
          "url" : "http://ymg-yamaga-j.oita-ed.jp/"
       },
       "杵築市立杵築中学校" : {
@@ -773,6 +810,7 @@
          "location_zipcode" : "872-1101",
          "owner_type" : "市立",
          "short_name" : "河内中学校",
+         "sort_name" : "ふんこたかたしりつかわちちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/kawatityu/kawachichu.jsp"
       },
       "豊後高田市立田染中学校" : {
@@ -781,6 +819,7 @@
          "location_zipcode" : "879-0842",
          "owner_type" : "市立",
          "short_name" : "田染中学校",
+         "sort_name" : "ふんこたかたしりつたしふちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/tashibu/tashibu.jsp"
       },
       "豊後高田市立真玉中学校" : {
@@ -788,6 +827,7 @@
          "location_area" : "豊後高田市",
          "owner_type" : "市立",
          "short_name" : "真玉中学校",
+         "sort_name" : "ふんこたかたしりつまたまちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/matamatyuu/matamachu.jsp"
       },
       "豊後高田市立都甲中学校" : {
@@ -796,6 +836,7 @@
          "location_zipcode" : "879-0735",
          "owner_type" : "市立",
          "short_name" : "都甲中学校",
+         "sort_name" : "ふんこたかたしりつとこうちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/togoutyu/togoutyu1.jsp"
       },
       "豊後高田市立香々地中学校" : {
@@ -804,6 +845,7 @@
          "location_zipcode" : "872-1202",
          "owner_type" : "市立",
          "short_name" : "香々地中学校",
+         "sort_name" : "ふんこたかたしりつかかちちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/kakadityuu/kachu.jsp"
       },
       "豊後高田市立高田中学校" : {
@@ -812,6 +854,7 @@
          "location_zipcode" : "879-0606",
          "owner_type" : "市立",
          "short_name" : "高田中学校",
+         "sort_name" : "ふんこたかたしりつたかたちゆうかつこう",
          "url" : "http://www.city.bungotakada.oita.jp/kyouiku/takatyu/takatyu.jsp"
       }
    },
@@ -822,6 +865,7 @@
          "location_zipcode" : "870-0877",
          "owner_type" : "市立",
          "short_name" : "賀来小中学校",
+         "sort_name" : "おおいたしりつかく",
          "url" : "http://www.oct-net.ne.jp/~kaku-e1/"
       }
    }

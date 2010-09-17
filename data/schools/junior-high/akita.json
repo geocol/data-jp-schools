@@ -43,7 +43,8 @@
       "五城目町立五城目第一中学校" : {
          "location_area" : "南秋田郡五城目町",
          "owner_type" : "町立",
-         "short_name" : "五城目第一中学校"
+         "short_name" : "五城目第一中学校",
+         "sort_name" : "こしようめちようりつこしようめたいいちちゆうかつこう"
       },
       "井川町立井川中学校" : {
          "location" : "秋田県南秋田郡井川町坂本字山崎38",
@@ -51,6 +52,7 @@
          "location_zipcode" : "018-1523",
          "owner_type" : "町立",
          "short_name" : "井川中学校",
+         "sort_name" : "いかわちょうりついかわ",
          "url" : "http://www.town.ikawa.akita.jp/edu/tyu/index.html"
       },
       "仙北市立桧木内中学校" : {
@@ -184,6 +186,7 @@
          "location_zipcode" : "010-0443",
          "owner_type" : "村立",
          "short_name" : "大潟中学校",
+         "sort_name" : "おおかたそんりつおおかた",
          "url" : "http://ac.ogata.or.jp/cyuu/"
       },
       "大館市立下川沿中学校" : {
@@ -224,7 +227,8 @@
       "大館市立第一中学校" : {
          "location_area" : "大館市",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "おおたてしりつたいいち"
       },
       "大館市立第二中学校" : {
          "location_area" : "大館市",
@@ -327,6 +331,7 @@
          "location_zipcode" : "012-0867",
          "owner_type" : "市立",
          "short_name" : "湯沢南中学校",
+         "sort_name" : "ゆさわしりつゆさわみなみ",
          "url" : "http://www.yutopia.or.jp/~minami/index.html"
       },
       "湯沢市立皆瀬中学校" : {
@@ -365,6 +370,7 @@
          "location_zipcode" : "018-1401",
          "owner_type" : "市立",
          "short_name" : "羽城中学校",
+         "sort_name" : "かたかみしりつうしよう",
          "url" : "http://shisetsu.city.katagami.akita.jp/school/ujou-jh/"
       },
       "由利本荘市立出羽中学校" : {
@@ -402,7 +408,8 @@
          "location_area" : "由利本荘市",
          "location_zipcode" : "015-0211",
          "owner_type" : "市立",
-         "short_name" : "東由利中学校"
+         "short_name" : "東由利中学校",
+         "sort_name" : "ゆりほんしようしりつひかしゆりちゆうかつこう"
       },
       "由利本荘市立由利中学校" : {
          "location_area" : "由利本荘市",
@@ -445,7 +452,8 @@
          "short_name" : "男鹿東中学校"
       },
       "秋田大学教育文化学部附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "あきたたいかくきよういくふんかふふそくちゆう"
       },
       "秋田市立下北手中学校" : {
          "location" : "秋田市下北手松崎字走り崎14番地",
@@ -453,6 +461,7 @@
          "location_zipcode" : "010-0051",
          "owner_type" : "市立",
          "short_name" : "下北手中学校",
+         "sort_name" : "あきたしりつしもきたて",
          "url" : "http://www.edu.city.akita.akita.jp/~skt-c/"
       },
       "秋田市立下浜中学校" : {
@@ -466,6 +475,7 @@
          "location_zipcode" : "010-1608",
          "owner_type" : "市立",
          "short_name" : "勝平中学校",
+         "sort_name" : "あきたしりつかつひら",
          "url" : "http://www.edu.city.akita.akita.jp/~kth-c/"
       },
       "秋田市立土崎中学校" : {
@@ -474,6 +484,7 @@
          "location_zipcode" : "011-0941",
          "owner_type" : "市立",
          "short_name" : "土崎中学校",
+         "sort_name" : "あきたしりつつちさき",
          "url" : "http://www.edu.city.akita.akita.jp/~tcz-c/index.html"
       },
       "秋田市立城南中学校" : {
@@ -482,6 +493,7 @@
          "location_zipcode" : "010-0035",
          "owner_type" : "市立",
          "short_name" : "城南中学校",
+         "sort_name" : "あきたしりつしようなん",
          "url" : "http://www.edu.city.akita.akita.jp/~jnn-c/"
       },
       "秋田市立城東中学校" : {
@@ -490,6 +502,7 @@
          "location_zipcode" : "010-0041",
          "owner_type" : "市立",
          "short_name" : "城東中学校",
+         "sort_name" : "あきたしりつしようとう",
          "url" : "http://www.edu.city.akita.akita.jp/~jot-c/index.html"
       },
       "秋田市立外旭川中学校" : {
@@ -498,6 +511,7 @@
          "location_zipcode" : "010-0802",
          "owner_type" : "市立",
          "short_name" : "外旭川中学校",
+         "sort_name" : "あきたしりつそとあさひかわ",
          "url" : "http://www.edu.city.akita.akita.jp/~sas-c/"
       },
       "秋田市立太平中学校" : {
@@ -506,6 +520,7 @@
          "location_zipcode" : "010-1103",
          "owner_type" : "市立",
          "short_name" : "太平中学校",
+         "sort_name" : "あきたしりつたいへい",
          "url" : "http://www.edu.city.akita.akita.jp/~tah-c/"
       },
       "秋田市立将軍野中学校" : {
@@ -514,6 +529,7 @@
          "location_zipcode" : "011-0936",
          "owner_type" : "市立",
          "short_name" : "将軍野中学校",
+         "sort_name" : "あきたしりつしようくんの",
          "url" : "http://www.edu.city.akita.akita.jp/~sgn-c/"
       },
       "秋田市立山王中学校" : {
@@ -522,6 +538,7 @@
          "location_zipcode" : "010-0951",
          "owner_type" : "市立",
          "short_name" : "山王中学校",
+         "sort_name" : "あきたしりつさんのう",
          "url" : "http://www.edu.city.akita.akita.jp/~snn-c/"
       },
       "秋田市立岩見三内中学校" : {
@@ -540,6 +557,7 @@
          "location_zipcode" : "010-1423",
          "owner_type" : "市立",
          "short_name" : "御野場中学校",
+         "sort_name" : "あきたしりつおのはちゆうかつこう",
          "url" : "http://www.edu.city.akita.akita.jp/~onb-c/"
       },
       "秋田市立桜中学校" : {
@@ -558,6 +576,7 @@
          "location_zipcode" : "010-0916",
          "owner_type" : "市立",
          "short_name" : "泉中学校",
+         "sort_name" : "あきたしりついすみ",
          "url" : "http://www.edu.city.akita.akita.jp/~izm-c/"
       },
       "秋田市立秋田北中学校" : {
@@ -566,6 +585,7 @@
          "location_zipcode" : "010-0145",
          "owner_type" : "市立",
          "short_name" : "秋田北中学校",
+         "sort_name" : "あきたしりつあきたきた",
          "url" : "http://www.edu.city.akita.akita.jp/~akk-c/"
       },
       "秋田市立秋田南中学校" : {
@@ -574,6 +594,7 @@
          "location_zipcode" : "010-0014",
          "owner_type" : "市立",
          "short_name" : "秋田南中学校",
+         "sort_name" : "あきたしりつあきたみなみ",
          "url" : "http://www.edu.city.akita.akita.jp/~akm-c/"
       },
       "秋田市立秋田東中学校" : {
@@ -582,6 +603,7 @@
          "location_zipcode" : "010-0863",
          "owner_type" : "市立",
          "short_name" : "秋田東中学校",
+         "sort_name" : "あきたしりつあきたひかし",
          "url" : "http://www.edu.city.akita.akita.jp/~akh-c/"
       },
       "秋田市立秋田西中学校" : {
@@ -590,6 +612,7 @@
          "location_zipcode" : "010-0014",
          "owner_type" : "市立",
          "short_name" : "秋田西中学校",
+         "sort_name" : "あきたしりつあきたにし",
          "url" : "http://www.edu.city.akita.akita.jp/~akn-c/"
       },
       "秋田市立豊岩中学校" : {
@@ -608,6 +631,7 @@
          "location_zipcode" : "011-0911",
          "owner_type" : "市立",
          "short_name" : "飯島中学校",
+         "sort_name" : "あきたしりついいしま",
          "url" : "http://www.edu.city.akita.akita.jp/~iij-c/"
       },
       "秋田県立大館国際情報学院中学校" : {
@@ -652,6 +676,7 @@
          "location_zipcode" : "012-1242",
          "owner_type" : "町立",
          "short_name" : "高瀬中学校",
+         "sort_name" : "うこちようりつたかせちゆう",
          "url" : "http://www.yutopia.or.jp/~takase/"
       },
       "聖霊女子短期大学付属中学校" : {
@@ -660,6 +685,7 @@
          "location_zipcode" : "010-8533",
          "owner_type" : "私立",
          "short_name" : "聖霊女子短大付属中学校",
+         "sort_name" : "せいれいしよしたんきたいかくふそく",
          "url" : "http://academic3.plala.or.jp/seisnr/",
          "wikipedia_name" : "聖霊女子短期大学付属中学校・高等学校"
       },
@@ -724,6 +750,7 @@
          "location_zipcode" : "018-5201",
          "owner_type" : "市立",
          "short_name" : "花輪第一中学校",
+         "sort_name" : "かつのしりつはなわたいいち",
          "url" : "http://www.ink.or.jp/~hanawa1/"
       },
       "鹿角市立花輪第二中学校" : {
@@ -732,6 +759,7 @@
          "location_zipcode" : "018-5201",
          "owner_type" : "市立",
          "short_name" : "花輪第二中学校",
+         "sort_name" : "かつのしりつはなわたいに",
          "url" : "http://www.ink.or.jp/~nicyu_h/"
       }
    }

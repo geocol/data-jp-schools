@@ -41,28 +41,33 @@
          "location_zipcode" : "415-0037",
          "owner_type" : "市立",
          "short_name" : "下田中学校",
+         "sort_name" : "しもたしりつしもたちゆうかつこう",
          "url" : "http://www.city.shimoda.shizuoka.jp/gakkoukyouikuka/Topics/Shisetsu/J_school/S_jschool_shimoda.jsp"
       },
       "下田市立下田東中学校" : {
          "location_area" : "下田市",
          "owner_type" : "市立",
-         "short_name" : "下田東中学校"
+         "short_name" : "下田東中学校",
+         "sort_name" : "しもたしりつしもたひかしちゆうかつこう"
       },
       "下田市立稲梓中学校" : {
          "location_area" : "下田市",
          "owner_type" : "市立",
-         "short_name" : "稲梓中学校"
+         "short_name" : "稲梓中学校",
+         "sort_name" : "しもたしりついなすさちゆうかつこう"
       },
       "下田市立稲生沢中学校" : {
          "location_area" : "下田市",
          "owner_type" : "市立",
-         "short_name" : "稲生沢中学校"
+         "short_name" : "稲生沢中学校",
+         "sort_name" : "しもたしりついのうさわちゆうかつこう"
       },
       "不二聖心女子学院中学校" : {
          "location" : "静岡県裾野市桃園198",
          "location_wikipedia_latlon" : "|35|10|50.9|N|138|53|46.1|E|",
          "location_zipcode" : "410-1126",
          "owner_type" : "私立",
+         "sort_name" : "ふしせいしん",
          "url" : "http://www.fujiseishin-jh.ed.jp/",
          "wikipedia_name" : "不二聖心女子学院中学校・高等学校"
       },
@@ -87,6 +92,7 @@
          "location_zipcode" : "413-0232",
          "owner_type" : "市立",
          "short_name" : "対島中学校",
+         "sort_name" : "いとうしりつたしんちゆうかつこう",
          "url" : "http://www10.ocn.ne.jp/~tajimajh/"
       },
       "伊東市立門野中学校" : {
@@ -115,6 +121,7 @@
          "location_zipcode" : "410-2505",
          "owner_type" : "市立",
          "short_name" : "中伊豆中学校",
+         "sort_name" : "いすしりつなかいすちゆうかつこう",
          "url" : "http://ntjs.city.izu.shizuoka.jp/"
       },
       "伊豆市立修善寺中学校" : {
@@ -130,7 +137,8 @@
       "伊豆市立天城中学校" : {
          "location_area" : "伊豆市",
          "owner_type" : "市立",
-         "short_name" : "天城中学校"
+         "short_name" : "天城中学校",
+         "sort_name" : "いすしりつあまき"
       },
       "函南町立函南中学校" : {
          "location_area" : "田方郡函南町",
@@ -147,6 +155,7 @@
          "location_wikipedia_latlon" : "|35|8|5.1|N|138|51|52.7|E|",
          "location_zipcode" : "410-0011",
          "owner_type" : "私立",
+         "sort_name" : "かとうかくえんきようしゆうちゆうかつこうこうとうかつこう",
          "url" : "http://www.katoh-net.ac.jp/GyoshuHS/",
          "wikipedia_name" : "加藤学園暁秀中学校・高等学校"
       },
@@ -170,6 +179,7 @@
          "location_wikipedia_latlon" : "|34|57|48.6|N|138|24|03.4|E|",
          "location_zipcode" : "422-8074",
          "owner_type" : "私立",
+         "sort_name" : "しようなんしすおかこうとうかつこう",
          "url" : "http://www.johnan.ac.jp/",
          "wikipedia_name" : "城南静岡高等学校・中学校"
       },
@@ -241,7 +251,8 @@
       "富士市立元吉原中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "元吉原中学校"
+         "short_name" : "元吉原中学校",
+         "sort_name" : "ふししりつもとよしわらちゆうかつこう"
       },
       "富士市立吉原北中学校" : {
          "location_area" : "富士市",
@@ -296,27 +307,32 @@
       "富士市立岩松中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "岩松中学校"
+         "short_name" : "岩松中学校",
+         "sort_name" : "ふししりついわまつ"
       },
       "富士市立岳陽中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "岳陽中学校"
+         "short_name" : "岳陽中学校",
+         "sort_name" : "ふししりつかくようちゆうかつこう"
       },
       "富士市立田子浦中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "田子浦中学校"
+         "short_name" : "田子浦中学校",
+         "sort_name" : "ふししりつたこうらちゆうかつこう"
       },
       "富士市立須津中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "須津中学校"
+         "short_name" : "須津中学校",
+         "sort_name" : "ふししりつすとちゆうかつこう"
       },
       "富士市立鷹岡中学校" : {
          "location_area" : "富士市",
          "owner_type" : "市立",
-         "short_name" : "鷹岡中学校"
+         "short_name" : "鷹岡中学校",
+         "sort_name" : "ふししりつたかおかちゆうかつこう"
       },
       "小山町立北郷中学校" : {
          "location_area" : "駿東郡小山町",
@@ -345,6 +361,7 @@
          "location_zipcode" : "427-0102",
          "owner_type" : "市立",
          "short_name" : "初倉中学校",
+         "sort_name" : "しまたしりつはつくらちゆうかつこう",
          "url" : "http://www.shimada.ed.jp/hatsukura-jh/"
       },
       "島田市立北中学校" : {
@@ -387,6 +404,7 @@
          "location_wikipedia_latlon" : "|34|58|52.9|N|138|23|16.6|E|",
          "location_zipcode" : "420-8588",
          "owner_type" : "私立",
+         "sort_name" : "とこはかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.tokoha.ac.jp/hs-tokoha/",
          "wikipedia_name" : "常葉学園中学校・高等学校"
       },
@@ -395,6 +413,7 @@
          "location_wikipedia_latlon" : "|35|00|47.6|N|138|25|01.0|E|",
          "location_zipcode" : "420-0911",
          "owner_type" : "私立",
+         "sort_name" : "とこはかくえんたちはな",
          "url" : "http://www.tokoha.ac.jp/tachibana-jh/",
          "wikipedia_name" : "常葉学園橘中学校・高等学校"
       },
@@ -402,6 +421,7 @@
          "location" : "静岡県菊川市半済1550",
          "location_zipcode" : "439-0019",
          "owner_type" : "私立",
+         "sort_name" : "とこはかくえんきくかわ",
          "url" : "http://www.tokoha.net/kikugawa/",
          "wikipedia_name" : "常葉学園菊川中学校・高等学校"
       },
@@ -432,12 +452,14 @@
          "location_zipcode" : "709-0861",
          "owner_type" : "市立",
          "short_name" : "富士岡中学校",
+         "sort_name" : "こてんはしりつふしおかちゆうかつこう",
          "url" : "http://www.wbs.ne.jp/cmt/fujioka-jh/"
       },
       "御殿場市立御殿場中学校" : {
          "location_area" : "御殿場市",
          "owner_type" : "市立",
-         "short_name" : "御殿場中学校"
+         "short_name" : "御殿場中学校",
+         "sort_name" : "こてんはしりつこてんはちゆうかつこう"
       },
       "御殿場市立西中学校" : {
          "location_area" : "御殿場市",
@@ -518,6 +540,7 @@
          "location_zipcode" : "424-0902",
          "owner_type" : "私立",
          "short_name" : "東海大学付属翔洋高校中等部",
+         "sort_name" : "とうかいたいかくふそくしようよう",
          "url" : "http://www.shoyo.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属翔洋高等学校・中等部"
       },
@@ -537,6 +560,7 @@
          "location_zipcode" : "437-0216",
          "owner_type" : "町立",
          "short_name" : "森中学校",
+         "sort_name" : "もりちようりつもりちゆうかつこう",
          "url" : "http://www.town.morimachi.shizuoka.jp/jhs-mori/"
       },
       "森町立泉陽中学校" : {
@@ -615,6 +639,7 @@
          "location_zipcode" : "410-0817",
          "owner_type" : "市立",
          "short_name" : "第四中学校",
+         "sort_name" : "ぬまつしりつたいいよんちゆうかつこう",
          "url" : "http://www.numazu-szo.ed.jp/daiyon-j/"
       },
       "沼津市立金岡中学校" : {
@@ -647,6 +672,7 @@
          "location_wikipedia_latlon" : "|34|43|8.4|N|137|43|38.9|E|",
          "location_zipcode" : "430-0905",
          "owner_type" : "私立",
+         "sort_name" : "はままつかくけい",
          "url" : "http://www.gakugei.ed.jp/",
          "wikipedia_name" : "浜松学芸中学校・高等学校"
       },
@@ -684,6 +710,7 @@
          "location_zipcode" : "435-0046",
          "owner_type" : "市立",
          "short_name" : "丸塚中学校",
+         "sort_name" : "はままつしりつまるつかちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/maruzuka-j/"
       },
       "浜松市立佐久間中学校" : {
@@ -727,6 +754,7 @@
          "location_zipcode" : "434-0028",
          "owner_type" : "市立",
          "short_name" : "北浜東部中学校",
+         "sort_name" : "はままつしりつきたはまとうふちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/kitahamatobu-j/"
       },
       "浜松市立北部中学校" : {
@@ -740,6 +768,7 @@
          "location_zipcode" : "430-0924",
          "owner_type" : "市立",
          "short_name" : "南部中学校",
+         "sort_name" : "はままつしりつなんふちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/nanbu-j/"
       },
       "浜松市立南陽中学校" : {
@@ -838,6 +867,7 @@
          "location_zipcode" : "431-1114",
          "owner_type" : "市立",
          "short_name" : "湖東中学校",
+         "sort_name" : "はままつしりつことうちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/koto-j/"
       },
       "浜松市立神久呂中学校" : {
@@ -851,6 +881,7 @@
          "location_zipcode" : "431-3121",
          "owner_type" : "市立",
          "short_name" : "積志中学校",
+         "sort_name" : "はままつしりつせきしちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/sekishi-j/"
       },
       "浜松市立積志中学校萩原分校" : {
@@ -912,6 +943,7 @@
          "location_zipcode" : "430-0906",
          "owner_type" : "市立",
          "short_name" : "高台中学校",
+         "sort_name" : "はままつしりつたかたいちゆうかつこう",
          "url" : "http://www.city.hamamatsu-szo.ed.jp/takadai-j/"
       },
       "浜松市立麁玉中学校" : {
@@ -931,6 +963,7 @@
          "location_wikipedia_latlon" : "|34|42|35.4|N|137|43|23.5|E|",
          "location_zipcode" : "430-0947",
          "owner_type" : "私立",
+         "sort_name" : "はままつかいせいかん",
          "url" : "http://www.kaiseikan.ed.jp/",
          "wikipedia_name" : "浜松開誠館中学校・高等学校"
       },
@@ -1008,7 +1041,8 @@
          "location_area" : "焼津市",
          "location_zipcode" : "425-0051",
          "owner_type" : "市立",
-         "short_name" : "港中学校"
+         "short_name" : "港中学校",
+         "sort_name" : "やいつしりつみなとちゆうかつこう"
       },
       "焼津市立焼津中学校" : {
          "location_area" : "焼津市",
@@ -1048,7 +1082,8 @@
       "牧之原市立榛原中学校" : {
          "location_area" : "牧之原市",
          "owner_type" : "市立",
-         "short_name" : "榛原中学校"
+         "short_name" : "榛原中学校",
+         "sort_name" : "まきのはらしりつはいはらちゆうかつこう"
       },
       "牧之原市立相良中学校" : {
          "location_area" : "牧之原市",
@@ -1060,6 +1095,7 @@
          "location_area" : "牧之原市",
          "location_zipcode" : "421-0501",
          "owner_type" : "公立",
+         "sort_name" : "まきのはらしきくかわしかつこうくみあいりつまきのはらちゆうかつこう",
          "url" : "http://www.wbs.ne.jp/cmt/makichu/"
       },
       "磐田市立南部中学校" : {
@@ -1067,7 +1103,8 @@
          "location_area" : "磐田市",
          "location_zipcode" : "438",
          "owner_type" : "市立",
-         "short_name" : "南部中学校"
+         "short_name" : "南部中学校",
+         "sort_name" : "いわたしりつなんふちゆかつこう"
       },
       "磐田市立向陽中学校" : {
          "location_area" : "磐田市",
@@ -1080,6 +1117,7 @@
          "location_zipcode" : "438-0086",
          "owner_type" : "市立",
          "short_name" : "城山中学校",
+         "sort_name" : "いわたしりつしろやまちゆうかつこう",
          "url" : "http://www.city.iwata.shizuoka.jp/school/shiroyama/"
       },
       "磐田市立磐田第一中学校" : {
@@ -1123,13 +1161,15 @@
          "location_area" : "磐田市",
          "location_zipcode" : "438-0821",
          "owner_type" : "市立",
-         "short_name" : "豊田南中学校"
+         "short_name" : "豊田南中学校",
+         "sort_name" : "いわたしりつとよたみなみちゆうかつこう"
       },
       "磐田東中学校" : {
          "location" : "静岡県磐田市見付180-5",
          "location_wikipedia_latlon" : "|34|43|16.5|N|137|51|53.3|E|",
          "location_zipcode" : "438-0086",
          "owner_type" : "私立",
+         "sort_name" : "いわたひかし",
          "url" : "http://www.iwatahigashi-h.ed.jp/",
          "wikipedia_name" : "磐田東中学校・高等学校"
       },
@@ -1137,6 +1177,7 @@
          "location" : "静岡県浜松市北区三方原町3453",
          "location_zipcode" : "433-8558",
          "owner_type" : "私立",
+         "sort_name" : "せいれいくりすとふあちゆうこうとうかつこう",
          "url" : "http://www.seirei.ed.jp/",
          "wikipedia_name" : "聖隷クリストファー中・高等学校"
       },
@@ -1145,6 +1186,7 @@
          "location_wikipedia_latlon" : "|34|43|41.1|N|137|43|45.7|E|",
          "location_zipcode" : "430-0907",
          "owner_type" : "私立",
+         "sort_name" : "こうせい",
          "url" : "http://www.szo-kosei-h.ed.jp/",
          "wikipedia_name" : "興誠中学校・高等学校"
       },
@@ -1152,6 +1194,7 @@
          "location" : "静岡県浜松市中区向宿二丁目20番1号",
          "location_zipcode" : "430-0851",
          "owner_type" : "私立",
+         "sort_name" : "あくたかくえん",
          "url" : "http://www.akuta.ed.jp/",
          "wikipedia_name" : "芥田学園中学校・高等学校"
       },
@@ -1168,7 +1211,8 @@
       "菊川市立菊川西中学校" : {
          "location_area" : "菊川市",
          "owner_type" : "市立",
-         "short_name" : "菊川西中学校"
+         "short_name" : "菊川西中学校",
+         "sort_name" : "きくかわしりつきくかわにしちゆうかつこう"
       },
       "藤枝市立大洲中学校" : {
          "location" : "静岡県藤枝市弥左衛門500",
@@ -1176,6 +1220,7 @@
          "location_zipcode" : "426-0052",
          "owner_type" : "市立",
          "short_name" : "大洲中学校",
+         "sort_name" : "ふしえたしりつおおすちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_osu.html"
       },
       "藤枝市立岡部中学校" : {
@@ -1184,6 +1229,7 @@
          "location_zipcode" : "421-1122",
          "owner_type" : "市立",
          "short_name" : "岡部中学校",
+         "sort_name" : "ふしえたしりつおかへちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_okabe.html"
       },
       "藤枝市立広幡中学校" : {
@@ -1200,6 +1246,7 @@
          "location_zipcode" : "426-0132",
          "owner_type" : "市立",
          "short_name" : "瀬戸谷中学校",
+         "sort_name" : "ふしえたしりつせとやちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_setoya.html"
       },
       "藤枝市立葉梨中学校" : {
@@ -1216,6 +1263,7 @@
          "location_zipcode" : "426-0087",
          "owner_type" : "市立",
          "short_name" : "藤枝中学校",
+         "sort_name" : "ふしえたしりつふしえたちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_fujieda.html"
       },
       "藤枝市立西益津中学校" : {
@@ -1224,6 +1272,7 @@
          "location_zipcode" : "426-0012",
          "owner_type" : "市立",
          "short_name" : "西益津中学校",
+         "sort_name" : "ふしえたしりつにしましつちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_nishimashizu.html"
       },
       "藤枝市立青島中学校" : {
@@ -1232,6 +1281,7 @@
          "location_zipcode" : "426-0066",
          "owner_type" : "市立",
          "short_name" : "青島中学校",
+         "sort_name" : "ふしえたしりつあおしまちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_aojima.html"
       },
       "藤枝市立青島北中学校" : {
@@ -1248,12 +1298,14 @@
          "location_zipcode" : "426-0047",
          "owner_type" : "市立",
          "short_name" : "高洲中学校",
+         "sort_name" : "ふしえたしりつたかすちゆうかつこう",
          "url" : "http://www.city.fujieda.shizuoka.jp/shisetsu_chugakko_takasu.html"
       },
       "藤枝明誠中学校" : {
          "location" : "静岡県藤枝市大洲二丁目2番1号",
          "location_zipcode" : "426-0051",
          "owner_type" : "私立",
+         "sort_name" : "ふしえためいせい",
          "url" : "http://www.fgmeisei.net/",
          "wikipedia_name" : "藤枝明誠中学校・高等学校"
       },
@@ -1311,7 +1363,8 @@
          "location_area" : "賀茂郡西伊豆町",
          "location_zipcode" : "410-3513",
          "owner_type" : "町立",
-         "short_name" : "西伊豆中学校"
+         "short_name" : "西伊豆中学校",
+         "sort_name" : "にしいすちようりつにしいす"
       },
       "西伊豆町立賀茂中学校" : {
          "location_area" : "賀茂郡西伊豆町",
@@ -1332,6 +1385,7 @@
          "location" : "静岡市清水区中之郷3丁目2番1号",
          "location_zipcode" : "424-8624",
          "owner_type" : "私立",
+         "sort_name" : "しすおかされしおちゆうかつこうこうとうかつこう",
          "url" : "http://www.ssalesio.ac.jp/hiju/",
          "wikipedia_name" : "静岡サレジオ中学校・高等学校"
       },
@@ -1340,19 +1394,23 @@
          "location_wikipedia_latlon" : "|35|01|37.5|N|138|25|19.2|E|",
          "location_zipcode" : "420-0911",
          "owner_type" : "私立",
+         "sort_name" : "しすおかきた",
          "url" : "http://www.shizuokakita-h.ed.jp/",
          "wikipedia_name" : "静岡北中学校・高等学校"
       },
       "静岡大学教育学部附属島田中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくしまたちゆうかつこう"
       },
       "静岡大学教育学部附属浜松中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくはままつちゆうかつこう"
       },
       "静岡大学教育学部附属静岡中学校" : {
          "location" : "静岡県静岡市葵区駿府町1-86",
          "location_zipcode" : "420-0856",
          "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくしすおかちゆうかつこう",
          "url" : "http://www.shizuchu.ed.shizuoka.ac.jp/"
       },
       "静岡大成中学校" : {
@@ -1368,6 +1426,7 @@
          "location_wikipedia_latlon" : "|34|59|20.6|N|138|25|36.1|E|",
          "location_zipcode" : "422-8007",
          "owner_type" : "私立",
+         "sort_name" : "しすおかかくえんちゆうかつこうこうとうかつこう",
          "url" : "http://www.shizugaku.ed.jp/",
          "wikipedia_name" : "静岡学園中学校・高等学校"
       },
@@ -1519,7 +1578,8 @@
       "静岡市立清水袖師中学校" : {
          "location_area" : "静岡市清水区",
          "owner_type" : "市立",
-         "short_name" : "清水袖師中学校"
+         "short_name" : "清水袖師中学校",
+         "sort_name" : "しすおかしりつしみすそてし"
       },
       "静岡市立清水飯田中学校" : {
          "location_area" : "静岡市清水区",
@@ -1534,7 +1594,8 @@
       "静岡市立由比中学校" : {
          "location_area" : "静岡市清水区",
          "owner_type" : "市立",
-         "short_name" : "由比中学校"
+         "short_name" : "由比中学校",
+         "sort_name" : "しすおかしりつゆいちゆうかつこう"
       },
       "静岡市立竜爪中学校" : {
          "location_area" : "静岡市葵区",
@@ -1606,6 +1667,7 @@
          "location_zipcode" : "432-8038",
          "owner_type" : "県立",
          "short_name" : "浜松西高校中等部",
+         "sort_name" : "しすおかけんりつはままつにしこうとうかつこう ちゆうとうふ",
          "url" : "http://www.shizuoka-c.ed.jp/hamamatsunishi-h/",
          "wikipedia_name" : "静岡県立浜松西高等学校・中等部"
       },
@@ -1619,6 +1681,7 @@
          "location_wikipedia_latlon" : "|34|42|51|N|137|45|08|E|",
          "location_zipcode" : "430-0807",
          "owner_type" : "私立",
+         "sort_name" : "しすおかけんせいえんしよしかくえんちゆうかつこう こうとうかつこう",
          "url" : "http://www.seien.ed.jp/",
          "wikipedia_name" : "静岡県西遠女子学園中学校・高等学校"
       },
@@ -1627,6 +1690,7 @@
          "location_wikipedia_latlon" : "|34|58|18.7|N|138|26|0.5|E|",
          "location_zipcode" : "422-8021",
          "owner_type" : "私立",
+         "sort_name" : "しすおかせいこうかくいん",
          "url" : "http://www.s-seiko.ed.jp/",
          "wikipedia_name" : "静岡聖光学院中学校・高等学校"
       },
@@ -1635,6 +1699,7 @@
          "location_wikipedia_latlon" : "|34|58|53.7|N|138|22|46.7|E|",
          "location_zipcode" : "420-0866",
          "owner_type" : "私立",
+         "sort_name" : "しすおかえいわしよかくいん",
          "url" : "http://www.shizuoka-eiwa.ed.jp/",
          "wikipedia_name" : "静岡英和女学院中学校・高等学校"
       },
@@ -1643,6 +1708,7 @@
          "location_wikipedia_latlon" : "|34|58|49.7|N|138|22|50.6|E|",
          "location_zipcode" : "420-8628",
          "owner_type" : "私立",
+         "sort_name" : "しすおかふたは",
          "url" : "http://www.shizuoka-futaba.ac.jp/",
          "wikipedia_name" : "静岡雙葉中学校・高等学校"
       }

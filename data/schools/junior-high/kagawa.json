@@ -16,6 +16,7 @@
          "location_zipcode" : "769-2101",
          "owner_type" : "市立",
          "short_name" : "志度中学校",
+         "sort_name" : "さぬきしりつしとちゆうかつこう",
          "url" : "http://ew.sanuki.ne.jp/shidochu"
       },
       "さぬき市立志度東中学校" : {
@@ -24,6 +25,7 @@
          "location_zipcode" : "769-2102",
          "owner_type" : "市立",
          "short_name" : "志度東中学校",
+         "sort_name" : "さぬきしりつしとひかしちゆうかつこう",
          "url" : "http://www.shidoh-j.ed.jp/"
       },
       "さぬき市立津田中学校" : {
@@ -106,7 +108,8 @@
          "location_wikipedia_latlon" : "|34|21|54|N|133|42|56|E|",
          "location_zipcode" : "763-0102",
          "owner_type" : "市立",
-         "short_name" : "広島中学校"
+         "short_name" : "広島中学校",
+         "sort_name" : "まるかめしりつひろしまちゆうかつこう"
       },
       "丸亀市立本島中学校" : {
          "location" : "香川県丸亀市本島町泊410番地",
@@ -115,6 +118,7 @@
          "location_zipcode" : "763-0223",
          "owner_type" : "市立",
          "short_name" : "本島中学校",
+         "sort_name" : "まるかめしりつほんしまちゆうかつこう",
          "url" : "http://www.honjima-j.ed.jp/"
       },
       "丸亀市立東中学校" : {
@@ -124,6 +128,7 @@
          "location_zipcode" : "763-0034",
          "owner_type" : "市立",
          "short_name" : "東中学校",
+         "sort_name" : "まるかめしりつひかしちゆうかつこう",
          "url" : "http://www.marugame-higashi-j.ed.jp/"
       },
       "丸亀市立綾歌中学校" : {
@@ -167,6 +172,7 @@
          "location_zipcode" : "762-0026",
          "owner_type" : "市立",
          "short_name" : "坂出中学校",
+         "sort_name" : "さかいてしりつさかいて",
          "url" : "http://www.sakaide.ed.jp/sakaide/"
       },
       "坂出市立岩黒中学校" : {
@@ -211,6 +217,7 @@
          "location_zipcode" : "761-4431",
          "owner_type" : "町立",
          "short_name" : "内海中学校",
+         "sort_name" : "しようとしまちようりつうちのみちゆうかつこう",
          "url" : "http://www.niji.or.jp/school/utinoj01/"
       },
       "小豆島町立池田中学校" : {
@@ -220,6 +227,7 @@
          "location_zipcode" : "761-4301",
          "owner_type" : "町立",
          "short_name" : "池田中学校",
+         "sort_name" : "しようとしまちようりついけたちゆうかつこう",
          "url" : "http://www3.ocn.ne.jp/~ikedaj01/welcome.htm"
       },
       "東かがわ市立大川中学校" : {
@@ -239,6 +247,7 @@
          "location_zipcode" : "769-2705",
          "owner_type" : "市立",
          "short_name" : "白鳥中学校",
+         "sort_name" : "ひかしかかわしりつしろとりちゆうかつこう",
          "url" : "http://www.higashikagawa.ed.jp/jh/shirotori/"
       },
       "琴平町立琴平中学校" : {
@@ -248,6 +257,7 @@
          "location_zipcode" : "766-0003",
          "owner_type" : "町立",
          "short_name" : "琴平中学校",
+         "sort_name" : "ことひらちようりつことひらちゆうかつこう",
          "url" : "http://www.town.kotohira.kagawa.jp/gako/koto_js/"
       },
       "直島町立直島中学校" : {
@@ -294,17 +304,20 @@
          "location" : "香川県坂出市青葉町1番7号",
          "location_zipcode" : "762-0037",
          "owner_type" : "国立",
+         "sort_name" : "かかわたいかくきよういくかくふふそくさかいてちゆう",
          "url" : "http://www.ed.kagawa-u.ac.jp/~sakachu//"
       },
       "香川大学教育学部附属高松中学校" : {
          "location" : "香川県高松市鹿角町394番地",
          "owner_type" : "国立",
+         "sort_name" : "かかわたいかくきよういくかくふふそくたかまつちゆう",
          "url" : "http://www.ed.kagawa-u.ac.jp/~takachu/"
       },
       "香川県大手前中学校" : {
          "location" : "香川県丸亀市大手町一丁目6番1号",
          "location_zipcode" : "763-0034",
          "owner_type" : "私立",
+         "sort_name" : "かかわけんおおてまえ",
          "url" : "http://www4.ocn.ne.jp/~otemae/",
          "wikipedia_name" : "香川県大手前中学校・高等学校"
       },
@@ -313,6 +326,7 @@
          "location_wikipedia_latlon" : "|34|19|36.0|N|134|2|2.8|E|",
          "location_zipcode" : "761-8062",
          "owner_type" : "私立",
+         "sort_name" : "かかわけんおおてまえたかまつ",
          "url" : "http://www.otemaetk.com/",
          "wikipedia_name" : "香川県大手前高松中学・高等学校"
       },
@@ -323,6 +337,7 @@
          "location_zipcode" : "761-0121",
          "owner_type" : "県立",
          "short_name" : "高松北中学校",
+         "sort_name" : "たかまつきた",
          "url" : "http://www.kagawa-edu.jp/kitah01/top.htm",
          "wikipedia_name" : "香川県立高松北中学校・高等学校"
       },
@@ -332,6 +347,7 @@
          "location_zipcode" : "767-0011",
          "owner_type" : "県立",
          "short_name" : "高瀬のぞみが丘中学校",
+         "sort_name" : "かかわけんりつたかせのそみかおか",
          "url" : "http://www.kagawa-edu.jp/tkseh01/",
          "wikipedia_name" : "香川県立高瀬のぞみが丘中学校・高瀬高等学校"
       },
@@ -339,6 +355,7 @@
          "location" : "香川県丸亀市新浜町一丁目3番1号",
          "location_zipcode" : "763-0063",
          "owner_type" : "私立",
+         "sort_name" : "かかわけんふしい",
          "url" : "http://www.fujii.ed.jp/",
          "wikipedia_name" : "香川県藤井中学・高等学校"
       },
@@ -347,6 +364,7 @@
          "location_wikipedia_latlon" : "|34|19|53.1|N|133|59|9.8|E|",
          "location_zipcode" : "761-8022",
          "owner_type" : "私立",
+         "sort_name" : "かかわせいりよう",
          "url" : "http://www.k-seiryo.ed.jp/",
          "wikipedia_name" : "香川誠陵中学・高等学校"
       },
@@ -431,6 +449,7 @@
          "location_zipcode" : "760-0015",
          "owner_type" : "市立",
          "short_name" : "紫雲中学校",
+         "sort_name" : "たかまつしりつしうんちゆうかつこう",
          "url" : "http://www.edu-tens.net/tyuHP/siunHP/"
       },
       "高松市立香南中学校" : {
@@ -454,6 +473,7 @@
          "location_zipcode" : "760-0068",
          "owner_type" : "市立",
          "short_name" : "高松第一中学校",
+         "sort_name" : "たかまつしりつたかまつたいいちしようかつこう・ちゆうかつこう",
          "url" : "http://www.edu-tens.net/ikkanHP/takaitiHP/index.htm",
          "wikipedia_name" : "高松市立高松第一小学校・中学校"
       },

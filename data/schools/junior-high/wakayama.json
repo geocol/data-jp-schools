@@ -3,12 +3,14 @@
       "かつらぎ町立妙寺中学校" : {
          "location_area" : "伊都郡かつらぎ町",
          "owner_type" : "町立",
-         "short_name" : "妙寺中学校"
+         "short_name" : "妙寺中学校",
+         "sort_name" : "かつらきちようりつみようしちゆうかつこう"
       },
       "かつらぎ町立笠田中学校" : {
          "location_area" : "伊都郡かつらぎ町",
          "owner_type" : "町立",
-         "short_name" : "笠田中学校"
+         "short_name" : "笠田中学校",
+         "sort_name" : "かつらきちようりつかせだちゆうかつこう"
       },
       "かつらぎ町立花園中学校" : {
          "location_area" : "伊都郡かつらぎ町",
@@ -98,6 +100,7 @@
          "location" : "和歌山県橋本市小峰台2-6-1",
          "location_zipcode" : "648-0005",
          "owner_type" : "私立",
+         "sort_name" : "はつしははしもと",
          "url" : "http://www.hatsushiba.ed.jp/hatsuhashi/",
          "wikipedia_name" : "初芝橋本中学校・高等学校"
       },
@@ -141,11 +144,13 @@
          "location_zipcode" : "640-8151",
          "owner_type" : "私立",
          "short_name" : "和歌山信愛女子短大附属中学校",
+         "sort_name" : "わかやましんあいしよしたんきたいかくふそく",
          "url" : "http://www.shin-ai.ac.jp/",
          "wikipedia_name" : "和歌山信愛女子短期大学附属中学校・高等学校"
       },
       "和歌山大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "わかやまたいかくきよういくかくふふそくちゆう"
       },
       "和歌山市立伏虎中学校" : {
          "location_area" : "和歌山市",
@@ -159,6 +164,7 @@
          "location_zipcode" : "640-0103",
          "owner_type" : "市立",
          "short_name" : "加太中学校",
+         "sort_name" : "わかやましりつかたちゆうかつこう",
          "url" : "http://www.wakayama-wky.ed.jp/kada/index.html"
       },
       "和歌山市立城東中学校" : {
@@ -202,6 +208,7 @@
          "location_zipcode" : "640-8471",
          "owner_type" : "市立",
          "short_name" : "楠見中学校",
+         "sort_name" : "わかやましりつくすみちゆう",
          "url" : "http://www.wakayama-wky.ed.jp/kusumi/"
       },
       "和歌山市立河北中学校" : {
@@ -210,6 +217,7 @@
          "location_zipcode" : "640-8403",
          "owner_type" : "市立",
          "short_name" : "河北中学校",
+         "sort_name" : "わかやましりつかほく",
          "url" : "http://www.wakayama-wky.ed.jp/kahoku/"
       },
       "和歌山市立河西中学校" : {
@@ -223,6 +231,7 @@
          "location_zipcode" : "640",
          "owner_type" : "市立",
          "short_name" : "紀之川中学校",
+         "sort_name" : "わかやましりつきのかわちゆうかつこう",
          "url" : "http://www.wakayama-wky.ed.jp/kinokawa/index.html"
       },
       "和歌山市立紀伊中学校" : {
@@ -238,7 +247,8 @@
       "和歌山市立西浜中学校" : {
          "location_area" : "和歌山市",
          "owner_type" : "市立",
-         "short_name" : "西浜中学校"
+         "short_name" : "西浜中学校",
+         "sort_name" : "わかやましりつにしはま"
       },
       "和歌山市立西脇中学校" : {
          "location_area" : "和歌山市",
@@ -271,6 +281,7 @@
          "location_zipcode" : "640-8323",
          "owner_type" : "県立",
          "short_name" : "向陽中学校",
+         "sort_name" : "わかやまけんりつこうよう",
          "url" : "http://www.koyo-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立向陽中学校・高等学校"
       },
@@ -287,6 +298,7 @@
          "location_zipcode" : "640-8137",
          "owner_type" : "県立",
          "short_name" : "桐蔭中学校",
+         "sort_name" : "わかやまけんりつとういん",
          "url" : "http://www.toin-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立桐蔭中学校・高等学校"
       },
@@ -296,6 +308,7 @@
          "location_wikipedia_latlon" : "|33|43|27.7|N|135|23|21.6|E|",
          "owner_type" : "県立",
          "short_name" : "田辺中学校",
+         "sort_name" : "わかやまけんりつたなへ",
          "url" : "http://www.tanabe-h.wakayama-c.ed.jp/high.htm",
          "wikipedia_name" : "和歌山県立田辺中学校・高等学校"
       },
@@ -311,6 +324,7 @@
          "location_zipcode" : "649-6235",
          "owner_type" : "市立",
          "short_name" : "岩出中学校",
+         "sort_name" : "いわてしりついわてちゆうかつこう",
          "url" : "http://www.city.iwade.wakayama.jp/kakugakkou20/iwatyuuhp20/index.html"
       },
       "岩出市立岩出第二中学校" : {
@@ -407,6 +421,7 @@
          "location_wikipedia_latlon" : "|34|10|27.0|N|135|12|43.2|E|",
          "location_zipcode" : "640-0392",
          "owner_type" : "私立",
+         "sort_name" : "ちへんかくえんわかやま",
          "url" : "http://www.chiben.ac.jp/wakayama/",
          "wikipedia_name" : "智辯学園和歌山小学校・中学校・高等学校"
       },
@@ -635,7 +650,8 @@
          "location_area" : "西牟婁郡白浜町",
          "location_zipcode" : "649-2332",
          "owner_type" : "町立",
-         "short_name" : "富田中学校"
+         "short_name" : "富田中学校",
+         "sort_name" : "しらはまちようりつとんたちゆうかつこう"
       },
       "白浜町立日置中学校" : {
          "location_area" : "西牟婁郡白浜町",
@@ -653,7 +669,8 @@
          "location_wikipedia_latlon" : "|34|16|07|N|135|21|49|E|",
          "location_zipcode" : "649",
          "owner_type" : "市立",
-         "short_name" : "打田中学校"
+         "short_name" : "打田中学校",
+         "sort_name" : "きのかわしりつうちたちゆうかつこう"
       },
       "紀の川市立打田中学校仙渓分校" : {
          "location_area" : "紀の川市",
@@ -738,6 +755,7 @@
          "location_wikipedia_latlon" : "|34|15|34.7|N|135|12|38.6|E|",
          "location_zipcode" : "640-8481",
          "owner_type" : "私立",
+         "sort_name" : "かいち",
          "url" : "http://www.kaichi.ed.jp/",
          "wikipedia_name" : "開智中学校・高等学校"
       },

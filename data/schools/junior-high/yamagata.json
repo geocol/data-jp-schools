@@ -58,7 +58,8 @@
       "大石田町立大石田中学校" : {
          "location_area" : "北村山郡大石田町",
          "owner_type" : "町立",
-         "short_name" : "大石田中学校"
+         "short_name" : "大石田中学校",
+         "sort_name" : "おおいしたちようりつおおいしたちゆう"
       },
       "大蔵村立大蔵中学校" : {
          "location_area" : "最上郡大蔵村",
@@ -92,14 +93,16 @@
          "location_area" : "寒河江市",
          "location_zipcode" : "991-0041",
          "owner_type" : "市立",
-         "short_name" : "陵南中学校"
+         "short_name" : "陵南中学校",
+         "sort_name" : "さかえしりつりようなんちゆう"
       },
       "寒河江市立陵東中学校" : {
          "location" : "山形県寒河江市大字西根430",
          "location_area" : "寒河江市",
          "location_zipcode" : "991-0003",
          "owner_type" : "市立",
-         "short_name" : "陵東中学校"
+         "short_name" : "陵東中学校",
+         "sort_name" : "さかえしりつりようとうちゆう"
       },
       "寒河江市立陵西中学校" : {
          "location" : "山形県寒河江市大字八鍬字冨沢836",
@@ -155,7 +158,8 @@
          "short_name" : "福原中学校"
       },
       "山形大学附属中学校" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "やまかたたいかくふそくちゆう"
       },
       "山形市立山寺中学校" : {
          "location_area" : "山形市",
@@ -190,7 +194,8 @@
       "山形市立第五中学校" : {
          "location_area" : "山形市",
          "owner_type" : "市立",
-         "short_name" : "第五中学校"
+         "short_name" : "第五中学校",
+         "sort_name" : "やまかたしりつたい05ちゆう"
       },
       "山形市立第八中学校" : {
          "location_area" : "山形市",
@@ -254,6 +259,7 @@
          "location_zipcode" : "990-0301",
          "owner_type" : "町立",
          "short_name" : "山辺中学校",
+         "sort_name" : "やまのへちようりつやまのへちゆう",
          "url" : "http://www.town.yamanobe.yamagata.jp/schools/juyamabe/"
       },
       "川西町立玉庭中学校" : {
@@ -321,6 +327,7 @@
          "location_wikipedia_latlon" : "|38|13|50.5|N|140|20|0.1|E|",
          "location_zipcode" : "990-2433",
          "owner_type" : "私立",
+         "sort_name" : "にほんたいかくやまかた",
          "url" : "http://www.ymgt.hs.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学山形中学校・高等学校"
       },
@@ -335,6 +342,7 @@
          "location_zipcode" : "990-1442",
          "owner_type" : "町立",
          "short_name" : "朝日中学校",
+         "sort_name" : "あさひちようりつあさひ",
          "wikipedia_name" : "朝日町立朝日中学校 (山形県)"
       },
       "村山市立楯岡中学校" : {
@@ -355,7 +363,8 @@
          "location_area" : "東根市",
          "location_zipcode" : "999-3770",
          "owner_type" : "市立",
-         "short_name" : "大富中学校"
+         "short_name" : "大富中学校",
+         "sort_name" : "ひかしねしりつおおとみちゆう"
       },
       "東根市立神町中学校" : {
          "location" : "山形県東根市若木5988番地",
@@ -370,7 +379,8 @@
          "location_area" : "東根市",
          "location_zipcode" : "999-3786",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "sort_name" : "ひかしねしりつたい1ちゆう"
       },
       "東根市立第三中学校" : {
          "location" : "山形県東根市大字泉郷乙1992番地",
@@ -384,7 +394,8 @@
          "location_area" : "東根市",
          "location_zipcode" : "999-3716",
          "owner_type" : "市立",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "sort_name" : "ひかしねしりつたい2ちゆう"
       },
       "河北町立河北中学校" : {
          "location" : "山形県西村山郡河北町谷地中央4丁目12-1",
@@ -586,7 +597,8 @@
       "鶴岡市立羽黒中学校" : {
          "location_area" : "鶴岡市",
          "owner_type" : "市立",
-         "short_name" : "羽黒中学校"
+         "short_name" : "羽黒中学校",
+         "sort_name" : "つるおかしりつはくろちゆう"
       },
       "鶴岡市立藤島中学校" : {
          "location_area" : "鶴岡市",
