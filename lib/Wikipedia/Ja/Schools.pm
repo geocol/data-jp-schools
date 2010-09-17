@@ -24,6 +24,32 @@ sub load_text_from_cache ($$) {
   }
 } # load_text_from_cache
 
+sub load_school_text_from_cache ($$) {
+  my ($self, $school_wikipedia_name) = @_;
+  require MediaWikiXML::PageExtractor;
+  my $text = MediaWikiXML::PageExtractor->get_text_from_cache
+      ($school_wikipedia_name);
+  if (defined $text) {
+    my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
+
+    if ($text =~ /
+      \{\{(?:高等専門学校)\s*\n
+        (.*?)
+      \n\}\}
+    /sx) {
+      for (split /\s*\n\|\s*/, $1) {
+        if (/(\S+)\s*=\s*(.+)/) {
+          $school->{$1} = $2;
+        }
+      }
+    }
+    return $school;
+  } else {
+    warn "Page |$school_wikipedia_name| not found in the cache";
+    return undef;
+  }
+} # load_school_text_from_cache
+
 sub title ($) {
   return $_[0]->{title};
 } # title
@@ -274,6 +300,43 @@ sub parse_text ($) {
       $props->{wikipedia_name} = $wikipedia_name
           if $wikipedia_name and $name ne $wikipedia_name;
 
+      my $school = $self->load_school_text_from_cache ($wikipedia_name);
+      if ($school) {
+        $props->{english_long_name} ||= $school->{'英称'};
+        $props->{english_abbr_name} ||= $school->{'英略称'};
+        $props->{location} ||= $school->{'所在地'};
+        if ($props->{location}) {
+          if ($props->{location} =~ s/
+            \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+          //x) {
+            $props->{location_wikipedia_latlon} = $1;
+          }
+          $props->{location} =~ s[<br\s*/?>][ ]g;
+          $props->{location} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
+          $props->{location} =~ s{\[\[([^\|\]]+)\]\]}[$1]g;
+          $props->{location} =~ s[\{\{Color\|[^\|]+\|([^\|\}]+)\}\}][$1]g;
+          $props->{location} =~ s[\{\{[Ss]mall(?:er)?\|([^\|\}]*)\}\}][$1]g;
+          $props->{location} =~ s[<small></small>][]g;
+          $props->{location} =~ s['''([^']*)'''][$1]g;
+          $props->{location} =~ s[(?<=\S)\s+\S+?キャンパス:?\s+.+][]g;
+          $props->{location} =~ s[^\s*\S+?キャンパス\s+][]g;
+          $props->{location} =~ s[\s*（寮は.+?）\s*][]g;
+          if ($props->{location} =~ s/^〒([0-9-]+)\s*//) {
+            $props->{location_zipcode} = $1;
+          }
+          $props->{location} =~ s/^\s+//;
+          $props->{location} =~ s/\s+$//;
+          $props->{location} =~ s/\s+//g;
+        }
+        $props->{url} ||= $school->{'ウェブサイト'};
+        if ($props->{url}) {
+          $props->{url} =~ s{\[(http://[\x21-\x7E]+\s+\S+)\]}{$1}g;
+          if ($props->{url} =~ s[(http://[\x21-\x7E]+)][]) {
+            $props->{url} = $1;
+          }
+        }
+      }
+
       my $short_name = $name;
       $short_name =~ s/高等学校/高校/;
       $short_name =~ s/高等専門学校/高専/;
@@ -365,6 +428,9 @@ sub parse_text ($) {
         }->{$name} || 'misc_schools';
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
+      for (keys %$props) {
+        delete $props->{$_} unless defined $props->{$_};
+      }
     } elsif ($t =~ /^(=+)\s*(.+?)\s*=+\s*$/) {
       my $level = length $1;
       my $name = $2;
