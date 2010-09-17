@@ -84,10 +84,10 @@ sub parse_text ($) {
       if ($name =~ /^\s*(\S+) - /) {
         $name = $1;
       }
-      if ($name =~ /^\s*\[([^\|\]]+?)\]\[http:([^\|\]]*?)\]/) {
+      if ($name =~ /^\s*\[([^\|\]]+?)\]\[https?:([^\|\]]*?)\]/) {
         $name = $1;
       }
-      if ($name =~ m{^\s*\[http://[\x21-\x7E]+\s+([^\|\]]+?)\]}) {
+      if ($name =~ m{^\s*\[https?://[\x21-\x7E]+\s+([^\|\]]+?)\]}) {
         $name = $1;
       }
       if ($name =~ /^\s*\[\[([^\|\]]+?)\|([^\|\]]*?)\]\]/) {
@@ -107,8 +107,8 @@ sub parse_text ($) {
       s/\s*\(.*?\)// for $name;
       $name =~ s[\s*/\s*$][];
       $name =~ s/\[\[([^\|\[\]]+)\|([^\|\[\]]+)\]\]/$2/g;
-      $name =~ s[\s*\[http://[\x21-\x7E]+?\]\s*$][];
-      $name =~ s[\s*http://[\x21-\x7E]+\s*$][];
+      $name =~ s[\s*\[https?://[\x21-\x7E]+?\]\s*$][];
+      $name =~ s[\s*https?://[\x21-\x7E]+\s*$][];
       $name =~ s/：\[\[.+$//;
       $name =~ s/\s+/ /g;
       $name =~ s/^ //;
@@ -330,6 +330,7 @@ sub parse_text ($) {
         $props->{senior_high_school_code} ||= $school->{'高校コード'};
         if ($props->{senior_high_school_code}) {
           $props->{senior_high_school_code} =~ s[<br\s*/?>.+][]gs;
+          $props->{senior_high_school_code} =~ tr/[]//d;
           my $title = $self->title;
           undef $props->{senior_high_school_code} unless $title =~ /中等|高等/;
         }
@@ -363,11 +364,11 @@ sub parse_text ($) {
         }
         $props->{location} ||= $school->{'所在地'};
         if ($school->{'座標'} and $school->{'座標'} =~ s/
-          \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+          \{\{ウィキ座標(?:2段)?度分秒?(.*?)\}\}
         //x) {
           $props->{location_wikipedia_latlon} ||= $1;
         } elsif ($school->{text} and $school->{text} =~ s/
-          \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+          \{\{ウィキ座標(?:2段)?度分秒?(.*?)\}\}
         //x) {
           $props->{location_wikipedia_latlon} ||= $1;
         }
@@ -376,23 +377,35 @@ sub parse_text ($) {
         }
         if ($props->{location}) {
           if ($props->{location} =~ s/
-            \{\{ウィキ座標(?:2段)?度分秒(.*?)\}\}
+            \{\{(?:ウィキ座標(?:2段)?(?:度分秒?)?|coord)(.*?)\}\}?
           //x) {
             $props->{location_wikipedia_latlon} ||= $1;
           }
-          $props->{location} =~ s[<br\s*/?>.+][]gs;
+          $props->{location} =~ s[<br\s*/?>][ ]gs;
           $props->{location} =~ s{\[\[[^\|\]]+\|([^\|\]]+)\]\]}[$1]g;
+          $props->{location} =~ s{\[\[([^\|\]()]+) \([^()\[\]\|]+\)\]\]}[$1]g;
           $props->{location} =~ s{\[\[([^\|\]]+)\]\]}[$1]g;
           $props->{location} =~ s[\{\{Color\|[^\|]+\|([^\|\}]+)\}\}][$1]g;
           $props->{location} =~ s[\{\{[Ss]mall(?:er)?\|([^\|\}]*)\}\}][$1]g;
+          $props->{location} =~ s{<ref>.*?</ref>}{}g;
+          $props->{location} =~ s{<small>.*}{}g;
           $props->{location} =~ s[<[^<>]+>][]g;
           $props->{location} =~ s['''([^']*)'''][$1]g;
           $props->{location} =~ s[(?<=\S)\s+\S+?キャンパス:?\s+.+][]g;
-          $props->{location} =~ s[^\s*\S+?キャンパス\s+][]g;
-          $props->{location} =~ s[\s*（.+?）\s*$][]g;
+          $props->{location} =~ s[^\s*\S+?キャンパス:?\s*][]g;
+          $props->{location} =~ s{([都道府県市区町村]\S+.*?) \S+?[都道府県市区町村].*}{$1}gs;
+          $props->{location} =~ s[最寄り.*][];
+          $props->{location} =~ s[近鉄\S+?駅.*][];
+          $props->{location} =~ s[標高\d+.*][];
+          $props->{location} =~ s[\s+〒.+][];
+          $props->{location} =~ s[^\s*[（(].+?[）)]\s*(.+?)\s*[(（].*][$1]g;
+          $props->{location} =~ s[\s*[（(].*?(?:キャンパス|[学校]舎?|室|科|[年月](?:現在)?|中高(?:一貫部)?|中学|中等部|高等部|全日制|世界測地系)[）)]\s*][]g;
           $props->{location} =~ s{\s*\[中学校\]\s*$}{}g;
+          $props->{location} =~ s{\[https?:.*}{}g;
           $props->{location} =~ s[^本校：][]g;
-          $props->{location} =~ tr/０１２３４５６７８９/0-9/;
+          $props->{location} =~ tr/０１２３４５６７８９（）－/0-9()-/;
+          $props->{location} =~ s[\(\)][]g;
+          $props->{location} =~ s[^\)][]g;
           if ($props->{location} =~ s/^〒([0-9-]+)\s*//) {
             $props->{location_zipcode} ||= $1;
           }
@@ -402,8 +415,8 @@ sub parse_text ($) {
         }
         $props->{url} ||= $school->{'ウェブサイト'} || $school->{'外部リンク'};
         if ($props->{url}) {
-          $props->{url} =~ s{\[(http://[\x21-\x7E]+\s+\S+)\]}{$1}g;
-          if ($props->{url} =~ s[(http://[\x21-\x7E]+)][]) {
+          $props->{url} =~ s{\[(https?://[\x21-\x7E]+\s+\S+)\]}{$1}g;
+          if ($props->{url} =~ s[(https?://[\x21-\x7E]+)][]) {
             $props->{url} = $1;
           }
           $props->{url} =~ tr/\[\]//d;
@@ -414,6 +427,11 @@ sub parse_text ($) {
       }
       if ($school->{text} and $school->{text} =~ /\{\{DEFAULTSORT:([^{}]+)\}\}/) {
         $props->{sort_name} ||= $1;
+      }
+      if ($props->{location_wikipedia_latlon}) {
+        $props->{location_wikipedia_latlon} =~ s/\|scale[=:].*//g;
+        $props->{location_wikipedia_latlon} =~ s/\|region[=:].*//g;
+        $props->{location_wikipedia_latlon} =~ s/\|\|東経.*//;
       }
 
       my $short_name = $name;
@@ -508,7 +526,7 @@ sub parse_text ($) {
       }
       $self->{$v_mode}->{$name} = $props unless $name eq '_';
       for (keys %$props) {
-        delete $props->{$_} unless defined $props->{$_};
+        delete $props->{$_} unless defined $props->{$_} and length $props->{$_};
       }
     } elsif ($t =~ /^(=+)\s*(.+?)\s*=+\s*$/) {
       my $level = length $1;
