@@ -28,7 +28,7 @@ sub load_school_text_from_cache ($$) {
   my ($self, $school_wikipedia_name) = @_;
   require MediaWikiXML::PageExtractor;
   my $text = MediaWikiXML::PageExtractor->get_text_from_cache
-      ($school_wikipedia_name);
+      ($school_wikipedia_name, allow_not_found => 1);
   if (defined $text) {
     my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
 
@@ -45,7 +45,7 @@ sub load_school_text_from_cache ($$) {
     }
     return $school;
   } else {
-    warn "Page |$school_wikipedia_name| not found in the cache";
+    #warn "Page |$school_wikipedia_name| not found in the cache";
     return undef;
   }
 } # load_school_text_from_cache
@@ -300,7 +300,7 @@ sub parse_text ($) {
       $props->{wikipedia_name} = $wikipedia_name
           if $wikipedia_name and $name ne $wikipedia_name;
 
-      my $school = $self->load_school_text_from_cache ($wikipedia_name);
+      my $school = $self->load_school_text_from_cache ($wikipedia_name || $name);
       if ($school) {
         $props->{english_long_name} ||= $school->{'英称'};
         $props->{english_abbr_name} ||= $school->{'英略称'};

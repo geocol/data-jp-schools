@@ -49,9 +49,12 @@ sub save_page_xml ($$$) {
   }
 } # save_page_xml
 
-sub get_text_from_cache ($$) {
-  my ($class, $title) = @_;
+sub get_text_from_cache ($$;%) {
+  my ($class, $title, %args) = @_;
   my $f = $class->get_f_from_title ($title);
+  if ($args{allow_not_found} and not -f $f) {
+    return undef;
+  }
   my $content = $f->slurp or return undef;
   if ($content =~ m[<text[^<>]*>(.*?)</text>]s) {
     my $text = $1;
