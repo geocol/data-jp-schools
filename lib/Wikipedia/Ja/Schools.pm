@@ -300,6 +300,9 @@ sub parse_text ($) {
           $props->{location_area} .= $1;
         }
       }
+      if ($wikipedia_name and $name =~ /^\Q$wikipedia_name\E.*キャンパス$/) {
+        undef $wikipedia_name;
+      }
       $props->{wikipedia_name} = $wikipedia_name
           if $wikipedia_name and $name ne $wikipedia_name;
 
