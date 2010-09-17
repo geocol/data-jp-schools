@@ -306,7 +306,9 @@
          "short_name" : "桜が原中学校"
       },
       "大村市立玖島中学校" : {
+         "location" : "長崎県大村市久原1丁目265番地",
          "location_area" : "大村市",
+         "location_zipcode" : "856-0835",
          "owner_type" : "市立",
          "short_name" : "玖島中学校"
       },
@@ -585,18 +587,28 @@
          "short_name" : "波佐見中学校"
       },
       "活水中学校" : {
+         "location" : "長崎県長崎市宝栄町15-11",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8566",
          "owner_type" : "私立",
+         "url" : "http://www.kwassui.ac.jp/chuko/index2.htm",
          "wikipedia_name" : "活水中学校・高等学校"
       },
       "海星中学校" : {
+         "location" : "長崎県長崎市東山手町5番3号",
          "location_area" : "長崎市",
+         "location_wikipedia_latlon" : "|32|44|11|N|129|52|27|E|",
+         "location_zipcode" : "850-0911",
          "owner_type" : "私立",
+         "url" : "http://www.kaisei-ngs.ed.jp/",
          "wikipedia_name" : "海星中学校・高等学校 (長崎県)"
       },
       "精道三川台中学校" : {
+         "location" : "長崎県長崎市三川町1234-1",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8121",
          "owner_type" : "私立",
+         "url" : "http://www.seido-gakuen.net/",
          "wikipedia_name" : "精道三川台小学校・中学校・高等学校"
       },
       "純心中学校" : {
@@ -739,8 +751,11 @@
          "short_name" : "高田中学校"
       },
       "長崎南山中学校" : {
+         "location" : "長崎県長崎市上野町25-1",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8544",
          "owner_type" : "私立",
+         "url" : "http://www.n-nanzan.ed.jp/",
          "wikipedia_name" : "長崎南山中学校・高等学校"
       },
       "長崎大学教育学部附属中学校" : {
@@ -812,9 +827,12 @@
          "short_name" : "山里中学校"
       },
       "長崎市立岩屋中学校" : {
+         "location" : "長崎県長崎市岩屋町37番1号",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8052",
          "owner_type" : "市立",
-         "short_name" : "岩屋中学校"
+         "short_name" : "岩屋中学校",
+         "url" : "http://www.nagasaki-city.ed.jp/iwaya-j/index.htm"
       },
       "長崎市立式見中学校" : {
          "location_area" : "長崎市",
@@ -837,9 +855,12 @@
          "short_name" : "日見中学校"
       },
       "長崎市立東長崎中学校" : {
+         "location" : "長崎県長崎市矢上町8番6号",
          "location_area" : "長崎市",
+         "location_zipcode" : "851-0133",
          "owner_type" : "市立",
-         "short_name" : "東長崎中学校"
+         "short_name" : "東長崎中学校",
+         "url" : "http://www.nagasaki-city.ed.jp/higashinagasaki-j/"
       },
       "長崎市立桜馬場中学校" : {
          "location_area" : "長崎市",
@@ -862,9 +883,13 @@
          "short_name" : "橘中学校"
       },
       "長崎市立江平中学校" : {
+         "location" : "長崎県長崎市江平3-10-1",
          "location_area" : "長崎市",
+         "location_wikipedia_latlon" : "|32|46|24|N|129|52|30|E",
+         "location_zipcode" : "852-8101",
          "owner_type" : "市立",
-         "short_name" : "江平中学校"
+         "short_name" : "江平中学校",
+         "url" : "http://www.nagasaki-city.ed.jp/ebira-j/index.htm"
       },
       "長崎市立池島中学校" : {
          "location_area" : "長崎市",
@@ -966,8 +991,11 @@
          "short_name" : "長崎東中学校"
       },
       "長崎精道中学校" : {
+         "location" : "長崎県長崎市三原二丁目23番33号",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8123",
          "owner_type" : "私立",
+         "url" : "http://www.nagasaki-seido.ed.jp",
          "wikipedia_name" : "長崎精道小学校・中学校"
       },
       "雲仙市立北串中学校" : {

@@ -146,9 +146,12 @@
          "short_name" : "北谷中学校"
       },
       "北谷町立桑江中学校" : {
+         "location" : "沖縄県中頭郡北谷町美浜1丁目4番7号",
          "location_area" : "中頭郡北谷町",
+         "location_zipcode" : "904-0115",
          "owner_type" : "町立",
-         "short_name" : "桑江中学校"
+         "short_name" : "桑江中学校",
+         "url" : "http://www.kuwae-j.chatan.jp/1/346.html"
       },
       "南城市立久高中学校" : {
          "location_area" : "南城市",
@@ -161,9 +164,12 @@
          "short_name" : "佐敷中学校"
       },
       "南城市立大里中学校" : {
+         "location" : "沖縄県南城市大里字仲間978",
          "location_area" : "南城市",
+         "location_zipcode" : "901-1206",
          "owner_type" : "市立",
-         "short_name" : "大里中学校"
+         "short_name" : "大里中学校",
+         "url" : "http://www.edu.city.nanjo.okinawa.jp/ohzatochu/index.html"
       },
       "南城市立玉城中学校" : {
          "location_area" : "南城市",
@@ -226,12 +232,17 @@
          "short_name" : "東江中学校"
       },
       "名護市立羽地中学校" : {
+         "location" : "沖縄県名護市仲尾次770",
          "location_area" : "名護市",
+         "location_zipcode" : "905-1144",
          "owner_type" : "市立",
-         "short_name" : "羽地中学校"
+         "short_name" : "羽地中学校",
+         "url" : "http://sw.city.nago.okinawa.jp/hanezi-c/"
       },
       "嘉手納町立嘉手納中学校" : {
+         "location" : "沖縄県中頭郡嘉手納町字嘉手納312番地",
          "location_area" : "中頭郡嘉手納町",
+         "location_zipcode" : "904-0203",
          "owner_type" : "町立",
          "short_name" : "嘉手納中学校"
       },
@@ -241,9 +252,12 @@
          "short_name" : "国頭中学校"
       },
       "多良間村立多良間中学校" : {
+         "location" : "沖縄県宮古郡多良間村塩川576",
          "location_area" : "宮古郡多良間村",
+         "location_zipcode" : "906-0601",
          "owner_type" : "村立",
-         "short_name" : "多良間中学校"
+         "short_name" : "多良間中学校",
+         "url" : "http://www2.miyako-ma.jp/taramajs/"
       },
       "大宜見村立大宜味中学校" : {
          "location_area" : "国頭郡大宜見村",
@@ -251,9 +265,12 @@
          "short_name" : "大宜味中学校"
       },
       "宜野座村立宜野座中学校" : {
+         "location" : "沖縄県国頭郡宜野座村惣慶1505番地",
          "location_area" : "国頭郡宜野座村",
+         "location_zipcode" : "904-1303",
          "owner_type" : "村立",
-         "short_name" : "宜野座中学校"
+         "short_name" : "宜野座中学校",
+         "url" : "http://www.ginoza.ed.jp/ginoza-j/default.htm"
       },
       "宜野湾市立嘉数中学校" : {
          "location_area" : "宜野湾市",
@@ -261,9 +278,12 @@
          "short_name" : "嘉数中学校"
       },
       "宜野湾市立宜野湾中学校" : {
+         "location" : "沖縄県宜野湾市赤道1-15-1",
          "location_area" : "宜野湾市",
+         "location_zipcode" : "901-2205",
          "owner_type" : "市立",
-         "short_name" : "宜野湾中学校"
+         "short_name" : "宜野湾中学校",
+         "url" : "http://www.ginowan-okn.ed.jp/~hpginowan-j/"
       },
       "宜野湾市立普天間中学校" : {
          "location_area" : "宜野湾市",
@@ -401,7 +421,11 @@
          "short_name" : "恩納中学校"
       },
       "昭和薬科大学附属中学校" : {
+         "location" : "沖縄県浦添市沢岻450",
+         "location_wikipedia_latlon" : "|26|14|16.8|N|127|42|47.6|E|",
+         "location_zipcode" : "901-2112",
          "owner_type" : "私立",
+         "url" : "http://www.showayakka-jh.ed.jp/",
          "wikipedia_name" : "昭和薬科大学附属高等学校・中学校"
       },
       "本部町立上本部中学校" : {
@@ -445,15 +469,25 @@
          "short_name" : "高江中学校"
       },
       "沖縄カトリック中学校" : {
+         "location" : "沖縄県宜野湾市真栄原3-16-1",
+         "location_wikipedia_latlon" : "|26|15|41.2|N|127|44|41.5|E|",
+         "location_zipcode" : "901-2215",
          "owner_type" : "私立",
+         "url" : "http://www.catholic-okinawa.ed.jp/",
          "wikipedia_name" : "沖縄カトリック中学校・高等学校"
       },
       "沖縄三育中学校" : {
-         "owner_type" : "私立"
+         "location" : "沖縄県名護市旭川837",
+         "location_zipcode" : "905-0003",
+         "owner_type" : "私立",
+         "url" : "http://jh.okinawa-saniku.ed.jp/"
       },
       "沖縄尚学高等学校附属中学校" : {
+         "location" : "沖縄県那覇市国場747",
+         "location_zipcode" : "902-0075",
          "owner_type" : "私立",
          "short_name" : "沖縄尚学高校附属中学校",
+         "url" : "http://www.okisho.ed.jp/",
          "wikipedia_name" : "沖縄尚学高等学校・附属中学校"
       },
       "沖縄市立コザ中学校" : {
@@ -502,29 +536,44 @@
          "short_name" : "与勝緑が丘中学校"
       },
       "浦添市立仲西中学校" : {
+         "location" : "沖縄県浦添市屋富祖2-13-1",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2127",
          "owner_type" : "市立",
-         "short_name" : "仲西中学校"
+         "short_name" : "仲西中学校",
+         "url" : "http://urasoe.ed.jp/j02/}}"
       },
       "浦添市立浦添中学校" : {
+         "location" : "沖縄県浦添市仲間二丁目46番1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2103",
          "owner_type" : "市立",
-         "short_name" : "浦添中学校"
+         "short_name" : "浦添中学校",
+         "url" : "http://urasoe.ed.jp/j01/"
       },
       "浦添市立浦西中学校" : {
+         "location" : "沖縄県浦添市当山3丁目1番1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2104",
          "owner_type" : "市立",
-         "short_name" : "浦西中学校"
+         "short_name" : "浦西中学校",
+         "url" : "http://urasoe.ed.jp/j05/"
       },
       "浦添市立港川中学校" : {
+         "location" : "沖縄県浦添市港川1丁目1番1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2134",
          "owner_type" : "市立",
-         "short_name" : "港川中学校"
+         "short_name" : "港川中学校",
+         "url" : "http://urasoe.ed.jp/j04/"
       },
       "浦添市立神森中学校" : {
+         "location" : "沖縄県浦添市内間1-6-1",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2121",
          "owner_type" : "市立",
-         "short_name" : "神森中学校"
+         "short_name" : "神森中学校",
+         "url" : "http://urasoe.ed.jp/j03/"
       },
       "渡名喜村立渡名喜中学校" : {
          "location_area" : "島尻郡渡名喜村",
@@ -537,7 +586,10 @@
          "short_name" : "渡嘉敷中学校"
       },
       "琉球大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "沖縄県中頭郡西原町字千原1番地",
+         "location_zipcode" : "903-0213",
+         "owner_type" : "国立",
+         "url" : "http://www.jhs.u-ryukyu.ac.jp/"
       },
       "石垣市立伊原間中学校" : {
          "location_area" : "石垣市",
@@ -708,9 +760,12 @@
          "short_name" : "長嶺中学校"
       },
       "那覇市立上山中学校" : {
+         "location" : "沖縄県那覇市久米一丁目3-1",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-0033",
          "owner_type" : "市立",
-         "short_name" : "上山中学校"
+         "short_name" : "上山中学校",
+         "url" : "http://www.nahaken-okn.ed.jp/uenoy-jh/"
       },
       "那覇市立仲井真中学校" : {
          "location_area" : "那覇市",
@@ -718,9 +773,12 @@
          "short_name" : "仲井真中学校"
       },
       "那覇市立古蔵中学校" : {
+         "location" : "沖縄県那覇市古波蔵4丁目8-1",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-0024",
          "owner_type" : "市立",
-         "short_name" : "古蔵中学校"
+         "short_name" : "古蔵中学校",
+         "url" : "http://www.nahaken-okn.ed.jp/kokur-jh/pc/pcindex.html"
       },
       "那覇市立城北中学校" : {
          "location_area" : "那覇市",
@@ -738,9 +796,12 @@
          "short_name" : "安岡中学校"
       },
       "那覇市立寄宮中学校" : {
+         "location" : "沖縄県那覇市長田1丁目13番65号",
          "location_area" : "那覇市",
+         "location_zipcode" : "902-0077",
          "owner_type" : "市立",
-         "short_name" : "寄宮中学校"
+         "short_name" : "寄宮中学校",
+         "url" : "http://www.nahaken-okn.ed.jp/yorim-jh/"
       },
       "那覇市立小禄中学校" : {
          "location_area" : "那覇市",
@@ -753,9 +814,13 @@
          "short_name" : "松城中学校"
       },
       "那覇市立松島中学校" : {
+         "location" : "沖縄県那覇市古島2-11-2",
          "location_area" : "那覇市",
+         "location_wikipedia_latlon" : "|26|13|32|N|127|42|32|E|",
+         "location_zipcode" : "902-0061",
          "owner_type" : "市立",
-         "short_name" : "松島中学校"
+         "short_name" : "松島中学校",
+         "url" : "http://www.nahaken-okn.ed.jp/matsu-jh/"
       },
       "那覇市立真和志中学校" : {
          "location_area" : "那覇市",
@@ -773,9 +838,12 @@
          "short_name" : "石田中学校"
       },
       "那覇市立神原中学校" : {
+         "location" : "沖縄県那覇市樋川2丁目8-1",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-0022",
          "owner_type" : "市立",
-         "short_name" : "神原中学校"
+         "short_name" : "神原中学校",
+         "url" : "http://www.nahaken-okn.ed.jp/kamih-jh/"
       },
       "那覇市立那覇中学校" : {
          "location_area" : "那覇市",

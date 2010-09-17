@@ -116,12 +116,18 @@
          "short_name" : "八百津東部中学校"
       },
       "北方町立北方中学校" : {
+         "location" : "岐阜県本巣郡北方町北方1377-1",
          "location_area" : "本巣郡北方町",
+         "location_zipcode" : "501-0431",
          "owner_type" : "町立",
-         "short_name" : "北方中学校"
+         "school_area" : "北方町全域",
+         "short_name" : "北方中学校",
+         "url" : "http://www.town.kitagata.gifu.jp/~kitatyuu/"
       },
       "可児市御嵩町中学校組合立共和中学校" : {
+         "location" : "岐阜県可児郡御嵩町伏見1875-1",
          "location_area" : "可児郡",
+         "location_zipcode" : "505-0125",
          "owner_type" : "公立"
       },
       "可児市立中部中学校" : {
@@ -150,42 +156,60 @@
          "short_name" : "西可児中学校"
       },
       "各務原市立中央中学校" : {
+         "location" : "岐阜県各務原市各務西町4丁目358-1",
          "location_area" : "各務原市",
+         "location_zipcode" : "509-0106",
          "owner_type" : "市立",
          "short_name" : "中央中学校"
       },
       "各務原市立川島中学校" : {
+         "location" : "岐阜県各務原市川島河田町1028",
          "location_area" : "各務原市",
+         "location_zipcode" : "501-6025",
          "owner_type" : "市立",
          "short_name" : "川島中学校"
       },
       "各務原市立桜丘中学校" : {
+         "location" : "岐阜県各務原市那加不動丘1丁目77番地",
          "location_area" : "各務原市",
+         "location_zipcode" : "504-0838",
          "owner_type" : "市立",
          "short_name" : "桜丘中学校"
       },
       "各務原市立稲羽中学校" : {
+         "location" : "岐阜県各務原市上戸町5-40",
          "location_area" : "各務原市",
+         "location_zipcode" : "504-0927",
          "owner_type" : "市立",
-         "short_name" : "稲羽中学校"
+         "short_name" : "稲羽中学校",
+         "url" : "http://www.mirai.ne.jp/~inahachu//"
       },
       "各務原市立緑陽中学校" : {
+         "location" : "岐阜県各務原市緑苑北1丁目4番地",
          "location_area" : "各務原市",
+         "location_zipcode" : "509-0112",
          "owner_type" : "市立",
          "short_name" : "緑陽中学校"
       },
       "各務原市立蘇原中学校" : {
+         "location" : "岐阜県各務原市蘇原青雲町1-10",
          "location_area" : "各務原市",
+         "location_zipcode" : "504-0843",
          "owner_type" : "市立",
-         "short_name" : "蘇原中学校"
+         "short_name" : "蘇原中学校",
+         "url" : "http://www.mirai.ne.jp/~sochu/"
       },
       "各務原市立那加中学校" : {
+         "location" : "岐阜県各務原市那加東亜町48",
          "location_area" : "各務原市",
+         "location_zipcode" : "504-0022",
          "owner_type" : "市立",
          "short_name" : "那加中学校"
       },
       "各務原市立鵜沼中学校" : {
+         "location" : "岐阜県各務原市松が丘2丁目100",
          "location_area" : "各務原市",
+         "location_zipcode" : "509-0136",
          "owner_type" : "市立",
          "short_name" : "鵜沼中学校"
       },
@@ -235,9 +259,13 @@
          "short_name" : "北中学校"
       },
       "多治見市立北陵中学校" : {
+         "location" : "岐阜県多治見市旭ヶ丘10-6",
          "location_area" : "多治見市",
+         "location_wikipedia_latlon" : "|35|21|55.11|N|137|6|36.57|E|",
+         "location_zipcode" : "507-0071",
          "owner_type" : "市立",
-         "short_name" : "北陵中学校"
+         "short_name" : "北陵中学校",
+         "url" : "http://www2.city.tajimi.gifu.jp/~hokryo/x/"
       },
       "多治見市立南ヶ丘中学校" : {
          "location_area" : "多治見市",
@@ -260,9 +288,12 @@
          "short_name" : "小泉中学校"
       },
       "多治見市立平和中学校" : {
+         "location" : "岐阜県多治見市平和町脇之島町1-1",
          "location_area" : "多治見市",
+         "location_zipcode" : "507-0826",
          "owner_type" : "市立",
-         "short_name" : "平和中学校"
+         "short_name" : "平和中学校",
+         "url" : "http://www2.city.tajimi.gifu.jp/~heiwa/"
       },
       "多治見市立笠原中学校" : {
          "location_area" : "多治見市",
@@ -270,9 +301,12 @@
          "short_name" : "笠原中学校"
       },
       "多治見市立陶都中学校" : {
+         "location" : "岐阜県多治見市住吉町7丁目1",
          "location_area" : "多治見市",
+         "location_zipcode" : "507-0015",
          "owner_type" : "市立",
-         "short_name" : "陶都中学校"
+         "short_name" : "陶都中学校",
+         "url" : "http://www2.city.tajimi.gifu.jp/~touto/"
       },
       "多治見西高等学校附属中学校" : {
          "owner_type" : "私立",
@@ -284,9 +318,12 @@
          "short_name" : "上石津中学校"
       },
       "大垣市立北中学校" : {
+         "location" : "岐阜県大垣市八島町2290番地",
          "location_area" : "大垣市",
+         "location_zipcode" : "503-0016",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "url" : "http://edu.city.ogaki.gifu.jp/kitachu/"
       },
       "大垣市立南中学校" : {
          "location_area" : "大垣市",
@@ -294,14 +331,20 @@
          "short_name" : "南中学校"
       },
       "大垣市立星和中学校" : {
+         "location" : "岐阜県大垣市楽田町6丁目60番地",
          "location_area" : "大垣市",
+         "location_zipcode" : "503-0008",
          "owner_type" : "市立",
-         "short_name" : "星和中学校"
+         "short_name" : "星和中学校",
+         "url" : "http://edu.city.ogaki.gifu.jp/seiwa/index.html"
       },
       "大垣市立東中学校" : {
+         "location" : "岐阜県大垣市三塚町1169",
          "location_area" : "大垣市",
+         "location_zipcode" : "503-0808",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.ogaki-city.ed.jp/touchu/"
       },
       "大垣市立江並中学校" : {
          "location_area" : "大垣市",
@@ -309,9 +352,11 @@
          "short_name" : "江並中学校"
       },
       "大垣市立興文中学校" : {
+         "location" : "岐阜県大垣市西崎町1丁目82番地",
          "location_area" : "大垣市",
          "owner_type" : "市立",
-         "short_name" : "興文中学校"
+         "short_name" : "興文中学校",
+         "url" : "http://edu.city.ogaki.gifu.jp/kouchu/"
       },
       "大垣市立西中学校" : {
          "location_area" : "大垣市",
@@ -319,9 +364,12 @@
          "short_name" : "西中学校"
       },
       "大垣市立西部中学校" : {
+         "location" : "岐阜県大垣市荒川町337",
          "location_area" : "大垣市",
+         "location_zipcode" : "503-0993",
          "owner_type" : "市立",
-         "short_name" : "西部中学校"
+         "short_name" : "西部中学校",
+         "url" : "http://www.ogaki-city.ed.jp/seibu/"
       },
       "大垣市立赤坂中学校" : {
          "location_area" : "大垣市",
@@ -329,9 +377,12 @@
          "short_name" : "赤坂中学校"
       },
       "大野町立大野中学校" : {
+         "location" : "岐阜県揖斐郡大野町黒野1081番地",
          "location_area" : "揖斐郡大野町",
+         "location_zipcode" : "501-0521",
          "owner_type" : "町立",
-         "short_name" : "大野中学校"
+         "short_name" : "大野中学校",
+         "url" : "http://www.mirai.ne.jp/~oono/"
       },
       "大野町立大野中学校大野分校" : {
          "location_area" : "揖斐郡大野町",
@@ -344,8 +395,11 @@
          "short_name" : "揖東中学校"
       },
       "安八町大垣市学校組合立東安中学校" : {
+         "location" : "岐阜県安八郡安八町東結952-43",
          "location_area" : "安八郡",
-         "owner_type" : "公立"
+         "location_zipcode" : "503-0112",
+         "owner_type" : "公立",
+         "url" : "http://www.mirai.ne.jp/~touan/"
       },
       "安八町立登龍中学校" : {
          "location_area" : "安八郡安八町",
@@ -363,17 +417,25 @@
          "short_name" : "美山中学校"
       },
       "山県市立高富中学校" : {
+         "location" : "岐阜県山県市高富2845番地1",
          "location_area" : "山県市",
+         "location_zipcode" : "501-2105",
          "owner_type" : "市立",
-         "short_name" : "高富中学校"
+         "short_name" : "高富中学校",
+         "url" : "http://www.ip.mirai.ne.jp/~takatomicyu/"
       },
       "岐南町立岐南中学校" : {
+         "location" : "岐阜県羽島郡岐南町徳田3丁目284",
          "location_area" : "羽島郡岐南町",
+         "location_zipcode" : "501-6016",
          "owner_type" : "町立",
          "short_name" : "岐南中学校"
       },
       "岐阜大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "岐阜県岐阜市加納大手町74",
+         "location_zipcode" : "500-8482",
+         "owner_type" : "国立",
+         "url" : "http://www.fuzoku.gifu-u.ac.jp/chu/index.html"
       },
       "岐阜市立三輪中学校" : {
          "location_area" : "岐阜市",
@@ -381,21 +443,29 @@
          "short_name" : "三輪中学校"
       },
       "岐阜市立伊奈波中学校" : {
+         "location" : "岐阜県岐阜市則武1816",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0931",
          "owner_type" : "市立",
-         "short_name" : "伊奈波中学校"
+         "short_name" : "伊奈波中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/inaba-j/index.htm"
       },
       "岐阜市立加納中学校" : {
+         "location" : "岐阜県岐阜市加納舟田町9",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8252",
          "owner_type" : "市立",
          "short_name" : "加納中学校"
       },
       "岐阜市立厚見中学校" : {
+         "location" : "岐阜県岐阜市上川手262-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8245",
          "owner_type" : "市立",
          "short_name" : "厚見中学校"
       },
       "岐阜市立境川中学校" : {
+         "location" : "岐阜県岐阜市柳津町上佐波東3丁目70",
          "location_area" : "岐阜市",
          "owner_type" : "市立",
          "short_name" : "境川中学校"
@@ -411,14 +481,21 @@
          "short_name" : "岐阜西中学校"
       },
       "岐阜市立岩野田中学校" : {
+         "location" : "岐阜県岐阜市粟野西5-817",
          "location_area" : "岐阜市",
+         "location_wikipedia_latlon" : "|35|28|57|N|136|46|18|E|",
+         "location_zipcode" : "502-0006",
          "owner_type" : "市立",
-         "short_name" : "岩野田中学校"
+         "short_name" : "岩野田中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/iwanoda-j/"
       },
       "岐阜市立島中学校" : {
+         "location" : "岐阜県岐阜市則武西1-8-2",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0939",
          "owner_type" : "市立",
-         "short_name" : "島中学校"
+         "short_name" : "島中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/shima-j/index.htm"
       },
       "岐阜市立明郷中学校" : {
          "location_area" : "岐阜市",
@@ -426,9 +503,12 @@
          "short_name" : "明郷中学校"
       },
       "岐阜市立本荘中学校" : {
+         "location" : "岐阜県岐阜市雲雀ヶ丘1番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8378",
          "owner_type" : "市立",
-         "short_name" : "本荘中学校"
+         "short_name" : "本荘中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/honjyo-j/"
       },
       "岐阜市立東長良中学校" : {
          "location_area" : "岐阜市",
@@ -436,14 +516,21 @@
          "short_name" : "東長良中学校"
       },
       "岐阜市立梅林中学校" : {
+         "location" : "岐阜県岐阜市九重町3丁目8番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8226",
          "owner_type" : "市立",
-         "short_name" : "梅林中学校"
+         "school_area" : "梅林地区、白山地区、華陽地区",
+         "short_name" : "梅林中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/bairin-j/"
       },
       "岐阜市立精華中学校" : {
+         "location" : "岐阜県岐阜市精華1丁目11-27",
          "location_area" : "岐阜市",
+         "location_zipcode" : "501-0811",
          "owner_type" : "市立",
-         "short_name" : "精華中学校"
+         "short_name" : "精華中学校",
+         "url" : "http://cms.gifu-gif.ed.jp/seika-j/"
       },
       "岐阜市立藍川中学校" : {
          "location_area" : "岐阜市",
@@ -461,9 +548,13 @@
          "short_name" : "藍川東中学校"
       },
       "岐阜市立長森中学校" : {
+         "location" : "岐阜県岐阜市野一色4丁目11番1号",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8226",
          "owner_type" : "市立",
-         "short_name" : "長森中学校"
+         "school_area" : "日野地区、長森地区",
+         "short_name" : "長森中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/nagamori-j/"
       },
       "岐阜市立長森南中学校" : {
          "location_area" : "岐阜市",
@@ -476,9 +567,12 @@
          "short_name" : "長良中学校"
       },
       "岐阜市立陽南中学校" : {
+         "location" : "岐阜県岐阜市六条東1-1-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8353",
          "owner_type" : "市立",
-         "short_name" : "陽南中学校"
+         "short_name" : "陽南中学校",
+         "url" : "http://www.gifu-gif.ed.jp/school/younan-j"
       },
       "岐阜市立青山中学校" : {
          "location_area" : "岐阜市",
@@ -497,7 +591,10 @@
          "short_name" : "川辺中学校"
       },
       "帝京大学可児中学校" : {
+         "location" : "岐阜県可児市桂ヶ丘一丁目1番地",
+         "location_zipcode" : "509-0237",
          "owner_type" : "私立",
+         "url" : "http://www.teikyo-kani.ed.jp/",
          "wikipedia_name" : "帝京大学可児高等学校中学校"
       },
       "御嵩町立上之郷中学校" : {
@@ -521,14 +618,22 @@
          "short_name" : "串原中学校"
       },
       "恵那市立山岡中学校" : {
+         "location" : "恵那市山岡町下手向182-4",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7607",
          "owner_type" : "市立",
-         "short_name" : "山岡中学校"
+         "school_area" : "東濃学区",
+         "short_name" : "山岡中学校",
+         "url" : "http://www.yamaoka-j.ed.jp/"
       },
       "恵那市立岩邑中学校" : {
+         "location" : "岐阜県恵那市岩村町1273-1",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7403",
          "owner_type" : "市立",
-         "short_name" : "岩邑中学校"
+         "school_area" : "東濃学区",
+         "short_name" : "岩邑中学校",
+         "url" : "http://www.iwamura-j.ed.jp/"
       },
       "恵那市立恵那北中学校" : {
          "location_area" : "恵那市",
@@ -546,9 +651,12 @@
          "short_name" : "恵那西中学校"
       },
       "恵那市立明智中学校" : {
+         "location" : "岐阜県恵那市明智町60-1",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7718",
          "owner_type" : "市立",
-         "short_name" : "明智中学校"
+         "short_name" : "明智中学校",
+         "url" : "http://www.akechi-j.ed.jp/"
       },
       "揖斐川町立久瀬中学校" : {
          "location_area" : "揖斐郡揖斐川町",
@@ -566,9 +674,12 @@
          "short_name" : "坂内中学校"
       },
       "揖斐川町立揖斐川中学校" : {
+         "location" : "岐阜県揖斐郡揖斐川町412",
          "location_area" : "揖斐郡揖斐川町",
+         "location_zipcode" : "501-0623",
          "owner_type" : "町立",
-         "short_name" : "揖斐川中学校"
+         "short_name" : "揖斐川中学校",
+         "url" : "http://www.town.ikeda.gifu.jp/ibijhs/"
       },
       "揖斐川町立春日中学校" : {
          "location_area" : "揖斐郡揖斐川町",
@@ -606,9 +717,12 @@
          "short_name" : "東白川中学校"
       },
       "池田町立池田中学校" : {
+         "location" : "岐阜県揖斐郡池田町草深485-1",
          "location_area" : "揖斐郡池田町",
+         "location_zipcode" : "503-2418",
          "owner_type" : "町立",
          "short_name" : "池田中学校",
+         "url" : "http://www.town.ikeda.gifu.jp/ikedachu/",
          "wikipedia_name" : "池田町立池田中学校 (岐阜県)"
       },
       "海津市立南濃中学校" : {
@@ -617,9 +731,12 @@
          "short_name" : "南濃中学校"
       },
       "海津市立城南中学校" : {
+         "location" : "岐阜県海津市南濃町羽沢1050",
          "location_area" : "海津市",
+         "location_zipcode" : "503-0413",
          "owner_type" : "市立",
-         "short_name" : "城南中学校"
+         "short_name" : "城南中学校",
+         "url" : "http://school.city.kaizu.lg.jp/~jonan-chu/"
       },
       "海津市立平田中学校" : {
          "location_area" : "海津市",
@@ -627,9 +744,12 @@
          "short_name" : "平田中学校"
       },
       "海津市立日新中学校" : {
+         "location" : "岐阜県海津市海津町高須531－1",
          "location_area" : "海津市",
+         "location_zipcode" : "503",
          "owner_type" : "市立",
-         "short_name" : "日新中学校"
+         "short_name" : "日新中学校",
+         "url" : "http://school.city.kaizu.lg.jp/~nisshin-chu/"
       },
       "瑞浪市立日吉中学校" : {
          "location_area" : "瑞浪市",
@@ -637,8 +757,11 @@
          "short_name" : "日吉中学校"
       },
       "瑞浪市立瑞浪中学校" : {
+         "location" : "岐阜県瑞浪市土岐町7790-1",
          "location_area" : "瑞浪市",
+         "location_zipcode" : "509-6101",
          "owner_type" : "市立",
+         "school_area" : "東濃地区",
          "short_name" : "瑞浪中学校"
       },
       "瑞浪市立瑞陵中学校" : {
@@ -667,7 +790,9 @@
          "short_name" : "巣南中学校"
       },
       "瑞穂市立穂積中学校" : {
+         "location" : "岐阜県瑞穂市別府1888",
          "location_area" : "瑞穂市",
+         "location_zipcode" : "501-0222",
          "owner_type" : "市立",
          "short_name" : "穂積中学校"
       },
@@ -702,9 +827,12 @@
          "short_name" : "神戸中学校"
       },
       "笠松町立笠松中学校" : {
+         "location" : "岐阜県羽島郡笠松町弥生町1番地",
          "location_area" : "羽島郡笠松町",
+         "location_zipcode" : "501-6085",
          "owner_type" : "町立",
-         "short_name" : "笠松中学校"
+         "short_name" : "笠松中学校",
+         "url" : "http://www.ccn3.aitai.ne.jp/~kasachu/"
       },
       "美濃加茂中学校" : {
          "owner_type" : "私立"
@@ -714,14 +842,21 @@
          "owner_type" : "公立"
       },
       "美濃加茂市立東中学校" : {
+         "location" : "岐阜県美濃加茂市本郷町8-8-52",
          "location_area" : "美濃加茂市",
+         "location_wikipedia_latlon" : "|35|27|07|N|137|02|48|E|",
+         "location_zipcode" : "505-0027",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.city.minokamo.gifu.jp/school/higasi/"
       },
       "美濃加茂市立西中学校" : {
+         "location" : "岐阜県美濃加茂市西町1-30",
          "location_area" : "美濃加茂市",
+         "location_zipcode" : "505-0046",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "url" : "http://www.city.minokamo.gifu.jp/school/nisi/"
       },
       "美濃市立昭和中学校" : {
          "location_area" : "美濃市",
@@ -754,22 +889,30 @@
          "short_name" : "桑原中学校"
       },
       "羽島市立竹鼻中学校" : {
+         "location" : "岐阜県羽島市竹鼻町3176",
          "location_area" : "羽島市",
+         "location_zipcode" : "501-6241",
          "owner_type" : "市立",
          "short_name" : "竹鼻中学校"
       },
       "羽島市立羽島中学校" : {
+         "location" : "岐阜県羽島市足近町7-455",
          "location_area" : "羽島市",
+         "location_zipcode" : "501-6207",
          "owner_type" : "市立",
-         "short_name" : "羽島中学校"
+         "short_name" : "羽島中学校",
+         "url" : "http://www.hashima-gifu.ed.jp/~hashimaj"
       },
       "聖マリア女学院中学校" : {
          "owner_type" : "私立"
       },
       "輪之内町立輪之内中学校" : {
+         "location" : "岐阜県安八郡輪之内町四郷2457番地",
          "location_area" : "安八郡輪之内町",
+         "location_zipcode" : "503-0204",
          "owner_type" : "町立",
-         "short_name" : "輪之内中学校"
+         "short_name" : "輪之内中学校",
+         "url" : "http://www.tanpopo.ne.jp/~wachu/index.html"
       },
       "郡上市立八幡中学校" : {
          "location_area" : "郡上市",
@@ -867,14 +1010,21 @@
          "short_name" : "武芸川中学校"
       },
       "関市立洞戸中学校" : {
+         "location" : "岐阜県関市洞戸市場566-1",
          "location_area" : "関市",
+         "location_wikipedia_latlon" : "|35|36|18|N|136|46|03|E|",
+         "location_zipcode" : "501-2812",
          "owner_type" : "市立",
-         "short_name" : "洞戸中学校"
+         "short_name" : "洞戸中学校",
+         "url" : "http://www5.city.seki.gifu.jp/horado-chu/"
       },
       "関市立緑ヶ丘中学校" : {
+         "location" : "岐阜県関市緑ヶ丘2丁目1番10号",
          "location_area" : "関市",
+         "location_zipcode" : "501-3246",
          "owner_type" : "市立",
-         "short_name" : "緑ヶ丘中学校"
+         "short_name" : "緑ヶ丘中学校",
+         "url" : "http://www5.city.seki.gifu.jp/midorigaoka-chu/"
       },
       "飛騨市立古川中学校" : {
          "location_area" : "飛騨市",
@@ -907,9 +1057,12 @@
          "short_name" : "東部中学校"
       },
       "養老町立高田中学校" : {
+         "location" : "岐阜県養老郡養老町高田3879-4",
          "location_area" : "養老郡養老町",
+         "location_zipcode" : "503-1314",
          "owner_type" : "町立",
-         "short_name" : "高田中学校"
+         "short_name" : "高田中学校",
+         "url" : "http://www.ip.mirai.ne.jp/~jhs-takada/"
       },
       "高山市立中山中学校" : {
          "location_area" : "高山市",
@@ -972,17 +1125,26 @@
          "short_name" : "荘川中学校"
       },
       "鶯谷中学校" : {
+         "location" : "岐阜市鶯谷町7",
+         "location_wikipedia_latlon" : "|35|25|27.3|N|136|46|1.9|E|",
+         "location_zipcode" : "500-8053",
          "owner_type" : "私立",
+         "url" : "http://www.mirai.ne.jp/~uguisu/",
          "wikipedia_name" : "鶯谷中学・高等学校"
       },
       "麗澤瑞浪中学校" : {
+         "location" : "岐阜県瑞浪市稲津町萩原1661",
+         "location_zipcode" : "509-6102",
          "owner_type" : "私立",
+         "url" : "http://www.mz.reitaku.jp/",
          "wikipedia_name" : "麗澤瑞浪中学校・高等学校"
       }
    },
    "primary_and_secondary_schools" : {
       "関ケ原町立今須小中学校" : {
+         "location" : "岐阜県不破郡関ケ原町大字今須75-1",
          "location_area" : "不破郡関ケ原町",
+         "location_zipcode" : "503-1543",
          "owner_type" : "町立",
          "short_name" : "今須小中学校"
       }

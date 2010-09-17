@@ -46,11 +46,19 @@
          "short_name" : "鶴田中学校"
       },
       "れいめい中学校" : {
+         "location" : "鹿児島県薩摩川内市隈之城町2205",
+         "location_wikipedia_latlon" : "|31|47|34.2|N|130|18|19.5|E|region:JP|display=title",
+         "location_zipcode" : "895-0041",
          "owner_type" : "私立",
+         "url" : "http://www.reimei.ed.jp/",
          "wikipedia_name" : "れいめい中学校・高等学校"
       },
       "ラ・サール中学校" : {
+         "location" : "鹿児島県鹿児島市小松原2-10-1",
+         "location_wikipedia_latlon" : "|31|31|48|N|130|31|40|E|",
+         "location_zipcode" : "891-0192",
          "owner_type" : "私立",
+         "url" : "http://www.lasalle.ed.jp/",
          "wikipedia_name" : "ラ・サール中学校・高等学校"
       },
       "三島村立三島中学校" : {
@@ -84,17 +92,23 @@
          "short_name" : "中種子中学校"
       },
       "伊仙町立伊仙中学校" : {
+         "location" : "鹿児島県大島郡伊仙町大字伊仙2635",
          "location_area" : "大島郡伊仙町",
+         "location_zipcode" : "891-8201",
          "owner_type" : "町立",
          "short_name" : "伊仙中学校"
       },
       "伊仙町立犬田布中学校" : {
+         "location" : "鹿児島県大島郡伊仙町大字犬田布327",
          "location_area" : "大島郡伊仙町",
+         "location_zipcode" : "891-8327",
          "owner_type" : "町立",
          "short_name" : "犬田布中学校"
       },
       "伊仙町立面縄中学校" : {
+         "location" : "鹿児島県大島郡伊仙町大字面縄2196",
          "location_area" : "大島郡伊仙町",
+         "location_zipcode" : "891-8114",
          "owner_type" : "町立",
          "short_name" : "面縄中学校"
       },
@@ -119,7 +133,10 @@
          "short_name" : "菱刈中学校"
       },
       "出水市立出水中学校" : {
+         "location" : "鹿児島県出水市中央町1262",
          "location_area" : "出水市",
+         "location_wikipedia_latlon" : "|32|04|51|N|130|20|53|E|",
+         "location_zipcode" : "899-0207",
          "owner_type" : "市立",
          "short_name" : "出水中学校"
       },
@@ -149,9 +166,12 @@
          "short_name" : "荘中学校"
       },
       "出水市立野田中学校" : {
+         "location" : "鹿児島県出水市野田町上名6172番地",
          "location_area" : "出水市",
+         "location_zipcode" : "899-0501",
          "owner_type" : "市立",
-         "short_name" : "野田中学校"
+         "short_name" : "野田中学校",
+         "url" : "http://www.city.izumi.kagoshima.jp/nodachu/top/index.html"
       },
       "出水市立高尾野中学校" : {
          "location_area" : "出水市",
@@ -199,14 +219,20 @@
          "short_name" : "万世中学校"
       },
       "南さつま市立加世田中学校" : {
+         "location" : "鹿児島県南さつま市加世田武田15533番地",
          "location_area" : "南さつま市",
+         "location_zipcode" : "897-0002",
          "owner_type" : "市立",
-         "short_name" : "加世田中学校"
+         "short_name" : "加世田中学校",
+         "url" : "http://www.minamisatsuma.ed.jp/jh/kasedacyu/"
       },
       "南さつま市立坊津学園中学校" : {
+         "location" : "鹿児島県南さつま市坊津町泊329番地",
          "location_area" : "南さつま市",
+         "location_zipcode" : "898-0102",
          "owner_type" : "市立",
-         "short_name" : "坊津学園中学校"
+         "short_name" : "坊津学園中学校",
+         "url" : "2010年4月現在なし"
       },
       "南さつま市立大浦中学校" : {
          "location_area" : "南さつま市",
@@ -214,42 +240,60 @@
          "short_name" : "大浦中学校"
       },
       "南さつま市立笠沙中学校" : {
+         "location" : "鹿児島県南さつま市笠沙町片浦2362番地",
          "location_area" : "南さつま市",
+         "location_zipcode" : "897-1301",
          "owner_type" : "市立",
-         "short_name" : "笠沙中学校"
+         "short_name" : "笠沙中学校",
+         "url" : "http://www.minamisatsuma.ed.jp/jh/kasasacyu/"
       },
       "南さつま市立金峰中学校" : {
+         "location" : "鹿児島県南さつま市金峰町中津野500-1",
          "location_area" : "南さつま市",
+         "location_zipcode" : "899-3515",
          "owner_type" : "市立",
-         "short_name" : "金峰中学校"
+         "short_name" : "金峰中学校",
+         "url" : "http://www.minamisatsuma.ed.jp/jh/kinpoucyu/index.html"
       },
       "南九州市立別府中学校" : {
+         "location" : "鹿児島県南九州市頴娃別府8644番地",
          "location_area" : "南九州市",
+         "location_zipcode" : "891-0704",
          "owner_type" : "市立",
          "short_name" : "別府中学校"
       },
       "南九州市立川辺中学校" : {
+         "location" : "鹿児島県南九州市川辺田部田3880番地",
          "location_area" : "南九州市",
+         "location_zipcode" : "897-0221",
          "owner_type" : "市立",
          "short_name" : "川辺中学校"
       },
       "南九州市立知覧中学校" : {
+         "location" : "鹿児島県南九州市知覧西元4160番地",
          "location_area" : "南九州市",
+         "location_zipcode" : "897-0306",
          "owner_type" : "市立",
          "short_name" : "知覧中学校"
       },
       "南九州市立青戸中学校" : {
+         "location" : "鹿児島県南九州市頴娃上別府4865-1番地",
          "location_area" : "南九州市",
+         "location_zipcode" : "891-0705",
          "owner_type" : "市立",
          "short_name" : "青戸中学校"
       },
       "南九州市立頴娃中学校" : {
+         "location" : "鹿児島県南九州市頴娃郡1442-1番地",
          "location_area" : "南九州市",
+         "location_zipcode" : "891-0701",
          "owner_type" : "市立",
          "short_name" : "頴娃中学校"
       },
       "南大隅町立根占中学校" : {
+         "location" : "鹿児島県肝属郡南大隅町根占山本1229",
          "location_area" : "肝属郡南大隅町",
+         "location_zipcode" : "893-2504",
          "owner_type" : "町立",
          "short_name" : "根占中学校"
       },
@@ -274,9 +318,12 @@
          "short_name" : "城ケ丘中学校"
       },
       "喜界町立早町中学校" : {
+         "location" : "鹿児島県大島郡喜界町大字塩道1190",
          "location_area" : "大島郡喜界町",
+         "location_zipcode" : "891-6151",
          "owner_type" : "町立",
-         "short_name" : "早町中学校"
+         "short_name" : "早町中学校",
+         "url" : "http://www12.synapse.ne.jp/socyu/"
       },
       "喜界町立第一中学校" : {
          "location_area" : "大島郡喜界町",
@@ -289,12 +336,19 @@
          "short_name" : "第二中学校"
       },
       "垂水市立垂水中央中学校" : {
+         "location" : "鹿児島県垂水市南松原町60番地",
          "location_area" : "垂水市",
+         "location_zipcode" : "891-2126",
          "owner_type" : "市立",
-         "short_name" : "垂水中央中学校"
+         "short_name" : "垂水中央中学校",
+         "url" : "http://www.city.tarumizu.lg.jp/school/tarumizuchuuou/index.htm"
       },
       "大口明光学園中学校" : {
+         "location" : "鹿児島県伊佐市大口里1830",
+         "location_wikipedia_latlon" : "|32|3|14|N|130|36|55.2|E|region:JP|display=title",
+         "location_zipcode" : "895-2511",
          "owner_type" : "私立",
+         "url" : "http://www.okuchimeiko.ac.jp/",
          "wikipedia_name" : "大口明光学園中学校・高等学校"
       },
       "大和村立今里中学校" : {
@@ -418,22 +472,36 @@
          "short_name" : "加治木中学校"
       },
       "姶良市立山田中学校" : {
+         "location" : "鹿児島県姶良市下名997",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|46|14|N|130|36|40|E|type:edu",
+         "location_zipcode" : "899-5543",
          "owner_type" : "市立",
-         "short_name" : "山田中学校"
+         "short_name" : "山田中学校",
+         "url" : "http://www12.synapse.ne.jp/yamada/"
       },
       "姶良市立帖佐中学校" : {
+         "location" : "鹿児島県姶良市西餅田1586",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|44|24|N|130|37|26|E",
+         "location_zipcode" : "899",
          "owner_type" : "市立",
-         "short_name" : "帖佐中学校"
+         "short_name" : "帖佐中学校",
+         "url" : "http://www12.synapse.ne.jp/chosa/"
       },
       "姶良市立蒲生中学校" : {
+         "location" : "鹿児島県姶良市蒲生町北10番地",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|45|52|N|130|33|55|E|type:edu",
+         "location_zipcode" : "899-5303",
          "owner_type" : "市立",
          "short_name" : "蒲生中学校"
       },
       "姶良市立重富中学校" : {
+         "location" : "鹿児島県姶良市平松7092",
          "location_area" : "姶良市",
+         "location_wikipedia_latlon" : "|31|42|47|N|130|36|57|E|type:edu",
+         "location_zipcode" : "899-5652",
          "owner_type" : "市立",
          "short_name" : "重富中学校"
       },
@@ -523,7 +591,11 @@
          "short_name" : "東天城中学校"
       },
       "志學館中等部" : {
+         "location" : "鹿児島県鹿児島市南郡元町32-1",
+         "location_wikipedia_latlon" : "|31|33|28.5|N|130|32|35.4|E|",
+         "location_zipcode" : "890-0069",
          "owner_type" : "私立",
+         "url" : "http://www.jkajyo.ac.jp/shigakukan/index.html",
          "wikipedia_name" : "志學館中等部・高等部 (鹿児島県)"
       },
       "志布志市立伊崎田中学校" : {
@@ -592,14 +664,20 @@
          "short_name" : "上市来中学校"
       },
       "日置市立伊集院中学校" : {
+         "location" : "鹿児島県日置市伊集院町下谷口1547",
          "location_area" : "日置市",
+         "location_zipcode" : "899-2501",
          "owner_type" : "市立",
-         "short_name" : "伊集院中学校"
+         "short_name" : "伊集院中学校",
+         "url" : "http://www.ed.city.hioki.kagoshima.jp/~jh-ijuin/index.htm"
       },
       "日置市立伊集院北中学校" : {
+         "location" : "鹿児島県日置市伊集院町下神殿下神殿はしもこどんと読む。国道3号線下神殿交差点も同例である1154",
          "location_area" : "日置市",
+         "location_zipcode" : "899-2511",
          "owner_type" : "市立",
-         "short_name" : "伊集院北中学校"
+         "short_name" : "伊集院北中学校",
+         "url" : "http://www.ed.city.hioki.kagoshima.jp/~jh-ijuinkita/"
       },
       "日置市立吹上中学校" : {
          "location_area" : "日置市",
@@ -607,9 +685,12 @@
          "short_name" : "吹上中学校"
       },
       "日置市立土橋中学校" : {
+         "location" : "鹿児島県日置市伊集院町土橋1350",
          "location_area" : "日置市",
+         "location_zipcode" : "899-2516",
          "owner_type" : "市立",
-         "short_name" : "土橋中学校"
+         "short_name" : "土橋中学校",
+         "url" : "http://www.ed.city.hioki.kagoshima.jp/~jh-tsutibashi/"
       },
       "日置市立日吉中学校" : {
          "location_area" : "日置市",
@@ -617,9 +698,12 @@
          "short_name" : "日吉中学校"
       },
       "日置市立東市来中学校" : {
+         "location" : "鹿児島県日置市東市来町長里",
          "location_area" : "日置市",
+         "location_zipcode" : "899-2202",
          "owner_type" : "市立",
-         "short_name" : "東市来中学校"
+         "short_name" : "東市来中学校",
+         "url" : "http://www.ed.city.hioki.kagoshima.jp/~jh-toutyu/blog/blognplus/index.php"
       },
       "曽於市立南之郷中学校" : {
          "location_area" : "曽於市",
@@ -662,9 +746,12 @@
          "short_name" : "別府中学校"
       },
       "枕崎市立枕崎中学校" : {
+         "location" : "鹿児島県枕崎市桜木町478",
          "location_area" : "枕崎市",
+         "location_zipcode" : "898-0018",
          "owner_type" : "市立",
-         "short_name" : "枕崎中学校"
+         "short_name" : "枕崎中学校",
+         "url" : "http://www.city.makurazaki.kagoshima.jp/establish/es_kyouiku_jr-mak.html"
       },
       "枕崎市立桜山中学校" : {
          "location_area" : "枕崎市",
@@ -672,9 +759,12 @@
          "short_name" : "桜山中学校"
       },
       "枕崎市立立神中学校" : {
+         "location" : "鹿児島県枕崎市大塚北町54番地",
          "location_area" : "枕崎市",
+         "location_zipcode" : "898-0026",
          "owner_type" : "市立",
-         "short_name" : "立神中学校"
+         "short_name" : "立神中学校",
+         "url" : "http://www.city.makurazaki.kagoshima.jp/establish/es_kyouiku_jr-tat.html"
       },
       "池田中学校" : {
          "owner_type" : "私立",
@@ -776,7 +866,11 @@
          "short_name" : "知名中学校"
       },
       "神村学園中等部" : {
+         "location" : "鹿児島県いちき串木野市下名4460番地",
+         "location_wikipedia_latlon" : "|31|42|15.9|N|130|16|51|E|region:JP|display=title",
+         "location_zipcode" : "896-8686",
          "owner_type" : "私立",
+         "url" : "http://news.kamimura.ac.jp/school_news/el/index.html",
          "wikipedia_name" : "神村学園初等部・中等部・高等部"
       },
       "肝付町立内之浦中学校" : {
@@ -795,9 +889,12 @@
          "short_name" : "岸良中学校"
       },
       "肝付町立川上中学校" : {
+         "location" : "鹿児島県肝付町後田6339番地",
          "location_area" : "肝属郡肝付町",
+         "location_zipcode" : "893-1203",
          "owner_type" : "町立",
-         "short_name" : "川上中学校"
+         "short_name" : "川上中学校",
+         "url" : "http://www3.synapse.ne.jp/kawakamijhs/"
       },
       "肝付町立波野中学校" : {
          "location_area" : "肝属郡肝付町",
@@ -815,39 +912,60 @@
          "short_name" : "上甑中学校"
       },
       "薩摩川内市立入来中学校" : {
+         "location" : "鹿児島県薩摩川内市入来町浦之名7635番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-1402",
          "owner_type" : "市立",
-         "short_name" : "入来中学校"
+         "short_name" : "入来中学校",
+         "url" : "http://www.edu.satsumasendai.jp/iriki-j/"
       },
       "薩摩川内市立川内中央中学校" : {
+         "location" : "鹿児島県薩摩川内市平佐町5000番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-0012",
          "owner_type" : "市立",
-         "short_name" : "川内中央中学校"
+         "short_name" : "川内中央中学校",
+         "url" : "http://www.edu.satsumasendai.jp/sendaichuo-j/"
       },
       "薩摩川内市立川内北中学校" : {
+         "location" : "鹿児島県薩摩川内市花木町17-60",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-0064",
          "owner_type" : "市立",
-         "short_name" : "川内北中学校"
+         "short_name" : "川内北中学校",
+         "url" : "http://www.edu.satsumasendai.jp/sendaikita-j/"
       },
       "薩摩川内市立川内南中学校" : {
+         "location" : "鹿児島県薩摩川内市平佐町985",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-0012",
          "owner_type" : "市立",
-         "short_name" : "川内南中学校"
+         "short_name" : "川内南中学校",
+         "url" : "http://www.edu.satsumasendai.jp/sendaiminami-j/"
       },
       "薩摩川内市立平成中学校" : {
+         "location" : "鹿児島県薩摩川内市城上町610番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-0213",
          "owner_type" : "市立",
-         "short_name" : "平成中学校"
+         "short_name" : "平成中学校",
+         "url" : "http://www.edu.satsumasendai.jp/heisei-j/"
       },
       "薩摩川内市立東郷中学校" : {
+         "location" : "鹿児島県薩摩川内市東郷町斧渕600",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-1106",
          "owner_type" : "市立",
-         "short_name" : "東郷中学校"
+         "short_name" : "東郷中学校",
+         "url" : "http://www.edu.satsumasendai.jp/togo-j/"
       },
       "薩摩川内市立樋脇中学校" : {
+         "location" : "鹿児島県薩摩川内市樋脇町塔之原",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "895-1202",
          "owner_type" : "市立",
-         "short_name" : "樋脇中学校"
+         "short_name" : "樋脇中学校",
+         "url" : "http://www.edu.satsumasendai.jp/hiwaki-j/"
       },
       "薩摩川内市立水引中学校" : {
          "location_area" : "薩摩川内市",
@@ -875,9 +993,12 @@
          "short_name" : "里中学校"
       },
       "薩摩川内市立高城西中学校" : {
+         "location" : "鹿児島県薩摩川内市湯田町4321番地",
          "location_area" : "薩摩川内市",
+         "location_zipcode" : "899-1802",
          "owner_type" : "市立",
-         "short_name" : "高城西中学校"
+         "short_name" : "高城西中学校",
+         "url" : "http://www.edu.satsumasendai.jp/takinishi-j/"
       },
       "薩摩川内市立高江中学校" : {
          "location_area" : "薩摩川内市",
@@ -1015,9 +1136,12 @@
          "short_name" : "福山中学校"
       },
       "霧島市立舞鶴中学校" : {
+         "location" : "霧島市国分福島1274番地1",
          "location_area" : "霧島市",
+         "location_zipcode" : "899-4322",
          "owner_type" : "市立",
-         "short_name" : "舞鶴中学校"
+         "short_name" : "舞鶴中学校",
+         "url" : "http://www.mct.ne.jp/users/maizurujhs/"
       },
       "霧島市立陵南中学校" : {
          "location_area" : "霧島市",
@@ -1035,31 +1159,53 @@
          "short_name" : "霧島中学校"
       },
       "鹿児島修学館中学校" : {
+         "location" : "鹿児島県鹿児島市永吉2-9-1",
+         "location_wikipedia_latlon" : "|31|36|12|N|130|32|6.5|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0023",
          "owner_type" : "私立",
+         "url" : "http://www.shugakukan.ed.jp/index.html",
          "wikipedia_name" : "鹿児島修学館中学校・高等学校"
       },
       "鹿児島大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "鹿児島県鹿児島市郡元1丁目20番35号",
+         "location_wikipedia_latlon" : "|31|34|00|N|130|32|38|E",
+         "location_zipcode" : "890-0065",
+         "owner_type" : "国立",
+         "url" : "http://fuzokujr.edu.kagoshima-u.ac.jp/index.html"
       },
       "鹿児島市立伊敷中学校" : {
+         "location" : "鹿児島市鹿児島市下伊敷1丁目11-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|35.7|N|130|32|13.3|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0005",
          "owner_type" : "市立",
-         "short_name" : "伊敷中学校"
+         "short_name" : "伊敷中学校",
+         "url" : "http://keinet.com/ishikic/index.htm"
       },
       "鹿児島市立伊敷台中学校" : {
+         "location" : "鹿児島市鹿児島市伊敷台1丁目3-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0007",
          "owner_type" : "市立",
-         "short_name" : "伊敷台中学校"
+         "short_name" : "伊敷台中学校",
+         "url" : "http://www.keinet.com/ishidac/"
       },
       "鹿児島市立南中学校" : {
+         "location" : "鹿児島県鹿児島市東郡元町13-34",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|12.8|N|130|32|48.6|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0068",
          "owner_type" : "市立",
-         "short_name" : "南中学校"
+         "short_name" : "南中学校",
+         "url" : "http://www.keinet.com/minamic/index.htm"
       },
       "鹿児島市立吉田北中学校" : {
+         "location" : "鹿児島県鹿児島市西佐多町269番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1301",
          "owner_type" : "市立",
-         "short_name" : "吉田北中学校"
+         "short_name" : "吉田北中学校",
+         "url" : "http://keinet.com/yoshikic/"
       },
       "鹿児島市立吉田南中学校" : {
          "location_area" : "鹿児島市",
@@ -1067,149 +1213,253 @@
          "short_name" : "吉田南中学校"
       },
       "鹿児島市立吉野中学校" : {
+         "location" : "鹿児島県鹿児島市吉野町3074番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0871",
          "owner_type" : "市立",
-         "short_name" : "吉野中学校"
+         "short_name" : "吉野中学校",
+         "url" : "http://www.keinet.com/yoshinoc/"
       },
       "鹿児島市立吉野東中学校" : {
+         "location" : "鹿児島県鹿児島市吉野町5003番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0871",
          "owner_type" : "市立",
-         "short_name" : "吉野東中学校"
+         "short_name" : "吉野東中学校",
+         "url" : "http://www.keinet.com/yoshihic/"
       },
       "鹿児島市立和田中学校" : {
+         "location" : "鹿児島県鹿児島市和田2丁目44番地3号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|30|26|N|130|30|29|E",
+         "location_zipcode" : "891-0143",
          "owner_type" : "市立",
-         "short_name" : "和田中学校"
+         "short_name" : "和田中学校",
+         "url" : "http://www.keinet.com/wadac/"
       },
       "鹿児島市立喜入中学校" : {
+         "location" : "鹿児島県鹿児島市喜入町7147番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|22|16.3|N|130|32|8.3|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0203",
          "owner_type" : "市立",
-         "short_name" : "喜入中学校"
+         "short_name" : "喜入中学校",
+         "url" : "http://keinet.com/kiirec/index.htm"
       },
       "鹿児島市立坂元中学校" : {
+         "location" : "鹿児島県鹿児島市玉里団地3-45-2",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0811",
          "owner_type" : "市立",
          "short_name" : "坂元中学校"
       },
       "鹿児島市立城西中学校" : {
+         "location" : "鹿児島県鹿児島市城西2丁目3-12",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|45.8|N|130|32|21.7|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0041",
          "owner_type" : "市立",
-         "short_name" : "城西中学校"
+         "short_name" : "城西中学校",
+         "url" : "http://www.keinet.com/jyouseic/"
       },
       "鹿児島市立天保山中学校" : {
+         "location" : "鹿児島県鹿児島市下荒田2丁目31-15",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|30.4|N|130|33|33.8|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0056",
          "owner_type" : "市立",
-         "short_name" : "天保山中学校"
+         "short_name" : "天保山中学校",
+         "url" : "http://keinet.com/tenpozac/index.htm"
       },
       "鹿児島市立明和中学校" : {
+         "location" : "鹿児島県鹿児島市明和2丁目2番地2号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|1.1|N|130|31|16.9|E|region:JP|display=title",
+         "location_zipcode" : "890-0031",
          "owner_type" : "市立",
-         "short_name" : "明和中学校"
+         "short_name" : "明和中学校",
+         "url" : "http://www.keinet.com/meiwac"
       },
       "鹿児島市立星峯中学校" : {
+         "location" : "鹿児島県鹿児島市星ヶ峯4丁目10番地1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|43.5|N|130|29|31.1|E|region:JP|display=title",
+         "location_zipcode" : "891-0102",
          "owner_type" : "市立",
-         "short_name" : "星峯中学校"
+         "short_name" : "星峯中学校",
+         "url" : "http://www.keinet.com/hoshigac/"
       },
       "鹿児島市立東桜島中学校" : {
+         "location" : "鹿児島県鹿児島市東桜島町810番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1543",
          "owner_type" : "市立",
-         "short_name" : "東桜島中学校"
+         "short_name" : "東桜島中学校",
+         "url" : "http://www.keinet.com/hisakuc/"
       },
       "鹿児島市立東谷山中学校" : {
+         "location" : "鹿児島市魚見町120番地2号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0112",
          "owner_type" : "市立",
-         "short_name" : "東谷山中学校"
+         "short_name" : "東谷山中学校",
+         "url" : "http://keinet.com/hitanic/"
       },
       "鹿児島市立松元中学校" : {
+         "location" : "鹿児島県鹿児島市上谷口町",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|02.89|N|130|26|06.02|E|",
+         "location_zipcode" : "899-2703",
          "owner_type" : "市立",
-         "short_name" : "松元中学校"
+         "short_name" : "松元中学校",
+         "url" : "http://www.keinet.com/matsumoc/index.htm"
       },
       "鹿児島市立桜丘中学校" : {
+         "location" : "鹿児島県鹿児島市桜ケ丘2-34",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|10.3|N|130|30|38|E|region:JP|display=title",
+         "location_zipcode" : "891-0175",
          "owner_type" : "市立",
-         "short_name" : "桜丘中学校"
+         "short_name" : "桜丘中学校",
+         "url" : "http://www.keinet.com/sakurac/"
       },
       "鹿児島市立桜島中学校" : {
+         "location" : "鹿児島県鹿児島市桜島藤野町1342番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "899-1415",
          "owner_type" : "市立",
-         "short_name" : "桜島中学校"
+         "short_name" : "桜島中学校",
+         "url" : "http://keinet.com/sakujic/index.htm"
       },
       "鹿児島市立武中学校" : {
+         "location" : "鹿児島県鹿児島市武3丁目42番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|51.3|N|130|31|58.7|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0045",
          "owner_type" : "市立",
-         "short_name" : "武中学校"
+         "short_name" : "武中学校",
+         "url" : "http://www.keinet.com/takec/"
       },
       "鹿児島市立武岡中学校" : {
+         "location" : "鹿児島県鹿児島市武岡5丁目50番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|58.9|N|130|30|30.8|E|region:JP|display=title",
+         "location_zipcode" : "890-0031",
          "owner_type" : "市立",
-         "short_name" : "武岡中学校"
+         "short_name" : "武岡中学校",
+         "url" : "http://keinet.com/takeokac/index.htm"
       },
       "鹿児島市立河頭中学校" : {
+         "location" : "鹿児島県鹿児島市犬迫町1168番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|38|35|N|130|30|45.2|E|region:JP|display=title",
+         "location_zipcode" : "891-1205",
          "owner_type" : "市立",
-         "short_name" : "河頭中学校"
+         "short_name" : "河頭中学校",
+         "url" : "http://keinet.com/kogashic/index.htm"
       },
       "鹿児島市立清水中学校" : {
+         "location" : "鹿児島県鹿児島市稲荷町36番29号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-0801",
          "owner_type" : "市立",
-         "short_name" : "清水中学校"
+         "short_name" : "清水中学校",
+         "url" : "http://keinet.com/shimizuc/index.htm"
       },
       "鹿児島市立甲南中学校" : {
+         "location" : "鹿児島県鹿児島市高麗町36-32",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|46.1|N|130|33|0.5|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0051",
          "owner_type" : "市立",
-         "short_name" : "甲南中学校"
+         "short_name" : "甲南中学校",
+         "url" : "http://www.keinet.com/kounanc"
       },
       "鹿児島市立甲東中学校" : {
+         "location" : "鹿児島県鹿児島市樋之口町4-38",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|35|7.4|N|130|33|14.9|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892-0845",
          "owner_type" : "市立",
-         "short_name" : "甲東中学校"
+         "short_name" : "甲東中学校",
+         "url" : "http://keinet.com/koutouc/"
       },
       "鹿児島市立皇徳寺中学校" : {
+         "location" : "鹿児島県鹿児島市皇徳寺3丁目35番1号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|45|N|130|29|15|E",
+         "location_zipcode" : "〒891-0103",
          "owner_type" : "市立",
-         "short_name" : "皇徳寺中学校"
+         "short_name" : "皇徳寺中学校",
+         "url" : "http://keinet.com/koutokuc/"
       },
       "鹿児島市立福平中学校" : {
+         "location" : "鹿児島県鹿児島市平川町6004",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|28|38.8|N|130|29|50.6|E|region:JP|display=title",
+         "location_zipcode" : "891-0133",
          "owner_type" : "市立",
-         "short_name" : "福平中学校"
+         "short_name" : "福平中学校",
+         "url" : "http://www.keinet.com/fukuhic/"
       },
       "鹿児島市立紫原中学校" : {
+         "location" : "鹿児島県鹿児島市紫原6丁目31番19号",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0082",
          "owner_type" : "市立",
-         "short_name" : "紫原中学校"
+         "short_name" : "紫原中学校",
+         "url" : "http://keinet.com/murasac/top01.htm"
       },
       "鹿児島市立緑丘中学校" : {
+         "location" : "鹿児島県鹿児島市緑ケ丘町46-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1274",
          "owner_type" : "市立",
-         "short_name" : "緑丘中学校"
+         "short_name" : "緑丘中学校",
+         "url" : "http://www.keinet.com/midoric/"
       },
       "鹿児島市立西紫原中学校" : {
+         "location" : "鹿児島県鹿児島市西紫原町26-1",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "890-0083",
          "owner_type" : "市立",
-         "short_name" : "西紫原中学校"
+         "short_name" : "西紫原中学校",
+         "url" : "http://keinet.com/nimurac/index.htm"
       },
       "鹿児島市立西陵中学校" : {
+         "location" : "鹿児島県鹿児島市西陵5丁目13-1",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|34|55.8|N|130|30|19.4|E|region:JP|display=title",
+         "location_zipcode" : "890-0032",
          "owner_type" : "市立",
-         "short_name" : "西陵中学校"
+         "short_name" : "西陵中学校",
+         "url" : "http://www.keinet.com/seiryouc/"
       },
       "鹿児島市立谷山中学校" : {
+         "location" : "鹿児島県鹿児島市上福元町5500",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|31|26|N|130|30|37|E",
+         "location_zipcode" : "891-0116",
          "owner_type" : "市立",
-         "short_name" : "谷山中学校"
+         "short_name" : "谷山中学校",
+         "url" : "http://www.keinet.com/taniyac/"
       },
       "鹿児島市立谷山北中学校" : {
+         "location" : "鹿児島県鹿児島市山田町1690番地",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|44.7|N|130|30|15.7|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "891-0104",
          "owner_type" : "市立",
-         "short_name" : "谷山北中学校"
+         "short_name" : "谷山北中学校",
+         "url" : "http://www.keinet.com/tanikic/index2.htm"
       },
       "鹿児島市立郡山中学校" : {
+         "location" : "鹿児島県鹿児島市郡山町1500番地",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "891-1105",
          "owner_type" : "市立",
-         "short_name" : "郡山中学校"
+         "short_name" : "郡山中学校",
+         "url" : "http://keinet.com/koriyac/"
       },
       "鹿児島市立錫山中学校" : {
          "location_area" : "鹿児島市",
@@ -1217,19 +1467,30 @@
          "short_name" : "錫山中学校"
       },
       "鹿児島市立長田中学校" : {
+         "location" : "鹿児島県鹿児島市小川町3-10",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|36|2|N|130|33|31.1|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "892-0817",
          "owner_type" : "市立",
-         "short_name" : "長田中学校"
+         "short_name" : "長田中学校",
+         "url" : "http://keinet.com/nagatac/index.htm"
       },
       "鹿児島市立鴨池中学校" : {
+         "location" : "鹿児島県鹿児島市真砂本町58番58号",
          "location_area" : "鹿児島市",
+         "location_wikipedia_latlon" : "|31|33|13.2|N|130|33|12.7|E|type:edu_region:JP|display=title",
+         "location_zipcode" : "890-0067",
          "owner_type" : "市立",
-         "short_name" : "鴨池中学校"
+         "short_name" : "鴨池中学校",
+         "url" : "http://keinet.com/kamoikec/"
       },
       "鹿児島市立鹿児島玉龍中学校" : {
+         "location" : "鹿児島県鹿児島市池之上町20-57",
          "location_area" : "鹿児島市",
+         "location_zipcode" : "892-0806",
          "owner_type" : "市立",
          "short_name" : "鹿児島玉龍中学校",
+         "url" : "http://keinet.com/gyokuk/index.htm",
          "wikipedia_name" : "鹿児島市立鹿児島玉龍中学校・高等学校"
       },
       "鹿児島市立黒神中学校" : {
@@ -1238,15 +1499,26 @@
          "short_name" : "黒神中学校"
       },
       "鹿児島第一中学校" : {
+         "location" : "鹿児島県霧島市国分府中214",
+         "location_wikipedia_latlon" : "|31|44|57.9|N|130|46|12.1|E|region:JP|display=title",
+         "location_zipcode" : "899-4345",
          "owner_type" : "私立",
+         "url" : "http://k-daiichi.jp/",
          "wikipedia_name" : "鹿児島第一中学校・高等学校"
       },
       "鹿児島純心女子中学校" : {
+         "location" : "鹿児島県鹿児島市唐湊4丁目22番2",
+         "location_wikipedia_latlon" : "|31|33|53.8|N|130|32|15.8|E|",
+         "location_zipcode" : "890-0081",
          "owner_type" : "私立",
+         "url" : "http://www.k-junshin.ed.jp/",
          "wikipedia_name" : "鹿児島純心女子中学校・高等学校"
       },
       "鹿児島育英館中学校" : {
+         "location" : "鹿児島県日置市伊集院町猪鹿倉550",
+         "location_zipcode" : "899-2505",
          "owner_type" : "私立",
+         "url" : "http://www.nissho.ac.jp/kih/",
          "wikipedia_name" : "鹿児島育英館中学校・高等学校"
       },
       "鹿屋市立上小原中学校" : {
@@ -1260,9 +1532,12 @@
          "short_name" : "串良中学校"
       },
       "鹿屋市立吾平中学校" : {
+         "location" : "鹿児島県鹿屋市吾平町上名7520番地",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-1101",
          "owner_type" : "市立",
-         "short_name" : "吾平中学校"
+         "short_name" : "吾平中学校",
+         "url" : "http://www.edu-kanoya.net/hp/menu000221000/hpg000220901.htm"
       },
       "鹿屋市立大姶良中学校" : {
          "location_area" : "鹿屋市",
@@ -1285,9 +1560,12 @@
          "short_name" : "百引中学校"
       },
       "鹿屋市立第一鹿屋中学校" : {
+         "location" : "鹿児島県鹿屋市西原2丁目1番",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-0064",
          "owner_type" : "市立",
-         "short_name" : "第一鹿屋中学校"
+         "short_name" : "第一鹿屋中学校",
+         "url" : "http://www.edu-kanoya.net/hp/menu000220300/hpg000220201.htm"
       },
       "鹿屋市立細山田中学校" : {
          "location_area" : "鹿屋市",
@@ -1310,14 +1588,20 @@
          "short_name" : "高須中学校"
       },
       "鹿屋市立鹿屋中学校" : {
+         "location" : "鹿児島県鹿屋市打馬2丁目24番1号",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-0011",
          "owner_type" : "市立",
-         "short_name" : "鹿屋中学校"
+         "short_name" : "鹿屋中学校",
+         "url" : "http://www.edu-kanoya.net/hp/menu000220200/hpg000220101.htm"
       },
       "鹿屋市立鹿屋東中学校" : {
+         "location" : "鹿児島県鹿屋市笠之原町2902",
          "location_area" : "鹿屋市",
+         "location_zipcode" : "893-0023",
          "owner_type" : "市立",
-         "short_name" : "鹿屋東中学校"
+         "short_name" : "鹿屋東中学校",
+         "url" : "http://www.edu-kanoya.net/hp/menu000220900/hpg000220801.htm"
       },
       "龍郷町立赤徳中学校" : {
          "location_area" : "大島郡龍郷町",

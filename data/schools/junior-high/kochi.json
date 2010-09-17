@@ -36,9 +36,13 @@
          "short_name" : "上ノ加江中学校"
       },
       "中土佐町立久礼中学校" : {
+         "location" : "高知県高岡郡中土佐町久礼7753",
          "location_area" : "高岡郡中土佐町",
+         "location_wikipedia_latlon" : "|33|19|46|N|133|13|26|E|",
+         "location_zipcode" : "789-1301",
          "owner_type" : "町立",
-         "short_name" : "久礼中学校"
+         "short_name" : "久礼中学校",
+         "url" : "http://www.kochinet.ed.jp/kure-j/"
       },
       "中土佐町立大野見中学校" : {
          "location_area" : "高岡郡中土佐町",
@@ -81,9 +85,12 @@
          "short_name" : "北川中学校"
       },
       "南国市立北陵中学校" : {
+         "location" : "高知県南国市岡豊町笠ノ川848-1",
          "location_area" : "南国市",
+         "location_zipcode" : "783-0051",
          "owner_type" : "市立",
-         "short_name" : "北陵中学校"
+         "short_name" : "北陵中学校",
+         "url" : "http://www.kochinet.ed.jp/hokuryo-j/"
       },
       "南国市立北陵中学校希望ヶ丘分校" : {
          "location_area" : "南国市",
@@ -166,9 +173,13 @@
          "short_name" : "北ノ川中学校"
       },
       "四万十町立十川中学校" : {
+         "location" : "高知県高岡郡四万十町十和川口484",
          "location_area" : "高岡郡四万十町",
+         "location_wikipedia_latlon" : "|33|14|03|N|132|50|55|E|",
+         "location_zipcode" : "786-0535",
          "owner_type" : "町立",
-         "short_name" : "十川中学校"
+         "short_name" : "十川中学校",
+         "url" : "http://www.to-wa.ne.jp/kakuka/gakkou/tookawat/"
       },
       "四万十町立大正中学校" : {
          "location_area" : "高岡郡四万十町",
@@ -191,15 +202,25 @@
          "short_name" : "興津中学校"
       },
       "土佐中学校" : {
+         "location" : "高知市塩屋崎町1丁目1-10",
+         "location_wikipedia_latlon" : "|33|33|8.9|N|133|32|32.4|E|",
+         "location_zipcode" : "780-8014",
          "owner_type" : "私立",
+         "url" : "http://www.tosa.ed.jp/",
          "wikipedia_name" : "土佐中学校・高等学校"
       },
       "土佐塾中学校" : {
+         "location" : "高知県高知市北中山85",
+         "location_zipcode" : "780-8026",
          "owner_type" : "私立",
+         "url" : "http://www.tosajuku.ed.jp/",
          "wikipedia_name" : "土佐塾中学校・高等学校"
       },
       "土佐女子中学校" : {
+         "location" : "高知県高知市追手筋2-3-1",
+         "location_zipcode" : "780-0842",
          "owner_type" : "私立",
+         "url" : "http://www.tosajoshi-jh.ed.jp/",
          "wikipedia_name" : "土佐女子中学校・高等学校"
       },
       "土佐市立土佐南中学校" : {
@@ -258,17 +279,27 @@
          "short_name" : "大月中学校"
       },
       "大豊町立大豊町中学校" : {
+         "location" : "高知県長岡郡大豊町中村大王1057",
          "location_area" : "長岡郡大豊町",
+         "location_zipcode" : "789-0315",
          "owner_type" : "町立",
-         "short_name" : "大豊町中学校"
+         "short_name" : "大豊町中学校",
+         "url" : "http://www.kochinet.ed.jp/osugi-j/"
       },
       "奈半利町立奈半利中学校" : {
+         "location" : "高知県安芸郡奈半利町乙1315-3",
          "location_area" : "安芸郡奈半利町",
+         "location_wikipedia_latlon" : "|33|25|37|N|134|01|02|E|",
+         "location_zipcode" : "781-6402",
          "owner_type" : "町立",
-         "short_name" : "奈半利中学校"
+         "short_name" : "奈半利中学校",
+         "url" : "http://www.kochinet.ed.jp/nahari-j/"
       },
       "安田町立安田中学校" : {
+         "location" : "高知県安芸郡安田町大字安田1980",
          "location_area" : "安芸郡安田町",
+         "location_wikipedia_latlon" : "|33|26|29|N|133|59|03|E|",
+         "location_zipcode" : "781-6421",
          "owner_type" : "町立",
          "short_name" : "安田中学校"
       },
@@ -352,7 +383,10 @@
          "short_name" : "日高中学校"
       },
       "明徳義塾中学校" : {
+         "location" : "(本校堂ノ浦キャンパス)",
+         "location_zipcode" : "785-0195",
          "owner_type" : "私立",
+         "url" : "http://www.meitoku-gijuku.ed.jp/",
          "wikipedia_name" : "明徳義塾中学校・高等学校"
       },
       "本山町土佐町中学校組合立嶺北中学校" : {
@@ -478,14 +512,20 @@
          "short_name" : "魚梁瀬中学校"
       },
       "高知中学校" : {
+         "location" : "高知県高知市北端町100",
+         "location_zipcode" : "780-0956",
          "owner_type" : "私立",
+         "url" : "http://www.kochigakuen.jp/",
          "wikipedia_name" : "高知中学校・高等学校"
       },
       "高知大学教育学部附属中学校" : {
          "owner_type" : "国立"
       },
       "高知学芸中学校" : {
+         "location" : "高知県高知市槙山町11-12",
+         "location_zipcode" : "708-8084",
          "owner_type" : "私立",
+         "url" : "http://www.kochi-gakugei.ed.jp/",
          "wikipedia_name" : "高知学芸中学校・高等学校"
       },
       "高知市立一宮中学校" : {
@@ -504,7 +544,9 @@
          "short_name" : "介良中学校"
       },
       "高知市立南海中学校" : {
+         "location" : "高知県高知市長浜5235",
          "location_area" : "高知市",
+         "location_zipcode" : "781-0270",
          "owner_type" : "市立",
          "short_name" : "南海中学校"
       },
@@ -519,9 +561,12 @@
          "short_name" : "城北中学校"
       },
       "高知市立城東中学校" : {
+         "location" : "高知県高知市江陽町1-20",
          "location_area" : "高知市",
+         "location_zipcode" : "780-0055",
          "owner_type" : "市立",
-         "short_name" : "城東中学校"
+         "short_name" : "城東中学校",
+         "url" : "http://www.kochinet.ed.jp/joto-j/"
       },
       "高知市立城西中学校" : {
          "location_area" : "高知市",
@@ -539,9 +584,12 @@
          "short_name" : "愛宕中学校"
       },
       "高知市立旭中学校" : {
+         "location" : "高知県高知市口細山164-1",
          "location_area" : "高知市",
+         "location_zipcode" : "780-0963",
          "owner_type" : "市立",
-         "short_name" : "旭中学校"
+         "short_name" : "旭中学校",
+         "url" : "http://www.kochinet.ed.jp/asahi-j/"
       },
       "高知市立春野中学校" : {
          "location_area" : "高知市",
@@ -549,7 +597,9 @@
          "short_name" : "春野中学校"
       },
       "高知市立朝倉中学校" : {
+         "location" : "高知県高知市朝倉丁604-1",
          "location_area" : "高知市",
+         "location_zipcode" : "780-8064",
          "owner_type" : "市立",
          "short_name" : "朝倉中学校"
       },

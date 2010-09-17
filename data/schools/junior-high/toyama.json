@@ -56,12 +56,19 @@
          "short_name" : "福光中学校"
       },
       "南砺市立福野中学校" : {
+         "location" : "富山県南砺市福野1339番地",
          "location_area" : "南砺市",
+         "location_wikipedia_latlon" : "|36|55|16|N|136|55|28|E|",
+         "location_zipcode" : "939-1564",
          "owner_type" : "市立",
-         "short_name" : "福野中学校"
+         "short_name" : "福野中学校",
+         "url" : "http://www.tym.ed.jp/sc317/"
       },
       "富山大学人間発達科学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "富山県富山市五艘1300",
+         "location_zipcode" : "930-8556",
+         "owner_type" : "国立",
+         "url" : "http://fuzoku-jhs.edu.u-toyama.ac.jp/"
       },
       "富山市立三成中学校" : {
          "location_area" : "富山市",
@@ -84,7 +91,9 @@
          "short_name" : "北部中学校"
       },
       "富山市立南部中学校" : {
+         "location" : "富山県富山市西田地方二丁目10-10",
          "location_area" : "富山市",
+         "location_zipcode" : "939-8202",
          "owner_type" : "市立",
          "short_name" : "南部中学校"
       },
@@ -119,14 +128,19 @@
          "short_name" : "大泉中学校"
       },
       "富山市立奥田中学校" : {
+         "location" : "富山県富山市奥井町25-10",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0846",
          "owner_type" : "市立",
          "short_name" : "奥田中学校"
       },
       "富山市立山室中学校" : {
+         "location" : "富山県富山市山室30-1",
          "location_area" : "富山市",
+         "location_zipcode" : "939-8006",
          "owner_type" : "市立",
-         "short_name" : "山室中学校"
+         "short_name" : "山室中学校",
+         "url" : "http://www.tym.ed.jp/sc258/"
       },
       "富山市立山田中学校" : {
          "location_area" : "富山市",
@@ -139,9 +153,12 @@
          "short_name" : "岩瀬中学校"
       },
       "富山市立新庄中学校" : {
+         "location" : "富山県富山市荒川5丁目4-18",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0982",
          "owner_type" : "市立",
-         "short_name" : "新庄中学校"
+         "short_name" : "新庄中学校",
+         "url" : "http://www.tym.ed.jp/sc256"
       },
       "富山市立月岡中学校" : {
          "location_area" : "富山市",
@@ -295,7 +312,10 @@
          "short_name" : "滑川中学校"
       },
       "片山学園中学校" : {
+         "location" : "富山県富山市東黒牧10",
+         "location_zipcode" : "930-1262",
          "owner_type" : "私立",
+         "url" : "http://www.katayamagakuen.jp/",
          "wikipedia_name" : "片山学園中学校・高等学校"
       },
       "砺波市立出町中学校" : {

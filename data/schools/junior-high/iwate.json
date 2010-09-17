@@ -36,9 +36,12 @@
          "short_name" : "一関東中学校"
       },
       "一関市立中里中学校" : {
+         "location" : "岩手県一関市中里字太平山4番地",
          "location_area" : "一関市",
+         "location_zipcode" : "021-0002",
          "owner_type" : "市立",
-         "short_name" : "中里中学校"
+         "short_name" : "中里中学校",
+         "url" : "http://academic2.plala.or.jp/nakachu/"
       },
       "一関市立千厩中学校" : {
          "location_area" : "一関市",
@@ -236,7 +239,9 @@
          "short_name" : "上野中学校"
       },
       "北上市立北上中学校" : {
+         "location" : "岩手県北上市黒沢尻一丁目1番1号",
          "location_area" : "北上市",
+         "location_zipcode" : "024-0022",
          "owner_type" : "市立",
          "short_name" : "北上中学校"
       },
@@ -246,7 +251,9 @@
          "short_name" : "北上北中学校"
       },
       "北上市立南中学校" : {
+         "location" : "岩手県北上市相去町滝の沢7-2",
          "location_area" : "北上市",
+         "location_zipcode" : "024-0051",
          "owner_type" : "市立",
          "short_name" : "南中学校"
       },
@@ -346,9 +353,12 @@
          "short_name" : "東水沢中学校"
       },
       "奥州市立水沢中学校" : {
+         "location" : "岩手県奥州市水沢区字南丑沢10-1",
          "location_area" : "奥州市",
+         "location_zipcode" : "023-0037",
          "owner_type" : "市立",
-         "short_name" : "水沢中学校"
+         "short_name" : "水沢中学校",
+         "url" : "http://school.city.oshu.iwate.jp/mizusawa-j/"
       },
       "奥州市立水沢南中学校" : {
          "location_area" : "奥州市",
@@ -356,9 +366,12 @@
          "short_name" : "水沢南中学校"
       },
       "奥州市立江刺南中学校" : {
+         "location" : "岩手県奥州市江刺区藤里字外ノ沢875",
          "location_area" : "奥州市",
+         "location_zipcode" : "023-1762",
          "owner_type" : "市立",
-         "short_name" : "江刺南中学校"
+         "short_name" : "江刺南中学校",
+         "url" : "http://school.city.oshu.iwate.jp/esashiminami-j/"
       },
       "奥州市立江刺東中学校" : {
          "location_area" : "奥州市",
@@ -366,9 +379,13 @@
          "short_name" : "江刺東中学校"
       },
       "奥州市立江刺第一中学校" : {
+         "location" : "岩手県奥州市江刺区岩谷堂字小境1番地",
          "location_area" : "奥州市",
+         "location_wikipedia_latlon" : "|39|11|30.5|N|141|10|07|E|",
+         "location_zipcode" : "023-1101",
          "owner_type" : "市立",
-         "short_name" : "江刺第一中学校"
+         "short_name" : "江刺第一中学校",
+         "url" : "http://school.city.oshu.iwate.jp/esashidaiichi-j/"
       },
       "奥州市立田原中学校" : {
          "location_area" : "奥州市",
@@ -456,11 +473,18 @@
          "short_name" : "豊間根中学校"
       },
       "岩手中学校" : {
+         "location" : "岩手県盛岡市長田町7-60",
+         "location_wikipedia_latlon" : "|39|42|32.9|N|141|8|18.6|E|",
+         "location_zipcode" : "020-0062",
          "owner_type" : "私立",
+         "url" : "http://www.iwate-jh.ed.jp/",
          "wikipedia_name" : "岩手中学校・高等学校"
       },
       "岩手大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "岩手県盛岡市加賀野三丁目9番1号",
+         "location_zipcode" : "020-0807",
+         "owner_type" : "国立",
+         "url" : "http://www.edu.iwate-u.ac.jp/fuchu/index.html"
       },
       "岩手町立一方井中学校" : {
          "location_area" : "岩手郡岩手町",
@@ -597,12 +621,16 @@
          "short_name" : "上田中学校"
       },
       "盛岡市立下小路中学校" : {
+         "location" : "岩手県盛岡市愛宕町1-1",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0013",
          "owner_type" : "市立",
          "short_name" : "下小路中学校"
       },
       "盛岡市立下橋中学校" : {
+         "location" : "岩手県盛岡市馬場町1-1",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0876",
          "owner_type" : "市立",
          "short_name" : "下橋中学校"
       },
@@ -627,9 +655,12 @@
          "short_name" : "北陵中学校"
       },
       "盛岡市立厨川中学校" : {
+         "location" : "岩手県盛岡市青山二丁目7-1",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0133",
          "owner_type" : "市立",
-         "short_name" : "厨川中学校"
+         "short_name" : "厨川中学校",
+         "url" : "http://www.city.morioka.iwate.jp/14kyoiku/sch-j/kuriyagawa/index.html"
       },
       "盛岡市立土淵中学校" : {
          "location_area" : "盛岡市",
@@ -642,7 +673,9 @@
          "short_name" : "城東中学校"
       },
       "盛岡市立城西中学校" : {
+         "location" : "岩手県盛岡市城西町4-1",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0044",
          "owner_type" : "市立",
          "short_name" : "城西中学校"
       },
@@ -712,7 +745,11 @@
          "short_name" : "黒石野中学校"
       },
       "盛岡白百合学園中学校" : {
+         "location" : "岩手県盛岡市山岸四丁目29番16号",
+         "location_wikipedia_latlon" : "|39|43|25.6|N|141|9|51.4|E|",
+         "location_zipcode" : "020-0004",
          "owner_type" : "私立",
+         "url" : "http://morioka-shirayuri.morioka.iwate.jp/",
          "wikipedia_name" : "盛岡白百合学園中学校・高等学校"
       },
       "矢巾町立矢巾中学校" : {
@@ -956,7 +993,9 @@
          "short_name" : "米崎中学校"
       },
       "雫石町立雫石中学校" : {
+         "location" : "岩手県岩手郡雫石町柿木74-1",
          "location_area" : "岩手郡雫石町",
+         "location_zipcode" : "020-0544",
          "owner_type" : "町立",
          "short_name" : "雫石中学校"
       }

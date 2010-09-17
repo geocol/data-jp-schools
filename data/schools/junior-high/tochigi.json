@@ -71,7 +71,9 @@
          "short_name" : "城東中学校"
       },
       "佐野市立常盤中学校" : {
+         "location" : "栃木県佐野市豊代町2167",
          "location_area" : "佐野市",
+         "location_zipcode" : "327-0512",
          "owner_type" : "市立",
          "short_name" : "常盤中学校"
       },
@@ -96,27 +98,43 @@
          "short_name" : "西中学校"
       },
       "佐野市立赤見中学校" : {
+         "location" : "栃木県佐野市出流原町628-1",
          "location_area" : "佐野市",
+         "location_zipcode" : "327-0102",
          "owner_type" : "市立",
-         "short_name" : "赤見中学校"
+         "short_name" : "赤見中学校",
+         "url" : "http://www.schoolnet-sano.ed.jp/akami-j/"
       },
       "作新学院中等部" : {
+         "location" : "栃木県宇都宮市一の沢1-1-41",
+         "location_wikipedia_latlon" : "|36|34|5.5|N|139|51|35.4|E|",
+         "location_zipcode" : "320-8525",
          "owner_type" : "私立",
+         "url" : "http://www.sakushin.ac.jp/highschool/",
          "wikipedia_name" : "作新学院中等部・高等学校"
       },
       "國學院大學栃木中学校" : {
+         "location" : "栃木県栃木市平井町608番地",
+         "location_wikipedia_latlon" : "|36|21|52.8|N|139|42|13.6|E|",
+         "location_zipcode" : "328-8588",
          "owner_type" : "私立",
+         "url" : "http://www.kokugakuintochigi.ac.jp/pindex.html",
          "wikipedia_name" : "國學院大學栃木中学校・高等学校"
       },
       "塩谷町立塩谷中学校" : {
+         "location" : "栃木県塩谷郡塩谷町大字飯岡1248番地",
          "location_area" : "塩谷郡塩谷町",
+         "location_zipcode" : "329-2225",
          "owner_type" : "町立",
          "short_name" : "塩谷中学校"
       },
       "壬生町立南犬飼中学校" : {
+         "location" : "栃木県下都賀郡壬生町大字北小林743",
          "location_area" : "下都賀郡壬生町",
+         "location_zipcode" : "321-0207",
          "owner_type" : "町立",
-         "short_name" : "南犬飼中学校"
+         "short_name" : "南犬飼中学校",
+         "url" : "http://www.mibu.ed.jp/jhminamiinukai/"
       },
       "壬生町立壬生中学校" : {
          "location_area" : "下都賀郡壬生町",
@@ -129,7 +147,9 @@
          "short_name" : "佐久山中学校"
       },
       "大田原市立大田原中学校" : {
+         "location" : "栃木県大田原市美原一丁目14番2号",
          "location_area" : "大田原市",
+         "location_zipcode" : "324-0047",
          "owner_type" : "市立",
          "short_name" : "大田原中学校"
       },
@@ -139,9 +159,12 @@
          "short_name" : "湯津上中学校"
       },
       "大田原市立若草中学校" : {
+         "location" : "栃木県大田原市若草二丁目1234",
          "location_area" : "大田原市",
+         "location_zipcode" : "324-0021",
          "owner_type" : "市立",
-         "short_name" : "若草中学校"
+         "short_name" : "若草中学校",
+         "url" : "http://www.nasu-net.or.jp/~wakakusa/"
       },
       "大田原市立親園中学校" : {
          "location_area" : "大田原市",
@@ -159,7 +182,9 @@
          "short_name" : "金田北中学校"
       },
       "大田原市立金田南中学校" : {
+         "location" : "栃木県大田原市南金丸1870-4",
          "location_area" : "大田原市",
+         "location_zipcode" : "324-0012",
          "owner_type" : "市立",
          "short_name" : "金田南中学校"
       },
@@ -212,9 +237,13 @@
          "short_name" : "宝木中学校"
       },
       "宇都宮市立宮の原中学校" : {
+         "location" : "栃木県宇都宮市鶴田町261番地3",
          "location_area" : "宇都宮市",
+         "location_wikipedia_latlon" : "|36|32|44.156|N|139|51|17.006|E|",
+         "location_zipcode" : "320-0851",
          "owner_type" : "市立",
-         "short_name" : "宮の原中学校"
+         "short_name" : "宮の原中学校",
+         "url" : "http://www.ueis.ed.jp/school/miyanohara-j/"
       },
       "宇都宮市立旭中学校" : {
          "location_area" : "宇都宮市",
@@ -267,9 +296,12 @@
          "short_name" : "若松原中学校"
       },
       "宇都宮市立豊郷中学校" : {
+         "location" : "栃木県宇都宮市関堀町350",
          "location_area" : "宇都宮市",
+         "location_zipcode" : "321-0975",
          "owner_type" : "市立",
-         "short_name" : "豊郷中学校"
+         "short_name" : "豊郷中学校",
+         "url" : "http://www.ueis.ed.jp/school/toyosato-j/"
       },
       "宇都宮市立陽北中学校" : {
          "location_area" : "宇都宮市",
@@ -288,8 +320,10 @@
       },
       "宇都宮市立陽西中学校" : {
          "location_area" : "宇都宮市",
+         "location_zipcode" : "320-0063",
          "owner_type" : "市立",
-         "short_name" : "陽西中学校"
+         "short_name" : "陽西中学校",
+         "url" : "http://www.ueis.ed.jp/school/yosai-j/"
       },
       "宇都宮市立雀宮中学校" : {
          "location_area" : "宇都宮市",
@@ -302,12 +336,19 @@
          "short_name" : "鬼怒中学校"
       },
       "宇都宮海星女子学院中学校" : {
+         "location" : "栃木県宇都宮市上籠谷町3776番地",
+         "location_wikipedia_latlon" : "|36|31|34.1|N|139|58|32.3|E|",
+         "location_zipcode" : "321-3233",
          "owner_type" : "私立",
+         "url" : "http://www.u-kaisei.ed.jp/",
          "wikipedia_name" : "宇都宮海星女子学院中学校・高等学校"
       },
       "宇都宮短期大学附属中学校" : {
+         "location" : "栃木県宇都宮市睦町1番35号",
+         "location_zipcode" : "320-8585",
          "owner_type" : "私立",
          "short_name" : "宇都宮短大附属中学校",
+         "url" : "http://www.utanf-jh.ed.jp/utanfjh/index.html",
          "wikipedia_name" : "宇都宮短期大学附属中学校・高等学校"
       },
       "小山市立乙女中学校" : {
@@ -366,7 +407,9 @@
          "short_name" : "間々田中学校"
       },
       "岩舟町立岩舟中学校" : {
+         "location" : "栃木県下都賀郡岩舟町大字静389",
          "location_area" : "下都賀郡岩舟町",
+         "location_zipcode" : "329-4307",
          "owner_type" : "町立",
          "short_name" : "岩舟中学校"
       },
@@ -376,11 +419,18 @@
          "short_name" : "市貝中学校"
       },
       "幸福の科学学園中学校" : {
+         "location" : "栃木県那須郡那須町大字梁瀬字扇田487-1",
+         "location_zipcode" : "329-3434",
          "owner_type" : "私立",
+         "url" : "http://www.happy-science.ac.jp/",
          "wikipedia_name" : "幸福の科学学園中学校・高等学校"
       },
       "文星芸術大学附属中学校" : {
+         "location" : "栃木県宇都宮市睦町1番4号",
+         "location_wikipedia_latlon" : "|36|33|36.1|N|139|51|51.3|E|",
+         "location_zipcode" : "320-0865",
          "owner_type" : "私立",
+         "url" : "http://www.bunsei-art.ac.jp/",
          "wikipedia_name" : "文星芸術大学附属中学校・高等学校"
       },
       "日光市立三依中学校" : {
@@ -399,9 +449,12 @@
          "short_name" : "今市中学校"
       },
       "日光市立大沢中学校" : {
+         "location" : "栃木県日光市大沢町97番地",
          "location_area" : "日光市",
+         "location_zipcode" : "320-0851",
          "owner_type" : "市立",
-         "short_name" : "大沢中学校"
+         "short_name" : "大沢中学校",
+         "url" : "http://www.nikko.ed.jp/ohsawa-jh/"
       },
       "日光市立小来川中学校" : {
          "location_area" : "日光市",
@@ -459,9 +512,12 @@
          "short_name" : "足尾中学校"
       },
       "栃木市立吹上中学校" : {
+         "location" : "栃木県栃木市吹上町434-1",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0125",
          "owner_type" : "市立",
-         "short_name" : "吹上中学校"
+         "short_name" : "吹上中学校",
+         "url" : "http://www.tcn.ed.jp/~fukiagejhs/"
       },
       "栃木市立大平中学校" : {
          "location_area" : "栃木市",
@@ -474,34 +530,51 @@
          "short_name" : "大平南中学校"
       },
       "栃木市立寺尾中学校" : {
+         "location" : "栃木県栃木市鍋山町86-2",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0205",
          "owner_type" : "市立",
          "short_name" : "寺尾中学校"
       },
       "栃木市立東陽中学校" : {
+         "location" : "栃木県栃木市大宮町1287-1",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0011",
          "owner_type" : "市立",
-         "short_name" : "東陽中学校"
+         "short_name" : "東陽中学校",
+         "url" : "http://www.tcn.ed.jp/~tochigitoyo/"
       },
       "栃木市立栃木南中学校" : {
+         "location" : "栃木県栃木市本町5-5",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0034",
          "owner_type" : "市立",
-         "short_name" : "栃木南中学校"
+         "short_name" : "栃木南中学校",
+         "url" : "http://www.tcn.ed.jp/~tochinan/"
       },
       "栃木市立栃木東中学校" : {
+         "location" : "栃木県栃木市日ノ出町1-11",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0031",
          "owner_type" : "市立",
-         "short_name" : "栃木東中学校"
+         "short_name" : "栃木東中学校",
+         "url" : "http://www.tcn.ed.jp/~tochi-tochinishihome/"
       },
       "栃木市立栃木西中学校" : {
+         "location" : "栃木県栃木市片柳町二丁目15番40号",
          "location_area" : "栃木市",
+         "location_zipcode" : "328-0053",
          "owner_type" : "市立",
-         "short_name" : "栃木西中学校"
+         "short_name" : "栃木西中学校",
+         "url" : "http://www.tcn.ed.jp/~tochi-tochinishihome/"
       },
       "栃木市立皆川中学校" : {
+         "location" : "栃木県栃木市皆川城内町1856",
          "location_area" : "栃木市",
+         "location_zipcode" : "321-0225",
          "owner_type" : "市立",
-         "short_name" : "皆川中学校"
+         "short_name" : "皆川中学校",
+         "url" : "http://www.tcn.ed.jp/~minagawa.jh/"
       },
       "栃木市立藤岡第一中学校" : {
          "location_area" : "栃木市",
@@ -519,17 +592,29 @@
          "short_name" : "都賀中学校"
       },
       "栃木県立佐野高等学校附属中学校" : {
+         "location" : "栃木県佐野市天神町761-1",
+         "location_zipcode" : "327-0847",
          "owner_type" : "県立",
+         "school_area" : "安足",
          "short_name" : "佐野高校附属中学校",
+         "url" : "http://www.tochigi-edu.ed.jp/sano/",
          "wikipedia_name" : "栃木県立佐野高等学校・附属中学校"
       },
       "栃木県立宇都宮東高等学校附属中学校" : {
+         "location" : "栃木県宇都宮市石井町3360-1",
+         "location_wikipedia_latlon" : "|36|31|40|N|139|55|17.4|E|",
+         "location_zipcode" : "324-0058",
          "owner_type" : "県立",
          "short_name" : "宇都宮東高校附属中学校",
+         "url" : "http://web1.tochigi-edu.ed.jp/utsunomiyahigashi/nc/",
          "wikipedia_name" : "栃木県立宇都宮東高等学校・附属中学校"
       },
       "白鴎大学足利中学校" : {
+         "location" : "栃木県足利市伊勢南町3-2",
+         "location_wikipedia_latlon" : "|36|19|52.4|N|139|27|17.1|E|",
+         "location_zipcode" : "326-0054",
          "owner_type" : "私立",
+         "url" : "http://www.hakuoh.ed.jp/",
          "wikipedia_name" : "白鴎大学足利中学校・高等学校"
       },
       "益子町立七井中学校" : {
@@ -543,7 +628,9 @@
          "short_name" : "田野中学校"
       },
       "益子町立益子中学校" : {
+         "location" : "栃木県芳賀郡益子町3618",
          "location_area" : "芳賀郡益子町",
+         "location_zipcode" : "321-4217",
          "owner_type" : "町立",
          "short_name" : "益子中学校"
       },
@@ -678,9 +765,12 @@
          "short_name" : "第一中学校"
       },
       "足利市立第三中学校" : {
+         "location" : "栃木県足利市常盤町67番地",
          "location_area" : "足利市",
+         "location_zipcode" : "326-0026",
          "owner_type" : "市立",
-         "short_name" : "第三中学校"
+         "short_name" : "第三中学校",
+         "url" : "http://www.city.ashikaga.tochigi.jp/kyouiku/sanchu/"
       },
       "足利市立第二中学校" : {
          "location_area" : "足利市",
@@ -688,9 +778,12 @@
          "short_name" : "第二中学校"
       },
       "足利市立西中学校" : {
+         "location" : "栃木県足利市山下町2539番地",
          "location_area" : "足利市",
+         "location_zipcode" : "326",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "url" : "http://nisi.ashi-s.ed.jp/"
       },
       "那珂川町立小川中学校" : {
          "location_area" : "那須郡那珂川町",
@@ -703,7 +796,9 @@
          "short_name" : "馬頭中学校"
       },
       "那須塩原市立三島中学校" : {
+         "location" : "栃木県那須塩原市東三島一丁目104番地5",
          "location_area" : "那須塩原市",
+         "location_zipcode" : "329-2751",
          "owner_type" : "市立",
          "short_name" : "三島中学校"
       },
@@ -723,9 +818,12 @@
          "short_name" : "日新中学校"
       },
       "那須塩原市立東那須野中学校" : {
+         "location" : "栃木県那須塩原市島方689番地",
          "location_area" : "那須塩原市",
+         "location_zipcode" : "329-3152",
          "owner_type" : "市立",
-         "short_name" : "東那須野中学校"
+         "short_name" : "東那須野中学校",
+         "url" : "http://www.city.nasushiobara.lg.jp/www/contents/1245897348326/files/higashinasuno.pdf"
       },
       "那須塩原市立箒根中学校" : {
          "location_area" : "那須塩原市",
@@ -733,7 +831,9 @@
          "short_name" : "箒根中学校"
       },
       "那須塩原市立西那須野中学校" : {
+         "location" : "栃木県那須塩原市下永田4丁目3番地",
          "location_area" : "那須塩原市",
+         "location_zipcode" : "329-2712",
          "owner_type" : "市立",
          "short_name" : "西那須野中学校"
       },
@@ -753,24 +853,36 @@
          "short_name" : "黒磯北中学校"
       },
       "那須烏山市立七合中学校" : {
+         "location" : "栃木県那須烏山市中山226",
          "location_area" : "那須烏山市",
+         "location_zipcode" : "321-0604",
          "owner_type" : "市立",
-         "short_name" : "七合中学校"
+         "short_name" : "七合中学校",
+         "url" : "http://nasukarasuyama.ed.jp/jhnanagou/"
       },
       "那須烏山市立下江川中学校" : {
+         "location" : "栃木県那須烏山市下川井1001",
          "location_area" : "那須烏山市",
+         "location_zipcode" : "321-0504",
          "owner_type" : "市立",
-         "short_name" : "下江川中学校"
+         "short_name" : "下江川中学校",
+         "url" : "http://nasukarasuyama.ed.jp/jhsimoegawa/"
       },
       "那須烏山市立烏山中学校" : {
+         "location" : "栃木県那須烏山市南1-2810",
          "location_area" : "那須烏山市",
+         "location_zipcode" : "321-0627",
          "owner_type" : "市立",
-         "short_name" : "烏山中学校"
+         "short_name" : "烏山中学校",
+         "url" : "http://nasukarasuyama.ed.jp/jhkarasuyama/"
       },
       "那須烏山市立荒川中学校" : {
+         "location" : "栃木県那須烏山市大金285",
          "location_area" : "那須烏山市",
+         "location_zipcode" : "321-0522",
          "owner_type" : "市立",
-         "short_name" : "荒川中学校"
+         "short_name" : "荒川中学校",
+         "url" : "http://nasukarasuyama.ed.jp/jharakawa/"
       },
       "那須町立東陽中学校" : {
          "location_area" : "那須郡那須町",
@@ -788,7 +900,10 @@
          "short_name" : "黒田原中学校"
       },
       "那須高原海城中学校" : {
+         "location" : "栃木県那須郡那須町大字豊原乙2944-2",
+         "location_zipcode" : "329-3224",
          "owner_type" : "私立",
+         "url" : "http://www.nasukaijo.ed.jp/",
          "wikipedia_name" : "那須高原海城中学校・高等学校"
       },
       "野木町立野木中学校" : {

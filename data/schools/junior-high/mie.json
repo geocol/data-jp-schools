@@ -16,23 +16,37 @@
          "short_name" : "大安中学校"
       },
       "いなべ市立藤原中学校" : {
+         "location" : "三重県いなべ市藤原町市場491番地",
          "location_area" : "いなべ市",
+         "location_wikipedia_latlon" : "|35|10|23|N|136|29|29|E|",
+         "location_zipcode" : "511-0511",
          "owner_type" : "市立",
-         "short_name" : "藤原中学校"
+         "short_name" : "藤原中学校",
+         "url" : "http://www.city.inabe.mie.jp/~fuji-hi/"
       },
       "エスコラピオス学園海星中学校" : {
+         "location" : "三重県四日市市追分1-9-34",
+         "location_zipcode" : "254-0074",
          "owner_type" : "私立",
+         "url" : "http://www.kaisei.ed.jp/",
          "wikipedia_name" : "海星中学校・高等学校 (三重県)"
       },
       "セントヨゼフ女子学園中学校" : {
          "owner_type" : "私立"
       },
       "メリノール女子学院中学校" : {
+         "location" : "三重県四日市市平尾町2800",
+         "location_wikipedia_latlon" : "|35|0|6.4|N|136|34|8.6|E|",
+         "location_zipcode" : "512-1205",
          "owner_type" : "私立",
+         "url" : "http://www.maryknoll.ed.jp/index.htm",
          "wikipedia_name" : "メリノール女子学院中学校・高等学校"
       },
       "三重中学校" : {
-         "owner_type" : "私立"
+         "location" : "三重県松阪市久保町1843",
+         "location_zipcode" : "515-0044",
+         "owner_type" : "私立",
+         "url" : "http://www.mie-mie-h.ed.jp/junior/"
       },
       "三重大学教育学部附属中学校" : {
          "owner_type" : "国立"
@@ -42,14 +56,20 @@
          "owner_type" : "公立"
       },
       "亀山市立中部中学校" : {
+         "location" : "三重県亀山市田村町75",
          "location_area" : "亀山市",
+         "location_zipcode" : "519-0123",
          "owner_type" : "市立",
-         "short_name" : "中部中学校"
+         "short_name" : "中部中学校",
+         "url" : "http://www.kameyama-mie.jp/~chubu/"
       },
       "亀山市立亀山中学校" : {
+         "location" : "三重県亀山市西丸町564",
          "location_area" : "亀山市",
+         "location_zipcode" : "519-0159",
          "owner_type" : "市立",
-         "short_name" : "亀山中学校"
+         "short_name" : "亀山中学校",
+         "url" : "http://www.kameyama-mie.jp/~kameyama/index.htm"
       },
       "亀山市立関中学校" : {
          "location_area" : "亀山市",
@@ -57,62 +77,102 @@
          "short_name" : "関中学校"
       },
       "伊勢市立二見中学校" : {
+         "location" : "三重県伊勢市二見町荘2037-2",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|35|N|136|46|20|E|",
+         "location_zipcode" : "519-0606",
          "owner_type" : "市立",
          "short_name" : "二見中学校"
       },
       "伊勢市立五十鈴中学校" : {
+         "location" : "三重県伊勢市中村町458番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|28|24|N|136|43|30|E|",
+         "location_zipcode" : "516-0028",
          "owner_type" : "市立",
-         "short_name" : "五十鈴中学校"
+         "short_name" : "五十鈴中学校",
+         "url" : "http://www.ise-mie.ed.jp/school/"
       },
       "伊勢市立倉田山中学校" : {
+         "location" : "三重県伊勢市神田久志本町1645",
          "location_area" : "伊勢市",
+         "location_zipcode" : "516-0016",
          "owner_type" : "市立",
-         "short_name" : "倉田山中学校"
+         "short_name" : "倉田山中学校",
+         "url" : "http://www.ise-mie.ed.jp/school/kuratayamaj/kuratayamaj.htm"
       },
       "伊勢市立北浜中学校" : {
+         "location" : "三重県伊勢市東大淀町15番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|33|11|N|136|40|38|E|",
+         "location_zipcode" : "516-0509",
          "owner_type" : "市立",
-         "short_name" : "北浜中学校"
+         "short_name" : "北浜中学校",
+         "url" : "http://www.ise-mie.ed.jp/~kitahama-j/"
       },
       "伊勢市立厚生中学校" : {
+         "location" : "三重県伊勢市一之木五丁目5番3号",
          "location_area" : "伊勢市",
+         "location_zipcode" : "516-0075",
          "owner_type" : "市立",
-         "short_name" : "厚生中学校"
+         "short_name" : "厚生中学校",
+         "url" : "http://www.ise-mie.ed.jp/~kousei-j/cgi-bin/topics/topics.cgi"
       },
       "伊勢市立城田中学校" : {
+         "location" : "三重県伊勢市粟野町777番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|29|10|N|136|40|19|E|",
+         "location_zipcode" : "516-0054",
          "owner_type" : "市立",
-         "short_name" : "城田中学校"
+         "short_name" : "城田中学校",
+         "url" : "http://www.ise-mie.ed.jp/~kida-j/"
       },
       "伊勢市立宮川中学校" : {
+         "location" : "三重県伊勢市二俣四丁目5番3号",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|28|57|N|136|41|25|E|",
+         "location_zipcode" : "516-0064",
          "owner_type" : "市立",
          "short_name" : "宮川中学校"
       },
       "伊勢市立小俣中学校" : {
+         "location" : "三重県伊勢市小俣町相合750",
          "location_area" : "伊勢市",
+         "location_zipcode" : "519-0502",
          "owner_type" : "市立",
          "short_name" : "小俣中学校"
       },
       "伊勢市立御薗中学校" : {
+         "location" : "三重県伊勢市磯町尾立2225",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|52|N|136|42|37|E|",
+         "location_zipcode" : "516-8502",
          "owner_type" : "市立",
          "short_name" : "御薗中学校"
       },
       "伊勢市立沼木中学校" : {
+         "location" : "三重県伊勢市上野町823番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|26|29.3|N|136|39|35.5|E|",
+         "location_zipcode" : "516-1104",
          "owner_type" : "市立",
-         "short_name" : "沼木中学校"
+         "short_name" : "沼木中学校",
+         "url" : "http://www.ise-mie.ed.jp/school/"
       },
       "伊勢市立港中学校" : {
+         "location" : "三重県伊勢市竹ヶ鼻町100番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|30|39|N|136|43|58|E|",
+         "location_zipcode" : "516-0005",
          "owner_type" : "市立",
-         "short_name" : "港中学校"
+         "short_name" : "港中学校",
+         "url" : "http://www.ise-mie.ed.jp/~minato-j/"
       },
       "伊勢市立豊浜中学校" : {
+         "location" : "三重県伊勢市西豊浜町2736番地",
          "location_area" : "伊勢市",
+         "location_wikipedia_latlon" : "|34|31|37|N|136|41|52|E|",
+         "location_zipcode" : "515-0505",
          "owner_type" : "市立",
          "short_name" : "豊浜中学校"
       },
@@ -137,9 +197,12 @@
          "short_name" : "島ヶ原中学校"
       },
       "伊賀市立崇広中学校" : {
+         "location" : "三重県伊賀市上野丸之内78",
          "location_area" : "伊賀市",
+         "location_zipcode" : "518-0873",
          "owner_type" : "市立",
-         "short_name" : "崇広中学校"
+         "short_name" : "崇広中学校",
+         "url" : "http://www.iga.ed.jp/suko-j/"
       },
       "伊賀市立成和中学校" : {
          "location_area" : "伊賀市",
@@ -187,9 +250,12 @@
          "short_name" : "南島西中学校"
       },
       "名張市立北中学校" : {
+         "location" : "三重県名張市美旗中村2380番地",
          "location_area" : "名張市",
+         "location_zipcode" : "518-0615",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "url" : "http://www.nabari-mie.ed.jp/j-kita/"
       },
       "名張市立南中学校" : {
          "location_area" : "名張市",
@@ -202,9 +268,12 @@
          "short_name" : "名張中学校"
       },
       "名張市立桔梗が丘中学校" : {
+         "location" : "三重県名張市桔梗が丘1番町5街区13番地",
          "location_area" : "名張市",
+         "location_zipcode" : "518-0621",
          "owner_type" : "市立",
-         "short_name" : "桔梗が丘中学校"
+         "short_name" : "桔梗が丘中学校",
+         "url" : "http://www.nabari-mie.ed.jp/j-kikyo/"
       },
       "名張市立赤目中学校" : {
          "location_area" : "名張市",
@@ -217,9 +286,13 @@
          "short_name" : "三滝中学校"
       },
       "四日市市立三重平中学校" : {
+         "location" : "三重県四日市市三重8丁目1",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|34|59|14|N|136|35|00|E|",
+         "location_zipcode" : "512-0912",
          "owner_type" : "市立",
-         "short_name" : "三重平中学校"
+         "short_name" : "三重平中学校",
+         "url" : "http://www.yokkaichi.ed.jp/miedaira/"
       },
       "四日市市立中部中学校" : {
          "location_area" : "四日市市",
@@ -247,9 +320,13 @@
          "short_name" : "塩浜中学校"
       },
       "四日市市立大池中学校" : {
+         "location" : "三重県四日市市下海老町2662番地の1",
          "location_area" : "四日市市",
+         "location_wikipedia_latlon" : "|35|00|16|N|136|34|17|E|",
+         "location_zipcode" : "512-1203",
          "owner_type" : "市立",
-         "short_name" : "大池中学校"
+         "short_name" : "大池中学校",
+         "url" : "http://www.yokkaichi.ed.jp/ohike/cms/"
       },
       "四日市市立富州原中学校" : {
          "location_area" : "四日市市",
@@ -297,9 +374,12 @@
          "short_name" : "港中学校"
       },
       "四日市市立笹川中学校" : {
+         "location" : "三重県四日市市西日野町268番地の2",
          "location_area" : "四日市市",
+         "location_zipcode" : "510-0943",
          "owner_type" : "市立",
-         "short_name" : "笹川中学校"
+         "short_name" : "笹川中学校",
+         "url" : "http://www.yokkaichi.ed.jp/sasagawa/"
       },
       "四日市市立羽津中学校" : {
          "location_area" : "四日市市",
@@ -322,7 +402,9 @@
          "short_name" : "西陵中学校"
       },
       "多気町松阪市学校組合立多気中学校" : {
+         "location" : "三重県多気郡多気町相可1540番地",
          "location_area" : "多気郡",
+         "location_zipcode" : "519-2181",
          "owner_type" : "公立"
       },
       "多気町立勢和中学校" : {
@@ -386,57 +468,82 @@
          "short_name" : "阿田和中学校"
       },
       "志摩市立和具中学校" : {
+         "location" : "三重県志摩市志摩町和具303",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0703",
          "owner_type" : "市立",
          "short_name" : "和具中学校"
       },
       "志摩市立安乗中学校" : {
+         "location" : "三重県志摩市阿児町国府3705-2",
          "location_area" : "志摩市",
+         "location_wikipedia_latlon" : "|34|21|24|N|136|53|26|E|",
+         "location_zipcode" : "517-0507",
          "owner_type" : "市立",
          "short_name" : "安乗中学校"
       },
       "志摩市立文岡中学校" : {
+         "location" : "三重県志摩市阿児町鵜方3347-2",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0501",
          "owner_type" : "市立",
          "short_name" : "文岡中学校"
       },
       "志摩市立東海中学校" : {
+         "location" : "三重県志摩市阿児町甲賀2088-1",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0505",
          "owner_type" : "市立",
          "short_name" : "東海中学校"
       },
       "志摩市立波切中学校" : {
+         "location" : "三重県志摩市大王町波切1506-2",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0603",
          "owner_type" : "市立",
          "short_name" : "波切中学校"
       },
       "志摩市立浜島中学校" : {
+         "location" : "三重県志摩市浜島町塩屋604-5",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0402",
          "owner_type" : "市立",
          "short_name" : "浜島中学校"
       },
       "志摩市立片田中学校" : {
+         "location" : "三重県志摩市志摩町片田1677",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0701",
          "owner_type" : "市立",
          "short_name" : "片田中学校"
       },
       "志摩市立的矢中学校" : {
+         "location" : "三重県志摩市磯部町的矢840",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0204",
          "owner_type" : "市立",
-         "short_name" : "的矢中学校"
+         "short_name" : "的矢中学校",
+         "url" : "http://www.mie-c.ed.jp/jmatoy/"
       },
       "志摩市立磯部中学校" : {
+         "location" : "三重県志摩市磯部町恵利原1300",
          "location_area" : "志摩市",
+         "location_wikipedia_latlon" : "|34|22|30|N|136|48|4|E|",
+         "location_zipcode" : "517-0209",
          "owner_type" : "市立",
          "short_name" : "磯部中学校"
       },
       "志摩市立船越中学校" : {
+         "location" : "三重県志摩市大王町船越1903",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0604",
          "owner_type" : "市立",
          "short_name" : "船越中学校"
       },
       "志摩市立越賀中学校" : {
+         "location" : "三重県志摩市志摩町越賀1877",
          "location_area" : "志摩市",
+         "location_zipcode" : "517-0704",
          "owner_type" : "市立",
          "short_name" : "越賀中学校"
       },
@@ -449,7 +556,11 @@
          "short_name" : "明和中学校"
       },
       "暁中学校" : {
+         "location" : "三重県四日市市萱生町238",
+         "location_wikipedia_latlon" : "|35|1|57.9|N|136|36|5.9|E|",
+         "location_zipcode" : "512-8538",
          "owner_type" : "私立",
+         "url" : "http://www.akatsuki.ed.jp/akatsuki-h/index.html",
          "wikipedia_name" : "暁高等学校"
       },
       "朝日町立朝日中学校" : {
@@ -464,14 +575,20 @@
          "short_name" : "木曽岬中学校"
       },
       "東員町立東員第一中学校" : {
+         "location" : "三重県員弁郡東員町六把野新田557番地",
          "location_area" : "員弁郡東員町",
+         "location_zipcode" : "511-0242",
          "owner_type" : "町立",
-         "short_name" : "東員第一中学校"
+         "short_name" : "東員第一中学校",
+         "url" : "http://www.mie-c.ed.jp/jtoin1/"
       },
       "東員町立東員第二中学校" : {
+         "location" : "三重県員弁郡東員町城山2丁目1",
          "location_area" : "員弁郡東員町",
+         "location_zipcode" : "511-0233",
          "owner_type" : "町立",
-         "short_name" : "東員第二中学校"
+         "short_name" : "東員第二中学校",
+         "url" : "http://www.mie-c.ed.jp/jtoin2/"
       },
       "松阪市立三雲中学校" : {
          "location_area" : "松阪市",
@@ -544,9 +661,12 @@
          "short_name" : "光風中学校"
       },
       "桑名市立多度中学校" : {
+         "location" : "三重県桑名市多度町柚井24",
          "location_area" : "桑名市",
+         "location_zipcode" : "511-0101",
          "owner_type" : "市立",
-         "short_name" : "多度中学校"
+         "short_name" : "多度中学校",
+         "url" : "http://www.town.tado.mie.jp/tadojhs/"
       },
       "桑名市立成徳中学校" : {
          "location_area" : "桑名市",
@@ -589,9 +709,12 @@
          "short_name" : "一身田中学校"
       },
       "津市立久居中学校" : {
+         "location" : "三重県津市久居西鷹跡町494",
          "location_area" : "津市",
+         "location_zipcode" : "514-1131",
          "owner_type" : "市立",
-         "short_name" : "久居中学校"
+         "short_name" : "久居中学校",
+         "url" : "http://www.res-edu.ed.jp/hisai/"
       },
       "津市立久居東中学校" : {
          "location_area" : "津市",
@@ -599,9 +722,12 @@
          "short_name" : "久居東中学校"
       },
       "津市立久居西中学校" : {
+         "location" : "三重県津市津市久居一色町940番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-1253",
          "owner_type" : "市立",
-         "short_name" : "久居西中学校"
+         "short_name" : "久居西中学校",
+         "url" : "http://www.res-edu.ed.jp/hisainishi/"
       },
       "津市立南が丘中学校" : {
          "location_area" : "津市",
@@ -624,9 +750,12 @@
          "short_name" : "東橋内中学校"
       },
       "津市立東観中学校" : {
+         "location" : "三重県津市安濃町東観音寺494-1",
          "location_area" : "津市",
+         "location_zipcode" : "514-2326",
          "owner_type" : "市立",
-         "short_name" : "東観中学校"
+         "short_name" : "東観中学校",
+         "url" : "http://www.mie-c.ed.jp/jtokan/"
       },
       "津市立橋北中学校" : {
          "location_area" : "津市",
@@ -639,24 +768,36 @@
          "short_name" : "橋南中学校"
       },
       "津市立白山中学校" : {
+         "location" : "三重県津市白山町川口471-6",
          "location_area" : "津市",
+         "location_zipcode" : "515-2603",
          "owner_type" : "市立",
-         "short_name" : "白山中学校"
+         "short_name" : "白山中学校",
+         "url" : "http://www.mie-c.ed.jp/jhakus/index.html"
       },
       "津市立美杉中学校" : {
+         "location" : "三重県津市美杉町八知5800",
          "location_area" : "津市",
+         "location_zipcode" : "515-3421",
          "owner_type" : "市立",
-         "short_name" : "美杉中学校"
+         "short_name" : "美杉中学校",
+         "url" : "http://www.mie-c.ed.jp/jmisug/homepage/toppage/"
       },
       "津市立美里中学校" : {
+         "location" : "三重県津市美里町三郷84番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2113",
          "owner_type" : "市立",
-         "short_name" : "美里中学校"
+         "short_name" : "美里中学校",
+         "url" : "http://www.mie-c.ed.jp/jmisat/framestart.htm"
       },
       "津市立芸濃中学校" : {
+         "location" : "三重県津市芸濃町椋本5147番地",
          "location_area" : "津市",
+         "location_zipcode" : "514-2211",
          "owner_type" : "市立",
-         "short_name" : "芸濃中学校"
+         "short_name" : "芸濃中学校",
+         "url" : "http://www.res-edu.ed.jp/geinou/index.htm"
       },
       "津市立西橋内中学校" : {
          "location_area" : "津市",
@@ -703,14 +844,19 @@
          "short_name" : "有馬中学校"
       },
       "熊野市立木本中学校" : {
+         "location" : "三重県熊野市井戸町4877-1",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4324",
          "owner_type" : "市立",
          "short_name" : "木本中学校"
       },
       "熊野市立神上中学校" : {
+         "location" : "三重県熊野市神川町63",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4442",
          "owner_type" : "市立",
-         "short_name" : "神上中学校"
+         "short_name" : "神上中学校",
+         "url" : "http://www.kumano-city.ed.jp/jkohno/"
       },
       "熊野市立荒坂中学校" : {
          "location_area" : "熊野市",
@@ -728,7 +874,11 @@
          "short_name" : "玉城中学校"
       },
       "皇學館中学校" : {
+         "location" : "三重県伊勢市楠部町138番地",
+         "location_wikipedia_latlon" : "|34|29|7.3|N|136|43|44.2|E|",
+         "location_zipcode" : "516-8577",
          "owner_type" : "私立",
+         "url" : "http://kogakkan-j.jp/",
          "wikipedia_name" : "皇學館中学校・高等学校"
       },
       "紀北町立三船中学校" : {
@@ -762,9 +912,12 @@
          "short_name" : "矢渕中学校"
       },
       "菰野町立八風中学校" : {
+         "location" : "三重県三重郡菰野町大字田光3808番地18",
          "location_area" : "三重郡菰野町",
+         "location_zipcode" : "510-1324",
          "owner_type" : "町立",
-         "short_name" : "八風中学校"
+         "short_name" : "八風中学校",
+         "url" : "http://www6.cty-net.ne.jp/~happu-j/"
       },
       "菰野町立菰野中学校" : {
          "location_area" : "三重郡菰野町",
@@ -772,7 +925,10 @@
          "short_name" : "菰野中学校"
       },
       "鈴鹿中学校" : {
-         "owner_type" : "私立"
+         "location" : "三重県鈴鹿市庄野1230",
+         "location_zipcode" : "510-8501",
+         "owner_type" : "私立",
+         "url" : "http://www.suzuka6.ed.jp/"
       },
       "鈴鹿市立創徳中学校" : {
          "location_area" : "鈴鹿市",
@@ -825,7 +981,10 @@
          "short_name" : "鼓ヶ浦中学校"
       },
       "高田中学校" : {
+         "location" : "三重県津市一身田町2843番地",
+         "location_zipcode" : "514-0114",
          "owner_type" : "私立",
+         "url" : "http://www.mie-takada-hj.ed.jp/",
          "wikipedia_name" : "高田中学校・高等学校"
       },
       "鳥羽市立加茂中学校" : {

@@ -24,9 +24,12 @@
          "short_name" : "北大路中学校"
       },
       "大津市立南郷中学校" : {
+         "location" : "滋賀県大津市赤尾町57-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0113",
          "owner_type" : "市立",
-         "short_name" : "南郷中学校"
+         "short_name" : "南郷中学校",
+         "url" : "http://www.otsu.ed.jp/nango-j/"
       },
       "大津市立唐崎中学校" : {
          "location_area" : "大津市",
@@ -44,9 +47,12 @@
          "short_name" : "志賀中学校"
       },
       "大津市立打出中学校" : {
+         "location" : "滋賀県大津市本宮二丁目46番1号",
          "location_area" : "大津市",
+         "location_zipcode" : "〒520-0804",
          "owner_type" : "市立",
-         "short_name" : "打出中学校"
+         "short_name" : "打出中学校",
+         "url" : "http://www.otsu.ed.jp/uchid/"
       },
       "大津市立日吉中学校" : {
          "location_area" : "大津市",
@@ -54,14 +60,21 @@
          "short_name" : "日吉中学校"
       },
       "大津市立瀬田中学校" : {
+         "location" : "滋賀県大津市大江7丁目1-1",
          "location_area" : "大津市",
+         "location_wikipedia_latlon" : "|34|58|40|N|135|55|41|E|",
+         "location_zipcode" : "520-2141",
          "owner_type" : "市立",
-         "short_name" : "瀬田中学校"
+         "short_name" : "瀬田中学校",
+         "url" : "http://www.otsu.ed.jp/seta-j/"
       },
       "大津市立瀬田北中学校" : {
+         "location" : "滋賀県大津市大将軍一丁目13番1号",
          "location_area" : "大津市",
+         "location_zipcode" : "520-2153",
          "owner_type" : "市立",
-         "short_name" : "瀬田北中学校"
+         "short_name" : "瀬田北中学校",
+         "url" : "http://www.otsu.ed.jp/setk-j/"
       },
       "大津市立田上中学校" : {
          "location_area" : "大津市",
@@ -69,9 +82,12 @@
          "short_name" : "田上中学校"
       },
       "大津市立皇子山中学校" : {
+         "location" : "滋賀県大津市尾花川12-1",
          "location_area" : "大津市",
+         "location_zipcode" : "525-0034",
          "owner_type" : "市立",
-         "short_name" : "皇子山中学校"
+         "short_name" : "皇子山中学校",
+         "url" : "http://www.otsu.ed.jp/ouji/"
       },
       "大津市立真野中学校" : {
          "location_area" : "大津市",
@@ -94,19 +110,28 @@
          "short_name" : "葛川中学校"
       },
       "大津市立青山中学校" : {
+         "location" : "滋賀県大津市青山8-24-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-2101",
          "owner_type" : "市立",
-         "short_name" : "青山中学校"
+         "short_name" : "青山中学校",
+         "url" : "http://www.otsu.ed.jp/ao-j/"
       },
       "守山市立守山中学校" : {
+         "location" : "滋賀県守山市石田町350番地",
          "location_area" : "守山市",
+         "location_zipcode" : "524-0014",
          "owner_type" : "市立",
-         "short_name" : "守山中学校"
+         "short_name" : "守山中学校",
+         "url" : "http://www.usennet.ne.jp/~morichu/"
       },
       "守山市立守山北中学校" : {
+         "location" : "滋賀県守山市荒見町235番地",
          "location_area" : "守山市",
+         "location_zipcode" : "524-0016",
          "owner_type" : "市立",
-         "short_name" : "守山北中学校"
+         "short_name" : "守山北中学校",
+         "url" : "http://www.usennet.ne.jp/~morikita/"
       },
       "守山市立守山南中学校" : {
          "location_area" : "守山市",
@@ -119,7 +144,10 @@
          "short_name" : "明富中学校"
       },
       "延暦寺学園比叡山中学校" : {
+         "location" : "滋賀県大津市坂本4-3-1",
+         "location_zipcode" : "520-0113",
          "owner_type" : "私立",
+         "url" : "http://www.hieizan.ed.jp/",
          "wikipedia_name" : "比叡山中学校・高等学校"
       },
       "彦根市立中央中学校" : {
@@ -128,17 +156,24 @@
          "short_name" : "中央中学校"
       },
       "彦根市立南中学校" : {
+         "location" : "滋賀県彦根市甘呂町156",
          "location_area" : "彦根市",
+         "location_zipcode" : "522-0046",
          "owner_type" : "市立",
          "short_name" : "南中学校"
       },
       "彦根市立彦根中学校" : {
+         "location" : "滋賀県彦根市西葛篭町553",
          "location_area" : "彦根市",
+         "location_zipcode" : "522-0213",
          "owner_type" : "市立",
          "short_name" : "彦根中学校"
       },
       "彦根市立東中学校" : {
+         "location" : "滋賀県彦根市芹川町443",
          "location_area" : "彦根市",
+         "location_wikipedia_latlon" : "|35|15|38|N|136|15|51|E|",
+         "location_zipcode" : "522-0033",
          "owner_type" : "市立",
          "short_name" : "東中学校"
       },
@@ -148,7 +183,9 @@
          "short_name" : "稲枝中学校"
       },
       "彦根市立西中学校" : {
+         "location" : "滋賀県彦根市金亀町8番1号",
          "location_area" : "彦根市",
+         "location_zipcode" : "522-0061",
          "owner_type" : "市立",
          "short_name" : "西中学校"
       },
@@ -193,7 +230,9 @@
          "short_name" : "朝桜中学校"
       },
       "東近江市立湖東中学校" : {
+         "location" : "滋賀県東近江市横溝町202",
          "location_area" : "東近江市",
+         "location_zipcode" : "527-0135",
          "owner_type" : "市立",
          "short_name" : "湖東中学校"
       },
@@ -253,9 +292,12 @@
          "short_name" : "甲西北中学校"
       },
       "湖南市立石部中学校" : {
+         "location" : "滋賀県湖南市宝来坂4丁目3-1",
          "location_area" : "湖南市",
+         "location_zipcode" : "520-3103",
          "owner_type" : "市立",
-         "short_name" : "石部中学校"
+         "short_name" : "石部中学校",
+         "url" : "http://www.edu-konan.jp/ishibe-jh/"
       },
       "滋賀大学教育学部附属中学校" : {
          "owner_type" : "国立"
@@ -269,9 +311,12 @@
          "short_name" : "守山中学校"
       },
       "滋賀県立水口東中学校" : {
+         "location" : "滋賀県甲賀市水口町古城が丘7-1",
          "location_area" : "甲賀市",
+         "location_zipcode" : "528-0073",
          "owner_type" : "県立",
          "short_name" : "水口東中学校",
+         "url" : "http://www.e-minakuchi-h.shiga-ec.ed.jp/",
          "wikipedia_name" : "滋賀県立水口東中学校・高等学校"
       },
       "滋賀県立河瀬中学校" : {
@@ -285,9 +330,12 @@
          "short_name" : "甲良中学校"
       },
       "甲賀市立信楽中学校" : {
+         "location" : "滋賀県甲賀市信楽町江田950",
          "location_area" : "甲賀市",
+         "location_zipcode" : "529-1811",
          "owner_type" : "市立",
-         "short_name" : "信楽中学校"
+         "short_name" : "信楽中学校",
+         "url" : "公式サイト休止中"
       },
       "甲賀市立土山中学校" : {
          "location_area" : "甲賀市",
@@ -295,7 +343,9 @@
          "short_name" : "土山中学校"
       },
       "甲賀市立城山中学校" : {
+         "location" : "滋賀県甲賀市水口町水口610−17",
          "location_area" : "甲賀市",
+         "location_zipcode" : "520-3301",
          "owner_type" : "市立",
          "short_name" : "城山中学校"
       },
@@ -305,17 +355,24 @@
          "short_name" : "水口中学校"
       },
       "甲賀市立甲南中学校" : {
+         "location" : "滋賀県甲賀市甲南町寺庄841",
          "location_area" : "甲賀市",
+         "location_zipcode" : "520-3301",
          "owner_type" : "市立",
          "short_name" : "甲南中学校"
       },
       "甲賀市立甲賀中学校" : {
+         "location" : "滋賀県甲賀市甲賀町相模128",
          "location_area" : "甲賀市",
+         "location_zipcode" : "520-3435",
          "owner_type" : "市立",
          "short_name" : "甲賀中学校"
       },
       "立命館守山中学校" : {
+         "location" : "滋賀県守山市三宅町250",
+         "location_zipcode" : "524-0041",
          "owner_type" : "私立",
+         "url" : "http://www.ritsumei.ac.jp/mrc/",
          "wikipedia_name" : "立命館守山中学校・高等学校"
       },
       "竜王町立竜王中学校" : {
@@ -364,9 +421,12 @@
          "short_name" : "新堂中学校"
       },
       "草津市立松原中学校" : {
+         "location" : "滋賀県草津市下笠町110",
          "location_area" : "草津市",
+         "location_zipcode" : "525-0029",
          "owner_type" : "市立",
-         "short_name" : "松原中学校"
+         "short_name" : "松原中学校",
+         "url" : "http://www.matsubara-j.skc.ed.jp/"
       },
       "草津市立玉川中学校" : {
          "location_area" : "草津市",
@@ -379,14 +439,20 @@
          "short_name" : "老上中学校"
       },
       "草津市立草津中学校" : {
+         "location" : "滋賀県草津市草津二丁目16-8",
          "location_area" : "草津市",
+         "location_zipcode" : "525-0034",
          "owner_type" : "市立",
-         "short_name" : "草津中学校"
+         "short_name" : "草津中学校",
+         "url" : "http://www.kusatsu-j.skc.ed.jp/"
       },
       "草津市立高穂中学校" : {
+         "location" : "滋賀県草津市追分町630番地",
          "location_area" : "草津市",
+         "location_zipcode" : "525-0046",
          "owner_type" : "市立",
-         "short_name" : "高穂中学校"
+         "short_name" : "高穂中学校",
+         "url" : "http://www.takaho-j.skc.ed.jp/"
       },
       "豊郷町立豊日中学校" : {
          "location_area" : "犬上郡豊郷町",
@@ -394,7 +460,10 @@
          "short_name" : "豊日中学校"
       },
       "近江兄弟社中学校" : {
+         "location" : "滋賀県近江八幡市市井町177",
+         "location_zipcode" : "523-0851",
          "owner_type" : "私立",
+         "url" : "http://www.ob-sch.ac.jp/jr-high/",
          "wikipedia_name" : "近江兄弟社中学校・高等学校"
       },
       "近江八幡市立八幡中学校" : {
@@ -413,9 +482,12 @@
          "short_name" : "八幡西中学校"
       },
       "近江八幡市立安土中学校" : {
+         "location" : "滋賀県近江八幡市安土町上豊浦862番地",
          "location_area" : "近江八幡市",
+         "location_zipcode" : "521-1341",
          "owner_type" : "市立",
-         "short_name" : "安土中学校"
+         "short_name" : "安土中学校",
+         "url" : "http://www1a.biglobe.ne.jp/anchu/"
       },
       "野洲市立中主中学校" : {
          "location_area" : "野洲市",
@@ -428,9 +500,12 @@
          "short_name" : "野洲中学校"
       },
       "野洲市立野洲北中学校" : {
+         "location" : "滋賀県野洲市永原1690",
          "location_area" : "野洲市",
+         "location_zipcode" : "520-2304",
          "owner_type" : "市立",
-         "short_name" : "野洲北中学校"
+         "short_name" : "野洲北中学校",
+         "url" : "http://www.yasukita.mydns.jp/"
       },
       "長浜市立びわ中学校" : {
          "location_area" : "長浜市",
@@ -448,9 +523,13 @@
          "short_name" : "南中学校"
       },
       "長浜市立木之本中学校" : {
+         "location" : "滋賀県長浜市木之本町木之本682",
          "location_area" : "長浜市",
+         "location_wikipedia_latlon" : "|35|30|17|N|136|13|44|E|",
+         "location_zipcode" : "529-0425",
          "owner_type" : "市立",
-         "short_name" : "木之本中学校"
+         "short_name" : "木之本中学校",
+         "url" : "http://www.biwa.ne.jp/~mokuchu/"
       },
       "長浜市立杉野中学校" : {
          "location_area" : "長浜市",
@@ -468,9 +547,13 @@
          "short_name" : "浅井中学校"
       },
       "長浜市立湖北中学校" : {
+         "location" : "滋賀県長浜市湖北町速水1191",
          "location_area" : "長浜市",
+         "location_wikipedia_latlon" : "|35|26|40|N|136|14|33|E|",
+         "location_zipcode" : "529-0341",
          "owner_type" : "市立",
-         "short_name" : "湖北中学校"
+         "short_name" : "湖北中学校",
+         "url" : "http://www.biwa.ne.jp/~kohokums/"
       },
       "長浜市立虎姫中学校" : {
          "location_area" : "長浜市",
@@ -478,7 +561,9 @@
          "short_name" : "虎姫中学校"
       },
       "長浜市立西中学校" : {
+         "location" : "滋賀県長浜市高田町10-10",
          "location_area" : "長浜市",
+         "location_zipcode" : "526-0037",
          "owner_type" : "市立",
          "short_name" : "西中学校"
       },
@@ -488,14 +573,22 @@
          "short_name" : "西浅井中学校"
       },
       "長浜市立鏡岡中学校" : {
+         "location" : "滋賀県長浜市余呉町中之郷1030",
          "location_area" : "長浜市",
+         "location_wikipedia_latlon" : "|35|32|44|N|136|12|11|E|",
+         "location_zipcode" : "529-0425",
          "owner_type" : "市立",
-         "short_name" : "鏡岡中学校"
+         "short_name" : "鏡岡中学校",
+         "url" : "http://www2.cny.ne.jp/kaga-jh/"
       },
       "長浜市立高月中学校" : {
+         "location" : "滋賀県長浜市高月町高月560",
          "location_area" : "長浜市",
+         "location_wikipedia_latlon" : "|35|28|22|N|136|14|07|E|",
+         "location_zipcode" : "529-0241",
          "owner_type" : "市立",
-         "short_name" : "高月中学校"
+         "short_name" : "高月中学校",
+         "url" : "http://www4.ocn.ne.jp/~takajhs/"
       },
       "高島市立マキノ中学校" : {
          "location_area" : "高島市",

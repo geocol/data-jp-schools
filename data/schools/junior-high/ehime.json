@@ -44,17 +44,23 @@
          "short_name" : "魚島中学校"
       },
       "久万高原町立久万中学校" : {
+         "location" : "愛媛県上浮穴郡久万高原町久万600",
          "location_area" : "上浮穴郡久万高原町",
+         "location_zipcode" : "791-1201",
          "owner_type" : "町立",
          "short_name" : "久万中学校"
       },
       "久万高原町立柳谷中学校" : {
+         "location" : "愛媛県上浮穴郡久万高原町柳井川3542",
          "location_area" : "上浮穴郡久万高原町",
+         "location_zipcode" : "791-1801",
          "owner_type" : "町立",
          "short_name" : "柳谷中学校"
       },
       "久万高原町立美川中学校" : {
+         "location" : "愛媛県上浮穴郡久万高原町上黒岩2890",
          "location_area" : "上浮穴郡久万高原町",
+         "location_zipcode" : "791-1501",
          "owner_type" : "町立",
          "short_name" : "美川中学校"
       },
@@ -149,7 +155,10 @@
          "short_name" : "関前中学校"
       },
       "今治明徳中学校" : {
-         "owner_type" : "私立"
+         "location" : "愛媛県今治市阿方壱丁地甲287",
+         "location_zipcode" : "794-0081",
+         "owner_type" : "私立",
+         "url" : "http://ww81.tiki.ne.jp/~meitoku/index.html"
       },
       "伊予市立中山中学校" : {
          "location_area" : "伊予市",
@@ -177,9 +186,12 @@
          "short_name" : "三崎中学校"
       },
       "伊方町立伊方中学校" : {
+         "location" : "愛媛県西宇和郡伊方町湊浦803",
          "location_area" : "西宇和郡伊方町",
+         "location_zipcode" : "796-0301",
          "owner_type" : "町立",
-         "short_name" : "伊方中学校"
+         "short_name" : "伊方中学校",
+         "url" : "http://wwwd.pikara.ne.jp/ikata-jh/"
       },
       "伊方町立瀬戸中学校" : {
          "location_area" : "西宇和郡伊方町",
@@ -217,7 +229,9 @@
          "short_name" : "真穴中学校"
       },
       "八幡浜市立青石中学校" : {
+         "location" : "愛媛県八幡浜市日土町2-96",
          "location_area" : "八幡浜市",
+         "location_zipcode" : "796-0170",
          "owner_type" : "市立",
          "short_name" : "青石中学校"
       },
@@ -277,9 +291,13 @@
          "short_name" : "大洲北中学校"
       },
       "大洲市立大洲南中学校" : {
+         "location" : "愛媛県大洲市大洲1005",
          "location_area" : "大洲市",
+         "location_wikipedia_latlon" : "|33|30|19|N|132|32|36|E|",
+         "location_zipcode" : "795-0012",
          "owner_type" : "市立",
-         "short_name" : "大洲南中学校"
+         "short_name" : "大洲南中学校",
+         "url" : "http://ohzuminami-j.esnet.ed.jp/"
       },
       "大洲市立大洲東中学校" : {
          "location_area" : "大洲市",
@@ -287,9 +305,13 @@
          "short_name" : "大洲東中学校"
       },
       "大洲市立平野中学校" : {
+         "location" : "愛媛県大洲市平野町野田50",
          "location_area" : "大洲市",
+         "location_wikipedia_latlon" : "|33|29|49|N|132|31|01|E|",
+         "location_zipcode" : "795-0021",
          "owner_type" : "市立",
-         "short_name" : "平野中学校"
+         "short_name" : "平野中学校",
+         "url" : "http://hirano-j.esnet.ed.jp/"
       },
       "大洲市立新谷中学校" : {
          "location_area" : "大洲市",
@@ -317,9 +339,12 @@
          "short_name" : "長浜中学校"
       },
       "宇和島市立三間中学校" : {
+         "location" : "愛媛県宇和島市三間町戸雁771",
          "location_area" : "宇和島市",
+         "location_zipcode" : "798-1115",
          "owner_type" : "市立",
-         "short_name" : "三間中学校"
+         "short_name" : "三間中学校",
+         "url" : "http://ehm-mima-j.esnet.ed.jp/html/"
       },
       "宇和島市立吉田中学校" : {
          "location_area" : "宇和島市",
@@ -327,9 +352,13 @@
          "short_name" : "吉田中学校"
       },
       "宇和島市立城北中学校" : {
+         "location" : "愛媛県宇和島市和霊町1334-1",
          "location_area" : "宇和島市",
+         "location_wikipedia_latlon" : "|33|13|48|N|132|34|00|E|",
+         "location_zipcode" : "798-0012",
          "owner_type" : "市立",
-         "short_name" : "城北中学校"
+         "short_name" : "城北中学校",
+         "url" : "http://uwajima-johoku-j.esnet.ed.jp/"
       },
       "宇和島市立城南中学校" : {
          "location_area" : "宇和島市",
@@ -337,9 +366,12 @@
          "short_name" : "城南中学校"
       },
       "宇和島市立城東中学校" : {
+         "location" : "愛媛県宇和島市新田町3-3-1",
          "location_area" : "宇和島市",
+         "location_zipcode" : "798-0800",
          "owner_type" : "市立",
-         "short_name" : "城東中学校"
+         "short_name" : "城東中学校",
+         "url" : "http://www.uwajima-ehm.ed.jp/joto/"
       },
       "宇和島市立宇和海中学校" : {
          "location_area" : "宇和島市",
@@ -347,16 +379,26 @@
          "short_name" : "宇和海中学校"
       },
       "宇和島市立津島中学校" : {
+         "location" : "愛媛県宇和島市津島町高田丙355",
          "location_area" : "宇和島市",
+         "location_zipcode" : "798-3302",
          "owner_type" : "市立",
-         "short_name" : "津島中学校"
+         "short_name" : "津島中学校",
+         "url" : "http://tsushima-tsushima-j.esnet.ed.jp/html/"
       },
       "帝京冨士中学校" : {
+         "location" : "愛媛県大洲市柚木947番地",
+         "location_zipcode" : "795-0011",
          "owner_type" : "私立",
+         "url" : "http://www.tomisu.ac.jp/",
          "wikipedia_name" : "帝京冨士中学校・高等学校"
       },
       "愛光中学校" : {
+         "location" : "愛媛県松山市衣山5-1610-1",
+         "location_wikipedia_latlon" : "|33|50|46.5|N|132|44|6.7|E|",
+         "location_zipcode" : "791-8501",
          "owner_type" : "私立",
+         "url" : "http://www.aiko.ed.jp/index.shtml",
          "wikipedia_name" : "愛光中学校・高等学校"
       },
       "愛南町立一本松中学校" : {
@@ -375,9 +417,12 @@
          "short_name" : "城辺中学校"
       },
       "愛南町立御荘中学校" : {
+         "location" : "愛媛県南宇和郡愛南町御荘平城3787",
          "location_area" : "南宇和郡愛南町",
+         "location_zipcode" : "798",
          "owner_type" : "町立",
-         "short_name" : "御荘中学校"
+         "short_name" : "御荘中学校",
+         "url" : "http://misho-j.esnet.ed.jp/"
       },
       "愛南町立福浦中学校" : {
          "location_area" : "南宇和郡愛南町",
@@ -408,14 +453,20 @@
          "short_name" : "南中学校"
       },
       "新居浜市立大生院中学校" : {
+         "location" : "愛媛県新居浜市大生院1070番地2",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0060",
          "owner_type" : "市立",
-         "short_name" : "大生院中学校"
+         "short_name" : "大生院中学校",
+         "url" : "http://jhs.hearts.ne.jp/~oojyouin-j/"
       },
       "新居浜市立川東中学校" : {
+         "location" : "愛媛県新居浜市神郷町2-4-1",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0884",
          "owner_type" : "市立",
-         "short_name" : "川東中学校"
+         "short_name" : "川東中学校",
+         "url" : "http://jhs.hearts.ne.jp/~kawahigashi/"
       },
       "新居浜市立東中学校" : {
          "location_area" : "新居浜市",
@@ -423,9 +474,12 @@
          "short_name" : "東中学校"
       },
       "新居浜市立泉川中学校" : {
+         "location" : "愛媛県新居浜市星原町7-8",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0825",
          "owner_type" : "市立",
-         "short_name" : "泉川中学校"
+         "short_name" : "泉川中学校",
+         "url" : "http://jhs.hearts.ne.jp/~izumigawa-j/"
       },
       "新居浜市立船木中学校" : {
          "location_area" : "新居浜市",
@@ -438,9 +492,12 @@
          "short_name" : "船木中学校ひびき分校"
       },
       "新居浜市立西中学校" : {
+         "location" : "愛媛県新居浜市江口町7番1号",
          "location_area" : "新居浜市",
+         "location_zipcode" : "792-0005",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "url" : "http://niihama-nishi-j.esnet.ed.jp/"
       },
       "新居浜市立角野中学校" : {
          "location_area" : "新居浜市",
@@ -458,24 +515,34 @@
          "short_name" : "重信中学校"
       },
       "松前町立北伊予中学校" : {
+         "location" : "愛媛県伊予郡松前町神崎4-15-1",
          "location_area" : "伊予郡松前町",
+         "location_zipcode" : "791-3161",
          "owner_type" : "町立",
          "short_name" : "北伊予中学校"
       },
       "松前町立岡田中学校" : {
+         "location" : "愛媛県伊予郡松前町昌農内4-4-31",
          "location_area" : "伊予郡松前町",
+         "location_zipcode" : "791-3133",
          "owner_type" : "町立",
          "short_name" : "岡田中学校"
       },
       "松前町立松前中学校" : {
+         "location" : "愛媛県伊予郡松前町浜96-3",
          "location_area" : "伊予郡松前町",
+         "location_zipcode" : "791-3110",
          "owner_type" : "町立",
          "short_name" : "松前中学校"
       },
       "松山市立三津浜中学校" : {
+         "location" : "愛媛県松山市若葉町8番48号",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|51|23|N|132|43|06|E|",
+         "location_zipcode" : "791-8053",
          "owner_type" : "市立",
-         "short_name" : "三津浜中学校"
+         "short_name" : "三津浜中学校",
+         "url" : "http://www.matsuyama-edu.ed.jp/~t.mitsu/"
       },
       "松山市立中島中学校" : {
          "location_area" : "松山市",
@@ -484,6 +551,7 @@
       },
       "松山市立久米中学校" : {
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|48|09.5|N|132|48|06|E|",
          "owner_type" : "市立",
          "short_name" : "久米中学校"
       },
@@ -513,9 +581,13 @@
          "short_name" : "北中学校"
       },
       "松山市立北条北中学校" : {
+         "location" : "愛媛県松山市北条辻365",
          "location_area" : "松山市",
+         "location_wikipedia_latlon" : "|33|58|16|N|132|46|52|E|",
+         "location_zipcode" : "799-2430",
          "owner_type" : "市立",
-         "short_name" : "北条北中学校"
+         "short_name" : "北条北中学校",
+         "url" : "http://www.matsuyama-edu.ed.jp/~t-hojo_n/"
       },
       "松山市立北条南中学校" : {
          "location_area" : "松山市",
@@ -578,9 +650,12 @@
          "short_name" : "津田中学校"
       },
       "松山市立湯山中学校" : {
+         "location" : "愛媛県松山市溝辺町甲508-1",
          "location_area" : "松山市",
+         "location_zipcode" : "791-0101",
          "owner_type" : "市立",
-         "short_name" : "湯山中学校"
+         "short_name" : "湯山中学校",
+         "url" : "http://www.matsuyama-edu.ed.jp/~t.yuyama/"
       },
       "松山市立興居島中学校" : {
          "location_area" : "松山市",
@@ -593,9 +668,12 @@
          "short_name" : "西中学校"
       },
       "松山市立道後中学校" : {
+         "location" : "松山市上市一丁目3番57号",
          "location_area" : "松山市",
+         "location_zipcode" : "790-0853",
          "owner_type" : "市立",
-         "short_name" : "道後中学校"
+         "short_name" : "道後中学校",
+         "url" : "http://www.matsuyama-edu.ed.jp/~t.dougo/"
       },
       "松山市立雄新中学校" : {
          "location_area" : "松山市",
@@ -613,7 +691,10 @@
          "short_name" : "鴨川中学校"
       },
       "松山東雲中学校" : {
+         "location" : "愛媛県松山市大街道三丁目2番24号",
+         "location_zipcode" : "790-8541",
          "owner_type" : "私立",
+         "url" : "http://www.shinonome.ac.jp/highschool/index.php",
          "wikipedia_name" : "松山東雲中学校・高等学校"
       },
       "松野町立松野中学校" : {

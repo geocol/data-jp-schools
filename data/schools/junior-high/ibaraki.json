@@ -41,14 +41,20 @@
          "short_name" : "伊奈中学校"
       },
       "つくばみらい市立伊奈東中学校" : {
+         "location" : "茨城県つくばみらい市南太田254番地",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "300-2306",
          "owner_type" : "市立",
-         "short_name" : "伊奈東中学校"
+         "short_name" : "伊奈東中学校",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/inahigashi-jh/"
       },
       "つくばみらい市立小絹中学校" : {
+         "location" : "茨城県つくばみらい市絹の台一丁目14番地2",
          "location_area" : "つくばみらい市",
+         "location_zipcode" : "302-0119",
          "owner_type" : "市立",
-         "short_name" : "小絹中学校"
+         "short_name" : "小絹中学校",
+         "url" : "http://www.city.tsukubamirai.lg.jp/blog/kokinu-chu/"
       },
       "つくばみらい市立谷和原中学校" : {
          "location_area" : "つくばみらい市",
@@ -106,9 +112,12 @@
          "short_name" : "谷田部中学校"
       },
       "つくば市立谷田部東中学校" : {
+         "location" : "茨城県つくば市東二丁目25番地1",
          "location_area" : "つくば市",
+         "location_zipcode" : "305-0046",
          "owner_type" : "市立",
-         "short_name" : "谷田部東中学校"
+         "short_name" : "谷田部東中学校",
+         "url" : "http://www.tsukuba.ed.jp/~yatabe-ej/"
       },
       "つくば市立豊里中学校" : {
          "location_area" : "つくば市",
@@ -146,9 +155,12 @@
          "short_name" : "勝田第二中学校"
       },
       "ひたちなか市立大島中学校" : {
+         "location" : "茨城県ひたちなか市東大島四丁目6番1号",
          "location_area" : "ひたちなか市",
+         "location_zipcode" : "312-0042",
          "owner_type" : "市立",
-         "short_name" : "大島中学校"
+         "short_name" : "大島中学校",
+         "url" : "http://www.hitachinaka-knet.ed.jp/osima_j/"
       },
       "ひたちなか市立平磯中学校" : {
          "location_area" : "ひたちなか市",
@@ -156,9 +168,12 @@
          "short_name" : "平磯中学校"
       },
       "ひたちなか市立田彦中学校" : {
+         "location" : "茨城県ひたちなか市田彦1442-1",
          "location_area" : "ひたちなか市",
+         "location_zipcode" : "312-0063",
          "owner_type" : "市立",
-         "short_name" : "田彦中学校"
+         "short_name" : "田彦中学校",
+         "url" : "http://www.hitachinaka-knet.ed.jp/tabiko_j/"
       },
       "ひたちなか市立那珂湊中学校" : {
          "location_area" : "ひたちなか市",
@@ -206,8 +221,11 @@
          "short_name" : "利根中学校"
       },
       "北浦三育中学校" : {
+         "location" : "茨城県行方市成田895",
          "location_area" : "行方市",
-         "owner_type" : "私立"
+         "location_zipcode" : "311-1703",
+         "owner_type" : "私立",
+         "url" : "http://www.saniku.net/index.htm"
       },
       "北茨城市立中郷中学校" : {
          "location_area" : "北茨城市",
@@ -215,7 +233,9 @@
          "short_name" : "中郷中学校"
       },
       "北茨城市立常北中学校" : {
+         "location" : "茨城県北茨城市大津町2448",
          "location_area" : "北茨城市",
+         "location_zipcode" : "319-1702",
          "owner_type" : "市立",
          "short_name" : "常北中学校"
       },
@@ -285,9 +305,12 @@
          "short_name" : "三和北中学校"
       },
       "古河市立三和東中学校" : {
+         "location" : "茨城県古河市尾崎4515番地",
          "location_area" : "古河市",
+         "location_zipcode" : "306-0101",
          "owner_type" : "市立",
-         "short_name" : "三和東中学校"
+         "short_name" : "三和東中学校",
+         "url" : "http://www.koganet.ne.jp/~sanwaej/"
       },
       "古河市立古河第一中学校" : {
          "location_area" : "古河市",
@@ -305,9 +328,12 @@
          "short_name" : "古河第二中学校"
       },
       "古河市立総和中学校" : {
+         "location" : "茨城県古河市女沼290番地1",
          "location_area" : "古河市",
+         "location_zipcode" : "306-0234",
          "owner_type" : "市立",
-         "short_name" : "総和中学校"
+         "short_name" : "総和中学校",
+         "url" : "http://www7.ocn.ne.jp/~sowajh/index.htm"
       },
       "古河市立総和北中学校" : {
          "location_area" : "古河市",
@@ -330,9 +356,12 @@
          "short_name" : "土浦第三中学校"
       },
       "土浦市立土浦第二中学校" : {
+         "location" : "茨城県土浦市東真鍋町21-7",
          "location_area" : "土浦市",
+         "location_zipcode" : "300-0051",
          "owner_type" : "市立",
-         "short_name" : "土浦第二中学校"
+         "short_name" : "土浦第二中学校",
+         "url" : "http://www.tsuchiura.ed.jp/~2tyuu/"
       },
       "土浦市立土浦第五中学校" : {
          "location_area" : "土浦市",
@@ -440,24 +469,36 @@
          "short_name" : "第一中学校"
       },
       "守谷市立けやき台中学校" : {
+         "location" : "茨城県守谷市けやき台]五丁目21番地1",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0128",
          "owner_type" : "市立",
-         "short_name" : "けやき台中学校"
+         "short_name" : "けやき台中学校",
+         "url" : "http://moriya.jed.jp/~keyakijh/"
       },
       "守谷市立守谷中学校" : {
+         "location" : "茨城県守谷市百合ケ丘二丁目2675番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0110",
          "owner_type" : "市立",
-         "short_name" : "守谷中学校"
+         "short_name" : "守谷中学校",
+         "url" : "http://mobile.moriya.jed.jp/~moriyajh/"
       },
       "守谷市立御所ケ丘中学校" : {
+         "location" : "茨城県守谷市御所ケ丘四丁目16番地",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0119",
          "owner_type" : "市立",
-         "short_name" : "御所ケ丘中学校"
+         "short_name" : "御所ケ丘中学校",
+         "url" : "http://moriya.jed.jp/~gosyogaokajh/GosyoHP/index.htm"
       },
       "守谷市立愛宕中学校" : {
+         "location" : "茨城県守谷市本町4325番地2",
          "location_area" : "守谷市",
+         "location_zipcode" : "302-0109",
          "owner_type" : "市立",
-         "short_name" : "愛宕中学校"
+         "short_name" : "愛宕中学校",
+         "url" : "http://moriya.jed.jp/~atagojh/"
       },
       "小美玉市立小川北中学校" : {
          "location_area" : "小美玉市",
@@ -475,13 +516,19 @@
          "short_name" : "玉里中学校"
       },
       "小美玉市立美野里中学校" : {
+         "location" : "茨城県小美玉市部室1196番地3",
          "location_area" : "小美玉市",
+         "location_zipcode" : "319-0132",
          "owner_type" : "市立",
-         "short_name" : "美野里中学校"
+         "short_name" : "美野里中学校",
+         "url" : "http://www.city.omitama.ibaraki.jp/minori-j/"
       },
       "常総学院中学校" : {
+         "location" : "茨城県土浦市中村西根1010",
          "location_area" : "土浦市",
+         "location_zipcode" : "300-0849",
          "owner_type" : "私立",
+         "url" : "http://www.joso.ac.jp/high/",
          "wikipedia_name" : "常総学院中学校・高等学校"
       },
       "常総市立水海道中学校" : {
@@ -735,9 +782,12 @@
          "short_name" : "第五中学校"
       },
       "水戸市立第四中学校" : {
+         "location" : "茨城県水戸市元吉田町1987番地の3",
          "location_area" : "水戸市",
+         "location_zipcode" : "310-0836",
          "owner_type" : "市立",
-         "short_name" : "第四中学校"
+         "short_name" : "第四中学校",
+         "url" : "http://www.magokoro.ed.jp/dai4-j/"
       },
       "水戸市立緑岡中学校" : {
          "location_area" : "水戸市",
@@ -760,12 +810,19 @@
          "short_name" : "飯富中学校"
       },
       "水戸英宏中学校" : {
+         "location" : "茨城県水戸市見川町字手負山2582-15",
          "location_area" : "水戸市",
-         "owner_type" : "私立"
+         "location_zipcode" : "310-0913",
+         "owner_type" : "私立",
+         "url" : "http://www.mito-eiko.ed.jp/"
       },
       "江戸川学園取手中学校" : {
+         "location" : "茨城県取手市西1-37-1",
          "location_area" : "取手市",
+         "location_wikipedia_latlon" : "|35|54|14|N|140|2|28|E|",
+         "location_zipcode" : "302-0025",
          "owner_type" : "私立",
+         "url" : "http://www.e-t.ed.jp/",
          "wikipedia_name" : "江戸川学園取手中学校・高等学校"
       },
       "河内町立河内中学校" : {
@@ -779,8 +836,11 @@
          "short_name" : "金江津中学校"
       },
       "清真学園中学校" : {
+         "location" : "茨城県鹿嶋市宮中伏見4448-5",
          "location_area" : "鹿嶋市",
+         "location_zipcode" : "314-0031",
          "owner_type" : "私立",
+         "url" : "http://www.seishingakuen.ed.jp/homepage/",
          "wikipedia_name" : "清真学園高等学校・中学校"
       },
       "潮来市立日の出中学校" : {
@@ -804,9 +864,12 @@
          "short_name" : "牛堀中学校"
       },
       "牛久市立下根中学校" : {
+         "location" : "茨城県牛久市下根町829",
          "location_area" : "牛久市",
+         "location_zipcode" : "300-1203",
          "owner_type" : "市立",
-         "short_name" : "下根中学校"
+         "short_name" : "下根中学校",
+         "url" : "http://www.city.ushiku.ibaraki.jp/jhs/shimone/"
       },
       "牛久市立牛久南中学校" : {
          "location_area" : "牛久市",
@@ -815,8 +878,10 @@
       },
       "牛久市立牛久第一中学校" : {
          "location_area" : "牛久市",
+         "location_zipcode" : "300-1211",
          "owner_type" : "市立",
-         "short_name" : "牛久第一中学校"
+         "short_name" : "牛久第一中学校",
+         "url" : "http://www.city.ushiku.ibaraki.jp/jhs/ushiku1/"
       },
       "牛久市立牛久第三中学校" : {
          "location_area" : "牛久市",
@@ -964,9 +1029,12 @@
          "short_name" : "笠間中学校"
       },
       "筑西市立下館中学校" : {
+         "location" : "茨城県筑西市岡芹1000",
          "location_area" : "筑西市",
+         "location_zipcode" : "308-0051",
          "owner_type" : "市立",
-         "short_name" : "下館中学校"
+         "short_name" : "下館中学校",
+         "url" : "http://www.chikusei.ed.jp/shimochu/"
       },
       "筑西市立下館北中学校" : {
          "location_area" : "筑西市",
@@ -1019,27 +1087,45 @@
          "short_name" : "美浦中学校"
       },
       "聖徳大学附属取手聖徳女子中学校" : {
+         "location" : "茨城県取手市山王1000",
          "location_area" : "取手市",
+         "location_wikipedia_latlon" : "|35|55|45.8|N|140|4|33.7|E|",
+         "location_zipcode" : "300-1544",
          "owner_type" : "私立",
+         "url" : "http://www.seitoku.jp/toride/",
          "wikipedia_name" : "聖徳大学附属取手聖徳女子中学校・高等学校"
       },
       "茗溪学園中学校" : {
+         "location" : "茨城県つくば市稲荷前1番地1",
          "location_area" : "つくば市",
+         "location_wikipedia_latlon" : "|36|3|5.5|N|140|7|42|E|",
+         "location_zipcode" : "305-8502",
          "owner_type" : "私立",
+         "url" : "http://www.meikei.ac.jp/",
          "wikipedia_name" : "茗溪学園中学校・高等学校"
       },
       "茨城キリスト教学園中学校" : {
+         "location" : "茨城県日立市大みか町6-11-1",
          "location_area" : "日立市",
+         "location_wikipedia_latlon" : "|36|30|47|N|140|36|58.5|E|",
+         "location_zipcode" : "319-1295",
          "owner_type" : "私立",
+         "url" : "http://www.icc.ac.jp/ich/",
          "wikipedia_name" : "茨城キリスト教学園中学校・高等学校"
       },
       "茨城中学校" : {
+         "location" : "茨城県水戸市八幡町16-1",
          "location_area" : "水戸市",
+         "location_zipcode" : "310-0065",
          "owner_type" : "私立",
+         "url" : "http://www.ibaraki-jsh.ed.jp/",
          "wikipedia_name" : "茨城中学校・高等学校"
       },
       "茨城大学教育学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "茨城県水戸市文京1-3-32",
+         "location_zipcode" : "310-0056",
+         "owner_type" : "国立",
+         "url" : "http://www.jsch.ibaraki.ac.jp/"
       },
       "茨城町立明光中学校" : {
          "location_area" : "東茨城郡茨城町",
@@ -1057,9 +1143,12 @@
          "short_name" : "梅香中学校"
       },
       "行方市立北浦中学校" : {
+         "location" : "茨城県行方市内宿390",
          "location_area" : "行方市",
+         "location_zipcode" : "311-1705",
          "owner_type" : "市立",
-         "short_name" : "北浦中学校"
+         "short_name" : "北浦中学校",
+         "url" : "http://www.sopia.or.jp/kitajh/"
       },
       "行方市立玉造中学校" : {
          "location_area" : "行方市",
@@ -1087,19 +1176,28 @@
          "short_name" : "第一中学校"
       },
       "那珂市立第三中学校" : {
+         "location" : "茨城県那珂市飯田3645番地",
          "location_area" : "那珂市",
+         "location_zipcode" : "311-0134",
          "owner_type" : "市立",
-         "short_name" : "第三中学校"
+         "short_name" : "第三中学校",
+         "url" : "http://academic1.plala.or.jp/naka3/"
       },
       "那珂市立第二中学校" : {
+         "location" : "茨城県那珂市額田南郷2386-4",
          "location_area" : "那珂市",
+         "location_zipcode" : "311-0107",
          "owner_type" : "市立",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "url" : "http://academic1.plala.or.jp/naka2/"
       },
       "那珂市立第四中学校" : {
+         "location" : "茨城県那珂市菅谷2476番地",
          "location_area" : "那珂市",
+         "location_zipcode" : "311-0105",
          "owner_type" : "市立",
-         "short_name" : "第四中学校"
+         "short_name" : "第四中学校",
+         "url" : "http://academic1.plala.or.jp/naka4"
       },
       "鉾田市立大洋中学校" : {
          "location_area" : "鉾田市",
@@ -1137,8 +1235,11 @@
          "short_name" : "阿見中学校"
       },
       "霞南至健中学校" : {
+         "location" : "茨城県稲敷郡阿見町青宿50",
          "location_area" : "稲敷郡",
+         "location_zipcode" : "300-0301",
          "owner_type" : "私立",
+         "url" : "http://www.kasumi.ed.jp/",
          "wikipedia_name" : "霞南至健中学校・霞ヶ浦高等学校"
       },
       "高萩市立君田中学校" : {
@@ -1177,14 +1278,20 @@
          "short_name" : "高松中学校"
       },
       "鹿嶋市立鹿島中学校" : {
+         "location" : "茨城県鹿嶋市宮中2398-1",
          "location_area" : "鹿嶋市",
+         "location_zipcode" : "314-0031",
          "owner_type" : "市立",
-         "short_name" : "鹿島中学校"
+         "short_name" : "鹿島中学校",
+         "url" : "http://www.sopia.or.jp/katyu/"
       },
       "鹿嶋市立鹿野中学校" : {
+         "location" : "茨城県鹿嶋市城山四丁目7番10号",
          "location_area" : "鹿嶋市",
+         "location_zipcode" : "314-0038",
          "owner_type" : "市立",
-         "short_name" : "鹿野中学校"
+         "short_name" : "鹿野中学校",
+         "url" : "http://www.sopia.or.jp/kanotyu/"
       },
       "龍ヶ崎市立中根台中学校" : {
          "location_area" : "龍ケ崎市",

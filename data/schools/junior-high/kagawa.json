@@ -11,14 +11,20 @@
          "short_name" : "天王中学校"
       },
       "さぬき市立志度中学校" : {
+         "location" : "香川県さぬき市志度2214-4",
          "location_area" : "さぬき市",
+         "location_zipcode" : "769-2101",
          "owner_type" : "市立",
-         "short_name" : "志度中学校"
+         "short_name" : "志度中学校",
+         "url" : "http://ew.sanuki.ne.jp/shidochu"
       },
       "さぬき市立志度東中学校" : {
+         "location" : "香川県さぬき市鴨庄2550",
          "location_area" : "さぬき市",
+         "location_zipcode" : "769-2102",
          "owner_type" : "市立",
-         "short_name" : "志度東中学校"
+         "short_name" : "志度東中学校",
+         "url" : "http://www.shidoh-j.ed.jp/"
       },
       "さぬき市立津田中学校" : {
          "location_area" : "さぬき市",
@@ -95,19 +101,30 @@
          "short_name" : "小手島中学校"
       },
       "丸亀市立広島中学校" : {
+         "location" : "香川県丸亀市広島町江の浦262",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|21|54|N|133|42|56|E|",
+         "location_zipcode" : "763-0102",
          "owner_type" : "市立",
          "short_name" : "広島中学校"
       },
       "丸亀市立本島中学校" : {
+         "location" : "香川県丸亀市本島町泊410番地",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|23|08|N|133|46|52|E|",
+         "location_zipcode" : "763-0223",
          "owner_type" : "市立",
-         "short_name" : "本島中学校"
+         "short_name" : "本島中学校",
+         "url" : "http://www.honjima-j.ed.jp/"
       },
       "丸亀市立東中学校" : {
+         "location" : "香川県丸亀市大手町1丁目5-1",
          "location_area" : "丸亀市",
+         "location_wikipedia_latlon" : "|34|17|34|N|133|48|03|E|",
+         "location_zipcode" : "763-0034",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.marugame-higashi-j.ed.jp/"
       },
       "丸亀市立綾歌中学校" : {
          "location_area" : "丸亀市",
@@ -145,9 +162,12 @@
          "short_name" : "豊島中学校"
       },
       "坂出市立坂出中学校" : {
+         "location" : "香川県坂出市小山町318番地",
          "location_area" : "坂出市",
+         "location_zipcode" : "762-0026",
          "owner_type" : "市立",
-         "short_name" : "坂出中学校"
+         "short_name" : "坂出中学校",
+         "url" : "http://www.sakaide.ed.jp/sakaide/"
       },
       "坂出市立岩黒中学校" : {
          "location_area" : "坂出市",
@@ -185,14 +205,22 @@
          "short_name" : "宇多津中学校"
       },
       "小豆島町立内海中学校" : {
+         "location" : "香川県小豆郡小豆島町片城甲44-1",
          "location_area" : "小豆郡小豆島町",
+         "location_wikipedia_latlon" : "|34|28|49|N|134|18|39|E|",
+         "location_zipcode" : "761-4431",
          "owner_type" : "町立",
-         "short_name" : "内海中学校"
+         "short_name" : "内海中学校",
+         "url" : "http://www.niji.or.jp/school/utinoj01/"
       },
       "小豆島町立池田中学校" : {
+         "location" : "香川県小豆郡小豆島町池田2060-1",
          "location_area" : "小豆郡小豆島町",
+         "location_wikipedia_latlon" : "|34|28|59|N|134|14|03|E|",
+         "location_zipcode" : "761-4301",
          "owner_type" : "町立",
-         "short_name" : "池田中学校"
+         "short_name" : "池田中学校",
+         "url" : "http://www3.ocn.ne.jp/~ikedaj01/welcome.htm"
       },
       "東かがわ市立大川中学校" : {
          "location_area" : "東かがわ市",
@@ -205,14 +233,22 @@
          "short_name" : "引田中学校"
       },
       "東かがわ市立白鳥中学校" : {
+         "location" : "香川県東かがわ市白鳥757-2",
          "location_area" : "東かがわ市",
+         "location_wikipedia_latlon" : "|34|14|14|N|134|21|10|E|",
+         "location_zipcode" : "769-2705",
          "owner_type" : "市立",
-         "short_name" : "白鳥中学校"
+         "short_name" : "白鳥中学校",
+         "url" : "http://www.higashikagawa.ed.jp/jh/shirotori/"
       },
       "琴平町立琴平中学校" : {
+         "location" : "香川県仲多度郡琴平町五條661番地",
          "location_area" : "仲多度郡琴平町",
+         "location_wikipedia_latlon" : "|34|11|21|N|133|49|40|E|",
+         "location_zipcode" : "766-0003",
          "owner_type" : "町立",
-         "short_name" : "琴平中学校"
+         "short_name" : "琴平中学校",
+         "url" : "http://www.town.kotohira.kagawa.jp/gako/koto_js/"
       },
       "直島町立直島中学校" : {
          "location_area" : "香川郡直島町",
@@ -255,37 +291,63 @@
          "short_name" : "豊浜中学校"
       },
       "香川大学教育学部附属坂出中学校" : {
-         "owner_type" : "国立"
+         "location" : "香川県坂出市青葉町1番7号",
+         "location_zipcode" : "762-0037",
+         "owner_type" : "国立",
+         "url" : "http://www.ed.kagawa-u.ac.jp/~sakachu//"
       },
       "香川大学教育学部附属高松中学校" : {
-         "owner_type" : "国立"
+         "location" : "香川県高松市鹿角町394番地",
+         "owner_type" : "国立",
+         "url" : "http://www.ed.kagawa-u.ac.jp/~takachu/"
       },
       "香川県大手前中学校" : {
+         "location" : "香川県丸亀市大手町一丁目6番1号",
+         "location_zipcode" : "763-0034",
          "owner_type" : "私立",
+         "url" : "http://www4.ocn.ne.jp/~otemae/",
          "wikipedia_name" : "香川県大手前中学校・高等学校"
       },
       "香川県大手前高松中学校" : {
+         "location" : "香川県高松市室新町1166番地",
+         "location_wikipedia_latlon" : "|34|19|36.0|N|134|2|2.8|E|",
+         "location_zipcode" : "761-8062",
          "owner_type" : "私立",
+         "url" : "http://www.otemaetk.com/",
          "wikipedia_name" : "香川県大手前高松中学・高等学校"
       },
       "香川県立高松北中学校" : {
+         "location" : "香川県高松市牟礼町牟礼1583-1",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|20|46|N|134|8|34|E|",
+         "location_zipcode" : "761-0121",
          "owner_type" : "県立",
          "short_name" : "高松北中学校",
+         "url" : "http://www.kagawa-edu.jp/kitah01/top.htm",
          "wikipedia_name" : "香川県立高松北中学校・高等学校"
       },
       "香川県立高瀬のぞみが丘中学校" : {
+         "location" : "香川県三豊市高瀬町下勝間2093番地",
          "location_area" : "三豊市",
+         "location_zipcode" : "767-0011",
          "owner_type" : "県立",
          "short_name" : "高瀬のぞみが丘中学校",
+         "url" : "http://www.kagawa-edu.jp/tkseh01/",
          "wikipedia_name" : "香川県立高瀬のぞみが丘中学校・高瀬高等学校"
       },
       "香川県藤井中学校" : {
+         "location" : "香川県丸亀市新浜町一丁目3番1号",
+         "location_zipcode" : "763-0063",
          "owner_type" : "私立",
+         "url" : "http://www.fujii.ed.jp/",
          "wikipedia_name" : "香川県藤井中学・高等学校"
       },
       "香川誠陵中学校" : {
+         "location" : "香川県高松市鬼無町佐料469-1",
+         "location_wikipedia_latlon" : "|34|19|53.1|N|133|59|9.8|E|",
+         "location_zipcode" : "761-8022",
          "owner_type" : "私立",
+         "url" : "http://www.k-seiryo.ed.jp/",
          "wikipedia_name" : "香川誠陵中学・高等学校"
       },
       "高松市立一宮中学校" : {
@@ -364,9 +426,12 @@
          "short_name" : "玉藻中学校"
       },
       "高松市立紫雲中学校" : {
+         "location" : "香川県高松市紫雲町8番25号",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0015",
          "owner_type" : "市立",
-         "short_name" : "紫雲中学校"
+         "short_name" : "紫雲中学校",
+         "url" : "http://www.edu-tens.net/tyuHP/siunHP/"
       },
       "高松市立香南中学校" : {
          "location_area" : "高松市",
@@ -384,9 +449,12 @@
          "short_name" : "香東中学校"
       },
       "高松市立高松第一中学校" : {
+         "location" : "香川県高松市松島町二丁目14番5号",
          "location_area" : "高松市",
+         "location_zipcode" : "760-0068",
          "owner_type" : "市立",
          "short_name" : "高松第一中学校",
+         "url" : "http://www.edu-tens.net/ikkanHP/takaitiHP/index.htm",
          "wikipedia_name" : "高松市立高松第一小学校・中学校"
       },
       "高松市立鶴尾中学校" : {

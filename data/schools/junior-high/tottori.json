@@ -16,14 +16,20 @@
          "short_name" : "溝口中学校"
       },
       "倉吉市立久米中学校" : {
+         "location" : "鳥取県倉吉市横田568番地1",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0946",
          "owner_type" : "市立",
-         "short_name" : "久米中学校"
+         "short_name" : "久米中学校",
+         "url" : "http://cmsweb1.torikyo.ed.jp/kume-j/"
       },
       "倉吉市立東中学校" : {
+         "location" : "鳥取県倉吉市2-76",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0881",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.torikyo.ed.jp/kurae-j/"
       },
       "倉吉市立河北中学校" : {
          "location_area" : "倉吉市",
@@ -51,14 +57,21 @@
          "short_name" : "八東中学校"
       },
       "八頭町立船岡中学校" : {
+         "location" : "鳥取県八頭郡八頭町坂田30",
          "location_area" : "八頭郡八頭町",
+         "location_wikipedia_latlon" : "|35|23|19|N|134|14|53|E|",
+         "location_zipcode" : "680-0473",
          "owner_type" : "町立",
-         "short_name" : "船岡中学校"
+         "short_name" : "船岡中学校",
+         "url" : "http://www.torikyo.ed.jp/funaoka-j/"
       },
       "北栄町立北条中学校" : {
+         "location" : "鳥取県東伯郡北栄町土下100番地1",
          "location_area" : "東伯郡北栄町",
+         "location_zipcode" : "689-2111",
          "owner_type" : "町立",
-         "short_name" : "北条中学校"
+         "short_name" : "北条中学校",
+         "url" : "http://www.torikyo.ed.jp/hojo-j/"
       },
       "北栄町立大栄中学校" : {
          "location_area" : "東伯郡北栄町",
@@ -66,30 +79,45 @@
          "short_name" : "大栄中学校"
       },
       "南部町立南部中学校" : {
+         "location" : "鳥取県西伯郡南部町天万583",
          "location_area" : "西伯郡南部町",
+         "location_zipcode" : "683-0201",
          "owner_type" : "町立",
          "short_name" : "南部中学校",
+         "url" : "http://www.torikyo.ed.jp/nanbu-j/",
          "wikipedia_name" : "南部町立南部中学校 (鳥取県)"
       },
       "南部町立法勝寺中学校" : {
+         "location" : "鳥取県西伯郡南部町馬場630番地1",
          "location_area" : "西伯郡南部町",
+         "location_zipcode" : "683-0352",
          "owner_type" : "町立",
-         "short_name" : "法勝寺中学校"
+         "short_name" : "法勝寺中学校",
+         "url" : "http://www.torikyo.ed.jp/hosyoji-j/"
       },
       "境港市立第一中学校" : {
+         "location" : "鳥取県境港市上道町1840番地",
          "location_area" : "境港市",
+         "location_zipcode" : "684-0033",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "url" : "http://www.torikyo.ed.jp/sakai1-j/"
       },
       "境港市立第三中学校" : {
+         "location" : "鳥取県境港市外江町1372番地",
          "location_area" : "境港市",
+         "location_zipcode" : "684-0071",
          "owner_type" : "市立",
-         "short_name" : "第三中学校"
+         "short_name" : "第三中学校",
+         "url" : "http://www.torikyo.ed.jp/sakai3-j/"
       },
       "境港市立第二中学校" : {
+         "location" : "鳥取県境港市竹内町2438番地",
          "location_area" : "境港市",
+         "location_zipcode" : "684-0043",
          "owner_type" : "市立",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "url" : "http://www.torikyo.ed.jp/sakai2-j/"
       },
       "大山町立中山中学校" : {
          "location_area" : "西伯郡大山町",
@@ -132,13 +160,20 @@
          "short_name" : "江府中学校"
       },
       "湯梨浜中学校" : {
+         "location" : "鳥取県東伯郡湯梨浜町田畑32-1",
+         "location_wikipedia_latlon" : "|35|27|36.8|N|133|54|28.1|E|",
+         "location_zipcode" : "689-0727",
          "owner_type" : "私立",
+         "url" : "http://yurihamagakuen.ac.jp/",
          "wikipedia_name" : "湯梨浜中学校・高等学校"
       },
       "湯梨浜町立北溟中学校" : {
+         "location" : "鳥取県東伯郡湯梨浜町田後745",
          "location_area" : "東伯郡湯梨浜町",
+         "location_zipcode" : "682-0721",
          "owner_type" : "町立",
-         "short_name" : "北溟中学校"
+         "short_name" : "北溟中学校",
+         "url" : "http://www.torikyo.ed.jp/hokumei-j/"
       },
       "湯梨浜町立東郷中学校" : {
          "location_area" : "東伯郡湯梨浜町",
@@ -146,22 +181,35 @@
          "short_name" : "東郷中学校"
       },
       "琴浦町立東伯中学校" : {
+         "location" : "鳥取県東伯郡琴浦町徳万236番地",
          "location_area" : "東伯郡琴浦町",
+         "location_zipcode" : "689-2303",
          "owner_type" : "町立",
-         "short_name" : "東伯中学校"
+         "short_name" : "東伯中学校",
+         "url" : "http://www.torikyo.ed.jp/tohaku-j/"
       },
       "琴浦町立赤碕中学校" : {
+         "location" : "鳥取県東伯郡琴浦町赤碕1922番地1",
          "location_area" : "東伯郡琴浦町",
+         "location_zipcode" : "689-2501",
          "owner_type" : "町立",
-         "short_name" : "赤碕中学校"
+         "short_name" : "赤碕中学校",
+         "url" : "http://www.torikyo.ed.jp/akasaki-j/"
       },
       "米子北斗中学校" : {
+         "location" : "鳥取県米子市夜見町50",
+         "location_wikipedia_latlon" : "|35|27|13.9|N|133|17|43.7|E|",
+         "location_zipcode" : "683-0851",
          "owner_type" : "私立",
+         "url" : "http://www.yonagohokuto.ed.jp/",
          "wikipedia_name" : "米子北斗中学校・高等学校"
       },
       "米子市日吉津村中学校組合立箕蚊屋中学校" : {
+         "location" : "鳥取県米子市下新印196番地4",
          "location_area" : "米子市",
-         "owner_type" : "公立"
+         "location_zipcode" : "689-3531",
+         "owner_type" : "公立",
+         "url" : "http://www.torikyo.ed.jp/minoka-j/"
       },
       "米子市立加茂中学校" : {
          "location_area" : "米子市",
@@ -199,9 +247,12 @@
          "short_name" : "湊山中学校"
       },
       "米子市立福生中学校" : {
+         "location" : "鳥取県米子市上福原20番地",
          "location_area" : "米子市",
+         "location_zipcode" : "683-0004",
          "owner_type" : "市立",
-         "short_name" : "福生中学校"
+         "short_name" : "福生中学校",
+         "url" : "http://www.torikyo.ed.jp/fukuike-j/"
       },
       "米子市立福生中学校いずみ分校" : {
          "location_area" : "米子市",
@@ -209,9 +260,12 @@
          "short_name" : "福生中学校いずみ分校"
       },
       "米子市立福米中学校" : {
+         "location" : "鳥取県米子市新開五丁目9番1号",
          "location_area" : "米子市",
+         "location_zipcode" : "683-0801",
          "owner_type" : "市立",
-         "short_name" : "福米中学校"
+         "short_name" : "福米中学校",
+         "url" : "http://www.torikyo.ed.jp/fukuyone-j/"
       },
       "米子市立美保中学校" : {
          "location_area" : "米子市",
@@ -224,22 +278,34 @@
          "short_name" : "若桜中学校"
       },
       "鳥取大学附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "鳥取県鳥取市湖山町南四丁目101番地",
+         "location_zipcode" : "680-0945",
+         "owner_type" : "国立",
+         "url" : "http://www.fuzoku.fed.tottori-u.ac.jp/chu/"
       },
       "鳥取市立中ノ郷中学校" : {
+         "location" : "鳥取県鳥取市浜坂東一丁目22番17号",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0002",
          "owner_type" : "市立",
-         "short_name" : "中ノ郷中学校"
+         "short_name" : "中ノ郷中学校",
+         "url" : "http://www.torikyo.ed.jp/nakanogo-e/"
       },
       "鳥取市立佐治中学校" : {
+         "location" : "鳥取県鳥取市佐治町古市165番地1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-1306",
          "owner_type" : "市立",
-         "short_name" : "佐治中学校"
+         "short_name" : "佐治中学校",
+         "url" : "http://www.torikyo.ed.jp/saji-j/"
       },
       "鳥取市立北中学校" : {
+         "location" : "鳥取県鳥取市東町三丁目371番地1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0011",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "url" : "http://www.torikyo.ed.jp/torin-j/"
       },
       "鳥取市立南中学校" : {
          "location_area" : "鳥取市",
@@ -247,19 +313,29 @@
          "short_name" : "南中学校"
       },
       "鳥取市立国府中学校" : {
+         "location" : "鳥取県鳥取市国府町町屋720番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0146",
          "owner_type" : "市立",
-         "short_name" : "国府中学校"
+         "short_name" : "国府中学校",
+         "url" : "http://www.torikyo.ed.jp/kokufu-j/"
       },
       "鳥取市立東中学校" : {
+         "location" : "鳥取県鳥取市立川町六丁目164番地",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|29|10|N|134|15|3.2|E|type:edu_region:JP",
+         "location_zipcode" : "680-0061",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.torikyo.ed.jp/torie-j/"
       },
       "鳥取市立桜ヶ丘中学校" : {
+         "location" : "鳥取県鳥取市桜谷227番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0853",
          "owner_type" : "市立",
-         "short_name" : "桜ヶ丘中学校"
+         "short_name" : "桜ヶ丘中学校",
+         "url" : "http://www.torikyo.ed.jp/sakura-j/"
       },
       "鳥取市立気高中学校" : {
          "location_area" : "鳥取市",
@@ -267,54 +343,84 @@
          "short_name" : "気高中学校"
       },
       "鳥取市立江山中学校" : {
+         "location" : "鳥取県鳥取市倭文65番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-1151",
          "owner_type" : "市立",
-         "short_name" : "江山中学校"
+         "short_name" : "江山中学校",
+         "url" : "http://www.torikyo.ed.jp/kozan-j/"
       },
       "鳥取市立河原中学校" : {
+         "location" : "鳥取県鳥取市河原町曳田298番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-1222",
          "owner_type" : "市立",
-         "short_name" : "河原中学校"
+         "short_name" : "河原中学校",
+         "url" : "http://www.torikyo.ed.jp/kawahara-j/"
       },
       "鳥取市立湖南学園中学校" : {
+         "location" : "鳥取県鳥取市吉岡温泉町789-1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-1442",
          "owner_type" : "市立",
-         "short_name" : "湖南学園中学校"
+         "short_name" : "湖南学園中学校",
+         "url" : "http://www.torikyo.ed.jp/konan-j/"
       },
       "鳥取市立湖東中学校" : {
+         "location" : "鳥取県鳥取市湖山町北六丁目323番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0941",
          "owner_type" : "市立",
-         "short_name" : "湖東中学校"
+         "short_name" : "湖東中学校",
+         "url" : "http://www.torikyo.ed.jp/koto-j/"
       },
       "鳥取市立用瀬中学校" : {
+         "location" : "鳥取県鳥取市用瀬町別府65",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-1211",
          "owner_type" : "市立",
-         "short_name" : "用瀬中学校"
+         "short_name" : "用瀬中学校",
+         "url" : "http://www.torikyo.ed.jp/mochigase-j/"
       },
       "鳥取市立福部中学校" : {
+         "location" : "鳥取県鳥取市福部町高江485番地3",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-0103",
          "owner_type" : "市立",
-         "short_name" : "福部中学校"
+         "short_name" : "福部中学校",
+         "url" : "http://www.torikyo.ed.jp/fukube-j/"
       },
       "鳥取市立西中学校" : {
+         "location" : "鳥取県鳥取市寿町907番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0813",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "url" : "http://www.torikyo.ed.jp/toriw-j/"
       },
       "鳥取市立青谷中学校" : {
+         "location" : "鳥取県鳥取市青谷町青谷4190番地1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-0501",
          "owner_type" : "市立",
-         "short_name" : "青谷中学校"
+         "short_name" : "青谷中学校",
+         "url" : "http://www.torikyo.ed.jp/aoya-j/"
       },
       "鳥取市立高草中学校" : {
+         "location" : "鳥取県鳥取市徳尾108番地1",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0934",
          "owner_type" : "市立",
-         "short_name" : "高草中学校"
+         "short_name" : "高草中学校",
+         "url" : "http://www.torikyo.ed.jp/takakusa-j/"
       },
       "鳥取市立鹿野中学校" : {
+         "location" : "鳥取県鳥取市鹿野町鹿野896番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-0405",
          "owner_type" : "市立",
-         "short_name" : "鹿野中学校"
+         "short_name" : "鹿野中学校",
+         "url" : "http://www.torikyo.ed.jp/sikano-j/"
       }
    }
 }

@@ -26,8 +26,12 @@
          "short_name" : "須恵中学校"
       },
       "ルーテル学院中学校" : {
+         "location" : "熊本県熊本市黒髪三丁目12番16号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|49|11.4|N|130|43|22.6|E|",
+         "location_zipcode" : "860-8520",
          "owner_type" : "私立",
+         "url" : "http://www.luther.ed.jp/",
          "wikipedia_name" : "ルーテル学院中学校・高等学校"
       },
       "上天草市立今津中学校" : {
@@ -76,8 +80,12 @@
          "short_name" : "龍ケ岳中学校"
       },
       "九州学院中学校" : {
+         "location" : "熊本県熊本市大江五丁目2番1号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|52.3|N|130|43|16.2|E|",
+         "location_zipcode" : "862-8676",
          "owner_type" : "私立",
+         "url" : "http://www.kyugaku.ed.jp/",
          "wikipedia_name" : "九州学院中学校・高等学校"
       },
       "五木村立五木中学校" : {
@@ -86,9 +94,12 @@
          "short_name" : "五木中学校"
       },
       "人吉市立第一中学校" : {
+         "location" : "熊本県人吉市土手町36-3",
          "location_area" : "人吉市",
+         "location_zipcode" : "868-0057",
          "owner_type" : "市立",
-         "short_name" : "第一中学校"
+         "short_name" : "第一中学校",
+         "url" : "http://www.hitoyoshi.net/1stjhs/"
       },
       "人吉市立第三中学校" : {
          "location_area" : "人吉市",
@@ -96,9 +107,12 @@
          "short_name" : "第三中学校"
       },
       "人吉市立第二中学校" : {
+         "location" : "熊本県人吉市上林町622",
          "location_area" : "人吉市",
+         "location_zipcode" : "868-0081",
          "owner_type" : "市立",
-         "short_name" : "第二中学校"
+         "short_name" : "第二中学校",
+         "url" : "http://www.hitoyoshi.net/2ndjhs/"
       },
       "八代市立二見中学校" : {
          "location_area" : "八代市",
@@ -151,9 +165,12 @@
          "short_name" : "第二中学校"
       },
       "八代市立第五中学校" : {
+         "location" : "熊本県八代市豊原下町3807",
          "location_area" : "八代市",
+         "location_zipcode" : "866-0065",
          "owner_type" : "市立",
-         "short_name" : "第五中学校"
+         "short_name" : "第五中学校",
+         "url" : "http://e.yatsushiro.jp/jhs-yat5/"
       },
       "八代市立第八中学校" : {
          "location_area" : "八代市",
@@ -201,19 +218,28 @@
          "short_name" : "長陽中学校"
       },
       "合志市立合志中学校" : {
+         "location" : "熊本県合志市豊岡955番地",
          "location_area" : "合志市",
+         "location_zipcode" : "861-1115",
          "owner_type" : "市立",
-         "short_name" : "合志中学校"
+         "short_name" : "合志中学校",
+         "url" : "http://www.higo.ed.jp/jhs/koshijhs/koshi/"
       },
       "合志市立西合志中学校" : {
+         "location" : "熊本県合志市野々島4393番地1",
          "location_area" : "合志市",
+         "location_zipcode" : "861-1103",
          "owner_type" : "市立",
-         "short_name" : "西合志中学校"
+         "short_name" : "西合志中学校",
+         "url" : "http://www.higo.ed.jp/jhs/nisigojh/"
       },
       "合志市立西合志南中学校" : {
+         "location" : "熊本県合志市須屋2956番地",
          "location_area" : "合志市",
+         "location_zipcode" : "861-1102",
          "owner_type" : "市立",
-         "short_name" : "西合志南中学校"
+         "short_name" : "西合志南中学校",
+         "url" : "http://www.higo.ed.jp/jhs/nisigosj/"
       },
       "和水町立三加和中学校" : {
          "location_area" : "玉名郡和水町",
@@ -236,9 +262,12 @@
          "short_name" : "多良木中学校"
       },
       "大津町立大津中学校" : {
+         "location" : "熊本県菊池郡大津町大字大津1270番地",
          "location_area" : "菊池郡大津町",
+         "location_zipcode" : "869-1233",
          "owner_type" : "町立",
-         "short_name" : "大津中学校"
+         "short_name" : "大津中学校",
+         "url" : "http://www.higo.ed.jp/jhs/oozujhs/"
       },
       "大津町立大津北中学校" : {
          "location_area" : "菊池郡大津町",
@@ -286,6 +315,7 @@
          "short_name" : "有明中学校"
       },
       "天草市立本渡中学校" : {
+         "location" : "熊本県天草市本渡町広瀬5番地‐110",
          "location_area" : "天草市",
          "owner_type" : "市立",
          "short_name" : "本渡中学校"
@@ -311,12 +341,16 @@
          "short_name" : "牛深中学校"
       },
       "天草市立牛深東中学校" : {
+         "location" : "熊本県天草市久玉町2364",
          "location_area" : "天草市",
+         "location_zipcode" : "863-1902",
          "owner_type" : "市立",
          "short_name" : "牛深東中学校"
       },
       "天草市立稜南中学校" : {
+         "location" : "熊本県天草市亀場町亀川1425",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0043",
          "owner_type" : "市立",
          "short_name" : "稜南中学校"
       },
@@ -331,9 +365,12 @@
          "short_name" : "網田中学校"
       },
       "宇土市立鶴城中学校" : {
+         "location" : "熊本県宇土市新小路町151番地",
          "location_area" : "宇土市",
+         "location_zipcode" : "869-0433",
          "owner_type" : "市立",
-         "short_name" : "鶴城中学校"
+         "short_name" : "鶴城中学校",
+         "url" : "http://www.city.uto.kumamoto.jp/kaku-tyu/"
       },
       "宇城市立三角中学校" : {
          "location_area" : "宇城市",
@@ -367,8 +404,12 @@
          "wikipedia_name" : "小国町立小国中学校 (熊本県)"
       },
       "尚絅中学校" : {
+         "location" : "熊本県熊本市九品寺二丁目6番78号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|50.8|N|130|43|2.4|E|",
+         "location_zipcode" : "862-8678",
          "owner_type" : "私立",
+         "url" : "http://www.shokei-gakuen.ac.jp/jh/",
          "wikipedia_name" : "尚絅中学校・高等学校"
       },
       "山江村立山江中学校" : {
@@ -382,9 +423,12 @@
          "short_name" : "清和中学校"
       },
       "山都町立矢部中学校" : {
+         "location" : "熊本県上益城郡山都町城平527",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3515",
          "owner_type" : "町立",
-         "short_name" : "矢部中学校"
+         "short_name" : "矢部中学校",
+         "url" : "http://www.higo.ed.jp/jhs/yabejhs/"
       },
       "山都町立蘇陽中学校" : {
          "location_area" : "上益城郡山都町",
@@ -392,9 +436,12 @@
          "short_name" : "蘇陽中学校"
       },
       "山鹿市立山鹿中学校" : {
+         "location" : "熊本県山鹿市山鹿446",
          "location_area" : "山鹿市",
+         "location_zipcode" : "861-0501",
          "owner_type" : "市立",
-         "short_name" : "山鹿中学校"
+         "short_name" : "山鹿中学校",
+         "url" : "http://www.higo.ed.jp/jhs/yamagajh/"
       },
       "山鹿市立米野岳中学校" : {
          "location_area" : "山鹿市",
@@ -427,8 +474,12 @@
          "short_name" : "御船中学校"
       },
       "文徳中学校" : {
+         "location" : "熊本県熊本市池田四丁目23番1号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|50|1.1|N|130|41|44.1|E|",
+         "location_zipcode" : "860-0082",
          "owner_type" : "私立",
+         "url" : "http://www.buntoku-j.ed.jp/",
          "wikipedia_name" : "文徳中学校・高等学校"
       },
       "水上村立水上中学校" : {
@@ -491,18 +542,29 @@
          "short_name" : "津奈木中学校"
       },
       "湯前町立湯前中学校" : {
+         "location" : "熊本県球磨郡湯前町2643番地",
          "location_area" : "球磨郡湯前町",
+         "location_zipcode" : "868-0623",
          "owner_type" : "町立",
-         "short_name" : "湯前中学校"
+         "short_name" : "湯前中学校",
+         "url" : "http://www.hitoyoshi.net/yuchu/"
       },
       "熊本マリスト学園中学校" : {
+         "location" : "熊本県熊本市健軍二丁目11番54号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|0.2|N|130|45|1.5|E|",
+         "location_zipcode" : "862-0911",
          "owner_type" : "私立",
+         "url" : "http://www.marist.ed.jp/",
          "wikipedia_name" : "熊本マリスト学園中学校・高等学校"
       },
       "熊本信愛女学院中学校" : {
+         "location" : "熊本県熊本市上林町3番18号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|48|30.1|N|130|42|39.8|E|",
+         "location_zipcode" : "860-8557",
          "owner_type" : "私立",
+         "url" : "http://www.kumamoto-shin-ai.ed.jp/",
          "wikipedia_name" : "熊本信愛女学院中学校・高等学校"
       },
       "熊本大学教育学部附属中学校" : {
@@ -510,214 +572,340 @@
          "wikipedia_name" : "熊本大学教育学部附属小学校・中学校"
       },
       "熊本市立三和中学校" : {
+         "location" : "熊本県熊本市上高橋1-4-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0048",
          "owner_type" : "市立",
-         "short_name" : "三和中学校"
+         "short_name" : "三和中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/sanwa/index.html"
       },
       "熊本市立下益城城南中学校" : {
+         "location" : "熊本県熊本市城南町宮地1020番地1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4202",
          "owner_type" : "市立",
-         "short_name" : "下益城城南中学校"
+         "short_name" : "下益城城南中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/shimojonanjh/"
       },
       "熊本市立二岡中学校" : {
+         "location" : "熊本県熊本市戸島3-15-2",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0981",
          "owner_type" : "市立",
-         "short_name" : "二岡中学校"
+         "short_name" : "二岡中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/futaokajh/index.htm"
       },
       "熊本市立五霊中学校" : {
+         "location" : "熊本県熊本市植木町一木163",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0135",
          "owner_type" : "市立",
-         "short_name" : "五霊中学校"
+         "short_name" : "五霊中学校",
+         "url" : "http://www.ueki-syousei.com/gakkou/goryou/"
       },
       "熊本市立井芹中学校" : {
+         "location" : "熊本県熊本市上熊本3-27-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0079",
          "owner_type" : "市立",
-         "short_name" : "井芹中学校"
+         "short_name" : "井芹中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/iserijh/index.htm"
       },
       "熊本市立京陵中学校" : {
+         "location" : "熊本県熊本市京町本丁1-14",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0081",
          "owner_type" : "市立",
-         "short_name" : "京陵中学校"
+         "short_name" : "京陵中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/keiryo/index.htm"
       },
       "熊本市立出水中学校" : {
+         "location" : "熊本県熊本市出水5丁目3-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0941",
          "owner_type" : "市立",
-         "short_name" : "出水中学校"
+         "short_name" : "出水中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/izumi/"
       },
       "熊本市立出水南中学校" : {
+         "location" : "熊本県熊本市出水7-86-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0941",
          "owner_type" : "市立",
-         "short_name" : "出水南中学校"
+         "short_name" : "出水南中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/izumiminami/index.htm"
       },
       "熊本市立力合中学校" : {
+         "location" : "熊本県熊本市島町5-8-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4133",
          "owner_type" : "市立",
-         "short_name" : "力合中学校"
+         "short_name" : "力合中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/rikigojh/index.htm"
       },
       "熊本市立北部中学校" : {
+         "location" : "熊本県熊本市鹿子木町1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5521",
          "owner_type" : "市立",
-         "short_name" : "北部中学校"
+         "short_name" : "北部中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/hokubujh/index.htm"
       },
       "熊本市立城南中学校" : {
+         "location" : "熊本県熊本市八幡8-1-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4113",
          "owner_type" : "市立",
-         "short_name" : "城南中学校"
+         "short_name" : "城南中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/jyonan/index.htm"
       },
       "熊本市立城西中学校" : {
+         "location" : "熊本県熊本市小島下町2093",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5284",
          "owner_type" : "市立",
-         "short_name" : "城西中学校"
+         "short_name" : "城西中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/joseijh/index.htm"
       },
       "熊本市立天明中学校" : {
+         "location" : "熊本県熊本市奥古閑町2146-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4125",
          "owner_type" : "市立",
-         "short_name" : "天明中学校"
+         "short_name" : "天明中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/tenmeijh/"
       },
       "熊本市立富合中学校" : {
+         "location" : "熊本県熊本市富合町平原56番地",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4154",
          "owner_type" : "市立",
-         "short_name" : "富合中学校"
+         "short_name" : "富合中学校",
+         "url" : "http://www.higo.ed.jp/jhs/tomiaijh/"
       },
       "熊本市立帯山中学校" : {
+         "location" : "熊本県熊本市帯山1-35-32",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0924",
          "owner_type" : "市立",
-         "short_name" : "帯山中学校"
+         "short_name" : "帯山中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/obiyama/index.htm"
       },
       "熊本市立日吉中学校" : {
+         "location" : "熊本県熊本市近見5-5-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4101",
          "owner_type" : "市立",
-         "short_name" : "日吉中学校"
+         "short_name" : "日吉中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/hiyoshijh/index.htm"
       },
       "熊本市立東町中学校" : {
+         "location" : "熊本県熊本市東町4-15-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0901",
          "owner_type" : "市立",
-         "short_name" : "東町中学校"
+         "short_name" : "東町中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/higashimachi/index.htm"
       },
       "熊本市立東部中学校" : {
+         "location" : "熊本県熊本市上南部2丁目21番1号",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8010",
          "owner_type" : "市立",
-         "short_name" : "東部中学校"
+         "short_name" : "東部中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/toubujh/"
       },
       "熊本市立東野中学校" : {
+         "location" : "熊本県熊本市東野3丁目6-2",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-2106",
          "owner_type" : "市立",
-         "short_name" : "東野中学校"
+         "short_name" : "東野中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/higashinojh/"
       },
       "熊本市立桜山中学校" : {
+         "location" : "熊本県熊本市黒髪5丁目13-1番地",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0862",
          "owner_type" : "市立",
-         "short_name" : "桜山中学校"
+         "short_name" : "桜山中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/sakurayamajh/index.htm"
       },
       "熊本市立桜木中学校" : {
+         "location" : "熊本県熊本市桜木4-13-23",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-2101",
          "owner_type" : "市立",
-         "short_name" : "桜木中学校"
+         "short_name" : "桜木中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/sakuragi/index.htm"
       },
       "熊本市立植木北中学校" : {
+         "location" : "熊本県熊本市植木町舟島455-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0114",
          "owner_type" : "市立",
-         "short_name" : "植木北中学校"
+         "short_name" : "植木北中学校",
+         "url" : "http://www.ueki-syousei.com/gakkou/uekikita/"
       },
       "熊本市立楠中学校" : {
+         "location" : "熊本県熊本市楠3-2-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8003",
          "owner_type" : "市立",
-         "short_name" : "楠中学校"
+         "short_name" : "楠中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/kusunokijh/index.html"
       },
       "熊本市立武蔵中学校" : {
+         "location" : "熊本県熊本市武蔵ケ丘4-19-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8001",
          "owner_type" : "市立",
-         "short_name" : "武蔵中学校"
+         "short_name" : "武蔵中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/musashi/index.htm"
       },
       "熊本市立江南中学校" : {
+         "location" : "熊本県熊本市本山町75",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0822",
          "owner_type" : "市立",
-         "short_name" : "江南中学校"
+         "short_name" : "江南中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/konan/index.htm"
       },
       "熊本市立江原中学校" : {
+         "location" : "熊本県熊本市琴平2-9-59",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0813",
          "owner_type" : "市立",
-         "short_name" : "江原中学校"
+         "short_name" : "江原中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/kogenjh/index.htm"
       },
       "熊本市立河内中学校" : {
+         "location" : "熊本県熊本市河内町船津2740-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5347",
          "owner_type" : "市立",
-         "short_name" : "河内中学校"
+         "short_name" : "河内中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/kawachijh/index.htm"
       },
       "熊本市立清水中学校" : {
+         "location" : "熊本県熊本市清水新地2-3-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8075",
          "owner_type" : "市立",
-         "short_name" : "清水中学校"
+         "short_name" : "清水中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/simizujh/index.htm"
       },
       "熊本市立湖東中学校" : {
+         "location" : "熊本県熊本市湖東1-13-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0909",
          "owner_type" : "市立",
-         "short_name" : "湖東中学校"
+         "short_name" : "湖東中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/kotojh/index.htm"
       },
       "熊本市立白川中学校" : {
+         "location" : "熊本県熊本市大江3丁目1番12号",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0971",
          "owner_type" : "市立",
-         "short_name" : "白川中学校"
+         "short_name" : "白川中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/shirakawa/"
       },
       "熊本市立竜南中学校" : {
+         "location" : "熊本県熊本市坪井16-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0863",
          "owner_type" : "市立",
-         "short_name" : "竜南中学校"
+         "short_name" : "竜南中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/ryunan/index.html"
       },
       "熊本市立花陵中学校" : {
+         "location" : "熊本県熊本市八島2-14-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860",
          "owner_type" : "市立",
-         "short_name" : "花陵中学校"
+         "short_name" : "花陵中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/karyo/index.html"
       },
       "熊本市立芳野中学校" : {
+         "location" : "熊本県熊本市河内町野出1420-46",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5343",
          "owner_type" : "市立",
-         "short_name" : "芳野中学校"
+         "short_name" : "芳野中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/yoshinojh/index.htm"
       },
       "熊本市立藤園中学校" : {
+         "location" : "熊本県熊本市千葉城町5番2号",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0001",
          "owner_type" : "市立",
-         "short_name" : "藤園中学校"
+         "short_name" : "藤園中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/touen/touen/"
       },
       "熊本市立西原中学校" : {
+         "location" : "熊本県熊本市保田窪4丁目9番1号",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0926",
          "owner_type" : "市立",
-         "short_name" : "西原中学校"
+         "short_name" : "西原中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/nisibarujh/"
       },
       "熊本市立西山中学校" : {
+         "location" : "熊本県熊本市島崎1丁目27-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0073",
          "owner_type" : "市立",
-         "short_name" : "西山中学校"
+         "short_name" : "西山中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/seizanjh/"
       },
       "熊本市立託麻中学校" : {
+         "location" : "熊本県熊本市出仲間6丁目4-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0963",
          "owner_type" : "市立",
-         "short_name" : "託麻中学校"
+         "short_name" : "託麻中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/takuma/"
       },
       "熊本市立錦ヶ丘中学校" : {
+         "location" : "熊本県熊本市錦ヶ丘22-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0912",
          "owner_type" : "市立",
-         "short_name" : "錦ヶ丘中学校"
+         "short_name" : "錦ヶ丘中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/nishikigaokajh/index.htm"
       },
       "熊本市立長嶺中学校" : {
+         "location" : "熊本県熊本市長嶺南7-21-40",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0932",
          "owner_type" : "市立",
-         "short_name" : "長嶺中学校"
+         "short_name" : "長嶺中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/nagamine/index.htm"
       },
       "熊本市立飽田中学校" : {
+         "location" : "熊本県熊本市孫代町72",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-5254",
          "owner_type" : "市立",
-         "short_name" : "飽田中学校"
+         "short_name" : "飽田中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/akitajh/index.htm"
       },
       "熊本市立鹿南中学校" : {
+         "location" : "熊本県熊本市植木町滴水1110",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-0133",
          "owner_type" : "市立",
-         "short_name" : "鹿南中学校"
+         "short_name" : "鹿南中学校",
+         "url" : "http://www.ueki-syousei.com/gakkou/kanan/"
       },
       "熊本市立龍田中学校" : {
+         "location" : "熊本県熊本市龍田7-8-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8006",
          "owner_type" : "市立",
-         "short_name" : "龍田中学校"
+         "short_name" : "龍田中学校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/j/tatudajh/index.html"
       },
       "熊本県立八代中学校" : {
          "location_area" : "八代市",
@@ -740,7 +928,9 @@
          "short_name" : "岱明中学校"
       },
       "玉名市立有明中学校" : {
+         "location" : "熊本県玉名市大浜町1765-8",
          "location_area" : "玉名市",
+         "location_zipcode" : "865-0055",
          "owner_type" : "市立",
          "short_name" : "有明中学校"
       },
@@ -750,7 +940,9 @@
          "short_name" : "玉南中学校"
       },
       "玉名市立玉名中学校" : {
+         "location" : "熊本県玉名市中尾380",
          "location_area" : "玉名市",
+         "location_zipcode" : "865-0063",
          "owner_type" : "市立",
          "short_name" : "玉名中学校"
       },
@@ -795,8 +987,12 @@
          "short_name" : "相良中学校"
       },
       "真和中学校" : {
+         "location" : "熊本県熊本市九品寺三丁目1番1号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|44.4|N|130|43|9.6|E|",
+         "location_zipcode" : "862-0976",
          "owner_type" : "私立",
+         "url" : "http://www.shinwa.ed.jp/",
          "wikipedia_name" : "真和中学校・高等学校"
       },
       "美里町立中央中学校" : {
@@ -830,7 +1026,9 @@
          "short_name" : "湯浦中学校"
       },
       "芦北町立田浦中学校" : {
+         "location" : "熊本県葦北郡芦北町田浦760",
          "location_area" : "葦北郡芦北町",
+         "location_zipcode" : "869-5302",
          "owner_type" : "町立",
          "short_name" : "田浦中学校"
       },
@@ -850,14 +1048,19 @@
          "short_name" : "都呂々中学校"
       },
       "荒尾市立荒尾海陽中学校" : {
+         "location" : "熊本県荒尾市荒尾1828",
          "location_area" : "荒尾市",
+         "location_zipcode" : "864-0041",
          "owner_type" : "市立",
          "short_name" : "荒尾海陽中学校"
       },
       "荒尾市立荒尾第三中学校" : {
+         "location" : "熊本県荒尾市本井手椿700",
          "location_area" : "荒尾市",
+         "location_zipcode" : "864-0012",
          "owner_type" : "市立",
-         "short_name" : "荒尾第三中学校"
+         "short_name" : "荒尾第三中学校",
+         "url" : "http://www.arao.ed.jp/~arao3jhs/index.html"
       },
       "荒尾市立荒尾第四中学校" : {
          "location_area" : "荒尾市",
@@ -890,14 +1093,20 @@
          "short_name" : "菊池南中学校"
       },
       "菊陽町立武蔵ヶ丘中学校" : {
+         "location" : "熊本県菊池郡菊陽町大字津久礼3518番地",
          "location_area" : "菊池郡菊陽町",
+         "location_zipcode" : "869-1101",
          "owner_type" : "町立",
-         "short_name" : "武蔵ヶ丘中学校"
+         "short_name" : "武蔵ヶ丘中学校",
+         "url" : "http://www.higo.ed.jp/jhs/kimusasi/"
       },
       "菊陽町立菊陽中学校" : {
+         "location" : "熊本県菊池郡菊陽町大字久保田2563番地",
          "location_area" : "菊池郡菊陽町",
+         "location_zipcode" : "869-1103",
          "owner_type" : "町立",
-         "short_name" : "菊陽中学校"
+         "short_name" : "菊陽中学校",
+         "url" : "http://www.kikuyo.ed.jp/kikuyou-jhs/"
       },
       "西原村立西原中学校" : {
          "location_area" : "阿蘇郡西原村",
@@ -920,7 +1129,10 @@
          "short_name" : "長洲中学校"
       },
       "阿蘇市立一の宮中学校" : {
+         "location" : "熊本県阿蘇市一の宮町宮地1669-2",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|57|02|N|131|07|21|E|",
+         "location_zipcode" : "869-2612",
          "owner_type" : "市立",
          "short_name" : "一の宮中学校"
       },
@@ -930,7 +1142,10 @@
          "short_name" : "波野中学校"
       },
       "阿蘇市立阿蘇中学校" : {
+         "location" : "熊本県阿蘇市黒川1266",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|56|09|N|131|04|58|E|",
+         "location_zipcode" : "869-2225",
          "owner_type" : "市立",
          "short_name" : "阿蘇中学校"
       },
@@ -952,8 +1167,11 @@
    },
    "primary_and_secondary_schools" : {
       "益城町及び御船町中小学校組合立袴野小中学校" : {
+         "location" : "熊本県上益城郡益城町大字福原4259",
          "location_area" : "上益城郡",
-         "owner_type" : "公立"
+         "location_zipcode" : "861-2211",
+         "owner_type" : "公立",
+         "url" : "http://www.higo.ed.jp/jhs/hakamano/"
       }
    }
 }

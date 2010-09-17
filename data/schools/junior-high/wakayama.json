@@ -95,7 +95,10 @@
          "short_name" : "河根中学校"
       },
       "初芝橋本中学校" : {
+         "location" : "和歌山県橋本市小峰台2-6-1",
+         "location_zipcode" : "648-0005",
          "owner_type" : "私立",
+         "url" : "http://www.hatsushiba.ed.jp/hatsuhashi/",
          "wikipedia_name" : "初芝橋本中学校・高等学校"
       },
       "北山村立北山中学校" : {
@@ -134,8 +137,11 @@
          "short_name" : "明神中学校"
       },
       "和歌山信愛女子短期大学附属中学校" : {
+         "location" : "和歌山県和歌山市屋形町2丁目22",
+         "location_zipcode" : "640-8151",
          "owner_type" : "私立",
          "short_name" : "和歌山信愛女子短大附属中学校",
+         "url" : "http://www.shin-ai.ac.jp/",
          "wikipedia_name" : "和歌山信愛女子短期大学附属中学校・高等学校"
       },
       "和歌山大学教育学部附属中学校" : {
@@ -147,9 +153,13 @@
          "short_name" : "伏虎中学校"
       },
       "和歌山市立加太中学校" : {
+         "location" : "和歌山県和歌山市加太2692-1",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|16|30|N|135|04|38|E|",
+         "location_zipcode" : "640-0103",
          "owner_type" : "市立",
-         "short_name" : "加太中学校"
+         "short_name" : "加太中学校",
+         "url" : "http://www.wakayama-wky.ed.jp/kada/index.html"
       },
       "和歌山市立城東中学校" : {
          "location_area" : "和歌山市",
@@ -187,14 +197,20 @@
          "short_name" : "東和中学校"
       },
       "和歌山市立楠見中学校" : {
+         "location" : "和歌山県和歌山市善明寺706",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8471",
          "owner_type" : "市立",
-         "short_name" : "楠見中学校"
+         "short_name" : "楠見中学校",
+         "url" : "http://www.wakayama-wky.ed.jp/kusumi/"
       },
       "和歌山市立河北中学校" : {
+         "location" : "和歌山県和歌山市北島370-1",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8403",
          "owner_type" : "市立",
-         "short_name" : "河北中学校"
+         "short_name" : "河北中学校",
+         "url" : "http://www.wakayama-wky.ed.jp/kahoku/"
       },
       "和歌山市立河西中学校" : {
          "location_area" : "和歌山市",
@@ -202,9 +218,12 @@
          "short_name" : "河西中学校"
       },
       "和歌山市立紀之川中学校" : {
+         "location" : "和歌山県和歌山市有本668-1",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640",
          "owner_type" : "市立",
-         "short_name" : "紀之川中学校"
+         "short_name" : "紀之川中学校",
+         "url" : "http://www.wakayama-wky.ed.jp/kinokawa/index.html"
       },
       "和歌山市立紀伊中学校" : {
          "location_area" : "和歌山市",
@@ -237,15 +256,22 @@
          "short_name" : "高積中学校"
       },
       "和歌山県立古佐田丘中学校" : {
+         "location" : "和歌山県橋本市古佐田4-10-1",
          "location_area" : "橋本市",
+         "location_zipcode" : "648-0065",
          "owner_type" : "県立",
          "short_name" : "古佐田丘中学校",
+         "url" : "http://www.hashimoto-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立古佐田丘中学校・橋本高等学校"
       },
       "和歌山県立向陽中学校" : {
+         "location" : "和歌山県和歌山市太田127",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|13|39.4|N|135|11|59.2|E|",
+         "location_zipcode" : "640-8323",
          "owner_type" : "県立",
          "short_name" : "向陽中学校",
+         "url" : "http://www.koyo-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立向陽中学校・高等学校"
       },
       "和歌山県立日高高等学校附属中学校" : {
@@ -255,15 +281,22 @@
          "wikipedia_name" : "和歌山県立日高高等学校"
       },
       "和歌山県立桐蔭中学校" : {
+         "location" : "和歌山県和歌山市吹上5-6-18",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|13|6.1|N|135|10|26.9|E|",
+         "location_zipcode" : "640-8137",
          "owner_type" : "県立",
          "short_name" : "桐蔭中学校",
+         "url" : "http://www.toin-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立桐蔭中学校・高等学校"
       },
       "和歌山県立田辺中学校" : {
+         "location" : "和歌山県田辺市学園1-71",
          "location_area" : "田辺市",
+         "location_wikipedia_latlon" : "|33|43|27.7|N|135|23|21.6|E|",
          "owner_type" : "県立",
          "short_name" : "田辺中学校",
+         "url" : "http://www.tanabe-h.wakayama-c.ed.jp/high.htm",
          "wikipedia_name" : "和歌山県立田辺中学校・高等学校"
       },
       "太地町立太地中学校" : {
@@ -272,9 +305,13 @@
          "short_name" : "太地中学校"
       },
       "岩出市立岩出中学校" : {
+         "location" : "和歌山県岩出市西野65",
          "location_area" : "岩出市",
+         "location_wikipedia_latlon" : "|34|15|42|N|135|18|26|E|",
+         "location_zipcode" : "649-6235",
          "owner_type" : "市立",
-         "short_name" : "岩出中学校"
+         "short_name" : "岩出中学校",
+         "url" : "http://www.city.iwade.wakayama.jp/kakugakkou20/iwatyuuhp20/index.html"
       },
       "岩出市立岩出第二中学校" : {
          "location_area" : "岩出市",
@@ -366,7 +403,11 @@
          "short_name" : "日高中学校"
       },
       "智辯学園和歌山中学校" : {
+         "location" : "和歌山県和歌山市冬野2066-1",
+         "location_wikipedia_latlon" : "|34|10|27.0|N|135|12|43.2|E|",
+         "location_zipcode" : "640-0392",
          "owner_type" : "私立",
+         "url" : "http://www.chiben.ac.jp/wakayama/",
          "wikipedia_name" : "智辯学園和歌山小学校・中学校・高等学校"
       },
       "有田川町立八幡中学校" : {
@@ -590,7 +631,9 @@
          "short_name" : "三舞中学校"
       },
       "白浜町立富田中学校" : {
+         "location" : "和歌山県西牟婁郡白浜町栄320",
          "location_area" : "西牟婁郡白浜町",
+         "location_zipcode" : "649-2332",
          "owner_type" : "町立",
          "short_name" : "富田中学校"
       },
@@ -605,7 +648,10 @@
          "short_name" : "白浜中学校"
       },
       "紀の川市立打田中学校" : {
+         "location" : "和歌山県紀の川市東大井345",
          "location_area" : "紀の川市",
+         "location_wikipedia_latlon" : "|34|16|07|N|135|21|49|E|",
+         "location_zipcode" : "649",
          "owner_type" : "市立",
          "short_name" : "打田中学校"
       },
@@ -688,7 +734,11 @@
          "short_name" : "那智中学校"
       },
       "開智中学校" : {
+         "location" : "和歌山県和歌山市直川113-2",
+         "location_wikipedia_latlon" : "|34|15|34.7|N|135|12|38.6|E|",
+         "location_zipcode" : "640-8481",
          "owner_type" : "私立",
+         "url" : "http://www.kaichi.ed.jp/",
          "wikipedia_name" : "開智中学校・高等学校"
       },
       "高野町立富貴中学校" : {

@@ -7,24 +7,34 @@
    },
    "junior_high_schools" : {
       "えびの市立上江中学校" : {
+         "location" : "宮崎県えびの市大字上江1703番地",
          "location_area" : "えびの市",
+         "location_zipcode" : "889-4304",
          "owner_type" : "市立",
          "short_name" : "上江中学校"
       },
       "えびの市立加久藤中学校" : {
+         "location" : "宮崎県えびの市大字栗下1269番地1",
          "location_area" : "えびの市",
+         "location_zipcode" : "889-4221",
          "owner_type" : "市立",
-         "short_name" : "加久藤中学校"
+         "short_name" : "加久藤中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kakuto-j/"
       },
       "えびの市立真幸中学校" : {
+         "location" : "宮崎県えびの市大字向江850番地",
          "location_area" : "えびの市",
+         "location_zipcode" : "889-4151",
          "owner_type" : "市立",
          "short_name" : "真幸中学校"
       },
       "えびの市立飯野中学校" : {
+         "location" : "宮崎県えびの市大字原田190番地",
          "location_area" : "えびの市",
+         "location_zipcode" : "889-4301",
          "owner_type" : "市立",
-         "short_name" : "飯野中学校"
+         "short_name" : "飯野中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/ebino-iino-j/"
       },
       "三股町立三股中学校" : {
          "location_area" : "北諸県郡三股町",
@@ -32,141 +42,229 @@
          "short_name" : "三股中学校"
       },
       "串間市立北方中学校" : {
+         "location" : "宮崎県串間市大北方3768番地",
          "location_area" : "串間市",
+         "location_zipcode" : "888-0005",
          "owner_type" : "市立",
          "short_name" : "北方中学校"
       },
       "串間市立大束中学校" : {
+         "location" : "宮崎県串間市大字大平5714番地",
          "location_area" : "串間市",
+         "location_zipcode" : "889-3532",
          "owner_type" : "市立",
-         "short_name" : "大束中学校"
+         "short_name" : "大束中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kushima-ohtsuka-j/sb/"
       },
       "串間市立市木中学校" : {
+         "location" : "宮崎県串間市大字市木1835番地",
          "location_area" : "串間市",
+         "location_zipcode" : "889-3311",
          "owner_type" : "市立",
-         "short_name" : "市木中学校"
+         "short_name" : "市木中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kushima-ichiki-j/sb/"
       },
       "串間市立本城中学校" : {
+         "location" : "宮崎県串間市大字本城5951番地2",
          "location_area" : "串間市",
+         "location_zipcode" : "888-0008",
          "owner_type" : "市立",
-         "short_name" : "本城中学校"
+         "short_name" : "本城中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kushima-honjo-j/sb/"
       },
       "串間市立福島中学校" : {
+         "location" : "宮崎県串間市大字西方8607番地",
          "location_area" : "串間市",
+         "location_zipcode" : "888-0001",
          "owner_type" : "市立",
-         "short_name" : "福島中学校"
+         "short_name" : "福島中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kushima-fukushima-j/sb/"
       },
       "串間市立都井中学校" : {
+         "location" : "宮崎県串間市大字都井4766番地",
          "location_area" : "串間市",
+         "location_zipcode" : "888-0222",
          "owner_type" : "市立",
-         "short_name" : "都井中学校"
+         "short_name" : "都井中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kushima-toi-j/"
       },
       "五ヶ瀬町立三ヶ所中学校" : {
+         "location" : "宮崎県西臼杵郡五ヶ瀬町大字三ヶ所11530番地",
          "location_area" : "西臼杵郡五ヶ瀬町",
+         "location_zipcode" : "882-1203",
          "owner_type" : "町立",
-         "short_name" : "三ヶ所中学校"
+         "short_name" : "三ヶ所中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/sangasho-j/"
       },
       "五ヶ瀬町立鞍岡中学校" : {
+         "location" : "宮崎県西臼杵郡五ヶ瀬町大字鞍岡5929番地",
          "location_area" : "西臼杵郡五ヶ瀬町",
+         "location_zipcode" : "882-1201",
          "owner_type" : "町立",
-         "short_name" : "鞍岡中学校"
+         "short_name" : "鞍岡中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kuraoka-j/"
       },
       "国富町立八代中学校" : {
+         "location" : "宮崎県東諸県郡国富町大字八代南俣1710番地",
          "location_area" : "東諸県郡国富町",
+         "location_wikipedia_latlon" : "|32|01|25.0|N|131|18|36.1|E|",
+         "location_zipcode" : "880-1223",
          "owner_type" : "町立",
-         "short_name" : "八代中学校"
+         "short_name" : "八代中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/yatsushiro-j/"
       },
       "国富町立木脇中学校" : {
+         "location" : "宮崎県東諸県郡国富町大字木脇1707番地",
          "location_area" : "東諸県郡国富町",
+         "location_wikipedia_latlon" : "|31|59|16.0|N|131|21|30|E|",
+         "location_zipcode" : "880-1113",
          "owner_type" : "町立",
-         "short_name" : "木脇中学校"
+         "short_name" : "木脇中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kiwaki-j/"
       },
       "国富町立本庄中学校" : {
+         "location" : "宮崎県東諸県郡国富町大字本庄6072番地",
          "location_area" : "東諸県郡国富町",
+         "location_zipcode" : "880-1101",
          "owner_type" : "町立",
-         "short_name" : "本庄中学校"
+         "short_name" : "本庄中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kunitomi-honjo-j/"
       },
       "宮崎大学教育文化学部附属中学校" : {
-         "owner_type" : "国立"
+         "location" : "宮崎県宮崎市花殿町7-67",
+         "location_zipcode" : "880-0026",
+         "owner_type" : "国立",
+         "url" : "http://www.miyazaki-u.ac.jp/jhs/"
       },
       "宮崎学園中学校" : {
+         "location" : "宮崎県宮崎市昭和町3",
+         "location_zipcode" : "880-8503",
          "owner_type" : "私立",
+         "url" : "http://www.miyagaku.ed.jp/",
          "wikipedia_name" : "宮崎学園中学校・高等学校"
       },
       "宮崎市立久峰中学校" : {
+         "location" : "宮崎市佐土原町下田島21341番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0211",
          "owner_type" : "市立",
-         "short_name" : "久峰中学校"
+         "short_name" : "久峰中学校",
+         "url" : "http://www.mcnet.ed.jp/hisamine-c/"
       },
       "宮崎市立住吉中学校" : {
+         "location" : "宮崎県宮崎市大字島之内7608番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0121",
          "owner_type" : "市立",
-         "short_name" : "住吉中学校"
+         "short_name" : "住吉中学校",
+         "url" : "http://www.mcnet.ed.jp/sumiyoshi-c/"
       },
       "宮崎市立佐土原中学校" : {
+         "location" : "宮崎市佐土原町上田島8476番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0301",
          "owner_type" : "市立",
-         "short_name" : "佐土原中学校"
+         "short_name" : "佐土原中学校",
+         "url" : "http://www.mcnet.ed.jp//sadowara-c/"
       },
       "宮崎市立加納中学校" : {
+         "location" : "宮崎県宮崎市清武町加納乙1040番地",
          "location_area" : "宮崎市",
+         "location_wikipedia_latlon" : "|31|52|42|N|131|23|47|E|",
+         "location_zipcode" : "889-1605",
          "owner_type" : "市立",
-         "short_name" : "加納中学校"
+         "short_name" : "加納中学校",
+         "url" : "http://www.mcnet.ed.jp/kanou-c/"
       },
       "宮崎市立大塚中学校" : {
+         "location" : "宮崎市大塚町鎌ヶ迫2296番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0951",
          "owner_type" : "市立",
-         "short_name" : "大塚中学校"
+         "short_name" : "大塚中学校",
+         "url" : "http://www.mcnet.ed.jp/ohtsuka-c/"
       },
       "宮崎市立大宮中学校" : {
+         "location" : "宮崎県宮崎市下北方町5945番地",
          "location_area" : "宮崎市",
+         "location_wikipedia_latlon" : "|31|56|31.8|N|131|25|07.9|E|",
+         "location_zipcode" : "880-0035",
          "owner_type" : "市立",
-         "short_name" : "大宮中学校"
+         "school_area" : "宮崎市立大宮小学校",
+         "short_name" : "大宮中学校",
+         "url" : "http://www.mcnet.ed.jp/ohmiya-c/"
       },
       "宮崎市立大淀中学校" : {
+         "location" : "宮崎県宮崎市天満1丁目2番6号",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0936",
          "owner_type" : "市立",
-         "short_name" : "大淀中学校"
+         "short_name" : "大淀中学校",
+         "url" : "http://www.mcnet.ed.jp/ohyodo-c/"
       },
       "宮崎市立宮崎中学校" : {
+         "location" : "宮崎県宮崎市永楽町43番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0872",
          "owner_type" : "市立",
-         "short_name" : "宮崎中学校"
+         "short_name" : "宮崎中学校",
+         "url" : "http://www.mcnet.ed.jp/miyazaki-c/"
       },
       "宮崎市立宮崎北中学校" : {
+         "location" : "宮崎県宮崎市大字大瀬町247番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0045",
          "owner_type" : "市立",
-         "short_name" : "宮崎北中学校"
+         "short_name" : "宮崎北中学校",
+         "url" : "http://www.mcnet.ed.jp/miyazaki-kita-c/"
       },
       "宮崎市立宮崎東中学校" : {
+         "location" : "宮崎県宮崎市江平東2丁目7番9号",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0816",
          "owner_type" : "市立",
-         "short_name" : "宮崎東中学校"
+         "short_name" : "宮崎東中学校",
+         "url" : "http://www.mcnet.ed.jp/miyazaki-higashi-c/"
       },
       "宮崎市立宮崎西中学校" : {
+         "location" : "宮崎県宮崎市原町1番4号",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0007",
          "owner_type" : "市立",
-         "short_name" : "宮崎西中学校"
+         "short_name" : "宮崎西中学校",
+         "url" : "http://www.mcnet.ed.jp/miyazaki-nishi-c/"
       },
       "宮崎市立広瀬中学校" : {
+         "location" : "宮崎市佐土原町下田島20305番地12",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0211",
          "owner_type" : "市立",
-         "short_name" : "広瀬中学校"
+         "short_name" : "広瀬中学校",
+         "url" : "http://www.mcnet.ed.jp/hirose-c/"
       },
       "宮崎市立木花中学校" : {
+         "location" : "宮崎県宮崎市学園木花台南1丁目1番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-2153",
          "owner_type" : "市立",
-         "short_name" : "木花中学校"
+         "short_name" : "木花中学校",
+         "url" : "http://www.mcnet.ed.jp/kibana-c/"
       },
       "宮崎市立本郷中学校" : {
+         "location" : "宮崎県宮崎市大字本郷南方5460番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0921",
          "owner_type" : "市立",
-         "short_name" : "本郷中学校"
+         "short_name" : "本郷中学校",
+         "url" : "http://www.mcnet.ed.jp/hongo-c/"
       },
       "宮崎市立東大宮中学校" : {
+         "location" : "宮崎県宮崎市村角町島ノ前1346番地1",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0837",
          "owner_type" : "市立",
-         "short_name" : "東大宮中学校"
+         "short_name" : "東大宮中学校",
+         "url" : "http://www.mcnet.ed.jp/higashi-ohmiya-c/"
       },
       "宮崎市立檍中学校" : {
          "location_area" : "宮崎市",
@@ -174,68 +272,105 @@
          "short_name" : "檍中学校"
       },
       "宮崎市立清武中学校" : {
+         "location" : "宮崎県宮崎市清武町今泉甲6980番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "889-1602",
          "owner_type" : "市立",
          "short_name" : "清武中学校"
       },
       "宮崎市立生目中学校" : {
+         "location" : "宮崎県宮崎市大字跡江3131番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-2101",
          "owner_type" : "市立",
-         "short_name" : "生目中学校"
+         "short_name" : "生目中学校",
+         "url" : "http://www.mcnet.ed.jp/ikime-c/"
       },
       "宮崎市立生目南中学校" : {
+         "location" : "宮崎県宮崎市大字浮田662番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-2104",
          "owner_type" : "市立",
-         "short_name" : "生目南中学校"
+         "short_name" : "生目南中学校",
+         "url" : "http://www.mcnet.ed.jp/ikime-minami-c/html/"
       },
       "宮崎市立生目台中学校" : {
+         "location" : "宮崎県宮崎市生目台東4丁目1番地1",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0942",
          "owner_type" : "市立",
-         "short_name" : "生目台中学校"
+         "short_name" : "生目台中学校",
+         "url" : "http://www.mcnet.ed.jp/ikimedai-c/"
       },
       "宮崎市立田野中学校" : {
+         "location" : "宮崎県宮崎市田野町甲2826番地3",
          "location_area" : "宮崎市",
+         "location_zipcode" : "889-1701",
          "owner_type" : "市立",
-         "short_name" : "田野中学校"
+         "short_name" : "田野中学校",
+         "url" : "http://www.mcnet.ed.jp/tano-c/"
       },
       "宮崎市立赤江中学校" : {
+         "location" : "宮崎県宮崎市月見ヶ丘1丁目25番1号",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0926",
          "owner_type" : "市立",
-         "short_name" : "赤江中学校"
+         "short_name" : "赤江中学校",
+         "url" : "http://www.mcnet.ed.jp/akae-c/"
       },
       "宮崎市立赤江東中学校" : {
+         "location" : "宮崎県宮崎市大字田吉1031番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "880-0911",
          "owner_type" : "市立",
-         "short_name" : "赤江東中学校"
+         "short_name" : "赤江東中学校",
+         "url" : "http://www.mcnet.ed.jp/akae-higashi-c/"
       },
       "宮崎市立青島中学校" : {
+         "location" : "宮崎県宮崎市大字折生迫4828番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "889-2164",
          "owner_type" : "市立",
-         "short_name" : "青島中学校"
+         "short_name" : "青島中学校",
+         "url" : "http://www.mcnet.ed.jp/aoshima-c/"
       },
       "宮崎市立高岡中学校" : {
+         "location" : "宮崎県宮崎市高岡町内山2700番地",
          "location_area" : "宮崎市",
+         "location_zipcode" : "889-1701",
          "owner_type" : "市立",
-         "short_name" : "高岡中学校"
+         "short_name" : "高岡中学校",
+         "url" : "http://www.mcnet.ed.jp/takaoka-c/"
       },
       "宮崎日本大学中学校" : {
+         "location" : "宮崎県宮崎市島之内6822-2",
+         "location_zipcode" : "880-0121",
          "owner_type" : "私立",
+         "url" : "http://www.m-nichidai.com/",
          "wikipedia_name" : "宮崎日本大学中学校・高等学校"
       },
       "宮崎県立宮崎西高等学校附属中学校" : {
          "location_area" : "宮崎市",
+         "location_wikipedia_latlon" : "|31|54|27.9|N|131|23|9.6|E|",
          "owner_type" : "県立",
          "short_name" : "宮崎西高校附属中学校",
          "wikipedia_name" : "宮崎県立宮崎西高等学校・附属中学校"
       },
       "宮崎県立都城泉ヶ丘高等学校附属中学校" : {
+         "location" : "宮崎県都城市妻ヶ丘町27街区15号",
          "location_area" : "都城市",
+         "location_wikipedia_latlon" : "|31|43|49.6|N|131|4|36.1|E|",
+         "location_zipcode" : "885-0033",
          "owner_type" : "県立",
          "short_name" : "都城泉ヶ丘高校附属中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/miyakonojoizumigaoka-h/",
          "wikipedia_name" : "宮崎県立都城泉ヶ丘高等学校・附属中学校"
       },
       "宮崎第一中学校" : {
+         "location" : "宮崎県宮崎市大字郡司分甲767",
+         "location_zipcode" : "880-0924",
          "owner_type" : "私立",
+         "url" : "http://www.miyaichi.ed.jp/Daiichi_Tyuu/",
          "wikipedia_name" : "宮崎第一中学校・高等学校"
       },
       "小林市立三松中学校" : {
@@ -249,9 +384,12 @@
          "short_name" : "内山中学校"
       },
       "小林市立小林中学校" : {
+         "location" : "宮崎県小林市細野565番地1",
          "location_area" : "小林市",
+         "location_zipcode" : "886-0004",
          "owner_type" : "市立",
-         "short_name" : "小林中学校"
+         "short_name" : "小林中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kobayashi-kobayashi-j/sb/"
       },
       "小林市立東方中学校" : {
          "location_area" : "小林市",
@@ -264,9 +402,12 @@
          "short_name" : "永久津中学校"
       },
       "小林市立紙屋中学校" : {
+         "location" : "宮崎県小林市野尻町紙屋1754番地",
          "location_area" : "小林市",
+         "location_zipcode" : "886-0211",
          "owner_type" : "市立",
-         "short_name" : "紙屋中学校"
+         "short_name" : "紙屋中学校",
+         "url" : "http://www.nojiri-town.jp/web/gakkou/gakkou-kamiya-cyuu.html"
       },
       "小林市立細野中学校" : {
          "location_area" : "小林市",
@@ -279,9 +420,12 @@
          "short_name" : "西小林中学校"
       },
       "小林市立野尻中学校" : {
+         "location" : "宮崎県小林市野尻町東麓2570番地4",
          "location_area" : "小林市",
+         "location_zipcode" : "886-0212",
          "owner_type" : "市立",
-         "short_name" : "野尻中学校"
+         "short_name" : "野尻中学校",
+         "url" : "http://www.nojiri-town.jp/web/gakkou/gakkou-nojiri-cyuu.html"
       },
       "小林市立須木中学校" : {
          "location_area" : "小林市",
@@ -289,83 +433,126 @@
          "short_name" : "須木中学校"
       },
       "尚学館中学校" : {
+         "location" : "宮崎県延岡市大峡町7820",
+         "location_wikipedia_latlon" : "|32|37|35.5|N|131|40|38.3|E|",
+         "location_zipcode" : "882-0001",
          "owner_type" : "私立",
+         "url" : "http://www.shogakkan.jp/",
          "wikipedia_name" : "尚学館中学校・高等部"
       },
       "川南町立唐瀬原中学校" : {
+         "location" : "宮崎県児湯郡川南町大字川南23566番地1",
          "location_area" : "児湯郡川南町",
+         "location_zipcode" : "889-1301",
          "owner_type" : "町立",
-         "short_name" : "唐瀬原中学校"
+         "short_name" : "唐瀬原中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/karasebaru-j/"
       },
       "川南町立国光原中学校" : {
+         "location" : "宮崎県児湯郡川南町大字川南23566番地1",
          "location_area" : "児湯郡川南町",
+         "location_zipcode" : "889-1301",
          "owner_type" : "町立",
          "short_name" : "国光原中学校"
       },
       "延岡市立三川内中学校" : {
+         "location" : "宮崎県延岡市北浦町三川内2787番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "889-0304",
          "owner_type" : "市立",
-         "short_name" : "三川内中学校"
+         "short_name" : "三川内中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/mikawauchi-j/"
       },
       "延岡市立北川中学校" : {
+         "location" : "宮崎県延岡市北川町川内名7248番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "889-0101",
          "owner_type" : "市立",
-         "short_name" : "北川中学校"
+         "short_name" : "北川中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/myz-kitagawa-j/"
       },
       "延岡市立北方中学校" : {
+         "location" : "宮崎県延岡市北方町川水流卯972番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0125",
          "owner_type" : "市立",
-         "short_name" : "北方中学校"
+         "short_name" : "北方中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kitakata-kitakata-j/"
       },
       "延岡市立北浦中学校" : {
+         "location" : "宮崎県延岡市北浦町古江2270番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "889-0301",
          "owner_type" : "市立",
          "short_name" : "北浦中学校"
       },
       "延岡市立南中学校" : {
+         "location" : "宮崎県延岡市緑ヶ丘3丁目6番地1",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0863",
          "owner_type" : "市立",
          "short_name" : "南中学校"
       },
       "延岡市立南方中学校" : {
+         "location" : "宮崎県延岡市細見町2994番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0074",
          "owner_type" : "市立",
          "short_name" : "南方中学校"
       },
       "延岡市立土々呂中学校" : {
+         "location" : "宮崎県延岡市松原町3丁目8933-1",
          "location_area" : "延岡市",
+         "location_wikipedia_latlon" : "|32|31|17|N|131|41|04|E|",
+         "location_zipcode" : "889-0511",
          "owner_type" : "市立",
          "short_name" : "土々呂中学校"
       },
       "延岡市立岡富中学校" : {
+         "location" : "宮崎県延岡市本小路75番地2",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0812",
          "owner_type" : "市立",
          "short_name" : "岡富中学校"
       },
       "延岡市立島野浦中学校" : {
+         "location" : "宮崎県延岡市島浦町322番地4",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0096",
          "owner_type" : "市立",
-         "short_name" : "島野浦中学校"
+         "short_name" : "島野浦中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/shimanoura-j/"
       },
       "延岡市立延岡中学校" : {
+         "location" : "宮崎県延岡市浜砂1丁目6番1号",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0851",
          "owner_type" : "市立",
          "short_name" : "延岡中学校"
       },
       "延岡市立恒富中学校" : {
+         "location" : "宮崎県延岡市古城町4丁目149番地",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0837",
          "owner_type" : "市立",
-         "short_name" : "恒富中学校"
+         "short_name" : "恒富中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/tsunetomi-j/"
       },
       "延岡市立旭中学校" : {
+         "location" : "宮崎県延岡市富美山町298番地1",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0051",
          "owner_type" : "市立",
-         "short_name" : "旭中学校"
+         "short_name" : "旭中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/nobeoka-asahi-j/"
       },
       "延岡市立東海中学校" : {
+         "location" : "宮崎県延岡市無鹿町1丁目2218番地1",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0021",
          "owner_type" : "市立",
-         "short_name" : "東海中学校"
+         "short_name" : "東海中学校",
+         "url" : "http://cms.miyazaki-c.ed.jp/4707/"
       },
       "延岡市立浦城中学校" : {
          "location_area" : "延岡市",
@@ -378,27 +565,40 @@
          "short_name" : "熊野江中学校"
       },
       "延岡市立西階中学校" : {
+         "location" : "宮崎県延岡市西階町1丁目4042番地3",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0804",
          "owner_type" : "市立",
-         "short_name" : "西階中学校"
+         "short_name" : "西階中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/nishishina-j/"
       },
       "延岡市立黒岩中学校" : {
+         "location" : "宮崎県延岡市大野町750番地イ",
          "location_area" : "延岡市",
+         "location_zipcode" : "882-0086",
          "owner_type" : "市立",
-         "short_name" : "黒岩中学校"
+         "short_name" : "黒岩中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/nobeoka-kuroiwa-j/"
       },
       "新富町立上新田中学校" : {
+         "location" : "宮崎県児湯郡新富町大字新田17053番地",
          "location_area" : "児湯郡新富町",
+         "location_zipcode" : "889-1406",
          "owner_type" : "町立",
          "short_name" : "上新田中学校"
       },
       "新富町立富田中学校" : {
+         "location" : "宮崎県児湯郡新富町富田東二丁目30番地",
          "location_area" : "児湯郡新富町",
+         "location_zipcode" : "889-1412",
          "owner_type" : "町立",
-         "short_name" : "富田中学校"
+         "short_name" : "富田中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/shintomi-tonda-j/"
       },
       "新富町立新田中学校" : {
+         "location" : "宮崎県児湯郡新富町大字新田5795番地",
          "location_area" : "児湯郡新富町",
+         "location_zipcode" : "889-1406",
          "owner_type" : "町立",
          "short_name" : "新田中学校"
       },
@@ -416,9 +616,12 @@
          "short_name" : "北郷中学校"
       },
       "日南市立南郷中学校" : {
+         "location" : "宮崎県日南市南郷町中村乙6142番地",
          "location_area" : "日南市",
+         "location_zipcode" : "889-3204",
          "owner_type" : "市立",
-         "short_name" : "南郷中学校"
+         "short_name" : "南郷中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/myz-minaminakagun-nango-j/"
       },
       "日南市立吾田中学校" : {
          "location_area" : "日南市",
@@ -431,9 +634,12 @@
          "short_name" : "東郷中学校"
       },
       "日南市立榎原中学校" : {
+         "location" : "宮崎県日南市南郷町榎原甲482番地",
          "location_area" : "日南市",
+         "location_zipcode" : "889-3215",
          "owner_type" : "市立",
-         "short_name" : "榎原中学校"
+         "short_name" : "榎原中学校",
+         "url" : "http://cms.miyazaki-c.ed.jp/4225/htdocs/"
       },
       "日南市立油津中学校" : {
          "location_area" : "日南市",
@@ -441,9 +647,12 @@
          "short_name" : "油津中学校"
       },
       "日南市立細田中学校" : {
+         "location" : "宮崎県日南市大字上方1211番地",
          "location_area" : "日南市",
+         "location_zipcode" : "889-3151",
          "owner_type" : "市立",
-         "short_name" : "細田中学校"
+         "short_name" : "細田中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/hosoda-j/"
       },
       "日南市立酒谷中学校" : {
          "location_area" : "日南市",
@@ -461,7 +670,11 @@
          "short_name" : "鵜戸中学校"
       },
       "日向学院中学校" : {
+         "location" : "宮崎市大和町110",
+         "location_wikipedia_latlon" : "|31|55|4.7|N|131|26|11.9|E|",
+         "location_zipcode" : "880-0878",
          "owner_type" : "私立",
+         "url" : "http://www.hyugagakuin.ac.jp/",
          "wikipedia_name" : "日向学院中学校・高等学校"
       },
       "日向市立坪谷中学校" : {
@@ -476,14 +689,20 @@
          "wikipedia_name" : "日向市立大王谷学園"
       },
       "日向市立富島中学校" : {
+         "location" : "宮崎県日向市大字日知屋8272番地2",
          "location_area" : "日向市",
+         "location_zipcode" : "883-0062",
          "owner_type" : "市立",
-         "short_name" : "富島中学校"
+         "short_name" : "富島中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/tomishima-j/"
       },
       "日向市立岩脇中学校" : {
+         "location" : "宮崎県日向市大字平岩33-3",
          "location_area" : "日向市",
+         "location_zipcode" : "883-0022",
          "owner_type" : "市立",
          "short_name" : "岩脇中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/hyuga-hiraiwa-e/",
          "wikipedia_name" : "日向市小中一貫教育特区平岩小中学校"
       },
       "日向市立日向中学校" : {
@@ -507,48 +726,72 @@
          "short_name" : "財光寺中学校"
       },
       "日章学園中学校" : {
+         "location" : "宮崎県宮崎市広原836",
+         "location_zipcode" : "880-0125",
          "owner_type" : "私立",
+         "url" : "http://www.nissho.ac.jp/ngh/",
          "wikipedia_name" : "日章学園中学校・高等学校"
       },
       "木城町立木城中学校" : {
+         "location" : "宮崎県児湯郡木城町大字椎木2210番地1",
          "location_area" : "児湯郡木城町",
+         "location_zipcode" : "884-0102",
          "owner_type" : "町立",
          "short_name" : "木城中学校"
       },
       "椎葉村立松尾中学校" : {
+         "location" : "宮崎県東臼杵郡椎葉村大字松尾409番地",
          "location_area" : "東臼杵郡椎葉村",
+         "location_zipcode" : "889-1604",
          "owner_type" : "村立",
-         "short_name" : "松尾中学校"
+         "short_name" : "松尾中学校",
+         "url" : "http://www.shiiba.ed.jp/matsuojh/"
       },
       "椎葉村立椎葉中学校" : {
+         "location" : "宮崎県東臼杵郡椎葉村大字下福良102番地",
          "location_area" : "東臼杵郡椎葉村",
+         "location_zipcode" : "889-1601",
          "owner_type" : "村立",
-         "short_name" : "椎葉中学校"
+         "short_name" : "椎葉中学校",
+         "url" : "http://www.shiiba.ed.jp/shiibajh/"
       },
       "綾町立綾中学校" : {
+         "location" : "宮崎県東諸県郡綾町大字北俣497番地1",
          "location_area" : "東諸県郡綾町",
+         "location_zipcode" : "880-1302",
          "owner_type" : "町立",
-         "short_name" : "綾中学校"
+         "short_name" : "綾中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/aya-j/"
       },
       "美郷町立北郷中学校" : {
+         "location" : "宮崎県東臼杵郡美郷町北郷区宇納間798番地",
          "location_area" : "東臼杵郡美郷町",
+         "location_zipcode" : "889-0901",
          "owner_type" : "町立",
          "short_name" : "北郷中学校"
       },
       "美郷町立南郷中学校" : {
+         "location" : "宮崎県東臼杵郡美郷町南郷区神門777番地",
          "location_area" : "東臼杵郡美郷町",
+         "location_zipcode" : "883-0306",
          "owner_type" : "町立",
-         "short_name" : "南郷中学校"
+         "short_name" : "南郷中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/myz-higashiusukigun-nango-j/"
       },
       "美郷町立西郷中学校" : {
+         "location" : "宮崎県東臼杵郡美郷町西郷区田代474-1",
          "location_area" : "東臼杵郡美郷町",
+         "location_zipcode" : "883-1101",
          "owner_type" : "町立",
          "short_name" : "西郷中学校"
       },
       "西米良村立西米良中学校" : {
+         "location" : "宮崎県児湯郡西米良村大字村所270番地",
          "location_area" : "児湯郡西米良村",
+         "location_zipcode" : "881-1411",
          "owner_type" : "村立",
-         "short_name" : "西米良中学校"
+         "short_name" : "西米良中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/nishimera-j/"
       },
       "西都市立三納中学校" : {
          "location_area" : "西都市",
@@ -561,14 +804,20 @@
          "short_name" : "三財中学校"
       },
       "西都市立妻中学校" : {
+         "location" : "宮崎県西都市大字右松2534番地",
          "location_area" : "西都市",
+         "location_zipcode" : "881-0003",
          "owner_type" : "市立",
-         "short_name" : "妻中学校"
+         "short_name" : "妻中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/saito-tsuma-j/"
       },
       "西都市立穂北中学校" : {
+         "location" : "宮崎県西都市大字南方2276番地",
          "location_area" : "西都市",
+         "location_zipcode" : "881-0027",
          "owner_type" : "市立",
-         "short_name" : "穂北中学校"
+         "short_name" : "穂北中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/hokita-j/"
       },
       "西都市立都於郡中学校" : {
          "location_area" : "西都市",
@@ -581,19 +830,28 @@
          "short_name" : "銀鏡中学校"
       },
       "諸塚村立諸塚中学校" : {
+         "location" : "宮崎県東臼杵郡諸塚村大字家代3292番地",
          "location_area" : "東臼杵郡諸塚村",
+         "location_zipcode" : "883-1301",
          "owner_type" : "村立",
-         "short_name" : "諸塚中学校"
+         "short_name" : "諸塚中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/morotsuka-j/"
       },
       "都城市立中郷中学校" : {
+         "location" : "宮崎県都城市梅北町2912",
          "location_area" : "都城市",
+         "location_zipcode" : "885-0063",
          "owner_type" : "市立",
-         "short_name" : "中郷中学校"
+         "short_name" : "中郷中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/miyakonojo-nakago-j/"
       },
       "都城市立五十市中学校" : {
+         "location" : "宮崎県都城市久保原2街区6号",
          "location_area" : "都城市",
+         "location_zipcode" : "885-0086",
          "owner_type" : "市立",
-         "short_name" : "五十市中学校"
+         "short_name" : "五十市中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/isoichi-j/"
       },
       "都城市立夏尾中学校" : {
          "location_area" : "都城市",
@@ -646,9 +904,12 @@
          "short_name" : "沖水中学校"
       },
       "都城市立祝吉中学校" : {
+         "location" : "宮崎県都城市千町4962番地",
          "location_area" : "都城市",
+         "location_zipcode" : "885-0015",
          "owner_type" : "市立",
-         "short_name" : "祝吉中学校"
+         "short_name" : "祝吉中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/iwayoshi-j/"
       },
       "都城市立笛水中学校" : {
          "location_area" : "都城市",
@@ -676,62 +937,96 @@
          "short_name" : "高崎中学校"
       },
       "都農町立都農中学校" : {
+         "location" : "宮崎県児湯郡都農町大字川北14120番地",
          "location_area" : "児湯郡都農町",
+         "location_zipcode" : "889-1201",
          "owner_type" : "町立",
-         "short_name" : "都農中学校"
+         "short_name" : "都農中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/tsuno-tsuno-j/"
       },
       "門川町立西門川中学校" : {
+         "location" : "宮崎県東臼杵郡門川町大字川内4404番地",
          "location_area" : "東臼杵郡門川町",
+         "location_zipcode" : "889-0604",
          "owner_type" : "町立",
-         "short_name" : "西門川中学校"
+         "short_name" : "西門川中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/nishikadogawa-j/"
       },
       "門川町立門川中学校" : {
+         "location" : "宮崎県東臼杵郡門川町西栄町2丁目3番1号",
          "location_area" : "東臼杵郡門川町",
+         "location_zipcode" : "889-0622",
          "owner_type" : "町立",
-         "short_name" : "門川中学校"
+         "short_name" : "門川中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/kadogawa-j/index.html"
       },
       "高千穂町立上野中学校" : {
+         "location" : "宮崎県西臼杵郡高千穂町大字上野4956番地",
          "location_area" : "西臼杵郡高千穂町",
+         "location_zipcode" : "882-1411",
          "owner_type" : "町立",
          "short_name" : "上野中学校"
       },
       "高千穂町立岩戸中学校" : {
+         "location" : "宮崎県西臼杵郡高千穂町大字岩戸4518番地2",
          "location_area" : "西臼杵郡高千穂町",
+         "location_zipcode" : "882-1621",
          "owner_type" : "町立",
          "short_name" : "岩戸中学校"
       },
       "高千穂町立田原中学校" : {
+         "location" : "宮崎県西臼杵郡高千穂町大字田原1576番地",
          "location_area" : "西臼杵郡高千穂町",
+         "location_zipcode" : "882-1413",
          "owner_type" : "町立",
-         "short_name" : "田原中学校"
+         "short_name" : "田原中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/tabaru-j/"
       },
       "高千穂町立高千穂中学校" : {
+         "location" : "宮崎県西臼杵郡高千穂町大字三田井393番地6",
          "location_area" : "西臼杵郡高千穂町",
+         "location_zipcode" : "882-1101",
          "owner_type" : "町立",
-         "short_name" : "高千穂中学校"
+         "short_name" : "高千穂中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/takachiho-takachiho-j/"
       },
       "高原町立後川内中学校" : {
+         "location" : "宮崎県西諸県郡高原町大字後川内2651番地",
          "location_area" : "西諸県郡高原町",
+         "location_zipcode" : "889-4412",
          "owner_type" : "町立",
-         "short_name" : "後川内中学校"
+         "short_name" : "後川内中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/ushirokawauchi-j/sb/"
       },
       "高原町立高原中学校" : {
+         "location" : "宮崎県西諸県郡高原町大字西麓709番地144",
          "location_area" : "西諸県郡高原町",
+         "location_zipcode" : "889-4412",
          "owner_type" : "町立",
-         "short_name" : "高原中学校"
+         "short_name" : "高原中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/takaharu-j/"
       },
       "高鍋町立高鍋東中学校" : {
+         "location" : "宮崎県児湯郡高鍋町大字北高鍋3321番地",
          "location_area" : "児湯郡高鍋町",
+         "location_zipcode" : "884-0002",
          "owner_type" : "町立",
-         "short_name" : "高鍋東中学校"
+         "short_name" : "高鍋東中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/takanabehigashi-j/"
       },
       "高鍋町立高鍋西中学校" : {
+         "location" : "宮崎県児湯郡高鍋町大字持田1524番地",
          "location_area" : "児湯郡高鍋町",
+         "location_zipcode" : "884-0005",
          "owner_type" : "町立",
-         "short_name" : "高鍋西中学校"
+         "short_name" : "高鍋西中学校",
+         "url" : "http://www.miyazaki-c.ed.jp/takanabenishi-j/"
       },
       "鵬翔中学校" : {
+         "location" : "宮崎県宮崎市大字恒久4336番地",
+         "location_zipcode" : "880-0916",
          "owner_type" : "私立",
+         "url" : "http://www.hosho-h.ed.jp/",
          "wikipedia_name" : "鵬翔中学校・高等学校"
       }
    }

@@ -4,7 +4,11 @@
          "owner_type" : "国立"
       },
       "聖心学園中等教育学校" : {
-         "owner_type" : "私立"
+         "location" : "奈良県橿原市久米町222",
+         "location_wikipedia_latlon" : "|34|29|1.4|N|135|47|4.7|E|",
+         "location_zipcode" : "634-0063",
+         "owner_type" : "私立",
+         "url" : "http://www.seishingakuenchuto.ed.jp/"
       }
    },
    "junior_high_schools" : {
@@ -34,7 +38,10 @@
          "short_name" : "下北山中学校"
       },
       "下市町立下市中学校" : {
+         "location" : "奈良県吉野郡下市町下市1818",
          "location_area" : "吉野郡下市町",
+         "location_wikipedia_latlon" : "|34|21|51|N|135|47|26|E|",
+         "location_zipcode" : "638-0000",
          "owner_type" : "町立",
          "short_name" : "下市中学校"
       },
@@ -44,9 +51,12 @@
          "short_name" : "五條中学校"
       },
       "五條市立五條東中学校" : {
+         "location" : "奈良県五條市今井5丁目7番12号",
          "location_area" : "五條市",
+         "location_zipcode" : "637-0004",
          "owner_type" : "市立",
-         "short_name" : "五條東中学校"
+         "short_name" : "五條東中学校",
+         "url" : "http://www.gojo-nar.ed.jp/tochu/"
       },
       "五條市立五條西中学校" : {
          "location_area" : "五條市",
@@ -89,9 +99,12 @@
          "short_name" : "西川中学校"
       },
       "吉野町立吉野中学校" : {
+         "location" : "奈良県吉野郡吉野町河原屋200",
          "location_area" : "吉野郡吉野町",
+         "location_zipcode" : "639-3102",
          "owner_type" : "町立",
-         "short_name" : "吉野中学校"
+         "short_name" : "吉野中学校",
+         "url" : "http://www11.ocn.ne.jp/~yosino-j/"
       },
       "大和郡山市立片桐中学校" : {
          "location_area" : "大和郡山市",
@@ -124,9 +137,12 @@
          "short_name" : "片塩中学校"
       },
       "大和高田市立高田中学校" : {
+         "location" : "奈良県大和高田市大中東町5番48号",
          "location_area" : "大和高田市",
+         "location_zipcode" : "635-0091",
          "owner_type" : "市立",
-         "short_name" : "高田中学校"
+         "short_name" : "高田中学校",
+         "url" : "http://web1.kcn.jp/takachu/"
       },
       "大和高田市立高田西中学校" : {
          "location_area" : "大和高田市",
@@ -149,12 +165,17 @@
          "short_name" : "洞川中学校"
       },
       "天理中学校" : {
+         "location_wikipedia_latlon" : "|34|35|29|N|135|50|35.7|E|",
          "owner_type" : "私立"
       },
       "天理市立北中学校" : {
+         "location" : "奈良県天理市石上町777番地",
          "location_area" : "天理市",
+         "location_wikipedia_latlon" : "|34|36|46|N|135|50|08|E|",
+         "location_zipcode" : "632-0011",
          "owner_type" : "市立",
-         "short_name" : "北中学校"
+         "short_name" : "北中学校",
+         "url" : "http://ed.city.tenri.nara.jp/kita-jh/"
       },
       "天理市立北中学校夜間学級" : {
          "location_area" : "天理市",
@@ -195,29 +216,44 @@
          "short_name" : "京西中学校"
       },
       "奈良市立伏見中学校" : {
+         "location" : "奈良県奈良市西大寺野神町1丁目6-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0833",
          "owner_type" : "市立",
-         "short_name" : "伏見中学校"
+         "short_name" : "伏見中学校",
+         "url" : "http://www.naracity.ed.jp/fushimi-j/"
       },
       "奈良市立富雄中学校" : {
+         "location" : "奈良県奈良市三碓2丁目3-12",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0061",
          "owner_type" : "市立",
-         "short_name" : "富雄中学校"
+         "short_name" : "富雄中学校",
+         "url" : "http://www.naracity.ed.jp/tomio-j/"
       },
       "奈良市立富雄南中学校" : {
+         "location" : "奈良市藤ノ木台1丁目5-13",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0044",
          "owner_type" : "市立",
-         "short_name" : "富雄南中学校"
+         "short_name" : "富雄南中学校",
+         "url" : "http://www.naracity.ed.jp/tomiominami-j/index.html"
       },
       "奈良市立平城中学校" : {
+         "location" : "奈良県奈良市秋篠町1333番地",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0811",
          "owner_type" : "市立",
-         "short_name" : "平城中学校"
+         "short_name" : "平城中学校",
+         "url" : "http://www.naracity.ed.jp/heijou-j/"
       },
       "奈良市立平城東中学校" : {
+         "location" : "奈良県奈良市朱雀6丁目11番",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0806",
          "owner_type" : "市立",
-         "short_name" : "平城東中学校"
+         "short_name" : "平城東中学校",
+         "url" : "http://www.naracity.ed.jp/heijouhigashi-j/"
       },
       "奈良市立平城西中学校" : {
          "location_area" : "奈良市",
@@ -235,9 +271,12 @@
          "short_name" : "月ヶ瀬中学校"
       },
       "奈良市立柳生中学校" : {
+         "location" : "奈良県奈良市柳生町212-2",
          "location_area" : "奈良市",
+         "location_zipcode" : "630-1237",
          "owner_type" : "市立",
-         "short_name" : "柳生中学校"
+         "short_name" : "柳生中学校",
+         "url" : "http://www.naracity.ed.jp/yagyuu-j/"
       },
       "奈良市立田原中学校" : {
          "location_area" : "奈良市",
@@ -291,9 +330,13 @@
          "owner_type" : "私立"
       },
       "宇陀市立大宇陀中学校" : {
+         "location" : "奈良県宇陀市大宇陀区拾生651",
          "location_area" : "宇陀市",
+         "location_wikipedia_latlon" : "|34|28|37|N|135|55|53|E|",
+         "location_zipcode" : "633-2164",
          "owner_type" : "市立",
-         "short_name" : "大宇陀中学校"
+         "short_name" : "大宇陀中学校",
+         "url" : "http://www.ouda-jh.ed.city.uda.nara.jp/"
       },
       "宇陀市立室生中学校" : {
          "location_area" : "宇陀市",
@@ -343,9 +386,12 @@
          "short_name" : "広陵中学校"
       },
       "広陵町立真美ヶ丘中学校" : {
+         "location" : "奈良県北葛城郡広陵町馬見中2丁目17-32",
          "location_area" : "北葛城郡広陵町",
+         "location_zipcode" : "635-0832",
          "owner_type" : "町立",
-         "short_name" : "真美ヶ丘中学校"
+         "short_name" : "真美ヶ丘中学校",
+         "url" : "http://www.asm.ne.jp/~mami-jhs/"
       },
       "御所市立大正中学校" : {
          "location_area" : "御所市",
@@ -383,7 +429,10 @@
          "short_name" : "斑鳩南中学校"
       },
       "明日香村立聖徳中学校" : {
+         "location" : "奈良県高市郡明日香村大字野口105",
          "location_area" : "高市郡明日香村",
+         "location_wikipedia_latlon" : "|34|28|11|N|135|48|25|E|",
+         "location_zipcode" : "634-0145",
          "owner_type" : "村立",
          "short_name" : "聖徳中学校"
       },
@@ -484,9 +533,12 @@
          "short_name" : "王寺南中学校"
       },
       "生駒市立上中学校" : {
+         "location" : "奈良県生駒市上町3000番地",
          "location_area" : "生駒市",
+         "location_zipcode" : "630-0131",
          "owner_type" : "市立",
-         "short_name" : "上中学校"
+         "short_name" : "上中学校",
+         "url" : "http://www.ed.city.ikoma.nara.jp/school/kami-j/"
       },
       "生駒市立光明中学校" : {
          "location_area" : "生駒市",
@@ -509,14 +561,20 @@
          "short_name" : "生駒北中学校"
       },
       "生駒市立生駒南中学校" : {
+         "location" : "奈良県生駒市萩原町90",
          "location_area" : "生駒市",
+         "location_zipcode" : "630-",
          "owner_type" : "市立",
-         "short_name" : "生駒南中学校"
+         "short_name" : "生駒南中学校",
+         "url" : "http://www.ed.city.ikoma.nara.jp/school/minami-j/"
       },
       "生駒市立緑ヶ丘中学校" : {
+         "location" : "奈良県生駒市緑ヶ丘2232",
          "location_area" : "生駒市",
+         "location_zipcode" : "630-0262",
          "owner_type" : "市立",
-         "short_name" : "緑ヶ丘中学校"
+         "short_name" : "緑ヶ丘中学校",
+         "url" : "http://www.ed.city.ikoma.nara.jp/school/midori-j/"
       },
       "生駒市立鹿ノ台中学校" : {
          "location_area" : "生駒市",

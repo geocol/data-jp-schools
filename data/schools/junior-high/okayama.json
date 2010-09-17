@@ -48,9 +48,13 @@
          "short_name" : "倉敷第一中学校"
       },
       "倉敷市立児島中学校" : {
+         "location" : "岡山県倉敷市児島小川4丁目7番34号",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|28|31|N|133|48|18|E|",
+         "location_zipcode" : "711-0911",
          "owner_type" : "市立",
-         "short_name" : "児島中学校"
+         "short_name" : "児島中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/School/kojima-j/"
       },
       "倉敷市立北中学校" : {
          "location_area" : "倉敷市",
@@ -78,14 +82,21 @@
          "short_name" : "庄中学校"
       },
       "倉敷市立新田中学校" : {
+         "location" : "岡山県倉敷市新田2674-3",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0038",
          "owner_type" : "市立",
-         "short_name" : "新田中学校"
+         "short_name" : "新田中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/School/shinden-j/"
       },
       "倉敷市立東中学校" : {
+         "location" : "岡山県倉敷市平田155-100",
          "location_area" : "倉敷市",
+         "location_wikipedia_latlon" : "|34|36|45|N|133|46|35|E|",
+         "location_zipcode" : "710-0003",
          "owner_type" : "市立",
-         "short_name" : "東中学校"
+         "short_name" : "東中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/higashi-j/"
       },
       "倉敷市立東陽中学校" : {
          "location_area" : "倉敷市",
@@ -93,19 +104,28 @@
          "short_name" : "東陽中学校"
       },
       "倉敷市立玉島北中学校" : {
+         "location" : "岡山県倉敷市玉島八島1529-1",
          "location_area" : "倉敷市",
+         "location_zipcode" : "713-8113",
          "owner_type" : "市立",
-         "short_name" : "玉島北中学校"
+         "short_name" : "玉島北中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/School/tamakita-j/"
       },
       "倉敷市立玉島東中学校" : {
+         "location" : "岡山県倉敷市玉島2丁目21番1号",
          "location_area" : "倉敷市",
+         "location_zipcode" : "713-8102",
          "owner_type" : "市立",
-         "short_name" : "玉島東中学校"
+         "short_name" : "玉島東中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/tamahigashi-j/"
       },
       "倉敷市立玉島西中学校" : {
+         "location" : "岡山県倉敷市玉島柏島1548番地",
          "location_area" : "倉敷市",
+         "location_zipcode" : "713-8123",
          "owner_type" : "市立",
-         "short_name" : "玉島西中学校"
+         "short_name" : "玉島西中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/tamanishi-j/"
       },
       "倉敷市立琴浦中学校" : {
          "location_area" : "倉敷市",
@@ -128,19 +148,28 @@
          "short_name" : "福田中学校"
       },
       "倉敷市立福田南中学校" : {
+         "location" : "岡山県倉敷市福田町古新田711-4",
          "location_area" : "倉敷市",
+         "location_zipcode" : "712-8046",
          "owner_type" : "市立",
-         "short_name" : "福田南中学校"
+         "short_name" : "福田南中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/hukunan-j/"
       },
       "倉敷市立船穂中学校" : {
+         "location" : "岡山県倉敷市船穂町船穂2817-1",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0261",
          "owner_type" : "市立",
-         "short_name" : "船穂中学校"
+         "short_name" : "船穂中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/School/hunao-j/"
       },
       "倉敷市立西中学校" : {
+         "location" : "岡山県倉敷市日吉町205番地",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0815",
          "owner_type" : "市立",
-         "short_name" : "西中学校"
+         "short_name" : "西中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/School/kuranishi-j/"
       },
       "倉敷市立連島中学校" : {
          "location_area" : "倉敷市",
@@ -158,9 +187,12 @@
          "short_name" : "郷内中学校"
       },
       "倉敷市立黒崎中学校" : {
+         "location" : "岡山県倉敷市玉島黒崎6057番地",
          "location_area" : "倉敷市",
+         "location_zipcode" : "713-8126",
          "owner_type" : "市立",
-         "short_name" : "黒崎中学校"
+         "short_name" : "黒崎中学校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/kurosaki-j/"
       },
       "備前市立三石中学校" : {
          "location_area" : "備前市",
@@ -231,15 +263,24 @@
          "short_name" : "奈義中学校"
       },
       "就実中学校" : {
+         "location" : "岡山県岡山市北区弓之町14-23",
+         "location_zipcode" : "700-0817",
          "owner_type" : "私立",
+         "url" : "http://www.shujitsu-h.ed.jp/",
          "wikipedia_name" : "就実中学校・高等学校"
       },
       "山陽女子中学校" : {
+         "location" : "岡山県岡山市中区門田屋敷2-2-16",
+         "location_zipcode" : "703-8275",
          "owner_type" : "私立",
+         "url" : "http://www.sanyojoshi.ed.jp/",
          "wikipedia_name" : "山陽女子中学校・高等学校"
       },
       "岡山中学校" : {
+         "location" : "岡山県岡山市南区箕島1500",
+         "location_zipcode" : "701-0206",
          "owner_type" : "私立",
+         "url" : "http://www.okayama-h.ed.jp/",
          "wikipedia_name" : "岡山中学校・高等学校"
       },
       "岡山大学教育学部附属中学校" : {
@@ -257,14 +298,20 @@
          "short_name" : "上道中学校"
       },
       "岡山市立中山中学校" : {
+         "location" : "岡山県岡山市北区辛川市場159",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-1214",
          "owner_type" : "市立",
-         "short_name" : "中山中学校"
+         "short_name" : "中山中学校",
+         "url" : "http://www.city-okayama.ed.jp/~chuzanc/"
       },
       "岡山市立京山中学校" : {
+         "location" : "岡山県岡山市北区津島京町1丁目7番1号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0087",
          "owner_type" : "市立",
-         "short_name" : "京山中学校"
+         "short_name" : "京山中学校",
+         "url" : "http://www.city-okayama.ed.jp/~kyoyamac/"
       },
       "岡山市立光南台中学校" : {
          "location_area" : "岡山市南区",
@@ -272,9 +319,12 @@
          "short_name" : "光南台中学校"
       },
       "岡山市立吉備中学校" : {
+         "location" : "岡山県岡山市北区庭瀬103",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-0153",
          "owner_type" : "市立",
-         "short_name" : "吉備中学校"
+         "short_name" : "吉備中学校",
+         "url" : "http://www.city-okayama.ed.jp/~kibic/"
       },
       "岡山市立妹尾中学校" : {
          "location_area" : "岡山市南区",
@@ -282,24 +332,36 @@
          "short_name" : "妹尾中学校"
       },
       "岡山市立富山中学校" : {
+         "location" : "岡山県岡山市中区海吉1462-5",
          "location_area" : "岡山市中区",
+         "location_zipcode" : "703-8261",
          "owner_type" : "市立",
-         "short_name" : "富山中学校"
+         "short_name" : "富山中学校",
+         "url" : "http://www.city-okayama.ed.jp/~tomiyamac/"
       },
       "岡山市立山南中学校" : {
+         "location" : "岡山県岡山市東区北幸田509-1",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "704-8134",
          "owner_type" : "市立",
-         "short_name" : "山南中学校"
+         "short_name" : "山南中学校",
+         "url" : "http://www.city-okayama.ed.jp/~sannanc/"
       },
       "岡山市立岡北中学校" : {
+         "location" : "岡山県岡山市北区津島東1丁目1番1号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0081",
          "owner_type" : "市立",
-         "short_name" : "岡北中学校"
+         "short_name" : "岡北中学校",
+         "url" : "http://www.city-okayama.ed.jp/~kohokuc/"
       },
       "岡山市立岡山中央中学校" : {
+         "location" : "岡山県岡山市北区蕃山町6番10号",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0818",
          "owner_type" : "市立",
-         "short_name" : "岡山中央中学校"
+         "short_name" : "岡山中央中学校",
+         "url" : "http://www.city-okayama.ed.jp/~chuoc/"
       },
       "岡山市立岡山後楽館中学校" : {
          "location_area" : "岡山市北区",
@@ -312,9 +374,12 @@
          "short_name" : "岡輝中学校"
       },
       "岡山市立建部中学校" : {
+         "location" : "岡山県岡山市北区建部町建部上734番地",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "709-3142",
          "owner_type" : "市立",
-         "short_name" : "建部中学校"
+         "short_name" : "建部中学校",
+         "url" : "http://www.city-okayama.ed.jp/~takebec/"
       },
       "岡山市立御南中学校" : {
          "location_area" : "岡山市北区",
@@ -347,9 +412,12 @@
          "short_name" : "桑田中学校"
       },
       "岡山市立瀬戸中学校" : {
+         "location" : "岡山県岡山市東区瀬戸町瀬戸444番地",
          "location_area" : "岡山市東区",
+         "location_zipcode" : "709-0861",
          "owner_type" : "市立",
-         "short_name" : "瀬戸中学校"
+         "short_name" : "瀬戸中学校",
+         "url" : "http://www.city-okayama.ed.jp/~setoc/"
       },
       "岡山市立灘崎中学校" : {
          "location_area" : "岡山市南区",
@@ -357,9 +425,12 @@
          "short_name" : "灘崎中学校"
       },
       "岡山市立石井中学校" : {
+         "location" : "岡山県岡山市北区下伊福上町10-9",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "700-0051",
          "owner_type" : "市立",
-         "short_name" : "石井中学校"
+         "short_name" : "石井中学校",
+         "url" : "http://www.city-okayama.ed.jp/~ishiic/"
       },
       "岡山市立福南中学校" : {
          "location_area" : "岡山市南区",
@@ -377,14 +448,20 @@
          "short_name" : "福田中学校"
       },
       "岡山市立竜操中学校" : {
+         "location" : "岡山県岡山市中区赤田188-1",
          "location_area" : "岡山市中区",
+         "location_zipcode" : "703-8231",
          "owner_type" : "市立",
-         "short_name" : "竜操中学校"
+         "short_name" : "竜操中学校",
+         "url" : "http://www.city-okayama.ed.jp/~ryusoc/index.html"
       },
       "岡山市立興除中学校" : {
+         "location" : "岡山県岡山市南区中畦589番地の4",
          "location_area" : "岡山市南区",
+         "location_zipcode" : "701-0213",
          "owner_type" : "市立",
-         "short_name" : "興除中学校"
+         "short_name" : "興除中学校",
+         "url" : "http://www.city-okayama.ed.jp/~kojoc/"
       },
       "岡山市立芳泉中学校" : {
          "location_area" : "岡山市南区",
@@ -412,9 +489,12 @@
          "short_name" : "足守中学校"
       },
       "岡山市立香和中学校" : {
+         "location" : "岡山県岡山市北区吉宗590番地",
          "location_area" : "岡山市北区",
+         "location_zipcode" : "701-1143",
          "owner_type" : "市立",
-         "short_name" : "香和中学校"
+         "short_name" : "香和中学校",
+         "url" : "http://www.city-okayama.ed.jp/~kowac/"
       },
       "岡山市立高島中学校" : {
          "location_area" : "岡山市中区",
@@ -427,17 +507,27 @@
          "short_name" : "高松中学校"
       },
       "岡山理科大学附属中学校" : {
+         "location" : "岡山県岡山市北区理大町1番1号",
+         "location_wikipedia_latlon" : "|34|41|45.2|N|133|55|40.6|E|",
+         "location_zipcode" : "700-0005",
          "owner_type" : "私立",
+         "url" : "http://www.kake.ac.jp/~info-j/",
          "wikipedia_name" : "岡山理科大学附属中学校・高等学校"
       },
       "岡山白陵中学校" : {
+         "location" : "岡山県赤磐市勢力588",
+         "location_zipcode" : "709-0715",
          "owner_type" : "私立",
+         "url" : "http://www.okahaku.ed.jp/",
          "wikipedia_name" : "岡山白陵中学校・高等学校"
       },
       "岡山県立倉敷天城中学校" : {
+         "location" : "岡山県倉敷市藤戸町天城269",
          "location_area" : "倉敷市",
+         "location_zipcode" : "710-0132",
          "owner_type" : "県立",
          "short_name" : "倉敷天城中学校",
+         "url" : "http://www.amaki-jhs.okayama-c.ed.jp/",
          "wikipedia_name" : "岡山県立倉敷天城中学校・高等学校"
       },
       "岡山県立岡山操山中学校" : {
@@ -476,9 +566,12 @@
          "short_name" : "大佐中学校"
       },
       "新見市立新見第一中学校" : {
+         "location" : "岡山県新見市高尾2364番地",
          "location_area" : "新見市",
+         "location_zipcode" : "718-0003",
          "owner_type" : "市立",
-         "short_name" : "新見第一中学校"
+         "short_name" : "新見第一中学校",
+         "url" : "http://www.ed-niimi.niimi-p.jp/niimidaiichi-c/index.htm"
       },
       "新見市立熊谷中学校" : {
          "location_area" : "新見市",
@@ -496,7 +589,10 @@
          "short_name" : "早島中学校"
       },
       "朝日塾中学校" : {
+         "location" : "岡山県岡山市北区御津紙工2590",
+         "location_zipcode" : "709-2136",
          "owner_type" : "私立",
+         "url" : "http://www.asahijuku.com/index.php",
          "wikipedia_name" : "朝日塾中学高等学校"
       },
       "津山市立中道中学校" : {
@@ -540,9 +636,12 @@
          "short_name" : "鶴山中学校"
       },
       "浅口市立寄島中学校" : {
+         "location" : "岡山県浅口市寄島町7551番地",
          "location_area" : "浅口市",
+         "location_zipcode" : "714-0101",
          "owner_type" : "市立",
-         "short_name" : "寄島中学校"
+         "short_name" : "寄島中学校",
+         "url" : "http://www.yorishima-j.ed.jp/"
       },
       "浅口市立金光中学校" : {
          "location_area" : "浅口市",
@@ -555,7 +654,11 @@
          "short_name" : "鴨方中学校"
       },
       "清心中学校" : {
+         "location" : "岡山県倉敷市二子1200",
+         "location_wikipedia_latlon" : "|34|38|25.0|N|133|48|59.3|E|",
+         "location_zipcode" : "701-0195",
          "owner_type" : "私立",
+         "url" : "http://www.nd-seishin.ac.jp/",
          "wikipedia_name" : "清心中学校・清心女子高等学校"
       },
       "瀬戸内市立牛窓中学校" : {
@@ -579,14 +682,20 @@
          "short_name" : "八浜中学校"
       },
       "玉野市立宇野中学校" : {
+         "location" : "岡山県玉野市築港二丁目27番1号",
          "location_area" : "玉野市",
+         "location_zipcode" : "706-0002",
          "owner_type" : "市立",
-         "short_name" : "宇野中学校"
+         "short_name" : "宇野中学校",
+         "url" : "http://www.ednet.tamano.okayama.jp/jhs-uno/index.html"
       },
       "玉野市立山田中学校" : {
+         "location" : "岡山県玉野市後閑1995",
          "location_area" : "玉野市",
+         "location_zipcode" : "706-0315",
          "owner_type" : "市立",
-         "short_name" : "山田中学校"
+         "short_name" : "山田中学校",
+         "url" : "http://www.ednet.tamano.okayama.jp/jhs-yamada/index.htm"
       },
       "玉野市立日比中学校" : {
          "location_area" : "玉野市",
@@ -604,9 +713,12 @@
          "short_name" : "玉中学校"
       },
       "玉野市立荘内中学校" : {
+         "location" : "岡山県玉野市木目1373番地",
          "location_area" : "玉野市",
+         "location_zipcode" : "706-0143",
          "owner_type" : "市立",
-         "short_name" : "荘内中学校"
+         "short_name" : "荘内中学校",
+         "url" : "http://www.ednet.tamano.okayama.jp/jhs-shonai/"
       },
       "真庭市立久世中学校" : {
          "location_area" : "真庭市",
@@ -778,9 +890,12 @@
          "short_name" : "桜が丘中学校"
       },
       "赤磐市立磐梨中学校" : {
+         "location" : "岡山県赤磐市沢原149",
          "location_area" : "赤磐市",
+         "location_zipcode" : "709-0704",
          "owner_type" : "市立",
-         "short_name" : "磐梨中学校"
+         "short_name" : "磐梨中学校",
+         "url" : "http://www1.harenet.ne.jp/~iwanashi/"
       },
       "赤磐市立赤坂中学校" : {
          "location_area" : "赤磐市",
@@ -798,7 +913,10 @@
          "short_name" : "里庄中学校"
       },
       "金光学園中学校" : {
+         "location" : "岡山県浅口市金光町占見新田1350番地",
+         "location_zipcode" : "719-0104",
          "owner_type" : "私立",
+         "url" : "http://www.konkougakuen.net/",
          "wikipedia_name" : "金光学園中学校・高等学校"
       },
       "鏡野町立上齋原中学校" : {
@@ -822,9 +940,12 @@
          "short_name" : "鏡野中学校"
       },
       "高梁市立備中中学校" : {
+         "location" : "岡山県高梁市成羽町布寄109番地",
          "location_area" : "高梁市",
+         "location_zipcode" : "716-0335",
          "owner_type" : "市立",
-         "short_name" : "備中中学校"
+         "short_name" : "備中中学校",
+         "url" : "http://www.nariwa.ne.jp/bitchujh/"
       },
       "高梁市立川上中学校" : {
          "location_area" : "高梁市",
