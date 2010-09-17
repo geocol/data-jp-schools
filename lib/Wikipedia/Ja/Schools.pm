@@ -33,7 +33,7 @@ sub load_school_text_from_cache ($$) {
     my $school = $self->{school}->{$school_wikipedia_name} = {text => $text};
 
     if ($text =~ /
-      \{\{(?:日本の(?:小|中|高等)学校|高等専門学校)\s*\n
+      \{\{(?:日本の(?:小|中|高等|)学校|高等専門学校|日本の幼稚園)\s*\n
         (.*?)
       \n\}\}
     /sx) {
