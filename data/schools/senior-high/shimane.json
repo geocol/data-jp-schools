@@ -1,8 +1,12 @@
 {
    "senior_high_schools" : {
       "キリスト教愛真高等学校" : {
+         "location" : "島根県江津市浅利町1826-1",
+         "location_zipcode" : "695-0002",
          "owner_type" : "私立",
-         "short_name" : "キリスト教愛真高校"
+         "senior_high_school_code" : "32513K",
+         "short_name" : "キリスト教愛真高校",
+         "url" : "http://www.iwami.or.jp/aishin/"
       },
       "七尾学園 益田東高等学校" : {
          "owner_type" : "私立",
@@ -10,19 +14,32 @@
          "wikipedia_name" : "益田東高等学校"
       },
       "大多和学園 開星高等学校" : {
+         "location" : "島根県松江市西津田9-11-1",
+         "location_wikipedia_latlon" : "|35|27|8.5|N|133|4|18.8|E|",
+         "location_zipcode" : "690-0017",
          "owner_type" : "私立",
+         "senior_high_school_code" : "32501F",
          "short_name" : "開星高校",
+         "url" : "http://www.kaisei.matsue.shimane.jp/",
          "wikipedia_name" : "開星中学校・高等学校"
       },
       "島根県立三刀屋高等学校" : {
+         "location" : "島根県雲南市三刀屋町三刀屋912-2",
          "location_area" : "雲南市",
+         "location_zipcode" : "690-2404",
          "owner_type" : "県立",
-         "short_name" : "三刀屋高校"
+         "senior_high_school_code" : "32109F",
+         "short_name" : "三刀屋高校",
+         "url" : "http://www.shimanet.ed.jp/mitoya/"
       },
       "島根県立三刀屋高等学校掛合分校" : {
+         "location" : "島根県雲南市掛合町掛合3601",
          "location_area" : "雲南市",
+         "location_zipcode" : "690-2701",
          "owner_type" : "県立",
-         "short_name" : "三刀屋高校掛合分校"
+         "senior_high_school_code" : "32109F",
+         "short_name" : "三刀屋高校掛合分校",
+         "url" : "http://www.shimanet.ed.jp/kakeya/"
       },
       "島根県立出雲商業高等学校" : {
          "location_area" : "出雲市",
@@ -40,44 +57,75 @@
          "short_name" : "出雲農林高校"
       },
       "島根県立出雲高等学校" : {
+         "location" : "島根県出雲市今市町1800",
          "location_area" : "出雲市",
+         "location_zipcode" : "693-0001",
          "owner_type" : "県立",
-         "short_name" : "出雲高校"
+         "senior_high_school_code" : "32112F",
+         "short_name" : "出雲高校",
+         "url" : "http://www.shimanet.ed.jp/izumo/"
       },
       "島根県立吉賀高等学校" : {
+         "location" : "島根県鹿足郡吉賀町七日市937",
          "location_area" : "鹿足郡",
+         "location_zipcode" : "699-5522",
          "owner_type" : "県立",
-         "short_name" : "吉賀高校"
+         "senior_high_school_code" : "32130D",
+         "short_name" : "吉賀高校",
+         "url" : "http://www.shimanet.ed.jp/yoshiga/"
       },
       "島根県立大東高等学校" : {
+         "location" : "島根県雲南市大東町大東637",
          "location_area" : "雲南市",
+         "location_zipcode" : "699-1251",
          "owner_type" : "県立",
-         "short_name" : "大東高校"
+         "senior_high_school_code" : "32107K",
+         "short_name" : "大東高校",
+         "url" : "http://www.shimanet.ed.jp/daito/"
       },
       "島根県立大田高等学校" : {
+         "location" : "島根県大田市大田町大田イ568",
          "location_area" : "大田市",
+         "location_zipcode" : "694-0064",
          "owner_type" : "県立",
-         "short_name" : "大田高校"
+         "senior_high_school_code" : "32117G",
+         "short_name" : "大田高校",
+         "url" : "http://www.shimanet.ed.jp/ohda/"
       },
       "島根県立大社高等学校" : {
+         "location" : "島根県出雲市大社町北荒木1473番地",
          "location_area" : "出雲市",
+         "location_wikipedia_latlon" : "|35|22|50.7|N|132|42|7.5|E|",
+         "location_zipcode" : "699-0722",
          "owner_type" : "県立",
-         "short_name" : "大社高校"
+         "senior_high_school_code" : "32116J",
+         "short_name" : "大社高校",
+         "url" : "http://www.shimanet.ed.jp/taisha/"
       },
       "島根県立大社高等学校佐田分校" : {
+         "location" : "島根県出雲市佐田町反辺1938",
          "location_area" : "出雲市",
+         "location_zipcode" : "693-0506",
          "owner_type" : "県立",
-         "short_name" : "大社高校佐田分校"
+         "short_name" : "大社高校佐田分校",
+         "url" : "http://www.shimanet.ed.jp/sada/"
       },
       "島根県立安来高等学校" : {
+         "location" : "島根県安来市佐久保町115",
          "location_area" : "安来市",
+         "location_zipcode" : "692-0031",
          "owner_type" : "県立",
-         "short_name" : "安来高校"
+         "senior_high_school_code" : "32101A",
+         "short_name" : "安来高校",
+         "url" : "http://www.yasugi-hs.ed.jp/"
       },
       "島根県立宍道高等学校" : {
+         "location" : "島根県松江市宍道町宍道1586",
          "location_area" : "松江市",
+         "location_zipcode" : "699-0492",
          "owner_type" : "県立",
-         "short_name" : "宍道高校"
+         "short_name" : "宍道高校",
+         "url" : "http://www.shimanet.ed.jp/shinjikoko/"
       },
       "島根県立島根中央高等学校" : {
          "location_area" : "邑智郡",
@@ -85,24 +133,42 @@
          "short_name" : "島根中央高校"
       },
       "島根県立平田高等学校" : {
+         "location" : "島根県出雲市平田町1番地",
          "location_area" : "出雲市",
+         "location_zipcode" : "691-0001",
          "owner_type" : "県立",
-         "short_name" : "平田高校"
+         "senior_high_school_code" : "32111H",
+         "short_name" : "平田高校",
+         "url" : "http://www.shimanet.ed.jp/hirata/"
       },
       "島根県立情報科学高等学校" : {
+         "location" : "島根県安来市能義町310",
          "location_area" : "安来市",
+         "location_zipcode" : "692-8500",
          "owner_type" : "県立",
-         "short_name" : "情報科学高校"
+         "senior_high_school_code" : "32137A",
+         "short_name" : "情報科学高校",
+         "url" : "http://www.shimanet.ed.jp/johokoko/"
       },
       "島根県立松江北高等学校" : {
+         "location" : "島根県松江市奥谷町164番地",
          "location_area" : "松江市",
+         "location_wikipedia_latlon" : "|35|28|47.2|N|133|3|4.2|E|",
+         "location_zipcode" : "690-0871",
          "owner_type" : "県立",
-         "short_name" : "松江北高校"
+         "senior_high_school_code" : "32102J",
+         "short_name" : "松江北高校",
+         "url" : "http://www.matsuekita.ed.jp/"
       },
       "島根県立松江南高等学校" : {
+         "location" : "島根県松江市八雲台一丁目1番1号",
          "location_area" : "松江市",
+         "location_wikipedia_latlon" : "|35|26|23.3|N|133|4|9.4|E|",
+         "location_zipcode" : "690-8519",
          "owner_type" : "県立",
-         "short_name" : "松江南高校"
+         "senior_high_school_code" : "32103G",
+         "short_name" : "松江南高校",
+         "url" : "http://www.shimanet.ed.jp/minami/"
       },
       "島根県立松江南高等学校宍道分校" : {
          "location_area" : "松江市",
@@ -110,64 +176,111 @@
          "short_name" : "松江南高校宍道分校"
       },
       "島根県立松江商業高等学校" : {
+         "location" : "島根県松江市浜乃木8-1-1",
          "location_area" : "松江市",
+         "location_zipcode" : "690-8525",
          "owner_type" : "県立",
-         "short_name" : "松江商業高校"
+         "senior_high_school_code" : "32106A",
+         "short_name" : "松江商業高校",
+         "url" : "http://www.shimanet.ed.jp/matsue-ch/"
       },
       "島根県立松江工業高等学校" : {
+         "location" : "島根県松江市古志原4-1-10",
          "location_area" : "松江市",
+         "location_zipcode" : "690-8528",
          "owner_type" : "県立",
-         "short_name" : "松江工業高校"
+         "senior_high_school_code" : "32105C",
+         "short_name" : "松江工業高校",
+         "url" : "http://www.shimanet.ed.jp/matsue-th/"
       },
       "島根県立松江東高等学校" : {
+         "location" : "島根県松江市西川津町510",
          "location_area" : "松江市",
+         "location_wikipedia_latlon" : "|35|29|5.3|N|133|4|42.7|E|",
+         "location_zipcode" : "690-0823",
          "owner_type" : "県立",
-         "short_name" : "松江東高校"
+         "senior_high_school_code" : "32136C",
+         "short_name" : "松江東高校",
+         "url" : "http://www.matsuehigashi.ed.jp/"
       },
       "島根県立松江農林高等学校" : {
+         "location" : "島根県松江市乃木福富町51番地",
          "location_area" : "松江市",
+         "location_zipcode" : "690-8507",
          "owner_type" : "県立",
-         "short_name" : "松江農林高校"
+         "senior_high_school_code" : "32104E",
+         "short_name" : "松江農林高校",
+         "url" : "http://www.shimanet.ed.jp/matsuno/index.html"
       },
       "島根県立横田高等学校" : {
+         "location" : "島根県仁多郡奥出雲町稲原2178-1",
          "location_area" : "仁多郡",
+         "location_zipcode" : "688-0821",
          "owner_type" : "県立",
-         "short_name" : "横田高校"
+         "senior_high_school_code" : "32108H",
+         "short_name" : "横田高校",
+         "url" : "http://www.shimanet.ed.jp/yokota/index.html"
       },
       "島根県立江津工業高等学校" : {
+         "location" : "島根県江津市江津町1477番地",
          "location_area" : "江津市",
+         "location_zipcode" : "695-0011",
          "owner_type" : "県立",
          "short_name" : "江津工業高校"
       },
       "島根県立江津高等学校" : {
+         "location" : "島根県江津市都野津町293番地",
          "location_area" : "江津市",
+         "location_zipcode" : "695-0021",
          "owner_type" : "県立",
-         "short_name" : "江津高校"
+         "senior_high_school_code" : "32122C",
+         "short_name" : "江津高校",
+         "url" : "http://www.shimanet.ed.jp/gohtsu/"
       },
       "島根県立津和野高等学校" : {
+         "location" : "島根県鹿足郡津和野町後田ハ12-3",
          "location_area" : "鹿足郡",
+         "location_zipcode" : "699-5605",
          "owner_type" : "県立",
-         "short_name" : "津和野高校"
+         "senior_high_school_code" : "32131B",
+         "short_name" : "津和野高校",
+         "url" : "http://www.tsuwano.ne.jp/tsuko/"
       },
       "島根県立浜田商業高等学校" : {
+         "location" : "島根県浜田市熱田町675",
          "location_area" : "浜田市",
+         "location_zipcode" : "697-0062",
          "owner_type" : "県立",
-         "short_name" : "浜田商業高校"
+         "senior_high_school_code" : "32125H",
+         "short_name" : "浜田商業高校",
+         "url" : "http://www.shimanet.ed.jp/hamasho/"
       },
       "島根県立浜田水産高等学校" : {
+         "location" : "島根県浜田市瀬戸ケ島町25の3",
          "location_area" : "浜田市",
+         "location_zipcode" : "697-0051",
          "owner_type" : "県立",
-         "short_name" : "浜田水産高校"
+         "senior_high_school_code" : "32126F",
+         "short_name" : "浜田水産高校",
+         "url" : "http://www.shimanet.ed.jp/hamasui/"
       },
       "島根県立浜田高等学校" : {
+         "location" : "島根県浜田市黒川町3749番地",
          "location_area" : "浜田市",
+         "location_zipcode" : "697-0024/697-0426",
          "owner_type" : "県立",
-         "short_name" : "浜田高校"
+         "senior_high_school_code" : "32124K",
+         "short_name" : "浜田高校",
+         "url" : "http://www.shimanet.ed.jp/hamada/"
       },
       "島根県立浜田高等学校今市分校" : {
+         "location" : "島根県浜田市旭町丸原46",
          "location_area" : "浜田市",
+         "location_zipcode" : "697-0426",
          "owner_type" : "県立",
-         "short_name" : "浜田高校今市分校"
+         "senior_high_school_code" : "32124K",
+         "short_name" : "浜田高校今市分校",
+         "url" : "http://www.shimanet.ed.jp/imaichi/"
       },
       "島根県立益田翔陽高等学校" : {
          "location_area" : "益田市",
@@ -175,14 +288,20 @@
          "short_name" : "益田翔陽高校"
       },
       "島根県立益田高等学校" : {
+         "location" : "島根県益田市七尾町1-17",
          "location_area" : "益田市",
+         "location_zipcode" : "698-0017",
          "owner_type" : "県立",
-         "short_name" : "益田高校"
+         "short_name" : "益田高校",
+         "url" : "http://www.shimanet.ed.jp/masuda/"
       },
       "島根県立矢上高等学校" : {
+         "location" : "島根県邑智郡邑南町矢上3921",
          "location_area" : "邑智郡",
+         "location_zipcode" : "696-0198",
          "owner_type" : "県立",
-         "short_name" : "矢上高校"
+         "short_name" : "矢上高校",
+         "url" : "http://www.shimanet.ed.jp/yakami/index.htm"
       },
       "島根県立邇摩高等学校" : {
          "location_area" : "大田市",
@@ -190,19 +309,30 @@
          "short_name" : "邇摩高校"
       },
       "島根県立隠岐島前高等学校" : {
+         "location" : "島根県隠岐郡海士町大字福井1403番地",
          "location_area" : "隠岐郡",
+         "location_zipcode" : "684-0404",
          "owner_type" : "県立",
-         "short_name" : "隠岐島前高校"
+         "short_name" : "隠岐島前高校",
+         "url" : "http://dozen.ed.jp/"
       },
       "島根県立隠岐水産高等学校" : {
+         "location" : "島根県隠岐郡隠岐の島町東郷吉津2",
          "location_area" : "隠岐郡",
+         "location_zipcode" : "685-0005",
          "owner_type" : "県立",
-         "short_name" : "隠岐水産高校"
+         "senior_high_school_code" : "32134G",
+         "short_name" : "隠岐水産高校",
+         "url" : "http://www.shimanet.ed.jp/okisui/"
       },
       "島根県立隠岐高等学校" : {
+         "location" : "島根県隠岐郡隠岐の島町有木尼寺原1番地",
          "location_area" : "隠岐郡",
+         "location_zipcode" : "685-8512",
          "owner_type" : "県立",
-         "short_name" : "隠岐高校"
+         "senior_high_school_code" : "32132A",
+         "short_name" : "隠岐高校",
+         "url" : "http://www.shimanet.ed.jp/oki/"
       },
       "島根県立飯南高等学校" : {
          "location_area" : "飯石郡",
@@ -215,38 +345,68 @@
          "wikipedia_name" : "松徳学院中学校・高等学校"
       },
       "松江市立女子高等学校" : {
+         "location" : "島根県松江市西尾町540-1",
          "location_area" : "松江市",
+         "location_zipcode" : "690-0835",
          "owner_type" : "市立",
-         "short_name" : "女子高校"
+         "senior_high_school_code" : "32135E",
+         "short_name" : "女子高校",
+         "url" : "http://www.mable.ne.jp/~matsuegh/"
       },
       "水谷学園出雲北陵高等学校" : {
+         "location" : "島根県出雲市西林木町3番地",
+         "location_zipcode" : "693-0073",
          "owner_type" : "私立",
+         "senior_high_school_code" : "32506G",
          "short_name" : "水谷学園出雲北陵高校",
+         "url" : "http://izumohokuryo-h.ed.jp/",
          "wikipedia_name" : "出雲北陵中学校・高等学校"
       },
       "永島学園 出雲西高等学校" : {
+         "location" : "島根県出雲市下古志町1163番地",
+         "location_zipcode" : "693-0032",
          "owner_type" : "私立",
          "short_name" : "永島学園 出雲西高校",
+         "url" : "http://www.izumonishikou.jp/",
          "wikipedia_name" : "出雲西高等学校"
       },
       "永島学園 松江西高等学校" : {
+         "location" : "島根県松江市上乃木三丁目21番10号",
+         "location_wikipedia_latlon" : "|35|26|53.6|N|133|3|29.7|E|",
+         "location_zipcode" : "690-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "32505J",
          "short_name" : "永島学園 松江西高校",
+         "url" : "http://www.matsuenishi-h.ed.jp/",
          "wikipedia_name" : "松江西高等学校"
       },
       "江の川学園 石見智翠館高等学校" : {
+         "location" : "島根県江津市渡津町1904-1",
+         "location_zipcode" : "695-8502",
          "owner_type" : "私立",
+         "senior_high_school_code" : "32508C",
          "short_name" : "江の川学園 石見智翠館高校",
+         "url" : "http://www.iwamichisuikan.ed.jp/",
          "wikipedia_name" : "石見智翠館高等学校"
       },
       "益田永島学園 明誠高等学校" : {
+         "location" : "島根県益田市三宅町7番37号",
+         "location_wikipedia_latlon" : "|34|40|34.1|N|131|51|21.6|E|",
+         "location_zipcode" : "698-0006",
          "owner_type" : "私立",
+         "senior_high_school_code" : "32509A",
          "short_name" : "益田永島学園 明誠高校",
+         "url" : "http://meisei-masuda.ed.jp/",
          "wikipedia_name" : "明誠高等学校 (島根県)"
       },
       "立正大学淞南高等学校" : {
+         "location" : "島根県松江市大庭町1794-2",
+         "location_wikipedia_latlon" : "|35|25|27.5|N|133|4|55.4|E|",
+         "location_zipcode" : "690-8517",
          "owner_type" : "私立",
-         "short_name" : "立正大学淞南高校"
+         "senior_high_school_code" : "32502D",
+         "short_name" : "立正大学淞南高校",
+         "url" : "http://www.shonangakuen-h.ed.jp/"
       }
    }
 }

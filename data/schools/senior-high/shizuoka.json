@@ -1,24 +1,40 @@
 {
    "senior_high_schools" : {
       "つくば開成高等学校" : {
+         "location" : "茨城県牛久市柏田町3315-10",
          "location_area" : "静岡市",
+         "location_zipcode" : "300-1211",
          "owner_type" : "私立",
-         "short_name" : "つくば開成高校"
+         "senior_high_school_code" : "08524D",
+         "short_name" : "つくば開成高校",
+         "url" : "http://www.t-kaisei.ed.jp/"
       },
       "ウィザス高等学校" : {
+         "location" : "茨城県高萩市赤浜2086-1",
          "location_area" : "静岡市",
+         "location_zipcode" : "318-0001",
          "owner_type" : "私立",
-         "short_name" : "ウィザス高校"
+         "senior_high_school_code" : "08526A",
+         "short_name" : "ウィザス高校",
+         "url" : "http://www.with-us.ed.jp/"
       },
       "オイスカ高等学校" : {
+         "location" : "静岡県浜松市西区和地町5835",
          "location_area" : "浜松市",
+         "location_zipcode" : "431-1115",
          "owner_type" : "私立",
-         "short_name" : "オイスカ高校"
+         "senior_high_school_code" : "22543G",
+         "short_name" : "オイスカ高校",
+         "url" : "http://www.oisca.ed.jp/"
       },
       "クラ・ゼミ 輝高等学校" : {
+         "location" : "静岡県榛原郡吉田町神戸726-4",
          "location_area" : "榛原郡吉田町",
+         "location_zipcode" : "421-0304",
          "owner_type" : "私立",
-         "short_name" : "クラ・ゼミ 輝高校"
+         "senior_high_school_code" : "22546A",
+         "short_name" : "クラ・ゼミ 輝高校",
+         "url" : "http://www.kirari-highschool.jp/"
       },
       "クラ・ゼミ 輝高等学校浜松校" : {
          "location_area" : "浜松市",
@@ -26,54 +42,96 @@
          "short_name" : "輝高等学校浜松校"
       },
       "クラーク記念国際高等学校浜松キャンパス" : {
+         "location" : "北海道深川市納内町3丁目2-40",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
+         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "01556D",
          "short_name" : "クラーク記念国際高校浜松キャンパス",
+         "url" : "http://www.clark.ed.jp/",
          "wikipedia_name" : "クラーク記念国際高等学校"
       },
       "クラーク記念国際高等学校静岡キャンパス" : {
+         "location" : "北海道深川市納内町3丁目2-40",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
+         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "01556D",
          "short_name" : "クラーク記念国際高校静岡キャンパス",
+         "url" : "http://www.clark.ed.jp/",
          "wikipedia_name" : "クラーク記念国際高等学校"
       },
       "三島高等学校" : {
+         "location" : "静岡県駿東郡長泉町竹原354",
          "location_area" : "駿東郡長泉町",
+         "location_wikipedia_latlon" : "|35|7|9.9|N|138|54|1.8|E|",
+         "location_zipcode" : "411-0944",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22503H",
          "short_name" : "三島高校",
+         "url" : "http://www2.tokai.or.jp/mishimakoko/",
          "wikipedia_name" : "三島学園三島高等学校"
       },
       "不二聖心女子学院高等学校" : {
+         "location" : "静岡県裾野市桃園198",
          "location_area" : "裾野市",
+         "location_wikipedia_latlon" : "|35|10|50.9|N|138|53|46.1|E|",
+         "location_zipcode" : "410-1126",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22502K",
          "short_name" : "不二聖心女子学院高校",
+         "url" : "http://www.fujiseishin-jh.ed.jp/",
          "wikipedia_name" : "不二聖心女子学院中学校・高等学校"
       },
       "加藤学園暁秀高等学校" : {
+         "location" : "静岡県沼津市岡宮字中見代1361-1",
          "location_area" : "沼津市",
+         "location_zipcode" : "410-0011",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22507A",
          "short_name" : "加藤学園暁秀高校",
+         "url" : "http://www.katoh-net.ac.jp/GyoshuHS/",
          "wikipedia_name" : "加藤学園暁秀中学校・高等学校"
       },
       "加藤学園高等学校" : {
+         "location" : "静岡県沼津市大岡自由ヶ丘1979",
          "location_area" : "沼津市",
+         "location_zipcode" : "410-0022",
          "owner_type" : "私立",
-         "short_name" : "加藤学園高校"
+         "senior_high_school_code" : "22508J",
+         "short_name" : "加藤学園高校",
+         "url" : "http://www.katoh-net.ac.jp/KatohHS/"
       },
       "勇志国際高等学校" : {
+         "location" : "熊本県天草市御所浦町牧島1065-3",
          "location_area" : "静岡市",
+         "location_zipcode" : "866-0334",
          "owner_type" : "私立",
-         "short_name" : "勇志国際高校"
+         "senior_high_school_code" : "43523G",
+         "short_name" : "勇志国際高校",
+         "url" : "http://www.yushi-kokusai.jp/"
       },
       "向陽台高等学校" : {
+         "location" : "大阪府茨木市宿久庄7丁目20-1",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|50|49|N|135|31|44.9|E|region:JP",
+         "location_zipcode" : "567-0051",
          "owner_type" : "私立",
-         "short_name" : "向陽台高校"
+         "senior_high_school_code" : "27575B",
+         "short_name" : "向陽台高校",
+         "url" : "http://www.koyodai.ed.jp/"
       },
       "国際開洋第一高等学校" : {
+         "location" : "静岡県菊川市河東5442-5",
          "location_area" : "菊川市",
+         "location_zipcode" : "437-1506",
          "owner_type" : "私立",
-         "short_name" : "国際開洋第一高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22544E",
+         "short_name" : "国際開洋第一高校",
+         "url" : "http://www2.wbs.ne.jp/~kaiyou1/"
       },
       "城南静岡高等学校" : {
          "location_area" : "静岡市",
@@ -81,42 +139,74 @@
          "short_name" : "城南静岡高校"
       },
       "富士市立吉原商業高等学校" : {
+         "location" : "静岡県富士市比奈1654",
          "location_area" : "富士市",
+         "location_zipcode" : "417-0847",
          "owner_type" : "市立",
-         "short_name" : "吉原商業高校"
+         "senior_high_school_code" : "22186E",
+         "short_name" : "吉原商業高校",
+         "url" : "http://www.fuji-ichiritsu.jp/"
       },
       "島田樟誠高等学校" : {
+         "location" : "静岡県島田市伊太2075-1",
          "location_area" : "島田市",
+         "location_zipcode" : "427-0034",
          "owner_type" : "私立",
-         "short_name" : "島田樟誠高校"
+         "senior_high_school_code" : "22529A",
+         "short_name" : "島田樟誠高校",
+         "url" : "http://www.shimagaku-h.ed.jp/index.html"
       },
       "常葉学園橘高等学校" : {
+         "location" : "静岡県静岡市葵区瀬名二丁目1-1",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|35|00|47.6|N|138|25|01.0|E|",
+         "location_zipcode" : "420-0911",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22522D",
          "short_name" : "常葉学園橘高校",
+         "url" : "http://www.tokoha.ac.jp/tachibana-jh/",
          "wikipedia_name" : "常葉学園橘中学校・高等学校"
       },
       "常葉学園菊川高等学校" : {
+         "location" : "静岡県菊川市半済1550",
          "location_area" : "菊川市",
+         "location_zipcode" : "439-0019",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22530E",
          "short_name" : "常葉学園菊川高校",
+         "url" : "http://www.tokoha.net/kikugawa/",
          "wikipedia_name" : "常葉学園菊川中学校・高等学校"
       },
       "常葉学園高等学校" : {
+         "location" : "静岡県静岡市葵区水落町1-30",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|52.9|N|138|23|16.6|E|",
+         "location_zipcode" : "420-8588",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22521F",
          "short_name" : "常葉学園高校",
+         "url" : "http://www.tokoha.ac.jp/hs-tokoha/",
          "wikipedia_name" : "常葉学園中学校・高等学校"
       },
       "御殿場西高等学校" : {
+         "location" : "静岡県御殿場市茱萸沢（ぐみさわ）644-1",
          "location_area" : "御殿場市",
+         "location_wikipedia_latlon" : "|35|18|49.4|N|138|54|51.3|E|",
+         "location_zipcode" : "412-0041",
          "owner_type" : "私立",
-         "short_name" : "御殿場西高校"
+         "senior_high_school_code" : "22501A",
+         "short_name" : "御殿場西高校",
+         "url" : "http://gotembanishi-h.ed.jp/"
       },
       "日本大学三島高等学校" : {
+         "location" : "静岡県三島市文教町2-31-145",
          "location_area" : "三島市",
+         "location_wikipedia_latlon" : "|35|7|58.7|N|138|54|52.9|E|",
+         "location_zipcode" : "411-0033",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22504F",
          "short_name" : "日本大学三島高校",
+         "url" : "http://www.mishima.nihon-u.ed.jp/",
          "wikipedia_name" : "日本大学三島高等学校・中学校"
       },
       "日本航空高等学校沼津キャンパス" : {
@@ -126,35 +216,62 @@
          "wikipedia_name" : "日本航空高等学校"
       },
       "日本航空高等学校通信制課程" : {
+         "location" : "山梨県北杜市長坂町日野2444",
          "location_area" : "静岡市",
+         "location_zipcode" : "408-0026",
          "owner_type" : "私立",
-         "short_name" : "ウィングハイスクール"
+         "short_name" : "ウィングハイスクール",
+         "url" : "http://WWW.wing-hs.jp/"
       },
       "星槎国際高等学校" : {
+         "location" : "北海道芦別市緑泉町5-12",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|43|27|39.1|N|142|10|8.9|E|",
+         "location_zipcode" : "075-0163",
          "owner_type" : "私立",
-         "short_name" : "星槎国際高校"
+         "senior_high_school_code" : "01558A",
+         "short_name" : "星槎国際高校",
+         "url" : "http://www.seisa.ed.jp/"
       },
       "星陵高等学校" : {
+         "location" : "静岡県富士宮市星山1068",
          "location_area" : "富士宮市",
+         "location_zipcode" : "418-0035",
          "owner_type" : "私立",
-         "short_name" : "星陵高校"
+         "senior_high_school_code" : "22509G",
+         "short_name" : "星陵高校",
+         "url" : "http://www.starhill.ed.jp/"
       },
       "東海大学付属望星高等学校" : {
+         "location" : "東京都渋谷区富ヶ谷2-10-1",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|35|39|55.3|N|139|41|10.9|E|",
+         "location_zipcode" : "151-0063",
          "owner_type" : "私立",
-         "short_name" : "東海大学付属望星高校"
+         "senior_high_school_code" : "13555A",
+         "short_name" : "東海大学付属望星高校",
+         "url" : "http://www.bosei.tokai.ed.jp/"
       },
       "東海大学付属翔洋高等学校" : {
+         "location" : "静岡県静岡市清水区折戸3-20-1",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|59|19.6|N|138|30|54.2|E|",
+         "location_zipcode" : "424-0902",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22514C",
          "short_name" : "東海大学付属翔洋高校",
+         "url" : "http://www.shoyo.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属翔洋高等学校・中等部"
       },
       "桐陽高等学校" : {
+         "location" : "静岡県沼津市高島本町8番52号",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|6|38.9|N|138|51|27.8|E|",
+         "location_zipcode" : "410-0055",
          "owner_type" : "私立",
-         "short_name" : "桐陽高校"
+         "senior_high_school_code" : "22541A",
+         "short_name" : "桐陽高校",
+         "url" : "http://www.toyo-numazu.ac.jp/"
       },
       "沼津市立沼津高等学校" : {
          "location_area" : "沼津市",
@@ -162,184 +279,327 @@
          "short_name" : "沼津高校"
       },
       "沼津精華学園沼津中央高等学校" : {
+         "location" : "沼津市杉崎町11-20",
          "location_area" : "沼津市",
+         "location_zipcode" : "411-0831",
          "owner_type" : "私立",
-         "short_name" : "沼津精華学園沼津中央高校"
+         "senior_high_school_code" : "22505D",
+         "short_name" : "沼津精華学園沼津中央高校",
+         "url" : "http://www.n-chuo.ac.jp/"
       },
       "浜松啓陽高等学校" : {
+         "location" : "静岡県浜松市北区三幸町421",
          "location_area" : "浜松市",
+         "location_zipcode" : "433-8101",
          "owner_type" : "私立",
-         "short_name" : "浜松啓陽高校"
+         "senior_high_school_code" : "22545C",
+         "short_name" : "浜松啓陽高校",
+         "url" : "http://www.keiyo.ed.jp/"
       },
       "浜松学芸高等学校" : {
+         "location" : "静岡県浜松市中区下池川町34番3号",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|43|8.4|N|137|43|38.9|E|",
+         "location_zipcode" : "430-0905",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22535F",
          "short_name" : "浜松学芸高校",
+         "url" : "http://www.gakugei.ed.jp/",
          "wikipedia_name" : "浜松学芸中学校・高等学校"
       },
       "浜松市立高等学校" : {
+         "location" : "静岡県浜松市中区広沢一丁目21番1号",
          "location_area" : "浜松市中区",
+         "location_wikipedia_latlon" : "|34|42|59.2|N|137|43|5.4|E|",
+         "location_zipcode" : "432-8013",
          "owner_type" : "市立",
-         "short_name" : "高校"
+         "senior_high_school_code" : "22190C",
+         "short_name" : "高校",
+         "url" : "http://www.city.hamamatsu-szo.ed.jp/ichiritsu-h/"
       },
       "浜松日体高等学校" : {
+         "location" : "静岡県浜松市東区半田山三丁目30番1号",
          "location_area" : "浜松市",
+         "location_zipcode" : "431-3125",
          "owner_type" : "私立",
          "short_name" : "浜松日体高校",
+         "url" : "http://www.h-nittai.ed.jp/",
          "wikipedia_name" : "浜松日体中学校・高等学校"
       },
       "浜松海の星高等学校" : {
+         "location" : "静岡県浜松市中区蜆塚三丁目14-1",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|42|55|N|137|42|22|E|",
+         "location_zipcode" : "432-8018",
          "owner_type" : "私立",
-         "short_name" : "浜松海の星高校"
+         "senior_high_school_code" : "22537B",
+         "short_name" : "浜松海の星高校",
+         "url" : "http://www.uminohoshi-h.ed.jp/"
       },
       "浜松開誠館高等学校" : {
+         "location" : "静岡県浜松市中区松城町207-2",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|42|35.4|N|137|43|23.5|E|",
+         "location_zipcode" : "430-0947",
          "owner_type" : "私立",
          "short_name" : "浜松開誠館高校",
+         "url" : "http://www.kaiseikan.ed.jp/",
          "wikipedia_name" : "浜松開誠館中学校・高等学校"
       },
       "清水国際高等学校" : {
+         "location" : "静岡県静岡市清水区天神1-4-1",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|35|1|32|N|138|28|50.3|E|",
+         "location_zipcode" : "424-0809",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22511J",
          "short_name" : "清水国際高校",
+         "url" : "http://www.shimizu-kokusai.ac.jp/",
          "wikipedia_name" : "清水国際中学校・高等学校"
       },
       "焼津高等学校" : {
+         "location" : "静岡県焼津市中港1-1-8",
          "location_area" : "焼津市",
+         "location_zipcode" : "425-0021",
          "owner_type" : "私立",
-         "short_name" : "焼津高校"
+         "senior_high_school_code" : "22526G",
+         "short_name" : "焼津高校",
+         "url" : "http://www.tokai.or.jp/yaizu-h/"
       },
       "相川学園静清高等学校" : {
+         "location" : "静岡県藤枝市潮87",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0007",
          "owner_type" : "私立",
-         "short_name" : "相川学園静清高校"
+         "short_name" : "相川学園静清高校",
+         "url" : "http://www.seisei-th.ed.jp/"
       },
       "磐田東高等学校" : {
+         "location" : "静岡県磐田市見付180-5",
          "location_area" : "磐田市",
+         "location_wikipedia_latlon" : "|34|43|16.5|N|137|51|53.3|E|",
+         "location_zipcode" : "438-0086",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22531C",
          "short_name" : "磐田東高校",
+         "url" : "http://www.iwatahigashi-h.ed.jp/",
          "wikipedia_name" : "磐田東中学校・高等学校"
       },
       "科学技術学園高等学校" : {
+         "location" : "東京都世田谷区成城1丁目11番地1号",
          "location_area" : "静岡市",
+         "location_zipcode" : "157-8562",
          "owner_type" : "私立",
-         "short_name" : "科学技術学園高校"
+         "senior_high_school_code" : "13635C",
+         "short_name" : "科学技術学園高校",
+         "url" : "http://www.kagiko.ed.jp/kag/"
       },
       "聖隷クリストファー高等学校" : {
+         "location" : "静岡県浜松市北区三方原町3453",
          "location_area" : "浜松市",
+         "location_zipcode" : "433-8558",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22539J",
          "short_name" : "聖隷クリストファー高校",
+         "url" : "http://www.seirei.ed.jp/",
          "wikipedia_name" : "聖隷クリストファー中・高等学校"
       },
       "興誠高等学校" : {
+         "location" : "静岡県浜松市中区高林一丁目17番2号",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|43|41.1|N|137|43|45.7|E|",
+         "location_zipcode" : "430-0907",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22532A",
          "short_name" : "興誠高校",
+         "url" : "http://www.szo-kosei-h.ed.jp/",
          "wikipedia_name" : "興誠中学校・高等学校"
       },
       "芥田学園高等学校" : {
+         "location" : "静岡県浜松市中区向宿二丁目20番1号",
          "location_area" : "浜松市",
+         "location_zipcode" : "430-0851",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22533K",
          "short_name" : "芥田学園高校",
+         "url" : "http://www.akuta.ed.jp/",
          "wikipedia_name" : "芥田学園中学校・高等学校"
       },
       "藤枝明誠高等学校" : {
+         "location" : "静岡県藤枝市大洲二丁目2番1号",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0051",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22542J",
          "short_name" : "藤枝明誠高校",
+         "url" : "http://www.fgmeisei.net/",
          "wikipedia_name" : "藤枝明誠中学校・高等学校"
       },
       "藤枝順心高等学校" : {
+         "location" : "静岡県藤枝市前島二丁目3番1号",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0067",
          "owner_type" : "私立",
          "short_name" : "藤枝順心高校",
+         "url" : "http://www.fgjunshin.net/",
          "wikipedia_name" : "藤枝順心中学校・高等学校"
       },
       "誠恵高等学校" : {
+         "location" : "静岡県沼津市沼北町2-9-12",
          "location_area" : "沼津市",
+         "location_zipcode" : "410-0058",
          "owner_type" : "私立",
-         "short_name" : "誠恵高校"
+         "senior_high_school_code" : "22540B",
+         "short_name" : "誠恵高校",
+         "url" : "http://www.seikei-on.ac.jp/"
       },
       "青森山田高等学校" : {
+         "location" : "青森県青森市青葉三丁目13番40号",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|40|48|14.0|N|140|44|57.5|E|",
+         "location_zipcode" : "030-8520",
          "owner_type" : "私立",
+         "senior_high_school_code" : "02505E",
          "short_name" : "青森山田高校",
+         "url" : "http://www.aomori-yamada-hs.ac.jp/",
          "wikipedia_name" : "青森山田中学高等学校"
       },
       "静岡サレジオ高等学校" : {
+         "location" : "静岡市清水区中之郷3丁目2番1号",
          "location_area" : "静岡市",
+         "location_zipcode" : "424-8624",
          "owner_type" : "私立",
          "short_name" : "静岡サレジオ高校",
+         "url" : "http://www.ssalesio.ac.jp/hiju/",
          "wikipedia_name" : "静岡サレジオ中学校・高等学校"
       },
       "静岡北高等学校" : {
+         "location" : "静岡県静岡市葵区瀬名五丁目14番1号",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|35|01|37.5|N|138|25|19.2|E|",
+         "location_zipcode" : "420-0911",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22523B",
          "short_name" : "静岡北高校",
+         "url" : "http://www.shizuokakita-h.ed.jp/",
          "wikipedia_name" : "静岡北中学校・高等学校"
       },
       "静岡大成高等学校" : {
+         "location" : "静岡県静岡市葵区鷹匠二丁目4番18号",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|41.8|N|138|23|19.9|E|",
+         "location_zipcode" : "420-0839",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22516K",
          "short_name" : "静岡大成高校",
+         "url" : "http://www.s-taisei.ed.jp/",
          "wikipedia_name" : "静岡大成中学校・高等学校"
       },
       "静岡女子高等学校" : {
+         "location" : "静岡県静岡市駿河区八幡三丁目6番1号",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|10.8|N|138|23|45.5|E|",
+         "location_zipcode" : "422-8076",
          "owner_type" : "私立",
-         "short_name" : "静岡女子高校"
+         "senior_high_school_code" : "22519D",
+         "short_name" : "静岡女子高校",
+         "url" : "http://www.shizuoka-joshi.ac.jp/"
       },
       "静岡学園高等学校" : {
+         "location" : "静岡県静岡市駿河区聖一色226-3",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|59|20.6|N|138|25|36.1|E|",
+         "location_zipcode" : "422-8007",
          "owner_type" : "私立",
          "short_name" : "静岡学園高校",
+         "url" : "http://www.shizugaku.ed.jp/",
          "wikipedia_name" : "静岡学園中学校・高等学校"
       },
       "静岡市立商業高等学校" : {
+         "location" : "静岡県静岡市駿河区有東三丁目4-17",
          "location_area" : "静岡市駿河区",
+         "location_zipcode" : "422-8032",
          "owner_type" : "市立",
-         "short_name" : "商業高校"
+         "short_name" : "商業高校",
+         "url" : "http://www.shizuokaichisho.ed.jp/"
       },
       "静岡市立清水商業高等学校" : {
+         "location" : "静岡市清水区桜が丘町7-15",
          "location_area" : "静岡市清水区",
+         "location_wikipedia_latlon" : "|35|0|36.3|N|138|28|41.4|E|",
+         "location_zipcode" : "424-8752",
          "owner_type" : "市立",
-         "short_name" : "清水商業高校"
+         "senior_high_school_code" : "22187C",
+         "short_name" : "清水商業高校",
+         "url" : "http://www.kiyosho.jp/index.htm"
       },
       "静岡市立高等学校" : {
+         "location" : "静岡県静岡市葵区千代田三丁目1-1",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-0803",
          "owner_type" : "市立",
-         "short_name" : "高校"
+         "senior_high_school_code" : "22188A",
+         "short_name" : "高校",
+         "url" : "http://www.shizuokacity-h.ed.jp/"
       },
       "静岡県富士見高等学校" : {
+         "location" : "静岡県富士市平垣町1-1",
          "location_area" : "富士市",
+         "location_zipcode" : "416-8555",
          "owner_type" : "私立",
-         "short_name" : "静岡県富士見高校"
+         "senior_high_school_code" : "22510A",
+         "short_name" : "静岡県富士見高校",
+         "url" : "http://www.fujimi.ed.jp/"
       },
       "静岡県立三ヶ日高等学校" : {
+         "location" : "静岡県浜松市北区三ヶ日町釣78-1",
          "location_area" : "浜松市北区",
+         "location_zipcode" : "431-1416",
          "owner_type" : "県立",
-         "short_name" : "三ヶ日高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22182B",
+         "short_name" : "三ヶ日高校",
+         "url" : "http://www.shizuoka-c.ed.jp/mikkabi-h/"
       },
       "静岡県立三島北高等学校" : {
+         "location" : "静岡県三島市文教町1-3-18",
          "location_area" : "三島市",
+         "location_wikipedia_latlon" : "|35|7|46.9|N|138|54|46.4|E|",
+         "location_zipcode" : "411-0033",
          "owner_type" : "県立",
-         "short_name" : "三島北高校"
+         "senior_high_school_code" : "22114H",
+         "short_name" : "三島北高校",
+         "url" : "http://www2.tokai.or.jp/sankita/"
       },
       "静岡県立三島南高等学校" : {
+         "location" : "静岡県三島市大場608",
          "location_area" : "三島市",
+         "location_wikipedia_latlon" : "|35|5|43.0|N|138|56|40.3|E|",
+         "location_zipcode" : "411-0803",
          "owner_type" : "県立",
-         "short_name" : "三島南高校"
+         "senior_high_school_code" : "22113K",
+         "short_name" : "三島南高校",
+         "url" : "http://www.shizuoka-c.ed.jp/mishimaminami-h/"
       },
       "静岡県立三島長陵高等学校" : {
+         "location" : "静岡県三島市文教町1-3-93",
          "location_area" : "三島市",
+         "location_zipcode" : "411-0033",
          "owner_type" : "県立",
-         "short_name" : "三島長陵高校"
+         "school_area" : "静岡県",
+         "senior_high_school_code" : "22203J",
+         "short_name" : "三島長陵高校",
+         "url" : "http://www.shizuoka-c.ed.jp/nagaizumi-h/"
       },
       "静岡県立下田高等学校" : {
+         "location" : "静岡県下田市蓮台寺152",
          "location_area" : "下田市",
+         "location_zipcode" : "415-0038",
          "owner_type" : "県立",
-         "short_name" : "下田高校"
+         "school_area" : "第1学区(賀茂)",
+         "senior_high_school_code" : "22207A",
+         "short_name" : "下田高校",
+         "url" : "http://www.shimoda-h.shizuoka-c.ed.jp/"
       },
       "静岡県立下田高等学校南伊豆分校" : {
          "location_area" : "賀茂郡南伊豆町",
@@ -347,9 +607,14 @@
          "short_name" : "下田高校南伊豆分校"
       },
       "静岡県立二俣高等学校" : {
+         "location" : "静岡県浜松市天竜区二俣町二俣196-2",
          "location_area" : "浜松市天竜区",
+         "location_zipcode" : "431-3314",
          "owner_type" : "県立",
-         "short_name" : "二俣高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "22162H",
+         "short_name" : "二俣高校",
+         "url" : "http://www.shizuoka-c.ed.jp/futamata-h/"
       },
       "静岡県立伊東商業高等学校" : {
          "location_area" : "伊東市",
@@ -357,29 +622,53 @@
          "short_name" : "伊東商業高校"
       },
       "静岡県立伊東高等学校" : {
+         "location" : "静岡県伊東市岡入の道1229-3",
          "location_area" : "伊東市",
+         "location_zipcode" : "414-0055",
          "owner_type" : "県立",
-         "short_name" : "伊東高校"
+         "senior_high_school_code" : "22105J",
+         "short_name" : "伊東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/ito-h/"
       },
       "静岡県立伊東高等学校城ケ崎分校" : {
+         "location" : "静岡県伊東市八幡野1120",
          "location_area" : "伊東市",
+         "location_wikipedia_latlon" : "|34|53|11.1|N|139|6|52.4|E|",
+         "location_zipcode" : "413-0232",
          "owner_type" : "県立",
-         "short_name" : "伊東高校城ケ崎分校"
+         "school_area" : "第2学区(田方)",
+         "short_name" : "伊東高校城ケ崎分校",
+         "url" : "http://www.shizuoka-c.ed.jp/itojogasaki-h/"
       },
       "静岡県立伊豆中央高等学校" : {
+         "location" : "静岡県伊豆の国市寺家970-1",
          "location_area" : "伊豆の国市",
+         "location_wikipedia_latlon" : "|35|2|32.3|N|138|56|13.5|E|",
+         "location_zipcode" : "410-2122",
          "owner_type" : "県立",
-         "short_name" : "伊豆中央高校"
+         "school_area" : "第2学区",
+         "senior_high_school_code" : "22192K",
+         "short_name" : "伊豆中央高校",
+         "url" : "http://www.shizuoka-c.ed.jp/izuchuo-h/index.html"
       },
       "静岡県立伊豆総合高等学校" : {
+         "location" : "静岡県伊豆市牧之郷892",
          "location_area" : "伊豆市",
+         "location_zipcode" : "410-2401",
          "owner_type" : "県立",
-         "short_name" : "伊豆総合高校"
+         "school_area" : "静岡県全域",
+         "short_name" : "伊豆総合高校",
+         "url" : "http://www3.nakaizushin-h.shizuoka-c.ed.jp/"
       },
       "静岡県立佐久間高等学校" : {
+         "location" : "静岡県浜松市天竜区佐久間町中部683-1",
          "location_area" : "浜松市天竜区",
+         "location_zipcode" : "431-3908",
          "owner_type" : "県立",
-         "short_name" : "佐久間高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "22164D",
+         "short_name" : "佐久間高校",
+         "url" : "http://www.shizuoka-c.ed.jp/sakuma-h/"
       },
       "静岡県立吉原工業高等学校" : {
          "location_area" : "富士市",
@@ -387,89 +676,171 @@
          "short_name" : "吉原工業高校"
       },
       "静岡県立吉原高等学校" : {
+         "location" : "静岡県富士市今泉2160",
          "location_area" : "富士市",
+         "location_zipcode" : "417-0001",
          "owner_type" : "県立",
-         "short_name" : "吉原高校"
+         "senior_high_school_code" : "22123G",
+         "short_name" : "吉原高校",
+         "url" : "http://www.yoshiko.ed.jp/"
       },
       "静岡県立吉田高等学校" : {
+         "location" : "静岡県榛原郡吉田町片岡2130",
          "location_area" : "榛原郡吉田町",
+         "location_zipcode" : "421-0303",
          "owner_type" : "県立",
-         "short_name" : "吉田高校"
+         "school_area" : "第7学区",
+         "senior_high_school_code" : "22149A",
+         "short_name" : "吉田高校",
+         "url" : "http://www.shizuoka-c.ed.jp/yoshida-h/"
       },
       "静岡県立土肥高等学校" : {
+         "location" : "静岡県伊豆市土肥870-1",
          "location_area" : "伊豆市",
+         "location_wikipedia_latlon" : "|34|54|31.4|N|138|47|48.3|E|",
+         "location_zipcode" : "410-3302",
          "owner_type" : "県立",
-         "short_name" : "土肥高校"
+         "school_area" : "第2学区(田方)",
+         "senior_high_school_code" : "22108C",
+         "short_name" : "土肥高校",
+         "url" : "http://www.shizuoka-c.ed.jp/toi-h/"
       },
       "静岡県立大井川高等学校" : {
+         "location" : "静岡県焼津市上新田292-1",
          "location_area" : "焼津市",
+         "location_zipcode" : "421-0206",
          "owner_type" : "県立",
-         "short_name" : "大井川高校"
+         "school_area" : "第7学区",
+         "senior_high_school_code" : "22201B",
+         "short_name" : "大井川高校",
+         "url" : "http://www.shizuoka-c.ed.jp/ooigawa-h/"
       },
       "静岡県立天竜林業高等学校" : {
+         "location" : "静岡県浜松市天竜区二俣町二俣601",
          "location_area" : "浜松市天竜区",
+         "location_zipcode" : "431-3314",
          "owner_type" : "県立",
-         "short_name" : "天竜林業高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "22163F",
+         "short_name" : "天竜林業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/tenrin-h/"
       },
       "静岡県立富士宮北高等学校" : {
+         "location" : "静岡県富士宮市宮北町230",
          "location_area" : "富士宮市",
+         "location_wikipedia_latlon" : "|35|14|17.9|N|138|36|42.9|E|",
+         "location_zipcode" : "418-0053",
          "owner_type" : "県立",
-         "short_name" : "富士宮北高校"
+         "senior_high_school_code" : "22127K",
+         "short_name" : "富士宮北高校",
+         "url" : "http://www.fkh.ed.jp/index2.htm"
       },
       "静岡県立富士宮東高等学校" : {
+         "location" : "静岡県富士宮市小泉1234",
          "location_area" : "富士宮市",
+         "location_wikipedia_latlon" : "|35|13|32.7|N|138|37|44.3|E|",
+         "location_zipcode" : "418-0022",
          "owner_type" : "県立",
-         "short_name" : "富士宮東高校"
+         "senior_high_school_code" : "22126A",
+         "short_name" : "富士宮東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fujinomiyahigashi-h/"
       },
       "静岡県立富士宮西高等学校" : {
+         "location" : "静岡県富士宮市淀師1550",
          "location_area" : "富士宮市",
+         "location_wikipedia_latlon" : "|35|14|47.6|N|138|36|23.2|E|",
+         "location_zipcode" : "418-0052",
          "owner_type" : "県立",
-         "short_name" : "富士宮西高校"
+         "senior_high_school_code" : "22196B",
+         "short_name" : "富士宮西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fujinomiyanishi-h/"
       },
       "静岡県立富士東高等学校" : {
+         "location" : "静岡県富士市今泉2921",
          "location_area" : "富士市",
+         "location_wikipedia_latlon" : "|35|10|50.2|N|138|42|0.9|E|",
+         "location_zipcode" : "417-8571",
          "owner_type" : "県立",
-         "short_name" : "富士東高校"
+         "school_area" : "第4学区",
+         "short_name" : "富士東高校",
+         "url" : "http://www6.shizuokanet.ne.jp/fujieast/"
       },
       "静岡県立富士高等学校" : {
+         "location" : "静岡県富士市松本17",
          "location_area" : "富士市",
+         "location_wikipedia_latlon" : "|35|10|1.8|N|138|39|9.0|E|",
+         "location_zipcode" : "416-0903",
          "owner_type" : "県立",
-         "short_name" : "富士高校"
+         "school_area" : "富士地区",
+         "senior_high_school_code" : "22125C",
+         "short_name" : "富士高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fuji-h/"
       },
       "静岡県立富岳館高等学校" : {
+         "location" : "静岡県富士宮市弓沢町732",
          "location_area" : "富士宮市",
+         "location_wikipedia_latlon" : "|35|13|15.4|N|138|37|30.4|E|",
+         "location_zipcode" : "418-0073",
          "owner_type" : "県立",
-         "short_name" : "富岳館高校"
+         "senior_high_school_code" : "22128H",
+         "short_name" : "富岳館高校",
+         "url" : "http://www.fugakukan-h.sakura.ne.jp/"
       },
       "静岡県立小山高等学校" : {
+         "location" : "静岡県駿東郡小山町竹之下369",
          "location_area" : "駿東郡小山町",
+         "location_zipcode" : "410-1313",
          "owner_type" : "県立",
-         "short_name" : "小山高校"
+         "school_area" : "沼津・駿東学区",
+         "senior_high_school_code" : "22204G",
+         "short_name" : "小山高校",
+         "url" : "http://www.shizuoka-c.ed.jp/oyama-h/"
       },
       "静岡県立小笠高等学校" : {
+         "location" : "静岡県菊川市東横地1222-3",
          "location_area" : "菊川市",
+         "location_zipcode" : "439-0022",
          "owner_type" : "県立",
-         "short_name" : "小笠高校"
+         "senior_high_school_code" : "22155E",
+         "short_name" : "小笠高校",
+         "url" : "http://www.shizuoka-c.ed.jp/ogasa-h/"
       },
       "静岡県立島田商業高等学校" : {
+         "location" : "静岡県島田市祇園町8707番地",
          "location_area" : "島田市",
+         "location_zipcode" : "330-0856",
          "owner_type" : "県立",
-         "short_name" : "島田商業高校"
+         "senior_high_school_code" : "22146F",
+         "short_name" : "島田商業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/shimada-ch/"
       },
       "静岡県立島田工業高等学校" : {
+         "location" : "静岡県島田市阿知ヶ谷201",
          "location_area" : "島田市",
+         "location_zipcode" : "427-0006",
          "owner_type" : "県立",
-         "short_name" : "島田工業高校"
+         "senior_high_school_code" : "22145H",
+         "short_name" : "島田工業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/shimada-th/"
       },
       "静岡県立島田高等学校" : {
+         "location" : "静岡県島田市稲荷1-7-1",
          "location_area" : "島田市",
+         "location_wikipedia_latlon" : "|34|50|13.5|N|138|9|0|E|",
+         "location_zipcode" : "427-8588",
          "owner_type" : "県立",
-         "short_name" : "島田高校"
+         "senior_high_school_code" : "22144K",
+         "short_name" : "島田高校",
+         "url" : "http://www.shizuoka-c.ed.jp/shimada-h/"
       },
       "静岡県立川根高等学校" : {
+         "location" : "静岡県榛原郡川根本町徳山1644-1",
          "location_area" : "榛原郡川根本町",
+         "location_zipcode" : "428-0301",
          "owner_type" : "県立",
-         "short_name" : "川根高校"
+         "senior_high_school_code" : "22148D",
+         "short_name" : "川根高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kawane-h/"
       },
       "静岡県立庵原高等学校" : {
          "location_area" : "静岡市清水区",
@@ -477,159 +848,305 @@
          "short_name" : "庵原高校"
       },
       "静岡県立引佐高等学校" : {
+         "location" : "静岡県浜松市北区引佐町金指1428",
          "location_area" : "浜松市北区",
+         "location_zipcode" : "431-2213",
          "owner_type" : "県立",
-         "short_name" : "引佐高校"
+         "senior_high_school_code" : "22180F",
+         "short_name" : "引佐高校",
+         "url" : "http://www.jade.dti.ne.jp/~inasa/"
       },
       "静岡県立御殿場南高等学校" : {
+         "location" : "静岡県御殿場市新橋1450番地",
          "location_area" : "御殿場市",
+         "location_zipcode" : "410-0012",
          "owner_type" : "県立",
-         "short_name" : "御殿場南高校"
+         "senior_high_school_code" : "22116D",
+         "short_name" : "御殿場南高校",
+         "url" : "http://www.shizuoka-c.ed.jp/gotembaminami-h/"
       },
       "静岡県立御殿場高等学校" : {
+         "location" : "静岡県御殿場市御殿場192-1",
          "location_area" : "御殿場市",
+         "location_zipcode" : "412-0028",
          "owner_type" : "県立",
-         "short_name" : "御殿場高校"
+         "senior_high_school_code" : "22115F",
+         "short_name" : "御殿場高校",
+         "url" : "http://www.shizuoka-c.ed.jp/gotemba-h/"
       },
       "静岡県立掛川工業高等学校" : {
+         "location" : "静岡県掛川市葵町15番1号",
          "location_area" : "掛川市",
+         "location_zipcode" : "436-0018",
          "owner_type" : "県立",
-         "short_name" : "掛川工業高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22154G",
+         "short_name" : "掛川工業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kakegawa-th/"
       },
       "静岡県立掛川東高等学校" : {
+         "location" : "静岡県掛川市南西郷1357",
          "location_area" : "掛川市",
+         "location_zipcode" : "436-0024",
          "owner_type" : "県立",
-         "short_name" : "掛川東高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22152A",
+         "short_name" : "掛川東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kakegawahigashi-h/"
       },
       "静岡県立掛川西高等学校" : {
+         "location" : "静岡県掛川市城西1-1-6",
          "location_area" : "掛川市",
+         "location_zipcode" : "436-0054",
          "owner_type" : "県立",
-         "short_name" : "掛川西高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22153J",
+         "short_name" : "掛川西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kakegawanishi-h/"
       },
       "静岡県立新居高等学校" : {
+         "location" : "静岡県湖西市新居町内山2036",
          "location_area" : "湖西市",
+         "location_zipcode" : "431-0304",
          "owner_type" : "県立",
-         "short_name" : "新居高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22179B",
+         "short_name" : "新居高校",
+         "url" : "http://www.shizuoka-c.ed.jp/arai-h/"
       },
       "静岡県立春野高等学校" : {
+         "location" : "静岡県浜松市天竜区春野町堀ノ内284",
          "location_area" : "浜松市天竜区",
+         "location_zipcode" : "437-0625",
          "owner_type" : "県立",
-         "short_name" : "春野高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "22195D",
+         "short_name" : "春野高校",
+         "url" : "http://www.shizuoka-c.ed.jp/haruno-h/"
       },
       "静岡県立松崎高等学校" : {
+         "location" : "静岡県賀茂郡松崎町桜田188番地",
          "location_area" : "賀茂郡松崎町",
+         "location_zipcode" : "410-3693",
          "owner_type" : "県立",
-         "short_name" : "松崎高校"
+         "senior_high_school_code" : "22103B",
+         "short_name" : "松崎高校",
+         "url" : "http://www.shizuoka-c.ed.jp/matsuzaki-h/"
       },
       "静岡県立榛原高等学校" : {
+         "location" : "静岡県牧之原市静波850",
          "location_area" : "牧之原市",
+         "location_zipcode" : "421-0422",
          "owner_type" : "県立",
-         "short_name" : "榛原高校"
+         "school_area" : "第7学区",
+         "senior_high_school_code" : "22150D",
+         "short_name" : "榛原高校",
+         "url" : "http://www.szo-haibara-h.ed.jp/"
       },
       "静岡県立横須賀高等学校" : {
+         "location" : "静岡県掛川市横須賀1491番地の1",
          "location_area" : "掛川市",
+         "location_zipcode" : "437-1395",
          "owner_type" : "県立",
-         "short_name" : "横須賀高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22157A",
+         "short_name" : "横須賀高校",
+         "url" : "http://www.shizuoka-c.ed.jp/yokosuka-h/"
       },
       "静岡県立気賀高等学校" : {
+         "location" : "静岡県浜松市北区細江町広岡1",
          "location_area" : "浜松市北区",
+         "location_zipcode" : "431-1302",
          "owner_type" : "県立",
-         "short_name" : "気賀高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22181D",
+         "short_name" : "気賀高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kiga-h/"
       },
       "静岡県立池新田高等学校" : {
+         "location" : "静岡県御前崎市池新田2907番地の1",
          "location_area" : "御前崎市",
+         "location_zipcode" : "437-1612",
          "owner_type" : "県立",
-         "short_name" : "池新田高校"
+         "school_area" : "小笠",
+         "senior_high_school_code" : "22156C",
+         "short_name" : "池新田高校",
+         "url" : "http://www.ikeshinden-h.ed.jp/"
       },
       "静岡県立沼津商業高等学校" : {
+         "location" : "静岡県駿東郡清水町徳倉1205",
          "location_area" : "駿東郡清水町",
+         "location_zipcode" : "411-0917",
          "owner_type" : "県立",
-         "short_name" : "沼津商業高校"
+         "senior_high_school_code" : "22122J",
+         "short_name" : "沼津商業高校",
+         "url" : "http://www.numasho.jp/"
       },
       "静岡県立沼津城北高等学校" : {
+         "location" : "静岡県沼津市岡一色875番地",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|7|30.5|N|138|52|37.2|E|",
+         "location_zipcode" : "410-0012",
          "owner_type" : "県立",
-         "short_name" : "沼津城北高校"
+         "senior_high_school_code" : "22120B",
+         "short_name" : "沼津城北高校",
+         "url" : "http://www.shizuoka-c.ed.jp/numazujohoku-h/"
       },
       "静岡県立沼津工業高等学校" : {
+         "location" : "静岡県沼津市下香貫八重129-1",
          "location_area" : "沼津市",
+         "location_zipcode" : "410-0822",
          "owner_type" : "県立",
-         "short_name" : "沼津工業高校"
+         "senior_high_school_code" : "22121A",
+         "short_name" : "沼津工業高校",
+         "url" : "http://www2.tokai.or.jp/numako/"
       },
       "静岡県立沼津東高等学校" : {
+         "location" : "静岡県沼津市岡宮812",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|7|47.1|N|138|51|57|E|",
+         "location_zipcode" : "410-0011",
          "owner_type" : "県立",
-         "short_name" : "沼津東高校"
+         "senior_high_school_code" : "22118A",
+         "short_name" : "沼津東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/numazuhigashi-h/"
       },
       "静岡県立沼津西高等学校" : {
+         "location" : "静岡県沼津市本字千本1910-9",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|5|46.7|N|138|50|52.8|E|",
+         "location_zipcode" : "410-0867",
          "owner_type" : "県立",
-         "short_name" : "沼津西高校"
+         "senior_high_school_code" : "22119J",
+         "short_name" : "沼津西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/numazunishi-h/"
       },
       "静岡県立浜北西高等学校" : {
+         "location" : "静岡県浜松市浜北区新原4175-1",
          "location_area" : "浜松市浜北区",
+         "location_zipcode" : "434-0003",
          "owner_type" : "県立",
-         "short_name" : "浜北西高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22193H",
+         "short_name" : "浜北西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamakitanishi-h/"
       },
       "静岡県立浜名高等学校" : {
+         "location" : "静岡県浜松市浜北区西美薗2939-1",
          "location_area" : "浜松市浜北区",
+         "location_zipcode" : "434-0033",
          "owner_type" : "県立",
-         "short_name" : "浜名高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22178D",
+         "short_name" : "浜名高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamana-h/"
       },
       "静岡県立浜松北高等学校" : {
+         "location" : "静岡県浜松市中区広沢一丁目30番1号",
          "location_area" : "浜松市中区",
+         "location_wikipedia_latlon" : "|34|43|6.2|N|137|43|1.3|E|",
+         "location_zipcode" : "432-8013",
          "owner_type" : "県立",
-         "short_name" : "浜松北高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22169E",
+         "short_name" : "浜松北高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsukita-h/"
       },
       "静岡県立浜松南高等学校" : {
+         "location" : "静岡県浜松市南区米津町961",
          "location_area" : "浜松市南区",
+         "location_zipcode" : "432-8056",
          "owner_type" : "県立",
-         "short_name" : "浜松南高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22171G",
+         "short_name" : "浜松南高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsuminami-h/"
       },
       "静岡県立浜松商業高等学校" : {
+         "location" : "静岡県浜松市中区文丘町4番11号",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "432-8004",
          "owner_type" : "県立",
-         "short_name" : "浜松商業高校"
+         "senior_high_school_code" : "22177F",
+         "short_name" : "浜松商業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsu-ch/"
       },
       "静岡県立浜松城北工業高等学校" : {
+         "location" : "静岡県浜松市中区住吉五丁目16-1",
          "location_area" : "浜松市中区",
+         "location_zipcode" : "430-0906",
          "owner_type" : "県立",
-         "short_name" : "浜松城北工業高校"
+         "senior_high_school_code" : "22176H",
+         "short_name" : "浜松城北工業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsujohoku-th/"
       },
       "静岡県立浜松大平台高等学校" : {
+         "location" : "静岡県浜松市大平台四丁目25-1",
          "location_area" : "浜松市西区",
+         "location_zipcode" : "432-8686",
          "owner_type" : "県立",
-         "short_name" : "浜松大平台高校"
+         "senior_high_school_code" : "22206C",
+         "short_name" : "浜松大平台高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsuoohiradai-h/"
       },
       "静岡県立浜松工業高等学校" : {
+         "location" : "静岡県浜松市北区初生町1150",
          "location_area" : "浜松市北区",
+         "location_zipcode" : "433-8567",
          "owner_type" : "県立",
-         "short_name" : "浜松工業高校"
+         "senior_high_school_code" : "22175K",
+         "short_name" : "浜松工業高校",
+         "url" : "http://www.hamako-ths.ed.jp/"
       },
       "静岡県立浜松東高等学校" : {
+         "location" : "静岡県浜松市東区笠井新田町1442",
          "location_area" : "浜松市東区",
+         "location_zipcode" : "431-3105",
          "owner_type" : "県立",
-         "short_name" : "浜松東高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22173C",
+         "short_name" : "浜松東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsuhigashi-h/"
       },
       "静岡県立浜松江之島高等学校" : {
+         "location" : "静岡県浜松市南区江之島町630番地の1",
          "location_area" : "浜松市南区",
+         "location_zipcode" : "430-0844",
          "owner_type" : "県立",
-         "short_name" : "浜松江之島高校"
+         "senior_high_school_code" : "22202A",
+         "short_name" : "浜松江之島高校",
+         "url" : "http://www.enoshima-h.shizuoka-c.ed.jp/"
       },
       "静岡県立浜松湖南高等学校" : {
+         "location" : "静岡県浜松市西区馬郡町3791-1",
          "location_area" : "浜松市西区",
+         "location_wikipedia_latlon" : "|34|41|32|N|137|37|35|E|",
+         "location_zipcode" : "431-0203",
          "owner_type" : "県立",
-         "short_name" : "浜松湖南高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22200D",
+         "short_name" : "浜松湖南高校",
+         "url" : "http://www.orange.ne.jp/~konan/"
       },
       "静岡県立浜松湖東高等学校" : {
+         "location" : "静岡県浜松市西区大人見町3600番地",
          "location_area" : "浜松市西区",
+         "location_wikipedia_latlon" : "|34|43|58|N|137|39|40.6|E|",
+         "location_zipcode" : "431-1112",
          "owner_type" : "県立",
-         "short_name" : "浜松湖東高校"
+         "senior_high_school_code" : "22172E",
+         "short_name" : "浜松湖東高校",
+         "url" : "http://http://www.shizuoka-c.ed.jp/hamamatsukoto-h/"
       },
       "静岡県立浜松西高等学校" : {
+         "location" : "静岡県浜松市中区西伊場町3番1号",
          "location_area" : "浜松市中区",
+         "location_wikipedia_latlon" : "|34|42|5.6|N|137|42|36.2|E|",
+         "location_zipcode" : "432-8038",
          "owner_type" : "県立",
+         "senior_high_school_code" : "22170J",
          "short_name" : "浜松西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/hamamatsunishi-h/",
          "wikipedia_name" : "静岡県立浜松西高等学校・中等部"
       },
       "静岡県立清水南高等学校" : {
@@ -638,9 +1155,14 @@
          "short_name" : "清水南高校"
       },
       "静岡県立清水東高等学校" : {
+         "location" : "静岡市清水区秋吉町5-10",
          "location_area" : "静岡市清水区",
+         "location_wikipedia_latlon" : "|35|1|46|N|138|28|47.8|E|",
+         "location_zipcode" : "424-8550",
          "owner_type" : "県立",
-         "short_name" : "清水東高校"
+         "senior_high_school_code" : "22129F",
+         "short_name" : "清水東高校",
+         "url" : "http://www.wbs.ne.jp/cmt/kiyokou/"
       },
       "静岡県立清水西高等学校" : {
          "location_area" : "静岡市清水区",
@@ -648,24 +1170,43 @@
          "short_name" : "清水西高校"
       },
       "静岡県立湖西高等学校" : {
+         "location" : "静岡県湖西市鷲津1510-2",
          "location_area" : "湖西市",
+         "location_zipcode" : "431-0431",
          "owner_type" : "県立",
-         "short_name" : "湖西高校"
+         "school_area" : "第10学区",
+         "senior_high_school_code" : "22194F",
+         "short_name" : "湖西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kosai-h/"
       },
       "静岡県立焼津中央高等学校" : {
+         "location" : "静岡県焼津市小土157-1",
          "location_area" : "焼津市",
+         "location_wikipedia_latlon" : "|34|52|4.3|N|138|17|23.3|E|",
+         "location_zipcode" : "425-0086",
          "owner_type" : "県立",
-         "short_name" : "焼津中央高校"
+         "school_area" : "第7学区",
+         "senior_high_school_code" : "22139C",
+         "short_name" : "焼津中央高校",
+         "url" : "http://www.shizuoka-c.ed.jp/yaizuchuo-h/"
       },
       "静岡県立焼津水産高等学校" : {
+         "location" : "静岡県焼津市焼津5-5-2",
          "location_area" : "焼津市",
+         "location_zipcode" : "425-0026",
          "owner_type" : "県立",
-         "short_name" : "焼津水産高校"
+         "senior_high_school_code" : "22140G",
+         "short_name" : "焼津水産高校",
+         "url" : "http://www.yaizusuisan-h.ed.jp/"
       },
       "静岡県立熱海高等学校" : {
+         "location" : "静岡県熱海市下多賀字向山1484-22",
          "location_area" : "熱海市",
+         "location_zipcode" : "413-0102",
          "owner_type" : "県立",
-         "short_name" : "熱海高校"
+         "senior_high_school_code" : "22107E",
+         "short_name" : "熱海高校",
+         "url" : "http://www.izu.co.jp/~atamihs/"
       },
       "静岡県立田方農業高等学校" : {
          "location_area" : "田方郡函南町",
@@ -673,64 +1214,119 @@
          "short_name" : "田方農業高校"
       },
       "静岡県立相良高等学校" : {
+         "location" : "静岡県牧之原市波津1700-3",
          "location_area" : "牧之原市",
+         "location_wikipedia_latlon" : "|34|41|06.5|N|138|11|46.5|E|",
+         "location_zipcode" : "421-0596",
          "owner_type" : "県立",
-         "short_name" : "相良高校"
+         "senior_high_school_code" : "22151B",
+         "short_name" : "相良高校",
+         "url" : "http://www.shizuoka-c.ed.jp/sagara-h/index.html"
       },
       "静岡県立磐田北高等学校" : {
+         "location" : "静岡県磐田市見付2031-2",
          "location_area" : "磐田市",
+         "location_wikipedia_latlon" : "|34|43|55.2|N|137|51|20.7|E|",
+         "location_zipcode" : "436-0024",
          "owner_type" : "県立",
-         "short_name" : "磐田北高校"
+         "school_area" : "第9学区(磐周)",
+         "senior_high_school_code" : "22166A",
+         "short_name" : "磐田北高校",
+         "url" : "http://www.shizuoka-c.ed.jp/iwatakita-h/"
       },
       "静岡県立磐田南高等学校" : {
+         "location" : "静岡県磐田市見付3084",
          "location_area" : "磐田市",
+         "location_wikipedia_latlon" : "|34|43|15.7|N|137|51|3.2|E|",
+         "location_zipcode" : "438-8686",
          "owner_type" : "県立",
-         "short_name" : "磐田南高校"
+         "school_area" : "第9学区",
+         "short_name" : "磐田南高校",
+         "url" : "http://www.shizuoka-c.ed.jp/iwataminami-h/"
       },
       "静岡県立磐田西高等学校" : {
+         "location" : "静岡県磐田市中泉2680番地の1",
          "location_area" : "磐田市",
+         "location_wikipedia_latlon" : "|34|43|5.2|N|137|50|28.5|E|",
+         "location_zipcode" : "438-0078",
          "owner_type" : "県立",
-         "short_name" : "磐田西高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "22168G",
+         "short_name" : "磐田西高校",
+         "url" : "http://www3.tokai.or.jp/iwanishi/"
       },
       "静岡県立磐田農業高等学校" : {
+         "location" : "静岡県磐田市中泉186",
          "location_area" : "磐田市",
          "owner_type" : "県立",
+         "school_area" : "第9学区",
          "short_name" : "磐田農業高校"
       },
       "静岡県立科学技術高等学校" : {
+         "location" : "静岡県静岡市葵区長沼500番地の1",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-0813",
          "owner_type" : "県立",
-         "short_name" : "科学技術高校"
+         "school_area" : "静岡県",
+         "short_name" : "科学技術高校",
+         "url" : "http://www.sths.ed.jp/"
       },
       "静岡県立稲取高等学校" : {
+         "location" : "静岡県賀茂郡東伊豆町稲取3012-2",
          "location_area" : "賀茂郡東伊豆町",
+         "location_zipcode" : "413-0411",
          "owner_type" : "県立",
-         "short_name" : "稲取高校"
+         "senior_high_school_code" : "22104A",
+         "short_name" : "稲取高校",
+         "url" : "http://www.shizuoka-c.ed.jp/inatori-h/"
       },
       "静岡県立藤枝北高等学校" : {
+         "location" : "静岡県藤枝市郡970",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0016",
          "owner_type" : "県立",
-         "short_name" : "藤枝北高校"
+         "school_area" : "第7学区(志榛)",
+         "short_name" : "藤枝北高校",
+         "url" : "http://www.fujiedakita-h.shizuoka-c.ed.jp/"
       },
       "静岡県立藤枝東高等学校" : {
+         "location" : "静岡県藤枝市天王町1-7-1",
          "location_area" : "藤枝市",
+         "location_wikipedia_latlon" : "|34|52|36.9|N|138|15|42.3|E|",
+         "location_zipcode" : "426-0019",
          "owner_type" : "県立",
-         "short_name" : "藤枝東高校"
+         "school_area" : "第7学区",
+         "senior_high_school_code" : "22141E",
+         "short_name" : "藤枝東高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fujiedahigashi-h/"
       },
       "静岡県立藤枝西高等学校" : {
+         "location" : "静岡県藤枝市城南2丁目4番6号",
          "location_area" : "藤枝市",
+         "location_zipcode" : "426-0021",
          "owner_type" : "県立",
-         "short_name" : "藤枝西高校"
+         "school_area" : "第7学区(志榛)",
+         "senior_high_school_code" : "22142C",
+         "short_name" : "藤枝西高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fujiedanishi-h/"
       },
       "静岡県立袋井商業高等学校" : {
+         "location" : "静岡県袋井市久能2350",
          "location_area" : "袋井市",
+         "location_zipcode" : "437-0061",
          "owner_type" : "県立",
-         "short_name" : "袋井商業高校"
+         "short_name" : "袋井商業高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fukuroi-ch/"
       },
       "静岡県立袋井高等学校" : {
+         "location" : "静岡県袋井市愛野2446-1",
          "location_area" : "袋井市",
+         "location_zipcode" : "437-0031",
          "owner_type" : "県立",
-         "short_name" : "袋井高校"
+         "school_area" : "磐周学区",
+         "senior_high_school_code" : "22160A",
+         "short_name" : "袋井高校",
+         "url" : "http://www.shizuoka-c.ed.jp/fukuroi-h/"
       },
       "静岡県立裾野高等学校" : {
          "location_area" : "裾野市",
@@ -738,19 +1334,30 @@
          "short_name" : "裾野高校"
       },
       "静岡県立遠江総合高等学校" : {
+         "location" : "静岡県周智郡森町森2085",
          "location_area" : "周智郡森町",
+         "location_zipcode" : "437-0215",
          "owner_type" : "県立",
-         "short_name" : "遠江総合高校"
+         "short_name" : "遠江総合高校",
+         "url" : "http://www.shizuoka-c.ed.jp/totomisogo-h/"
       },
       "静岡県立金谷高等学校" : {
+         "location" : "静岡県島田市金谷根岸町35",
          "location_area" : "島田市",
+         "location_zipcode" : "428-0018",
          "owner_type" : "県立",
-         "short_name" : "金谷高校"
+         "senior_high_school_code" : "22147D",
+         "short_name" : "金谷高校",
+         "url" : "http://www.shizuoka-c.ed.jp/kanaya-h/"
       },
       "静岡県立静岡中央高等学校" : {
+         "location" : "静岡県静岡市葵区城北二丁目29番1号",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-8502",
          "owner_type" : "県立",
-         "short_name" : "静岡中央高校"
+         "senior_high_school_code" : "22205E",
+         "short_name" : "静岡中央高校",
+         "url" : "http://www.shizuoka-c.ed.jp/shizuokachuo-h/"
       },
       "静岡県立静岡南高等学校" : {
          "location_area" : "静岡市駿河区",
@@ -758,24 +1365,39 @@
          "short_name" : "静岡南高校"
       },
       "静岡県立静岡商業高等学校" : {
+         "location" : "静岡県静岡市葵区田町七丁目90番地",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-0068",
          "owner_type" : "県立",
-         "short_name" : "静岡商業高校"
+         "senior_high_school_code" : "22138E",
+         "short_name" : "静岡商業高校",
+         "url" : "http://www.seisho.ed.jp/"
       },
       "静岡県立静岡城北高等学校" : {
+         "location" : "静岡県静岡市葵区北安東二丁目3-1",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-0881",
          "owner_type" : "県立",
-         "short_name" : "静岡城北高校"
+         "school_area" : "静岡県",
+         "senior_high_school_code" : "22134B",
+         "short_name" : "静岡城北高校",
+         "url" : "http://www.shizuoka-c.ed.jp/shizuokajohoku-h/"
       },
       "静岡県立静岡東高等学校" : {
+         "location" : "静岡県静岡市葵区川合三丁目24-1",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "420-0923",
          "owner_type" : "県立",
-         "short_name" : "静岡東高校"
+         "short_name" : "静岡東高校",
+         "url" : "http://www.shizuokahigashi-h.shizuoka-c.ed.jp/"
       },
       "静岡県立静岡西高等学校" : {
+         "location" : "静岡県静岡市葵区牧ヶ谷680-1",
          "location_area" : "静岡市葵区",
+         "location_zipcode" : "421-1221",
          "owner_type" : "県立",
-         "short_name" : "静岡西高校"
+         "short_name" : "静岡西高校",
+         "url" : "http://www7.ocn.ne.jp/~nishiko/"
       },
       "静岡県立静岡農業高等学校" : {
          "location_area" : "静岡市葵区",
@@ -783,43 +1405,77 @@
          "short_name" : "静岡農業高校"
       },
       "静岡県立静岡高等学校" : {
+         "location" : "静岡県静岡市葵区長谷町66番地",
          "location_area" : "静岡市葵区",
+         "location_wikipedia_latlon" : "|34|59|7.2|N|138|22|49.6|E|",
+         "location_zipcode" : "420-8608",
          "owner_type" : "県立",
-         "short_name" : "静岡高校"
+         "senior_high_school_code" : "22133D",
+         "short_name" : "静岡高校",
+         "url" : "http://www.shizuoka-h.ed.jp/"
       },
       "静岡県立韮山高等学校" : {
+         "location" : "静岡県伊豆の国市韮山韮山229",
          "location_area" : "伊豆の国市",
+         "location_wikipedia_latlon" : "|35|3|20.0|N|138|57|18.1|E|",
+         "location_zipcode" : "420-8608",
          "owner_type" : "県立",
-         "short_name" : "韮山高校"
+         "senior_high_school_code" : "22111C",
+         "short_name" : "韮山高校",
+         "url" : "http://www1.ocn.ne.jp/~nirako/index.html"
       },
       "静岡県西遠女子学園高等学校" : {
+         "location" : "静岡県浜松市中区佐藤三丁目20-1",
          "location_area" : "浜松市",
+         "location_wikipedia_latlon" : "|34|42|51|N|137|45|08|E|",
+         "location_zipcode" : "430-0807",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22536D",
          "short_name" : "静岡県西遠女子学園高校",
+         "url" : "http://www.seien.ed.jp/",
          "wikipedia_name" : "静岡県西遠女子学園中学校・高等学校"
       },
       "静岡聖光学院高等学校" : {
+         "location" : "静岡県静岡市駿河区小鹿1440",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|18.7|N|138|26|0.5|E|",
+         "location_zipcode" : "422-8021",
          "owner_type" : "私立",
          "short_name" : "静岡聖光学院高校",
+         "url" : "http://www.s-seiko.ed.jp/",
          "wikipedia_name" : "静岡聖光学院中学校・高等学校"
       },
       "静岡英和女学院高等学校" : {
+         "location" : "静岡県静岡市葵区西草深8-1",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|53.7|N|138|22|46.7|E|",
+         "location_zipcode" : "420-0866",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22517H",
          "short_name" : "静岡英和女学院高校",
+         "url" : "http://www.shizuoka-eiwa.ed.jp/",
          "wikipedia_name" : "静岡英和女学院中学校・高等学校"
       },
       "静岡雙葉高等学校" : {
+         "location" : "静岡県静岡市葵区追手町10-71",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|34|58|49.7|N|138|22|50.6|E|",
+         "location_zipcode" : "420-8628",
          "owner_type" : "私立",
+         "senior_high_school_code" : "22520H",
          "short_name" : "静岡雙葉高校",
+         "url" : "http://www.shizuoka-futaba.ac.jp/",
          "wikipedia_name" : "静岡雙葉中学校・高等学校"
       },
       "飛龍高等学校" : {
+         "location" : "静岡県沼津市東熊堂491",
          "location_area" : "三島市",
+         "location_wikipedia_latlon" : "|35|6|58.5|N|138|52|3.1|E|",
+         "location_zipcode" : "410-0013",
          "owner_type" : "私立",
-         "short_name" : "飛龍高校"
+         "senior_high_school_code" : "22506B",
+         "short_name" : "飛龍高校",
+         "url" : "http://www.hiryu.ed.jp/"
       },
       "駿台甲府高等学校" : {
          "location_area" : "富士市",

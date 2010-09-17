@@ -1,20 +1,36 @@
 {
    "senior_high_schools" : {
       "久田学園佐世保女子高等学校" : {
+         "location" : "長崎県佐世保市比良町21番1号",
+         "location_zipcode" : "857-0040",
          "owner_type" : "私立",
-         "short_name" : "久田学園佐世保女子高校"
+         "senior_high_school_code" : "42513D",
+         "short_name" : "久田学園佐世保女子高校",
+         "url" : "http://www.hisata-gakuen.com/"
       },
       "九州文化学園高等学校" : {
+         "location" : "長崎県佐世保市椎木町600",
+         "location_zipcode" : "858-0925",
          "owner_type" : "私立",
-         "short_name" : "九州文化学園高校"
+         "senior_high_school_code" : "42514B",
+         "short_name" : "九州文化学園高校",
+         "url" : "http://www.kyubun.ed.jp/koukou.htm"
       },
       "佐世保実業高等学校" : {
+         "location" : "長崎県佐世保市母ヶ浦888番地1",
+         "location_zipcode" : "858-8588",
          "owner_type" : "私立",
-         "short_name" : "佐世保実業高校"
+         "senior_high_school_code" : "42519C",
+         "short_name" : "佐世保実業高校",
+         "url" : "http://academic1.plala.or.jp/sajitsu/"
       },
       "創成館高等学校" : {
+         "location" : "長崎県諫早市貝津町621番地",
+         "location_zipcode" : "854-0063",
          "owner_type" : "私立",
-         "short_name" : "創成館高校"
+         "senior_high_school_code" : "42510K",
+         "short_name" : "創成館高校",
+         "url" : "http://www.sohseikan.ac.jp/"
       },
       "向陽橘香館" : {
          "owner_type" : "私立"
@@ -25,17 +41,30 @@
          "wikipedia_name" : "向陽高等学校 (長崎県)"
       },
       "島原中央高等学校" : {
+         "location" : "長崎県島原市船泊町3415",
+         "location_zipcode" : "855-0865",
          "owner_type" : "私立",
-         "short_name" : "島原中央高校"
+         "senior_high_school_code" : "42518E",
+         "short_name" : "島原中央高校",
+         "url" : "http://shimabara-chuo.ac.jp/"
       },
       "活水高等学校" : {
+         "location" : "長崎県長崎市宝栄町15-11",
+         "location_zipcode" : "852-8566",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42503G",
          "short_name" : "活水高校",
+         "url" : "http://www.kwassui.ac.jp/chuko/index2.htm",
          "wikipedia_name" : "活水中学校・高等学校"
       },
       "海星高等学校" : {
+         "location" : "長崎県長崎市東山手町5番3号",
+         "location_wikipedia_latlon" : "|32|44|11|N|129|52|27|E|",
+         "location_zipcode" : "850-0911",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42501A",
          "short_name" : "海星高校",
+         "url" : "http://www.kaisei-ngs.ed.jp/",
          "wikipedia_name" : "海星中学校・高等学校 (長崎県)"
       },
       "瓊浦高等学校" : {
@@ -43,18 +72,30 @@
          "short_name" : "瓊浦高校"
       },
       "精道三川台高等学校" : {
+         "location" : "長崎県長崎市三川町1234-1",
+         "location_zipcode" : "852-8121",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42522C",
          "short_name" : "精道三川台高校",
+         "url" : "http://www.seido-gakuen.net/",
          "wikipedia_name" : "精道三川台小学校・中学校・高等学校"
       },
       "純心女子高等学校" : {
+         "location" : "長崎県長崎市文教町13-15",
+         "location_zipcode" : "852-8515",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42507K",
          "short_name" : "純心女子高校",
+         "url" : "http://www.n-junshin.ed.jp/",
          "wikipedia_name" : "純心中学校・純心女子高等学校"
       },
       "聖和女子学院高等学校" : {
+         "location" : "長崎県佐世保市松山町495",
+         "location_zipcode" : "857-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42515A",
          "short_name" : "聖和女子学院高校",
+         "url" : "http://www.seiwajoshi.ed.jp/",
          "wikipedia_name" : "聖和女子学院中学校・高等学校"
       },
       "聖母の騎士高等学校" : {
@@ -63,34 +104,65 @@
          "wikipedia_name" : "聖母の騎士中学校・高等学校"
       },
       "西海学園高等学校" : {
+         "location" : "長崎県佐世保市春日町29-22",
+         "location_zipcode" : "857-0011",
          "owner_type" : "私立",
-         "short_name" : "西海学園高校"
+         "senior_high_school_code" : "42512F",
+         "short_name" : "西海学園高校",
+         "url" : "http://www.saikaigakuen.com/"
       },
       "鎮西学院高等学校" : {
+         "location" : "長崎県諫早市栄田町1057",
+         "location_wikipedia_latlon" : "|32|51|29.1|N|130|1|51.8|E|",
+         "location_zipcode" : "854-0081",
          "owner_type" : "私立",
-         "short_name" : "鎮西学院高校"
+         "senior_high_school_code" : "42517G",
+         "short_name" : "鎮西学院高校",
+         "url" : "http://www.chinzeigakuin.ed.jp/"
       },
       "長崎南山高等学校" : {
+         "location" : "長崎県長崎市上野町25-1",
+         "location_zipcode" : "852-8544",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42502J",
          "short_name" : "長崎南山高校",
+         "url" : "http://www.n-nanzan.ed.jp/",
          "wikipedia_name" : "長崎南山中学校・高等学校"
       },
       "長崎女子商業高等学校" : {
+         "location" : "長崎県長崎市栄町2-10",
+         "location_zipcode" : "850-0875",
          "owner_type" : "私立",
-         "short_name" : "長崎女子商業高校"
+         "senior_high_school_code" : "42508H",
+         "short_name" : "長崎女子商業高校",
+         "url" : "http://www.n-joshisho.ed.jp/"
       },
       "長崎女子高等学校" : {
+         "location" : "長崎県長崎市上小島一丁目11番8号",
+         "location_zipcode" : "850-0834",
          "owner_type" : "私立",
-         "short_name" : "長崎女子高校"
+         "senior_high_school_code" : "42504E",
+         "short_name" : "長崎女子高校",
+         "url" : "http://www.kakumei.ac.jp/high_school/"
       },
       "長崎市立長崎商業高等学校" : {
+         "location" : "長崎県長崎市泉町1125番地",
          "location_area" : "長崎市",
+         "location_wikipedia_latlon" : "|32|48|28.9|N|129|52|7.5|E|",
+         "location_zipcode" : "852-8157",
          "owner_type" : "市立",
-         "short_name" : "長崎商業高校"
+         "senior_high_school_code" : "42155D",
+         "short_name" : "長崎商業高校",
+         "url" : "http://www.nchs.nagasaki-city.ed.jp/"
       },
       "長崎日本大学高等学校" : {
+         "location" : "長崎県諌早市貝津町1555",
+         "location_wikipedia_latlon" : "|32|50|29|N|130|0|43.5|E|",
+         "location_zipcode" : "854-0063",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42520G",
          "short_name" : "長崎日本大学高校",
+         "url" : "http://nng.ac.jp",
          "wikipedia_name" : "長崎日本大学中学校・高等学校"
       },
       "長崎玉成高等学校" : {
@@ -98,14 +170,21 @@
          "short_name" : "長崎玉成高校"
       },
       "長崎県立上五島高等学校" : {
+         "location" : "長崎県南松浦郡新上五島町浦桑郷306",
          "location_area" : "南松浦郡",
+         "location_zipcode" : "857-4511",
          "owner_type" : "県立",
-         "short_name" : "上五島高校"
+         "senior_high_school_code" : "42146E",
+         "short_name" : "上五島高校",
+         "url" : "http://www2.ocn.ne.jp/~kamikou/"
       },
       "長崎県立上対馬高等学校" : {
+         "location" : "長崎県対馬市上対馬町大浦230",
          "location_area" : "対馬市",
+         "location_zipcode" : "817-1722",
          "owner_type" : "県立",
-         "short_name" : "上対馬高校"
+         "short_name" : "上対馬高校",
+         "url" : "http://www4.ocn.ne.jp/~kamiko/"
       },
       "長崎県立中五島高等学校" : {
          "location_area" : "南松浦郡",
@@ -123,65 +202,118 @@
          "short_name" : "五島海陽高校"
       },
       "長崎県立五島高等学校" : {
+         "location" : "長崎県五島市池田町1-1",
          "location_area" : "五島市",
+         "location_wikipedia_latlon" : "|32|41|36.5|N|128|50|47.5|E|",
+         "location_zipcode" : "853-0018",
          "owner_type" : "県立",
-         "short_name" : "五島高校"
+         "school_area" : "五島学区",
+         "senior_high_school_code" : "42143A",
+         "short_name" : "五島高校",
+         "url" : "http://www15.ocn.ne.jp/~gotohs/"
       },
       "長崎県立佐世保中央高等学校" : {
+         "location" : "長崎県佐世保市梅田町10番14号",
          "location_area" : "佐世保市",
+         "location_zipcode" : "857-0017",
          "owner_type" : "県立",
-         "short_name" : "佐世保中央高校"
+         "senior_high_school_code" : "42162G",
+         "short_name" : "佐世保中央高校",
+         "url" : "http://www1.odn.ne.jp/~ceb59840/"
       },
       "長崎県立佐世保北高等学校" : {
+         "location" : "長崎県佐世保市八幡町6-31",
          "location_area" : "佐世保市",
+         "location_zipcode" : "857-0028",
          "owner_type" : "県立",
+         "senior_high_school_code" : "42110D",
          "short_name" : "佐世保北高校",
+         "url" : "http://www8.ocn.ne.jp/~sakita/",
          "wikipedia_name" : "長崎県立佐世保北中学校・高等学校"
       },
       "長崎県立佐世保南高等学校" : {
+         "location" : "長崎県佐世保市日宇町2526",
          "location_area" : "佐世保市",
+         "location_zipcode" : "857-1151",
          "owner_type" : "県立",
-         "short_name" : "佐世保南高校"
+         "senior_high_school_code" : "42109A",
+         "short_name" : "佐世保南高校",
+         "url" : "http://www13.ocn.ne.jp/~minami7/"
       },
       "長崎県立佐世保商業高等学校" : {
+         "location" : "長崎県佐世保市吉岡町863番地3",
          "location_area" : "佐世保市",
+         "location_zipcode" : "857-0143",
          "owner_type" : "県立",
-         "short_name" : "佐世保商業高校"
+         "senior_high_school_code" : "42112A",
+         "short_name" : "佐世保商業高校",
+         "url" : "http://www1.odn.ne.jp/~cec49380/"
       },
       "長崎県立佐世保工業高等学校" : {
+         "location" : "長崎県佐世保市瀬戸越3-3-30",
          "location_area" : "佐世保市",
+         "location_zipcode" : "857-0134",
          "owner_type" : "県立",
-         "short_name" : "佐世保工業高校"
+         "senior_high_school_code" : "42113J",
+         "short_name" : "佐世保工業高校",
+         "url" : "http://www.sasebo-th.ed.jp/"
       },
       "長崎県立佐世保東翔高等学校" : {
+         "location" : "長崎県佐世保市重尾町425-3",
          "location_area" : "佐世保市",
+         "location_wikipedia_latlon" : "|33|7|23|N|129|49|3|E|",
+         "location_zipcode" : "859-3224",
          "owner_type" : "県立",
-         "short_name" : "佐世保東翔高校"
+         "senior_high_school_code" : "42114G",
+         "short_name" : "佐世保東翔高校",
+         "url" : "http://www1.odn.ne.jp/~ceb59830/"
       },
       "長崎県立佐世保西高等学校" : {
+         "location" : "長崎県佐世保市田原町130番地1",
          "location_area" : "佐世保市",
+         "location_wikipedia_latlon" : "|33|12|32.6|N|129|43|9.9|E|",
+         "location_zipcode" : "857-0136",
          "owner_type" : "県立",
-         "short_name" : "佐世保西高校"
+         "senior_high_school_code" : "42111B",
+         "short_name" : "佐世保西高校",
+         "url" : "http://www.sasebo-west.ed.jp/"
       },
       "長崎県立北松西高等学校" : {
+         "location" : "長崎県北松浦郡小値賀町笛吹郷2657番地3",
          "location_area" : "北松浦郡",
+         "location_zipcode" : "857-4701",
          "owner_type" : "県立",
-         "short_name" : "北松西高校"
+         "senior_high_school_code" : "42141D",
+         "short_name" : "北松西高校",
+         "url" : "http://www.hokusho-nishi.ed.jp/"
       },
       "長崎県立北松農業高等学校" : {
+         "location" : "長崎県平戸市田平町小手田免54-1",
          "location_area" : "平戸市",
+         "location_zipcode" : "859-4824",
          "owner_type" : "県立",
-         "short_name" : "北松農業高校"
+         "senior_high_school_code" : "42138D",
+         "short_name" : "北松農業高校",
+         "url" : "http://www17.ocn.ne.jp/~hokunou/"
       },
       "長崎県立口加高等学校" : {
+         "location" : "長崎県南島原市口之津町甲3272",
          "location_area" : "南島原市",
+         "location_zipcode" : "859-2502",
          "owner_type" : "県立",
-         "short_name" : "口加高校"
+         "senior_high_school_code" : "42126A",
+         "short_name" : "口加高校",
+         "url" : "http://www9.ocn.ne.jp/~kokahs/"
       },
       "長崎県立国見高等学校" : {
+         "location" : "長崎県雲仙市国見町多比良甲1020",
          "location_area" : "雲仙市",
+         "location_wikipedia_latlon" : "|32|51|57|N|130|18|20.2|E|",
+         "location_zipcode" : "859-1321",
          "owner_type" : "県立",
-         "short_name" : "国見高校"
+         "senior_high_school_code" : "42124D",
+         "short_name" : "国見高校",
+         "url" : "http://www8.ocn.ne.jp/~kunimiv5/"
       },
       "長崎県立壱岐商業高等学校" : {
          "location_area" : "壱岐市",
@@ -199,19 +331,31 @@
          "short_name" : "大崎高校"
       },
       "長崎県立大村城南高等学校" : {
+         "location" : "長崎県大村市久原1-416",
          "location_area" : "大村市",
+         "location_zipcode" : "856-0835",
          "owner_type" : "県立",
-         "short_name" : "大村城南高校"
+         "senior_high_school_code" : "42116C",
+         "short_name" : "大村城南高校",
+         "url" : "http://academic3.plala.or.jp/johnan-h/"
       },
       "長崎県立大村工業高等学校" : {
+         "location" : "長崎県大村市森園町1079-3",
          "location_area" : "大村市",
+         "location_zipcode" : "856-0815",
          "owner_type" : "県立",
-         "short_name" : "大村工業高校"
+         "senior_high_school_code" : "42117A",
+         "short_name" : "大村工業高校",
+         "url" : "http://www.ohmura-th.ed.jp/"
       },
       "長崎県立大村高等学校" : {
+         "location" : "長崎県大村市久原1-591",
          "location_area" : "大村市",
+         "location_zipcode" : "856-0835",
          "owner_type" : "県立",
-         "short_name" : "大村高校"
+         "senior_high_school_code" : "42115E",
+         "short_name" : "大村高校",
+         "url" : "http://omura.main.jp/"
       },
       "長崎県立奈留高等学校" : {
          "location_area" : "五島市",
@@ -219,9 +363,13 @@
          "short_name" : "奈留高校"
       },
       "長崎県立宇久高等学校" : {
+         "location" : "長崎県佐世保市宇久町平1042番地",
          "location_area" : "佐世保市",
+         "location_zipcode" : "859-0401",
          "owner_type" : "県立",
-         "short_name" : "宇久高校"
+         "senior_high_school_code" : "42142B",
+         "short_name" : "宇久高校",
+         "url" : "http://www7.ocn.ne.jp/~uk5955/ukuIndex.htm"
       },
       "長崎県立富江高等学校" : {
          "location_area" : "五島市",
@@ -229,14 +377,22 @@
          "short_name" : "富江高校"
       },
       "長崎県立対馬高等学校" : {
+         "location" : "長崎県対馬市厳原町東里120",
          "location_area" : "対馬市",
+         "location_zipcode" : "817-0016",
          "owner_type" : "県立",
-         "short_name" : "対馬高校"
+         "senior_high_school_code" : "42150C",
+         "short_name" : "対馬高校",
+         "url" : "http://www7.ocn.ne.jp/~tai-kou/"
       },
       "長崎県立小浜高等学校" : {
+         "location" : "長崎県雲仙市小浜町北野623番地",
          "location_area" : "雲仙市",
+         "location_zipcode" : "854-0595",
          "owner_type" : "県立",
-         "short_name" : "小浜高校"
+         "senior_high_school_code" : "42128G",
+         "short_name" : "小浜高校",
+         "url" : "http://www1.odn.ne.jp/obama-hs/"
       },
       "長崎県立島原商業高等学校" : {
          "location_area" : "島原市",
@@ -259,19 +415,30 @@
          "short_name" : "島原農業高校"
       },
       "長崎県立島原高等学校" : {
+         "location" : "長崎県島原市城内2-1130",
          "location_area" : "島原市",
+         "location_zipcode" : "855-0036",
          "owner_type" : "県立",
-         "short_name" : "島原高校"
+         "senior_high_school_code" : "42120A",
+         "short_name" : "島原高校",
+         "url" : "http://www.shimabara-h.ed.jp/"
       },
       "長崎県立川棚高等学校" : {
+         "location" : "長崎県東彼杵郡川棚町白石郷64-1",
          "location_area" : "東彼杵郡",
+         "location_zipcode" : "859-3616",
          "owner_type" : "県立",
-         "short_name" : "川棚高校"
+         "short_name" : "川棚高校",
+         "url" : "http://www8.ocn.ne.jp/~kawako/"
       },
       "長崎県立平戸高等学校" : {
+         "location" : "長崎県平戸市草積町261番地",
          "location_area" : "平戸市",
+         "location_zipcode" : "859-5392",
          "owner_type" : "県立",
-         "short_name" : "平戸高校"
+         "senior_high_school_code" : "42135K",
+         "short_name" : "平戸高校",
+         "url" : "http://www8.ocn.ne.jp/~hirakou/"
       },
       "長崎県立松浦東高等学校" : {
          "location_area" : "松浦市",
@@ -279,24 +446,38 @@
          "short_name" : "松浦東高校"
       },
       "長崎県立松浦高等学校" : {
+         "location" : "長崎県松浦市志佐町浦免738-1",
          "location_area" : "松浦市",
+         "location_zipcode" : "859-4501",
          "owner_type" : "県立",
-         "short_name" : "松浦高校"
+         "senior_high_school_code" : "42137F",
+         "short_name" : "松浦高校",
+         "url" : "http://www16.ocn.ne.jp/~matsukou/"
       },
       "長崎県立波佐見高等学校" : {
+         "location" : "長崎県東彼杵郡波佐見町長野郷312-5",
          "location_area" : "東彼杵郡",
+         "location_zipcode" : "859-3725",
          "owner_type" : "県立",
-         "short_name" : "波佐見高校"
+         "short_name" : "波佐見高校",
+         "url" : "http://www.town.hasami.nagasaki.jp/highschool/"
       },
       "長崎県立清峰高等学校" : {
+         "location" : "長崎県北松浦郡佐々町中川原免111",
          "location_area" : "北松浦郡",
+         "location_zipcode" : "857-0333",
          "owner_type" : "県立",
-         "short_name" : "清峰高校"
+         "short_name" : "清峰高校",
+         "url" : "http://www11.ocn.ne.jp/~seiho/"
       },
       "長崎県立猶興館高等学校" : {
+         "location" : "長崎県平戸市岩の上町1443",
          "location_area" : "平戸市",
+         "location_zipcode" : "859-5121",
          "owner_type" : "県立",
-         "short_name" : "猶興館高校"
+         "senior_high_school_code" : "42134A",
+         "short_name" : "猶興館高校",
+         "url" : "http://www7.ocn.ne.jp/~yukokan/"
       },
       "長崎県立猶興館高等学校大島分校" : {
          "location_area" : "平戸市",
@@ -314,75 +495,136 @@
          "short_name" : "西彼農業高校"
       },
       "長崎県立西陵高等学校" : {
+         "location" : "長崎県諫早市多良見町化屋1387-2",
          "location_area" : "諫早市",
+         "location_wikipedia_latlon" : "|32|49|37.0|N|129|59|24.7|E|",
+         "location_zipcode" : "859-0401",
          "owner_type" : "県立",
-         "short_name" : "西陵高校"
+         "senior_high_school_code" : "42168F",
+         "short_name" : "西陵高校",
+         "url" : "http://seiryo.gn.to/"
       },
       "長崎県立諫早商業高等学校" : {
+         "location" : "長崎県諫早市宇都町8番26号",
          "location_area" : "諫早市",
+         "location_zipcode" : "854-0061",
          "owner_type" : "県立",
-         "short_name" : "諫早商業高校"
+         "senior_high_school_code" : "42119H",
+         "short_name" : "諫早商業高校",
+         "url" : "http://www.kansho.ed.jp/"
       },
       "長崎県立諫早東高等学校" : {
+         "location" : "長崎県諫早市森山町杉谷317",
          "location_area" : "諫早市",
+         "location_wikipedia_latlon" : "|32|49|23.5|N|130|8|46.9|E|",
+         "location_zipcode" : "854-0205",
          "owner_type" : "県立",
-         "short_name" : "諫早東高校"
+         "senior_high_school_code" : "42166K",
+         "short_name" : "諫早東高校",
+         "url" : "http://www1.odn.ne.jp/isahigashi/"
       },
       "長崎県立諫早農業高等学校" : {
+         "location" : "長崎県諫早市立石町1003",
          "location_area" : "諫早市",
+         "location_wikipedia_latlon" : "|32|50|9.6|N|130|3|33.5|E|",
+         "location_zipcode" : "854-0043",
          "owner_type" : "県立",
-         "short_name" : "諫早農業高校"
+         "senior_high_school_code" : "42163E",
+         "short_name" : "諫早農業高校",
+         "url" : "http://www8.ocn.ne.jp/~kannou/"
       },
       "長崎県立諫早高等学校" : {
+         "location" : "長崎県諫早市東小路町1-7",
          "location_area" : "諫早市",
+         "location_wikipedia_latlon" : "|32|50|40.4|N|130|3|5.7|E|",
+         "location_zipcode" : "854-0014",
          "owner_type" : "県立",
-         "short_name" : "諫早高校"
+         "senior_high_school_code" : "42118K",
+         "short_name" : "諫早高校",
+         "url" : "http://www.isahaya-highschool.ed.jp/"
       },
       "長崎県立豊玉高等学校" : {
+         "location" : "長崎県対馬市豊玉町仁位1331番地2",
          "location_area" : "対馬市",
+         "location_zipcode" : "817-1701",
          "owner_type" : "県立",
-         "short_name" : "豊玉高校"
+         "short_name" : "豊玉高校",
+         "url" : "http://www6.ocn.ne.jp/~ths/"
       },
       "長崎県立野母崎高等学校" : {
+         "location" : "長崎県長崎市高浜町1995番地",
          "location_area" : "長崎市",
+         "location_zipcode" : "851-0503",
          "owner_type" : "県立",
-         "short_name" : "野母崎高校"
+         "senior_high_school_code" : "42108B",
+         "short_name" : "野母崎高校",
+         "url" : "http://academic2.plala.or.jp/nomokou/"
       },
       "長崎県立長崎北陽台高等学校" : {
+         "location" : "長崎県西彼杵郡長与町高田郷3672",
          "location_area" : "西彼杵郡",
+         "location_zipcode" : "851-2127",
          "owner_type" : "県立",
-         "short_name" : "長崎北陽台高校"
+         "senior_high_school_code" : "42164C",
+         "short_name" : "長崎北陽台高校",
+         "url" : "http://hokuyoudai.sakura.ne.jp/"
       },
       "長崎県立長崎北高等学校" : {
+         "location" : "長崎県長崎市小江原1-1-1",
          "location_area" : "長崎市",
+         "location_zipcode" : "851-1132",
          "owner_type" : "県立",
-         "short_name" : "長崎北高校"
+         "senior_high_school_code" : "42104K",
+         "short_name" : "長崎北高校",
+         "url" : "http://www7.ocn.ne.jp/~ngs-kita/"
       },
       "長崎県立長崎南高等学校" : {
+         "location" : "長崎県長崎市上小島4-13-1",
          "location_area" : "長崎市",
+         "location_zipcode" : "850-0834",
          "owner_type" : "県立",
-         "short_name" : "長崎南高校"
+         "senior_high_school_code" : "42103A",
+         "short_name" : "長崎南高校",
+         "url" : "http://www1.odn.ne.jp/minami/index.htm"
       },
       "長崎県立長崎工業高等学校" : {
+         "location" : "長崎県長崎市岩屋町41-22",
          "location_area" : "長崎市",
+         "location_zipcode" : "852-8052",
          "owner_type" : "県立",
-         "short_name" : "長崎工業高校"
+         "senior_high_school_code" : "42105H",
+         "short_name" : "長崎工業高校",
+         "url" : "http://nagasaki-th.ed.jp/"
       },
       "長崎県立長崎明誠高等学校" : {
+         "location" : "長崎県長崎市西海町1854",
          "location_area" : "長崎市",
+         "location_zipcode" : "〒851-3101",
          "owner_type" : "県立",
+         "school_area" : "長崎県下",
+         "senior_high_school_code" : "42131G",
          "short_name" : "長崎明誠高校"
       },
       "長崎県立長崎東高等学校" : {
+         "location" : "長崎県長崎市立山5丁目13-1",
          "location_area" : "長崎市",
+         "location_wikipedia_latlon" : "|32|45|37.3|N|129|52|35|E|",
+         "location_zipcode" : "850-0007",
          "owner_type" : "県立",
+         "senior_high_school_code" : "42101E",
          "short_name" : "長崎東高校",
+         "url" : "http://www1.cncm.ne.jp/~nhigashi/",
          "wikipedia_name" : "長崎県立長崎東中学校・高等学校"
       },
       "長崎県立長崎西高等学校" : {
+         "location" : "長崎県長崎市竹の久保町12-9",
          "location_area" : "長崎市",
+         "location_wikipedia_latlon" : "|32|45|58|N|129|51|33.8|E|",
+         "location_zipcode" : "852-8014",
          "owner_type" : "県立",
-         "short_name" : "長崎西高校"
+         "senior_high_school_code" : "42102C",
+         "short_name" : "長崎西高校",
+         "url" : "http://www.nagasaki-nishi.ed.jp/"
       },
       "長崎県立長崎鶴洋高等学校" : {
          "location_area" : "長崎市",
@@ -390,22 +632,37 @@
          "short_name" : "長崎鶴洋高校"
       },
       "長崎県立鳴滝高等学校" : {
+         "location" : "長崎県長崎市鳴滝一丁目4番1号",
          "location_area" : "長崎市",
+         "location_zipcode" : "850-0011",
          "owner_type" : "県立",
-         "short_name" : "鳴滝高校"
+         "senior_high_school_code" : "42169D",
+         "short_name" : "鳴滝高校",
+         "url" : "http://www5.ocn.ne.jp/~narutaki/"
       },
       "長崎県立鹿町工業高等学校" : {
+         "location" : "長崎県佐世保市鹿町町土肥ノ浦110",
          "location_area" : "北松浦郡",
+         "location_zipcode" : "859-6145",
          "owner_type" : "県立",
-         "short_name" : "鹿町工業高校"
+         "short_name" : "鹿町工業高校",
+         "url" : "http://www.shikakou.ed.jp/"
       },
       "長崎総合科学大学附属高等学校" : {
+         "location" : "長崎県長崎市網場町536番地",
+         "location_zipcode" : "851-0193",
          "owner_type" : "私立",
-         "short_name" : "長崎総合科学大学附属高校"
+         "senior_high_school_code" : "42509F",
+         "short_name" : "長崎総合科学大学附属高校",
+         "url" : "http://www.nias.ed.jp/index.php"
       },
       "青雲学園高等学校" : {
+         "location" : "長崎県西彼杵郡時津町左底245-2",
+         "location_zipcode" : "851-2197",
          "owner_type" : "私立",
+         "senior_high_school_code" : "42521E",
          "short_name" : "青雲学園高校",
+         "url" : "http://www.seiun-jh.ed.jp/",
          "wikipedia_name" : "青雲学園中学校・高等学校"
       }
    }

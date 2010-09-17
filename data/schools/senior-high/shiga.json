@@ -5,8 +5,12 @@
          "short_name" : "ECC学園高校"
       },
       "光泉高等学校" : {
+         "location" : "滋賀県草津市野路町178",
+         "location_wikipedia_latlon" : "|35|0|30.2|N|135|56|39.4|E|",
+         "location_zipcode" : "525-8566",
          "owner_type" : "私立",
          "short_name" : "光泉高校",
+         "url" : "http://www.kousen.ed.jp/",
          "wikipedia_name" : "光泉中学校・高等学校"
       },
       "司学館高等学校" : {
@@ -18,13 +22,20 @@
          "short_name" : "彦根総合高校"
       },
       "比叡山高等学校" : {
+         "location" : "滋賀県大津市坂本4-3-1",
+         "location_zipcode" : "520-0113",
          "owner_type" : "私立",
+         "senior_high_school_code" : "25502F",
          "short_name" : "比叡山高校",
+         "url" : "http://www.hieizan.ed.jp/",
          "wikipedia_name" : "比叡山中学校・高等学校"
       },
       "滋賀学園高等学校" : {
+         "location" : "滋賀県東近江市建部北町520-1",
+         "location_zipcode" : "527-0003",
          "owner_type" : "私立",
          "short_name" : "滋賀学園高校",
+         "url" : "http://www.shigagakuen.ed.jp/j/",
          "wikipedia_name" : "滋賀学園中学校・高等学校"
       },
       "滋賀県立伊吹高等学校" : {
@@ -43,9 +54,13 @@
          "short_name" : "信楽高校"
       },
       "滋賀県立八幡商業高等学校" : {
+         "location" : "滋賀県近江八幡市宇津呂町10",
          "location_area" : "近江八幡市",
+         "location_zipcode" : "523-0895",
          "owner_type" : "県立",
-         "short_name" : "八幡商業高校"
+         "senior_high_school_code" : "25121G",
+         "short_name" : "八幡商業高校",
+         "url" : "http://www.hassho-ch.ed.jp/"
       },
       "滋賀県立八幡工業高等学校" : {
          "location_area" : "近江八幡市",
@@ -63,34 +78,60 @@
          "short_name" : "八日市南高校"
       },
       "滋賀県立八日市高等学校" : {
+         "location" : "滋賀県東近江市八日市上之町1番25号",
          "location_area" : "東近江市",
+         "location_zipcode" : "527-0022",
          "owner_type" : "県立",
-         "short_name" : "八日市高校"
+         "senior_high_school_code" : "25122E",
+         "short_name" : "八日市高校",
+         "url" : "http://www.youkaichi-h.shiga-ec.ed.jp/index.html"
       },
       "滋賀県立北大津高等学校" : {
+         "location" : "滋賀県大津市仰木の里1-23-1",
          "location_area" : "大津市",
+         "location_wikipedia_latlon" : "|35|6|10.8|N|135|53|31.8|E|",
+         "location_zipcode" : "520-0815",
          "owner_type" : "県立",
-         "short_name" : "北大津高校"
+         "senior_high_school_code" : "25148J",
+         "short_name" : "北大津高校",
+         "url" : "http://www.kitaotsu-h.shiga-ec.ed.jp/"
       },
       "滋賀県立国際情報高等学校" : {
+         "location" : "滋賀県栗東市小野36",
          "location_area" : "栗東市",
+         "location_wikipedia_latlon" : "|35|1|3.7|N|136|1|6.4|E|",
+         "location_zipcode" : "520-3016",
          "owner_type" : "県立",
-         "short_name" : "国際情報高校"
+         "senior_high_school_code" : "25149G",
+         "short_name" : "国際情報高校",
+         "url" : "http://www.kokujo-h.shiga-ec.ed.jp/"
       },
       "滋賀県立堅田高等学校" : {
+         "location" : "滋賀県大津市本堅田3丁目9-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0242",
          "owner_type" : "県立",
-         "short_name" : "堅田高校"
+         "senior_high_school_code" : "25103J",
+         "short_name" : "堅田高校",
+         "url" : "http://www.katata-h.shiga-ec.ed.jp/"
       },
       "滋賀県立大津商業高等学校" : {
+         "location" : "滋賀県大津市御陵町2-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0037",
          "owner_type" : "県立",
-         "short_name" : "大津商業高校"
+         "senior_high_school_code" : "25110A",
+         "short_name" : "大津商業高校",
+         "url" : "http://www.daisho-h.shiga-ec.ed.jp/"
       },
       "滋賀県立大津清陵高等学校" : {
+         "location" : "滋賀県大津市大平1-14-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0867",
          "owner_type" : "県立",
-         "short_name" : "大津清陵高校"
+         "senior_high_school_code" : "25150A",
+         "short_name" : "大津清陵高校",
+         "url" : "http://www.ohtsuseiryo-h.shiga-ec.ed.jp/"
       },
       "滋賀県立大津清陵高等学校馬場分校" : {
          "location_area" : "大津市",
@@ -98,9 +139,13 @@
          "short_name" : "大津清陵高校馬場分校"
       },
       "滋賀県立大津高等学校" : {
+         "location" : "滋賀県大津市馬場1丁目1-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0802",
          "owner_type" : "県立",
-         "short_name" : "大津高校"
+         "senior_high_school_code" : "25106C",
+         "short_name" : "大津高校",
+         "url" : "http://www.ohtsu-h.shiga-ec.ed.jp/"
       },
       "滋賀県立守山北高等学校" : {
          "location_area" : "守山市",
@@ -108,25 +153,44 @@
          "short_name" : "守山北高校"
       },
       "滋賀県立守山高等学校" : {
+         "location" : "滋賀県守山市守山3-12-34",
          "location_area" : "守山市",
+         "location_zipcode" : "524-0022",
          "owner_type" : "県立",
+         "senior_high_school_code" : "25125K",
          "short_name" : "守山高校",
+         "url" : "http://www.moriyama-h.shiga-ec.ed.jp/",
          "wikipedia_name" : "滋賀県立守山中学校・高等学校"
       },
       "滋賀県立安曇川高等学校" : {
+         "location" : "滋賀県高島市安曇川町西万木1168番地",
          "location_area" : "高島市",
+         "location_wikipedia_latlon" : "|35|20|4.3|N|136|1|34.2|E|",
+         "location_zipcode" : "520－1212",
          "owner_type" : "県立",
-         "short_name" : "安曇川高校"
+         "senior_high_school_code" : "25139",
+         "short_name" : "安曇川高校",
+         "url" : "http://www.ado-h.shiga-ec.ed.jp/"
       },
       "滋賀県立彦根工業高等学校" : {
+         "location" : "滋賀県彦根市南川瀬町1310番地",
          "location_area" : "彦根市",
+         "location_wikipedia_latlon" : "|35|13|10.2|N|136|13|30.9|E|",
+         "location_zipcode" : "522-0222",
          "owner_type" : "県立",
-         "short_name" : "彦根工業高校"
+         "senior_high_school_code" : "25113F",
+         "short_name" : "彦根工業高校",
+         "url" : "http://www.genkou-h.shiga-ec.ed.jp/index.htm"
       },
       "滋賀県立彦根東高等学校" : {
+         "location" : "滋賀県彦根市金亀町4－7",
          "location_area" : "彦根市",
+         "location_wikipedia_latlon" : "|35|16|22|N|136|15|16|E|",
+         "location_zipcode" : "522-0061",
          "owner_type" : "県立",
-         "short_name" : "彦根東高校"
+         "senior_high_school_code" : "25111K",
+         "short_name" : "彦根東高校",
+         "url" : "http://www.hikonehg-h.shiga-ec.ed.jp/"
       },
       "滋賀県立彦根翔陽高等学校" : {
          "location_area" : "彦根市",
@@ -134,19 +198,32 @@
          "short_name" : "彦根翔陽高校"
       },
       "滋賀県立彦根西高等学校" : {
+         "location" : "滋賀県彦根市池州町9番地73号",
          "location_area" : "彦根市",
+         "location_wikipedia_latlon" : "|35|16|16.0|N|136|14|47.7|E|",
+         "location_zipcode" : "522-0065",
          "owner_type" : "県立",
-         "short_name" : "彦根西高校"
+         "short_name" : "彦根西高校",
+         "url" : "http://www.hikonishi-h.shiga-ec.ed.jp/index.html"
       },
       "滋賀県立愛知高等学校" : {
+         "location" : "滋賀県愛知郡愛荘町愛知川102",
          "location_area" : "愛知郡",
+         "location_wikipedia_latlon" : "|35|10|10.4|N|136|12|41.3|E|",
+         "location_zipcode" : "529-1331",
          "owner_type" : "県立",
-         "short_name" : "愛知高校"
+         "senior_high_school_code" : "25134J",
+         "short_name" : "愛知高校",
+         "url" : "http://www.echiko-h.shiga-ec.ed.jp"
       },
       "滋賀県立日野高等学校" : {
+         "location" : "滋賀県蒲生郡日野町上野田150",
          "location_area" : "蒲生郡",
+         "location_zipcode" : "529-1642",
          "owner_type" : "県立",
-         "short_name" : "日野高校"
+         "senior_high_school_code" : "25132B",
+         "short_name" : "日野高校",
+         "url" : "http://www.hino-h.shiga-ec.ed.jp/"
       },
       "滋賀県立東大津高等学校" : {
          "location_area" : "大津市",
@@ -159,20 +236,32 @@
          "short_name" : "栗東高校"
       },
       "滋賀県立水口東高等学校" : {
+         "location" : "滋賀県甲賀市水口町古城が丘7-1",
          "location_area" : "甲賀市",
+         "location_zipcode" : "528-0073",
          "owner_type" : "県立",
+         "senior_high_school_code" : "25129B",
          "short_name" : "水口東高校",
+         "url" : "http://www.e-minakuchi-h.shiga-ec.ed.jp/",
          "wikipedia_name" : "滋賀県立水口東中学校・高等学校"
       },
       "滋賀県立水口高等学校" : {
+         "location" : "滋賀県甲賀市水口町梅が丘3-1",
          "location_area" : "甲賀市",
+         "location_zipcode" : "528-0022",
          "owner_type" : "県立",
-         "short_name" : "水口高校"
+         "senior_high_school_code" : "25128D",
+         "short_name" : "水口高校",
+         "url" : "http://www.minakuchi-h.shiga-ec.ed.jp/"
       },
       "滋賀県立河瀬高等学校" : {
+         "location" : "滋賀県彦根市川瀬馬場町975",
          "location_area" : "彦根市",
+         "location_zipcode" : "522-0223",
          "owner_type" : "県立",
+         "senior_high_school_code" : "25143H",
          "short_name" : "河瀬高校",
+         "url" : "http://www.kawase-h.shiga-ec.ed.jp/",
          "wikipedia_name" : "滋賀県立河瀬中学校・高等学校"
       },
       "滋賀県立湖南農業高等学校" : {
@@ -181,9 +270,14 @@
          "short_name" : "湖南農業高校"
       },
       "滋賀県立瀬田工業高等学校" : {
+         "location" : "滋賀県大津市神領3丁目18-1",
          "location_area" : "大津市",
+         "location_wikipedia_latlon" : "|34|58|14.4|N|135|54|43.1|E|",
+         "location_zipcode" : "520-2132",
          "owner_type" : "県立",
-         "short_name" : "瀬田工業高校"
+         "senior_high_school_code" : "25108K",
+         "short_name" : "瀬田工業高校",
+         "url" : "http://www.setatech-h.shiga-ec.ed.jp/"
       },
       "滋賀県立瀬田高等学校" : {
          "location_area" : "大津市",
@@ -191,34 +285,60 @@
          "short_name" : "瀬田高校"
       },
       "滋賀県立玉川高等学校" : {
+         "location" : "滋賀県草津市野路東3-2-1",
          "location_area" : "草津市",
+         "location_zipcode" : "520-0058",
          "owner_type" : "県立",
-         "short_name" : "玉川高校"
+         "senior_high_school_code" : "25144F",
+         "short_name" : "玉川高校",
+         "url" : "http://www.tamagawa-h.shiga-ec.ed.jp/"
       },
       "滋賀県立甲南高等学校" : {
+         "location" : "滋賀県甲賀市甲南町寺庄427",
          "location_area" : "甲賀市",
+         "location_zipcode" : "520-3301",
          "owner_type" : "県立",
-         "short_name" : "甲南高校"
+         "senior_high_school_code" : "25130F",
+         "short_name" : "甲南高校",
+         "url" : "http://www.kohnan-h.shiga-ec.ed.jp/"
       },
       "滋賀県立甲西高等学校" : {
+         "location" : "滋賀県湖南市針1",
          "location_area" : "湖南市",
+         "location_wikipedia_latlon" : "|35|0|12.1|N|136|5|21.5|E|",
+         "location_zipcode" : "520-3231",
          "owner_type" : "県立",
-         "short_name" : "甲西高校"
+         "senior_high_school_code" : "25146B",
+         "short_name" : "甲西高校",
+         "url" : "http://www.kosei-h.shiga-ec.ed.jp/"
       },
       "滋賀県立石山高等学校" : {
+         "location" : "滋賀県大津市国分1-15-1",
          "location_area" : "大津市",
+         "location_zipcode" : "520-0844",
          "owner_type" : "県立",
-         "short_name" : "石山高校"
+         "senior_high_school_code" : "25107A",
+         "short_name" : "石山高校",
+         "url" : "http://www.ishiyama-h.shiga-ec.ed.jp"
       },
       "滋賀県立石部高等学校" : {
+         "location" : "滋賀県湖南市丸山2丁目3番1号",
          "location_area" : "湖南市",
+         "location_wikipedia_latlon" : "|34|59|43.2|N|136|3|5.4|E|",
+         "location_zipcode" : "520-3112",
          "owner_type" : "県立",
-         "short_name" : "石部高校"
+         "senior_high_school_code" : "25151J",
+         "short_name" : "石部高校",
+         "url" : "http://www.ishibe-h.shiga-ec.ed.jp/index.html"
       },
       "滋賀県立米原高等学校" : {
+         "location" : "滋賀県米原市西円寺1200番地",
          "location_area" : "米原市",
+         "location_zipcode" : "521-0092",
          "owner_type" : "県立",
-         "short_name" : "米原高校"
+         "senior_high_school_code" : "25135G",
+         "short_name" : "米原高校",
+         "url" : "http://www.maibara-h.shiga-ec.ed.jp/index.html"
       },
       "滋賀県立能登川高等学校" : {
          "location_area" : "東近江市",
@@ -226,34 +346,61 @@
          "short_name" : "能登川高校"
       },
       "滋賀県立膳所高等学校" : {
+         "location" : "滋賀県大津市膳所2-11-1",
          "location_area" : "大津市",
+         "location_wikipedia_latlon" : "|34|59|47.0|N|135|53|25.7|E|",
+         "location_zipcode" : "520-0815",
          "owner_type" : "県立",
-         "short_name" : "膳所高校"
+         "senior_high_school_code" : "25101B",
+         "short_name" : "膳所高校",
+         "url" : "http://www.zeze-h.shiga-ec.ed.jp/"
       },
       "滋賀県立草津東高等学校" : {
+         "location" : "滋賀県草津市西渋川2丁目8番65号",
          "location_area" : "草津市",
+         "location_wikipedia_latlon" : "|35|1|53.9|N|135|58|1.2|E|",
+         "location_zipcode" : "525-0025",
          "owner_type" : "県立",
-         "short_name" : "草津東高校"
+         "senior_high_school_code" : "25141A",
+         "short_name" : "草津東高校",
+         "url" : "http://www.kusahiga-h.shiga-ec.ed.jp/"
       },
       "滋賀県立草津高等学校" : {
+         "location" : "滋賀県草津市木川町955-1",
          "location_area" : "草津市",
+         "location_wikipedia_latlon" : "|35|1|26.0|N|135|56|55.5|E|",
+         "location_zipcode" : "525-0051",
          "owner_type" : "県立",
-         "short_name" : "草津高校"
+         "school_area" : "全県1学区",
+         "short_name" : "草津高校",
+         "url" : "http://www.kusatsu-h.shiga-ec.ed.jp/"
       },
       "滋賀県立虎姫高等学校" : {
+         "location" : "滋賀県長浜市宮部町2410",
          "location_area" : "長浜市",
+         "location_zipcode" : "529-0112",
          "owner_type" : "県立",
-         "short_name" : "虎姫高校"
+         "senior_high_school_code" : "25136E",
+         "short_name" : "虎姫高校",
+         "url" : "http://www.torahime-h.shiga-ec.ed.jp/index2.htm"
       },
       "滋賀県立野洲高等学校" : {
+         "location" : "滋賀県野洲市行畑2丁目9番1号",
          "location_area" : "野洲市",
+         "location_wikipedia_latlon" : "|35|3|41.1|N|136|1|12.4|E|",
+         "location_zipcode" : "520-2341",
          "owner_type" : "県立",
-         "short_name" : "野洲高校"
+         "short_name" : "野洲高校",
+         "url" : "http://www.yasu-h.shiga-ec.ed.jp/"
       },
       "滋賀県立長浜北星高等学校" : {
+         "location" : "滋賀県長浜市地福寺町3-72",
          "location_area" : "長浜市",
+         "location_zipcode" : "526-0036",
          "owner_type" : "県立",
-         "short_name" : "長浜北星高校"
+         "senior_high_school_code" : "25118G",
+         "short_name" : "長浜北星高校",
+         "url" : "http://www.hokusei-h.shiga-ec.ed.jp/"
       },
       "滋賀県立長浜北高等学校" : {
          "location_area" : "長浜市",
@@ -266,36 +413,66 @@
          "short_name" : "長浜農業高校"
       },
       "滋賀県立長浜高等学校" : {
+         "location" : "滋賀県長浜市平方町270",
          "location_area" : "長浜市",
+         "location_zipcode" : "526-0033",
          "owner_type" : "県立",
-         "short_name" : "長浜高校"
+         "senior_high_school_code" : "25115B",
+         "short_name" : "長浜高校",
+         "url" : "http://www.nagako-h.shiga-ec.ed.jp/"
       },
       "滋賀県立高島高等学校" : {
+         "location" : "滋賀県高島市今津町今津1936",
          "location_area" : "高島市",
+         "location_zipcode" : "520－1621",
          "owner_type" : "県立",
-         "short_name" : "高島高校"
+         "senior_high_school_code" : "25138A",
+         "short_name" : "高島高校",
+         "url" : "http://www.takashima-h.shiga-ec.ed.jp/"
       },
       "滋賀短期大学附属高等学校" : {
+         "location" : "大津市朝日が丘1丁目18-1",
+         "location_wikipedia_latlon" : "|34|59|57.6|N|135|52|11.3|E|",
+         "location_zipcode" : "520-0052",
          "owner_type" : "私立",
-         "short_name" : "滋賀短大附属高校"
+         "short_name" : "滋賀短大附属高校",
+         "url" : "http://www.sumire.ac.jp/highschool/"
       },
       "立命館守山高等学校" : {
+         "location" : "滋賀県守山市三宅町250",
+         "location_zipcode" : "524-0041",
          "owner_type" : "私立",
+         "senior_high_school_code" : "25140C",
          "short_name" : "立命館守山高校",
+         "url" : "http://www.ritsumei.ac.jp/mrc/",
          "wikipedia_name" : "立命館守山中学校・高等学校"
       },
       "綾羽高等学校" : {
+         "location" : "滋賀県草津市西渋川1-18-1",
+         "location_wikipedia_latlon" : "|35|1|33.4|N|135|57|42.7|E|",
+         "location_zipcode" : "525-0025",
          "owner_type" : "私立",
-         "short_name" : "綾羽高校"
+         "senior_high_school_code" : "25506J",
+         "short_name" : "綾羽高校",
+         "url" : "http://www.ayaha.ed.jp/index.html"
       },
       "近江兄弟社高等学校" : {
+         "location" : "滋賀県近江八幡市市井町177",
+         "location_zipcode" : "523-0851",
          "owner_type" : "私立",
+         "senior_high_school_code" : "25504B",
          "short_name" : "近江兄弟社高校",
+         "url" : "http://www.ob-sch.ac.jp/jr-high/",
          "wikipedia_name" : "近江兄弟社中学校・高等学校"
       },
       "近江高等学校" : {
+         "location" : "滋賀県彦根市松原町大黒前3511-1",
+         "location_wikipedia_latlon" : "|35|17|0.5|N|136|15|31.5|E|",
+         "location_zipcode" : "522-0002",
          "owner_type" : "私立",
-         "short_name" : "近江高校"
+         "senior_high_school_code" : "25503D",
+         "short_name" : "近江高校",
+         "url" : "http://www.ohmi-h.ed.jp/"
       }
    }
 }

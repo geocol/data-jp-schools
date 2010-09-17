@@ -4,54 +4,104 @@
          "owner_type" : "国立"
       },
       "聖心学園中等教育学校" : {
-         "owner_type" : "私立"
+         "location" : "奈良県橿原市久米町222",
+         "location_wikipedia_latlon" : "|34|29|1.4|N|135|47|4.7|E|",
+         "location_zipcode" : "634-0063",
+         "owner_type" : "私立",
+         "senior_high_school_code" : "29517F",
+         "url" : "http://www.seishingakuenchuto.ed.jp/"
       }
    },
    "senior_high_schools" : {
       "大和高田市立高田商業高等学校" : {
+         "location" : "奈良県大和高田市材木町8-3",
          "location_area" : "大和高田市",
+         "location_wikipedia_latlon" : "|34|31|4.1|N|135|45|20.9|E|",
+         "location_zipcode" : "635-0061",
          "owner_type" : "市立",
-         "short_name" : "高田商業高校"
+         "senior_high_school_code" : "29132D",
+         "short_name" : "高田商業高校",
+         "url" : "http://web1.kcn.jp/ichisho"
       },
       "天理教校学園高等学校" : {
+         "location" : "奈良県天理市三島町70",
+         "location_wikipedia_latlon" : "|34|36|16.8|N|135|50|18.6|E|",
+         "location_zipcode" : "632-0015",
          "owner_type" : "私立",
-         "short_name" : "天理教校学園高校"
+         "senior_high_school_code" : "29512E",
+         "short_name" : "天理教校学園高校",
+         "url" : "http://www.tenri-kyg.ac.jp/"
       },
       "天理高等学校" : {
+         "location" : "奈良県天理市杣之内町1260",
+         "location_wikipedia_latlon" : "|34|35|43.7|N|135|50|33.5|E|",
+         "location_zipcode" : "632-8585",
          "owner_type" : "私立",
-         "short_name" : "天理高校"
+         "senior_high_school_code" : "29503F",
+         "short_name" : "天理高校",
+         "url" : "http://www.tenri-h.ed.jp/"
       },
       "奈良大学附属高等学校" : {
+         "location" : "奈良県奈良市秋篠町50番地",
+         "location_zipcode" : "631-8555",
          "owner_type" : "私立",
-         "short_name" : "奈良大学附属高校"
+         "senior_high_school_code" : "29505B",
+         "short_name" : "奈良大学附属高校",
+         "url" : "http://www.nara-u-h.ed.jp/"
       },
       "奈良女子高等学校" : {
+         "location" : "奈良市三条宮前町3番6号",
+         "location_zipcode" : "630-8121",
          "owner_type" : "私立",
-         "short_name" : "奈良女子高校"
+         "senior_high_school_code" : "29504D",
+         "short_name" : "奈良女子高校",
+         "url" : "http://www.shirafuji.ac.jp/high/index.htm"
       },
       "奈良学園高等学校" : {
+         "location" : "奈良県大和郡山市山田町430",
+         "location_zipcode" : "639-1093",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29513C",
          "short_name" : "奈良学園高校",
+         "url" : "http://www.naragakuen.ed.jp/",
          "wikipedia_name" : "奈良学園中学校・高等学校"
       },
       "奈良市立一条高等学校" : {
+         "location" : "奈良県奈良市法華寺町1351",
          "location_area" : "奈良市",
+         "location_zipcode" : "630-8001",
          "owner_type" : "市立",
-         "short_name" : "一条高校"
+         "senior_high_school_code" : "29131F",
+         "short_name" : "一条高校",
+         "url" : "http://www.naracity.ed.jp/ichijou-h/"
       },
       "奈良文化高等学校" : {
+         "location" : "奈良県大和高田市東中127",
+         "location_wikipedia_latlon" : "|34|30|2.2|N|135|43|51.1|E|",
+         "location_zipcode" : "635-8530",
          "owner_type" : "私立",
-         "short_name" : "奈良文化高校"
+         "senior_high_school_code" : "29510J",
+         "short_name" : "奈良文化高校",
+         "url" : "http://www.narabunka.ac.jp/koukou/"
       },
       "奈良県立二階堂高等学校" : {
+         "location" : "奈良県天理市荒蒔町100-1",
          "location_area" : "天理市",
+         "location_wikipedia_latlon" : "|34|36|1.3|N|135|48|18.7|E|",
+         "location_zipcode" : "632-0082",
          "owner_type" : "県立",
-         "short_name" : "二階堂高校"
+         "senior_high_school_code" : "29130H",
+         "short_name" : "二階堂高校",
+         "url" : "http://www.pref-nara.ed.jp/nikaido-hs/"
       },
       "奈良県立五條高等学校" : {
+         "location" : "奈良県五條市岡町1428",
          "location_area" : "五條市",
+         "location_wikipedia_latlon" : "|34|22|11.8|N|135|41|39.9|E|",
+         "location_zipcode" : "637-0092",
          "owner_type" : "県立",
-         "short_name" : "五條高校"
+         "short_name" : "五條高校",
+         "url" : "http://www.pref-nara.ed.jp/gojo-hs/"
       },
       "奈良県立五條高等学校賀名生分校" : {
          "location_area" : "五條市",
@@ -59,69 +109,123 @@
          "short_name" : "五條高校賀名生分校"
       },
       "奈良県立十津川高等学校" : {
+         "location" : "奈良県吉野郡十津川村込之上58",
          "location_area" : "吉野郡十津川村",
+         "location_zipcode" : "637-1445",
          "owner_type" : "県立",
-         "short_name" : "十津川高校"
+         "senior_high_school_code" : "29129D",
+         "short_name" : "十津川高校",
+         "url" : "http://www.totsukawa-h.ed.jp/"
       },
       "奈良県立吉野高等学校" : {
+         "location" : "奈良県吉野郡吉野町飯貝680",
          "location_area" : "吉野郡吉野町",
+         "location_zipcode" : "639-3113",
          "owner_type" : "県立",
-         "short_name" : "吉野高校"
+         "senior_high_school_code" : "29135J",
+         "short_name" : "吉野高校",
+         "url" : "http://www.yoshino-h.ed.jp/"
       },
       "奈良県立大和中央高等学校" : {
+         "location" : "奈良県大和郡山市筒井町1201",
          "location_area" : "大和郡山市",
+         "location_zipcode" : "639-1123",
          "owner_type" : "県立",
-         "short_name" : "大和中央高校"
+         "senior_high_school_code" : "29157K",
+         "short_name" : "大和中央高校",
+         "url" : "http://www.pref-nara.ed.jp/yamato-chuo-hs/"
       },
       "奈良県立大和広陵高等学校" : {
+         "location" : "奈良県北葛城郡広陵町的場401",
          "location_area" : "北葛城郡広陵町",
+         "location_wikipedia_latlon" : "|34|34|4.2|N|135|45|32|E|",
+         "location_zipcode" : "635-0802",
          "owner_type" : "県立",
-         "short_name" : "大和広陵高校"
+         "senior_high_school_code" : "29154E",
+         "short_name" : "大和広陵高校",
+         "url" : "http://www.koryo-hs.ed.jp/"
       },
       "奈良県立大宇陀高等学校" : {
+         "location" : "奈良県宇陀市大宇陀区迫間63-2",
          "location_area" : "宇陀市",
+         "location_wikipedia_latlon" : "|34|28|50.8|N|135|55|44.5|E|",
+         "location_zipcode" : "633-2166",
          "owner_type" : "県立",
-         "short_name" : "大宇陀高校"
+         "senior_high_school_code" : "29117A",
+         "short_name" : "大宇陀高校",
+         "url" : "http://www.oouda-h.ed.jp/"
       },
       "奈良県立大淀高等学校" : {
+         "location" : "奈良県吉野郡大淀町下渕983",
          "location_area" : "吉野郡大淀町",
+         "location_wikipedia_latlon" : "|34|23|5.7|N|135|47|24.2|E|",
+         "location_zipcode" : "638-0821",
          "owner_type" : "県立",
-         "short_name" : "大淀高校"
+         "short_name" : "大淀高校",
+         "url" : "http://www.oyodo-h.ed.jp/"
       },
       "奈良県立奈良北高等学校" : {
+         "location" : "奈良県生駒市上町4600",
          "location_area" : "生駒市",
+         "location_zipcode" : "630-0131",
          "owner_type" : "県立",
-         "short_name" : "奈良北高校"
+         "senior_high_school_code" : "29150B",
+         "short_name" : "奈良北高校",
+         "url" : "http://www.narakita.ed.jp/"
       },
       "奈良県立奈良商業高等学校" : {
+         "location" : "奈良県奈良市柏木町248",
          "location_area" : "奈良市",
+         "location_wikipedia_latlon" : "|34|40|9.9|N|135|47|46.8|E|",
+         "location_zipcode" : "630-8031",
          "owner_type" : "県立",
-         "short_name" : "奈良商業高校"
+         "short_name" : "奈良商業高校",
+         "url" : "http://www.nara-ch.ed.jp/"
       },
       "奈良県立奈良工業高等学校" : {
+         "location" : "奈良県奈良市秋篠町1277-1",
          "location_area" : "奈良市",
+         "location_zipcode" : "630-8031",
          "owner_type" : "県立",
-         "short_name" : "奈良工業高校"
+         "short_name" : "奈良工業高校",
+         "url" : "http://www.nths.ed.jp/"
       },
       "奈良県立奈良情報商業高等学校" : {
+         "location" : "奈良県桜井市河西770番地",
          "location_area" : "桜井市",
+         "location_wikipedia_latlon" : "|34|30|3.9|N|135|50|49.6|E|",
+         "location_zipcode" : "633-0051",
          "owner_type" : "県立",
-         "short_name" : "奈良情報商業高校"
+         "senior_high_school_code" : "29153G",
+         "short_name" : "奈良情報商業高校",
+         "url" : "http://www.nara-ich.ed.jp/"
       },
       "奈良県立奈良朱雀高等学校" : {
+         "location" : "奈良県奈良市柏木町248",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-8031",
          "owner_type" : "県立",
-         "short_name" : "奈良朱雀高校"
+         "short_name" : "奈良朱雀高校",
+         "url" : "http://www.nara-suzaku.ed.jp"
       },
       "奈良県立奈良高等学校" : {
+         "location" : "奈良県奈良市法蓮町836番地",
          "location_area" : "奈良市",
+         "location_wikipedia_latlon" : "|34|41|42.2|N|135|49|4.7|E|",
+         "location_zipcode" : "630-8113",
          "owner_type" : "県立",
-         "short_name" : "奈良高校"
+         "senior_high_school_code" : "29103A",
+         "short_name" : "奈良高校",
+         "url" : "http://www.pref-nara.ed.jp/nara-hs/"
       },
       "奈良県立山辺高等学校" : {
+         "location" : "奈良県奈良市都祁友田町937番地",
          "location_area" : "奈良市",
+         "location_zipcode" : "632-0246",
          "owner_type" : "県立",
-         "short_name" : "山辺高校"
+         "senior_high_school_code" : "29110C",
+         "short_name" : "山辺高校",
+         "url" : "http://www.yamabe-hs.ed.jp/"
       },
       "奈良県立山辺高等学校山添分校" : {
          "location_area" : "山辺郡山添村",
@@ -129,113 +233,208 @@
          "short_name" : "山辺高校山添分校"
       },
       "奈良県立平城高等学校" : {
+         "location" : "奈良県奈良市朱雀2丁目11番地",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0806",
          "owner_type" : "県立",
-         "short_name" : "平城高校"
+         "short_name" : "平城高校",
+         "url" : "http://www.heijo-hs.ed.jp/"
       },
       "奈良県立御所実業高等学校" : {
+         "location" : "奈良県御所市玉手300番地",
          "location_area" : "御所市",
+         "location_zipcode" : "639-2247",
          "owner_type" : "県立",
-         "short_name" : "御所実業高校"
+         "senior_high_school_code" : "29155C",
+         "short_name" : "御所実業高校",
+         "url" : "http://www.pref-nara.ed.jp/gihs/"
       },
       "奈良県立桜井高等学校" : {
+         "location" : "奈良県桜井市桜井95",
          "location_area" : "桜井市",
+         "location_wikipedia_latlon" : "|34|30|54.5|N|135|51|10.1|E|",
+         "location_zipcode" : "633-0091",
          "owner_type" : "県立",
-         "short_name" : "桜井高校"
+         "senior_high_school_code" : "29115D",
+         "short_name" : "桜井高校",
+         "url" : "http://www.sakurai-hs.ed.jp/"
       },
       "奈良県立榛生昇陽高等学校" : {
+         "location" : "奈良県宇陀市榛原区下井足210番地",
          "location_area" : "宇陀市",
+         "location_wikipedia_latlon" : "|34|31|28.2|N|135|57|21.8|E|",
+         "location_zipcode" : "633-0241",
          "owner_type" : "県立",
-         "short_name" : "榛生昇陽高校"
+         "senior_high_school_code" : "29149J",
+         "short_name" : "榛生昇陽高校",
+         "url" : "http://www4.kcn.ne.jp/~yam/syouyo2/index.htm"
       },
       "奈良県立橿原高等学校" : {
+         "location" : "奈良県橿原市北越智町282",
          "location_area" : "橿原市",
+         "location_wikipedia_latlon" : "|34|28|36.1|N|135|46|37.5|E|",
+         "location_zipcode" : "634-0823",
          "owner_type" : "県立",
-         "short_name" : "橿原高校"
+         "senior_high_school_code" : "29113H",
+         "short_name" : "橿原高校",
+         "url" : "http://www.kashihara-h.ed.jp/"
       },
       "奈良県立法隆寺国際高等学校" : {
+         "location" : "奈良県生駒郡斑鳩町高安2丁目1-1",
          "location_area" : "生駒郡斑鳩町",
+         "location_zipcode" : "636-0014",
          "owner_type" : "県立",
-         "short_name" : "法隆寺国際高校"
+         "senior_high_school_code" : "29151A",
+         "short_name" : "法隆寺国際高校",
+         "url" : "http://www.horyuji-h.ed.jp/"
       },
       "奈良県立添上高等学校" : {
+         "location" : "奈良県天理市櫟本町1532-2",
          "location_area" : "天理市",
+         "location_wikipedia_latlon" : "|34|37|16.7|N|135|49|23.4|E|",
+         "location_zipcode" : "632-0004",
          "owner_type" : "県立",
-         "short_name" : "添上高校"
+         "short_name" : "添上高校",
+         "url" : "http://www.pref-nara.ed.jp/soekami-hs/"
       },
       "奈良県立王寺工業高等学校" : {
+         "location" : "奈良県北葛城郡王寺町本町3丁目6-1",
          "location_area" : "北葛城郡王寺町",
+         "location_wikipedia_latlon" : "|34|35|30.7|N|135|42|7|E|",
+         "location_zipcode" : "636-0012",
          "owner_type" : "県立",
-         "short_name" : "王寺工業高校"
+         "senior_high_school_code" : "29118J",
+         "short_name" : "王寺工業高校",
+         "url" : "http://www.oji-ths.ed.jp/"
       },
       "奈良県立生駒高等学校" : {
+         "location" : "奈良県生駒市壱分町532-1",
          "location_area" : "生駒市",
+         "location_wikipedia_latlon" : "|34|40|18.9|N|135|42|48.8|E|",
+         "location_zipcode" : "630-0222",
          "owner_type" : "県立",
-         "short_name" : "生駒高校"
+         "senior_high_school_code" : "29104J",
+         "short_name" : "生駒高校",
+         "url" : "http://www.ikoma-h.ed.jp/"
       },
       "奈良県立畝傍高等学校" : {
+         "location" : "奈良県橿原市八木町3-13-2",
          "location_area" : "橿原市",
+         "location_wikipedia_latlon" : "|34|30|33.9|N|135|47|57|E|",
+         "location_zipcode" : "634-0078",
          "owner_type" : "県立",
-         "short_name" : "畝傍高校"
+         "senior_high_school_code" : "29112K",
+         "short_name" : "畝傍高校",
+         "url" : "http://www.pref-nara.ed.jp/unebi-hs/index.html"
       },
       "奈良県立登美ケ丘高等学校" : {
+         "location" : "奈良県奈良市二名町1944番12",
          "location_area" : "奈良市",
+         "location_zipcode" : "631-0008",
          "owner_type" : "県立",
-         "short_name" : "登美ケ丘高校"
+         "senior_high_school_code" : "27172B",
+         "short_name" : "登美ケ丘高校",
+         "url" : "http://dns.nar-tomigaoka-h.ed.jp/"
       },
       "奈良県立磯城野高等学校" : {
+         "location" : "奈良県磯城郡田原本町258",
          "location_area" : "磯城郡田原本町",
+         "location_zipcode" : "646-0024",
          "owner_type" : "県立",
-         "short_name" : "磯城野高校"
+         "short_name" : "磯城野高校",
+         "url" : "http://www.shikino.ed.jp/"
       },
       "奈良県立西の京高等学校" : {
+         "location" : "奈良県奈良市六条西3丁目24番1号",
          "location_area" : "奈良市",
+         "location_zipcode" : "630-8044",
          "owner_type" : "県立",
-         "short_name" : "西の京高校"
+         "senior_high_school_code" : "29133B",
+         "short_name" : "西の京高校",
+         "url" : "http://www.nishinokyo-hs.ed.jp/"
       },
       "奈良県立西和清陵高等学校" : {
+         "location" : "奈良県生駒郡三郷町信貴ケ丘4-7-1",
          "location_area" : "生駒郡三郷町",
+         "location_wikipedia_latlon" : "|34|36|14.8|N|135|41|12.4|E|",
+         "location_zipcode" : "636-0813",
          "owner_type" : "県立",
-         "short_name" : "西和清陵高校"
+         "senior_high_school_code" : "29148A",
+         "short_name" : "西和清陵高校",
+         "url" : "http://www.seiwaseiryo.ed.jp/"
       },
       "奈良県立郡山高等学校" : {
+         "location" : "奈良県大和郡山市城内町1-26",
          "location_area" : "大和郡山市",
+         "location_zipcode" : "639-1011",
          "owner_type" : "県立",
-         "short_name" : "郡山高校"
+         "senior_high_school_code" : "29108A",
+         "short_name" : "郡山高校",
+         "url" : "http://www.pref-nara.ed.jp/koriyama-hs/"
       },
       "奈良県立青翔高等学校" : {
+         "location" : "奈良県御所市御所525番地",
          "location_area" : "御所市",
+         "location_wikipedia_latlon" : "|34|27|32.1|N|135|43|59.1|E|",
+         "location_zipcode" : "639-2271",
          "owner_type" : "県立",
-         "short_name" : "青翔高校"
+         "senior_high_school_code" : "29124C",
+         "short_name" : "青翔高校",
+         "url" : "http://www.pref-nara.ed.jp/seisho-hs//"
       },
       "奈良県立香芝高等学校" : {
+         "location" : "奈良県香芝市真美ヶ丘5-1-53",
          "location_area" : "香芝市",
+         "location_wikipedia_latlon" : "|34|32|42.1|N|135|43|9.3|E|",
+         "location_zipcode" : "639-0223",
          "owner_type" : "県立",
-         "short_name" : "香芝高校"
+         "short_name" : "香芝高校",
+         "url" : "http://www.kashiba-h.ed.jp/"
       },
       "奈良県立高円高等学校" : {
+         "location" : "奈良県奈良市白毫寺町633",
          "location_area" : "奈良市",
+         "location_zipcode" : "630-8302",
          "owner_type" : "県立",
-         "short_name" : "高円高校"
+         "senior_high_school_code" : "29138C",
+         "short_name" : "高円高校",
+         "url" : "http://www.nara-takamado-hi.ed.jp/"
       },
       "奈良県立高取国際高等学校" : {
+         "location" : "奈良県高市郡高取町佐田455-2",
          "location_area" : "高市郡高取町",
+         "location_zipcode" : "635-0131",
          "owner_type" : "県立",
-         "short_name" : "高取国際高校"
+         "short_name" : "高取国際高校",
+         "url" : "http://www.pref-nara.ed.jp/takatori-kokusai-hs/"
       },
       "奈良県立高田高等学校" : {
+         "location" : "奈良県大和高田市礒野東町6-6",
          "location_area" : "大和高田市",
+         "location_wikipedia_latlon" : "|34|30|32.7|N|135|44|22.2|E|",
+         "location_zipcode" : "635-0061",
          "owner_type" : "県立",
-         "short_name" : "高田高校"
+         "senior_high_school_code" : "29120A",
+         "short_name" : "高田高校",
+         "url" : "http://www.nar-takada-h.ed.jp/"
       },
       "奈良育英高等学校" : {
+         "location" : "奈良県奈良市法蓮町1000番地",
+         "location_wikipedia_latlon" : "|34|41|28.4|N|135|49|27.2|E|",
+         "location_zipcode" : "630-8558",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29501K",
          "short_name" : "奈良育英高校",
+         "url" : "http://www.ikuei.ed.jp/",
          "wikipedia_name" : "奈良育英中学校・高等学校"
       },
       "帝塚山高等学校" : {
+         "location" : "奈良県奈良市学園南3-1-3",
+         "location_zipcode" : "631-0034",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29502H",
          "short_name" : "帝塚山高校",
+         "url" : "http://www.tezukayama-h.ed.jp/",
          "wikipedia_name" : "帝塚山中学校・高等学校"
       },
       "智辯学園奈良カレッジ高等部" : {
@@ -243,8 +442,12 @@
          "wikipedia_name" : "智辯学園奈良カレッジ小学部・中学部・高等部"
       },
       "智辯学園高等学校" : {
+         "location" : "奈良県五條市野原中4-1-51",
+         "location_zipcode" : "637-0037",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29509E",
          "short_name" : "智辯学園高校",
+         "url" : "http://www.chiben.ac.jp/nara/Welcome_N.htm",
          "wikipedia_name" : "智辯学園中学校・高等学校"
       },
       "東大寺学園高等学校" : {
@@ -253,26 +456,47 @@
          "wikipedia_name" : "東大寺学園"
       },
       "橿原学院高等学校" : {
+         "location" : "奈良県橿原市久米町222",
+         "location_wikipedia_latlon" : "|34|29|2.3|N|135|47|9.4|E|",
+         "location_zipcode" : "634-0063",
          "owner_type" : "私立",
-         "short_name" : "橿原学院高校"
+         "senior_high_school_code" : "29508G",
+         "short_name" : "橿原学院高校",
+         "url" : "http://www.kashigaku.ed.jp/"
       },
       "育英西高等学校" : {
+         "location" : "奈良県奈良市三松四丁目637番1号",
+         "location_zipcode" : "631-0074",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29514A",
          "short_name" : "育英西高校",
+         "url" : "http://www.ikuei.ed.jp/ikunishi/",
          "wikipedia_name" : "育英西中学校・高等学校"
       },
       "西大和学園高等学校" : {
+         "location" : "奈良県北葛城郡河合町薬井295",
+         "location_zipcode" : "636-0082",
          "owner_type" : "私立",
+         "senior_high_school_code" : "29515K",
          "short_name" : "西大和学園高校",
+         "url" : "http://www.nishiyamato.ed.jp/ny/",
          "wikipedia_name" : "西大和学園中学校・高等学校"
       },
       "関西中央高等学校" : {
+         "location" : "奈良県桜井市桜井502",
+         "location_zipcode" : "633-0091",
          "owner_type" : "私立",
-         "short_name" : "関西中央高校"
+         "senior_high_school_code" : "29507J",
+         "short_name" : "関西中央高校",
+         "url" : "http://www.kch.ed.jp/"
       },
       "飛鳥未来高等学校" : {
+         "location" : "奈良県天理市櫟本1514-3",
+         "location_zipcode" : "632-0004",
          "owner_type" : "私立",
-         "short_name" : "飛鳥未来高校"
+         "senior_high_school_code" : "29520F",
+         "short_name" : "飛鳥未来高校",
+         "url" : "[https://www.sanko.ac.jp/asuka-mirai/ 公式サイト]"
       }
    }
 }

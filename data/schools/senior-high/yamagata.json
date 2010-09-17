@@ -1,9 +1,13 @@
 {
    "senior_high_schools" : {
       "九里学園高等学校" : {
+         "location" : "山形県米沢市門東町1丁目1番72号",
          "location_area" : "米沢市",
+         "location_zipcode" : "992-0039",
          "owner_type" : "私立",
-         "short_name" : "九里学園高校"
+         "senior_high_school_code" : "06509K",
+         "short_name" : "九里学園高校",
+         "url" : "http://www.kunori.jp/"
       },
       "和順館高等学校" : {
          "location_area" : "酒田市",
@@ -11,36 +15,66 @@
          "short_name" : "和順館高校"
       },
       "基督教独立学園高等学校" : {
+         "location" : "山形県西置賜郡小国町大字叶水826",
          "location_area" : "西置賜郡小国町",
+         "location_zipcode" : "999-1292",
          "owner_type" : "私立",
-         "short_name" : "基督教独立学園高校"
+         "senior_high_school_code" : "06511A",
+         "short_name" : "基督教独立学園高校",
+         "url" : "http://www.dokuritsugakuen.com/"
       },
       "天真学園高等学校" : {
+         "location" : "山形県酒田市浜田一丁目3番47号",
          "location_area" : "酒田市",
+         "location_wikipedia_latlon" : "|38|55|4.381|N|139|50|51.628|E|",
+         "location_zipcode" : "998-0031",
          "owner_type" : "私立",
-         "short_name" : "天真学園高校"
+         "school_area" : "斎藤裁縫塾",
+         "senior_high_school_code" : "06514F",
+         "short_name" : "天真学園高校",
+         "url" : "http://www.wajun-honbu.ac.jp/tenshin/index.html"
       },
       "山形城北高等学校" : {
+         "location" : "山形県山形市肴町1-13",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|38.5|N|140|19|55.7|E|",
+         "location_zipcode" : "990-0824",
          "owner_type" : "私立",
-         "short_name" : "山形城北高校"
+         "senior_high_school_code" : "06501D",
+         "short_name" : "山形城北高校",
+         "url" : "http://www.johoku.ed.jp/"
       },
       "山形学院高等学校" : {
+         "location" : "山形市香澄町3丁目10番8号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|14|40.9|N|140|19|52|E|",
+         "location_zipcode" : "990-0039",
          "owner_type" : "私立",
-         "short_name" : "山形学院高校"
+         "senior_high_school_code" : "06502B",
+         "short_name" : "山形学院高校",
+         "url" : "http://www.y-gakuin.ac.jp/index.html"
       },
       "山形市立商業高等学校" : {
+         "location" : "山形県山形市あかねヶ丘一丁目9番1号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|2.9|N|140|18|43.2|E|",
+         "location_zipcode" : "990-2481",
          "owner_type" : "市立",
          "school_area" : "東学区",
-         "short_name" : "商業高校"
+         "senior_high_school_code" : "06107H",
+         "short_name" : "商業高校",
+         "url" : "http://www.yamagatacity-ch.ed.jp/"
       },
       "山形県立上山明新館高等学校" : {
+         "location" : "山形県上山市仙石650番地",
          "location_area" : "上山市",
+         "location_wikipedia_latlon" : "|38|9|20.0|N|140|17|20.8|E|",
+         "location_zipcode" : "999-3193",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "上山明新館高校"
+         "senior_high_school_code" : "06159A",
+         "short_name" : "上山明新館高校",
+         "url" : "http://www.meishinkan-h.ed.jp/"
       },
       "山形県立加茂水産高等学校" : {
          "location_area" : "鶴岡市",
@@ -49,112 +83,194 @@
          "short_name" : "加茂水産高校"
       },
       "山形県立北村山高等学校" : {
+         "location" : "山形県尾花沢市尾花沢1593番地",
          "location_area" : "尾花沢市",
+         "location_wikipedia_latlon" : "|38|35|48.8|N|140|23|28.9|E|",
+         "location_zipcode" : "999-4421",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "北村山高校"
+         "senior_high_school_code" : "06157D",
+         "short_name" : "北村山高校",
+         "url" : "http://www.kitamurayama-h.ed.jp/"
       },
       "山形県立南陽高等学校" : {
+         "location" : "山形県南陽市宮内4600",
          "location_area" : "南陽市",
+         "location_zipcode" : "992-0472",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "南陽高校"
+         "senior_high_school_code" : "06158B",
+         "short_name" : "南陽高校",
+         "url" : "http://www.ygt-nanyo-h.ed.jp/"
       },
       "山形県立天童高等学校" : {
+         "location" : "山形県天童市大字山元850",
          "location_area" : "天童市",
+         "location_wikipedia_latlon" : "|38|22|18.1|N|140|23|14.9|E|",
+         "location_zipcode" : "994-0021",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "天童高校"
+         "senior_high_school_code" : "06110H",
+         "short_name" : "天童高校",
+         "url" : "http://www.tendo-h.ed.jp/"
       },
       "山形県立寒河江工業高等学校" : {
+         "location" : "山形県寒河江市緑町148番地",
          "location_area" : "寒河江市",
+         "location_wikipedia_latlon" : "|38|23|6.4|N|140|15|29.3|E|",
+         "location_zipcode" : "991-8512",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "寒河江工業高校"
+         "senior_high_school_code" : "06113B",
+         "short_name" : "寒河江工業高校",
+         "url" : "http://www.sagae-th.ed.jp/"
       },
       "山形県立寒河江高等学校" : {
+         "location" : "山形県寒河江市六供町二丁目3番9号",
          "location_area" : "寒河江市",
+         "location_wikipedia_latlon" : "|38|22|51.3|N|140|16|9.8|E|",
+         "location_zipcode" : "991-8511",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "寒河江高校"
+         "senior_high_school_code" : "06112D",
+         "short_name" : "寒河江高校",
+         "url" : "http://www.sagae-h.ed.jp/"
       },
       "山形県立小国高等学校" : {
+         "location" : "山形県西置賜郡小国町大字岩井沢621",
          "location_area" : "西置賜郡小国町",
+         "location_zipcode" : "999-1352",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "小国高校"
+         "senior_high_school_code" : "06138H",
+         "short_name" : "小国高校",
+         "url" : "http://www.ygt-oguni-h.ed.jp"
       },
       "山形県立山形中央高等学校" : {
+         "location" : "山形県山形市鉄砲町二丁目10番73号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|14|14.9|N|140|20|3.5|E|",
+         "location_zipcode" : "990-2492",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形中央高校"
+         "senior_high_school_code" : "06106K",
+         "short_name" : "山形中央高校",
+         "url" : "http://www.yamagatachuo-h.ed.jp/"
       },
       "山形県立山形北高等学校" : {
+         "location" : "山形県山形市緑町二丁目2番7号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|14.4|N|140|20|53.1|E|",
+         "location_zipcode" : "990-0041",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形北高校"
+         "senior_high_school_code" : "06104C",
+         "short_name" : "山形北高校",
+         "url" : "http://www.yamagatakita-h.ed.jp/"
       },
       "山形県立山形南高等学校" : {
+         "location" : "山形県山形市東原町四丁目6番16号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|14|30.6|N|140|20|46.9|E|",
+         "location_zipcode" : "990-0034",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形南高校"
+         "senior_high_school_code" : "06102G",
+         "short_name" : "山形南高校",
+         "url" : "http://www.yamanan-h.ed.jp/"
       },
       "山形県立山形工業高等学校" : {
+         "location" : "山形県山形市緑町1丁目5-12",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|30.3|N|140|20|50.5|E|",
+         "location_zipcode" : "990-0041",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形工業高校"
+         "senior_high_school_code" : "06105A",
+         "short_name" : "山形工業高校",
+         "url" : "http://www.yamako.ed.jp"
       },
       "山形県立山形東高等学校" : {
+         "location" : "山形県山形市緑町1-5-87",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|27.8|N|140|20|45.7|E|",
+         "location_zipcode" : "990-8525",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形東高校"
+         "senior_high_school_code" : "06101J",
+         "short_name" : "山形東高校",
+         "url" : "http://www.yamagatahigashi-h.ed.jp/"
       },
       "山形県立山形西高等学校" : {
+         "location" : "山形県山形市鉄砲町一丁目15番64号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|14|15.5|N|140|19|39.7|E|",
+         "location_zipcode" : "990-2492",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山形西高校"
+         "senior_high_school_code" : "06103E",
+         "short_name" : "山形西高校",
+         "url" : "http://yamanishi.webpage21a.jp/"
       },
       "山形県立山添高等学校" : {
+         "location" : "山形県鶴岡市上山添字文栄38番地",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|40|43.9|N|139|50|46.5|E|",
+         "location_zipcode" : "997-0346",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "山添高校"
+         "short_name" : "山添高校",
+         "url" : "http://www.yamazoe-h.ed.jp/"
       },
       "山形県立山辺高等学校" : {
+         "location" : "山形県東村山郡山辺町大字山辺3028",
          "location_area" : "東村山郡山辺町",
+         "location_zipcode" : "990-0301",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "山辺高校"
+         "senior_high_school_code" : "06111F",
+         "short_name" : "山辺高校",
+         "url" : "http://www.yamanobe-h.ed.jp/"
       },
       "山形県立左沢高等学校" : {
+         "location" : "山形県西村山郡大江町大字藤田字山中816-3",
          "location_area" : "西村山郡大江町",
+         "location_zipcode" : "990-1121",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "左沢高校"
+         "senior_high_school_code" : "06115J",
+         "short_name" : "左沢高校",
+         "url" : "http://www.aterazawa-h.ed.jp/"
       },
       "山形県立庄内総合高等学校" : {
+         "location" : "山形県東田川郡庄内町廿六木字三ツ車8",
          "location_area" : "東田川郡庄内町",
+         "location_wikipedia_latlon" : "|38|51|18.2|N|139|54|37.5|E|",
+         "location_zipcode" : "999-7707",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "庄内総合高校"
+         "short_name" : "庄内総合高校",
+         "url" : "http://www.shonaisogo-h.ed.jp/"
       },
       "山形県立庄内農業高等学校" : {
+         "location" : "山形県鶴岡市藤島字古楯跡221",
          "location_area" : "鶴岡市",
+         "location_zipcode" : "999-7601",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "庄内農業高校"
+         "short_name" : "庄内農業高校",
+         "url" : "http://www.shonai-ah.ed.jp/"
       },
       "山形県立新庄北高等学校" : {
+         "location" : "山形県新庄市大字飛田字備前川61",
          "location_area" : "新庄市",
+         "location_wikipedia_latlon" : "|38|45|53.6|N|140|17|6.1|E|",
+         "location_zipcode" : "996-0061",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "新庄北高校"
+         "senior_high_school_code" : "06121C",
+         "short_name" : "新庄北高校",
+         "url" : "http://www.shinjokita-h.ed.jp/"
       },
       "山形県立新庄北高等学校最上校" : {
          "location_area" : "最上郡最上町",
@@ -163,70 +279,119 @@
          "short_name" : "新庄北高校最上校"
       },
       "山形県立新庄南高等学校" : {
+         "location" : "山形県新庄市城南町5番5号",
          "location_area" : "新庄市",
+         "location_zipcode" : "996-0077",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "新庄南高校"
+         "senior_high_school_code" : "06122A",
+         "short_name" : "新庄南高校",
+         "url" : "http://www.shinjominami-h.ed.jp/"
       },
       "山形県立新庄神室産業高等学校" : {
+         "location" : "山形県新庄市松本370",
          "location_area" : "新庄市",
+         "location_zipcode" : "996-0051",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "新庄神室産業高校"
+         "senior_high_school_code" : "06162A",
+         "short_name" : "新庄神室産業高校",
+         "url" : "http://www.shinjo-ih.ed.jp/"
       },
       "山形県立村山農業高等学校" : {
+         "location" : "山形県村山市楯岡北町1-3-1",
          "location_area" : "村山市",
+         "location_wikipedia_latlon" : "|38|29|59|N|140|23|36.7|E|",
+         "location_zipcode" : "995-0011",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "村山農業高校"
+         "senior_high_school_code" : "06116G",
+         "short_name" : "村山農業高校",
+         "url" : "http://www.murayama-ah.ed.jp/"
       },
       "山形県立東根工業高等学校" : {
+         "location" : "山形県東根市中央西一丁目1番",
          "location_area" : "東根市",
+         "location_wikipedia_latlon" : "|38|26|10.5|N|140|23|14.7|E|",
+         "location_zipcode" : "999-3719",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "東根工業高校"
+         "senior_high_school_code" : "06119A",
+         "short_name" : "東根工業高校",
+         "url" : "http://www.higashine-th.ed.jp/"
       },
       "山形県立楯岡高等学校" : {
+         "location" : "山形県村山市楯岡荒町二丁目1番1号",
          "location_area" : "村山市",
+         "location_wikipedia_latlon" : "|38|28|34.4|N|140|23|31.6|E|",
+         "location_zipcode" : "995-0032",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "楯岡高校"
+         "senior_high_school_code" : "06117E",
+         "short_name" : "楯岡高校",
+         "url" : "http://www.tateoka-h.ed.jp/"
       },
       "山形県立真室川高等学校" : {
+         "location" : "山形県最上郡真室川町大字新町字塩野947",
          "location_area" : "最上郡真室川町",
+         "location_wikipedia_latlon" : "|38|51|13.1|N|140|16|1.5|E|",
+         "location_zipcode" : "999-5312",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "真室川高校"
+         "senior_high_school_code" : "06126D",
+         "short_name" : "真室川高校",
+         "url" : "http://www.mamurogawa-h.ed.jp/"
       },
       "山形県立米沢商業高等学校" : {
+         "location" : "山形県米沢市本町三丁目1番12号",
          "location_area" : "米沢市",
+         "location_wikipedia_latlon" : "|37|54|6.6|N|140|6|49.4|E|",
+         "location_zipcode" : "992-0037",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "米沢商業高校"
+         "senior_high_school_code" : "06130B",
+         "short_name" : "米沢商業高校",
+         "url" : "http://www.yonezawa-ch.ed.jp/"
       },
       "山形県立米沢工業高等学校" : {
+         "location" : "山形県米沢市大字川井300番地",
          "location_area" : "米沢市",
+         "location_zipcode" : "992-0117",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "米沢工業高校"
+         "short_name" : "米沢工業高校",
+         "url" : "http://www.yonezawa-th.ed.jp/"
       },
       "山形県立米沢東高等学校" : {
+         "location" : "山形県米沢市丸の内2-5-63",
          "location_area" : "米沢市",
+         "location_wikipedia_latlon" : "|37|54|45.4|N|140|6|18.7|E|",
+         "location_zipcode" : "992-0052",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "米沢東高校"
+         "senior_high_school_code" : "06128A",
+         "short_name" : "米沢東高校",
+         "url" : "http://www.yonezawahigashi-h.ed.jp/"
       },
       "山形県立米沢興譲館高等学校" : {
+         "location" : "山形県米沢市大字笹野1101番地",
          "location_area" : "米沢市",
+         "location_zipcode" : "992-1443",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "米沢興譲館高校"
+         "senior_high_school_code" : "06127B",
+         "short_name" : "米沢興譲館高校",
+         "url" : "http://www.yonezawakojokan-h.ed.jp/"
       },
       "山形県立置賜農業高等学校" : {
+         "location" : "山形県東置賜郡川西町大字上小松3723",
          "location_area" : "東置賜郡川西町",
+         "location_wikipedia_latlon" : "|38|0|29|N|140|2|10.5|E|",
+         "location_zipcode" : "999-0121",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "置賜農業高校"
+         "short_name" : "置賜農業高校",
+         "url" : "http://www.okitama-ah.ed.jp/"
       },
       "山形県立置賜農業高等学校飯豊分校" : {
          "location_area" : "西置賜郡飯豊町",
@@ -235,76 +400,124 @@
          "short_name" : "置賜農業高校飯豊分校"
       },
       "山形県立荒砥高等学校" : {
+         "location" : "山形県西置賜郡白鷹町大字荒砥甲367",
          "location_area" : "西置賜郡白鷹町",
+         "location_zipcode" : "992-0831",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "荒砥高校"
+         "senior_high_school_code" : "06137K",
+         "short_name" : "荒砥高校",
+         "url" : "http://www.arato-h.ed.jp"
       },
       "山形県立谷地高等学校" : {
+         "location" : "山形県西村山郡河北町谷地字田中170",
          "location_area" : "西村山郡河北町",
+         "location_zipcode" : "999-3511",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "谷地高校"
+         "senior_high_school_code" : "06114A",
+         "short_name" : "谷地高校",
+         "url" : "http://www.yachi-h.ed.jp/"
       },
       "山形県立遊佐高等学校" : {
+         "location" : "山形県飽海郡遊佐町大字遊佐字堅田21-1",
          "location_area" : "飽海郡遊佐町",
+         "location_zipcode" : "999-8301",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "遊佐高校"
+         "short_name" : "遊佐高校",
+         "url" : "http://www.yuza-h.ed.jp/"
       },
       "山形県立酒田北高等学校" : {
+         "location" : "山形県酒田市宮海字明治1",
          "location_area" : "酒田市",
+         "location_zipcode" : "998-0005",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "酒田北高校"
+         "senior_high_school_code" : "06154K",
+         "short_name" : "酒田北高校",
+         "url" : "http://www.sakatakita-h.ed.jp/"
       },
       "山形県立酒田商業高等学校" : {
+         "location" : "山形県酒田市上本町7-10",
          "location_area" : "酒田市",
+         "location_zipcode" : "999-0042",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "酒田商業高校"
+         "senior_high_school_code" : "06151E",
+         "short_name" : "酒田商業高校",
+         "url" : "http://www.sakata-ch.ed.jp/"
       },
       "山形県立酒田工業高等学校" : {
+         "location" : "山形県酒田市宮海字新林400",
          "location_area" : "酒田市",
+         "location_zipcode" : "998-0005",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "酒田工業高校"
+         "senior_high_school_code" : "06152C",
+         "short_name" : "酒田工業高校",
+         "url" : "http://www.sakata-th.ed.jp/"
       },
       "山形県立酒田東高等学校" : {
+         "location" : "山形県酒田市亀ヶ崎1-3-60",
          "location_area" : "酒田市",
+         "location_zipcode" : "998-0842",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "酒田東高校"
+         "senior_high_school_code" : "06149C",
+         "short_name" : "酒田東高校",
+         "url" : "http://www.sakatahigashi-h.ed.jp/"
       },
       "山形県立酒田西高等学校" : {
+         "location" : "山形県酒田市東泉町5丁目9-5",
          "location_area" : "酒田市",
+         "location_zipcode" : "998-0013",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "酒田西高校"
+         "senior_high_school_code" : "06150G",
+         "short_name" : "酒田西高校",
+         "url" : "http://www.sakatanishi-h.ed.jp/"
       },
       "山形県立金山高等学校" : {
+         "location" : "山形県最上郡金山町大字金山248-2",
          "location_area" : "最上郡金山町",
+         "location_wikipedia_latlon" : "|38|52|35.6|N|140|20|10.5|E|",
+         "location_zipcode" : "999-5402",
          "owner_type" : "県立",
          "school_area" : "北学区",
-         "short_name" : "金山高校"
+         "senior_high_school_code" : "06125F",
+         "short_name" : "金山高校",
+         "url" : "http://www.kaneyama-h.ed.jp/"
       },
       "山形県立長井工業高等学校" : {
+         "location" : "山形県長井市幸町9番17号",
          "location_area" : "長井市",
+         "location_zipcode" : "993-0051",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "長井工業高校"
+         "short_name" : "長井工業高校",
+         "url" : "http://www.nagai-th.ed.jp/"
       },
       "山形県立長井高等学校" : {
+         "location" : "山形県長井市四ツ谷二丁目5番1号",
          "location_area" : "長井市",
+         "location_zipcode" : "993-0015",
          "owner_type" : "県立",
          "school_area" : "南学区",
-         "short_name" : "長井高校"
+         "senior_high_school_code" : "06135C",
+         "short_name" : "長井高校",
+         "url" : "http://www.nagai-shs.jp/"
       },
       "山形県立霞城学園高等学校" : {
+         "location" : "山形県山形市城南町1-1-1",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|15|0.7|N|140|19|35.4|E|",
+         "location_zipcode" : "990-8550",
          "owner_type" : "県立",
          "school_area" : "東学区",
-         "short_name" : "霞城学園高校"
+         "senior_high_school_code" : "06160D",
+         "short_name" : "霞城学園高校",
+         "url" : "http://www.kajogakuen-h.ed.jp/"
       },
       "山形県立高畠高等学校" : {
          "location_area" : "東置賜郡高畠町",
@@ -313,10 +526,15 @@
          "short_name" : "高畠高校"
       },
       "山形県立鶴岡中央高等学校" : {
+         "location" : "山形県鶴岡市大宝寺字日本国410",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|44|41.0|N|139|49|34.4|E|",
+         "location_zipcode" : "997-0017",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "鶴岡中央高校"
+         "senior_high_school_code" : "06161B",
+         "short_name" : "鶴岡中央高校",
+         "url" : "http://www.tsuruokachuo-h.ed.jp/"
       },
       "山形県立鶴岡中央高等学校温海校" : {
          "location_area" : "鶴岡市",
@@ -325,22 +543,35 @@
          "short_name" : "鶴岡中央高校温海校"
       },
       "山形県立鶴岡北高等学校" : {
+         "location" : "山形県鶴岡市若葉町16-5",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|43|57.4|N|139|49|36.7|E|",
+         "location_zipcode" : "997-0037",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "鶴岡北高校"
+         "short_name" : "鶴岡北高校",
+         "url" : "http://www.tsuruokakita-h.ed.jp/"
       },
       "山形県立鶴岡南高等学校" : {
+         "location" : "山形県鶴岡市若葉町26-31",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|43|50.6|N|139|49|26|E|",
+         "location_zipcode" : "997-0037",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "鶴岡南高校"
+         "senior_high_school_code" : "06139F",
+         "short_name" : "鶴岡南高校",
+         "url" : "http://www.tsuruokaminami-h.ed.jp/"
       },
       "山形県立鶴岡工業高等学校" : {
+         "location" : "山形県鶴岡市家中新町8番1号",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|43|48.6|N|139|49|17.8|E|",
+         "location_zipcode" : "997-0036",
          "owner_type" : "県立",
          "school_area" : "西学区",
-         "short_name" : "鶴岡工業高校"
+         "short_name" : "鶴岡工業高校",
+         "url" : "http://www.tsuruoka-th.ed.jp/"
       },
       "山形電波工業高等学校" : {
          "location_area" : "天童市",
@@ -363,36 +594,63 @@
          "short_name" : "日本大学山形高校"
       },
       "東海大学山形高等学校" : {
+         "location" : "山形県山形市成沢西3-4-5",
          "location_area" : "山形市",
+         "location_zipcode" : "990-2339",
          "owner_type" : "私立",
-         "short_name" : "東海大学山形高校"
+         "senior_high_school_code" : "06507C",
+         "short_name" : "東海大学山形高校",
+         "url" : "http://www.ymgt-tokai.ed.jp/"
       },
       "米沢中央高等学校" : {
+         "location" : "山形県米沢市中央7-5-70-4",
          "location_area" : "米沢市",
+         "location_wikipedia_latlon" : "|37|55|20.6|N|140|6|20.6|E|",
+         "location_zipcode" : "992-0045",
          "owner_type" : "私立",
-         "short_name" : "米沢中央高校"
+         "short_name" : "米沢中央高校",
+         "url" : "http://www.ychuo-h.ed.jp/"
       },
       "羽黒高等学校" : {
+         "location" : "山形県鶴岡市羽黒町手向字薬師沢198",
          "location_area" : "鶴岡市",
+         "location_wikipedia_latlon" : "|38|43|15.6|N|139|56|13.4|E|",
+         "location_zipcode" : "997-0296",
          "owner_type" : "私立",
-         "short_name" : "羽黒高校"
+         "senior_high_school_code" : "06512K",
+         "short_name" : "羽黒高校",
+         "url" : "http://www.haguroko.ed.jp/"
       },
       "蔵王高等学校" : {
+         "location" : "山形県山形市飯田三丁目11番10号",
          "location_area" : "山形市",
+         "location_wikipedia_latlon" : "|38|12|41.2|N|140|19|54.8|E|",
+         "location_zipcode" : "990-2332",
          "owner_type" : "私立",
+         "senior_high_school_code" : "06504J",
          "short_name" : "蔵王高校",
+         "url" : "http://www.ezao.jp/",
          "wikipedia_name" : "蔵王高等学校 (山形県)"
       },
       "酒田南高等学校" : {
+         "location" : "山形県酒田市南千日町4-50",
          "location_area" : "酒田市",
+         "location_wikipedia_latlon" : "|38|55|32.5|N|139|50|18.4|E|",
+         "location_zipcode" : "998-0025",
          "owner_type" : "私立",
-         "short_name" : "酒田南高校"
+         "senior_high_school_code" : "06515D",
+         "short_name" : "酒田南高校",
+         "url" : "http://www.sakataminami-h.ed.jp/"
       },
       "酒田市立酒田中央高等学校" : {
+         "location" : "山形県酒田市北千日堂前字松境9-1",
          "location_area" : "酒田市",
+         "location_zipcode" : "998-0015",
          "owner_type" : "市立",
          "school_area" : "西学区",
-         "short_name" : "酒田中央高校"
+         "senior_high_school_code" : "06153A",
+         "short_name" : "酒田中央高校",
+         "url" : "http://www.sakata.ed.jp/chuo/"
       },
       "鶴岡東高等学校" : {
          "location_area" : "鶴岡市",

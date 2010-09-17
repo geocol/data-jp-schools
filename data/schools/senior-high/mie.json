@@ -1,159 +1,303 @@
 {
    "senior_high_schools" : {
       "ウィッツ青山学園高等学校" : {
+         "location" : "三重県伊賀市北山1373番地",
+         "location_zipcode" : "518-0204",
          "owner_type" : "私立",
-         "short_name" : "ウィッツ青山学園高校"
+         "senior_high_school_code" : "24521G",
+         "short_name" : "ウィッツ青山学園高校",
+         "url" : "http://www.i-iku.com/"
       },
       "セントヨゼフ女子学園高等学校" : {
          "owner_type" : "私立",
          "short_name" : "セントヨゼフ女子学園高校"
       },
       "メリノール女子学院高等学校" : {
+         "location" : "三重県四日市市平尾町2800",
+         "location_wikipedia_latlon" : "|35|0|6.4|N|136|34|8.6|E|",
+         "location_zipcode" : "512-1205",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24503J",
          "short_name" : "メリノール女子学院高校",
+         "url" : "http://www.maryknoll.ed.jp/index.htm",
          "wikipedia_name" : "メリノール女子学院中学校・高等学校"
       },
       "三重県立あけぼの学園高等学校" : {
+         "location" : "三重県伊賀市川東412番地",
+         "location_wikipedia_latlon" : "|34|48|37|N|136|12|18.51|E|",
+         "location_zipcode" : "519-1424",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "あけぼの学園高校"
+         "senior_high_school_code" : "24133E",
+         "short_name" : "あけぼの学園高校",
+         "url" : "http://www.mie-c.ed.jp/hakebo/"
       },
       "三重県立いなべ総合学園高等学校" : {
+         "location" : "三重県いなべ市員弁町御薗632",
+         "location_wikipedia_latlon" : "|35|6|22.1|N|136|33|8.5|E|",
+         "location_zipcode" : "511-0222",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "いなべ総合学園高校"
+         "senior_high_school_code" : "24104A",
+         "short_name" : "いなべ総合学園高校",
+         "url" : "http://www.inabe-h.ed.jp/"
       },
       "三重県立みえ夢学園高等学校" : {
+         "location" : "三重県津市柳山津興1239",
+         "location_wikipedia_latlon" : "|34|42|21.3|N|136|30|50.6|E|",
+         "location_zipcode" : "514-0803",
          "owner_type" : "県立",
-         "short_name" : "みえ夢学園高校"
+         "short_name" : "みえ夢学園高校",
+         "url" : "http://www.mie-c.ed.jp/hmieyu/"
       },
       "三重県立上野高等学校" : {
+         "location" : "三重県伊賀市上野丸之内107",
+         "location_wikipedia_latlon" : "|34|46|7|N|136|7|36.1|E|",
+         "location_zipcode" : "518-0873",
          "owner_type" : "県立",
-         "short_name" : "上野高校"
+         "senior_high_school_code" : "24144A",
+         "short_name" : "上野高校",
+         "url" : "http://www.mie-c.ed.jp/hueno/"
       },
       "三重県立久居農林高等学校" : {
+         "location" : "三重県津市久居東鷹跡町105",
+         "location_wikipedia_latlon" : "|34|40|22.1|N|136|27|57.6|E|",
+         "location_zipcode" : "514-1136",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "久居農林高校"
+         "senior_high_school_code" : "24124F",
+         "short_name" : "久居農林高校",
+         "url" : "http://www.mie-c.ed.jp/ahisai/"
       },
       "三重県立久居高等学校" : {
+         "location" : "三重県津市戸木町3569-1",
+         "location_wikipedia_latlon" : "|34|41|41.7|N|136|27|42.5|E|",
+         "location_zipcode" : "514-1138",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "久居高校"
+         "senior_high_school_code" : "24161A",
+         "short_name" : "久居高校",
+         "url" : "http://www.mie-c.ed.jp/hhisai/"
       },
       "三重県立亀山高等学校" : {
+         "location" : "三重県亀山市本町1丁目10-1",
+         "location_zipcode" : "519-0116",
          "owner_type" : "県立",
-         "short_name" : "亀山高校"
+         "senior_high_school_code" : "24117C",
+         "short_name" : "亀山高校",
+         "url" : "http://www.mie-c.ed.jp/hkamey/"
       },
       "三重県立伊勢まなび高等学校" : {
+         "location" : "三重県伊勢市神田久志本町1560番地",
+         "location_wikipedia_latlon" : "|34|29|24.8|N|136|43|48.2|E|",
+         "location_zipcode" : "516-0016",
          "owner_type" : "県立",
-         "short_name" : "伊勢まなび高校"
+         "senior_high_school_code" : "24136K",
+         "short_name" : "伊勢まなび高校",
+         "url" : "http://www.mie-c.ed.jp/bise/"
       },
       "三重県立伊勢工業高等学校" : {
+         "location" : "三重県伊勢市神久2-7-18",
+         "location_wikipedia_latlon" : "|34|29|35.3|N|136|43|16.5|E|",
+         "location_zipcode" : "516-0017",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "伊勢工業高校"
+         "senior_high_school_code" : "24134C",
+         "short_name" : "伊勢工業高校",
+         "url" : "http://www.ith.ed.jp/"
       },
       "三重県立伊勢高等学校" : {
+         "location" : "三重県伊勢市神田久志本町1703-1",
+         "location_wikipedia_latlon" : "|34|29|18.6|N|136|43|39.8|E|",
+         "location_zipcode" : "516-8515",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "伊勢高校"
+         "senior_high_school_code" : "24133E",
+         "short_name" : "伊勢高校",
+         "url" : "http://www.mie-c.ed.jp/hise/"
       },
       "三重県立伊賀白鳳高等学校" : {
+         "location" : "三重県伊賀市緑ヶ丘西町2270番地1",
+         "location_wikipedia_latlon" : "|34|45|23.5|N|136|8|32.5|E|",
+         "location_zipcode" : "518-0837",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "伊賀白鳳高校"
+         "short_name" : "伊賀白鳳高校",
+         "url" : "http://www.mie-c.ed.jp/higaha/index.html"
       },
       "三重県立北星高等学校" : {
+         "location" : "三重県四日市市大字茂福字横座668番地1",
+         "location_wikipedia_latlon" : "|35|0|30.3|N|136|38|28.4|E|",
+         "location_zipcode" : "510-8027",
          "owner_type" : "県立",
-         "short_name" : "北星高校"
+         "senior_high_school_code" : "24112B",
+         "short_name" : "北星高校",
+         "url" : "http://www.mie-c.ed.jp/hhokus/"
       },
       "三重県立南伊勢高等学校" : {
+         "location" : "三重県度会郡南伊勢町船越2926-1",
+         "location_zipcode" : "516-0109",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "南伊勢高校"
+         "senior_high_school_code" : "24165C",
+         "short_name" : "南伊勢高校",
+         "url" : "http://www.mie-c.ed.jp/hnanse/"
       },
       "三重県立南伊勢高等学校南勢校舎" : {
+         "location" : "三重県度会郡南伊勢町船越2926-1",
+         "location_zipcode" : "516-0109",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "南伊勢高校南勢校舎"
+         "senior_high_school_code" : "24165C",
+         "short_name" : "南伊勢高校南勢校舎",
+         "url" : "http://www.mie-c.ed.jp/hnanse/"
       },
       "三重県立南伊勢高等学校度会校舎" : {
+         "location" : "三重県度会郡度会町大野木2831",
+         "location_zipcode" : "516-2102",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "南伊勢高校度会校舎"
+         "senior_high_school_code" : "24165C",
+         "short_name" : "南伊勢高校度会校舎",
+         "url" : "http://www.mie-c.ed.jp/hwatar/"
       },
       "三重県立名張桔梗丘高等学校" : {
+         "location" : "三重県名張市桔梗が丘7番町1街区1926番地1",
+         "location_zipcode" : "518-0627",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "名張桔梗丘高校"
+         "senior_high_school_code" : "24150E",
+         "short_name" : "名張桔梗丘高校",
+         "url" : "http://www.mie-c.ed.jp/hkikyo/"
       },
       "三重県立名張西高等学校" : {
+         "location" : "三重県名張市百合が丘東6番町1番地",
+         "location_zipcode" : "518-0476",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "名張西高校"
+         "senior_high_school_code" : "24163G",
+         "short_name" : "名張西高校",
+         "url" : "http://www.nishiko.ed.jp/"
       },
       "三重県立名張高等学校" : {
+         "location" : "三重県名張市東町2067-2",
+         "location_zipcode" : "514-0042",
          "owner_type" : "県立",
-         "short_name" : "名張高校"
+         "short_name" : "名張高校",
+         "url" : "http://www.mie-c.ed.jp/hnabar/"
       },
       "三重県立四日市中央工業高等学校" : {
+         "location" : "三重県四日市市菅原町678",
+         "location_wikipedia_latlon" : "|34|59|45.9|N|136|33|28.5|E|",
+         "location_zipcode" : "512-0925",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市中央工業高校"
+         "senior_high_school_code" : "24110F",
+         "short_name" : "四日市中央工業高校",
+         "url" : "http://www.yokkaichichuo-th.ed.jp/"
       },
       "三重県立四日市南高等学校" : {
+         "location" : "三重県四日市市大字日永字岡山4917",
+         "location_wikipedia_latlon" : "|34|57|4.5|N|136|35|28.4|E|",
+         "location_zipcode" : "510-8562",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市南高校"
+         "senior_high_school_code" : "24106H",
+         "short_name" : "四日市南高校",
+         "url" : "http://www.4nan.jp/"
       },
       "三重県立四日市商業高等学校" : {
+         "location" : "三重県四日市市尾平町永代寺2745",
+         "location_wikipedia_latlon" : "|34|58|53.1|N|136|35|32.3|E|",
+         "location_zipcode" : "512-0921",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市商業高校"
+         "short_name" : "四日市商業高校",
+         "url" : "http://www.cty-net.ne.jp/%7Eychs/soumu/"
       },
       "三重県立四日市四郷高等学校" : {
+         "location" : "三重県四日市市八王子町字高花1654",
+         "location_wikipedia_latlon" : "|34|57|10.2|N|136|33|36.9|E|",
+         "location_zipcode" : "510-0947",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市四郷高校"
+         "senior_high_school_code" : "24159J",
+         "short_name" : "四日市四郷高校",
+         "url" : "http://www.mie-c.ed.jp/hyogo/"
       },
       "三重県立四日市工業高等学校" : {
+         "location" : "三重県四日市市日永東三丁目4番63号",
+         "location_wikipedia_latlon" : "|34|56|42.8|N|136|36|25.5|E|",
+         "location_zipcode" : "510-0886",
          "owner_type" : "県立",
-         "short_name" : "四日市工業高校"
+         "senior_high_school_code" : "24109B",
+         "short_name" : "四日市工業高校",
+         "url" : "http://www.yokkaichi-th.ed.jp/"
       },
       "三重県立四日市西高等学校" : {
+         "location" : "三重県四日市市桜町6100",
+         "location_wikipedia_latlon" : "|34|59|30.8|N|136|31|57.7|E|",
+         "location_zipcode" : "512-1212",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市西高校"
+         "senior_high_school_code" : "24107F",
+         "short_name" : "四日市西高校",
+         "url" : "http://www.424hs.jp/"
       },
       "三重県立四日市農芸高等学校" : {
+         "location" : "三重県四日市市河原田町2847",
+         "location_wikipedia_latlon" : "|34|54|47|N|136|35|34.4|E|",
+         "location_zipcode" : "510-0874",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市農芸高校"
+         "short_name" : "四日市農芸高校",
+         "url" : "http://www.mie-c.ed.jp/ayokka/"
       },
       "三重県立四日市高等学校" : {
+         "location" : "三重県四日市市富田4丁目1-43",
+         "location_wikipedia_latlon" : "|35|0|27.7|N|136|38|50.7|E|",
+         "location_zipcode" : "510-8510",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "四日市高校"
+         "senior_high_school_code" : "24105K",
+         "short_name" : "四日市高校",
+         "url" : "http://www.shiko.ed.jp/"
       },
       "三重県立宇治山田商業高等学校" : {
+         "location" : "三重県伊勢市黒瀬町札ノ木1193",
+         "location_zipcode" : "516-0018",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "宇治山田商業高校"
+         "senior_high_school_code" : "24135A",
+         "short_name" : "宇治山田商業高校",
+         "url" : "http://www.mie-c.ed.jp/cujiya/"
       },
       "三重県立宇治山田高等学校" : {
+         "location" : "三重県伊勢市浦口3丁目13-1",
+         "location_wikipedia_latlon" : "|34|29|16.2|N|136|41|38.3|E|",
+         "location_zipcode" : "516-0062",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "宇治山田高校"
+         "senior_high_school_code" : "24132G",
+         "short_name" : "宇治山田高校",
+         "url" : "http://www.ujiyamada-h.ed.jp/"
       },
       "三重県立宮川高等学校" : {
+         "location" : "三重県多気郡大台町上三瀬663",
+         "location_zipcode" : "519-2403",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "宮川高校"
+         "senior_high_school_code" : "24131J",
+         "short_name" : "宮川高校",
+         "url" : "http://www.mie-c.ed.jp/hmiyag/"
       },
       "三重県立尾鷲高等学校" : {
+         "location" : "三重県尾鷲市古戸野町3-12",
+         "location_zipcode" : "519-3659",
          "owner_type" : "県立",
-         "short_name" : "尾鷲高校"
+         "senior_high_school_code" : "24151C",
+         "short_name" : "尾鷲高校",
+         "url" : "http://www.mie-c.ed.jp/howase/"
       },
       "三重県立尾鷲高等学校長島校" : {
          "owner_type" : "県立",
@@ -161,65 +305,126 @@
          "short_name" : "尾鷲高校長島校"
       },
       "三重県立川越高等学校" : {
+         "location" : "三重県三重郡川越町大字豊田2302-1",
+         "location_wikipedia_latlon" : "|35|1|40.9|N|136|39|58.7|E|",
+         "location_zipcode" : "510-8566",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "川越高校"
+         "senior_high_school_code" : "24162J",
+         "short_name" : "川越高校",
+         "url" : "http://www.mie-c.ed.jp/hkawag/"
       },
       "三重県立志摩高等学校" : {
+         "location" : "三重県志摩市磯部町恵利原1308番地",
+         "location_zipcode" : "517-0209",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "志摩高校"
+         "senior_high_school_code" : "24142D",
+         "short_name" : "志摩高校",
+         "url" : "http://www.mie-c.ed.jp/hsima/"
       },
       "三重県立明野高等学校" : {
+         "location" : "三重県伊勢市小俣町明野1481",
+         "location_wikipedia_latlon" : "|34|31|36.3|N|136|39|56.9|E|",
+         "location_zipcode" : "519-0501",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "明野高校"
+         "senior_high_school_code" : "24137H",
+         "short_name" : "明野高校",
+         "url" : "http://www.mie-c.ed.jp/hakeno/index.html"
       },
       "三重県立昴学園高等学校" : {
+         "location" : "三重県多気郡大台町茂原48",
+         "location_zipcode" : "519-2593",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "昴学園高校"
+         "senior_high_school_code" : "24164E",
+         "short_name" : "昴学園高校",
+         "url" : "http://www.mie-c.ed.jp/hsubar/"
       },
       "三重県立朝明高等学校" : {
+         "location" : "三重県四日市市中野町2216",
+         "location_wikipedia_latlon" : "|35|2|24.7|N|136|32|48.2|E|",
+         "location_zipcode" : "512-1304",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "朝明高校"
+         "senior_high_school_code" : "24156D",
+         "short_name" : "朝明高校",
+         "url" : "http://www.mie-c.ed.jp/hasake/"
       },
       "三重県立木本高等学校" : {
+         "location" : "三重県熊野市木本町1101-4",
+         "location_wikipedia_latlon" : "|33|53|45.5|N|136|6|19.8|E|",
+         "location_zipcode" : "519-4394",
          "owner_type" : "県立",
-         "short_name" : "木本高校"
+         "senior_high_school_code" : "24154H",
+         "short_name" : "木本高校",
+         "url" : "http://www.mie-c.ed.jp/hkimot/"
       },
       "三重県立松阪商業高等学校" : {
+         "location" : "三重県松阪市豊原町1600",
+         "location_wikipedia_latlon" : "|34|32|49.2|N|136|34|9.6|E|",
+         "location_zipcode" : "515-0205",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "松阪商業高校"
+         "senior_high_school_code" : "24128J",
+         "short_name" : "松阪商業高校",
+         "url" : "http://www.mie-c.ed.jp/cmatus/index2.html"
       },
       "三重県立松阪工業高等学校" : {
+         "location" : "三重県松阪市殿町1417番地",
+         "location_wikipedia_latlon" : "|34|34|23.2|N|136|31|38.5|E|",
+         "location_zipcode" : "515-0073",
          "owner_type" : "県立",
-         "short_name" : "松阪工業高校"
+         "senior_high_school_code" : "24127A",
+         "short_name" : "松阪工業高校",
+         "url" : "http://www.mctv.ne.jp/~mths/"
       },
       "三重県立松阪高等学校" : {
+         "location" : "三重県松阪市垣鼻町1664番地",
+         "location_zipcode" : "515-0033",
          "owner_type" : "県立",
-         "short_name" : "松阪高校"
+         "senior_high_school_code" : "24126B",
+         "short_name" : "松阪高校",
+         "url" : "http://www.mie-c.ed.jp/hmatus/"
       },
       "三重県立桑名北高等学校" : {
+         "location" : "三重県桑名市下深谷部字山王2527番地",
+         "location_zipcode" : "511-0808",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "桑名北高校"
+         "senior_high_school_code" : "24158A",
+         "short_name" : "桑名北高校",
+         "url" : "http://www.mie-c.ed.jp/hnkuwa/"
       },
       "三重県立桑名工業高等学校" : {
+         "location" : "三重県桑名市芳ヶ崎1330-1",
+         "location_wikipedia_latlon" : "|35|4|36.0|N|136|37|0.6|E|",
+         "location_zipcode" : "511-0944",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "桑名工業高校"
+         "senior_high_school_code" : "24103C",
+         "short_name" : "桑名工業高校",
+         "url" : "http://www.mie-c.ed.jp/tkuwan/"
       },
       "三重県立桑名西高等学校" : {
+         "location" : "三重県桑名市大字志知字東山2839番地",
+         "location_wikipedia_latlon" : "|35|2|52.0|N|136|36|28.6|E|",
+         "location_zipcode" : "511-0937",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "桑名西高校"
+         "senior_high_school_code" : "24102E",
+         "short_name" : "桑名西高校",
+         "url" : "http://www.kuwananishi-hs.ed.jp/"
       },
       "三重県立桑名高等学校" : {
+         "location" : "三重県桑名市東方1795",
+         "location_wikipedia_latlon" : "|35|3|58.2|N|136|40|38.0|E|",
+         "location_zipcode" : "511-0811",
          "owner_type" : "県立",
-         "short_name" : "桑名高校"
+         "senior_high_school_code" : "24101G",
+         "short_name" : "桑名高校",
+         "url" : "http://www.kuwana-h.ed.jp/"
       },
       "三重県立桑名高等学校衛生看護分校" : {
          "owner_type" : "県立",
@@ -227,63 +432,115 @@
          "short_name" : "桑名高校衛生看護分校"
       },
       "三重県立水産高等学校" : {
+         "location" : "三重県志摩市志摩町和具2578番地",
+         "location_zipcode" : "517-0703",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "水産高校"
+         "senior_high_school_code" : "24143B",
+         "short_name" : "水産高校",
+         "url" : "http://www.mie-c.ed.jp/hsuisa/"
       },
       "三重県立津商業高等学校" : {
+         "location" : "三重県津市渋見町699",
+         "location_wikipedia_latlon" : "|34|44|11.2|N|136|29|51.6|E|",
+         "location_zipcode" : "514-0063",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "津商業高校"
+         "senior_high_school_code" : "24122K",
+         "short_name" : "津商業高校",
+         "url" : "http://www.mie-c.ed.jp/ctu/"
       },
       "三重県立津工業高等学校" : {
+         "location" : "三重県津市半田534番地",
+         "location_wikipedia_latlon" : "|34|42|34.8|N|136|29|50.7|E|",
+         "location_zipcode" : "514-0823",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "津工業高校"
+         "senior_high_school_code" : "24121A",
+         "short_name" : "津工業高校",
+         "url" : "http://www.mie-c.ed.jp/ttu/"
       },
       "三重県立津東高等学校" : {
+         "location" : "三重県津市一身田上津部田1470",
+         "location_wikipedia_latlon" : "|34|44|31.5|N|136|29|44.5|E|",
+         "location_zipcode" : "514-0061",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "津東高校"
+         "senior_high_school_code" : "24120C",
+         "short_name" : "津東高校",
+         "url" : "http://www.mie-c.ed.jp/htuhig/"
       },
       "三重県立津西高等学校" : {
+         "location" : "三重県津市河辺町2210-2",
+         "location_wikipedia_latlon" : "|34|44|49.3|N|136|29|7.4|E|",
+         "location_zipcode" : "514-0065",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "津西高校"
+         "senior_high_school_code" : "24119K",
+         "short_name" : "津西高校",
+         "url" : "http://www.tsunishi.jp/"
       },
       "三重県立津高等学校" : {
+         "location" : "三重県津市新町3-1-1",
+         "location_wikipedia_latlon" : "|34|43|8.4|N|136|29|28.5|E|",
+         "location_zipcode" : "514-0042",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "津高校"
+         "senior_high_school_code" : "24118A",
+         "short_name" : "津高校",
+         "url" : "http://www.mie-c.ed.jp/htu/"
       },
       "三重県立白子高等学校" : {
+         "location" : "三重県鈴鹿市白子4丁目17－1",
+         "location_zipcode" : "518-0627",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "白子高校"
+         "short_name" : "白子高校",
+         "url" : "http://www.shiroko-hs.ednet.jp/default.asp"
       },
       "三重県立白山高等学校" : {
+         "location" : "三重県津市白山町南家城678番地",
+         "location_wikipedia_latlon" : "|34|37|30.1|N|136|18|53.1|E|",
+         "location_zipcode" : "515-3133",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "白山高校"
+         "senior_high_school_code" : "24125D",
+         "short_name" : "白山高校",
+         "url" : "http://www.mie-c.ed.jp/hhakus/"
       },
       "三重県立相可高等学校" : {
+         "location" : "三重県多気郡多気町相可50",
+         "location_zipcode" : "519-2181",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "相可高校"
+         "senior_high_school_code" : "24130A",
+         "short_name" : "相可高校",
+         "url" : "http://www.mie-c.ed.jp/houka/"
       },
       "三重県立石薬師高等学校" : {
+         "location" : "三重県石薬師町字寺東452",
+         "location_zipcode" : "513-0012",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "石薬師高校"
+         "short_name" : "石薬師高校",
+         "url" : "http://www.mie-c.ed.jp/hisiya/top.html"
       },
       "三重県立神戸高等学校" : {
+         "location" : "三重県鈴鹿市神戸4-1-80",
+         "location_zipcode" : "513-0801",
          "owner_type" : "県立",
-         "short_name" : "神戸高校"
+         "senior_high_school_code" : "24114J",
+         "short_name" : "神戸高校",
+         "url" : "http://kambe.ed.jp/"
       },
       "三重県立稲生高等学校" : {
+         "location" : "三重県鈴鹿市稲生町8232番地の1",
+         "location_zipcode" : "510-0201",
          "owner_type" : "県立",
          "school_area" : "中部学区",
-         "short_name" : "稲生高校"
+         "senior_high_school_code" : "24160B",
+         "short_name" : "稲生高校",
+         "url" : "http://www.ino-hs.ed.jp/index.htm"
       },
       "三重県立紀南高等学校" : {
          "owner_type" : "県立",
@@ -291,35 +548,65 @@
          "short_name" : "紀南高校"
       },
       "三重県立菰野高等学校" : {
+         "location" : "三重県三重郡菰野町大字福村870",
+         "location_zipcode" : "510-1234",
          "owner_type" : "県立",
          "school_area" : "北部学区",
-         "short_name" : "菰野高校"
+         "senior_high_school_code" : "24113A",
+         "short_name" : "菰野高校",
+         "url" : "http://www.komono-h.ed.jp/"
       },
       "三重県立飯南高等学校" : {
+         "location" : "三重県松阪市飯南町粥見5480-1",
+         "location_wikipedia_latlon" : "|34|26|51.9|N|136|22|20.6|E|",
+         "location_zipcode" : "515-1411",
          "owner_type" : "県立",
          "school_area" : "南部学区",
-         "short_name" : "飯南高校"
+         "senior_high_school_code" : "24129G",
+         "short_name" : "飯南高校",
+         "url" : "http://menmail.mie-c.ed.jp/hiinan/"
       },
       "三重県立飯野高等学校" : {
+         "location" : "三重県鈴鹿市三日市町字東新田場1695",
+         "location_zipcode" : "513-0803",
          "owner_type" : "県立",
          "school_area" : "中部学区",
+         "senior_high_school_code" : "24115G",
          "short_name" : "飯野高校"
       },
       "三重県立鳥羽高等学校" : {
+         "location" : "三重県鳥羽市安楽島町1459番地",
+         "location_zipcode" : "517-0021",
          "owner_type" : "県立",
-         "short_name" : "鳥羽高校"
+         "senior_high_school_code" : "24141F",
+         "short_name" : "鳥羽高校",
+         "url" : "http://www.mie-c.ed.jp/htoba/"
       },
       "三重高等学校" : {
+         "location" : "三重県松阪市久保町1232",
+         "location_wikipedia_latlon" : "|34|32|53.8|N|136|32|19.8|E|",
+         "location_zipcode" : "515-8533",
          "owner_type" : "私立",
-         "short_name" : "三重高校"
+         "senior_high_school_code" : "24507A",
+         "short_name" : "三重高校",
+         "url" : "http://www.mie-mie-h.ed.jp/high/"
       },
       "代々木高等学校" : {
+         "location" : "三重県志摩市阿児町神明723-8",
+         "location_zipcode" : "517-0502",
          "owner_type" : "私立",
-         "short_name" : "代々木高校"
+         "senior_high_school_code" : "24520J",
+         "short_name" : "代々木高校",
+         "url" : "http://www.yoyogi.ed.jp/"
       },
       "伊勢学園高等学校" : {
+         "location" : "三重県伊勢市黒瀬町562番地13",
+         "location_wikipedia_latlon" : "|34|29|32.4|N|136|44|3|E|",
+         "location_zipcode" : "516-0018",
          "owner_type" : "私立",
-         "short_name" : "伊勢学園高校"
+         "senior_high_school_code" : "24509H",
+         "short_name" : "伊勢学園高校",
+         "url" : "http://www.isegakuen.ac.jp/highschool/"
       },
       "向陽台高等学校古川学園キャンパス" : {
          "owner_type" : "私立",
@@ -327,8 +614,12 @@
          "wikipedia_name" : "古川学園"
       },
       "大橋学園高等学校" : {
+         "location" : "三重県四日市市南浜田町4-21",
+         "location_wikipedia_latlon" : "|34|57|41.3|N|136|36|57.6|E|",
+         "location_zipcode" : "510-0066",
          "owner_type" : "私立",
-         "short_name" : "大橋学園高校"
+         "short_name" : "大橋学園高校",
+         "url" : "http://www.ohashigh.ed.jp/"
       },
       "学法津田学園高等学校" : {
          "owner_type" : "私立",
@@ -336,46 +627,83 @@
          "wikipedia_name" : "津田学園中学校・高等学校"
       },
       "徳風高等学校" : {
+         "location" : "三重県亀山市和賀町1789-4",
+         "location_zipcode" : "519-0145",
          "owner_type" : "私立",
-         "short_name" : "徳風高校"
+         "senior_high_school_code" : "24518G",
+         "short_name" : "徳風高校",
+         "url" : "http://www.mietokufu.ed.jp/"
       },
       "愛農学園農業高等学校" : {
+         "location" : "三重県伊賀市別府690",
+         "location_zipcode" : "518-0221",
          "owner_type" : "私立",
-         "short_name" : "愛農学園農業高校"
+         "senior_high_school_code" : "24512H",
+         "short_name" : "愛農学園農業高校",
+         "url" : "http://www.ainou.or.jp/gakuen/"
       },
       "日生学園第一高等学校" : {
          "owner_type" : "私立",
          "short_name" : "日生学園第一高校"
       },
       "日生学園第二高等学校" : {
+         "location" : "三重県津市白山町八対野2739",
+         "location_zipcode" : "515-2692",
          "owner_type" : "私立",
-         "short_name" : "日生学園第二高校"
+         "short_name" : "日生学園第二高校",
+         "url" : "http://www.nissei.ac.jp/daini/index.html"
       },
       "暁高等学校" : {
+         "location" : "三重県四日市市萱生町238",
+         "location_wikipedia_latlon" : "|35|1|57.9|N|136|36|5.9|E|",
+         "location_zipcode" : "512-8538",
          "owner_type" : "私立",
-         "short_name" : "暁高校"
+         "senior_high_school_code" : "24501B",
+         "short_name" : "暁高校",
+         "url" : "http://www.akatsuki.ed.jp/akatsuki-h/index.html"
       },
       "海星高等学校" : {
+         "location" : "三重県四日市市追分1-9-34",
+         "location_zipcode" : "254-0074",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24502A",
          "short_name" : "海星高校",
+         "url" : "http://www.kaisei.ed.jp/",
          "wikipedia_name" : "海星中学校・高等学校 (三重県)"
       },
       "皇學館高等学校" : {
+         "location" : "三重県伊勢市楠部町138番地",
+         "location_wikipedia_latlon" : "|34|29|7.3|N|136|43|44.2|E|",
+         "location_zipcode" : "516-8577",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24510A",
          "short_name" : "皇學館高校",
+         "url" : "http://kogakkan-j.jp/",
          "wikipedia_name" : "皇學館中学校・高等学校"
       },
       "英心高等学校" : {
+         "location" : "三重県伊勢市河崎1-3-25",
+         "location_zipcode" : "516-0009",
          "owner_type" : "私立",
-         "short_name" : "英心高校"
+         "senior_high_school_code" : "24519E",
+         "short_name" : "英心高校",
+         "url" : "http://www.eishin-hs.ed.jp/"
       },
       "鈴鹿高等学校" : {
+         "location" : "三重県鈴鹿市庄野町1260",
+         "location_zipcode" : "513-0831",
          "owner_type" : "私立",
-         "short_name" : "鈴鹿高校"
+         "senior_high_school_code" : "24504G",
+         "short_name" : "鈴鹿高校",
+         "url" : "http://www.suzuka-h.ed.jp/"
       },
       "高田高等学校" : {
+         "location" : "三重県津市一身田町2843番地",
+         "location_zipcode" : "514-0114",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24505E",
          "short_name" : "高田高校",
+         "url" : "http://www.mie-takada-hj.ed.jp/",
          "wikipedia_name" : "高田中学校・高等学校"
       }
    }

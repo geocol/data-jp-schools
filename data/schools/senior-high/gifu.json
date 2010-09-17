@@ -1,43 +1,69 @@
 {
    "senior_high_schools" : {
       "ぎふ国際高等学校" : {
+         "location" : "岐阜県岐阜市橋本町3丁目9番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8856",
          "owner_type" : "私立",
-         "short_name" : "ぎふ国際高校"
+         "short_name" : "ぎふ国際高校",
+         "url" : "http://gifu-kokusai.denpa.jp/"
       },
       "ウィッツ青山学園高等学校多治見キャンパス" : {
+         "location" : "三重県伊賀市北山1373番地",
          "location_area" : "多治見市",
+         "location_zipcode" : "518-0204",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24521G",
          "short_name" : "ウィッツ青山学園高校多治見キャンパス",
+         "url" : "http://www.i-iku.com/",
          "wikipedia_name" : "ウィッツ青山学園高等学校"
       },
       "ウィッツ青山学園高等学校大垣キャンパス" : {
+         "location" : "三重県伊賀市北山1373番地",
          "location_area" : "大垣市",
+         "location_zipcode" : "518-0204",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24521G",
          "short_name" : "ウィッツ青山学園高校大垣キャンパス",
+         "url" : "http://www.i-iku.com/",
          "wikipedia_name" : "ウィッツ青山学園高等学校"
       },
       "ウィッツ青山学園高等学校岐阜キャンパス" : {
+         "location" : "三重県伊賀市北山1373番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "518-0204",
          "owner_type" : "私立",
+         "senior_high_school_code" : "24521G",
          "short_name" : "ウィッツ青山学園高校岐阜キャンパス",
+         "url" : "http://www.i-iku.com/",
          "wikipedia_name" : "ウィッツ青山学園高等学校"
       },
       "中京高等学校" : {
+         "location" : "岐阜県瑞浪市土岐町7074-1",
          "location_area" : "瑞浪市",
+         "location_zipcode" : "487-8501",
          "owner_type" : "私立",
-         "short_name" : "中京高校"
+         "senior_high_school_code" : "21514H",
+         "short_name" : "中京高校",
+         "url" : "http://www.chukyo-ch.ed.jp/index.html"
       },
       "中津川市立阿木高等学校" : {
+         "location" : "岐阜県中津川市阿木119",
          "location_area" : "中津川市",
+         "location_zipcode" : "509-7321",
          "owner_type" : "市立",
          "school_area" : "東濃学区",
-         "short_name" : "阿木高校"
+         "senior_high_school_code" : "21170C",
+         "short_name" : "阿木高校",
+         "url" : "http://www.city.nakatsugawa.gifu.jp/kyouiku/agikou/"
       },
       "城南高等学校" : {
+         "location" : "岐阜県岐阜市細畑1-10-14",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8238",
          "owner_type" : "私立",
          "short_name" : "城南高校",
+         "url" : "http://hope.sc/index.html",
          "wikipedia_name" : "城南高等学校 (岐阜県)"
       },
       "多治見西高等学校" : {
@@ -46,26 +72,45 @@
          "short_name" : "多治見西高校"
       },
       "大垣日本大学高等学校" : {
+         "location" : "岐阜県大垣市林町6-5",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|22|28.7|N|136|37|1.4|E|",
+         "location_zipcode" : "503-0015",
          "owner_type" : "私立",
-         "short_name" : "大垣日本大学高校"
+         "senior_high_school_code" : "21510E",
+         "short_name" : "大垣日本大学高校",
+         "url" : "http://www.ogaki.ac.jp/"
       },
       "富田高等学校" : {
+         "location" : "岐阜県岐阜市野一色四丁目17番1号",
          "location_area" : "岐阜市",
+         "location_wikipedia_latlon" : "|35|24|41.8|N|136|48|12.9|E|",
+         "location_zipcode" : "500-8765",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21502D",
          "short_name" : "富田高校",
+         "url" : "http://www.tomita.ac.jp/",
          "wikipedia_name" : "富田高等学校 (岐阜県)"
       },
       "岐阜女子高等学校" : {
+         "location" : "岐阜県羽島郡岐南町三宅1-130",
          "location_area" : "羽島郡岐南町",
+         "location_wikipedia_latlon" : "|35|23|47.1|N|136|47|31.1|E|",
+         "location_zipcode" : "501－6002",
          "owner_type" : "私立",
-         "short_name" : "岐阜女子高校"
+         "senior_high_school_code" : "21507E",
+         "short_name" : "岐阜女子高校",
+         "url" : "http://www.gifujoshi.ed.jp/"
       },
       "岐阜市立岐阜商業高等学校" : {
+         "location" : "岐阜県岐阜市鏡島南2-7-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "501-0115",
          "owner_type" : "市立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜商業高校"
+         "senior_high_school_code" : "21166E",
+         "short_name" : "岐阜商業高校",
+         "url" : "http://www.shigisho.ed.jp/"
       },
       "岐阜東高等学校" : {
          "location_area" : "岐阜市",
@@ -73,310 +118,528 @@
          "short_name" : "岐阜東高校"
       },
       "岐阜県立不破高等学校" : {
+         "location" : "岐阜県不破郡垂井町宮代1919-1",
          "location_area" : "不破郡垂井町",
+         "location_wikipedia_latlon" : "|35|21|38.3|N|136|31|13.2|E|",
+         "location_zipcode" : "503-2124",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "不破高校"
+         "senior_high_school_code" : "21126F",
+         "short_name" : "不破高校",
+         "url" : "http://school.gifu-net.ed.jp/fuwa-hs/"
       },
       "岐阜県立中津商業高等学校" : {
+         "location" : "岐阜県中津川市駒場1646",
          "location_area" : "中津川市",
+         "location_zipcode" : "508-0011",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "中津商業高校"
+         "short_name" : "中津商業高校",
+         "url" : "http://www.gif-nakatsu-ch.ed.jp/index.html"
       },
       "岐阜県立中津川工業高等学校" : {
+         "location" : "岐阜県中津川市千旦林1521-3",
          "location_area" : "中津川市",
+         "location_zipcode" : "509-9131",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "中津川工業高校"
+         "senior_high_school_code" : "21154A",
+         "short_name" : "中津川工業高校",
+         "url" : "http://www.takenet.or.jp/~chukou/indexie.html"
       },
       "岐阜県立中津高等学校" : {
+         "location" : "岐阜県中津川市中津川1088-2",
          "location_area" : "中津川市",
+         "location_zipcode" : "508-0001",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "中津高校"
+         "senior_high_school_code" : "21152E",
+         "short_name" : "中津高校",
+         "url" : "http://school.gifu-net.ed.jp/nakatsu-hs/"
       },
       "岐阜県立八百津高等学校" : {
+         "location" : "岐阜県加茂郡八百津町伊岐津志2803-6",
          "location_area" : "加茂郡八百津町",
+         "location_zipcode" : "505-0303",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "八百津高校"
+         "senior_high_school_code" : "21137A",
+         "short_name" : "八百津高校",
+         "url" : "http://school.gifu-net.ed.jp/yaotsu-hs/"
       },
       "岐阜県立加納高等学校" : {
+         "location" : "岐阜市加納南陽町3丁目17番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8276",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "加納高校"
+         "senior_high_school_code" : "21105C",
+         "short_name" : "加納高校",
+         "url" : "http://school.gifu-net.ed.jp/kano-hs/"
       },
       "岐阜県立加茂農林高等学校" : {
+         "location" : "岐阜県美濃加茂市本郷町3丁目3番13号",
          "location_area" : "美濃加茂市",
+         "location_zipcode" : "505-0027",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "加茂農林高校"
+         "senior_high_school_code" : "21136C",
+         "short_name" : "加茂農林高校",
+         "url" : "http://school.gifu-net.ed.jp/kamo-ahs/"
       },
       "岐阜県立加茂高等学校" : {
+         "location" : "岐阜県美濃加茂市本郷町2-6-78",
          "location_area" : "美濃加茂市",
+         "location_zipcode" : "505-0027",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "加茂高校"
+         "short_name" : "加茂高校",
+         "url" : "http://school.gifu-net.ed.jp/kamo-hs/"
       },
       "岐阜県立可児工業高等学校" : {
+         "location" : "岐阜県可児市中恵土2358-1",
          "location_area" : "可児市",
+         "location_zipcode" : "509-0202",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "可児工業高校"
+         "senior_high_school_code" : "21141K",
+         "short_name" : "可児工業高校",
+         "url" : "http://school.gifu-net.ed.jp/kani-ths/"
       },
       "岐阜県立可児高等学校" : {
+         "location" : "岐阜県可児市坂戸987-2",
          "location_area" : "可児市",
+         "location_zipcode" : "509-0241",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "可児高校"
+         "senior_high_school_code" : "21178J",
+         "short_name" : "可児高校",
+         "url" : "http://school.gifu-net.ed.jp/kani-hs/"
       },
       "岐阜県立各務原西高等学校" : {
+         "location" : "各務原市那加東亜町24-1",
          "location_area" : "各務原市",
+         "location_wikipedia_latlon" : "|35|24|9.6|N|136|50|14.5|E|",
+         "location_zipcode" : "504-8545",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "各務原西高校"
+         "senior_high_school_code" : "21180A",
+         "short_name" : "各務原西高校",
+         "url" : "http://school.gifu-net.ed.jp/kakunisi-hs/"
       },
       "岐阜県立各務原高等学校" : {
+         "location" : "岐阜県各務原市蘇原新生町2-63",
          "location_area" : "各務原市",
+         "location_wikipedia_latlon" : "|35|25|9|N|136|52|57|E|",
+         "location_zipcode" : "504-8585",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "各務原高校"
+         "senior_high_school_code" : "21111H",
+         "short_name" : "各務原高校",
+         "url" : "http://school.gifu-net.ed.jp/kaku-hs/"
       },
       "岐阜県立吉城高等学校" : {
+         "location" : "岐阜県飛騨市古川町上気多1987－2",
          "location_area" : "飛騨市",
+         "location_wikipedia_latlon" : "|36|14|40.2|N|137|11|50.5|E|",
+         "location_zipcode" : "509-4212",
          "owner_type" : "県立",
          "school_area" : "飛騨学区",
-         "short_name" : "吉城高校"
+         "senior_high_school_code" : "21163A",
+         "short_name" : "吉城高校",
+         "url" : "http://school.gifu-net.ed.jp/yosiki-hs/"
       },
       "岐阜県立土岐商業高等学校" : {
+         "location" : "岐阜県土岐市土岐津町土岐口1259-1",
          "location_area" : "土岐市",
+         "location_wikipedia_latlon" : "|35|20|41.2|N|137|10|10.3|E|",
+         "location_zipcode" : "509-5122",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "土岐商業高校"
+         "senior_high_school_code" : "21147J",
+         "short_name" : "土岐商業高校",
+         "url" : "http://www.toki-ch.ed.jp/"
       },
       "岐阜県立土岐紅陵高等学校" : {
+         "location" : "土岐市下石町1795-12",
          "location_area" : "土岐市",
+         "location_zipcode" : "〒509-5202",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "土岐紅陵高校"
+         "senior_high_school_code" : "21146A",
+         "short_name" : "土岐紅陵高校",
+         "url" : "http://school.gifu-net.ed.jp/tokikoryo-hs/"
       },
       "岐阜県立坂下高等学校" : {
+         "location" : "岐阜県中津川市坂下624-1",
          "location_area" : "中津川市",
+         "location_zipcode" : "509-9232",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "坂下高校"
+         "senior_high_school_code" : "21156H",
+         "short_name" : "坂下高校",
+         "url" : "http://school.gifu-net.ed.jp/sakasita-hs/"
       },
       "岐阜県立多治見北高等学校" : {
+         "location" : "岐阜県多治見市上山町2丁目49番地",
          "location_area" : "多治見市",
+         "location_zipcode" : "507-0022",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "多治見北高校"
+         "senior_high_school_code" : "21143F",
+         "short_name" : "多治見北高校",
+         "url" : "http://school.gifu-net.ed.jp/tajimikita-hs/"
       },
       "岐阜県立多治見工業高等学校" : {
+         "location" : "岐阜県多治見市陶元町207",
          "location_area" : "多治見市",
+         "location_wikipedia_latlon" : "|35|19|44.9|N|137|8|16.4|E|",
+         "location_zipcode" : "507-8605",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "多治見工業高校"
+         "short_name" : "多治見工業高校",
+         "url" : "http://school.gifu-net.ed.jp/tajimi-ths/"
       },
       "岐阜県立多治見高等学校" : {
+         "location" : "岐阜県多治見市坂上町9-141",
          "location_area" : "多治見市",
+         "location_wikipedia_latlon" : "|35|19|56.5|N|137|8|19.2|E|",
+         "location_zipcode" : "507-0804",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "多治見高校"
+         "senior_high_school_code" : "21142H",
+         "short_name" : "多治見高校",
+         "url" : "http://school.gifu-net.ed.jp/tajimi-hs/"
       },
       "岐阜県立大垣北高等学校" : {
+         "location" : "大垣市中川町4-110-1",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|22|59.8|N|136|37|14.5|E|",
+         "location_zipcode" : "503-0017",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣北高校"
+         "senior_high_school_code" : "21119C",
+         "short_name" : "大垣北高校",
+         "url" : "http://school.gifu-net.ed.jp/ogkkita-hs/hptop/index1.htm"
       },
       "岐阜県立大垣南高等学校" : {
+         "location" : "岐阜県大垣市浅中2-69",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|18|40|N|136|36|16.1|E|",
+         "location_zipcode" : "503-8522",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣南高校"
+         "senior_high_school_code" : "21120G",
+         "short_name" : "大垣南高校",
+         "url" : "http://school.gifu-net.ed.jp/ogkminami-hs/nanko/index.html"
       },
       "岐阜県立大垣商業高等学校" : {
+         "location" : "岐阜県大垣市開発町4-300",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|22|37.8|N|136|38|25|E|",
+         "location_zipcode" : "503-0002",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣商業高校"
+         "short_name" : "大垣商業高校",
+         "url" : "http://school.gifu-net.ed.jp/ogaki-chs/"
       },
       "岐阜県立大垣工業高等学校" : {
+         "location" : "岐阜県大垣市南若森町301-1",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|21|2|N|136|36|17.9|E|",
+         "location_zipcode" : "503-8521",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣工業高校"
+         "short_name" : "大垣工業高校",
+         "url" : "http://www.grn.mmtr.or.jp/~daikou/"
       },
       "岐阜県立大垣東高等学校" : {
+         "location" : "大垣市美和町1784",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|21|11.5|N|136|37|2.5|E|",
+         "location_zipcode" : "503-0857",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣東高校"
+         "senior_high_school_code" : "21121E",
+         "short_name" : "大垣東高校",
+         "url" : "http://school.gifu-net.ed.jp/ogkhigasi-hs/"
       },
       "岐阜県立大垣桜高等学校" : {
+         "location" : "岐阜県大垣市墨俣町上宿465-1",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|21|35.4|N|136|40|50.1|E|",
+         "location_zipcode" : "503-0103",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣桜高校"
+         "senior_high_school_code" : "21125H",
+         "short_name" : "大垣桜高校",
+         "url" : "http://school.gifu-net.ed.jp/ogksakura-hs/"
       },
       "岐阜県立大垣西高等学校" : {
+         "location" : "岐阜県大垣市中曽根町147-1",
          "location_area" : "大垣市",
+         "location_wikipedia_latlon" : "|35|21|23.1|N|136|34|35.5|E|",
+         "location_zipcode" : "503-8520",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣西高校"
+         "senior_high_school_code" : "21177A",
+         "short_name" : "大垣西高校",
+         "url" : "http://school.gifu-net.ed.jp/ogknisi-hs/"
       },
       "岐阜県立大垣養老高等学校" : {
+         "location" : "岐阜県養老郡養老町祖父江向野1418-4",
          "location_area" : "養老郡養老町",
+         "location_wikipedia_latlon" : "|35|18|43.3|N|136|34|54.8|E|",
+         "location_zipcode" : "503-1305",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "大垣養老高校"
+         "short_name" : "大垣養老高校",
+         "url" : "http://school.gifu-net.ed.jp/oyourou-hs/"
       },
       "岐阜県立山県高等学校" : {
+         "location" : "岐阜県山県市中洞44-1",
          "location_area" : "山県市",
+         "location_zipcode" : "501-2258",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "山県高校"
+         "senior_high_school_code" : "21115A",
+         "short_name" : "山県高校",
+         "url" : "http://school.gifu-net.ed.jp/yamagata-hs/"
       },
       "岐阜県立岐南工業高等学校" : {
+         "location" : "岐阜県岐阜市本荘3456-19",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8389",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐南工業高校"
+         "senior_high_school_code" : "21109",
+         "short_name" : "岐南工業高校",
+         "url" : "http://www.ginan.gifu.gifu.jp/"
       },
       "岐阜県立岐山高等学校" : {
+         "location" : "岐阜市長良小山田2587-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0071",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐山高校"
+         "senior_high_school_code" : "21104",
+         "short_name" : "岐山高校",
+         "url" : "http://school.gifu-net.ed.jp/gizan-hs/"
       },
       "岐阜県立岐阜北高等学校" : {
+         "location" : "岐阜市則武清水1841-11",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0931",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜北高校"
+         "senior_high_school_code" : "21102",
+         "short_name" : "岐阜北高校",
+         "url" : "http://school.gifu-net.ed.jp/gifukita-hs/index.html"
       },
       "岐阜県立岐阜各務野高等学校" : {
+         "location" : "各務原市鵜沼各務原町8-7-2",
          "location_area" : "各務原市",
+         "location_wikipedia_latlon" : "|35|23|52.5|N|136|54|26.5|E|",
+         "location_zipcode" : "509-0141",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜各務野高校"
+         "short_name" : "岐阜各務野高校",
+         "url" : "http://school.gifu-net.ed.jp/gkakamino-hs/"
       },
       "岐阜県立岐阜商業高等学校" : {
+         "location" : "岐阜市則武新屋敷1816-6",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0931",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜商業高校"
+         "senior_high_school_code" : "21108H",
+         "short_name" : "岐阜商業高校",
+         "url" : "http://www.kengisho.ed.jp/"
       },
       "岐阜県立岐阜城北高等学校" : {
+         "location" : "岐阜市三田洞465-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "502-0004",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜城北高校"
+         "senior_high_school_code" : "21185A",
+         "short_name" : "岐阜城北高校",
+         "url" : "http://www.ip.mirai.ne.jp/~jyohoku-hs/"
       },
       "岐阜県立岐阜工業高等学校" : {
+         "location" : "岐阜県羽島郡笠松町常盤町1700番地",
          "location_area" : "羽島郡笠松町",
+         "location_wikipedia_latlon" : "|35|22|27.3|N|136|45|36.5|E|",
+         "location_zipcode" : "501-6083",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜工業高校"
+         "senior_high_school_code" : "21117G",
+         "short_name" : "岐阜工業高校",
+         "url" : "http://www.gifu-ths.ed.jp/"
       },
       "岐阜県立岐阜総合学園高等学校" : {
+         "location" : "岐阜県岐阜市須賀2丁目7番25号",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8289",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜総合学園高校"
+         "senior_high_school_code" : "21183E",
+         "short_name" : "岐阜総合学園高校",
+         "url" : "http://www.gifusogogakuen-h.ed.jp/"
       },
       "岐阜県立岐阜農林高等学校" : {
+         "location" : "岐阜県本巣郡北方町北方150番地",
          "location_area" : "本巣郡北方町",
+         "location_zipcode" : "501-0431",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜農林高校"
+         "senior_high_school_code" : "21114B",
+         "short_name" : "岐阜農林高校",
+         "url" : "http://school.gifu-net.ed.jp/gifu-ahs/"
       },
       "岐阜県立岐阜高等学校" : {
+         "location" : "岐阜県岐阜市大縄場3丁目1番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8889",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "岐阜高校"
+         "senior_high_school_code" : "21101A",
+         "short_name" : "岐阜高校",
+         "url" : "http://school.gifu-net.ed.jp/gifu-hs/"
       },
       "岐阜県立恵那南高等学校" : {
+         "location" : "岐阜県恵那市明智町大庭41-2",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7793",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "恵那南高校"
+         "senior_high_school_code" : "21188F",
+         "short_name" : "恵那南高校",
+         "url" : "http://school.gifu-net.ed.jp/enaminami-hs/"
       },
       "岐阜県立恵那農業高等学校" : {
+         "location" : "岐阜県恵那市大井町2625-17",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7201",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "恵那農業高校"
+         "senior_high_school_code" : "21149E",
+         "short_name" : "恵那農業高校",
+         "url" : "http://school.gifu-net.ed.jp/ena-ahs/"
       },
       "岐阜県立恵那高等学校" : {
+         "location" : "岐阜県恵那市大井町1023-1",
          "location_area" : "恵那市",
+         "location_zipcode" : "509-7201",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "恵那高校"
+         "senior_high_school_code" : "21148G",
+         "short_name" : "恵那高校",
+         "url" : "http://school.gifu-net.ed.jp/ena-hs/"
       },
       "岐阜県立揖斐高等学校" : {
+         "location" : "揖斐郡揖斐川町三輪1852",
          "location_area" : "揖斐郡揖斐川町",
+         "location_zipcode" : "501-0619",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "揖斐高校"
+         "senior_high_school_code" : "21118E",
+         "short_name" : "揖斐高校",
+         "url" : "http://school.gifu-net.ed.jp/ibi-hs/"
       },
       "岐阜県立斐太高等学校" : {
+         "location" : "岐阜県高山市三福寺町736",
          "location_area" : "高山市",
+         "location_wikipedia_latlon" : "|36|9|25.9|N|137|15|29.2|E|",
+         "location_zipcode" : "506-0807",
          "owner_type" : "県立",
          "school_area" : "飛騨学区",
-         "short_name" : "斐太高校"
+         "senior_high_school_code" : "21159B",
+         "short_name" : "斐太高校",
+         "url" : "http://school.gifu-net.ed.jp/hida-hs/index.html"
       },
       "岐阜県立本巣松陽高等学校" : {
+         "location" : "岐阜県本巣市仏生寺859-1",
          "location_area" : "本巣市",
+         "location_zipcode" : "500-8889",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "本巣松陽高校"
+         "senior_high_school_code" : "21186K",
+         "short_name" : "本巣松陽高校",
+         "url" : "http://school.gifu-net.ed.jp/syoyo-hs/index.html"
       },
       "岐阜県立東濃フロンティア高等学校" : {
+         "location" : "土岐市泉町河合1127-8",
          "location_area" : "土岐市",
+         "location_zipcode" : "〒509-5101",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "東濃フロンティア高校"
+         "senior_high_school_code" : "21176B",
+         "short_name" : "東濃フロンティア高校",
+         "url" : "http://school.gifu-net.ed.jp/tokikita-hs/"
       },
       "岐阜県立東濃実業高等学校" : {
+         "location" : "岐阜県可児郡御嵩町伏見891",
          "location_area" : "可児郡御嵩町",
+         "location_wikipedia_latlon" : "|35|26|24.5|N|137|5|2.5|E|",
+         "location_zipcode" : "505-0125",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "東濃実業高校"
+         "senior_high_school_code" : "21140A",
+         "short_name" : "東濃実業高校",
+         "url" : "http://school.gifu-net.ed.jp/tojitsu-chs/"
       },
       "岐阜県立東濃高等学校" : {
+         "location" : "岐阜県可児郡御嵩町御嵩2854-1",
          "location_area" : "可児郡御嵩町",
+         "location_wikipedia_latlon" : "|35|26|2.5|N|137|8|5.2|E|",
+         "location_zipcode" : "505-0116",
          "owner_type" : "県立",
          "school_area" : "可茂学区",
-         "short_name" : "東濃高校"
+         "senior_high_school_code" : "21139H",
+         "short_name" : "東濃高校",
+         "url" : "http://school.gifu-net.ed.jp/tono-hs/"
       },
       "岐阜県立武義高等学校" : {
+         "location" : "岐阜県美濃市泉町2-3",
          "location_area" : "美濃市",
+         "location_zipcode" : "501-3101",
          "owner_type" : "県立",
          "school_area" : "美濃学区",
-         "short_name" : "武義高校"
+         "short_name" : "武義高校",
+         "url" : "http://school.gifu-net.ed.jp/mugi-hs/"
       },
       "岐阜県立池田高等学校" : {
+         "location" : "岐阜県揖斐郡池田町六之井242-1",
          "location_area" : "揖斐郡池田町",
+         "location_wikipedia_latlon" : "|35|26|13.5|N|136|35|14.4|E|",
+         "location_zipcode" : "503-2495",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "池田高校"
+         "senior_high_school_code" : "21182G",
+         "short_name" : "池田高校",
+         "url" : "http://school.gifu-net.ed.jp/ikeda-hs/"
       },
       "岐阜県立海津明誠高等学校" : {
+         "location" : "海津市海津町高須町11-1",
          "location_area" : "海津市",
+         "location_wikipedia_latlon" : "|35|13|26|N|136|37|54.6|E|",
+         "location_zipcode" : "503-0653",
          "owner_type" : "県立",
          "school_area" : "西濃学区",
-         "short_name" : "海津明誠高校"
+         "senior_high_school_code" : "21128",
+         "short_name" : "海津明誠高校",
+         "url" : "http://school.gifu-net.ed.jp/kmeisei-hs/"
       },
       "岐阜県立瑞浪高等学校" : {
+         "location" : "瑞浪市土岐町7942",
          "location_area" : "瑞浪市",
+         "location_zipcode" : "509-6196",
          "owner_type" : "県立",
          "school_area" : "東濃学区",
-         "short_name" : "瑞浪高校"
+         "senior_high_school_code" : "21145B",
+         "short_name" : "瑞浪高校",
+         "url" : "http://school.gifu-net.ed.jp/mizunami-hs/"
       },
       "岐阜県立益田清風高等学校" : {
          "location_area" : "下呂市",
@@ -385,52 +648,90 @@
          "short_name" : "益田清風高校"
       },
       "岐阜県立羽島北高等学校" : {
+         "location" : "岐阜県岐阜市柳津町北塚3-110",
          "location_area" : "岐阜市",
+         "location_zipcode" : "501-6112",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "羽島北高校"
+         "senior_high_school_code" : "21173",
+         "short_name" : "羽島北高校",
+         "url" : "http://school.gifu-net.ed.jp/hasikita-hs/"
       },
       "岐阜県立羽島高等学校" : {
+         "location" : "岐阜県羽島市竹鼻町梅ヶ枝町200-2",
          "location_area" : "羽島市",
+         "location_wikipedia_latlon" : "|35|19|17.2|N|136|41|49.4|E|",
+         "location_zipcode" : "501-6241",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "羽島高校"
+         "senior_high_school_code" : "21116J",
+         "short_name" : "羽島高校",
+         "url" : "http://school.gifu-net.ed.jp/hasima-hs/"
       },
       "岐阜県立華陽フロンティア高等学校" : {
+         "location" : "岐阜市西鶉6丁目69番地",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8286",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "華陽フロンティア高校"
+         "senior_high_school_code" : "21165",
+         "short_name" : "華陽フロンティア高校",
+         "url" : "http://school.gifu-net.ed.jp/kayofront-hs/"
       },
       "岐阜県立郡上北高等学校" : {
+         "location" : "岐阜県郡上市白鳥町為真1265-2",
          "location_area" : "郡上市",
+         "location_wikipedia_latlon" : "|35|53|6.5|N|136|51|53.7|E|",
+         "location_zipcode" : "501-5122",
          "owner_type" : "県立",
          "school_area" : "美濃学区",
-         "short_name" : "郡上北高校"
+         "senior_high_school_code" : "21129A",
+         "short_name" : "郡上北高校",
+         "url" : "http://school.gifu-net.ed.jp/gujyokita-hs/"
       },
       "岐阜県立郡上高等学校" : {
+         "location" : "岐阜県郡上市八幡町小野970-1",
          "location_area" : "郡上市",
+         "location_wikipedia_latlon" : "|35|45|17.9|N|136|57|51|E|",
+         "location_zipcode" : "501-4221",
          "owner_type" : "県立",
          "school_area" : "美濃学区",
-         "short_name" : "郡上高校"
+         "senior_high_school_code" : "21130D",
+         "short_name" : "郡上高校",
+         "url" : "http://www.gujo-h.ed.jp/"
       },
       "岐阜県立長良高等学校" : {
+         "location" : "岐阜市長良西後町1716-1",
          "location_area" : "岐阜市",
+         "location_wikipedia_latlon" : "|35|26|50.3|N|136|46|50.4|E|",
+         "location_zipcode" : "502-0071",
          "owner_type" : "県立",
          "school_area" : "岐阜学区",
-         "short_name" : "長良高校"
+         "senior_high_school_code" : "21103G",
+         "short_name" : "長良高校",
+         "url" : "http://school.gifu-net.ed.jp/nagara-hs/"
       },
       "岐阜県立関有知高等学校" : {
+         "location" : "岐阜県関市下有知松ヶ洞6191-3",
          "location_area" : "関市",
+         "location_wikipedia_latlon" : "|35|30|51.0|N|136|54|47.1|E|",
+         "location_zipcode" : "501-3217",
          "owner_type" : "県立",
          "school_area" : "美濃学区",
-         "short_name" : "関有知高校"
+         "senior_high_school_code" : "21187H",
+         "short_name" : "関有知高校",
+         "url" : "http://school.gifu-net.ed.jp/sekiuchi-hs/"
       },
       "岐阜県立関高等学校" : {
+         "location" : "岐阜県関市桜ヶ丘2丁目1番1号",
          "location_area" : "関市",
+         "location_wikipedia_latlon" : "|35|28|31.0|N|136|55|44.7|E|",
+         "location_zipcode" : "501-3903",
          "owner_type" : "県立",
          "school_area" : "美濃学区",
-         "short_name" : "関高校"
+         "senior_high_school_code" : "21133J",
+         "short_name" : "関高校",
+         "url" : "http://school.gifu-net.ed.jp/seki-hs/"
       },
       "岐阜県立飛騨神岡高等学校" : {
          "location_area" : "飛騨市",
@@ -439,10 +740,14 @@
          "short_name" : "飛騨神岡高校"
       },
       "岐阜県立飛騨高山高等学校" : {
+         "location" : "岐阜県高山市下岡本町2000-30",
          "location_area" : "高山市",
+         "location_zipcode" : "506-0052",
          "owner_type" : "県立",
          "school_area" : "飛騨学区",
-         "short_name" : "飛騨高山高校"
+         "senior_high_school_code" : "21160F",
+         "short_name" : "飛騨高山高校",
+         "url" : "http://school.gifu-net.ed.jp/htakayama-hs/"
       },
       "岐阜県立高山工業高等学校" : {
          "location_area" : "高山市",
@@ -451,37 +756,60 @@
          "short_name" : "高山工業高校"
       },
       "岐阜第一高等学校" : {
+         "location" : "岐阜県本巣市仏生寺844-7",
          "location_area" : "本巣市",
+         "location_zipcode" : "501-0407",
          "owner_type" : "私立",
-         "short_name" : "岐阜第一高校"
+         "senior_high_school_code" : "21508C",
+         "short_name" : "岐阜第一高校",
+         "url" : "http://www.gifu-daiichi.ed.jp/index.html"
       },
       "岐阜聖徳学園大学附属高等学校" : {
+         "location" : "岐阜県岐阜市柳津町高桑西1-1",
          "location_area" : "岐阜市",
+         "location_zipcode" : "501-6122",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21509A",
          "short_name" : "岐阜聖徳学園大学附属高校",
+         "url" : "http://hs.ha.shotoku.ac.jp/",
          "wikipedia_name" : "岐阜聖徳学園大学附属中学校・高等学校"
       },
       "岐阜聖徳学園高等学校" : {
+         "location" : "岐阜県岐阜市中鶉1-50",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8288",
          "owner_type" : "私立",
-         "short_name" : "岐阜聖徳学園高校"
+         "short_name" : "岐阜聖徳学園高校",
+         "url" : "http://hs.shotoku.ac.jp"
       },
       "帝京大学可児高等学校" : {
+         "location" : "岐阜県可児市桂ヶ丘一丁目1番地",
          "location_area" : "可児市",
+         "location_zipcode" : "509-0237",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21516D",
          "short_name" : "帝京大学可児高校",
+         "url" : "http://www.teikyo-kani.ed.jp/",
          "wikipedia_name" : "帝京大学可児高等学校中学校"
       },
       "済美高等学校" : {
+         "location" : "岐阜県岐阜市正法寺町33",
          "location_area" : "岐阜市",
+         "location_zipcode" : "500-8741",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21503B",
          "short_name" : "済美高校",
+         "url" : "http://www.gifu-seibi.ed.jp/",
          "wikipedia_name" : "済美高等学校 (岐阜県)"
       },
       "美濃加茂高等学校" : {
+         "location" : "岐阜県美濃加茂市本郷町七丁目6番60号",
          "location_area" : "美濃加茂市",
+         "location_zipcode" : "505-0027",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21511C",
          "short_name" : "美濃加茂高校",
+         "url" : "http://www.minokamo.ed.jp/",
          "wikipedia_name" : "美濃加茂中学高等学校"
       },
       "聖マリア女学院高等学校" : {
@@ -490,26 +818,42 @@
          "short_name" : "聖マリア女学院高校"
       },
       "関市立関商工高等学校" : {
+         "location" : "岐阜県関市桐ケ丘1丁目1番地",
          "location_area" : "関市",
+         "location_zipcode" : "501-3938",
          "owner_type" : "市立",
          "school_area" : "美濃学区",
-         "short_name" : "関商工高校"
+         "senior_high_school_code" : "21167C",
+         "short_name" : "関商工高校",
+         "url" : "http://www.sekishoko-h.ed.jp/"
       },
       "高山西高等学校" : {
+         "location" : "岐阜県高山市下林町353",
          "location_area" : "高山市",
+         "location_zipcode" : "506-0059",
          "owner_type" : "私立",
-         "short_name" : "高山西高校"
+         "short_name" : "高山西高校",
+         "url" : "http://www.takanishi.ed.jp]"
       },
       "鶯谷高等学校" : {
+         "location" : "岐阜市鶯谷町7",
          "location_area" : "岐阜市",
+         "location_wikipedia_latlon" : "|35|25|27.3|N|136|46|1.9|E|",
+         "location_zipcode" : "500-8053",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21501F",
          "short_name" : "鶯谷高校",
+         "url" : "http://www.mirai.ne.jp/~uguisu/",
          "wikipedia_name" : "鶯谷中学・高等学校"
       },
       "麗澤瑞浪高等学校" : {
+         "location" : "岐阜県瑞浪市稲津町萩原1661",
          "location_area" : "瑞浪市",
+         "location_zipcode" : "509-6102",
          "owner_type" : "私立",
+         "senior_high_school_code" : "21513K",
          "short_name" : "麗澤瑞浪高校",
+         "url" : "http://www.mz.reitaku.jp/",
          "wikipedia_name" : "麗澤瑞浪中学校・高等学校"
       }
    }

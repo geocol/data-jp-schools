@@ -1,32 +1,59 @@
 {
    "senior_high_schools" : {
       "八洲学園大学国際高等学校" : {
+         "location" : "沖縄県国頭郡本部町備瀬1249",
+         "location_wikipedia_latlon" : "|26|41|44.3|N|127|52|58.8|E|",
+         "location_zipcode" : "905-0207",
          "owner_type" : "私立",
-         "short_name" : "八洲学園大学国際高校"
+         "senior_high_school_code" : "47506J",
+         "short_name" : "八洲学園大学国際高校",
+         "url" : "http://study.jp/hs/yashima/index.asp"
       },
       "昭和薬科大学附属高等学校" : {
+         "location" : "沖縄県浦添市沢岻450",
+         "location_wikipedia_latlon" : "|26|14|16.8|N|127|42|47.6|E|",
+         "location_zipcode" : "901-2112",
          "owner_type" : "私立",
+         "senior_high_school_code" : "47505A",
          "short_name" : "昭和薬科大学附属高校",
+         "url" : "http://www.showayakka-jh.ed.jp/",
          "wikipedia_name" : "昭和薬科大学附属高等学校・中学校"
       },
       "沖縄カトリック高等学校" : {
+         "location" : "沖縄県宜野湾市真栄原3-16-1",
+         "location_wikipedia_latlon" : "|26|15|41.2|N|127|44|41.5|E|",
+         "location_zipcode" : "901-2215",
          "owner_type" : "私立",
+         "senior_high_school_code" : "47507G",
          "short_name" : "沖縄カトリック高校",
+         "url" : "http://www.catholic-okinawa.ed.jp/",
          "wikipedia_name" : "沖縄カトリック中学校・高等学校"
       },
       "沖縄女子短期大学附属高等学校" : {
+         "location" : "沖縄県那覇市字国場393",
+         "location_zipcode" : "902-0075",
          "owner_type" : "私立",
-         "short_name" : "沖縄女子短大附属高校"
+         "senior_high_school_code" : "47504B",
+         "short_name" : "沖縄女子短大附属高校",
+         "url" : "http://www.owjc.ac.jp/"
       },
       "沖縄尚学高等学校" : {
+         "location" : "沖縄県那覇市国場747",
+         "location_zipcode" : "902-0075",
          "owner_type" : "私立",
+         "senior_high_school_code" : "47501H",
          "short_name" : "沖縄尚学高校",
+         "url" : "http://www.okisho.ed.jp/",
          "wikipedia_name" : "沖縄尚学高等学校・附属中学校"
       },
       "沖縄県立コザ高等学校" : {
+         "location" : "沖縄県沖縄市照屋5丁目5番1号",
          "location_area" : "沖縄市",
+         "location_zipcode" : "904-0011",
          "owner_type" : "県立",
-         "short_name" : "コザ高校"
+         "senior_high_school_code" : "47110A",
+         "short_name" : "コザ高校",
+         "url" : "http://www.koza-h.open.ed.jp/"
       },
       "沖縄県立与勝高等学校" : {
          "location_area" : "うるま市",
@@ -34,19 +61,32 @@
          "short_name" : "与勝高校"
       },
       "沖縄県立中部商業高等学校" : {
+         "location" : "沖縄県宜野湾市我如古2丁目2番1号",
          "location_area" : "宜野湾市",
+         "location_zipcode" : "901-2214",
          "owner_type" : "県立",
-         "short_name" : "中部商業高校"
+         "senior_high_school_code" : "47123C",
+         "short_name" : "中部商業高校",
+         "url" : "http://www.chubu-ch.open.ed.jp/"
       },
       "沖縄県立中部農林高等学校" : {
+         "location" : "沖縄県うるま市字田場1570番地",
          "location_area" : "うるま市",
+         "location_wikipedia_latlon" : "|26|22|18.5|N|127|51|19.1|E|",
+         "location_zipcode" : "904-2213",
          "owner_type" : "県立",
-         "short_name" : "中部農林高校"
+         "senior_high_school_code" : "47134J",
+         "short_name" : "中部農林高校",
+         "url" : "http://www.chubu-ah.open.ed.jp/"
       },
       "沖縄県立久米島高等学校" : {
+         "location" : "沖縄県島尻郡久米島町字嘉手苅727",
          "location_area" : "島尻郡久米島町",
+         "location_zipcode" : "901-3121",
          "owner_type" : "県立",
-         "short_name" : "久米島高校"
+         "senior_high_school_code" : "47119E",
+         "short_name" : "久米島高校",
+         "url" : "http://www.kumejima-h.open.ed.jp/"
       },
       "沖縄県立伊良部高等学校" : {
          "location_area" : "宮古島市",
@@ -54,9 +94,13 @@
          "short_name" : "伊良部高校"
       },
       "沖縄県立八重山商工高等学校" : {
+         "location" : "沖縄県石垣市真栄里180",
          "location_area" : "石垣市",
+         "location_zipcode" : "907-0002",
          "owner_type" : "県立",
-         "short_name" : "八重山商工高校"
+         "senior_high_school_code" : "47138A",
+         "short_name" : "八重山商工高校",
+         "url" : "http://www.yaeyama-th.open.ed.jp/"
       },
       "沖縄県立八重山農林高等学校" : {
          "location_area" : "石垣市",
@@ -64,49 +108,93 @@
          "short_name" : "八重山農林高校"
       },
       "沖縄県立八重山高等学校" : {
+         "location" : "沖縄県石垣市字登野城275番地",
          "location_area" : "石垣市",
+         "location_zipcode" : "907-0004",
          "owner_type" : "県立",
-         "short_name" : "八重山高校"
+         "senior_high_school_code" : "47121G",
+         "short_name" : "八重山高校",
+         "url" : "http://www.yaeyama-h.open.ed.jp/"
       },
       "沖縄県立具志川商業高等学校" : {
+         "location" : "沖縄県うるま市みどり町6-10-1",
          "location_area" : "うるま市",
+         "location_wikipedia_latlon" : "|26|22|51.7|N|127|51|13.4|E|",
+         "location_zipcode" : "904-0103",
          "owner_type" : "県立",
-         "short_name" : "具志川商業高校"
+         "senior_high_school_code" : "47144F",
+         "short_name" : "具志川商業高校",
+         "url" : "http://www.gushikawa-ch.open.ed.jp/"
       },
       "沖縄県立具志川高等学校" : {
+         "location" : "沖縄県うるま市喜仲3丁目28番1号",
          "location_area" : "うるま市",
+         "location_zipcode" : "904-2236",
          "owner_type" : "県立",
-         "short_name" : "具志川高校"
+         "senior_high_school_code" : "47152G",
+         "short_name" : "具志川高校",
+         "url" : "http://www.gushikawa-h.open.ed.jp/"
       },
       "沖縄県立前原高等学校" : {
+         "location" : "沖縄県うるま市字田場1827番地",
          "location_area" : "うるま市",
+         "location_zipcode" : "904-2213",
          "owner_type" : "県立",
-         "short_name" : "前原高校"
+         "school_area" : "中頭学区",
+         "senior_high_school_code" : "47112H",
+         "short_name" : "前原高校",
+         "url" : "http://www.maehara-h.open.ed.jp/"
       },
       "沖縄県立北中城高等学校" : {
+         "location" : "沖縄県中頭郡北中城村字渡口1997-13",
          "location_area" : "中頭郡北中城村",
+         "location_wikipedia_latlon" : "|26|18|17.1|N|127|48|54|E|",
+         "location_zipcode" : "901-2302",
          "owner_type" : "県立",
-         "short_name" : "北中城高校"
+         "school_area" : "中頭学区",
+         "senior_high_school_code" : "47153E",
+         "short_name" : "北中城高校",
+         "url" : "http://www.kitanaka-h.open.ed.jp/"
       },
       "沖縄県立北山高等学校" : {
+         "location" : "沖縄県国頭郡今帰仁村仲尾次540-1",
          "location_area" : "国頭郡今帰仁村",
+         "location_wikipedia_latlon" : "|26|41|32|N|127|57|10.9|E|",
+         "location_zipcode" : "905-0424",
          "owner_type" : "県立",
-         "short_name" : "北山高校"
+         "senior_high_school_code" : "47117J",
+         "short_name" : "北山高校",
+         "url" : "http://www.hokuzan-h.open.ed.jp/"
       },
       "沖縄県立北谷高等学校" : {
+         "location" : "沖縄県中頭郡北谷町桑江414",
          "location_area" : "中頭郡北谷町",
+         "location_wikipedia_latlon" : "|26|19|22.1|N|127|45|52.9|E|",
+         "location_zipcode" : "904-0103",
          "owner_type" : "県立",
-         "short_name" : "北谷高校"
+         "school_area" : "中頭学区",
+         "senior_high_school_code" : "47142K",
+         "short_name" : "北谷高校",
+         "url" : "http://www.chatan-h.open.ed.jp/"
       },
       "沖縄県立北部農林高等学校" : {
+         "location" : "沖縄県名護市字宇茂佐13",
          "location_area" : "名護市",
+         "location_wikipedia_latlon" : "|26|35|39|N|127|57|45.9|E|",
+         "location_zipcode" : "905-0006",
          "owner_type" : "県立",
-         "short_name" : "北部農林高校"
+         "senior_high_school_code" : "47135G",
+         "short_name" : "北部農林高校",
+         "url" : "http://www.hokubu-ah.open.ed.jp/"
       },
       "沖縄県立南部商業高等学校" : {
+         "location" : "沖縄県島尻郡八重瀬町字友寄850番地",
          "location_area" : "島尻郡八重瀬町",
+         "location_zipcode" : "901-0411",
          "owner_type" : "県立",
-         "short_name" : "南部商業高校"
+         "senior_high_school_code" : "47139K",
+         "short_name" : "南部商業高校",
+         "url" : "http://www.nanbu-ch.open.ed.jp/"
       },
       "沖縄県立南部工業高等学校" : {
          "location_area" : "島尻郡八重瀬町",
@@ -114,44 +202,84 @@
          "short_name" : "南部工業高校"
       },
       "沖縄県立南部農林高等学校" : {
+         "location" : "沖縄県豊見城市字長堂182番地",
          "location_area" : "豊見城市",
+         "location_zipcode" : "901-0203",
          "owner_type" : "県立",
-         "short_name" : "南部農林高校"
+         "senior_high_school_code" : "47133A",
+         "short_name" : "南部農林高校",
+         "url" : "http://www.nanbu-ah.open.ed.jp/"
       },
       "沖縄県立南風原高等学校" : {
+         "location" : "沖縄県島尻郡南風原町字津嘉山1140番地",
          "location_area" : "島尻郡南風原町",
+         "location_wikipedia_latlon" : "|26|11|46.3|N|127|42|54.4|E|",
+         "location_zipcode" : "901-1117",
          "owner_type" : "県立",
-         "short_name" : "南風原高校"
+         "senior_high_school_code" : "47143H",
+         "short_name" : "南風原高校",
+         "url" : "http://www.haebaru-h.open.ed.jp/"
       },
       "沖縄県立名護商工高等学校" : {
+         "location" : "沖縄県名護市大北4丁目1-23",
          "location_area" : "名護市",
+         "location_wikipedia_latlon" : "|26|36|11.3|N|127|59|24.7|E|",
+         "location_zipcode" : "905-0019",
          "owner_type" : "県立",
-         "short_name" : "名護商工高校"
+         "senior_high_school_code" : "47163B",
+         "short_name" : "名護商工高校",
+         "url" : "http://www.nago-th.open.ed.jp/"
       },
       "沖縄県立名護高等学校" : {
+         "location" : "沖縄県名護市大西5丁目17番1号",
          "location_area" : "名護市",
+         "location_zipcode" : "905-0018",
          "owner_type" : "県立",
-         "short_name" : "名護高校"
+         "school_area" : "国頭学区",
+         "senior_high_school_code" : "47115B",
+         "short_name" : "名護高校",
+         "url" : "http://www.nago-h.open.ed.jp/"
       },
       "沖縄県立向陽高等学校" : {
+         "location" : "沖縄県島尻郡八重瀬町字港川150番地",
          "location_area" : "島尻郡八重瀬町",
+         "location_wikipedia_latlon" : "|26|7|36.3|N|127|45|18.1|E|",
+         "location_zipcode" : "901-0511",
          "owner_type" : "県立",
-         "short_name" : "向陽高校"
+         "school_area" : "理数科・国際文科：県全域",
+         "senior_high_school_code" : "47161F",
+         "short_name" : "向陽高校",
+         "url" : "http://koyo-h.open.ed.jp/"
       },
       "沖縄県立嘉手納高等学校" : {
+         "location" : "沖縄県中頭郡嘉手納町字屋良806",
          "location_area" : "中頭郡嘉手納町",
+         "location_wikipedia_latlon" : "|26|22|6.9|N|127|46|0.1|E|",
+         "location_zipcode" : "904-0202",
          "owner_type" : "県立",
-         "short_name" : "嘉手納高校"
+         "senior_high_school_code" : "47156K",
+         "short_name" : "嘉手納高校",
+         "url" : "http://www.kadena-h.open.ed.jp/"
       },
       "沖縄県立宜野座高等学校" : {
+         "location" : "沖縄県国頭郡宜野座村宜野座1番地",
          "location_area" : "国頭郡宜野座村",
+         "location_wikipedia_latlon" : "|26|28|58.4|N|127|58|39|E|",
+         "location_zipcode" : "904-1302",
          "owner_type" : "県立",
-         "short_name" : "宜野座高校"
+         "senior_high_school_code" : "47114D",
+         "short_name" : "宜野座高校",
+         "url" : "http://www.ginoza-h.open.ed.jp/"
       },
       "沖縄県立宜野湾高等学校" : {
+         "location" : "沖縄県宜野湾市字真志喜2丁目25番1号",
          "location_area" : "宜野湾市",
+         "location_zipcode" : "901-2224",
          "owner_type" : "県立",
-         "short_name" : "宜野湾高校"
+         "school_area" : "中頭学区",
+         "senior_high_school_code" : "47149G",
+         "short_name" : "宜野湾高校",
+         "url" : "http://www.ginowan-h.open.ed.jp/"
       },
       "沖縄県立宮古工業高等学校" : {
          "location_area" : "宮古島市",
@@ -164,104 +292,200 @@
          "short_name" : "宮古総合実業高校"
       },
       "沖縄県立宮古高等学校" : {
+         "location" : "沖縄県平良市字西里718-1",
          "location_area" : "宮古島市",
+         "location_zipcode" : "906-0012",
          "owner_type" : "県立",
-         "short_name" : "宮古高校"
+         "senior_high_school_code" : "47120J",
+         "short_name" : "宮古高校",
+         "url" : "http://www.miyako-h.open.ed.jp/"
       },
       "沖縄県立小禄高等学校" : {
+         "location" : "沖縄県那覇市鏡原町22-1",
          "location_area" : "那覇市",
+         "location_zipcode" : "901-0151",
          "owner_type" : "県立",
-         "short_name" : "小禄高校"
+         "senior_high_school_code" : "47105E",
+         "short_name" : "小禄高校",
+         "url" : "http://www.oroku-h.open.ed.jp/"
       },
       "沖縄県立普天間高等学校" : {
+         "location" : "沖縄県宜野湾市普天間1丁目24番1号",
          "location_area" : "宜野湾市",
+         "location_zipcode" : "901-2202",
          "owner_type" : "県立",
-         "short_name" : "普天間高校"
+         "school_area" : "中頭学区",
+         "senior_high_school_code" : "47109H",
+         "short_name" : "普天間高校",
+         "url" : "http://www.futenma-h.open.ed.jp/"
       },
       "沖縄県立本部高等学校" : {
+         "location" : "沖縄県国頭郡本部町字渡久地377",
          "location_area" : "国頭郡本部町",
+         "location_wikipedia_latlon" : "|26|39|47.9|N|127|53|47.2|E|",
+         "location_zipcode" : "905-0214",
          "owner_type" : "県立",
-         "short_name" : "本部高校"
+         "school_area" : "国頭学区",
+         "senior_high_school_code" : "47116A",
+         "short_name" : "本部高校",
+         "url" : "http://www.motobu-h.open.ed.jp/"
       },
       "沖縄県立沖縄工業高等学校" : {
+         "location" : "沖縄県那覇市松川3丁目20番1号",
          "location_area" : "那覇市",
+         "location_zipcode" : "902-0062",
          "owner_type" : "県立",
-         "short_name" : "沖縄工業高校"
+         "senior_high_school_code" : "47124A",
+         "short_name" : "沖縄工業高校",
+         "url" : "http://www.okinawa-th.open.ed.jp/"
       },
       "沖縄県立沖縄水産高等学校" : {
+         "location" : "沖縄県糸満市西崎1-1-1",
          "location_area" : "糸満市",
+         "location_zipcode" : "901-0305",
          "owner_type" : "県立",
-         "short_name" : "沖縄水産高校"
+         "senior_high_school_code" : "47131D",
+         "short_name" : "沖縄水産高校",
+         "url" : "http://www.okisui-h.open.ed.jp/"
       },
       "沖縄県立泊高等学校" : {
+         "location" : "沖縄県那覇市泊3丁目19番地の2",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-8610",
          "owner_type" : "県立",
-         "short_name" : "泊高校"
+         "school_area" : "県全域",
+         "senior_high_school_code" : "47145D",
+         "short_name" : "泊高校",
+         "url" : "http://www.tomari-h.open.ed.jp/"
       },
       "沖縄県立浦添商業高等学校" : {
+         "location" : "沖縄県浦添市伊祖三丁目11番1号",
          "location_area" : "浦添市",
+         "location_wikipedia_latlon" : "|26|15|32.8|N|127|43|13.8|E|",
+         "location_zipcode" : "901-2132",
          "owner_type" : "県立",
-         "short_name" : "浦添商業高校"
+         "school_area" : "県全域",
+         "senior_high_school_code" : "47140C",
+         "short_name" : "浦添商業高校",
+         "url" : "http://www.urasoe-ch.open.ed.jp/"
       },
       "沖縄県立浦添工業高等学校" : {
+         "location" : "沖縄県浦添市経塚1丁目1番1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2111",
          "owner_type" : "県立",
-         "short_name" : "浦添工業高校"
+         "school_area" : "沖縄県全域",
+         "senior_high_school_code" : "47154C",
+         "short_name" : "浦添工業高校",
+         "url" : "http://www.urasoe-th.open.ed.jp/"
       },
       "沖縄県立浦添高等学校" : {
+         "location" : "沖縄県浦添市内間3丁目26番1号",
          "location_area" : "浦添市",
+         "location_zipcode" : "901-2121",
          "owner_type" : "県立",
-         "short_name" : "浦添高校"
+         "senior_high_school_code" : "47106C",
+         "short_name" : "浦添高校",
+         "url" : "http://www.urasoe-h.open.ed.jp/"
       },
       "沖縄県立球陽高等学校" : {
+         "location" : "沖縄県沖縄市南桃原一丁目10番1号",
          "location_area" : "沖縄市",
+         "location_wikipedia_latlon" : "|26|19|8.4|N|127|47|5.4|E|",
+         "location_zipcode" : "904-0035",
          "owner_type" : "県立",
-         "short_name" : "球陽高校"
+         "school_area" : "県全域",
+         "senior_high_school_code" : "47160H",
+         "short_name" : "球陽高校",
+         "url" : "http://www.kyuyo-h.open.ed.jp"
       },
       "沖縄県立真和志高等学校" : {
+         "location" : "沖縄県那覇市真地248番地",
          "location_area" : "那覇市",
+         "location_zipcode" : "902-0072",
          "owner_type" : "県立",
-         "short_name" : "真和志高校"
+         "senior_high_school_code" : "47107A",
+         "short_name" : "真和志高校",
+         "url" : "http://www.mawashi-h.open.ed.jp/"
       },
       "沖縄県立知念高等学校" : {
+         "location" : "沖縄県島尻郡与那原町字与那原11番地",
          "location_area" : "島尻郡与那原町",
+         "location_zipcode" : "901-1303",
          "owner_type" : "県立",
-         "short_name" : "知念高校"
+         "senior_high_school_code" : "47102A",
+         "short_name" : "知念高校",
+         "url" : "http://www.chinen-h.open.ed.jp/"
       },
       "沖縄県立石川高等学校" : {
+         "location" : "沖縄県うるま市石川伊波861番地",
          "location_area" : "うるま市",
+         "location_wikipedia_latlon" : "|26|24|55|N|127|49|14.2|E|",
+         "location_zipcode" : "904-1115",
          "owner_type" : "県立",
-         "short_name" : "石川高校"
+         "senior_high_school_code" : "47113F",
+         "short_name" : "石川高校",
+         "url" : "http://www.ishikawa-h.open.ed.jp/"
       },
       "沖縄県立糸満高等学校" : {
+         "location" : "沖縄県糸満市字糸満1696-1",
          "location_area" : "糸満市",
+         "location_zipcode" : "901-0361",
          "owner_type" : "県立",
-         "short_name" : "糸満高校"
+         "school_area" : "島尻学区",
+         "senior_high_school_code" : "47101B",
+         "short_name" : "糸満高校",
+         "url" : "http://www.itoman-h.open.ed.jp/"
       },
       "沖縄県立美来工科高等学校" : {
+         "location" : "沖縄県沖縄市越来3-17-1",
          "location_area" : "沖縄市",
+         "location_wikipedia_latlon" : "|26|20|53.4|N|127|48|33.9|E|",
+         "location_zipcode" : "904-0001",
          "owner_type" : "県立",
-         "short_name" : "美来工科高校"
+         "senior_high_school_code" : "47125K",
+         "short_name" : "美来工科高校",
+         "url" : "http://www.mirai-th.open.ed.jp/"
       },
       "沖縄県立美里工業高等学校" : {
+         "location" : "沖縄県沖縄市字泡瀬5丁目42-2",
          "location_area" : "沖縄市",
+         "location_wikipedia_latlon" : "|26|19|31.9|N|127|49|47.3|E|",
+         "location_zipcode" : "904-2236",
          "owner_type" : "県立",
-         "short_name" : "美里工業高校"
+         "senior_high_school_code" : "47129B",
+         "short_name" : "美里工業高校",
+         "url" : "http://www.misato-th.open.ed.jp/"
       },
       "沖縄県立美里高等学校" : {
+         "location" : "沖縄県沖縄市松本2丁目5番1号",
          "location_area" : "沖縄市",
+         "location_wikipedia_latlon" : "|26|21|17.6|N|127|49|12.1|E|",
+         "location_zipcode" : "904-2151",
          "owner_type" : "県立",
-         "short_name" : "美里高校"
+         "senior_high_school_code" : "47146B",
+         "short_name" : "美里高校",
+         "url" : "http://www.misato-h.open.ed.jp/"
       },
       "沖縄県立西原高等学校" : {
+         "location" : "沖縄県中頭郡西原町翁長610",
          "location_area" : "中頭郡西原町",
+         "location_wikipedia_latlon" : "|26|14|20.1|N|127|45|3.8|E|",
+         "location_zipcode" : "903-0117",
          "owner_type" : "県立",
-         "short_name" : "西原高校"
+         "school_area" : "那覇学区",
+         "senior_high_school_code" : "47141A",
+         "short_name" : "西原高校",
+         "url" : "http://www.nishihara-h.open.ed.jp/hp-top/index.html"
       },
       "沖縄県立読谷高等学校" : {
+         "location" : "沖縄県読谷村字伊良皆198番地",
          "location_area" : "中頭郡読谷村",
+         "location_zipcode" : "904-0303",
          "owner_type" : "県立",
-         "short_name" : "読谷高校"
+         "senior_high_school_code" : "47111K",
+         "short_name" : "読谷高校",
+         "url" : "http://www.yomitan-h.open.ed.jp/"
       },
       "沖縄県立豊見城南高等学校" : {
          "location_area" : "豊見城市",
@@ -269,63 +493,123 @@
          "short_name" : "豊見城南高校"
       },
       "沖縄県立豊見城高等学校" : {
+         "location" : "沖縄県豊見城市字真玉橋217",
          "location_area" : "豊見城市",
+         "location_wikipedia_latlon" : "|26|11|33.3|N|127|41|22.3|E|",
+         "location_zipcode" : "901-0201",
          "owner_type" : "県立",
-         "short_name" : "豊見城高校"
+         "senior_high_school_code" : "47108K",
+         "short_name" : "豊見城高校",
+         "url" : "http://www.tomishiro-h.open.ed.jp/"
       },
       "沖縄県立辺土名高等学校" : {
+         "location" : "沖縄県国頭郡大宜味村饒波2015",
          "location_area" : "国頭郡大宜味村",
+         "location_wikipedia_latlon" : "|26|42|11.5|N|128|7|51.4|E|",
+         "location_zipcode" : "901-2302",
          "owner_type" : "県立",
-         "short_name" : "辺土名高校"
+         "school_area" : "国頭学区",
+         "senior_high_school_code" : "47118G",
+         "short_name" : "辺土名高校",
+         "url" : "http://www.hentona-h.open.ed.jp/"
       },
       "沖縄県立那覇商業高等学校" : {
+         "location" : "沖縄県那覇市松山1丁目16番地1号",
          "location_area" : "那覇市",
+         "location_zipcode" : "900-8557",
          "owner_type" : "県立",
-         "short_name" : "那覇商業高校"
+         "senior_high_school_code" : "47122E",
+         "short_name" : "那覇商業高校",
+         "url" : "http://www.naha-ch.open.ed.jp/"
       },
       "沖縄県立那覇国際高等学校" : {
+         "location" : "沖縄県那覇市天久1-29-1",
          "location_area" : "那覇市",
+         "location_wikipedia_latlon" : "|26|13|53.9|N|127|41|36.2|E|",
+         "location_zipcode" : "900-0005",
          "owner_type" : "県立",
-         "short_name" : "那覇国際高校"
+         "school_area" : "県内全域",
+         "senior_high_school_code" : "47162D",
+         "short_name" : "那覇国際高校",
+         "url" : "http://www.nahakokusai-h.open.ed.jp/"
       },
       "沖縄県立那覇工業高等学校" : {
+         "location" : "沖縄県浦添市勢理客4丁目22番1号",
          "location_area" : "浦添市",
+         "location_wikipedia_latlon" : "|26|14|37.3|N|127|41|12.5|E|",
+         "location_zipcode" : "901-2122",
          "owner_type" : "県立",
-         "short_name" : "那覇工業高校"
+         "senior_high_school_code" : "47127F",
+         "short_name" : "那覇工業高校",
+         "url" : "http://www.naha-th.open.ed.jp/"
       },
       "沖縄県立那覇西高等学校" : {
+         "location" : "沖縄県那覇市金城3-5-1",
          "location_area" : "那覇市",
+         "location_wikipedia_latlon" : "|26|12|1.9|N|127|39|54.1|E|",
+         "location_zipcode" : "901-0155",
          "owner_type" : "県立",
-         "short_name" : "那覇西高校"
+         "senior_high_school_code" : "47159D",
+         "short_name" : "那覇西高校",
+         "url" : "http://www.nahanishi-h.open.ed.jp/"
       },
       "沖縄県立那覇高等学校" : {
+         "location" : "沖縄県那覇市松尾1丁目21番44号",
          "location_area" : "那覇市",
+         "location_wikipedia_latlon" : "|26|12|41.2|N|127|41|6.2|E|",
+         "location_zipcode" : "900-8555",
          "owner_type" : "県立",
-         "short_name" : "那覇高校"
+         "school_area" : "那覇学区",
+         "senior_high_school_code" : "47103J",
+         "short_name" : "那覇高校",
+         "url" : "http://www.naha-h.open.ed.jp/"
       },
       "沖縄県立開邦高等学校" : {
+         "location" : "沖縄県島尻郡南風原町字新川646番地",
          "location_area" : "島尻郡南風原町",
+         "location_wikipedia_latlon" : "|26|13|2.9|N|127|43|57.2|E|",
+         "location_zipcode" : "901-1105",
          "owner_type" : "県立",
-         "short_name" : "開邦高校"
+         "school_area" : "県全域",
+         "senior_high_school_code" : "47157H",
+         "short_name" : "開邦高校",
+         "url" : "http://www.kaiho-h.open.ed.jp/"
       },
       "沖縄県立陽明高等学校" : {
+         "location" : "沖縄県浦添市大平488",
          "location_area" : "浦添市",
+         "location_wikipedia_latlon" : "|26|14|38.7|N|127|42|42.6|E|",
+         "location_zipcode" : "904-0103",
          "owner_type" : "県立",
-         "short_name" : "陽明高校"
+         "senior_high_school_code" : "47147A",
+         "short_name" : "陽明高校",
+         "url" : "http://www.yomei-h.open.ed.jp/"
       },
       "沖縄県立首里東高等学校" : {
+         "location" : "沖縄県那覇市首里石嶺3丁目178番地",
          "location_area" : "那覇市",
+         "location_zipcode" : "903-0804",
          "owner_type" : "県立",
-         "short_name" : "首里東高校"
+         "senior_high_school_code" : "47155A",
+         "short_name" : "首里東高校",
+         "url" : "http://www.shurihigashi-h.open.ed.jp/"
       },
       "沖縄県立首里高等学校" : {
+         "location" : "沖縄県那覇市首里真和志町2-43",
          "location_area" : "那覇市",
+         "location_zipcode" : "903-0816",
          "owner_type" : "県立",
-         "short_name" : "首里高校"
+         "senior_high_school_code" : "47104G",
+         "short_name" : "首里高校",
+         "url" : "http://www.shuri-h.open.ed.jp/"
       },
       "興南高等学校" : {
+         "location" : "沖縄県那覇市古島1-7-1",
+         "location_zipcode" : "902-0061",
          "owner_type" : "私立",
+         "senior_high_school_code" : "47503D",
          "short_name" : "興南高校",
+         "url" : "http://senior.konan-h.ed.jp/index.jsp",
          "wikipedia_name" : "興南中学校・高等学校"
       }
    }

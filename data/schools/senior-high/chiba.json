@@ -7,40 +7,72 @@
    },
    "senior_high_schools" : {
       "あずさ第一高等学校" : {
+         "location" : "千葉県野田市野田405番地1",
          "location_area" : "野田市",
+         "location_zipcode" : "278-0037",
          "owner_type" : "私立",
-         "short_name" : "あずさ第一高校"
+         "senior_high_school_code" : "12563G",
+         "short_name" : "あずさ第一高校",
+         "url" : "http://www.azusa1.ed.jp/"
       },
       "わせがく高等学校" : {
+         "location" : "千葉県香取郡多古町飯笹字向台252-2",
          "location_area" : "香取郡多古町",
+         "location_zipcode" : "289-2231",
          "owner_type" : "私立",
-         "short_name" : "わせがく高校"
+         "senior_high_school_code" : "12560B",
+         "short_name" : "わせがく高校",
+         "url" : "http://www.wasegaku.ac.jp/index.html"
       },
       "クラーク記念国際高等学校千葉キャンパス" : {
+         "location" : "北海道深川市納内町3丁目2-40",
          "location_area" : "千葉市中央区",
+         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
+         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "01556D",
          "short_name" : "クラーク記念国際高校千葉キャンパス",
+         "url" : "http://www.clark.ed.jp/",
          "wikipedia_name" : "クラーク記念国際高等学校"
       },
       "不二女子高等学校" : {
+         "location" : "千葉県市川市八幡四丁目5番7号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|43|29.1|N|139|55|45.4|E|",
+         "location_zipcode" : "272-0021",
          "owner_type" : "私立",
-         "short_name" : "不二女子高校"
+         "senior_high_school_code" : "12538F",
+         "short_name" : "不二女子高校",
+         "url" : "http://www.fujijyoshi.ed.jp/"
       },
       "中央学院高等学校" : {
+         "location" : "千葉県我孫子市都部向山765",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1131",
          "owner_type" : "私立",
-         "short_name" : "中央学院高校"
+         "senior_high_school_code" : "12532G",
+         "short_name" : "中央学院高校",
+         "url" : "http://www.chuogakuin-h.ed.jp/"
       },
       "中山学園高等学校" : {
+         "location" : "千葉県船橋市本町3-34-10",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|41|46.1|N|139|59|9.9|E|",
+         "location_zipcode" : "273-0005",
          "owner_type" : "私立",
-         "short_name" : "中山学園高校"
+         "senior_high_school_code" : "12562J",
+         "short_name" : "中山学園高校",
+         "url" : "http://nakayama-gakuen.ac.jp/ngh/"
       },
       "二松學舍大学附属沼南高等学校" : {
+         "location" : "千葉県柏市大井2590",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|51|7.3|N|140|0|42.8|E|",
+         "location_zipcode" : "277-0902",
          "owner_type" : "私立",
-         "short_name" : "二松學舍大学附属沼南高校"
+         "senior_high_school_code" : "12531J",
+         "short_name" : "二松學舍大学附属沼南高校",
+         "url" : "http://nisho-shonan.ed.jp/"
       },
       "八千代松陰高等学校" : {
          "location_area" : "八千代市",
@@ -48,330 +80,620 @@
          "short_name" : "八千代松陰高校"
       },
       "千葉商科大学付属高等学校" : {
+         "location" : "千葉県市川市中国分二丁目10番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|44|58.7|N|139|54|39.8|E|",
+         "location_zipcode" : "272-0835",
          "owner_type" : "私立",
-         "short_name" : "千葉商科大学付属高校"
+         "senior_high_school_code" : "12519K",
+         "short_name" : "千葉商科大学付属高校",
+         "url" : "http://www.hs.cuc.ac.jp/"
       },
       "千葉国際高等学校" : {
+         "location" : "千葉県君津市三直1348‐1",
          "location_area" : "君津市",
+         "location_zipcode" : "299-1172",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12556D",
          "short_name" : "千葉国際高校",
+         "url" : "http://www.chiba-kokusai.ed.jp/",
          "wikipedia_name" : "千葉国際中学校・高等学校"
       },
       "千葉学芸高等学校" : {
+         "location" : "千葉県東金市田間1999",
          "location_area" : "東金市",
+         "location_zipcode" : "283-0005",
          "owner_type" : "私立",
-         "short_name" : "千葉学芸高校"
+         "senior_high_school_code" : "12520C",
+         "short_name" : "千葉学芸高校",
+         "url" : "http://www.cgh.ed.jp/"
       },
       "千葉市立千葉高等学校" : {
+         "location" : "千葉県千葉市稲毛区小仲台九丁目46番1号",
+         "location_zipcode" : "263-0043",
          "owner_type" : "市立",
-         "short_name" : "千葉高校"
+         "senior_high_school_code" : "12193C",
+         "short_name" : "千葉高校",
+         "url" : "http://www.ich.ed.jp/"
       },
       "千葉市立稲毛高等学校" : {
          "owner_type" : "市立",
          "short_name" : "稲毛高校"
       },
       "千葉敬愛高等学校" : {
+         "location" : "千葉県四街道市四街道1522",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0005",
          "owner_type" : "私立",
-         "short_name" : "千葉敬愛高校"
+         "senior_high_school_code" : "12504A",
+         "short_name" : "千葉敬愛高校",
+         "url" : "http://www.keiai.ed.jp/"
       },
       "千葉日本大学第一高等学校" : {
+         "location" : "千葉県船橋市習志野台8丁目34番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|5.4|N|140|3|31.3|E|",
+         "location_zipcode" : "274-0063",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12530A",
          "short_name" : "千葉日本大学第一高校",
+         "url" : "http://www.chibanichi.ed.jp/",
          "wikipedia_name" : "千葉日本大学第一中学校・高等学校"
       },
       "千葉明徳高等学校" : {
+         "location" : "千葉県千葉市中央区南生実町1412番地",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-8685",
          "owner_type" : "私立",
-         "short_name" : "千葉明徳高校"
+         "short_name" : "千葉明徳高校",
+         "url" : "http://www.chibameitoku.ac.jp/koukou.html"
       },
       "千葉県安房西高等学校" : {
+         "location" : "千葉県館山市北条2311-3",
          "location_area" : "館山市",
+         "location_wikipedia_latlon" : "|34|59|49.6|N|139|51|39.6|E|",
+         "location_zipcode" : "294-0045",
          "owner_type" : "私立",
-         "short_name" : "千葉県安房西高校"
+         "senior_high_school_code" : "12509B",
+         "short_name" : "千葉県安房西高校",
+         "url" : "http://www.anh.ed.jp/"
       },
       "千葉県立一宮商業高等学校" : {
+         "location" : "千葉県長生郡一宮町一宮3287",
          "location_area" : "長生郡一宮町",
+         "location_zipcode" : "299-4301",
          "owner_type" : "県立",
-         "short_name" : "一宮商業高校"
+         "senior_high_school_code" : "12165H",
+         "short_name" : "一宮商業高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-ichinomiya-ch/"
       },
       "千葉県立上総高等学校" : {
+         "location" : "千葉県君津市上957",
          "location_area" : "君津市",
+         "location_wikipedia_latlon" : "|35|18|30.69|N|139|57|40.35|E|",
+         "location_zipcode" : "299-1107",
          "owner_type" : "県立",
-         "short_name" : "上総高校"
+         "senior_high_school_code" : "12183F",
+         "short_name" : "上総高校",
+         "url" : "http://saas01.netcommons.net/kazusa/"
       },
       "千葉県立下総高等学校" : {
+         "location" : "千葉県成田市名古屋247",
          "location_area" : "成田市",
+         "location_zipcode" : "289-0116",
          "owner_type" : "県立",
-         "short_name" : "下総高校"
+         "senior_high_school_code" : "12143G",
+         "short_name" : "下総高校",
+         "url" : "http://www.chiba-c.ed.jp/shimofusa-h/"
       },
       "千葉県立九十九里高等学校" : {
+         "location" : "千葉県山武郡九十九里町片貝1910",
          "location_area" : "山武郡九十九里町",
+         "location_zipcode" : "283-0104",
          "owner_type" : "県立",
-         "short_name" : "九十九里高校"
+         "senior_high_school_code" : "12160G",
+         "short_name" : "九十九里高校",
+         "url" : "http://www.chiba-c.ed.jp/kujukuri-h/"
       },
       "千葉県立京葉工業高等学校" : {
+         "location" : "千葉県千葉市稲毛区穴川四丁目11番32号",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0024",
          "owner_type" : "県立",
-         "short_name" : "京葉工業高校"
+         "senior_high_school_code" : "12105D",
+         "short_name" : "京葉工業高校",
+         "url" : "http://www.chiba-c.ed.jp/keiyo-th/"
       },
       "千葉県立京葉高等学校" : {
+         "location" : "千葉県市原市島野222",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0034",
          "owner_type" : "県立",
-         "short_name" : "京葉高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "12188G",
+         "short_name" : "京葉高校",
+         "url" : "http://www.chiba-c.ed.jp/keiyo-h/"
       },
       "千葉県立佐倉南高等学校" : {
+         "location" : "千葉県佐倉市太田1956",
          "location_area" : "佐倉市",
+         "location_zipcode" : "285-0808",
          "owner_type" : "県立",
-         "short_name" : "佐倉南高校"
+         "school_area" : "第4学区",
+         "senior_high_school_code" : "12238G",
+         "short_name" : "佐倉南高校",
+         "url" : "http://www.sanan.jp/"
       },
       "千葉県立佐倉東高等学校" : {
+         "location" : "千葉県佐倉市城内町278番地",
          "location_area" : "佐倉市",
+         "location_wikipedia_latlon" : "|35|43|8|N|140|13|14.7|E|",
+         "location_zipcode" : "285-0017",
          "owner_type" : "県立",
-         "short_name" : "佐倉東高校"
+         "senior_high_school_code" : "12139J",
+         "short_name" : "佐倉東高校",
+         "url" : "http://www.chiba-c.ed.jp/sakurahigashi-h/"
       },
       "千葉県立佐倉西高等学校" : {
+         "location" : "千葉県佐倉市下志津263",
          "location_area" : "佐倉市",
+         "location_wikipedia_latlon" : "|35|43|5.3|N|140|10|13|E|",
+         "location_zipcode" : "285-0841",
          "owner_type" : "県立",
-         "short_name" : "佐倉西高校"
+         "school_area" : "第4学区",
+         "senior_high_school_code" : "12201H",
+         "short_name" : "佐倉西高校",
+         "url" : "http://www.chiba-c.ed.jp/sakuranishi-h/"
       },
       "千葉県立佐倉高等学校" : {
+         "location" : "千葉県佐倉市鍋山町18",
          "location_area" : "佐倉市",
+         "location_wikipedia_latlon" : "|35|43|25.5|N|140|14|12.3|E|",
+         "location_zipcode" : "285-0033",
          "owner_type" : "県立",
-         "short_name" : "佐倉高校"
+         "school_area" : "千葉県第4",
+         "senior_high_school_code" : "12138A",
+         "short_name" : "佐倉高校",
+         "url" : "http://www.chiba-c.ed.jp/sakura-h/"
       },
       "千葉県立佐原白楊高等学校" : {
+         "location" : "千葉県香取市佐原イ861番地",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0003",
          "owner_type" : "県立",
-         "short_name" : "佐原白楊高校"
+         "school_area" : "第5学区",
+         "senior_high_school_code" : "12145C",
+         "short_name" : "佐原白楊高校",
+         "url" : "http://www.chiba-c.ed.jp/sawarahakuyo-h/"
       },
       "千葉県立佐原高等学校" : {
+         "location" : "千葉県香取市佐原イ2685",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0003",
          "owner_type" : "県立",
-         "short_name" : "佐原高校"
+         "senior_high_school_code" : "12144E",
+         "short_name" : "佐原高校",
+         "url" : "http://www.chiba-c.ed.jp/sawara-h/"
       },
       "千葉県立八千代東高等学校" : {
+         "location" : "千葉県八千代市村上881-1",
          "location_area" : "八千代市",
+         "location_wikipedia_latlon" : "|35|44|7|N|140|7|25.4|E|",
+         "location_zipcode" : "274-0056",
          "owner_type" : "県立",
-         "short_name" : "八千代東高校"
+         "senior_high_school_code" : "12208E",
+         "short_name" : "八千代東高校",
+         "url" : "http://www.chiba-c.ed.jp/yachiyohigashi-h/"
       },
       "千葉県立八千代西高等学校" : {
+         "location" : "千葉県八千代市吉橋2405-1",
          "location_area" : "八千代市",
+         "location_wikipedia_latlon" : "|35|44|42.8|N|140|4|33|E|",
+         "location_zipcode" : "276-0047",
          "owner_type" : "県立",
-         "short_name" : "八千代西高校"
+         "senior_high_school_code" : "12221B",
+         "short_name" : "八千代西高校",
+         "url" : "http://www.chiba-c.ed.jp/yachiyonishi-h/"
       },
       "千葉県立八千代高等学校" : {
+         "location" : "千葉県八千代市勝田台南一丁目1番1号",
          "location_area" : "八千代市",
+         "location_wikipedia_latlon" : "|35|42|51.9|N|140|7|18.4|E|",
+         "location_zipcode" : "276-0056",
          "owner_type" : "県立",
-         "short_name" : "八千代高校"
+         "senior_high_school_code" : "12111J",
+         "short_name" : "八千代高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-yachiyo-h/"
       },
       "千葉県立八街高等学校" : {
+         "location" : "千葉県八街市八街ろ145-3",
          "location_area" : "八街市",
+         "location_zipcode" : "289-1144",
          "owner_type" : "県立",
-         "short_name" : "八街高校"
+         "senior_high_school_code" : "12140B",
+         "short_name" : "八街高校",
+         "url" : "http://www.chiba-c.ed.jp/yachimata/index.html"
       },
       "千葉県立勝浦若潮高等学校" : {
+         "location" : "千葉県勝浦市新官1380",
          "location_area" : "勝浦市",
+         "location_wikipedia_latlon" : "|35|9|20|N|140|19|15.9|E|",
+         "location_zipcode" : "299-5224",
          "owner_type" : "県立",
-         "short_name" : "勝浦若潮高校"
+         "school_area" : "全県下",
+         "senior_high_school_code" : "12171B",
+         "short_name" : "勝浦若潮高校",
+         "url" : "http://saas01.netcommons.net/wakashiohs/htdocs/"
       },
       "千葉県立匝瑳高等学校" : {
+         "location" : "千葉県匝瑳市八日市場イ1630",
          "location_area" : "匝瑳市",
+         "location_zipcode" : "289-2144",
          "owner_type" : "県立",
-         "short_name" : "匝瑳高校"
+         "school_area" : "第5学区",
+         "senior_high_school_code" : "12153D",
+         "short_name" : "匝瑳高校",
+         "url" : "http://www.chiba-c.ed.jp/sosa-h/index.htm"
       },
       "千葉県立千城台高等学校" : {
+         "location" : "千葉県千葉市若葉区千城台西二丁目1番1号",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "264-0004",
          "owner_type" : "県立",
-         "short_name" : "千城台高校"
+         "school_area" : "第1学区",
+         "senior_high_school_code" : "12202F",
+         "short_name" : "千城台高校",
+         "url" : "http://www.chiba-c.ed.jp/chishirodai-h/"
       },
       "千葉県立千葉北高等学校" : {
+         "location" : "千葉県千葉市稲毛区長沼町153",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0005",
          "owner_type" : "県立",
-         "short_name" : "千葉北高校"
+         "senior_high_school_code" : "12109G",
+         "short_name" : "千葉北高校",
+         "url" : "http://www.chiba-c.ed.jp/chibakita-h/"
       },
       "千葉県立千葉南高等学校" : {
+         "location" : "千葉県千葉市中央区花輪町45-3",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0803",
          "owner_type" : "県立",
-         "short_name" : "千葉南高校"
+         "senior_high_school_code" : "12107A",
+         "short_name" : "千葉南高校",
+         "url" : "http://www.chiba-c.ed.jp/chibaminami-h/"
       },
       "千葉県立千葉商業高等学校" : {
+         "location" : "千葉県千葉市中央区松波二丁目22番48号",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0044",
          "owner_type" : "県立",
-         "short_name" : "千葉商業高校"
+         "senior_high_school_code" : "12104F",
+         "short_name" : "千葉商業高校",
+         "url" : "http://www.chiba-c.ed.jp/chiba-ch/"
       },
       "千葉県立千葉大宮高等学校" : {
+         "location" : "千葉県千葉市若葉区大宮町2699-1",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "264-0016",
          "owner_type" : "県立",
-         "short_name" : "千葉大宮高校"
+         "senior_high_school_code" : "12231K",
+         "short_name" : "千葉大宮高校",
+         "url" : "http://www.chiba-c.ed.jp/chibaohmiya-h/"
       },
       "千葉県立千葉女子高等学校" : {
+         "location" : "千葉県千葉市稲毛区小仲台五丁目10番1号",
          "location_area" : "千葉市稲毛区",
+         "location_wikipedia_latlon" : "|35|38|26.9|N|140|6|2.5|E|",
+         "location_zipcode" : "236-0043",
          "owner_type" : "県立",
-         "short_name" : "千葉女子高校"
+         "senior_high_school_code" : "12102K",
+         "short_name" : "千葉女子高校",
+         "url" : "http://www.chiba-c.ed.jp/chibajoshi-h/"
       },
       "千葉県立千葉工業高等学校" : {
+         "location" : "千葉県千葉市中央区今井町1478",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0853",
          "owner_type" : "県立",
-         "short_name" : "千葉工業高校"
+         "senior_high_school_code" : "12106B",
+         "short_name" : "千葉工業高校",
+         "url" : "http://www.chiba-c.ed.jp/chiba-th/"
       },
       "千葉県立千葉東高等学校" : {
+         "location" : "千葉県千葉市稲毛区轟町一丁目18番52号",
          "location_area" : "千葉市稲毛区",
+         "location_wikipedia_latlon" : "|35|37|31.9|N|140|6|39.4|E|",
+         "location_zipcode" : "263-0021",
          "owner_type" : "県立",
-         "short_name" : "千葉東高校"
+         "senior_high_school_code" : "12103H",
+         "short_name" : "千葉東高校",
+         "url" : "http://www.chiba-c.ed.jp/chibahigashi-h/"
       },
       "千葉県立千葉西高等学校" : {
+         "location" : "千葉県千葉市美浜区磯辺三丁目30番3号",
          "location_area" : "千葉市美浜区",
+         "location_zipcode" : "261-0012",
          "owner_type" : "県立",
-         "short_name" : "千葉西高校"
+         "senior_high_school_code" : "12240J",
+         "short_name" : "千葉西高校",
+         "url" : "http://www.chiba-c.ed.jp/chibanishi-h/"
       },
       "千葉県立千葉高等学校" : {
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0853|所在地 = [[千葉県]][[千葉市]][[中央区_(千葉市)|中央区]]葛城一丁目5番2号",
          "owner_type" : "県立",
+         "senior_high_school_code" : "12101A",
          "short_name" : "千葉高校",
+         "url" : "http://www.chiba-c.ed.jp/chiba-h/",
          "wikipedia_name" : "千葉県立千葉中学校・高等学校"
       },
       "千葉県立印旛明誠高等学校" : {
+         "location" : "千葉県印西市草深1420-9",
          "location_area" : "印西市",
+         "location_zipcode" : "270-1337",
          "owner_type" : "県立",
-         "short_name" : "印旛明誠高校"
+         "school_area" : "千葉県第4学区",
+         "senior_high_school_code" : "12136D",
+         "short_name" : "印旛明誠高校",
+         "url" : "http://www.chiba-c.ed.jp/inba-h/"
       },
       "千葉県立君津商業高等学校" : {
+         "location" : "千葉県富津市岩瀬1172",
          "location_area" : "富津市",
+         "location_zipcode" : "293-0043",
          "owner_type" : "県立",
-         "short_name" : "君津商業高校"
+         "senior_high_school_code" : "12179H",
+         "short_name" : "君津商業高校",
+         "url" : "http://www.chiba-c.ed.jp/kimisho/"
       },
       "千葉県立君津青葉高等学校" : {
+         "location" : "千葉県君津市青柳48",
          "location_area" : "君津市",
+         "location_wikipedia_latlon" : "|35|18|3.43|N|140|4|18.1|E|",
+         "location_zipcode" : "292-0454",
          "owner_type" : "県立",
-         "short_name" : "君津青葉高校"
+         "senior_high_school_code" : "12184D",
+         "short_name" : "君津青葉高校",
+         "url" : "http://www.chiba-c.ed.jp/kimitsuaoba-h/"
       },
       "千葉県立君津高等学校" : {
+         "location" : "千葉県君津市坂田454番地",
          "location_area" : "君津市",
+         "location_wikipedia_latlon" : "|35|20|30.32|N|139|53|13.1|E|",
+         "location_zipcode" : "299-1142",
          "owner_type" : "県立",
-         "short_name" : "君津高校"
+         "senior_high_school_code" : "12182H",
+         "short_name" : "君津高校",
+         "url" : "http://www.chiba-c.ed.jp/kimitsu-h/"
       },
       "千葉県立四街道北高等学校" : {
+         "location" : "千葉県四街道市栗山1055-4",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0027",
          "owner_type" : "県立",
-         "short_name" : "四街道北高校"
+         "school_area" : "第4学区",
+         "senior_high_school_code" : "12249B",
+         "short_name" : "四街道北高校",
+         "url" : "http://www.chiba-c.ed.jp/yotsukaidokita-h/"
       },
       "千葉県立四街道高等学校" : {
+         "location" : "千葉県四街道市鹿渡809-2",
          "location_area" : "四街道市",
+         "location_zipcode" : "284-0003",
          "owner_type" : "県立",
-         "short_name" : "四街道高校"
+         "senior_high_school_code" : "12141A",
+         "short_name" : "四街道高校",
+         "url" : "http://www.chiba-c.ed.jp/yotsukaido-h/"
       },
       "千葉県立国分高等学校" : {
+         "location" : "千葉県市川市稲越町310",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|45|13.2|N|139|55|40|E|",
+         "location_zipcode" : "272-0831",
          "owner_type" : "県立",
-         "short_name" : "国分高校"
+         "senior_high_school_code" : "12121F",
+         "short_name" : "国分高校",
+         "url" : "http://www.chiba-c.ed.jp/kokubun-h/"
       },
       "千葉県立国府台高等学校" : {
+         "location" : "千葉県市川市国府台二丁目4番1号",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0827",
          "owner_type" : "県立",
-         "short_name" : "国府台高校"
+         "senior_high_school_code" : "12120H",
+         "short_name" : "国府台高校",
+         "url" : "http://www.chiba-c.ed.jp/kohnodai-h/"
       },
       "千葉県立土気高等学校" : {
+         "location" : "千葉県千葉市緑区あすみが丘東二丁目24番1号",
          "location_area" : "千葉市緑区",
+         "location_zipcode" : "267-0061",
          "owner_type" : "県立",
-         "short_name" : "土気高校"
+         "senior_high_school_code" : "12232H",
+         "short_name" : "土気高校",
+         "url" : "http://www.chiba-c.ed.jp/toke-hs/"
       },
       "千葉県立多古高等学校" : {
+         "location" : "千葉県香取郡多古町多古3236",
          "location_area" : "香取郡多古町",
+         "location_zipcode" : "289-2241",
          "owner_type" : "県立",
-         "short_name" : "多古高校"
+         "senior_high_school_code" : "12147K",
+         "short_name" : "多古高校",
+         "url" : "http://www.chiba-c.ed.jp/tako-h/"
       },
       "千葉県立大原高等学校" : {
+         "location" : "千葉県いすみ市大原7985",
          "location_area" : "いすみ市",
+         "location_zipcode" : "298-0004",
          "owner_type" : "県立",
-         "short_name" : "大原高校"
+         "senior_high_school_code" : "12168B",
+         "short_name" : "大原高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-oohara-h/"
       },
       "千葉県立大多喜高等学校" : {
+         "location" : "千葉県夷隅郡大多喜町大多喜481",
          "location_area" : "夷隅郡大多喜町",
+         "location_wikipedia_latlon" : "|35|17|7.3|N|140|14|27.2|E|",
+         "location_zipcode" : "298-0216",
          "owner_type" : "県立",
-         "short_name" : "大多喜高校"
+         "senior_high_school_code" : "12166F",
+         "short_name" : "大多喜高校",
+         "url" : "http://www.chiba-c.ed.jp/otaki-h/"
       },
       "千葉県立大網高等学校" : {
+         "location" : "千葉県山武郡大網白里町大網435番地1",
          "location_area" : "山武郡大網白里町",
+         "location_zipcode" : "299-3251",
          "owner_type" : "県立",
-         "short_name" : "大網高校"
+         "senior_high_school_code" : "12158E",
+         "short_name" : "大網高校",
+         "url" : "http://saas01.netcommons.net/oami/htdocs/"
       },
       "千葉県立天羽高等学校" : {
+         "location" : "千葉県富津市数馬229",
          "location_area" : "富津市",
+         "location_zipcode" : "299-1606",
          "owner_type" : "県立",
-         "short_name" : "天羽高校"
+         "senior_high_school_code" : "12178K",
+         "short_name" : "天羽高校",
+         "url" : "http://www.chiba-c.ed.jp/amaha-h/"
       },
       "千葉県立姉崎高等学校" : {
+         "location" : "千葉県市原市姉崎2632",
          "location_area" : "市原市",
+         "location_wikipedia_latlon" : "|35|28|30.7|N|140|3|28.5|E|",
+         "location_zipcode" : "299-0111",
          "owner_type" : "県立",
-         "short_name" : "姉崎高校"
+         "senior_high_school_code" : "12196H",
+         "short_name" : "姉崎高校",
+         "url" : "http://www.chiba-c.ed.jp/anesaki-h/"
       },
       "千葉県立安房拓心高等学校" : {
+         "location" : "千葉県南房総市和田町海発1604",
          "location_area" : "南房総市",
+         "location_wikipedia_latlon" : "|35|1|13.7|N|139|59|7.4|E|",
+         "location_zipcode" : "299-2795",
          "owner_type" : "県立",
-         "short_name" : "安房拓心高校"
+         "senior_high_school_code" : "12173J",
+         "short_name" : "安房拓心高校",
+         "url" : "http://www.boso.net/takusin/index.html"
       },
       "千葉県立安房高等学校" : {
+         "location" : "千葉県館山市八幡385番地",
          "location_area" : "館山市",
+         "location_wikipedia_latlon" : "|35|0|2|N|139|51|59|E|",
+         "location_zipcode" : "294-0047",
          "owner_type" : "県立",
-         "short_name" : "安房高校"
+         "school_area" : "第8学区",
+         "senior_high_school_code" : "12174G",
+         "short_name" : "安房高校",
+         "url" : "http://www.chiba-c.ed.jp/awakou/"
       },
       "千葉県立実籾高等学校" : {
+         "location" : "千葉県習志野市実籾本郷22-1",
          "location_area" : "習志野市",
+         "location_wikipedia_latlon" : "|35|40|56.5|N|140|3|48.3|E|",
+         "location_zipcode" : "274-0056",
          "owner_type" : "県立",
-         "short_name" : "実籾高校"
+         "senior_high_school_code" : "12233F",
+         "short_name" : "実籾高校",
+         "url" : "http://www.chiba-c.ed.jp/mimomihs/"
       },
       "千葉県立富里高等学校" : {
+         "location" : "千葉県富里市七栄181-1",
          "location_area" : "富里市",
+         "location_zipcode" : "286-0221",
          "owner_type" : "県立",
-         "short_name" : "富里高校"
+         "senior_high_school_code" : "12251D",
+         "short_name" : "富里高校",
+         "url" : "http://www.chiba-c.ed.jp/tomisato-h/"
       },
       "千葉県立小見川高等学校" : {
+         "location" : "千葉県香取市小見川4735番地の1",
          "location_area" : "香取市",
+         "location_zipcode" : "289-0313",
          "owner_type" : "県立",
-         "short_name" : "小見川高校"
+         "school_area" : "第5学区",
+         "senior_high_school_code" : "12146A",
+         "short_name" : "小見川高校",
+         "url" : "http://www.chiba-c.ed.jp/omigawa-h/"
       },
       "千葉県立小金高等学校" : {
+         "location" : "千葉県松戸市新松戸北二丁目14番1号",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|50|0.5|N|139|54|43.2|E|",
+         "location_zipcode" : "270-0032",
          "owner_type" : "県立",
-         "short_name" : "小金高校"
+         "senior_high_school_code" : "12125J",
+         "short_name" : "小金高校",
+         "url" : "http://www.asahi-net.or.jp/~at5n-smgm/"
       },
       "千葉県立岬高等学校" : {
+         "location" : "千葉県いすみ市岬町長者366",
          "location_area" : "いすみ市",
+         "location_zipcode" : "299-4616",
          "owner_type" : "県立",
-         "short_name" : "岬高校"
+         "senior_high_school_code" : "12170D",
+         "short_name" : "岬高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-misaki-h/"
       },
       "千葉県立市原八幡高等学校" : {
+         "location" : "千葉県市原市八幡1877-1",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0062",
          "owner_type" : "県立",
-         "short_name" : "市原八幡高校"
+         "school_area" : "第9学区",
+         "senior_high_school_code" : "12239E",
+         "short_name" : "市原八幡高校",
+         "url" : "http://www.chiba-c.ed.jp/ichiharayawata-h/"
       },
       "千葉県立市原緑高等学校" : {
+         "location" : "千葉県市原市能満1531番地",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0011",
          "owner_type" : "県立",
-         "short_name" : "市原緑高校"
+         "short_name" : "市原緑高校",
+         "url" : "http://www.chiba-c.ed.jp/ichiharamidori-h/"
       },
       "千葉県立市原高等学校" : {
+         "location" : "千葉県市原市牛久655",
          "location_area" : "市原市",
+         "location_wikipedia_latlon" : "|35|24|7.4|N|140|8|12.4|E|",
+         "location_zipcode" : "290-0225",
          "owner_type" : "県立",
-         "short_name" : "市原高校"
+         "senior_high_school_code" : "12186A",
+         "short_name" : "市原高校",
+         "url" : "http://www.chiba-c.ed.jp/ichihara-h/"
       },
       "千葉県立市川北高等学校" : {
+         "location" : "千葉県市川市大野町4-2274",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0805",
          "owner_type" : "県立",
-         "short_name" : "市川北高校"
+         "senior_high_school_code" : "12211E",
+         "short_name" : "市川北高校",
+         "url" : "http://www.chiba-c.ed.jp/ichikawakita-h/"
       },
       "千葉県立市川南高等学校" : {
+         "location" : "千葉県市川市高谷1509",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|41|35.6|N|139|56|38.9|E|",
+         "location_zipcode" : "273-0047",
          "owner_type" : "県立",
-         "short_name" : "市川南高校"
+         "senior_high_school_code" : "12229H",
+         "short_name" : "市川南高校",
+         "url" : "http://www.chiba-c.ed.jp/ichikawaminami-h/"
       },
       "千葉県立市川工業高等学校" : {
+         "location" : "千葉県市川市平田三丁目10番10号",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0031",
          "owner_type" : "県立",
-         "short_name" : "市川工業高校"
+         "senior_high_school_code" : "12118F",
+         "short_name" : "市川工業高校",
+         "url" : "http://www.chiba-c.ed.jp/ichiko/"
       },
       "千葉県立市川昴高等学校" : {
          "location_area" : "市川市",
@@ -379,404 +701,767 @@
          "short_name" : "市川昴高校"
       },
       "千葉県立市川東高等学校" : {
+         "location" : "千葉県市川市北方町四丁目2191番地",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|44|16.5|N|139|57|21|E|",
+         "location_zipcode" : "272-0811",
          "owner_type" : "県立",
-         "short_name" : "市川東高校"
+         "senior_high_school_code" : "12198D",
+         "short_name" : "市川東高校",
+         "url" : "http://www.chiba-c.ed.jp/ichikawahigashi-h/"
       },
       "千葉県立市川西高等学校" : {
+         "location" : "千葉県市川市東国分一丁目1番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|44|23.3|N|139|55|23.5|E|",
+         "location_zipcode" : "272-0833",
          "owner_type" : "県立",
-         "short_name" : "市川西高校"
+         "senior_high_school_code" : "12247F",
+         "short_name" : "市川西高校",
+         "url" : "http://www.chiba-c.ed.jp/ichikawanishi-h/"
       },
       "千葉県立布佐高等学校" : {
+         "location" : "千葉県我孫子市新々田172",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1104",
          "owner_type" : "県立",
-         "short_name" : "布佐高校"
+         "senior_high_school_code" : "12242E",
+         "short_name" : "布佐高校",
+         "url" : "http://www.chiba-c.ed.jp/fusa-h/"
       },
       "千葉県立幕張総合高等学校" : {
+         "location" : "千葉県千葉市美浜区若葉三丁目1番6号",
          "location_area" : "千葉市美浜区",
+         "location_wikipedia_latlon" : "|35|38|52.7|N|140|3|10.9|E|",
+         "location_zipcode" : "261-0014",
          "owner_type" : "県立",
-         "short_name" : "幕張総合高校"
+         "senior_high_school_code" : "12253A",
+         "short_name" : "幕張総合高校",
+         "url" : "http://www.chiba-c.ed.jp/msh/"
       },
       "千葉県立成東高等学校" : {
+         "location" : "千葉県山武市成東3596",
          "location_area" : "山武市",
+         "location_zipcode" : "289-1326",
          "owner_type" : "県立",
-         "short_name" : "成東高校"
+         "senior_high_school_code" : "12155A",
+         "short_name" : "成東高校",
+         "url" : "http://www.chiba-c.ed.jp/narutou-h/"
       },
       "千葉県立成田北高等学校" : {
+         "location" : "千葉県成田市玉造五丁目1番地",
          "location_area" : "成田市",
+         "location_zipcode" : "286-0011",
          "owner_type" : "県立",
-         "short_name" : "成田北高校"
+         "school_area" : "第4学区",
+         "senior_high_school_code" : "12226C",
+         "short_name" : "成田北高校",
+         "url" : "http://www.chiba-c.ed.jp/naritakita-h/"
       },
       "千葉県立成田国際高等学校" : {
+         "location" : "千葉県成田市加良部三丁目16番地",
          "location_area" : "成田市",
+         "location_wikipedia_latlon" : "|35|46|28|N|140|18|34|E|",
+         "location_zipcode" : "286-0036",
          "owner_type" : "県立",
-         "short_name" : "成田国際高校"
+         "senior_high_school_code" : "12142J",
+         "short_name" : "成田国際高校",
+         "url" : "http://www.chiba-c.ed.jp/naritakokusai-h/"
       },
       "千葉県立成田西陵高等学校" : {
+         "location" : "千葉県成田市松崎20",
          "location_area" : "成田市",
+         "location_zipcode" : "286-0846",
          "owner_type" : "県立",
-         "short_name" : "成田西陵高校"
+         "senior_high_school_code" : "12137B",
+         "short_name" : "成田西陵高校",
+         "url" : "http://www.chiba-c.ed.jp/naritaseiryo-h/"
       },
       "千葉県立我孫子高等学校" : {
+         "location" : "千葉県我孫子市若松18-4",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1147",
          "owner_type" : "県立",
-         "short_name" : "我孫子高校"
+         "senior_high_school_code" : "12135F",
+         "short_name" : "我孫子高校",
+         "url" : "http://saas01.netcommons.net/abikohigh/"
       },
       "千葉県立旭農業高等学校" : {
+         "location" : "千葉県旭市ロ1番地",
          "location_area" : "旭市",
+         "location_zipcode" : "289-2516",
          "owner_type" : "県立",
-         "short_name" : "旭農業高校"
+         "school_area" : "千葉全県",
+         "senior_high_school_code" : "12151H",
+         "short_name" : "旭農業高校",
+         "url" : "http://www.chiba-c.ed.jp/asahi-ah/"
       },
       "千葉県立木更津東高等学校" : {
+         "location" : "千葉県木更津市木更津二丁目2番45号",
          "location_area" : "木更津市",
+         "location_wikipedia_latlon" : "|35|22|58.1|N|139|55|50.3|E|",
+         "location_zipcode" : "292-0056",
          "owner_type" : "県立",
-         "short_name" : "木更津東高校"
+         "short_name" : "木更津東高校",
+         "url" : "http://www.chiba-c.ed.jp/ki-higashi/"
       },
       "千葉県立木更津高等学校" : {
+         "location" : "千葉県木更津市文京四丁目1番1号",
          "location_area" : "木更津市",
+         "location_zipcode" : "292-0804",
          "owner_type" : "県立",
-         "short_name" : "木更津高校"
+         "senior_high_school_code" : "12180A",
+         "short_name" : "木更津高校",
+         "url" : "http://www.chiba-c.ed.jp/kisarazu-h/"
       },
       "千葉県立東総工業高等学校" : {
+         "location" : "千葉県旭市鎌数川西5146",
          "location_area" : "旭市",
+         "location_zipcode" : "289-2505",
          "owner_type" : "県立",
-         "short_name" : "東総工業高校"
+         "senior_high_school_code" : "12152F",
+         "short_name" : "東総工業高校",
+         "url" : "http://www.chiba-c.ed.jp/toso-th/"
       },
       "千葉県立東葛飾高等学校" : {
+         "location" : "千葉県柏市旭町三丁目2番1号",
          "location_area" : "柏市",
+         "location_zipcode" : "277-8570",
          "owner_type" : "県立",
-         "short_name" : "東葛飾高校"
+         "senior_high_school_code" : "12128C",
+         "short_name" : "東葛飾高校",
+         "url" : "http://www.chiba-c.ed.jp/tohkatsu/"
       },
       "千葉県立東金商業高等学校" : {
+         "location" : "千葉県東金市松之郷久我台1641-1",
          "location_area" : "東金市",
+         "location_zipcode" : "283-0805",
          "owner_type" : "県立",
-         "short_name" : "東金商業高校"
+         "senior_high_school_code" : "12157G",
+         "short_name" : "東金商業高校",
+         "url" : "http://www.chiba-c.ed.jp/toushou/"
       },
       "千葉県立東金高等学校" : {
+         "location" : "千葉県東金市東金1410",
          "location_area" : "東金市",
+         "location_zipcode" : "283-0802",
          "owner_type" : "県立",
-         "short_name" : "東金高校"
+         "senior_high_school_code" : "12156J",
+         "short_name" : "東金高校",
+         "url" : "http://www.chiba-c.ed.jp/togane-h/"
       },
       "千葉県立松尾高等学校" : {
+         "location" : "千葉県山武市松尾町大堤546番地",
          "location_area" : "山武市",
+         "location_zipcode" : "289-1594",
          "owner_type" : "県立",
-         "short_name" : "松尾高校"
+         "senior_high_school_code" : "12154B",
+         "short_name" : "松尾高校",
+         "url" : "http://snishi-h.myswan.ne.jp/index.html"
       },
       "千葉県立松戸六実高等学校" : {
+         "location" : "千葉県松戸市六高台五丁目150番地の1",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|48|6.6|N|139|59|36.2|E|",
+         "location_zipcode" : "270-2203",
          "owner_type" : "県立",
-         "short_name" : "松戸六実高校"
+         "school_area" : "第2学区",
+         "senior_high_school_code" : "12207G",
+         "short_name" : "松戸六実高校",
+         "url" : "http://www.chiba-c.ed.jp/mutsumi-h/"
       },
       "千葉県立松戸南高等学校" : {
+         "location" : "千葉県松戸市紙敷1199",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|46|16|N|139|56|0.5|E|",
+         "location_zipcode" : "270-2221",
          "owner_type" : "県立",
-         "short_name" : "松戸南高校"
+         "senior_high_school_code" : "12127E",
+         "short_name" : "松戸南高校",
+         "url" : "http://www.chiba-c.ed.jp/matsudominami-h/"
       },
       "千葉県立松戸国際高等学校" : {
+         "location" : "千葉県松戸市五香西五丁目6番1号",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|47|10.7|N|139|57|21.4|E|",
+         "location_zipcode" : "270-2218",
          "owner_type" : "県立",
-         "short_name" : "松戸国際高校"
+         "senior_high_school_code" : "12126G",
+         "short_name" : "松戸国際高校",
+         "url" : "http://www.chiba-c.ed.jp/matsudokokusai-h/"
       },
       "千葉県立松戸矢切高等学校" : {
+         "location" : "千葉県松戸市中矢切54",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|45|56.8|N|139|53|14|E|",
+         "location_zipcode" : "271-0095",
          "owner_type" : "県立",
-         "short_name" : "松戸矢切高校"
+         "senior_high_school_code" : "12212C",
+         "short_name" : "松戸矢切高校",
+         "url" : "http://www.chiba-c.ed.jp/matsudoyakiri-h/"
       },
       "千葉県立松戸秋山高等学校" : {
+         "location" : "千葉県松戸市秋山682番地",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|45|58.1|N|139|55|26.5|E|",
+         "location_zipcode" : "270-2223",
          "owner_type" : "県立",
-         "short_name" : "松戸秋山高校"
+         "senior_high_school_code" : "12235B",
+         "short_name" : "松戸秋山高校",
+         "url" : "http://www.chiba-c.ed.jp/akiyama-h/"
       },
       "千葉県立松戸馬橋高等学校" : {
+         "location" : "千葉県松戸市旭町一丁目7番1号",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|48|53.7|N|139|53|58.6|E|",
+         "location_zipcode" : "271-0043",
          "owner_type" : "県立",
-         "short_name" : "松戸馬橋高校"
+         "senior_high_school_code" : "12224G",
+         "short_name" : "松戸馬橋高校",
+         "url" : "http://www.chiba-c.ed.jp/matsudomabashi-h/"
       },
       "千葉県立松戸高等学校" : {
+         "location" : "千葉県松戸市中和倉590-1",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|48|7.5|N|139|55|35.9|E|",
+         "location_zipcode" : "270-0025",
          "owner_type" : "県立",
-         "short_name" : "松戸高校"
+         "senior_high_school_code" : "12124A",
+         "short_name" : "松戸高校",
+         "url" : "http://www.chiba-c.ed.jp/matsudo-h/"
       },
       "千葉県立柏の葉高等学校" : {
+         "location" : "千葉県柏市柏の葉六丁目1番地",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|53|31|N|139|56|42.2|E|",
+         "location_zipcode" : "277-0882",
          "owner_type" : "県立",
-         "short_name" : "柏の葉高校"
+         "senior_high_school_code" : "12250F",
+         "short_name" : "柏の葉高校",
+         "url" : "http://saas01.netcommons.net/kashiwanoha/htdocs/"
       },
       "千葉県立柏中央高等学校" : {
+         "location" : "千葉県柏市松ヶ崎884-1",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0835",
          "owner_type" : "県立",
-         "short_name" : "柏中央高校"
+         "school_area" : "千葉県第3学区",
+         "senior_high_school_code" : "12230A",
+         "short_name" : "柏中央高校",
+         "url" : "http://www.kashiwachuo.ed.jp/"
       },
       "千葉県立柏井高等学校" : {
+         "location" : "千葉県千葉市花見川区柏井町1452",
          "location_area" : "千葉市花見川区",
+         "location_zipcode" : "262-0041",
          "owner_type" : "県立",
-         "short_name" : "柏井高校"
+         "senior_high_school_code" : "12227A",
+         "short_name" : "柏井高校",
+         "url" : "http://www.chiba-c.ed.jp/kashiwai-h/"
       },
       "千葉県立柏南高等学校" : {
+         "location" : "千葉県柏市増尾1705",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0033",
          "owner_type" : "県立",
-         "short_name" : "柏南高校"
+         "short_name" : "柏南高校",
+         "url" : "http://www.chiba-c.ed.jp/kashiwaminami/"
       },
       "千葉県立柏陵高等学校" : {
+         "location" : "千葉県柏市逆井444-1",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0042",
          "owner_type" : "県立",
-         "short_name" : "柏陵高校"
+         "senior_high_school_code" : "12205A",
+         "short_name" : "柏陵高校",
+         "url" : "http://saas01.netcommons.net/hakuryo/htdocs/"
       },
       "千葉県立柏高等学校" : {
+         "location" : "千葉県柏市布施254",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|53|33.6|N|139|59|22.2|E|",
+         "location_zipcode" : "277-0825",
          "owner_type" : "県立",
-         "short_name" : "柏高校"
+         "school_area" : "千葉県第3学区",
+         "senior_high_school_code" : "12129A",
+         "short_name" : "柏高校",
+         "url" : "http://www.chiba-c.ed.jp/kashiwa-h/"
       },
       "千葉県立検見川高等学校" : {
+         "location" : "千葉県千葉市美浜区真砂四丁目17番1号",
          "location_area" : "千葉市美浜区",
+         "location_zipcode" : "261‐0011",
          "owner_type" : "県立",
-         "short_name" : "検見川高校"
+         "senior_high_school_code" : "12108C",
+         "short_name" : "検見川高校",
+         "url" : "http://www.chiba-c.ed.jp/kemigawa-h/"
       },
       "千葉県立沼南高柳高等学校" : {
+         "location" : "千葉県柏市高柳995",
          "location_area" : "柏市",
+         "location_zipcode" : "277-0941",
          "owner_type" : "県立",
-         "short_name" : "沼南高柳高校"
+         "senior_high_school_code" : "12243C",
+         "short_name" : "沼南高柳高校",
+         "url" : "http://www.chiba-c.ed.jp/takayanagi-h/"
       },
       "千葉県立沼南高等学校" : {
+         "location" : "千葉県柏市岩井678-3",
          "location_area" : "柏市",
+         "location_zipcode" : "270-1445",
          "owner_type" : "県立",
-         "short_name" : "沼南高校"
+         "school_area" : "第3学区",
+         "senior_high_school_code" : "12215H",
+         "short_name" : "沼南高校",
+         "url" : "http://www.chiba-c.ed.jp/shonan-high/"
       },
       "千葉県立泉高等学校" : {
+         "location" : "千葉県千葉市若葉区高根町875-1",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "265-0061",
          "owner_type" : "県立",
-         "short_name" : "泉高校"
+         "senior_high_school_code" : "12209C",
+         "short_name" : "泉高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-izumi-h/"
       },
       "千葉県立津田沼高等学校" : {
+         "location" : "千葉県習志野市秋津五丁目9番1号",
          "location_area" : "習志野市",
+         "location_wikipedia_latlon" : "|35|40|30.9|N|140|0|38.4|E|",
+         "location_zipcode" : "275-0025",
          "owner_type" : "県立",
-         "short_name" : "津田沼高校"
+         "senior_high_school_code" : "12203D",
+         "short_name" : "津田沼高校",
+         "url" : "http://www.chiba-c.ed.jp/tsudanuma-h/"
       },
       "千葉県立流山おおたかの森高等学校" : {
+         "location" : "千葉県流山市大畔275番地5",
          "location_area" : "流山市",
+         "location_zipcode" : "270-0122",
          "owner_type" : "県立",
-         "short_name" : "流山おおたかの森高校"
+         "senior_high_school_code" : "08200H",
+         "short_name" : "流山おおたかの森高校",
+         "url" : "http://www.chiba-c.ed.jp/n.otaka-h/"
       },
       "千葉県立流山北高等学校" : {
+         "location" : "千葉県流山市中野久木7番地1",
          "location_area" : "流山市",
+         "location_wikipedia_latlon" : "|35|53|44.5|N|139|53|43.5|E|",
+         "location_zipcode" : "270-0116",
          "owner_type" : "県立",
-         "short_name" : "流山北高校"
+         "senior_high_school_code" : "08200H",
+         "short_name" : "流山北高校",
+         "url" : "http://www.chiba-c.ed.jp/nagareyamakita-h/"
       },
       "千葉県立流山南高等学校" : {
+         "location" : "千葉県流山市流山九丁目800番地1",
          "location_area" : "流山市",
+         "location_zipcode" : "270-0164",
          "owner_type" : "県立",
-         "short_name" : "流山南高校"
+         "senior_high_school_code" : "08200H",
+         "short_name" : "流山南高校",
+         "url" : "http://www.chiba-c.ed.jp/nagareyamaminami-h/"
       },
       "千葉県立流山高等学校" : {
+         "location" : "千葉県流山市東初石二丁目98番地",
          "location_area" : "流山市",
+         "location_wikipedia_latlon" : "|35|53|24.5|N|139|55|7|E|",
+         "location_zipcode" : "270-0114",
          "owner_type" : "県立",
-         "short_name" : "流山高校"
+         "school_area" : "千葉県全域",
+         "senior_high_school_code" : "12131C",
+         "short_name" : "流山高校",
+         "url" : "http://www.chiba-c.ed.jp/nagareyama/"
       },
       "千葉県立浦安南高等学校" : {
+         "location" : "千葉県浦安市高洲九丁目4番1号",
          "location_area" : "浦安市",
+         "location_zipcode" : "279-0023",
          "owner_type" : "県立",
-         "short_name" : "浦安南高校"
+         "senior_high_school_code" : "12241G",
+         "short_name" : "浦安南高校",
+         "url" : "http://www.chiba-c.ed.jp/urayasuminami-h/"
       },
       "千葉県立浦安高等学校" : {
+         "location" : "千葉県浦安市海楽二丁目36番2号",
          "location_area" : "浦安市",
+         "location_wikipedia_latlon" : "|35|39|39.5|N|139|54|30|E|",
+         "location_zipcode" : "279-0003",
          "owner_type" : "県立",
-         "short_name" : "浦安高校"
+         "senior_high_school_code" : "12123B",
+         "short_name" : "浦安高校",
+         "url" : "http://www.chiba-c.ed.jp/urayasu-h/"
       },
       "千葉県立清水高等学校" : {
+         "location" : "千葉県野田市清水482",
          "location_area" : "野田市",
+         "location_zipcode" : "278-0043",
          "owner_type" : "県立",
-         "short_name" : "清水高校"
+         "senior_high_school_code" : "12134H",
+         "short_name" : "清水高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-shimizu-bh/"
       },
       "千葉県立湖北高等学校" : {
+         "location" : "千葉県我孫子市日秀70",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1123",
          "owner_type" : "県立",
-         "short_name" : "湖北高校"
+         "senior_high_school_code" : "12214K",
+         "short_name" : "湖北高校",
+         "url" : "http://www.kohoku-h.com/"
       },
       "千葉県立犢橋高等学校" : {
+         "location" : "千葉県千葉市花見川区千種町381-1",
          "location_area" : "千葉市花見川区",
+         "location_zipcode" : "262-0012",
          "owner_type" : "県立",
-         "short_name" : "犢橋高校"
+         "short_name" : "犢橋高校",
+         "url" : "http://www.chiba-c.ed.jp/kotehashi-h/"
       },
       "千葉県立生浜高等学校" : {
+         "location" : "千葉県千葉市中央区塩田町372",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0823",
          "owner_type" : "県立",
-         "short_name" : "生浜高校"
+         "senior_high_school_code" : "12200K",
+         "short_name" : "生浜高校",
+         "url" : "http://www.chiba-c.ed.jp/oihama-h/"
       },
       "千葉県立白井高等学校" : {
+         "location" : "千葉県白井市池の上一丁目8番1号",
          "location_area" : "白井市",
+         "location_wikipedia_latlon" : "|35|46|35.3|N|140|3|19.8|E|",
+         "location_zipcode" : "270-1425",
          "owner_type" : "県立",
-         "short_name" : "白井高校"
+         "senior_high_school_code" : "12237J",
+         "short_name" : "白井高校",
+         "url" : "http://www.chiba-c.ed.jp/shiroi-h/"
       },
       "千葉県立磯辺高等学校" : {
+         "location" : "千葉県千葉市美浜区磯辺二丁目7番1号",
          "location_area" : "千葉市美浜区",
+         "location_zipcode" : "261-0012",
          "owner_type" : "県立",
-         "short_name" : "磯辺高校"
+         "senior_high_school_code" : "12197F",
+         "short_name" : "磯辺高校",
+         "url" : "http://www.chiba-c.ed.jp/isobe-h/"
       },
       "千葉県立船橋二和高等学校" : {
+         "location" : "千葉県船橋市二和西一丁目3番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|44|41.7|N|140|0|39.8|E|",
+         "location_zipcode" : "274-0061",
          "owner_type" : "県立",
-         "short_name" : "船橋二和高校"
+         "senior_high_school_code" : "12210G",
+         "short_name" : "船橋二和高校",
+         "url" : "http://www.chiba-c.ed.jp/futawa/"
       },
       "千葉県立船橋北高等学校" : {
+         "location" : "千葉県船橋市神保町133-1",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0056",
          "owner_type" : "県立",
-         "short_name" : "船橋北高校"
+         "senior_high_school_code" : "12246H",
+         "short_name" : "船橋北高校",
+         "url" : "http://www.chiba-c.ed.jp/funabashikita-h/"
       },
       "千葉県立船橋古和釜高等学校" : {
+         "location" : "千葉県船橋市古和釜町586",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0061",
          "owner_type" : "県立",
-         "short_name" : "船橋古和釜高校"
+         "senior_high_school_code" : "12222A",
+         "short_name" : "船橋古和釜高校",
+         "url" : "http://www.chiba-c.ed.jp/funabashikowagama-h/"
       },
       "千葉県立船橋啓明高等学校" : {
+         "location" : "千葉県船橋市旭町333",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|53.9|N|139|59|4.5|E|",
+         "location_zipcode" : "273-0041",
          "owner_type" : "県立",
-         "short_name" : "船橋啓明高校"
+         "short_name" : "船橋啓明高校",
+         "url" : "http://www.chiba-c.ed.jp/funanishi/"
       },
       "千葉県立船橋旭高等学校" : {
+         "location" : "千葉県船橋市夏見台五丁目6番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|45.1|N|139|59|35.2|E|",
+         "location_zipcode" : "273-0866",
          "owner_type" : "県立",
-         "short_name" : "船橋旭高校"
+         "senior_high_school_code" : "12116K",
+         "short_name" : "船橋旭高校",
+         "url" : "http://www.chiba-c.ed.jp/fu-asahi-h/"
       },
       "千葉県立船橋東高等学校" : {
+         "location" : "千葉県船橋市芝山二丁目13番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|21.5|N|140|1|8|E|",
+         "location_zipcode" : "274-0816",
          "owner_type" : "県立",
-         "short_name" : "船橋東高校"
+         "senior_high_school_code" : "12114C",
+         "short_name" : "船橋東高校",
+         "url" : "http://www.chiba-c.ed.jp/funabashieast-h/"
       },
       "千葉県立船橋法典高等学校" : {
+         "location" : "千葉県船橋市藤原四丁目1番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|44|32.5|N|139|58|28.5|E|",
+         "location_zipcode" : "273-0047",
          "owner_type" : "県立",
-         "short_name" : "船橋法典高校"
+         "senior_high_school_code" : "12228K",
+         "short_name" : "船橋法典高校",
+         "url" : "http://www.chiba-c.ed.jp/f-houden-h/"
       },
       "千葉県立船橋芝山高等学校" : {
+         "location" : "千葉県船橋市芝山七丁目39番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|5.8|N|140|1|42.6|E|",
+         "location_zipcode" : "274-0816",
          "owner_type" : "県立",
-         "short_name" : "船橋芝山高校"
+         "school_area" : "第2学区",
+         "senior_high_school_code" : "12206J",
+         "short_name" : "船橋芝山高校",
+         "url" : "http://www.chiba-c.ed.jp/funabashishibayama-h/"
       },
       "千葉県立船橋西高等学校" : {
+         "location" : "千葉県船橋市旭町333",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|53.9|N|139|59|4.5|E|",
+         "location_zipcode" : "273-0041",
          "owner_type" : "県立",
-         "short_name" : "船橋西高校"
+         "senior_high_school_code" : "12115A",
+         "short_name" : "船橋西高校",
+         "url" : "http://www.chiba-c.ed.jp/funanishi/"
       },
       "千葉県立船橋豊富高等学校" : {
+         "location" : "千葉県船橋市豊富町656-8",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|45|55.5|N|140|4|19|E|",
+         "location_zipcode" : "274-0053",
          "owner_type" : "県立",
-         "short_name" : "船橋豊富高校"
+         "senior_high_school_code" : "12234D",
+         "short_name" : "船橋豊富高校",
+         "url" : "http://www.chiba-c.ed.jp/toyokou/"
       },
       "千葉県立船橋高等学校" : {
+         "location" : "千葉県船橋市東船橋六丁目1番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|41|43|N|140|0|11.5|E|",
+         "location_zipcode" : "273-0002",
          "owner_type" : "県立",
-         "short_name" : "船橋高校"
+         "senior_high_school_code" : "12112G",
+         "short_name" : "船橋高校",
+         "url" : "http://www.chiba-c.ed.jp/funako/"
       },
       "千葉県立若松高等学校" : {
+         "location" : "千葉県千葉市若葉区若松町429",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "264-0021",
          "owner_type" : "県立",
-         "short_name" : "若松高校"
+         "senior_high_school_code" : "12110A",
+         "short_name" : "若松高校",
+         "url" : "http://www.chiba-c.ed.jp/chb-wakamatsu-h"
       },
       "千葉県立茂原樟陽高等学校" : {
+         "location" : "千葉県茂原市上林283",
          "location_area" : "茂原市",
+         "location_zipcode" : "297-0019",
          "owner_type" : "県立",
-         "short_name" : "茂原樟陽高校"
+         "senior_high_school_code" : "12163A",
+         "short_name" : "茂原樟陽高校",
+         "url" : "http://www.chiba-c.ed.jp/mobarasyouyou/"
       },
       "千葉県立茂原高等学校" : {
+         "location" : "千葉県茂原市高師道下1300",
          "location_area" : "茂原市",
+         "location_zipcode" : "297-0029",
          "owner_type" : "県立",
-         "short_name" : "茂原高校"
+         "senior_high_school_code" : "12162C",
+         "short_name" : "茂原高校",
+         "url" : "http://www.chiba-c.ed.jp/mobara-h/"
       },
       "千葉県立薬園台高等学校" : {
+         "location" : "千葉県船橋市薬円台五丁目34番1号",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|42|41.4|N|140|2|40.2|E|",
+         "location_zipcode" : "274-0077",
          "owner_type" : "県立",
-         "short_name" : "薬園台高校"
+         "school_area" : "第2学区",
+         "senior_high_school_code" : "12113E",
+         "short_name" : "薬園台高校",
+         "url" : "http://www.chiba-c.ed.jp/yakuendai-h/"
       },
       "千葉県立行徳高等学校" : {
+         "location" : "千葉県市川市塩浜四丁目1番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|39|55.8|N|139|54|48.5|E|",
+         "location_zipcode" : "273-0047",
          "owner_type" : "県立",
-         "short_name" : "行徳高校"
+         "senior_high_school_code" : "12122D",
+         "short_name" : "行徳高校",
+         "url" : "http://www.chiba-c.ed.jp/gyotoku-h/"
       },
       "千葉県立袖ヶ浦高等学校" : {
+         "location" : "千葉県袖ケ浦市神納530番地",
          "location_area" : "袖ヶ浦市",
+         "location_zipcode" : "299-0257",
          "owner_type" : "県立",
-         "short_name" : "袖ヶ浦高校"
+         "short_name" : "袖ヶ浦高校",
+         "url" : "http://www.chiba-c.ed.jp/sodegaura-h/"
       },
       "千葉県立野田中央高等学校" : {
+         "location" : "千葉県野田市谷津713",
          "location_area" : "野田市",
+         "location_zipcode" : "278-0046",
          "owner_type" : "県立",
-         "short_name" : "野田中央高校"
+         "senior_high_school_code" : "12204B",
+         "short_name" : "野田中央高校",
+         "url" : "http://www.chiba-c.ed.jp/nodachuo-h/"
       },
       "千葉県立銚子商業高等学校" : {
+         "location" : "千葉県銚子市台町1781",
          "location_area" : "銚子市",
+         "location_zipcode" : "288-0813",
          "owner_type" : "県立",
-         "short_name" : "銚子商業高校"
+         "senior_high_school_code" : "12149F",
+         "short_name" : "銚子商業高校",
+         "url" : "http://www.chiba-c.ed.jp/choshi-ch/"
       },
       "千葉県立銚子高等学校" : {
+         "location" : "千葉県銚子市南小川町943",
          "location_area" : "銚子市",
+         "location_wikipedia_latlon" : "|35|43|23.1|N|140|50|15.3|E|",
+         "location_zipcode" : "288-0033",
          "owner_type" : "県立",
-         "short_name" : "銚子高校"
+         "school_area" : "第5学区",
+         "senior_high_school_code" : "12148H",
+         "short_name" : "銚子高校",
+         "url" : "http://www.chiba-c.ed.jp/kencho/"
       },
       "千葉県立鎌ケ谷西高等学校" : {
+         "location" : "千葉県鎌ケ谷市初富284-7",
          "location_area" : "鎌ケ谷市",
+         "location_wikipedia_latlon" : "|35|47|22.1|N|139|59|20.2|E|",
+         "location_zipcode" : "273-0121",
          "owner_type" : "県立",
-         "short_name" : "鎌ケ谷西高校"
+         "school_area" : "第3学区",
+         "senior_high_school_code" : "12223J",
+         "short_name" : "鎌ケ谷西高校",
+         "url" : "http://www.chiba-c.ed.jp/kamagaya-west/"
       },
       "千葉県立鎌ケ谷高等学校" : {
+         "location" : "千葉県鎌ケ谷市東道野辺一丁目4番1号",
          "location_area" : "鎌ケ谷市",
+         "location_wikipedia_latlon" : "|35|45|25.3|N|139|59|40.6|E|",
+         "location_zipcode" : "273-0115",
          "owner_type" : "県立",
-         "short_name" : "鎌ケ谷高校"
+         "senior_high_school_code" : "12117H",
+         "short_name" : "鎌ケ谷高校",
+         "url" : "http://www.chiba-c.ed.jp/kamagaya-h/index.html"
       },
       "千葉県立長狭高等学校" : {
+         "location" : "千葉県鴨川市横渚100番地",
          "location_area" : "鴨川市",
+         "location_zipcode" : "296-0001",
          "owner_type" : "県立",
-         "short_name" : "長狭高校"
+         "senior_high_school_code" : "12172A",
+         "short_name" : "長狭高校",
+         "url" : "http://www.chiba-c.ed.jp/nagasa-h/"
       },
       "千葉県立長生高等学校" : {
+         "location" : "千葉県茂原市高師286",
          "location_area" : "茂原市",
+         "location_wikipedia_latlon" : "|35|26|0|N|140|17|53|E|",
+         "location_zipcode" : "297-0029",
          "owner_type" : "県立",
-         "short_name" : "長生高校"
+         "senior_high_school_code" : "12161E",
+         "short_name" : "長生高校",
+         "url" : "http://www.chiba-c.ed.jp/chosei-h/"
       },
       "千葉県立関宿高等学校" : {
+         "location" : "千葉県野田市木間ヶ瀬4376",
          "location_area" : "野田市",
+         "location_zipcode" : "270-0222",
          "owner_type" : "県立",
-         "short_name" : "関宿高校"
+         "senior_high_school_code" : "12252B",
+         "short_name" : "関宿高校",
+         "url" : "http://www.chiba-c.ed.jp/sekiyado-h/"
       },
       "千葉県立館山総合高等学校" : {
+         "location" : "千葉県館山市北条106",
          "location_area" : "館山市",
+         "location_wikipedia_latlon" : "|35|0|1.7|N|139|52|28|E|",
+         "location_zipcode" : "294-8505",
          "owner_type" : "県立",
-         "short_name" : "館山総合高校"
+         "senior_high_school_code" : "12176C",
+         "short_name" : "館山総合高校",
+         "url" : "http://www.chiba-c.ed.jp/tateyama-h/"
       },
       "千葉県立鶴舞桜が丘高等学校" : {
+         "location" : "千葉県市原市鶴舞355",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0512",
          "owner_type" : "県立",
-         "short_name" : "鶴舞桜が丘高校"
+         "senior_high_school_code" : "12187J",
+         "short_name" : "鶴舞桜が丘高校",
+         "url" : "http://saas01.netcommons.net/tsurumai/"
       },
       "千葉経済大学附属高等学校" : {
+         "location" : "千葉県千葉市稲毛区轟町4-3-30",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-8585",
          "owner_type" : "私立",
-         "short_name" : "千葉経済大学附属高校"
+         "senior_high_school_code" : "12505K",
+         "short_name" : "千葉経済大学附属高校",
+         "url" : "http://www.cku-h.ed.jp/"
       },
       "千葉聖心高等学校" : {
+         "location" : "千葉県千葉市中央区道場北一丁目17番6号",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0006",
          "owner_type" : "私立",
-         "short_name" : "千葉聖心高校"
+         "senior_high_school_code" : "12543B",
+         "short_name" : "千葉聖心高校",
+         "url" : "http://www.chibaseishin-h.ed.jp/"
       },
       "千葉英和高等学校" : {
+         "location" : "千葉県八千代市村上709-1",
          "location_area" : "八千代市",
+         "location_wikipedia_latlon" : "|35|44|19.7|N|140|7|25.7|E",
+         "location_zipcode" : "276-0028",
          "owner_type" : "私立",
-         "short_name" : "千葉英和高校"
+         "senior_high_school_code" : "12515G",
+         "short_name" : "千葉英和高校",
+         "url" : "http://www.ceh.ed.jp/"
       },
       "千葉萌陽高等学校" : {
+         "location" : "千葉県香取市佐原イ3371番地",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0003",
          "owner_type" : "私立",
-         "short_name" : "千葉萌陽高校"
+         "senior_high_school_code" : "12516E",
+         "short_name" : "千葉萌陽高校",
+         "url" : "http://www.chibahoyo.ed.jp/"
       },
       "千葉黎明高等学校" : {
+         "location" : "千葉県八街市八街ほ625",
          "location_area" : "八街市",
+         "location_zipcode" : "289-1115",
          "owner_type" : "私立",
-         "short_name" : "千葉黎明高校"
+         "senior_high_school_code" : "12511D",
+         "short_name" : "千葉黎明高校",
+         "url" : "http://www.reimei.ac.jp/"
       },
       "和洋国府台女子高等学校" : {
+         "location" : "千葉県市川市国府台二丁目3番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|44|38.9|N|139|54|13.6|E|",
+         "location_zipcode" : "272-0827",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12512B",
          "short_name" : "和洋国府台女子高校",
+         "url" : "http://www.wayokonodai.ed.jp/",
          "wikipedia_name" : "和洋国府台女子中学校・高等学校"
       },
       "国府台女子学院高等部" : {
@@ -785,89 +1470,161 @@
          "wikipedia_name" : "国府台女子学院小学部・中学部・高等部"
       },
       "専修大学松戸高等学校" : {
+         "location" : "千葉県松戸市上本郷2-3621",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|47|56.5|N|139|55|14.4|E|",
+         "location_zipcode" : "271-8585",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12524F",
          "short_name" : "専修大学松戸高校",
+         "url" : "http://www.senshu-u-matsudo.ed.jp/",
          "wikipedia_name" : "専修大学松戸中学校・高等学校"
       },
       "市原中央高等学校" : {
+         "location" : "千葉県市原市土宇1481-1",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0215",
          "owner_type" : "私立",
-         "short_name" : "市原中央高校"
+         "senior_high_school_code" : "12550E",
+         "short_name" : "市原中央高校",
+         "url" : "http://www.kimigaku.ed.jp/ich/index.html"
       },
       "市川高等学校" : {
+         "location" : "千葉県市川市本北方2-38-1",
          "location_area" : "市川市",
+         "location_zipcode" : "272-0816",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12506H",
          "short_name" : "市川高校",
+         "url" : "http://www.ichigaku.ac.jp/",
          "wikipedia_name" : "市川中学校・高等学校"
       },
       "志学館高等部" : {
+         "location" : "千葉県木更津市真舟3-29-1",
          "location_area" : "木更津市",
+         "location_wikipedia_latlon" : "|35|21|18.5|N|139|55|55.6|E|",
+         "location_zipcode" : "292-8568",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12547E",
+         "url" : "http://www.shigakukan.ed.jp",
          "wikipedia_name" : "志学館中等部・高等部 (千葉県)"
       },
       "愛国学園大学附属四街道高等学校" : {
+         "location" : "千葉県四街道市四街道1532-16",
          "location_area" : "四街道市",
+         "location_wikipedia_latlon" : "|35|40|0.8|N|140|9|32.3|E|",
+         "location_zipcode" : "284-0005",
          "owner_type" : "私立",
-         "short_name" : "愛国学園大学附属四街道高校"
+         "senior_high_school_code" : "12544A",
+         "short_name" : "愛国学園大学附属四街道高校",
+         "url" : "http://www011.upp.so-net.ne.jp/aikokuyotukaido/"
       },
       "成田高等学校" : {
+         "location" : "千葉県成田市成田27",
          "location_area" : "成田市",
+         "location_zipcode" : "286-0023",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12502E",
          "short_name" : "成田高校",
+         "url" : "http://www.narita.ac.jp/",
          "wikipedia_name" : "成田高等学校・付属中学校"
       },
       "我孫子二階堂高等学校" : {
+         "location" : "千葉県我孫子市久寺家479-1",
          "location_area" : "我孫子市",
+         "location_zipcode" : "270-1163",
          "owner_type" : "私立",
-         "short_name" : "我孫子二階堂高校"
+         "senior_high_school_code" : "12529G",
+         "short_name" : "我孫子二階堂高校",
+         "url" : "http://www.abini.ed.jp/"
       },
       "拓殖大学紅陵高等学校" : {
+         "location" : "千葉県木更津市桜井1403",
          "location_area" : "木更津市",
+         "location_wikipedia_latlon" : "|35|21|49|N|139|55|41|E|",
+         "location_zipcode" : "292-8568",
          "owner_type" : "私立",
-         "short_name" : "拓殖大学紅陵高校"
+         "senior_high_school_code" : "12537H",
+         "short_name" : "拓殖大学紅陵高校",
+         "url" : "http://www.koryo.ed.jp/"
       },
       "敬愛大学八日市場高等学校" : {
+         "location" : "千葉県匝瑳市八日市場ロ390",
          "location_area" : "匝瑳市",
+         "location_zipcode" : "289-2143",
          "owner_type" : "私立",
-         "short_name" : "敬愛大学八日市場高校"
+         "senior_high_school_code" : "12501G",
+         "short_name" : "敬愛大学八日市場高校",
+         "url" : "http://www1.ocn.ne.jp/%7Ekeiai/top.htm"
       },
       "敬愛学園高等学校" : {
+         "location" : "千葉県千葉市稲毛区穴川一丁目5番21号",
          "location_area" : "千葉市稲毛区",
+         "location_zipcode" : "263-0024",
          "owner_type" : "私立",
-         "short_name" : "敬愛学園高校"
+         "senior_high_school_code" : "12523H",
+         "short_name" : "敬愛学園高校",
+         "url" : "http://www.hs-keiai.ac.jp/"
       },
       "文理開成高等学校" : {
+         "location" : "千葉県鴨川市横渚815",
          "location_area" : "鴨川市",
+         "location_zipcode" : "296-0001",
          "owner_type" : "私立",
-         "short_name" : "文理開成高校"
+         "senior_high_school_code" : "12510F",
+         "short_name" : "文理開成高校",
+         "url" : "http://www.bunri-kaisei.com/"
       },
       "日出学園高等学校" : {
+         "location" : "千葉県市川市菅野三丁目23番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|43|47.9|N|139|55|7.8|E|",
+         "location_zipcode" : "272-0824",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12517C",
          "short_name" : "日出学園高校",
+         "url" : "http://www.hinode.ed.jp/",
          "wikipedia_name" : "日出学園中学校・高等学校"
       },
       "日本大学習志野高等学校" : {
+         "location" : "千葉県船橋市習志野台8-35-1",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|43|16.1|N|140|3|34.2|E|",
+         "location_zipcode" : "274-8504",
          "owner_type" : "私立",
-         "short_name" : "日本大学習志野高校"
+         "senior_high_school_code" : "12528J",
+         "short_name" : "日本大学習志野高校",
+         "url" : "http://www.nnhs.cst.nihon-u.ac.jp/"
       },
       "明聖高等学校" : {
+         "location" : "千葉県千葉市中央区本千葉町10-23",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-0014",
          "owner_type" : "私立",
-         "short_name" : "明聖高校"
+         "senior_high_school_code" : "12558A",
+         "short_name" : "明聖高校",
+         "url" : "http://www.meisei-hs.ac.jp/"
       },
       "昭和学院秀英高等学校" : {
+         "location" : "千葉県千葉市美浜区若葉1-2",
          "location_area" : "千葉市美浜区",
+         "location_wikipedia_latlon" : "|35|39|18.7|N|140|2|50.5|E|",
+         "location_zipcode" : "261-0014",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12549A",
          "short_name" : "昭和学院秀英高校",
+         "url" : "http://www.showa-shuei.ed.jp/",
          "wikipedia_name" : "昭和学院秀英中学校・高等学校"
       },
       "昭和学院高等学校" : {
+         "location" : "千葉県市川市東菅野二丁目17番1号",
          "location_area" : "市川市",
+         "location_wikipedia_latlon" : "|35|44|1.7|N|139|55|50.2|E|",
+         "location_zipcode" : "272-0823",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12503C",
          "short_name" : "昭和学院高校",
+         "url" : "http://www.showa-gkn.ed.jp/js/",
          "wikipedia_name" : "昭和学院中学校・高等学校"
       },
       "暁星国際高等学校" : {
@@ -876,138 +1633,256 @@
          "short_name" : "暁星国際高校"
       },
       "木更津総合高等学校" : {
+         "location" : "千葉県木更津市東太田3丁目4-1",
          "location_area" : "木更津市",
+         "location_zipcode" : "292-8511",
          "owner_type" : "私立",
-         "short_name" : "木更津総合高校"
+         "senior_high_school_code" : "12561A",
+         "short_name" : "木更津総合高校",
+         "url" : "http://www.kimigaku.ed.jp/sohgoh/"
       },
       "東京学館浦安高等学校" : {
+         "location" : "千葉県浦安市高洲1-23-1",
          "location_area" : "浦安市",
+         "location_zipcode" : "279-0023",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12546G",
          "short_name" : "東京学館浦安高校",
+         "url" : "http://www.gakkan-urayasu.ed.jp/",
          "wikipedia_name" : "東京学館浦安中学校・高等学校"
       },
       "東京学館船橋高等学校" : {
+         "location" : "千葉県船橋市豊富町577",
          "location_area" : "船橋市",
+         "location_wikipedia_latlon" : "|35|46|22.3|N|140|4|25.8|E|",
+         "location_zipcode" : "274-0053",
          "owner_type" : "私立",
-         "short_name" : "東京学館船橋高校"
+         "senior_high_school_code" : "12555F",
+         "short_name" : "東京学館船橋高校",
+         "url" : "http://www.gakkan-f.jp/"
       },
       "東京学館高等学校" : {
+         "location" : "千葉県印旛郡酒々井町伊篠21",
          "location_area" : "印旛郡酒々井町",
+         "location_zipcode" : "285-8760",
          "owner_type" : "私立",
-         "short_name" : "東京学館高校"
+         "senior_high_school_code" : "12541F",
+         "short_name" : "東京学館高校",
+         "url" : "http://www.tokyogakkan.ed.jp/"
       },
       "東海大学付属望洋高等学校" : {
+         "location" : "千葉県市原市能満1531",
          "location_area" : "市原市",
+         "location_zipcode" : "290-0011",
          "owner_type" : "私立",
-         "short_name" : "東海大学付属望洋高校"
+         "senior_high_school_code" : "12534C",
+         "short_name" : "東海大学付属望洋高校",
+         "url" : "http://www.boyo.tokai.ed.jp/"
       },
       "東海大学付属浦安高等学校" : {
+         "location" : "千葉県浦安市東野三丁目11番1号",
          "location_area" : "浦安市",
+         "location_zipcode" : "279-8558",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12536K",
          "short_name" : "東海大学付属浦安高校",
+         "url" : "http://www.urayasu.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属浦安高等学校・中等部"
       },
       "東葉高等学校" : {
+         "location" : "千葉県船橋市飯山満町二丁目665番地1",
          "location_area" : "船橋市",
+         "location_zipcode" : "274-0056",
          "owner_type" : "私立",
-         "short_name" : "東葉高校"
+         "senior_high_school_code" : "12507F",
+         "short_name" : "東葉高校",
+         "url" : "http://www.toyohs.ed.jp/"
       },
       "東邦大学付属東邦高等学校" : {
+         "location" : "千葉県習志野市泉町2-1-37",
          "location_area" : "習志野市",
+         "location_zipcode" : "275-8511",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12522K",
          "short_name" : "東邦大学付属東邦高校",
+         "url" : "http://www.tohojh.toho-u.ac.jp/",
          "wikipedia_name" : "東邦大学付属東邦中学校・高等学校"
       },
       "松戸市立松戸高等学校" : {
+         "location" : "千葉県松戸市紙敷二丁目7番地の5",
+         "location_wikipedia_latlon" : "|35|46|34.8|N|139|57|1.9|E|",
+         "location_zipcode" : "270-2221",
          "owner_type" : "市立",
-         "short_name" : "松戸高校"
+         "senior_high_school_code" : "12194A",
+         "short_name" : "松戸高校",
+         "url" : "http://www.matsudo.ed.jp/~ichimatsu-h/"
       },
       "柏市立柏高等学校" : {
+         "location" : "千葉県柏市船戸山高野325-1",
+         "location_wikipedia_latlon" : "|35|55|28.5|N|139|56|23.9|E|",
+         "location_zipcode" : "277-0801",
          "owner_type" : "市立",
-         "short_name" : "柏高校"
+         "senior_high_school_code" : "12199B",
+         "short_name" : "柏高校",
+         "url" : "http://www.hs.kashiwa.ed.jp/index.html"
       },
       "柏日体高等学校" : {
+         "location" : "千葉県柏市戸張944番地",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|51|27.3|N|139|59|28.5|E|",
+         "location_zipcode" : "277-0008",
          "owner_type" : "私立",
-         "short_name" : "柏日体高校"
+         "senior_high_school_code" : "12525D",
+         "short_name" : "柏日体高校",
+         "url" : "http://www.k-nittai.ed.jp/"
       },
       "桜林高等学校" : {
+         "location" : "千葉県千葉市若葉区桜木北一丁目17番32号",
          "location_area" : "千葉市若葉区",
+         "location_zipcode" : "264-0029",
          "owner_type" : "私立",
-         "short_name" : "桜林高校"
+         "senior_high_school_code" : "12559J",
+         "short_name" : "桜林高校",
+         "url" : "http://www.orin.ed.jp/"
       },
       "植草学園大学附属高等学校" : {
+         "location" : "千葉県千葉市中央区弁天2-8-9",
          "location_area" : "千葉市中央区",
+         "location_zipcode" : "260-8601",
          "owner_type" : "私立",
-         "short_name" : "植草学園大学附属高校"
+         "senior_high_school_code" : "12542D",
+         "short_name" : "植草学園大学附属高校",
+         "url" : "http://u-u-a.uekusa.ac.jp/"
       },
       "横芝敬愛高等学校" : {
+         "location" : "千葉県山武郡横芝光町栗山4508",
          "location_area" : "山武郡横芝光町",
+         "location_zipcode" : "289-1733",
          "owner_type" : "私立",
-         "short_name" : "横芝敬愛高校"
+         "senior_high_school_code" : "12535A",
+         "short_name" : "横芝敬愛高校",
+         "url" : "http://www.yokoshibakeiai.ed.jp/"
       },
       "流通経済大学付属柏高等学校" : {
+         "location" : "千葉県柏市十余二1番地20",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|54|24|N|139|55|41|E|",
+         "location_zipcode" : "277-0872",
          "owner_type" : "私立",
-         "short_name" : "流通経済大学付属柏高校"
+         "senior_high_school_code" : "12553K",
+         "short_name" : "流通経済大学付属柏高校",
+         "url" : "http://www.rku.ac.jp/rkukhs/index.html"
       },
       "渋谷教育学園幕張高等学校" : {
+         "location" : "千葉県千葉市美浜区若葉一丁目3番地",
          "location_area" : "千葉市美浜区",
+         "location_wikipedia_latlon" : "|35|39|16.5|N|140|2|44.5|E|",
+         "location_zipcode" : "261-0014",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12548C",
          "short_name" : "渋谷教育学園幕張高校",
+         "url" : "http://www.shibumaku.jp/",
          "wikipedia_name" : "渋谷教育学園幕張中学校・高等学校"
       },
       "秀明大学八千代高等学校" : {
+         "location" : "千葉県八千代市桑橋803",
          "location_area" : "八千代市",
+         "location_wikipedia_latlon" : "|35|45|13.9|N|140|5|15.1|E|",
+         "location_zipcode" : "276-0007",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12552A",
          "short_name" : "秀明大学八千代高校",
+         "url" : "http://www.shumeiyachiyo.ed.jp/",
          "wikipedia_name" : "秀明八千代中学校・高等学校"
       },
       "習志野市立習志野高等学校" : {
+         "location" : "千葉県習志野市東習志野一丁目2番1号",
+         "location_wikipedia_latlon" : "|35|41|40.6|N|140|03|57.0|E|",
+         "location_zipcode" : "275-0001",
          "owner_type" : "市立",
-         "short_name" : "習志野高校"
+         "senior_high_school_code" : "12192E",
+         "short_name" : "習志野高校",
+         "url" : "http://www.nkc.city.narashino.chiba.jp/narako/"
       },
       "聖徳大学附属女子高等学校" : {
+         "location" : "千葉県松戸市秋山600",
          "location_area" : "松戸市",
+         "location_wikipedia_latlon" : "|35|45|41.9|N|139|55|27.8|E|",
+         "location_zipcode" : "270-2223",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12551C",
          "short_name" : "聖徳大学附属女子高校",
+         "url" : "http://www.seitoku.jp/highschool/index.html",
          "wikipedia_name" : "聖徳大学附属女子中学校・高等学校"
       },
       "船橋市立船橋高等学校" : {
+         "location" : "千葉県船橋市市場四丁目5番1号",
+         "location_wikipedia_latlon" : "|35|42|6.6|N|139|59|57.1|E|",
+         "location_zipcode" : "273-0001",
          "owner_type" : "市立",
-         "short_name" : "船橋高校"
+         "senior_high_school_code" : "12191G",
+         "short_name" : "船橋高校",
+         "url" : "http://www1.biz.biglobe.ne.jp/~ichifuna/ichifuna.html"
       },
       "芝浦工業大学柏高等学校" : {
+         "location" : "千葉県柏市増尾700",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|50|26.8|N|139|59|8.4|E|",
+         "location_zipcode" : "277-0033",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12545J",
          "short_name" : "芝浦工業大学柏高校",
+         "url" : "http://www.ka.shibaura-it.ac.jp/",
          "wikipedia_name" : "芝浦工業大学柏中学高等学校"
       },
       "茂原北陵高等学校" : {
+         "location" : "千葉県茂原市吉井上128",
          "location_area" : "茂原市",
+         "location_zipcode" : "299-4122",
          "owner_type" : "私立",
-         "short_name" : "茂原北陵高校"
+         "senior_high_school_code" : "12508D",
+         "short_name" : "茂原北陵高校",
+         "url" : "http://homepage3.nifty.com/mhhs/"
       },
       "西武台千葉高等学校" : {
+         "location" : "千葉県野田市尾崎2241-2",
          "location_area" : "野田市",
+         "location_zipcode" : "270-0235",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12554H",
          "short_name" : "西武台千葉高校",
+         "url" : "http://www.seibudai-chiba.jp/",
          "wikipedia_name" : "西武台中学校・西武台千葉高等学校"
       },
       "銚子市立銚子高等学校" : {
+         "location" : "千葉県銚子市野尻町1600",
+         "location_zipcode" : "288-0863",
          "owner_type" : "市立",
-         "short_name" : "銚子高校"
+         "school_area" : "第5学区",
+         "senior_high_school_code" : "12190J",
+         "short_name" : "銚子高校",
+         "url" : "http://choshi-h.jp/"
       },
       "青森山田高等学校" : {
+         "location" : "青森県青森市青葉三丁目13番40号",
          "location_area" : "千葉市中央区",
+         "location_wikipedia_latlon" : "|40|48|14.0|N|140|44|57.5|E|",
+         "location_zipcode" : "030-8520",
          "owner_type" : "私立",
+         "senior_high_school_code" : "02505E",
          "short_name" : "青森山田高校",
+         "url" : "http://www.aomori-yamada-hs.ac.jp/",
          "wikipedia_name" : "青森山田中学高等学校"
       },
       "麗澤高等学校" : {
+         "location" : "千葉県柏市光ヶ丘2-1-1",
          "location_area" : "柏市",
+         "location_wikipedia_latlon" : "|35|49|52.7|N|139|57|2.8|E|",
+         "location_zipcode" : "277-8686",
          "owner_type" : "私立",
+         "senior_high_school_code" : "12513A",
          "short_name" : "麗澤高校",
+         "url" : "http://www.hs.reitaku.jp/",
          "wikipedia_name" : "麗澤中学校・高等学校"
       }
    }

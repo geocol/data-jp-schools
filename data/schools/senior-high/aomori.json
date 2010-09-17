@@ -1,80 +1,147 @@
 {
    "senior_high_schools" : {
       "五所川原商業高等学校" : {
+         "location" : "青森県五所川原市大字唐笠柳字藤巻80",
+         "location_zipcode" : "037-0004",
          "owner_type" : "私立",
-         "short_name" : "五所川原商業高校"
+         "senior_high_school_code" : "02513F",
+         "short_name" : "五所川原商業高校",
+         "url" : "http://www.shimoyamagakuen.ed.jp/home%20page/framepage.html"
       },
       "五所川原第一高等学校" : {
+         "location" : "青森県五所川原市元町42番地",
+         "location_zipcode" : "037-0044",
          "owner_type" : "私立",
-         "short_name" : "五所川原第一高校"
+         "senior_high_school_code" : "02512H",
+         "short_name" : "五所川原第一高校",
+         "url" : "http://www.goichiko.jp/"
       },
       "光星学院野辺地西高等学校" : {
+         "location" : "青森県上北郡野辺地町枇杷野51-6",
+         "location_zipcode" : "039-3156",
          "owner_type" : "私立",
-         "short_name" : "光星学院野辺地西高校"
+         "short_name" : "光星学院野辺地西高校",
+         "url" : "http://www.jomon.ne.jp/~nishikou/"
       },
       "光星学院高等学校" : {
+         "location" : "青森県八戸市湊高台六丁目14番5号",
+         "location_zipcode" : "031-0812",
          "owner_type" : "私立",
-         "short_name" : "光星学院高校"
+         "senior_high_school_code" : "02509H",
+         "short_name" : "光星学院高校",
+         "url" : "http://www.jomon.ne.jp/~kosei05/"
       },
       "八戸工業大学第一高等学校" : {
+         "location" : "青森県八戸市大字白銀町字右岩淵通7-10",
+         "location_zipcode" : "031-0822",
          "owner_type" : "私立",
-         "short_name" : "八戸工業大学第一高校"
+         "short_name" : "八戸工業大学第一高校",
+         "url" : "http://www.kodai1.ed.jp/"
       },
       "八戸工業大学第二高等学校" : {
+         "location" : "青森県八戸市大字妙字大開67",
+         "location_zipcode" : "031-8505",
          "owner_type" : "私立",
-         "short_name" : "八戸工業大学第二高校"
+         "senior_high_school_code" : "02516A",
+         "short_name" : "八戸工業大学第二高校",
+         "url" : "http://www.kodai2-h.ed.jp/"
       },
       "八戸聖ウルスラ学院高等学校" : {
          "owner_type" : "私立",
          "short_name" : "八戸聖ウルスラ学院高校"
       },
       "千葉学園高等学校" : {
+         "location" : "青森県八戸市類家一丁目1番11号",
+         "location_zipcode" : "031-0001",
          "owner_type" : "私立",
-         "short_name" : "千葉学園高校"
+         "short_name" : "千葉学園高校",
+         "url" : "http://www.hi-net.ne.jp/chibano2/"
       },
       "向陵高等学校" : {
+         "location" : "青森県八戸市大字田向字間ノ田30",
+         "location_zipcode" : "031-0011",
          "owner_type" : "私立",
-         "short_name" : "向陵高校"
+         "short_name" : "向陵高校",
+         "url" : "http://www.chibagakuen.ac.jp/kouryo/"
       },
       "弘前学院聖愛高等学校" : {
+         "location" : "青森県弘前市大字原ヶ平字山元112-21",
+         "location_wikipedia_latlon" : "|40|34|17.8|N|140|28|13.4|E|",
+         "location_zipcode" : "036-8144",
          "owner_type" : "私立",
+         "senior_high_school_code" : "02502A",
          "short_name" : "弘前学院聖愛高校",
+         "url" : "http://www.seiai.ed.jp/",
          "wikipedia_name" : "弘前学院聖愛中学高等学校"
       },
       "弘前東高等学校" : {
+         "location" : "青森県弘前市大字川先四丁目4番地1",
+         "location_zipcode" : "036-8103",
          "owner_type" : "私立",
-         "short_name" : "弘前東高校"
+         "short_name" : "弘前東高校",
+         "url" : "http://www.hirosakihigashi-th.ed.jp/"
       },
       "東奥学園高等学校" : {
+         "location" : "青森県青森市勝田二丁目11番1号",
+         "location_zipcode" : "030-0821",
          "owner_type" : "私立",
-         "short_name" : "東奥学園高校"
+         "senior_high_school_code" : "02504G",
+         "short_name" : "東奥学園高校",
+         "url" : "http://www.toogakuen.ac.jp/index.html"
       },
       "東奥義塾高等学校" : {
+         "location" : "青森県弘前市大字石川字長者森61-1",
+         "location_zipcode" : "036-8124",
          "owner_type" : "私立",
-         "short_name" : "東奥義塾高校"
+         "senior_high_school_code" : "02501B",
+         "short_name" : "東奥義塾高校",
+         "url" : "http://www.gijuku.ac.jp/"
       },
       "松風塾高等学校" : {
+         "location" : "青森県東津軽郡平内町大字外童子字滝ノ沢37番地",
+         "location_zipcode" : "039-3351",
          "owner_type" : "私立",
-         "short_name" : "松風塾高校"
+         "senior_high_school_code" : "02514D",
+         "short_name" : "松風塾高校",
+         "url" : "http://www.infoaomori.ne.jp/shofuko/"
       },
       "柴田女子高等学校" : {
+         "location" : "青森県弘前市豊原一丁目2番1号",
+         "location_wikipedia_latlon" : "|40|35|1.1|N|140|28|44.0|E|",
+         "location_zipcode" : "036-8154",
          "owner_type" : "私立",
-         "short_name" : "柴田女子高校"
+         "senior_high_school_code" : "02503J",
+         "short_name" : "柴田女子高校",
+         "url" : "http://academic2.plala.or.jp/shibatah/"
       },
       "青森山田高等学校" : {
+         "location" : "青森県青森市青葉三丁目13番40号",
+         "location_wikipedia_latlon" : "|40|48|14.0|N|140|44|57.5|E|",
+         "location_zipcode" : "030-8520",
          "owner_type" : "私立",
+         "senior_high_school_code" : "02505E",
          "short_name" : "青森山田高校",
+         "url" : "http://www.aomori-yamada-hs.ac.jp/",
          "wikipedia_name" : "青森山田中学高等学校"
       },
       "青森明の星高等学校" : {
+         "location" : "青森県青森市浪打二丁目6番32号",
+         "location_wikipedia_latlon" : "|40|49|27.2|N|140|46|53.6|E|",
+         "location_zipcode" : "030-0961",
          "owner_type" : "私立",
+         "senior_high_school_code" : "02506C",
          "short_name" : "青森明の星高校",
+         "url" : "http://www.aomoriakenohoshi.ed.jp/",
          "wikipedia_name" : "青森明の星中学・高等学校"
       },
       "青森県立むつ工業高等学校" : {
+         "location" : "青森県むつ市文京町22-7",
          "location_area" : "むつ市",
+         "location_zipcode" : "035-0082",
          "owner_type" : "県立",
-         "short_name" : "むつ工業高校"
+         "senior_high_school_code" : "02146G",
+         "short_name" : "むつ工業高校",
+         "url" : "http://www.shimokita.asn.ed.jp/~th/"
       },
       "青森県立七戸高等学校" : {
          "location_area" : "上北郡七戸町",
@@ -102,14 +169,23 @@
          "short_name" : "三本木高校"
       },
       "青森県立三沢商業高等学校" : {
+         "location" : "青森県三沢市春日台二丁目154番地",
          "location_area" : "三沢市",
+         "location_wikipedia_latlon" : "|40|40|7.8|N|141|20|37.1|E|",
+         "location_zipcode" : "033-0053",
          "owner_type" : "県立",
-         "short_name" : "三沢商業高校"
+         "short_name" : "三沢商業高校",
+         "url" : "http://www.kamikita.asn.ed.jp/~ch/"
       },
       "青森県立三沢高等学校" : {
+         "location" : "青森県三沢市松園町一丁目1番地",
          "location_area" : "三沢市",
+         "location_wikipedia_latlon" : "|40|40|42.5|N|141|22|16.7|E|",
+         "location_zipcode" : "033-0037",
          "owner_type" : "県立",
-         "short_name" : "三沢高校"
+         "senior_high_school_code" : "02129G",
+         "short_name" : "三沢高校",
+         "url" : "http://www.kamikita.asn.ed.jp/~misawa/top/"
       },
       "青森県立中里高等学校" : {
          "location_area" : "北津軽郡中泊町",
@@ -132,9 +208,13 @@
          "short_name" : "五所川原農林高校"
       },
       "青森県立五所川原高等学校" : {
+         "location" : "青森県五所川原市中平井町3番地3",
          "location_area" : "五所川原市",
+         "location_zipcode" : "037-0066",
          "owner_type" : "県立",
-         "short_name" : "五所川原高校"
+         "senior_high_school_code" : "02118A",
+         "short_name" : "五所川原高校",
+         "url" : "http://www.seihoku.asn.ed.jp/~h/"
       },
       "青森県立五所川原高等学校東校舎" : {
          "location_area" : "五所川原市",
@@ -142,54 +222,91 @@
          "short_name" : "五所川原高校東校舎"
       },
       "青森県立八戸中央高等学校" : {
+         "location" : "青森県八戸市諏訪一丁目2番17号",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0803",
          "owner_type" : "県立",
-         "short_name" : "八戸中央高校"
+         "senior_high_school_code" : "02154H",
+         "short_name" : "八戸中央高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~chuo/"
       },
       "青森県立八戸北高等学校" : {
+         "location" : "青森県八戸市大字大久保字町道8-3",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0833",
          "owner_type" : "県立",
-         "short_name" : "八戸北高校"
+         "senior_high_school_code" : "02112B",
+         "short_name" : "八戸北高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~kita/"
       },
       "青森県立八戸北高等学校南郷校舎" : {
+         "location" : "青森県八戸市南郷区大字市野沢字三合山8",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0111",
          "owner_type" : "県立",
-         "short_name" : "八戸北高校南郷校舎"
+         "short_name" : "八戸北高校南郷校舎",
+         "url" : "http://www.sanpachi-s.asn.ed.jp/~nango/"
       },
       "青森県立八戸南高等学校" : {
+         "location" : "青森県八戸市大字鮫町字小舟渡平9-291",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0841",
          "owner_type" : "県立",
-         "short_name" : "八戸南高校"
+         "short_name" : "八戸南高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~minami/"
       },
       "青森県立八戸商業高等学校" : {
+         "location" : "青森県八戸市大字十日市字塚ノ下3の1",
          "location_area" : "八戸市",
+         "location_wikipedia_latlon" : "|40|28|35.6|N|141|30|41.8|E|",
+         "location_zipcode" : "031-0012",
          "owner_type" : "県立",
-         "short_name" : "八戸商業高校"
+         "senior_high_school_code" : "02152A",
+         "short_name" : "八戸商業高校",
+         "url" : "http://www.sanpachi-s.asn.ed.jp/~ch/"
       },
       "青森県立八戸工業高等学校" : {
+         "location" : "青森県八戸市江陽一丁目2番27号",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0801",
          "owner_type" : "県立",
-         "short_name" : "八戸工業高校"
+         "short_name" : "八戸工業高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~th/"
       },
       "青森県立八戸東高等学校" : {
+         "location" : "青森県八戸市類家一丁目4番47号",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0001",
          "owner_type" : "県立",
-         "short_name" : "八戸東高校"
+         "senior_high_school_code" : "02111D",
+         "short_name" : "八戸東高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~higashi/"
       },
       "青森県立八戸水産高等学校" : {
+         "location" : "青森県八戸市大字白銀町字人形沢6-1",
          "location_area" : "八戸市",
+         "location_wikipedia_latlon" : "|40|31|37.9|N|141|33|7.3|E|",
+         "location_zipcode" : "031-0822",
          "owner_type" : "県立",
-         "short_name" : "八戸水産高校"
+         "short_name" : "八戸水産高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~suisan/"
       },
       "青森県立八戸西高等学校" : {
+         "location" : "青森県八戸市大字尻内町字中根市14",
          "location_area" : "八戸市",
+         "location_zipcode" : "039-1101",
          "owner_type" : "県立",
-         "short_name" : "八戸西高校"
+         "short_name" : "八戸西高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~nishi/"
       },
       "青森県立八戸高等学校" : {
+         "location" : "青森県八戸市長者四丁目4番1号",
          "location_area" : "八戸市",
+         "location_zipcode" : "031-0021",
          "owner_type" : "県立",
-         "short_name" : "八戸高校"
+         "senior_high_school_code" : "02110F",
+         "short_name" : "八戸高校",
+         "url" : "http://www.sanpachi-n.asn.ed.jp/~h/"
       },
       "青森県立六ヶ所高等学校" : {
          "location_area" : "上北郡六ヶ所村",
@@ -202,9 +319,13 @@
          "short_name" : "六戸高校"
       },
       "青森県立北斗高等学校" : {
+         "location" : "青森県青森市松原二丁目1番24号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0813",
          "owner_type" : "県立",
-         "short_name" : "北斗高校"
+         "senior_high_school_code" : "02153K",
+         "short_name" : "北斗高校",
+         "url" : "http://www.tosei-e.asn.ed.jp/~hokuto/"
       },
       "青森県立十和田工業高等学校" : {
          "location_area" : "十和田市",
@@ -227,9 +348,13 @@
          "short_name" : "名久井農業高校"
       },
       "青森県立大湊高等学校" : {
+         "location" : "青森県むつ市大湊大近川44-84",
          "location_area" : "むつ市",
+         "location_zipcode" : "035-0096",
          "owner_type" : "県立",
-         "short_name" : "大湊高校"
+         "senior_high_school_code" : "02131J",
+         "short_name" : "大湊高校",
+         "url" : "http://www.shimokita.asn.ed.jp/~ohminato/"
       },
       "青森県立大湊高等学校川内校舎" : {
          "location_area" : "むつ市",
@@ -247,9 +372,14 @@
          "short_name" : "尾上総合高校"
       },
       "青森県立岩木高等学校" : {
+         "location" : "青森県弘前市大字駒越字村元75番地1",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|36|36.0|N|140|26|36.6|E|",
+         "location_zipcode" : "036-1322",
          "owner_type" : "県立",
-         "short_name" : "岩木高校"
+         "senior_high_school_code" : "02157B",
+         "short_name" : "岩木高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~iwaki/"
       },
       "青森県立平内高等学校" : {
          "location_area" : "東津軽郡平内町",
@@ -257,14 +387,24 @@
          "short_name" : "平内高校"
       },
       "青森県立弘前中央高等学校" : {
+         "location" : "青森県弘前市大字蔵主町7番地1",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|36|33.9|N|140|28|11.8|E|",
+         "location_zipcode" : "036-8345",
          "owner_type" : "県立",
-         "short_name" : "弘前中央高校"
+         "senior_high_school_code" : "02108D",
+         "short_name" : "弘前中央高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~chuo/"
       },
       "青森県立弘前南高等学校" : {
+         "location" : "青森県弘前市大開四丁目1番地1",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|34|49.7|N|140|26|42.9|E|",
+         "location_zipcode" : "036-8247",
          "owner_type" : "県立",
-         "short_name" : "弘前南高校"
+         "senior_high_school_code" : "02109B",
+         "short_name" : "弘前南高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~minami/"
       },
       "青森県立弘前南高等学校大鰐校舎" : {
          "location_area" : "南津軽郡大鰐町",
@@ -272,9 +412,14 @@
          "short_name" : "弘前南高校大鰐校舎"
       },
       "青森県立弘前実業高等学校" : {
+         "location" : "青森県弘前市中野三丁目6番10号",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|34|41.7|N|140|28|28.7|E|",
+         "location_zipcode" : "036-8155",
          "owner_type" : "県立",
-         "short_name" : "弘前実業高校"
+         "senior_high_school_code" : "02149A",
+         "short_name" : "弘前実業高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~jitsugyo/"
       },
       "青森県立弘前実業高等学校藤崎校舎" : {
          "location_area" : "南津軽郡藤崎町",
@@ -282,24 +427,43 @@
          "short_name" : "弘前実業高校藤崎校舎"
       },
       "青森県立弘前工業高等学校" : {
+         "location" : "青森県弘前市馬屋町6番2号",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|36|23.4|N|140|27|41.3|E|",
+         "location_zipcode" : "803-0837",
          "owner_type" : "県立",
-         "short_name" : "弘前工業高校"
+         "senior_high_school_code" : "02142D",
+         "short_name" : "弘前工業高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~th/"
       },
       "青森県立弘前高等学校" : {
+         "location" : "青森県弘前市新寺町1-1",
          "location_area" : "弘前市",
+         "location_wikipedia_latlon" : "|40|35|43.4|N|140|28|2.7|E|",
+         "location_zipcode" : "036-8558",
          "owner_type" : "県立",
-         "short_name" : "弘前高校"
+         "senior_high_school_code" : "02107F",
+         "short_name" : "弘前高校",
+         "url" : "http://www.chunan-w.asn.ed.jp/~h/"
       },
       "青森県立木造高等学校" : {
+         "location" : "青森県つがる市木造日向73-2",
          "location_area" : "つがる市",
+         "location_wikipedia_latlon" : "|40|48|38.9|N|140|23|32.4|E|",
+         "location_zipcode" : "038-3139",
          "owner_type" : "県立",
-         "short_name" : "木造高校"
+         "senior_high_school_code" : "02115G",
+         "short_name" : "木造高校",
+         "url" : "http://www.seihoku.asn.ed.jp/~kizukuri/"
       },
       "青森県立木造高等学校深浦校舎" : {
+         "location" : "青森県西津軽郡深浦町大字広戸字家野上95番地157",
          "location_area" : "西津軽郡深浦町",
+         "location_zipcode" : "038-2321",
          "owner_type" : "県立",
-         "short_name" : "木造高校深浦校舎"
+         "senior_high_school_code" : "02115G",
+         "short_name" : "木造高校深浦校舎",
+         "url" : "http://www.fukakou.ed.jp/"
       },
       "青森県立木造高等学校稲垣分校" : {
          "location_area" : "つがる市",
@@ -317,14 +481,23 @@
          "short_name" : "柏木農業高校"
       },
       "青森県立浪岡高等学校" : {
+         "location" : "青森県青森市浪岡大字浪岡字稲村101番地2",
          "location_area" : "青森市",
+         "location_wikipedia_latlon" : "|40|42|32.6|N|140|35|38.0|E|",
+         "location_zipcode" : "038-1311",
          "owner_type" : "県立",
-         "short_name" : "浪岡高校"
+         "senior_high_school_code" : "02124F",
+         "short_name" : "浪岡高校",
+         "url" : "http://www.chunan-e.asn.ed.jp/~namioka/"
       },
       "青森県立田名部高等学校" : {
+         "location" : "青森県むつ市海老川町6-18",
          "location_area" : "むつ市",
+         "location_zipcode" : "035-0054",
          "owner_type" : "県立",
-         "short_name" : "田名部高校"
+         "senior_high_school_code" : "02130A",
+         "short_name" : "田名部高校",
+         "url" : "http://www.tanabuhs.ed.jp/"
       },
       "青森県立田名部高等学校大畑校舎" : {
          "location_area" : "むつ市",
@@ -342,9 +515,13 @@
          "short_name" : "百石高校"
       },
       "青森県立野辺地高等学校" : {
+         "location" : "青森県上北郡野辺地町字松ノ木106-1",
          "location_area" : "上北郡野辺地町",
+         "location_zipcode" : "039-3157",
          "owner_type" : "県立",
-         "short_name" : "野辺地高校"
+         "senior_high_school_code" : "02125D",
+         "short_name" : "野辺地高校",
+         "url" : "http://www.kamikita.asn.ed.jp/~noheji/"
       },
       "青森県立金木高等学校" : {
          "location_area" : "五所川原市",
@@ -357,14 +534,23 @@
          "short_name" : "金木高校市浦分校"
       },
       "青森県立青森中央高等学校" : {
+         "location" : "青森県青森市東大野一丁目22番1号",
          "location_area" : "青森市",
+         "location_wikipedia_latlon" : "|40|48|8.1|N|140|44|39.9|E|",
+         "location_zipcode" : "030-0847",
          "owner_type" : "県立",
-         "short_name" : "青森中央高校"
+         "senior_high_school_code" : "02106H",
+         "short_name" : "青森中央高校",
+         "url" : "http://www.tosei-w.asn.ed.jp/~chuo/"
       },
       "青森県立青森北高等学校" : {
+         "location" : "青森県青森市大字羽白字富田80番7号",
          "location_area" : "青森市",
+         "location_zipcode" : "038-0058",
          "owner_type" : "県立",
-         "short_name" : "青森北高校"
+         "senior_high_school_code" : "02104A",
+         "short_name" : "青森北高校",
+         "url" : "http://www.tosei-w.asn.ed.jp/~kita/index.html"
       },
       "青森県立青森北高等学校今別校舎" : {
          "location_area" : "東津軽郡今別町",
@@ -377,34 +563,59 @@
          "short_name" : "青森南高校"
       },
       "青森県立青森商業高等学校" : {
+         "location" : "青森県青森市東造道一丁目6番1号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0913",
          "owner_type" : "県立",
-         "short_name" : "青森商業高校"
+         "senior_high_school_code" : "02148C",
+         "short_name" : "青森商業高校",
+         "url" : "http://www.tosei-e.asn.ed.jp/~ch/index.html"
       },
       "青森県立青森工業高等学校" : {
+         "location" : "青森県青森市篠田三丁目16番1号",
          "location_area" : "青森市",
+         "location_zipcode" : "038-0011",
          "owner_type" : "県立",
-         "short_name" : "青森工業高校"
+         "senior_high_school_code" : "02141F",
+         "short_name" : "青森工業高校",
+         "url" : "http://www.tosei-w.asn.ed.jp/~th/"
       },
       "青森県立青森戸山高等学校" : {
+         "location" : "青森県青森市大字戸山字安原7番地1",
          "location_area" : "青森市",
+         "location_wikipedia_latlon" : "|40|48|41.2|N|140|47|52.7|E|",
+         "location_zipcode" : "030-0951",
          "owner_type" : "県立",
-         "short_name" : "青森戸山高校"
+         "senior_high_school_code" : "02162J",
+         "short_name" : "青森戸山高校",
+         "url" : "http://www.tosei-e.asn.ed.jp/~toyama/"
       },
       "青森県立青森東高等学校" : {
+         "location" : "青森県青森市原別三丁目1番1号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0921",
          "owner_type" : "県立",
-         "short_name" : "青森東高校"
+         "senior_high_school_code" : "02103C",
+         "short_name" : "青森東高校",
+         "url" : "http://www.tosei-e.asn.ed.jp/~higashi/"
       },
       "青森県立青森西高等学校" : {
+         "location" : "青森県青森市新城平岡266-20",
          "location_area" : "青森市",
+         "location_zipcode" : "038-0042",
          "owner_type" : "県立",
-         "short_name" : "青森西高校"
+         "senior_high_school_code" : "02102E",
+         "short_name" : "青森西高校",
+         "url" : "http://www.tosei-w.asn.ed.jp/~nishi/"
       },
       "青森県立青森高等学校" : {
+         "location" : "青森県青森市桜川八丁目1番2号",
          "location_area" : "青森市",
+         "location_zipcode" : "030-0945",
          "owner_type" : "県立",
-         "short_name" : "青森高校"
+         "senior_high_school_code" : "02101G",
+         "short_name" : "青森高校",
+         "url" : "http://www.tosei-e.asn.ed.jp/~h/"
       },
       "青森県立鰺ヶ沢高等学校" : {
          "location_area" : "西津軽郡鰺ヶ沢町",

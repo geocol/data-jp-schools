@@ -1,12 +1,21 @@
 {
    "senior_high_schools" : {
       "くまもと清陵高等学校" : {
+         "location" : "熊本県阿蘇郡南阿蘇村久石1-101",
+         "location_zipcode" : "869-1412",
          "owner_type" : "私立",
-         "short_name" : "くまもと清陵高校"
+         "senior_high_school_code" : "43524E",
+         "short_name" : "くまもと清陵高校",
+         "url" : "http://www.k-seiryo.jp/"
       },
       "ルーテル学院高等学校" : {
+         "location" : "熊本県熊本市黒髪三丁目12番16号",
+         "location_wikipedia_latlon" : "|32|49|11.4|N|130|43|22.6|E|",
+         "location_zipcode" : "860-8520",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43511C",
          "short_name" : "ルーテル学院高校",
+         "url" : "http://www.luther.ed.jp/",
          "wikipedia_name" : "ルーテル学院中学校・高等学校"
       },
       "一ツ葉高等学校熊本キャンパス" : {
@@ -15,95 +24,188 @@
          "wikipedia_name" : "一ツ葉高等学校"
       },
       "九州学院高等学校" : {
+         "location" : "熊本県熊本市大江五丁目2番1号",
+         "location_wikipedia_latlon" : "|32|47|52.3|N|130|43|16.2|E|",
+         "location_zipcode" : "862-8676",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43508C",
          "short_name" : "九州学院高校",
+         "url" : "http://www.kyugaku.ed.jp/",
          "wikipedia_name" : "九州学院中学校・高等学校"
       },
       "八代白百合学園高等学校" : {
+         "location" : "熊本県八代市井上町727番1号",
+         "location_wikipedia_latlon" : "|32|31|3.947|N|130|37|54.268|E|",
+         "location_zipcode" : "866-0825",
          "owner_type" : "私立",
-         "short_name" : "八代白百合学園高校"
+         "senior_high_school_code" : "43507E",
+         "short_name" : "八代白百合学園高校",
+         "url" : "http://www.yatsushiro-shirayuri.ed.jp/"
       },
       "勇志国際高等学校" : {
+         "location" : "熊本県天草市御所浦町牧島1065-3",
+         "location_zipcode" : "866-0334",
          "owner_type" : "私立",
-         "short_name" : "勇志国際高校"
+         "senior_high_school_code" : "43523G",
+         "short_name" : "勇志国際高校",
+         "url" : "http://www.yushi-kokusai.jp/"
       },
       "城北高等学校" : {
+         "location" : "熊本県山鹿市志々岐798",
+         "location_zipcode" : "861-0598",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43522J",
          "short_name" : "城北高校",
+         "url" : "http://www.johoku-hs.ed.jp/home.htm",
          "wikipedia_name" : "城北高等学校 (熊本県)"
       },
       "専修大学玉名高等学校" : {
+         "location" : "熊本県玉名市岱明町野口1046",
+         "location_wikipedia_latlon" : "|32|55|27.8|N|130|32|14.7|E|",
+         "location_zipcode" : "869-0293",
          "owner_type" : "私立",
-         "short_name" : "専修大学玉名高校"
+         "senior_high_school_code" : "43521A",
+         "short_name" : "専修大学玉名高校",
+         "url" : "http://www.senshu.ac.jp/"
       },
       "尚絅高等学校" : {
+         "location" : "熊本県熊本市九品寺二丁目6番78号",
+         "location_wikipedia_latlon" : "|32|47|50.8|N|130|43|2.4|E|",
+         "location_zipcode" : "862-8678",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43502D",
          "short_name" : "尚絅高校",
+         "url" : "http://www.shokei-gakuen.ac.jp/jh/",
          "wikipedia_name" : "尚絅中学校・高等学校"
       },
       "慶誠高等学校" : {
+         "location" : "熊本県熊本市大江四丁目9番58号",
+         "location_wikipedia_latlon" : "|32|47|58.6|N|130|43|15.5|E|",
+         "location_zipcode" : "862-0971",
          "owner_type" : "私立",
-         "short_name" : "慶誠高校"
+         "senior_high_school_code" : "43509A",
+         "short_name" : "慶誠高校",
+         "url" : "http://www.keisei-h.ed.jp/"
       },
       "文徳高等学校" : {
+         "location" : "熊本県熊本市池田四丁目23番1号",
+         "location_wikipedia_latlon" : "|32|50|1.1|N|130|41|44.1|E|",
+         "location_zipcode" : "860-0082",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43517B",
          "short_name" : "文徳高校",
+         "url" : "http://www.buntoku-j.ed.jp/",
          "wikipedia_name" : "文徳中学校・高等学校"
       },
       "有明高等学校" : {
+         "location" : "熊本県荒尾市増永2200",
+         "location_zipcode" : "864-0032",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43516D",
          "short_name" : "有明高校",
+         "url" : "http://www15.ocn.ne.jp/~hsariake/",
          "wikipedia_name" : "有明高等学校 (熊本県)"
       },
       "東海大学付属第二高等学校" : {
+         "location" : "熊本県熊本市渡鹿九丁目1番1号",
+         "location_wikipedia_latlon" : "|32|48|45.1|N|130|44|42.8|E|",
+         "location_zipcode" : "862-0970",
          "owner_type" : "私立",
-         "short_name" : "東海大学付属第二高校"
+         "senior_high_school_code" : "43518A",
+         "short_name" : "東海大学付属第二高校",
+         "url" : "http://www.tokai.ed.jp/daini/index.asp"
       },
       "熊本フェイス学院高等学校" : {
+         "location" : "熊本県熊本市南高江七丁目3番1号",
+         "location_wikipedia_latlon" : "|32|44|40.2|N|130|41|12.1|E|",
+         "location_zipcode" : "861-4106",
          "owner_type" : "私立",
-         "short_name" : "熊本フェイス学院高校"
+         "senior_high_school_code" : "43501F",
+         "short_name" : "熊本フェイス学院高校",
+         "url" : "http://www.faith.ac.jp/"
       },
       "熊本マリスト学園高等学校" : {
+         "location" : "熊本県熊本市健軍二丁目11番54号",
+         "location_wikipedia_latlon" : "|32|47|0.2|N|130|45|1.5|E|",
+         "location_zipcode" : "862-0911",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43515F",
          "short_name" : "熊本マリスト学園高校",
+         "url" : "http://www.marist.ed.jp/",
          "wikipedia_name" : "熊本マリスト学園中学校・高等学校"
       },
       "熊本中央高等学校" : {
+         "location" : "熊本県熊本市内坪井町4番8号",
+         "location_wikipedia_latlon" : "|32|48|38.5|N|130|42|31|E|",
+         "location_zipcode" : "860-8558",
          "owner_type" : "私立",
-         "short_name" : "熊本中央高校"
+         "senior_high_school_code" : "43504A",
+         "short_name" : "熊本中央高校",
+         "url" : "http://www.kumamotochuo-h.ed.jp/"
       },
       "熊本信愛女学院高等学校" : {
+         "location" : "熊本県熊本市上林町3番18号",
+         "location_wikipedia_latlon" : "|32|48|30.1|N|130|42|39.8|E|",
+         "location_zipcode" : "860-8557",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43503B",
          "short_name" : "熊本信愛女学院高校",
+         "url" : "http://www.kumamoto-shin-ai.ed.jp/",
          "wikipedia_name" : "熊本信愛女学院中学校・高等学校"
       },
       "熊本国府高等学校" : {
+         "location" : "熊本県熊本市国府二丁目15番1号",
+         "location_wikipedia_latlon" : "|32|47|16|N|130|43|41.4|E|",
+         "location_zipcode" : "862-0949",
          "owner_type" : "私立",
-         "short_name" : "熊本国府高校"
+         "senior_high_school_code" : "43512A",
+         "short_name" : "熊本国府高校",
+         "url" : "http://www.kumamotokokufu-h.ed.jp/"
       },
       "熊本学園大学付属高等学校" : {
+         "location" : "熊本県熊本市大江二丁目5番1号",
+         "location_wikipedia_latlon" : "|32|48|18.6|N|130|43|41.9|E|",
+         "location_zipcode" : "862-0971",
          "owner_type" : "私立",
-         "short_name" : "熊本学園大学付属高校"
+         "senior_high_school_code" : "43514H",
+         "short_name" : "熊本学園大学付属高校",
+         "url" : "http://www.kumagaku-h.ed.jp/"
       },
       "熊本市立千原台高等学校" : {
+         "location" : "熊本県熊本市島崎2-37-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|48|25.8|N|130|41|13.2|E|",
+         "location_zipcode" : "860-0073",
          "owner_type" : "市立",
-         "short_name" : "千原台高校"
+         "senior_high_school_code" : "43157F",
+         "short_name" : "千原台高校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/h/chiharadai/index.html"
       },
       "熊本市立必由館高等学校" : {
+         "location" : "熊本県熊本市坪井4-15-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|48|57.2|N|130|42|50.2|E|",
+         "location_zipcode" : "860-0863",
          "owner_type" : "市立",
-         "short_name" : "必由館高校"
+         "senior_high_school_code" : "43156H",
+         "short_name" : "必由館高校",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/h/hitsuyukan/"
       },
       "熊本県立上天草高等学校" : {
+         "location" : "熊本県上天草市大矢野町中5424",
          "location_area" : "上天草市",
+         "location_zipcode" : "869-3603",
          "owner_type" : "県立",
          "short_name" : "上天草高校"
       },
       "熊本県立人吉高等学校" : {
+         "location" : "熊本県人吉市北泉田町350",
          "location_area" : "人吉市",
+         "location_zipcode" : "868-8511",
          "owner_type" : "県立",
-         "short_name" : "人吉高校"
+         "senior_high_school_code" : "43140A",
+         "short_name" : "人吉高校",
+         "url" : "http://www.higo.ed.jp/sh/hitoyoshi/"
       },
       "熊本県立人吉高等学校五木分校" : {
          "location_area" : "人吉市",
@@ -111,24 +213,44 @@
          "short_name" : "人吉高校五木分校"
       },
       "熊本県立八代南高等学校" : {
+         "location" : "熊本県八代市渡町松上1576",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|29|30.1|N|130|37|29.1|E|",
+         "location_zipcode" : "866-0061",
          "owner_type" : "県立",
-         "short_name" : "八代南高校"
+         "senior_high_school_code" : "43158D",
+         "short_name" : "八代南高校",
+         "url" : "http://www.higo.ed.jp/sh/yatumi/"
       },
       "熊本県立八代工業高等学校" : {
+         "location" : "熊本県八代市大福寺町473",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|29|15.5|N|130|36|21.5|E|",
+         "location_zipcode" : "866-0082",
          "owner_type" : "県立",
-         "short_name" : "八代工業高校"
+         "senior_high_school_code" : "43135E",
+         "short_name" : "八代工業高校",
+         "url" : "http://www.higo.ed.jp/sh/yatuths/index.html"
       },
       "熊本県立八代東高等学校" : {
+         "location" : "熊本県八代市鷹辻町4-2",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|30|37.6|N|130|36|12.6|E|",
+         "location_zipcode" : "866-0866",
          "owner_type" : "県立",
-         "short_name" : "八代東高校"
+         "senior_high_school_code" : "43133J",
+         "short_name" : "八代東高校",
+         "url" : "http://www.higo.ed.jp/sh/yatuhi/"
       },
       "熊本県立八代農業高等学校" : {
+         "location" : "熊本県八代市鏡町鏡村129",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|33|54.6|N|130|39|39.9|E|",
+         "location_zipcode" : "869-4201",
          "owner_type" : "県立",
-         "short_name" : "八代農業高校"
+         "senior_high_school_code" : "43136C",
+         "short_name" : "八代農業高校",
+         "url" : "http://www.edu-c.pref.kumamoto.jp/sh/yatunosh/"
       },
       "熊本県立八代農業高等学校泉分校" : {
          "location_area" : "八代市",
@@ -141,59 +263,108 @@
          "short_name" : "八代高校"
       },
       "熊本県立北稜高等学校" : {
+         "location" : "熊本県玉名市立願寺247",
          "location_area" : "玉名市",
+         "location_wikipedia_latlon" : "|32|56|9.0|N|130|33|1.4|E|",
+         "location_zipcode" : "865-0061",
          "owner_type" : "県立",
-         "short_name" : "北稜高校"
+         "senior_high_school_code" : "43111H",
+         "short_name" : "北稜高校",
+         "url" : "http://www.higo.ed.jp/sh/hokuryo/"
       },
       "熊本県立南稜高等学校" : {
+         "location" : "熊本県球磨郡あさぎり町上北310",
          "location_area" : "球磨郡あさぎり町",
+         "location_zipcode" : "868-0422",
          "owner_type" : "県立",
-         "short_name" : "南稜高校"
+         "senior_high_school_code" : "43142H",
+         "short_name" : "南稜高校",
+         "url" : "http://www.higo.ed.jp/sh/nanryosh/"
       },
       "熊本県立南関高等学校" : {
+         "location" : "熊本県玉名郡南関町関町64",
          "location_area" : "玉名郡南関町",
+         "location_zipcode" : "861-0892",
          "owner_type" : "県立",
-         "short_name" : "南関高校"
+         "senior_high_school_code" : "43113D",
+         "short_name" : "南関高校",
+         "url" : "http://www.higo.ed.jp/sh/nankansh/"
       },
       "熊本県立多良木高等学校" : {
+         "location" : "熊本県球磨郡多良木町大字多良木1212",
          "location_area" : "球磨郡多良木町",
+         "location_zipcode" : "868-0501",
          "owner_type" : "県立",
-         "short_name" : "多良木高校"
+         "senior_high_school_code" : "43141K",
+         "short_name" : "多良木高校",
+         "url" : "http://www.higo.ed.jp/sh/taragish/"
       },
       "熊本県立大津高等学校" : {
+         "location" : "熊本県菊池郡大津町大津1340",
          "location_area" : "菊池郡大津町",
+         "location_wikipedia_latlon" : "|32|52|23.8|N|130|52|19.4|E|",
+         "location_zipcode" : "869-1233",
          "owner_type" : "県立",
-         "short_name" : "大津高校"
+         "senior_high_school_code" : "43119C",
+         "short_name" : "大津高校",
+         "url" : "http://www.higo.ed.jp/sh/oozuhs/index.html"
       },
       "熊本県立大矢野高等学校" : {
+         "location" : "熊本県上天草市大矢野町中5424",
          "location_area" : "上天草市",
+         "location_zipcode" : "869-3603",
          "owner_type" : "県立",
-         "short_name" : "大矢野高校"
+         "school_area" : "天草",
+         "senior_high_school_code" : "43149E",
+         "short_name" : "大矢野高校",
+         "url" : "http://www.higo.ed.jp/sh/ooyanohs/"
       },
       "熊本県立天草工業高等学校" : {
+         "location" : "熊本県天草市亀場町亀川38-36",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0043",
          "owner_type" : "県立",
-         "short_name" : "天草工業高校"
+         "senior_high_school_code" : "43154A",
+         "short_name" : "天草工業高校",
+         "url" : "http://www.higo.ed.jp/sh/amakusaths/"
       },
       "熊本県立天草東高等学校" : {
+         "location" : "熊本県天草市有明町大浦1806",
          "location_area" : "天草市",
+         "location_zipcode" : "861-7203",
          "owner_type" : "県立",
-         "short_name" : "天草東高校"
+         "senior_high_school_code" : "43147J",
+         "short_name" : "天草東高校",
+         "url" : "http://www.higo.ed.jp/sh/amakusae/"
       },
       "熊本県立天草高等学校" : {
+         "location" : "熊本県天草市本渡町本渡557",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0003",
          "owner_type" : "県立",
-         "short_name" : "天草高校"
+         "school_area" : "天草",
+         "senior_high_school_code" : "43145B",
+         "short_name" : "天草高校",
+         "url" : "http://www.higo.ed.jp/sh/amakusah/"
       },
       "熊本県立天草高等学校倉岳校" : {
+         "location" : "熊本県天草市倉岳町棚底2680-2",
          "location_area" : "天草市",
+         "location_zipcode" : "861-6402",
          "owner_type" : "県立",
-         "short_name" : "天草高校倉岳校"
+         "senior_high_school_code" : "43150J",
+         "short_name" : "天草高校倉岳校",
+         "url" : "http://www.higo.ed.jp/sh/kuratakesh/"
       },
       "熊本県立天草高等学校天草西校" : {
+         "location" : "熊本県天草市天草町高浜北2658",
          "location_area" : "天草市",
+         "location_zipcode" : "863-2805",
          "owner_type" : "県立",
-         "short_name" : "天草高校天草西校"
+         "school_area" : "天草",
+         "senior_high_school_code" : "43145B",
+         "short_name" : "天草高校天草西校",
+         "url" : "http://www.higo.ed.jp/sh/amanisi/"
       },
       "熊本県立宇土高等学校" : {
          "location_area" : "宇土市",
@@ -201,239 +372,457 @@
          "short_name" : "宇土高校"
       },
       "熊本県立小国高等学校" : {
+         "location" : "熊本県阿蘇郡小国町宮原1887-1",
          "location_area" : "阿蘇郡小国町",
+         "location_zipcode" : "869-2593",
          "owner_type" : "県立",
-         "short_name" : "小国高校"
+         "senior_high_school_code" : "43123A",
+         "short_name" : "小国高校",
+         "url" : "http://www.higo.ed.jp/sh/ogunish/"
       },
       "熊本県立小川工業高等学校" : {
+         "location" : "熊本県宇城市小川町北新田770",
          "location_area" : "宇城市",
+         "location_zipcode" : "869-0631",
          "owner_type" : "県立",
-         "short_name" : "小川工業高校"
+         "senior_high_school_code" : "43131B",
+         "short_name" : "小川工業高校",
+         "url" : "http://www.higo.ed.jp/sh/ogawaths/"
       },
       "熊本県立御船高等学校" : {
+         "location" : "熊本県上益城郡御船町木倉1253",
          "location_area" : "上益城郡御船町",
+         "location_zipcode" : "861-3204",
          "owner_type" : "県立",
-         "short_name" : "御船高校"
+         "senior_high_school_code" : "43126F",
+         "short_name" : "御船高校",
+         "url" : "http://www.higo.ed.jp/sh/mifunesh/"
       },
       "熊本県立東稜高等学校" : {
+         "location" : "熊本県熊本市小峯4-5-10",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|57.7|N|130|46|41.8|E|",
+         "location_zipcode" : "862－0933",
          "owner_type" : "県立",
-         "short_name" : "東稜高校"
+         "senior_high_school_code" : "43161D",
+         "short_name" : "東稜高校",
+         "url" : "http://www.higo.ed.jp/sh/toryosh/"
       },
       "熊本県立松島商業高等学校" : {
+         "location" : "熊本県上天草市松島町教良木2971-5",
          "location_area" : "上天草市",
+         "location_zipcode" : "861-6105",
          "owner_type" : "県立",
-         "short_name" : "松島商業高校"
+         "school_area" : "天草",
+         "senior_high_school_code" : "43153C",
+         "short_name" : "松島商業高校",
+         "url" : "http://www.higo.ed.jp/sh/matsusyo/"
       },
       "熊本県立松橋高等学校" : {
+         "location" : "熊本県宇城市松橋町久具300",
          "location_area" : "宇城市",
+         "location_zipcode" : "869-0532",
          "owner_type" : "県立",
-         "short_name" : "松橋高校"
+         "senior_high_school_code" : "43130D",
+         "short_name" : "松橋高校",
+         "url" : "http://www.edu-c.pref.kumamoto.jp/sh/matsubasesh/"
       },
       "熊本県立水俣工業高等学校" : {
+         "location" : "熊本県水俣市洗切町11-1",
          "location_area" : "水俣市",
+         "location_zipcode" : "867-0063",
          "owner_type" : "県立",
-         "short_name" : "水俣工業高校"
+         "senior_high_school_code" : "43139H",
+         "short_name" : "水俣工業高校",
+         "url" : "http://www.higo.ed.jp/sh/minamataths/"
       },
       "熊本県立水俣高等学校" : {
+         "location" : "熊本県水俣市南福寺6番1号",
          "location_area" : "水俣市",
+         "location_zipcode" : "867-0023",
          "owner_type" : "県立",
-         "short_name" : "水俣高校"
+         "senior_high_school_code" : "43138K",
+         "short_name" : "水俣高校",
+         "url" : "http://www.higo.ed.jp/sh/minamatash/"
       },
       "熊本県立氷川高等学校" : {
+         "location" : "熊本県八代市鏡町鏡村937",
          "location_area" : "八代市",
+         "location_wikipedia_latlon" : "|32|34|16.9|N|130|39|24.5|E|",
+         "location_zipcode" : "869-4201",
          "owner_type" : "県立",
-         "short_name" : "氷川高校"
+         "school_area" : "八代市、八代郡、葦北郡、水俣市",
+         "senior_high_school_code" : "43134G",
+         "short_name" : "氷川高校",
+         "url" : "http://www.higo.ed.jp/sh/hikawash/"
       },
       "熊本県立河浦高等学校" : {
+         "location" : "熊本県天草市河浦町河浦2233",
          "location_area" : "天草市",
+         "location_zipcode" : "863-1202",
          "owner_type" : "県立",
-         "short_name" : "河浦高校"
+         "senior_high_school_code" : "43151G",
+         "short_name" : "河浦高校",
+         "url" : "http://www.higo.ed.jp/sh/kawaurah/"
       },
       "熊本県立済々黌高等学校" : {
+         "location" : "熊本県熊本市黒髪2-22-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0862",
          "owner_type" : "県立",
-         "short_name" : "済々黌高校"
+         "senior_high_school_code" : "43101A",
+         "short_name" : "済々黌高校",
+         "url" : "http://www.higo.ed.jp/sh/seiseiko/"
       },
       "熊本県立湧心館高等学校" : {
+         "location" : "熊本県熊本市出水四丁目1番2号",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|46|52.5|N|130|43|50.1|E|",
+         "location_zipcode" : "862-8603",
          "owner_type" : "県立",
-         "short_name" : "湧心館高校"
+         "senior_high_school_code" : "43159B",
+         "short_name" : "湧心館高校",
+         "url" : "http://www.higo.ed.jp/sh/yusinkan/"
       },
       "熊本県立熊本北高等学校" : {
+         "location" : "熊本県熊本市兎谷3-5-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|50|29.1|N|130|44|53.9|E|",
+         "location_zipcode" : "861-8082",
          "owner_type" : "県立",
-         "short_name" : "熊本北高校"
+         "senior_high_school_code" : "43160F",
+         "short_name" : "熊本北高校",
+         "url" : "http://www.higo.ed.jp/sh/kitash/"
       },
       "熊本県立熊本商業高等学校" : {
+         "location" : "熊本県熊本市神水1-1-2",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|11.7|N|130|44|24.6|E|",
+         "location_zipcode" : "862-0954",
          "owner_type" : "県立",
-         "short_name" : "熊本商業高校"
+         "senior_high_school_code" : "43107K",
+         "short_name" : "熊本商業高校",
+         "url" : "http://www.higo.ed.jp/sh/kmt-chs/"
       },
       "熊本県立熊本工業高等学校" : {
+         "location" : "熊本県熊本市上京塚町5-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|47|34.4|N|130|44|59.2|E|",
+         "location_zipcode" : "862-0953",
          "owner_type" : "県立",
-         "short_name" : "熊本工業高校"
+         "senior_high_school_code" : "43106A",
+         "short_name" : "熊本工業高校",
+         "url" : "http://www.higo.ed.jp/sh/kumakoths/"
       },
       "熊本県立熊本西高等学校" : {
+         "location" : "熊本県熊本市城山大塘町645",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|46|58.3|N|130|38|56.1|E|",
+         "location_zipcode" : "860-0067",
          "owner_type" : "県立",
-         "short_name" : "熊本西高校"
+         "senior_high_school_code" : "43105C",
+         "short_name" : "熊本西高校",
+         "url" : "http://www.higo.ed.jp/sh/nishish/"
       },
       "熊本県立熊本農業高等学校" : {
+         "location" : "熊本県熊本市元三町5-1-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|44|39.1|N|130|41|41.6|E|",
+         "location_zipcode" : "862-0953",
          "owner_type" : "県立",
-         "short_name" : "熊本農業高校"
+         "senior_high_school_code" : "43108H",
+         "short_name" : "熊本農業高校",
+         "url" : "http://www.edu-c.pref.kumamoto.jp/sh/kumanou/"
       },
       "熊本県立熊本高等学校" : {
+         "location" : "熊本県熊本市新大江1-8",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-0972",
          "owner_type" : "県立",
-         "short_name" : "熊本高校"
+         "senior_high_school_code" : "43102J",
+         "short_name" : "熊本高校",
+         "url" : "http://www.kumamoto.bears.ed.jp/"
       },
       "熊本県立牛深高等学校" : {
+         "location" : "熊本県天草市久玉町1216-5",
          "location_area" : "天草市",
+         "location_zipcode" : "863-1902",
          "owner_type" : "県立",
-         "short_name" : "牛深高校"
+         "school_area" : "天草",
+         "senior_high_school_code" : "43148G",
+         "short_name" : "牛深高校",
+         "url" : "http://www.higo.ed.jp/sh/ushibukash/"
       },
       "熊本県立玉名工業高等学校" : {
+         "location" : "熊本県玉名市岱明町下前原368",
          "location_area" : "玉名市",
+         "location_wikipedia_latlon" : "|32|55|44.6|N|130|31|34.5|E|",
+         "location_zipcode" : "869-0295",
          "owner_type" : "県立",
-         "short_name" : "玉名工業高校"
+         "senior_high_school_code" : "43112F",
+         "short_name" : "玉名工業高校",
+         "url" : "http://www.higo.ed.jp/sh/tamanath/"
       },
       "熊本県立玉名高等学校" : {
+         "location" : "熊本県玉名市中1853",
          "location_area" : "玉名市",
+         "location_wikipedia_latlon" : "|32|55|53|N|130|32|54|E|",
+         "location_zipcode" : "865-0064",
          "owner_type" : "県立",
-         "short_name" : "玉名高校"
+         "senior_high_school_code" : "43110K",
+         "short_name" : "玉名高校",
+         "url" : "http://www.edu-c.pref.kumamoto.jp/sh/tamanash/"
       },
       "熊本県立球磨商業高等学校" : {
+         "location" : "熊本県球磨郡錦町西192",
          "location_area" : "球磨郡錦町",
+         "location_zipcode" : "868-0303",
          "owner_type" : "県立",
-         "short_name" : "球磨商業高校"
+         "senior_high_school_code" : "43144D",
+         "short_name" : "球磨商業高校",
+         "url" : "http://www.higo.ed.jp/sh/kumasyo/"
       },
       "熊本県立球磨工業高等学校" : {
+         "location" : "熊本県人吉市城本町800",
          "location_area" : "人吉市",
+         "location_zipcode" : "868-8515",
          "owner_type" : "県立",
-         "short_name" : "球磨工業高校"
+         "senior_high_school_code" : "43143F",
+         "short_name" : "球磨工業高校",
+         "url" : "http://www.higo.ed.jp/sh/kuma-ths/"
       },
       "熊本県立甲佐高等学校" : {
+         "location" : "熊本県上益城郡甲佐町横田327",
          "location_area" : "上益城郡甲佐町",
+         "location_zipcode" : "861-4606",
          "owner_type" : "県立",
-         "short_name" : "甲佐高校"
+         "senior_high_school_code" : "43127D",
+         "short_name" : "甲佐高校",
+         "url" : "http://www.higo.ed.jp/sh/kousash/"
       },
       "熊本県立矢部高等学校" : {
+         "location" : "熊本県上益城郡山都町城平954",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3515",
          "owner_type" : "県立",
-         "short_name" : "矢部高校"
+         "senior_high_school_code" : "43128B",
+         "short_name" : "矢部高校",
+         "url" : "http://www.higo.ed.jp/sh/yabesh/"
       },
       "熊本県立第一高等学校" : {
+         "location" : "熊本県熊本市古城町3-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|48|4.4|N|130|42|0|E|",
+         "location_zipcode" : "860-0003",
          "owner_type" : "県立",
-         "short_name" : "第一高校"
+         "senior_high_school_code" : "43103G",
+         "short_name" : "第一高校",
+         "url" : "http://www.higo.ed.jp/sh/dai1sh/"
       },
       "熊本県立第二高等学校" : {
+         "location" : "熊本県熊本市東町3-13-1",
          "location_area" : "熊本市",
+         "location_wikipedia_latlon" : "|32|46|55.2|N|130|46|0.5|E|",
+         "location_zipcode" : "862-0901",
          "owner_type" : "県立",
-         "short_name" : "第二高校"
+         "senior_high_school_code" : "43104E",
+         "short_name" : "第二高校",
+         "url" : "http://www.higo.ed.jp/sh/dainish/"
       },
       "熊本県立翔陽高等学校" : {
+         "location" : "熊本県菊池郡大津町室1782",
          "location_area" : "菊池郡大津町",
+         "location_zipcode" : "869-1235",
          "owner_type" : "県立",
-         "short_name" : "翔陽高校"
+         "senior_high_school_code" : "43120G",
+         "short_name" : "翔陽高校",
+         "url" : "http://www.higo.ed.jp/sh/shoyosh/"
       },
       "熊本県立芦北高等学校" : {
+         "location" : "熊本県葦北郡芦北町乙千屋20-2",
          "location_area" : "葦北郡芦北町",
+         "location_zipcode" : "869-5431",
          "owner_type" : "県立",
-         "short_name" : "芦北高校"
+         "senior_high_school_code" : "43137A",
+         "short_name" : "芦北高校",
+         "url" : "http://www.higo.ed.jp/sh/ashikitash/"
       },
       "熊本県立苓明高等学校" : {
+         "location" : "熊本県天草市本渡町本戸馬場495",
          "location_area" : "天草市",
+         "location_zipcode" : "863-0002",
          "owner_type" : "県立",
-         "short_name" : "苓明高校"
+         "senior_high_school_code" : "43152E",
+         "short_name" : "苓明高校",
+         "url" : "http://www.higo.ed.jp/sh/reimeish/"
       },
       "熊本県立苓洋高等学校" : {
+         "location" : "熊本県天草郡苓北町富岡3757",
          "location_area" : "天草郡苓北町",
+         "location_zipcode" : "863-2507",
          "owner_type" : "県立",
-         "short_name" : "苓洋高校"
+         "senior_high_school_code" : "43155K",
+         "short_name" : "苓洋高校",
+         "url" : "http://www.higo.ed.jp/sh/reiyoush/"
       },
       "熊本県立荒尾高等学校" : {
+         "location" : "熊本県荒尾市荒尾2620-1",
          "location_area" : "荒尾市",
+         "location_zipcode" : "864-0041",
          "owner_type" : "県立",
-         "short_name" : "荒尾高校"
+         "senior_high_school_code" : "43109F",
+         "short_name" : "荒尾高校",
+         "url" : "http://www.higo.ed.jp/sh/araosh/index.html"
       },
       "熊本県立菊池農業高等学校" : {
+         "location" : "熊本県菊池市泗水町吉富250",
          "location_area" : "菊池市",
+         "location_zipcode" : "861-1201",
          "owner_type" : "県立",
-         "short_name" : "菊池農業高校"
+         "senior_high_school_code" : "43118E",
+         "short_name" : "菊池農業高校",
+         "url" : "http://www.higo.ed.jp/sh/kikuno/"
       },
       "熊本県立菊池高等学校" : {
+         "location" : "熊本県菊池市隈府1332-1",
          "location_area" : "菊池市",
+         "location_zipcode" : "861-1331",
          "owner_type" : "県立",
-         "short_name" : "菊池高校"
+         "senior_high_school_code" : "43117G",
+         "short_name" : "菊池高校",
+         "url" : "http://www.higo.ed.jp/sh/kikuchih/"
       },
       "熊本県立蘇陽高等学校" : {
+         "location" : "熊本県上益城郡山都町滝上223",
          "location_area" : "上益城郡山都町",
+         "location_zipcode" : "861-3902",
          "owner_type" : "県立",
-         "short_name" : "蘇陽高校"
+         "school_area" : "上益城",
+         "senior_high_school_code" : "43125H",
+         "short_name" : "蘇陽高校",
+         "url" : "http://www.higo.ed.jp/sh/soyosh/"
       },
       "熊本県立阿蘇中央高等学校" : {
+         "location" : "",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|56|30|N|131|06|52|E|",
+         "location_zipcode" : "869-2612",
          "owner_type" : "県立",
+         "school_area" : "県北学区",
          "short_name" : "阿蘇中央高校"
       },
       "熊本県立阿蘇清峰高等学校" : {
+         "location" : "熊本県阿蘇市一の宮町宮地4131",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|57|11|N|131|05|60|E|",
+         "location_zipcode" : "869-2612",
          "owner_type" : "県立",
-         "short_name" : "阿蘇清峰高校"
+         "senior_high_school_code" : "43122C",
+         "short_name" : "阿蘇清峰高校",
+         "url" : "http://www.higo.ed.jp/sh/asoseiho/"
       },
       "熊本県立阿蘇高等学校" : {
+         "location" : "熊本県阿蘇市一の宮町宮地2460",
          "location_area" : "阿蘇市",
+         "location_wikipedia_latlon" : "|32|56|30|N|131|06|52|E|",
+         "location_zipcode" : "869-2612",
          "owner_type" : "県立",
-         "short_name" : "阿蘇高校"
+         "senior_high_school_code" : "43121E",
+         "short_name" : "阿蘇高校",
+         "url" : "http://www.higo.ed.jp/sh/asosh/"
       },
       "熊本県立高森高等学校" : {
+         "location" : "熊本県阿蘇郡高森町高森1557",
          "location_area" : "阿蘇郡高森町",
+         "location_zipcode" : "869-1602",
          "owner_type" : "県立",
-         "short_name" : "高森高校"
+         "senior_high_school_code" : "43124K",
+         "short_name" : "高森高校",
+         "url" : "http://www.higo.ed.jp/sh/takamorish/"
       },
       "熊本県立鹿本商工高等学校" : {
+         "location" : "熊本県山鹿市鹿本町御宇田312",
          "location_area" : "山鹿市",
+         "location_wikipedia_latlon" : "|33|0|4.3|N|130|43|47.8|E|",
+         "location_zipcode" : "861-0304",
          "owner_type" : "県立",
-         "short_name" : "鹿本商工高校"
+         "senior_high_school_code" : "43115A",
+         "short_name" : "鹿本商工高校",
+         "url" : "http://www.higo.ed.jp/sh/kasyoko/"
       },
       "熊本県立鹿本農業高等学校" : {
+         "location" : "熊本県山鹿市鹿本町大字来民2055",
          "location_area" : "山鹿市",
+         "location_wikipedia_latlon" : "|32|59|52.5|N|130|43|30.6|E|",
+         "location_zipcode" : "861-0331",
          "owner_type" : "県立",
-         "short_name" : "鹿本農業高校"
+         "senior_high_school_code" : "43116J",
+         "short_name" : "鹿本農業高校",
+         "url" : "http://www.higo.ed.jp/sh/kamotono/"
       },
       "熊本県立鹿本高等学校" : {
+         "location" : "熊本県山鹿市鹿校通3-5-1",
          "location_area" : "山鹿市",
+         "location_wikipedia_latlon" : "|33|0|40.6|N|130|42|36|E|",
+         "location_zipcode" : "861-0532",
          "owner_type" : "県立",
-         "short_name" : "鹿本高校"
+         "school_area" : "山鹿市、菊池市、植木町",
+         "senior_high_school_code" : "43114B",
+         "short_name" : "鹿本高校",
+         "url" : "http://www.higo.ed.jp/sh/kamotosh/"
       },
       "玉名女子高等学校" : {
+         "location" : "熊本県玉名市岩崎1061",
+         "location_zipcode" : "865-0016",
          "owner_type" : "私立",
-         "short_name" : "玉名女子高校"
+         "senior_high_school_code" : "43510E",
+         "short_name" : "玉名女子高校",
+         "url" : "http://www.tamanajoshi-h.ed.jp/"
       },
       "真和高等学校" : {
+         "location" : "熊本県熊本市九品寺三丁目1番1号",
+         "location_wikipedia_latlon" : "|32|47|44.4|N|130|43|9.6|E|",
+         "location_zipcode" : "862-0976",
          "owner_type" : "私立",
+         "senior_high_school_code" : "43519J",
          "short_name" : "真和高校",
+         "url" : "http://www.shinwa.ed.jp/",
          "wikipedia_name" : "真和中学校・高等学校"
       },
       "秀岳館高等学校" : {
+         "location" : "熊本県八代市興国町1番5号",
+         "location_wikipedia_latlon" : "|32|31|0.0|N|130|36|15.9|E|",
+         "location_zipcode" : "866-0881",
          "owner_type" : "私立",
-         "short_name" : "秀岳館高校"
+         "senior_high_school_code" : "43513K",
+         "short_name" : "秀岳館高校",
+         "url" : "http://www.syugakukan.com/"
       },
       "菊池女子高等学校" : {
+         "location" : "熊本県菊池市隈府1081",
+         "location_zipcode" : "861-1331",
          "owner_type" : "私立",
-         "short_name" : "菊池女子高校"
+         "senior_high_school_code" : "43520B",
+         "short_name" : "菊池女子高校",
+         "url" : "http://www.kikuchijoshi.ac.jp/"
       },
       "鎮西高等学校" : {
+         "location" : "熊本県熊本市九品寺三丁目1番1号",
+         "location_wikipedia_latlon" : "|32|47|45.9|N|130|43|11.5|E|",
+         "location_zipcode" : "862-0976",
          "owner_type" : "私立",
-         "short_name" : "鎮西高校"
+         "senior_high_school_code" : "43506G",
+         "short_name" : "鎮西高校",
+         "url" : "http://www.chinzei.ed.jp/"
       },
       "開新高等学校" : {
+         "location" : "熊本県熊本市大江六丁目1番33号",
+         "location_wikipedia_latlon" : "|32|47|58.5|N|130|43|36.4|E|",
+         "location_zipcode" : "862-8677",
          "owner_type" : "私立",
-         "short_name" : "開新高校"
+         "senior_high_school_code" : "43505J",
+         "short_name" : "開新高校",
+         "url" : "http://www.kaishin.ed.jp/"
       }
    }
 }

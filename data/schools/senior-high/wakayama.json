@@ -1,24 +1,39 @@
 {
    "senior_high_schools" : {
       "初芝橋本高等学校" : {
+         "location" : "和歌山県橋本市小峰台2-6-1",
+         "location_zipcode" : "648-0005",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30509A",
          "short_name" : "初芝橋本高校",
+         "url" : "http://www.hatsushiba.ed.jp/hatsuhashi/",
          "wikipedia_name" : "初芝橋本中学校・高等学校"
       },
       "和歌山信愛女子短期大学附属高等学校" : {
+         "location" : "和歌山県和歌山市屋形町2丁目22",
+         "location_zipcode" : "640-8151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30503A",
          "short_name" : "和歌山信愛女子短大附属高校",
+         "url" : "http://www.shin-ai.ac.jp/",
          "wikipedia_name" : "和歌山信愛女子短期大学附属中学校・高等学校"
       },
       "和歌山市立和歌山高等学校" : {
+         "location" : "和歌山県和歌山市六十谷45",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8284",
          "owner_type" : "市立",
-         "short_name" : "和歌山高校"
+         "senior_high_school_code" : "30136B",
+         "short_name" : "和歌山高校",
+         "url" : "http://www.ichiko-wakayama.ed.jp/"
       },
       "和歌山県立串本古座高等学校" : {
+         "location" : "（串本）和歌山県東牟婁郡串本町串本1522",
          "location_area" : "新宮市・東牟婁郡",
+         "location_zipcode" : "（串本）649-3503",
          "owner_type" : "県立",
-         "short_name" : "串本古座高校"
+         "short_name" : "串本古座高校",
+         "url" : "http://www.kushimoto-h.wakayama-c.ed.jp/kusimotokoza/index.html"
       },
       "和歌山県立串本高等学校" : {
          "location_area" : "新宮市・東牟婁郡",
@@ -26,9 +41,13 @@
          "short_name" : "串本高校"
       },
       "和歌山県立伊都高等学校" : {
+         "location" : "和歌山県橋本市高野口町名古曽558",
          "location_area" : "橋本市・伊都郡",
+         "location_zipcode" : "649-7203",
          "owner_type" : "県立",
-         "short_name" : "伊都高校"
+         "senior_high_school_code" : "30103F",
+         "short_name" : "伊都高校",
+         "url" : "http://www.ito-h.wakayama-c.ed.jp/"
       },
       "和歌山県立南紀高等学校" : {
          "location_area" : "田辺市・西牟婁郡",
@@ -41,14 +60,23 @@
          "short_name" : "南紀高校周参見分校"
       },
       "和歌山県立南部高等学校" : {
+         "location" : "和歌山県日高郡みなべ町芝407",
          "location_area" : "御坊市・日高郡",
+         "location_wikipedia_latlon" : "|33|45|55.2|N|135|19|30.2|E|",
+         "location_zipcode" : "645-0002",
          "owner_type" : "県立",
-         "short_name" : "南部高校"
+         "senior_high_school_code" : "30126E",
+         "short_name" : "南部高校",
+         "url" : "http://www.minabe-h.wakayama-c.ed.jp/"
       },
       "和歌山県立南部高等学校龍神分校" : {
+         "location" : "和歌山県田辺市龍神村安井469",
          "location_area" : "御坊市・日高郡",
+         "location_wikipedia_latlon" : "|33|53|9.8|N|135|29|26.9|E|",
+         "location_zipcode" : "645-0416",
          "owner_type" : "県立",
-         "short_name" : "南部高校龍神分校"
+         "short_name" : "南部高校龍神分校",
+         "url" : "http://www.minabe-h-b.wakayama-c.ed.jp/"
       },
       "和歌山県立古座高等学校" : {
          "location_area" : "新宮市・東牟婁郡",
@@ -56,55 +84,99 @@
          "short_name" : "古座高校"
       },
       "和歌山県立向陽高等学校" : {
+         "location" : "和歌山県和歌山市太田127",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|13|39.4|N|135|11|59.2|E|",
+         "location_zipcode" : "640-8323",
          "owner_type" : "県立",
+         "senior_high_school_code" : "30109E",
          "short_name" : "向陽高校",
+         "url" : "http://www.koyo-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立向陽中学校・高等学校"
       },
       "和歌山県立和歌山北高等学校" : {
+         "location" : "和歌山県和歌山市市小路388",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|15|18.6|N|135|10|13.3|E|",
+         "location_zipcode" : "640-8464",
          "owner_type" : "県立",
-         "short_name" : "和歌山北高校"
+         "senior_high_school_code" : "30111G",
+         "short_name" : "和歌山北高校",
+         "url" : "http://www.wakayamakita-h.wakayama-c.ed.jp/"
       },
       "和歌山県立和歌山商業高等学校" : {
+         "location" : "和歌山県和歌山市砂山南3-3-94",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|12|57.0|N|135|9|41.9|E|",
+         "location_zipcode" : "640-8272",
          "owner_type" : "県立",
-         "short_name" : "和歌山商業高校"
+         "senior_high_school_code" : "30115K",
+         "short_name" : "和歌山商業高校",
+         "url" : "http://www.wakayama-ch.wakayama-c.ed.jp/index.html"
       },
       "和歌山県立和歌山工業高等学校" : {
+         "location" : "和歌山県和歌山市西浜三丁目6番1号",
          "location_area" : "和歌山市",
+         "location_zipcode" : "641-0036",
          "owner_type" : "県立",
-         "short_name" : "和歌山工業高校"
+         "senior_high_school_code" : "30116H",
+         "short_name" : "和歌山工業高校",
+         "url" : "http://www.wakayama-th.wakayama-c.ed.jp/"
       },
       "和歌山県立和歌山東高等学校" : {
+         "location" : "和歌山県和歌山市森小手穂136",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8312",
          "owner_type" : "県立",
-         "short_name" : "和歌山東高校"
+         "senior_high_school_code" : "30110J",
+         "short_name" : "和歌山東高校",
+         "url" : "http://www.wakayamahigashi-h.wakayama-c.ed.jp/"
       },
       "和歌山県立和歌山第二工業高等学校" : {
+         "location" : "和歌山県和歌山市西浜3-6-1",
          "location_area" : "和歌山市",
+         "location_zipcode" : "641-0036",
          "owner_type" : "県立",
-         "short_name" : "和歌山第二工業高校"
+         "senior_high_school_code" : "30117F",
+         "short_name" : "和歌山第二工業高校",
+         "url" : "http://www.wakayama2-th.wakayama-c.ed.jp/"
       },
       "和歌山県立和歌山西高等学校" : {
+         "location" : "和歌山県和歌山市西庄1148-1",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-0112",
          "owner_type" : "県立",
-         "short_name" : "和歌山西高校"
+         "senior_high_school_code" : "30140A",
+         "short_name" : "和歌山西高校",
+         "url" : "http://www.wakayamanishi-h.wakayama-c.ed.jp/"
       },
       "和歌山県立和歌山高等学校" : {
+         "location" : "和歌山県和歌山市新庄188",
          "location_area" : "和歌山市",
+         "location_zipcode" : "649-6264",
          "owner_type" : "県立",
-         "short_name" : "和歌山高校"
+         "senior_high_school_code" : "30139G",
+         "short_name" : "和歌山高校",
+         "url" : "http://(Web"
       },
       "和歌山県立新宮高等学校" : {
+         "location" : "和歌山県新宮市神倉3-2-39",
          "location_area" : "新宮市・東牟婁郡",
+         "location_wikipedia_latlon" : "|33|43|12.4|N|135|59|6.1|E|",
+         "location_zipcode" : "647-0044",
          "owner_type" : "県立",
-         "short_name" : "新宮高校"
+         "senior_high_school_code" : "30134F",
+         "short_name" : "新宮高校",
+         "url" : "http://www.shingu-h.wakayama-c.ed.jp/"
       },
       "和歌山県立新翔高等学校" : {
+         "location" : "和歌山県新宮市佐野1005",
          "location_area" : "新宮市・東牟婁郡",
+         "location_zipcode" : "647-0071",
          "owner_type" : "県立",
-         "short_name" : "新翔高校"
+         "senior_high_school_code" : "30135D",
+         "short_name" : "新翔高校",
+         "url" : "http://www.shingu-ch.wakayama-c.ed.jp/"
       },
       "和歌山県立日高高等学校" : {
          "location_area" : "御坊市・日高郡",
@@ -112,14 +184,23 @@
          "short_name" : "日高高校"
       },
       "和歌山県立日高高等学校中津分校" : {
+         "location" : "和歌山県日高郡日高川町西原357",
          "location_area" : "御坊市・日高郡",
+         "location_wikipedia_latlon" : "|33|57|48.9|N|135|17|16.7|E|",
+         "location_zipcode" : "644-1121",
          "owner_type" : "県立",
-         "short_name" : "日高高校中津分校"
+         "short_name" : "日高高校中津分校",
+         "url" : "http://www.hidaka-h-b.wakayama-c.ed.jp/"
       },
       "和歌山県立星林高等学校" : {
+         "location" : "和歌山県和歌山市西浜2丁目9-9",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|11|53.8|N|135|9|48.5|E|",
+         "location_zipcode" : "641-0036",
          "owner_type" : "県立",
-         "short_name" : "星林高校"
+         "senior_high_school_code" : "30118D",
+         "short_name" : "星林高校",
+         "url" : "http://www.seirin-h.wakayama-c.ed.jp"
       },
       "和歌山県立有田中央高等学校" : {
          "location_area" : "有田市・有田郡",
@@ -132,41 +213,66 @@
          "short_name" : "有田中央高校清水分校"
       },
       "和歌山県立桐蔭高等学校" : {
+         "location" : "和歌山県和歌山市吹上5-6-18",
          "location_area" : "和歌山市",
+         "location_wikipedia_latlon" : "|34|13|6.1|N|135|10|26.9|E|",
+         "location_zipcode" : "640-8137",
          "owner_type" : "県立",
+         "senior_high_school_code" : "30112E",
          "short_name" : "桐蔭高校",
+         "url" : "http://www.toin-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立桐蔭中学校・高等学校"
       },
       "和歌山県立橋本高等学校" : {
+         "location" : "和歌山県橋本市古佐田4-10-1",
          "location_area" : "橋本市・伊都郡",
+         "location_zipcode" : "648-0065",
          "owner_type" : "県立",
+         "senior_high_school_code" : "30101K",
          "short_name" : "橋本高校",
+         "url" : "http://www.hashimoto-h.wakayama-c.ed.jp/",
          "wikipedia_name" : "和歌山県立古佐田丘中学校・橋本高等学校"
       },
       "和歌山県立海南高等学校" : {
+         "location" : "和歌山県海南市大野中651",
          "location_area" : "海南市・海草郡",
+         "location_zipcode" : "642-0022",
          "owner_type" : "県立",
-         "short_name" : "海南高校"
+         "short_name" : "海南高校",
+         "url" : "http://www.kainan-h.wakayama-c.ed.jp/"
       },
       "和歌山県立海南高等学校下津分校" : {
+         "location" : "和歌山県海南市下津町丸田87",
          "location_area" : "海南市・海草郡",
+         "location_zipcode" : "649-0121",
          "owner_type" : "県立",
-         "short_name" : "海南高校下津分校"
+         "short_name" : "海南高校下津分校",
+         "url" : "http://www.kainan-h-b.wakayama-c.ed.jp/"
       },
       "和歌山県立海南高等学校大成校舎" : {
+         "location" : "和歌山県海草郡紀美野町動木1515",
          "location_area" : "海南市・海草郡",
+         "location_zipcode" : "640-1131",
          "owner_type" : "県立",
-         "short_name" : "海南高校大成校舎"
+         "short_name" : "海南高校大成校舎",
+         "url" : "http://www.taisei-h.wakayama-c.ed.jp/"
       },
       "和歌山県立海南高等学校美里分校" : {
+         "location" : "和歌山県海草郡紀美野町毛原中689",
          "location_area" : "海南市・海草郡",
+         "location_zipcode" : "640-1474",
          "owner_type" : "県立",
-         "short_name" : "海南高校美里分校"
+         "short_name" : "海南高校美里分校",
+         "url" : "http://www.taisei-h-b.wakayama-c.ed.jp/"
       },
       "和歌山県立熊野高等学校" : {
+         "location" : "和歌山県西牟婁郡上富田町朝来670",
          "location_area" : "田辺市・西牟婁郡",
+         "location_zipcode" : "649-2105",
          "owner_type" : "県立",
-         "short_name" : "熊野高校"
+         "senior_high_school_code" : "30131A",
+         "short_name" : "熊野高校",
+         "url" : "http://www.kumano-h.wakayama-c.ed.jp/"
       },
       "和歌山県立田辺工業高等学校" : {
          "location_area" : "田辺市・西牟婁郡",
@@ -174,40 +280,65 @@
          "short_name" : "田辺工業高校"
       },
       "和歌山県立田辺高等学校" : {
+         "location" : "和歌山県田辺市学園1-71",
          "location_area" : "田辺市・西牟婁郡",
+         "location_wikipedia_latlon" : "|33|43|27.7|N|135|23|21.6|E|",
          "owner_type" : "県立",
          "short_name" : "田辺高校",
+         "url" : "http://www.tanabe-h.wakayama-c.ed.jp/high.htm",
          "wikipedia_name" : "和歌山県立田辺中学校・高等学校"
       },
       "和歌山県立神島高等学校" : {
+         "location" : "和歌山県田辺市文里二丁目33番12号",
          "location_area" : "田辺市・西牟婁郡",
+         "location_wikipedia_latlon" : "|33|43|4.9|N|135|23|16.7|E|",
+         "location_zipcode" : "646-0023",
          "owner_type" : "県立",
-         "short_name" : "神島高校"
+         "senior_high_school_code" : "30128A",
+         "short_name" : "神島高校",
+         "url" : "http://www.aikis.or.jp/~wanju/"
       },
       "和歌山県立笠田高等学校" : {
+         "location" : "和歌山県伊都郡かつらぎ町笠田東825",
          "location_area" : "橋本市・伊都郡",
+         "location_zipcode" : "649-7161",
          "owner_type" : "県立",
-         "short_name" : "笠田高校"
+         "senior_high_school_code" : "30104D",
+         "short_name" : "笠田高校",
+         "url" : "http://www.kaseda-h.wakayama-c.ed.jp/"
       },
       "和歌山県立箕島高等学校" : {
+         "location" : "和歌山県有田市箕島55",
          "location_area" : "有田市・有田郡",
+         "location_wikipedia_latlon" : "|34|5|1.1|N|135|7|44.8|E|",
+         "location_zipcode" : "649-0304",
          "owner_type" : "県立",
-         "short_name" : "箕島高校"
+         "senior_high_school_code" : "30121D",
+         "short_name" : "箕島高校",
+         "url" : "http://www.minoshima-h.wakayama-c.ed.jp/"
       },
       "和歌山県立箕島高等学校宮原分校" : {
          "location_area" : "有田市・有田郡",
          "owner_type" : "県立",
-         "short_name" : "箕島高校宮原分校"
+         "short_name" : "箕島高校宮原分校",
+         "url" : "[]"
       },
       "和歌山県立粉河高等学校" : {
+         "location" : "和歌山県紀の川市粉河4632",
          "location_area" : "紀の川市",
+         "location_zipcode" : "649-6531",
          "owner_type" : "県立",
-         "short_name" : "粉河高校"
+         "short_name" : "粉河高校",
+         "url" : "http://www.kokawa-h.wakayama-c.ed.jp/"
       },
       "和歌山県立紀の川高等学校" : {
+         "location" : "和歌山県伊都郡かつらぎ町新田120",
          "location_area" : "橋本市・伊都郡",
+         "location_zipcode" : "649-7122",
          "owner_type" : "県立",
-         "short_name" : "紀の川高校"
+         "senior_high_school_code" : "30105B",
+         "short_name" : "紀の川高校",
+         "url" : "http://www.kinokawa-h.wakayama-c.ed.jp/"
       },
       "和歌山県立紀北工業高等学校" : {
          "location_area" : "橋本市・伊都郡",
@@ -215,76 +346,134 @@
          "short_name" : "紀北工業高校"
       },
       "和歌山県立紀北農芸高等学校" : {
+         "location" : "和歌山県伊都郡かつらぎ町妙寺1781",
          "location_area" : "橋本市・伊都郡",
+         "location_zipcode" : "649-7113",
          "owner_type" : "県立",
-         "short_name" : "紀北農芸高校"
+         "senior_high_school_code" : "30141J",
+         "short_name" : "紀北農芸高校",
+         "url" : "http://www.kihokunougei-ah.wakayama-c.ed.jp/"
       },
       "和歌山県立紀央館高等学校" : {
+         "location" : "和歌山県御坊市湯川町小松原43-1",
          "location_area" : "御坊市・日高郡",
+         "location_zipcode" : "644-0012",
          "owner_type" : "県立",
-         "short_name" : "紀央館高校"
+         "senior_high_school_code" : "30125G",
+         "short_name" : "紀央館高校",
+         "url" : "http://www.kiokan-h.wakayama-c.ed.jp/"
       },
       "和歌山県立耐久高等学校" : {
+         "location" : "和歌山県有田郡湯浅町湯浅1985",
          "location_area" : "有田市・有田郡",
+         "location_zipcode" : "643-0004",
          "owner_type" : "県立",
-         "short_name" : "耐久高校"
+         "short_name" : "耐久高校",
+         "url" : "http://www.taikyu-h.wakayama-c.ed.jp/"
       },
       "和歌山県立貴志川高等学校" : {
+         "location" : "和歌山県紀の川市貴志川町長原400",
          "location_area" : "紀の川市",
+         "location_zipcode" : "640-0415",
          "owner_type" : "県立",
-         "short_name" : "貴志川高校"
+         "senior_high_school_code" : "30108G",
+         "short_name" : "貴志川高校",
+         "url" : "http://www.kishigawa-h.wakayama-c.ed.jp/"
       },
       "和歌山県立那賀高等学校" : {
+         "location" : "和歌山県岩出市高塚115",
          "location_area" : "岩出市",
+         "location_zipcode" : "649-6223",
          "owner_type" : "県立",
-         "short_name" : "那賀高校"
+         "senior_high_school_code" : "30107J",
+         "short_name" : "那賀高校",
+         "url" : "http://www.naga-h.wakayama-c.ed.jp/"
       },
       "和歌山県立陵雲高等学校" : {
+         "location" : "和歌山県和歌山市吹上5-6-8",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8137",
          "owner_type" : "県立",
-         "short_name" : "陵雲高校"
+         "short_name" : "陵雲高校",
+         "url" : "http://www.ryoun-h.wakayama-c.ed.jp/"
       },
       "和歌山県立青陵高等学校" : {
+         "location" : "和歌山県和歌山市吹上5-6-8",
          "location_area" : "和歌山市",
+         "location_zipcode" : "640-8137",
          "owner_type" : "県立",
-         "short_name" : "青陵高校"
+         "short_name" : "青陵高校",
+         "url" : "http://www.seiryo-h.wakayama-c.ed.jp/"
       },
       "国際開洋第二高等学校" : {
          "owner_type" : "私立",
          "short_name" : "国際開洋第二高校"
       },
       "慶風高等学校" : {
+         "location" : "和歌山県海草郡紀美野町田64番地",
+         "location_zipcode" : "640-1363",
          "owner_type" : "私立",
-         "short_name" : "慶風高校"
+         "senior_high_school_code" : "30510D",
+         "short_name" : "慶風高校",
+         "url" : "http://www.eonet.ne.jp/~keifu/"
       },
       "智辯学園和歌山高等学校" : {
+         "location" : "和歌山県和歌山市冬野2066-1",
+         "location_wikipedia_latlon" : "|34|10|27.0|N|135|12|43.2|E|",
+         "location_zipcode" : "640-0392",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30506F",
          "short_name" : "智辯学園和歌山高校",
+         "url" : "http://www.chiben.ac.jp/wakayama/",
          "wikipedia_name" : "智辯学園和歌山小学校・中学校・高等学校"
       },
       "海南市立海南下津高等学校" : {
+         "location" : "和歌山県海南市下津町丸田87",
          "location_area" : "海南市・海草郡",
+         "location_zipcode" : "649-0121",
          "owner_type" : "市立",
-         "short_name" : "海南下津高校"
+         "senior_high_school_code" : "30142G",
+         "short_name" : "海南下津高校",
+         "url" : "http://www.shimojo-ko.kainan.ed.jp/"
       },
       "近畿大学附属和歌山高等学校" : {
+         "location" : "和歌山県和歌山市善明寺516",
+         "location_wikipedia_latlon" : "|34|16|7.0|N|135|11|3.0|E|",
+         "location_zipcode" : "640-8471",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30507D",
          "short_name" : "近畿大学附属和歌山高校",
+         "url" : "http://www.hwaka.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学附属和歌山高等学校・中学校"
       },
       "近畿大学附属新宮高等学校" : {
+         "location" : "和歌山県新宮市新宮4966",
+         "location_wikipedia_latlon" : "|33|42|55.4|N|135|59|54.6|E|",
+         "location_zipcode" : "647-0081",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30505H",
          "short_name" : "近畿大学附属新宮高校",
+         "url" : "http://www.shingu.kindai.ac.jp/",
          "wikipedia_name" : "近畿大学附属新宮高等学校・中学校"
       },
       "開智高等学校" : {
+         "location" : "和歌山県和歌山市直川113-2",
+         "location_wikipedia_latlon" : "|34|15|34.7|N|135|12|38.6|E|",
+         "location_zipcode" : "640-8481",
          "owner_type" : "私立",
+         "senior_high_school_code" : "30502C",
          "short_name" : "開智高校",
+         "url" : "http://www.kaichi.ed.jp/",
          "wikipedia_name" : "開智中学校・高等学校"
       },
       "高野山高等学校" : {
+         "location" : "和歌山県伊都郡高野町高野山212",
+         "location_wikipedia_latlon" : "|34|12|59.4|N|135|34|38.4|E|",
+         "location_zipcode" : "648-0288",
          "owner_type" : "私立",
-         "short_name" : "高野山高校"
+         "senior_high_school_code" : "30501E",
+         "short_name" : "高野山高校",
+         "url" : "http://www.koyasan-h.ed.jp/"
       }
    }
 }

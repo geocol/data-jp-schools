@@ -1,9 +1,14 @@
 {
    "senior_high_schools" : {
       "ノートルダム女学院高等学校" : {
+         "location" : "京都府京都市左京区鹿ヶ谷桜谷町110",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|01|10|N|135|47|47.5|E|",
+         "location_zipcode" : "606-8423",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26523D",
          "short_name" : "ノートルダム女学院高校",
+         "url" : "http://www.notredame-jogakuin.ed.jp/",
          "wikipedia_name" : "ノートルダム女学院中学校・高等学校"
       },
       "一燈園高等学校" : {
@@ -12,9 +17,14 @@
          "short_name" : "一燈園高校"
       },
       "京都両洋高等学校" : {
+         "location" : "京都府京都市中京区壬生上大竹町13番地",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|0|27.4|N|135|44|0.4|E|",
+         "location_zipcode" : "604-8851",
          "owner_type" : "私立",
-         "short_name" : "京都両洋高校"
+         "senior_high_school_code" : "26512J",
+         "short_name" : "京都両洋高校",
+         "url" : "http://www.kyoto-ryoyo.ed.jp/"
       },
       "京都光華高等学校" : {
          "location_area" : "京都市",
@@ -23,97 +33,174 @@
          "wikipedia_name" : "京都光華中学校・高等学校"
       },
       "京都共栄学園高等学校" : {
+         "location" : "京都府福知山市篠尾62番地5",
          "location_area" : "福知山市",
+         "location_zipcode" : "620-0933",
          "owner_type" : "私立",
          "short_name" : "京都共栄学園高校",
+         "url" : "http://www.kyoei.ed.jp/",
          "wikipedia_name" : "京都共栄学園中学校・高等学校"
       },
       "京都国際高等学校" : {
+         "location" : "京都府京都市東山区今熊野本多山町1",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|34|58|32.2|N|135|46|50.6|E|",
+         "location_zipcode" : "605-0978",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26542A",
          "short_name" : "京都国際高校",
+         "url" : "http://web.kyoto-inet.or.jp/org/kkgakuen/",
          "wikipedia_name" : "京都国際中学校・高等学校"
       },
       "京都外大西高等学校" : {
+         "location" : "京都府京都市右京区山ノ内苗町37",
          "location_area" : "京都市",
+         "location_zipcode" : "615-0074",
          "owner_type" : "私立",
-         "short_name" : "京都外大西高校"
+         "senior_high_school_code" : "26504H",
+         "short_name" : "京都外大西高校",
+         "url" : "http://www.kufs.ac.jp/nishiko/"
       },
       "京都女子高等学校" : {
+         "location" : "京都府京都市東山区今熊野北日吉町17",
          "location_area" : "京都市",
+         "location_zipcode" : "605-8501",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26515C",
          "short_name" : "京都女子高校",
+         "url" : "http://www.kgs.ed.jp/",
          "wikipedia_name" : "京都女子中学校・高等学校"
       },
       "京都学園高等学校" : {
+         "location" : "京都府京都市右京区花園寺ノ中町8",
          "location_area" : "京都市",
+         "location_zipcode" : "616-8036",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26503K",
          "short_name" : "京都学園高校",
+         "url" : "http://www.kyotogakuen.ac.jp/~shs/",
          "wikipedia_name" : "京都学園中学校・高等学校"
       },
       "京都市立京都堀川音楽高等学校" : {
+         "location" : "京都市中京区油小路通御池押油小路町238-1",
+         "location_zipcode" : "604-0052",
          "owner_type" : "市立",
-         "short_name" : "京都堀川音楽高校"
+         "senior_high_school_code" : "26157C",
+         "short_name" : "京都堀川音楽高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/ongaku/"
       },
       "京都市立伏見工業高等学校" : {
+         "location" : "京都市伏見区深草鈴塚町13",
+         "location_zipcode" : "612-0011",
          "owner_type" : "市立",
-         "short_name" : "伏見工業高校"
+         "senior_high_school_code" : "26137J",
+         "short_name" : "伏見工業高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/fushimi/FushimiWeb/index.htm"
       },
       "京都市立堀川高等学校" : {
+         "location" : "京都市中京区東堀川通錦小路上る四坊堀川町622-2",
+         "location_wikipedia_latlon" : "|35|0|19|N|135|45|9.9|E|",
+         "location_zipcode" : "604-8254",
          "owner_type" : "市立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "堀川高校"
+         "senior_high_school_code" : "26139E",
+         "short_name" : "堀川高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/horikawa/"
       },
       "京都市立塔南高等学校" : {
+         "location" : "京都府京都市南区吉祥院観音堂町41番地",
+         "location_wikipedia_latlon" : "|34|58|4.1|N|135|44|0.4|E|",
+         "location_zipcode" : "601-8843",
          "owner_type" : "市立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "塔南高校"
+         "senior_high_school_code" : "26142E",
+         "short_name" : "塔南高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/tounan/"
       },
       "京都市立日吉ヶ丘高等学校" : {
+         "location" : "京都府京都市東山区今熊野悲田院山町5-22",
+         "location_zipcode" : "605-0000",
          "owner_type" : "市立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "日吉ヶ丘高校"
+         "senior_high_school_code" : "26140J",
+         "short_name" : "日吉ヶ丘高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/hiyoshi/"
       },
       "京都市立洛陽工業高等学校" : {
+         "location" : "京都府京都市南区唐橋大宮尻町22",
+         "location_wikipedia_latlon" : "|34|58|46.9|N|135|44|6.3|E|",
+         "location_zipcode" : "601-8467",
          "owner_type" : "市立",
-         "short_name" : "洛陽工業高校"
+         "senior_high_school_code" : "26136A",
+         "short_name" : "洛陽工業高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/rakuyo/"
       },
       "京都市立紫野高等学校" : {
+         "location" : "京都市北区紫野大徳寺町22番地",
+         "location_wikipedia_latlon" : "|35|2|35.3|N|135|44|31.1|E|",
+         "location_zipcode" : "603-8231",
          "owner_type" : "市立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "紫野高校"
+         "senior_high_school_code" : "26141G",
+         "short_name" : "紫野高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/murasaki/"
       },
       "京都市立西京高等学校" : {
          "owner_type" : "市立",
          "short_name" : "西京高校"
       },
       "京都市立銅駝美術工芸高等学校" : {
+         "location" : "京都府京都市中京区土手町通り竹屋町下る鉾田町542",
+         "location_zipcode" : "604-0902",
          "owner_type" : "市立",
-         "short_name" : "銅駝美術工芸高校"
+         "senior_high_school_code" : "26145K",
+         "short_name" : "銅駝美術工芸高校",
+         "url" : "http://www.edu.city.kyoto.jp/hp/douda/"
       },
       "京都府立久御山高等学校" : {
+         "location" : "京都府久世郡久御山町林",
+         "location_zipcode" : "613-0033",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "久御山高校"
+         "short_name" : "久御山高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kumiyama-hs/"
       },
       "京都府立久美浜高等学校" : {
+         "location" : "京都府京丹後市久美浜町橋爪65番地",
+         "location_zipcode" : "629-3444",
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
-         "short_name" : "久美浜高校"
+         "senior_high_school_code" : "26133F",
+         "short_name" : "久美浜高校",
+         "url" : "http://www.kyoto-be.ne.jp/kumihama-hs/"
       },
       "京都府立乙訓高等学校" : {
+         "location" : "京都府長岡京市友岡1-1-1",
+         "location_wikipedia_latlon" : "|34|55|9.9|N|135|41|37.2|E|",
+         "location_zipcode" : "617-0843",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "乙訓高校"
+         "senior_high_school_code" : "26110G",
+         "short_name" : "乙訓高校",
+         "url" : "http://www1.kyoto-be.ne.jp/otokuni-hs/"
       },
       "京都府立亀岡高等学校" : {
+         "location" : "京都府亀岡市横町23",
+         "location_wikipedia_latlon" : "|35|0|39|N|135|34|57|E|",
+         "location_zipcode" : "621-0812",
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
-         "short_name" : "亀岡高校"
+         "senior_high_school_code" : "26119A",
+         "short_name" : "亀岡高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kameoka-hs/"
       },
       "京都府立京都すばる高等学校" : {
+         "location" : "京都市伏見区向島西定請120",
+         "location_zipcode" : "612-8156",
          "owner_type" : "府立",
-         "short_name" : "京都すばる高校"
+         "senior_high_school_code" : "26155G",
+         "short_name" : "京都すばる高校",
+         "url" : "http://www.kyoto-be.ne.jp/subaru-hs/"
       },
       "京都府立京都八幡高等学校" : {
          "owner_type" : "府立",
@@ -131,94 +218,172 @@
          "short_name" : "京都八幡高校南キャンパス"
       },
       "京都府立加悦谷高等学校" : {
+         "location" : "京都府与謝郡与謝野町字三河内810",
+         "location_wikipedia_latlon" : "|35|31|28.6|N|135|5|43.8|E|",
+         "location_zipcode" : "629-2313",
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
-         "short_name" : "加悦谷高校"
+         "senior_high_school_code" : "26130A",
+         "short_name" : "加悦谷高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kayadani-hs/"
       },
       "京都府立北嵯峨高等学校" : {
+         "location" : "京都市右京区嵯峨大沢柳井手町",
+         "location_zipcode" : "616-8353",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "北嵯峨高校"
+         "senior_high_school_code" : "26108E",
+         "short_name" : "北嵯峨高校",
+         "url" : "http://www.kyoto-be.ne.jp/kitasaga-hs/"
       },
       "京都府立北桑田高等学校" : {
+         "location" : "京都府京都市右京区京北下弓削町",
+         "location_wikipedia_latlon" : "|35|11|47.9|N|135|37|55.1|E|",
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
-         "short_name" : "北桑田高校"
+         "short_name" : "北桑田高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kitakuwada-hs/"
       },
       "京都府立北稜高等学校" : {
+         "location" : "京都府京都市左京区岩倉幡枝町154",
+         "location_zipcode" : "606-0015",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "北稜高校"
+         "senior_high_school_code" : "26148D",
+         "short_name" : "北稜高校",
+         "url" : "http://www.kyoto-be.ne.jp/hokuryou-hs/"
       },
       "京都府立南丹高等学校" : {
+         "location" : "京都府亀岡市馬路町中島1",
+         "location_wikipedia_latlon" : "|35|3|14.7|N|135|33|25.2|E|",
+         "location_zipcode" : "621-0008",
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
-         "short_name" : "南丹高校"
+         "senior_high_school_code" : "26144A",
+         "short_name" : "南丹高校",
+         "url" : "http://www1.kyoto-be.ne.jp/nantan-hs/"
       },
       "京都府立南陽高等学校" : {
+         "location" : "京都府木津川市兜台6丁目2番地",
+         "location_zipcode" : "619-0224",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "南陽高校"
+         "senior_high_school_code" : "26156E",
+         "short_name" : "南陽高校",
+         "url" : "http://www1.kyoto-be.ne.jp/nannyou-hs/"
       },
       "京都府立向陽高等学校" : {
+         "location" : "京都府向日市上植野町西大田",
+         "location_wikipedia_latlon" : "|34|56|4.4|N|135|42|37.4|E|",
+         "location_zipcode" : "617-0006",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "向陽高校"
+         "senior_high_school_code" : "26111E",
+         "short_name" : "向陽高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kouyou-hs/"
       },
       "京都府立園部高等学校" : {
+         "location" : "京都府南丹市園部町小桜町97",
+         "location_wikipedia_latlon" : "|35|6|17.7|N|135|28|8.8|E|",
+         "location_zipcode" : "622-0004",
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
+         "senior_high_school_code" : "26120D",
          "short_name" : "園部高校",
+         "url" : "http://www1.kyoto-be.ne.jp/sonobe-hs/",
          "wikipedia_name" : "京都府立園部高等学校・附属中学校"
       },
       "京都府立城南菱創高等学校" : {
+         "location" : "京都府宇治市小倉町南堀池",
+         "location_zipcode" : "611-0042",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "城南菱創高校"
+         "short_name" : "城南菱創高校",
+         "url" : "http://www.kyoto-be.ne.jp/jonanryoso-hs/index.html"
       },
       "京都府立城陽高等学校" : {
+         "location" : "京都府城陽市寺田宮ノ平1",
+         "location_wikipedia_latlon" : "|34|51|12.25|N|135|47|19.72|E|scale:20000",
+         "location_zipcode" : "610-0121",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "城陽高校"
+         "senior_high_school_code" : "26114K",
+         "short_name" : "城陽高校",
+         "url" : "http://www1.kyoto-be.ne.jp/jyouyou-hs/"
       },
       "京都府立大江高等学校" : {
+         "location" : "京都府福知山市大江町金屋578番地",
+         "location_zipcode" : "620-0303",
          "owner_type" : "府立",
          "school_area" : "中丹通学圏",
-         "short_name" : "大江高校"
+         "senior_high_school_code" : "26127A",
+         "short_name" : "大江高校",
+         "url" : "http://www.kyoto-be.ne.jp/ooe-hs/"
       },
       "京都府立宮津高等学校" : {
+         "location" : "京都府宮津市字滝馬23",
+         "location_wikipedia_latlon" : "|35|31|45.8|N|135|11|21.7|E|",
+         "location_zipcode" : "626-0034",
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
-         "short_name" : "宮津高校"
+         "senior_high_school_code" : "26128K",
+         "short_name" : "宮津高校",
+         "url" : "http://www1.kyoto-be.ne.jp/miyazu-hs"
       },
       "京都府立山城高等学校" : {
+         "location" : "京都府京都市北区大将軍坂田町29",
+         "location_wikipedia_latlon" : "|35|1|23|N|135|43|32.5|E|",
+         "location_zipcode" : "603-8335",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "山城高校"
+         "senior_high_school_code" : "26101H",
+         "short_name" : "山城高校",
+         "url" : "http://www1.kyoto-be.ne.jp/yamashiro-hs/"
       },
       "京都府立峰山高等学校" : {
+         "location" : "京都府京丹後市峰山町古殿1185番地",
+         "location_wikipedia_latlon" : "|35|37|28.8|N|135|3|16.9|E|",
+         "location_zipcode" : "627-8688",
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
-         "short_name" : "峰山高校"
+         "short_name" : "峰山高校",
+         "url" : "http://www1.kyoto-be.ne.jp/mineyama-hs/"
       },
       "京都府立嵯峨野高等学校" : {
+         "location" : "京都市右京区常盤段ノ上町15番地",
+         "location_wikipedia_latlon" : "|35|01|11|N|135|42|14|E|",
+         "location_zipcode" : "616-8226",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "嵯峨野高校"
+         "senior_high_school_code" : "26106J",
+         "short_name" : "嵯峨野高校",
+         "url" : "http://www.kyoto-be.ne.jp/sagano-hs/"
       },
       "京都府立工業高等学校" : {
+         "location" : "京都府福知山市石原上野45",
+         "location_zipcode" : "620-0804",
          "owner_type" : "府立",
-         "short_name" : "工業高校"
+         "senior_high_school_code" : "26124G",
+         "short_name" : "工業高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kyoto-ths/"
       },
       "京都府立木津高等学校" : {
+         "location" : "京都府木津川市木津内田山34",
+         "location_zipcode" : "619-0214",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "木津高校"
+         "senior_high_school_code" : "26117D",
+         "short_name" : "木津高校",
+         "url" : "http://www1.kyoto-be.ne.jp/kizu-hs/"
       },
       "京都府立朱雀高等学校" : {
+         "location" : "京都府京都市中京区西ノ京式部町1",
+         "location_zipcode" : "604-8384",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "朱雀高校"
+         "senior_high_school_code" : "26104B",
+         "short_name" : "朱雀高校",
+         "url" : "http://www1.kyoto-be.ne.jp/suzaku-hs/"
       },
       "京都府立東宇治高等学校" : {
          "owner_type" : "府立",
@@ -226,122 +391,227 @@
          "short_name" : "東宇治高校"
       },
       "京都府立東稜高等学校" : {
+         "location" : "京都府京都市伏見区醍醐新町裏町25-1",
+         "location_zipcode" : "601-1326",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "東稜高校"
+         "senior_high_school_code" : "26134D",
+         "short_name" : "東稜高校",
+         "url" : "http://www1.kyoto-be.ne.jp/touryou-hs/"
       },
       "京都府立東舞鶴高等学校" : {
+         "location" : "京都府舞鶴市字泉源寺766番地",
+         "location_wikipedia_latlon" : "|35|29|2.4|N|135|24|54.4|E|",
+         "location_zipcode" : "625-0026",
          "owner_type" : "府立",
          "school_area" : "中丹通学圏",
-         "short_name" : "東舞鶴高校"
+         "senior_high_school_code" : "26125E",
+         "short_name" : "東舞鶴高校",
+         "url" : "http://www1.kyoto-be.ne.jp/higashimaizuru-hs/"
       },
       "京都府立桂高等学校" : {
+         "location" : "京都市西京区川島松ノ木本町27",
+         "location_zipcode" : "615-8102",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "桂高校"
+         "senior_high_school_code" : "26107G",
+         "short_name" : "桂高校",
+         "url" : "http://www.kyoto-be.ne.jp/katsura-hs/"
       },
       "京都府立桃山高等学校" : {
+         "location" : "京都市伏見区桃山毛利長門東町8",
+         "location_zipcode" : "612-0063",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "桃山高校"
+         "senior_high_school_code" : "26109C",
+         "short_name" : "桃山高校",
+         "url" : "http://www.kyoto-be.ne.jp/momoyama-hs/"
       },
       "京都府立洛北高等学校" : {
+         "location" : "京都市左京区下鴨梅ノ木町59",
+         "location_wikipedia_latlon" : "|35|2|45.9|N|135|46|17.1|E|",
+         "location_zipcode" : "606-0851",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
+         "senior_high_school_code" : "26103D",
          "short_name" : "洛北高校",
+         "url" : "http://www1.kyoto-be.ne.jp/rakuhoku-hs/",
          "wikipedia_name" : "京都府立洛北高等学校・附属中学校"
       },
       "京都府立洛東高等学校" : {
+         "location" : "京都府京都市山科区安朱川向町10",
+         "location_zipcode" : "607-8017",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "洛東高校"
+         "senior_high_school_code" : "26105A",
+         "short_name" : "洛東高校",
+         "url" : "http://www1.kyoto-be.ne.jp/rakutou-hs/"
       },
       "京都府立洛水高等学校" : {
+         "location" : "京都市伏見区横大路向ヒ18",
+         "location_zipcode" : "612-8283",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "洛水高校"
+         "senior_high_school_code" : "26143C",
+         "short_name" : "洛水高校",
+         "url" : "http://www1.kyoto-be.ne.jp/rakusui-hs/"
       },
       "京都府立洛西高等学校" : {
+         "location" : "京都府京都市西京区大原野西境谷町一丁目12番地1",
+         "location_zipcode" : "610-1146",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "洛西高校"
+         "senior_high_school_code" : "26146H",
+         "short_name" : "洛西高校",
+         "url" : "http://www1.kyoto-be.ne.jp/rakusai-hs/"
       },
       "京都府立海洋高等学校" : {
+         "location" : "京都府宮津市字上司1567-1",
+         "location_wikipedia_latlon" : "|35|33|01|N|135|14|05|E|",
+         "location_zipcode" : "626-0074",
          "owner_type" : "府立",
-         "short_name" : "海洋高校"
+         "senior_high_school_code" : "26129H",
+         "short_name" : "海洋高校",
+         "url" : "http://www.kyoto-be.ne.jp/kaiyou-hs/"
       },
       "京都府立田辺高等学校" : {
+         "location" : "京都府京田辺市河原神谷24",
+         "location_zipcode" : "610-0361",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "田辺高校"
+         "senior_high_school_code" : "26116F",
+         "short_name" : "田辺高校",
+         "url" : "http://www.kyoto-be.ne.jp/tanabe-hs/"
       },
       "京都府立福知山高等学校" : {
+         "location" : "京都府福知山市土師650",
+         "location_wikipedia_latlon" : "|35|17|42.3|N|135|8|44.2|E|",
+         "location_zipcode" : "620-0857",
          "owner_type" : "府立",
          "school_area" : "中丹通学圏",
-         "short_name" : "福知山高校"
+         "senior_high_school_code" : "26123J",
+         "short_name" : "福知山高校",
+         "url" : "http://www1.kyoto-be.ne.jp/fukuchiyama-hs/"
       },
       "京都府立網野高等学校" : {
+         "location" : "京都府京丹後市網野町網野2820",
+         "location_zipcode" : "629-3101",
          "owner_type" : "府立",
          "school_area" : "丹後通学圏",
-         "short_name" : "網野高校"
+         "senior_high_school_code" : "26132H",
+         "short_name" : "網野高校",
+         "url" : "http://www1.kyoto-be.ne.jp/amino-hs/"
       },
       "京都府立綾部高等学校" : {
+         "location" : "京都府綾部市岡町長田18",
+         "location_wikipedia_latlon" : "|35|18|03|N|135|14|15.7|E|",
+         "location_zipcode" : "623-0042",
          "owner_type" : "府立",
          "school_area" : "中丹通学圏",
-         "short_name" : "綾部高校"
+         "senior_high_school_code" : "26122A",
+         "short_name" : "綾部高校",
+         "url" : "http://www.kyoto-be.ne.jp/ayabe-hs/"
       },
       "京都府立莵道高等学校" : {
+         "location" : "京都府宇治市五ケ庄五雲峰4-1",
+         "location_zipcode" : "611-0011",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "莵道高校"
+         "senior_high_school_code" : "26154J",
+         "short_name" : "莵道高校",
+         "url" : "http://www1.kyoto-be.ne.jp/todou-hs/"
       },
       "京都府立西乙訓高等学校" : {
+         "location" : "京都府長岡京市下海印寺西明寺41",
+         "location_wikipedia_latlon" : "|34|54|47.6|N|135|40|44.6|E|",
+         "location_zipcode" : "617-0845",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "西乙訓高校"
+         "senior_high_school_code" : "26153A",
+         "short_name" : "西乙訓高校",
+         "url" : "http://www.kyoto-be.ne.jp/nishiotokuni-hs/"
       },
       "京都府立西城陽高等学校" : {
+         "location" : "京都府城陽市枇杷庄京縄手46-1",
+         "location_zipcode" : "610-0117",
          "owner_type" : "府立",
          "school_area" : "山城通学圏",
-         "short_name" : "西城陽高校"
+         "senior_high_school_code" : "26149B",
+         "short_name" : "西城陽高校",
+         "url" : "http://www1.kyoto-be.ne.jp/nishijyouyou-hs/"
       },
       "京都府立西舞鶴高等学校" : {
+         "location" : "京都府舞鶴市字引土145",
+         "location_wikipedia_latlon" : "|35|26|20.3|N|135|19|38.8|E|",
+         "location_zipcode" : "624-0841",
          "owner_type" : "府立",
          "school_area" : "中丹通学圏",
-         "short_name" : "西舞鶴高校"
+         "senior_high_school_code" : "26126C",
+         "short_name" : "西舞鶴高校",
+         "url" : "http://www1.kyoto-be.ne.jp/nishimaizuru-hs/"
       },
       "京都府立農芸高等学校" : {
+         "location" : "京都府南丹市園部町南大谷",
+         "location_wikipedia_latlon" : "|35|3|23.2|N|135|27|17.3|E|",
+         "location_zipcode" : "622-0059",
          "owner_type" : "府立",
-         "short_name" : "農芸高校"
+         "senior_high_school_code" : "26151D",
+         "short_name" : "農芸高校",
+         "url" : "http://www.kyoto-be.ne.jp/nougei-hs/"
       },
       "京都府立須知高等学校" : {
+         "location" : "京都府船井郡京丹波町豊田下川原166-1",
+         "location_zipcode" : "622-0231",
          "owner_type" : "府立",
          "school_area" : "口丹通学圏",
-         "short_name" : "須知高校"
+         "senior_high_school_code" : "26121B",
+         "short_name" : "須知高校",
+         "url" : "http://www1.kyoto-be.ne.jp/syuuchi-hs/"
       },
       "京都府立鳥羽高等学校" : {
+         "location" : "京都府京都市南区西九条大国町1番地",
+         "location_zipcode" : "601-8449",
          "owner_type" : "府立",
          "school_area" : "京都市南通学圏",
-         "short_name" : "鳥羽高校"
+         "senior_high_school_code" : "26152B",
+         "short_name" : "鳥羽高校",
+         "url" : "http://www1.kyoto-be.ne.jp/rakuhoku-hs/"
       },
       "京都府立鴨沂高等学校" : {
+         "location" : "京都市上京区寺町通荒神口下ル松蔭町131",
+         "location_zipcode" : "602-0867",
          "owner_type" : "府立",
          "school_area" : "京都市北通学圏",
-         "short_name" : "鴨沂高校"
+         "senior_high_school_code" : "26102F",
+         "short_name" : "鴨沂高校",
+         "url" : "http://www1.kyoto-be.ne.jp/ohki-hs/"
       },
       "京都成章高等学校" : {
+         "location" : "京都府京都市西京区大枝沓掛町26",
          "location_area" : "京都市",
+         "location_zipcode" : "610-1106",
          "owner_type" : "私立",
-         "short_name" : "京都成章高校"
+         "senior_high_school_code" : "26539A",
+         "short_name" : "京都成章高校",
+         "url" : "http://www.kyoto-econ.ac.jp/seisho/"
       },
       "京都教育大学附属高等学校" : {
+         "location" : "京都府京都市伏見区深草越後屋敷町111",
+         "location_zipcode" : "612-8431",
          "owner_type" : "国立",
-         "short_name" : "京都教育大学附属高校"
+         "senior_high_school_code" : "26001A",
+         "short_name" : "京都教育大学附属高校",
+         "url" : "http://www117.sakura.ne.jp/~kyokyofk/"
       },
       "京都文教高等学校" : {
+         "location" : "京都府京都市左京区岡崎円勝寺町5",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|0|42.0|N|135|46|47.1|E|",
+         "location_zipcode" : "606-8344",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26513G",
          "short_name" : "京都文教高校",
+         "url" : "http://www.kbu.ac.jp/kbghs/",
          "wikipedia_name" : "京都文教中学校・高等学校"
       },
       "京都明徳高等学校" : {
@@ -350,9 +620,13 @@
          "short_name" : "京都明徳高校"
       },
       "京都暁星高等学校" : {
+         "location" : "京都府宮津市獅子崎30",
          "location_area" : "宮津市",
+         "location_wikipedia_latlon" : "|35|33|2|N|135|12|42|E|",
+         "location_zipcode" : "626-0065",
          "owner_type" : "私立",
-         "short_name" : "京都暁星高校"
+         "short_name" : "京都暁星高校",
+         "url" : "http://www.kghs.ed.jp/"
       },
       "京都橘高等学校" : {
          "location_area" : "京都市",
@@ -360,9 +634,14 @@
          "short_name" : "京都橘高校"
       },
       "京都産業大学附属高等学校" : {
+         "location" : "京都府京都市上京区相国寺北門前町",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|02|03|N|135|45|47|E|",
+         "location_zipcode" : "602-0898",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26519F",
          "short_name" : "京都産業大学附属高校",
+         "url" : "http://www.jsh.kyoto-su.ac.jp/index.html",
          "wikipedia_name" : "京都産業大学附属中学校・高等学校"
       },
       "京都精華女子高等学校" : {
@@ -371,9 +650,13 @@
          "short_name" : "京都精華女子高校"
       },
       "京都美山高等学校" : {
+         "location" : "京都府京都市上京区西洞院通一条下ル讃州寺町237",
          "location_area" : "南丹市",
+         "location_zipcode" : "602-0922",
          "owner_type" : "私立",
-         "short_name" : "京都美山高校"
+         "senior_high_school_code" : "26538B",
+         "short_name" : "京都美山高校",
+         "url" : "http://www.miyama.ed.jp/tushin/"
       },
       "京都翔英高等学校" : {
          "location_area" : "宇治市",
@@ -381,35 +664,61 @@
          "short_name" : "京都翔英高校"
       },
       "京都聖カタリナ高等学校" : {
+         "location" : "京都府南丹市園部町美園町1号78番地",
          "location_area" : "南丹市",
+         "location_wikipedia_latlon" : "|35|6|12.8|N|135|28|25.4|E|",
+         "location_zipcode" : "622-0002",
          "owner_type" : "私立",
-         "short_name" : "京都聖カタリナ高校"
+         "senior_high_school_code" : "26531E",
+         "short_name" : "京都聖カタリナ高校",
+         "url" : "http://www.catalina-kyoto.ed.jp/"
       },
       "京都芸術高等学校" : {
+         "location" : "京都府宇治市五ヶ庄西浦6番地の2号",
          "location_area" : "宇治市",
+         "location_wikipedia_latlon" : "|34|54|47.5|N|135|48|16.3|E|",
+         "location_zipcode" : "611-0011",
          "owner_type" : "私立",
-         "short_name" : "京都芸術高校"
+         "senior_high_school_code" : "26541B",
+         "short_name" : "京都芸術高校",
+         "url" : "http://www.kyoto-geikou.ed.jp/"
       },
       "京都西山高等学校" : {
+         "location" : "京都府向日市寺戸町西野辺25",
          "location_area" : "向日市",
+         "location_zipcode" : "617-0002",
          "owner_type" : "私立",
-         "short_name" : "京都西山高校"
+         "senior_high_school_code" : "26522F",
+         "short_name" : "京都西山高校",
+         "url" : "http://www.kyotonishiyama.ed.jp/"
       },
       "南京都高等学校" : {
+         "location" : "京都府相楽郡精華町下狛中垣内48番地",
          "location_area" : "相楽郡精華町",
+         "location_zipcode" : "619-0245",
          "owner_type" : "私立",
-         "short_name" : "南京都高校"
+         "short_name" : "南京都高校",
+         "url" : "http://www.minamikyoto.ed.jp/index2.html"
       },
       "同志社国際高等学校" : {
+         "location" : "京都府京田辺市多々羅都谷60-1",
          "location_area" : "京田辺市",
+         "location_zipcode" : "610-0321",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26536F",
          "short_name" : "同志社国際高校",
+         "url" : "http://www.intnl.doshisha.ac.jp/",
          "wikipedia_name" : "同志社国際中学校・高等学校"
       },
       "同志社女子高等学校" : {
+         "location" : "京都府京都市上京区今出川通寺町西入ル",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|1|46|N|135|45|56|E|",
+         "location_zipcode" : "602-0893",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26521H",
          "short_name" : "同志社女子高校",
+         "url" : "http://www.girls.doshisha.ac.jp/",
          "wikipedia_name" : "同志社女子中学校・高等学校"
       },
       "同志社高等学校" : {
@@ -418,44 +727,75 @@
          "short_name" : "同志社高校"
       },
       "大谷高等学校" : {
+         "location" : "京都府京都市東山区今熊野池田町12",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|34|59|4.6|N|135|46|17.8|E|",
+         "location_zipcode" : "605-0965",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26502A",
          "short_name" : "大谷高校",
+         "url" : "http://www.otani.ed.jp/",
          "wikipedia_name" : "大谷中学校・高等学校 (京都府)"
       },
       "平安女学院高等学校" : {
+         "location" : "京都市上京区下立売通烏丸西入五町目町172-2",
          "location_area" : "京都市",
+         "location_zipcode" : "602-8013",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26524B",
          "short_name" : "平安女学院高校",
+         "url" : "http://www.heian.ac.jp/high/index.php",
          "wikipedia_name" : "平安女学院中学校・高等学校"
       },
       "日星高等学校" : {
+         "location" : "京都府舞鶴市上安久381番地",
          "location_area" : "舞鶴市",
+         "location_wikipedia_latlon" : "|35|27|11.2|N|135|20|21.8|E|",
+         "location_zipcode" : "624-0913",
          "owner_type" : "私立",
-         "short_name" : "日星高校"
+         "senior_high_school_code" : "26533A",
+         "short_name" : "日星高校",
+         "url" : "http://nisseihs.ed.jp/"
       },
       "東山高等学校" : {
+         "location" : "京都府京都市左京区永観堂町51",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|35|0|48.5|N|135|47|38.8|E|",
+         "location_zipcode" : "606-8445",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26507B",
          "short_name" : "東山高校",
+         "url" : "http://www.higashiyama.ed.jp/",
          "wikipedia_name" : "東山中学校・高等学校"
       },
       "洛南高等学校" : {
+         "location" : "京都市南区壬生通八条下ル東寺町559番地",
          "location_area" : "京都市",
+         "location_zipcode" : "601-8478",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26510B",
          "short_name" : "洛南高校",
+         "url" : "http://www.rakunan-h.ed.jp/",
          "wikipedia_name" : "洛南高等学校・附属中学校"
       },
       "洛星高等学校" : {
+         "location" : "京都市北区小松原南町33番地",
          "location_area" : "京都市",
+         "location_zipcode" : "603-8342",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26509J",
          "short_name" : "洛星高校",
+         "url" : "http://www.rakusei.ac.jp/index.html",
          "wikipedia_name" : "洛星中学校・高等学校"
       },
       "洛陽総合高等学校" : {
+         "location" : "京都府京都市中京区西ノ京春日町8",
          "location_area" : "京都市",
+         "location_zipcode" : "604-8453",
          "owner_type" : "私立",
-         "short_name" : "洛陽総合高校"
+         "senior_high_school_code" : "26527G",
+         "short_name" : "洛陽総合高校",
+         "url" : "http://www.rakuyo.ed.jp/"
       },
       "福知山女子高等学校" : {
          "location_area" : "福知山市",
@@ -463,49 +803,84 @@
          "short_name" : "福知山女子高校"
       },
       "福知山成美高等学校" : {
+         "location" : "京都府福知山市堀水内3471-1",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|17|4.1|N|135|8|1.6|E|",
+         "location_zipcode" : "620-0876",
          "owner_type" : "私立",
-         "short_name" : "福知山成美高校"
+         "senior_high_school_code" : "26530G",
+         "short_name" : "福知山成美高校",
+         "url" : "http://www.seibi-hs.jp"
       },
       "福知山淑徳高等学校" : {
+         "location" : "京都府福知山市正明寺36-10",
          "location_area" : "福知山市",
+         "location_wikipedia_latlon" : "|35|17|24.0|N|135|6|2.7|E|",
+         "location_zipcode" : "624-0913",
          "owner_type" : "私立",
-         "short_name" : "福知山淑徳高校"
+         "senior_high_school_code" : "26534K",
+         "short_name" : "福知山淑徳高校",
+         "url" : "http://www.kan-on-sen-ku.ed.jp/"
       },
       "立命館宇治高等学校" : {
+         "location" : "京都府宇治市広野町八軒屋谷33-1",
          "location_area" : "宇治市",
+         "location_wikipedia_latlon" : "|34|52|8.4|N|135|47|47.7|E|",
+         "location_zipcode" : "611-0031",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26528E",
          "short_name" : "立命館宇治高校",
+         "url" : "http://www.ujc.ritsumei.ac.jp/ujc/",
          "wikipedia_name" : "立命館宇治中学校・高等学校"
       },
       "立命館高等学校" : {
+         "location" : "京都府京都市伏見区深草西出山町23",
          "location_area" : "京都市",
+         "location_zipcode" : "612-0884",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26511A",
          "short_name" : "立命館高校",
+         "url" : "http://www.ritsumei.ac.jp/fkc/",
          "wikipedia_name" : "立命館中学校・高等学校"
       },
       "聖母学院高等学校" : {
+         "location" : "京都府京都市伏見区深草田谷町1番地",
          "location_area" : "京都市",
+         "location_zipcode" : "572-8531",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26520K",
          "short_name" : "聖母学院高校",
+         "url" : "http://www.seibo.ed.jp/kyoto-hs/",
          "wikipedia_name" : "聖母学院中学高等学校"
       },
       "花園高等学校" : {
+         "location" : "京都府京都市右京区花園木辻北町1",
          "location_area" : "京都市",
+         "location_zipcode" : "616-8034",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26506D",
          "short_name" : "花園高校",
+         "url" : "http://www.kyoto-hanazono-h.ed.jp/",
          "wikipedia_name" : "花園中学校・高等学校"
       },
       "華頂女子高等学校" : {
+         "location" : "京都府京都市東山区林下町3-456",
          "location_area" : "京都市",
+         "location_zipcode" : "605-0062",
          "owner_type" : "私立",
          "short_name" : "華頂女子高校",
+         "url" : "http://www.kacho.ac.jp/chukou/",
          "wikipedia_name" : "華頂女子中学校・高等学校"
       },
       "龍谷大学付属平安高等学校" : {
+         "location" : "京都府京都市下京区大宮通七条上ル御器屋町30",
          "location_area" : "京都市",
+         "location_wikipedia_latlon" : "|34|59|26|N|135|44|53.2|E|",
+         "location_zipcode" : "600-8267",
          "owner_type" : "私立",
+         "senior_high_school_code" : "26508A",
          "short_name" : "龍谷大学付属平安高校",
+         "url" : "http://www.heian.ed.jp/index2.htm",
          "wikipedia_name" : "龍谷大学付属平安中学校・高等学校"
       }
    }

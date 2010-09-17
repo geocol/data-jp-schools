@@ -1,115 +1,216 @@
 {
    "senior_high_schools" : {
       "れいめい高等学校" : {
+         "location" : "鹿児島県薩摩川内市隈之城町2205",
+         "location_zipcode" : "895-0041",
          "owner_type" : "私立",
          "short_name" : "れいめい高校",
+         "url" : "http://www.reimei.ed.jp/",
          "wikipedia_name" : "れいめい中学校・高等学校"
       },
       "ラ・サール高等学校" : {
+         "location" : "鹿児島県鹿児島市小松原2-10-1",
+         "location_wikipedia_latlon" : "|31|31|48|N|130|31|40|E|",
+         "location_zipcode" : "891-0192",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46508K",
          "short_name" : "ラ・サール高校",
+         "url" : "http://www.lasalle.ed.jp/",
          "wikipedia_name" : "ラ・サール中学校・高等学校"
       },
       "出水中央高等学校" : {
+         "location" : "鹿児島県出水市西出水町448番地",
+         "location_zipcode" : "899-0213",
          "owner_type" : "私立",
-         "short_name" : "出水中央高校"
+         "senior_high_school_code" : "46514D",
+         "short_name" : "出水中央高校",
+         "url" : "http://www.izumi.ac.jp/"
       },
       "出水市立出水商業高等学校" : {
+         "location" : "鹿児島県出水市明神町200番地",
+         "location_zipcode" : "899-0131",
          "owner_type" : "市立",
-         "short_name" : "出水商業高校"
+         "short_name" : "出水商業高校",
+         "url" : "http://www12.synapse.ne.jp/izumisyo/"
       },
       "加治木女子高等学校" : {
+         "location" : "鹿児島県姶良市加治木町木田5348番地",
+         "location_zipcode" : "899-5241",
          "owner_type" : "私立",
-         "short_name" : "加治木女子高校"
+         "senior_high_school_code" : "46509H",
+         "short_name" : "加治木女子高校",
+         "url" : "http://www.gh-kagoshima.ac.jp/kghs/"
       },
       "大口明光学園高等学校" : {
+         "location" : "鹿児島県伊佐市大口里1830",
+         "location_zipcode" : "895-2511",
          "owner_type" : "私立",
          "short_name" : "大口明光学園高校",
+         "url" : "http://www.okuchimeiko.ac.jp/",
          "wikipedia_name" : "大口明光学園中学校・高等学校"
       },
       "尚志館高等学校" : {
+         "location" : "鹿児島県志布志市志布志町安楽6200",
+         "location_zipcode" : "899-7104",
          "owner_type" : "私立",
-         "short_name" : "尚志館高校"
+         "short_name" : "尚志館高校",
+         "url" : "http://www.shoshikan.ed.jp/"
       },
       "屋久島おおぞら高等学校" : {
+         "location" : "鹿児島県熊毛郡屋久島町平内34-2",
+         "location_zipcode" : "891-4406",
          "owner_type" : "私立",
-         "short_name" : "屋久島おおぞら高校"
+         "senior_high_school_code" : "46525K",
+         "short_name" : "屋久島おおぞら高校",
+         "url" : "http://www.ohzora.ac.jp/"
       },
       "志學館高等部" : {
+         "location" : "鹿児島県鹿児島市南郡元町32-1",
+         "location_wikipedia_latlon" : "|31|33|28.5|N|130|32|35.4|E|",
+         "location_zipcode" : "890-0069",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46521G",
+         "url" : "http://www.jkajyo.ac.jp/shigakukan/index.html",
          "wikipedia_name" : "志學館中等部・高等部 (鹿児島県)"
       },
       "指宿市立指宿商業高等学校" : {
+         "location" : "鹿児島県指宿市岩本2747番地",
+         "location_zipcode" : "891-0315",
          "owner_type" : "市立",
-         "short_name" : "指宿商業高校"
+         "short_name" : "指宿商業高校",
+         "url" : "http://www12.synapse.ne.jp/ibusyo/"
       },
       "樟南第二高等学校" : {
+         "location" : "鹿児島県大島郡天城町天城297",
          "owner_type" : "私立",
-         "short_name" : "樟南第二高校"
+         "short_name" : "樟南第二高校",
+         "url" : "http://www8.ocn.ne.jp/~shonan2/"
       },
       "樟南高等学校" : {
+         "location" : "鹿児島県鹿児島市武岡1丁目120番1号",
+         "location_zipcode" : "890-0031",
          "owner_type" : "私立",
-         "short_name" : "樟南高校"
+         "senior_high_school_code" : "46502A",
+         "short_name" : "樟南高校",
+         "url" : "http://www12.synapse.ne.jp/shonan/"
       },
       "池田高等学校" : {
+         "location" : "鹿児島市西別府町1680",
+         "location_wikipedia_latlon" : "|31|36|2.5|N|130|29|1.1|E|",
+         "location_zipcode" : "890-0033",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46522E",
          "short_name" : "池田高校",
+         "url" : "http://www.minc.ne.jp/ikeda/",
          "wikipedia_name" : "池田学園池田中学・高等学校"
       },
       "神村学園高等部" : {
+         "location" : "鹿児島県いちき串木野市下名4460番地",
+         "location_zipcode" : "896-8686",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46511K",
+         "url" : "http://news.kamimura.ac.jp/school_news/el/index.html",
          "wikipedia_name" : "神村学園初等部・中等部・高等部"
       },
       "霧島市立国分中央高等学校" : {
+         "location" : "霧島市国分中央1丁目10番1号",
+         "location_wikipedia_latlon" : "|31|44|41.5|N|130|46|0.5|E|",
+         "location_zipcode" : "899-4332",
          "owner_type" : "市立",
-         "short_name" : "国分中央高校"
+         "senior_high_school_code" : "46180G",
+         "short_name" : "国分中央高校",
+         "url" : "http://www.mct.ne.jp/users/kokubu-chuo/"
       },
       "鳳凰高等学校" : {
+         "location" : "鹿児島県南さつま市加世田唐仁原1202",
+         "location_zipcode" : "897-1121",
          "owner_type" : "私立",
-         "short_name" : "鳳凰高校"
+         "senior_high_school_code" : "46510A",
+         "short_name" : "鳳凰高校",
+         "url" : "http://www.hooh.ed.jp/index.html"
       },
       "鹿児島修学館高等学校" : {
+         "location" : "鹿児島県鹿児島市永吉2-9-1",
+         "location_zipcode" : "890-0023",
          "owner_type" : "私立",
          "short_name" : "鹿児島修学館高校",
+         "url" : "http://www.shugakukan.ed.jp/index.html",
          "wikipedia_name" : "鹿児島修学館中学校・高等学校"
       },
       "鹿児島城西高等学校" : {
+         "location" : "鹿児島県日置市伊集院町清藤1938",
+         "location_zipcode" : "899-2593",
          "owner_type" : "私立",
-         "short_name" : "鹿児島城西高校"
+         "senior_high_school_code" : "46503J",
+         "short_name" : "鹿児島城西高校",
+         "url" : "http://www.nissho.ac.jp/kjh/pc/"
       },
       "鹿児島実業高等学校" : {
+         "location" : "鹿児島県鹿児島市五ヶ別府町3591番3",
+         "location_wikipedia_latlon" : "|31|35|25.3|N|130|29|37.6|E|",
+         "location_zipcode" : "891-0180",
          "owner_type" : "私立",
-         "short_name" : "鹿児島実業高校"
+         "senior_high_school_code" : "46501B",
+         "short_name" : "鹿児島実業高校",
+         "url" : "http://www.kajitsu.ac.jp/"
       },
       "鹿児島市立鹿児島商業高等学校" : {
+         "location" : "鹿児島県鹿児島市西坂元町58番1号",
+         "location_wikipedia_latlon" : "|31|36|53.5|N|130|33|10.5|E|",
+         "location_zipcode" : "892-0862",
          "owner_type" : "市立",
-         "short_name" : "鹿児島商業高校"
+         "senior_high_school_code" : "46176J",
+         "short_name" : "鹿児島商業高校",
+         "url" : "http://keinet.com/syougyok/index.htm"
       },
       "鹿児島市立鹿児島女子高等学校" : {
+         "location" : "鹿児島県鹿児島市玉里町27番1号",
+         "location_wikipedia_latlon" : "|31|36|46.3|N|130|32|22.3|E|",
+         "location_zipcode" : "890-0012",
          "owner_type" : "市立",
-         "short_name" : "鹿児島女子高校"
+         "senior_high_school_code" : "46177G",
+         "short_name" : "鹿児島女子高校",
+         "url" : "http://www.keinet.com/jyoshik/index.htm"
       },
       "鹿児島市立鹿児島玉龍高等学校" : {
+         "location" : "鹿児島県鹿児島市池之上町20-57",
+         "location_zipcode" : "892-0806",
          "owner_type" : "市立",
          "short_name" : "鹿児島玉龍高校",
+         "url" : "http://keinet.com/gyokuk/index.htm",
          "wikipedia_name" : "鹿児島市立鹿児島玉龍中学校・高等学校"
       },
       "鹿児島情報高等学校" : {
+         "location" : "鹿児島県鹿児島市谷山中央2-4118",
+         "location_zipcode" : "891-0141",
          "owner_type" : "私立",
-         "short_name" : "鹿児島情報高校"
+         "senior_high_school_code" : "46507A",
+         "short_name" : "鹿児島情報高校",
+         "url" : "http://www.ka-joho.jp/"
       },
       "鹿児島県立与論高等学校" : {
+         "location" : "鹿児島県大島郡与論町茶花1234-1",
+         "location_zipcode" : "891-9301",
          "owner_type" : "県立",
          "school_area" : "大島学区",
-         "short_name" : "与論高校"
+         "senior_high_school_code" : "46174B",
+         "short_name" : "与論高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Yoron/top.html"
       },
       "鹿児島県立串木野高等学校" : {
+         "location" : "鹿児島県いちき串木野市美住町65番地",
+         "location_zipcode" : "896-0024",
          "owner_type" : "県立",
          "school_area" : "日置学区",
-         "short_name" : "串木野高校"
+         "senior_high_school_code" : "46124F",
+         "short_name" : "串木野高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kushikino/top.html"
       },
       "鹿児島県立串良商業高等学校" : {
+         "location" : "鹿児島県鹿屋市串良町岡崎2496-1",
+         "location_zipcode" : "893-1603",
          "owner_type" : "県立",
+         "senior_high_school_code" : "46153K",
          "short_name" : "串良商業高校"
       },
       "鹿児島県立伊佐農林高等学校" : {
@@ -117,41 +218,70 @@
          "short_name" : "伊佐農林高校"
       },
       "鹿児島県立伊集院高等学校" : {
+         "location" : "鹿児島県日置市伊集院町郡1984番地",
+         "location_wikipedia_latlon" : "|31|38|9.1|N|130|24|0.9|E|",
+         "location_zipcode" : "899-2504",
          "owner_type" : "県立",
          "school_area" : "日置学区",
-         "short_name" : "伊集院高校"
+         "senior_high_school_code" : "46122K",
+         "short_name" : "伊集院高校",
+         "url" : "http://www12.synapse.ne.jp/ijuinhigh/"
       },
       "鹿児島県立出水工業高等学校" : {
+         "location" : "鹿児島県出水市五万石町358番地",
+         "location_zipcode" : "897－0302",
          "owner_type" : "県立",
-         "short_name" : "出水工業高校"
+         "short_name" : "出水工業高校",
+         "url" : "http://edu.pref.kagoshima.jp/sh/Izumi-T/"
       },
       "鹿児島県立出水高等学校" : {
+         "location" : "鹿児島県出水市西出水町1700",
+         "location_zipcode" : "899-0213",
          "owner_type" : "県立",
          "school_area" : "出水学区",
-         "short_name" : "出水高校"
+         "senior_high_school_code" : "46136K",
+         "short_name" : "出水高校",
+         "url" : "http://www.synapse.ne.jp/izumikoh/"
       },
       "鹿児島県立加世田常潤高等学校" : {
          "owner_type" : "県立",
          "short_name" : "加世田常潤高校"
       },
       "鹿児島県立加世田高等学校" : {
+         "location" : "鹿児島県南さつま市加世田川畑3200",
+         "location_wikipedia_latlon" : "|31|24|30.8|N|130|19|29.5|E|",
+         "location_zipcode" : "897-0003",
          "owner_type" : "県立",
          "school_area" : "川辺学区",
-         "short_name" : "加世田高校"
+         "senior_high_school_code" : "46116E",
+         "short_name" : "加世田高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kaseda/"
       },
       "鹿児島県立加治木工業高等学校" : {
+         "location" : "鹿児島県姶良市加治木町新富町131",
+         "location_zipcode" : "899-5211",
          "owner_type" : "県立",
-         "short_name" : "加治木工業高校"
+         "senior_high_school_code" : "46144A",
+         "short_name" : "加治木工業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kajiki-T/top.htm"
       },
       "鹿児島県立加治木高等学校" : {
+         "location" : "鹿児島県姶良市加治木町仮屋町211",
+         "location_zipcode" : "899-5214",
          "owner_type" : "県立",
          "school_area" : "伊佐・姶良学区",
-         "short_name" : "加治木高校"
+         "senior_high_school_code" : "46143B",
+         "short_name" : "加治木高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kajiki/"
       },
       "鹿児島県立南大隅高等学校" : {
+         "location" : "鹿児島県肝属郡南大隅町川北413",
+         "location_zipcode" : "893-2501",
          "owner_type" : "県立",
          "school_area" : "肝属学区",
-         "short_name" : "南大隅高校"
+         "senior_high_school_code" : "46159J",
+         "short_name" : "南大隅高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Minamiosumi/top.html"
       },
       "鹿児島県立古仁屋高等学校" : {
          "owner_type" : "県立",
@@ -159,82 +289,148 @@
          "short_name" : "古仁屋高校"
       },
       "鹿児島県立吹上高等学校" : {
+         "location" : "鹿児島県日置市吹上町今田1300",
+         "location_wikipedia_latlon" : "|31|30|45.8|N|130|20|13.2|E|",
+         "location_zipcode" : "899-3305",
          "owner_type" : "県立",
-         "short_name" : "吹上高校"
+         "short_name" : "吹上高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Fukiage/top.html"
       },
       "鹿児島県立喜界高等学校" : {
+         "location" : "鹿児島県大島郡喜界町赤連2536",
+         "location_zipcode" : "891-6201",
          "owner_type" : "県立",
          "school_area" : "大島学区",
-         "short_name" : "喜界高校"
+         "senior_high_school_code" : "46170K",
+         "short_name" : "喜界高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kikai/"
       },
       "鹿児島県立国分高等学校" : {
+         "location" : "鹿児島県霧島市国分中央2-8-1",
+         "location_zipcode" : "899-4332",
          "owner_type" : "県立",
          "school_area" : "姶良東学区",
-         "short_name" : "国分高校"
+         "senior_high_school_code" : "46146G",
+         "short_name" : "国分高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kokubu/TOP1.HTM"
       },
       "鹿児島県立垂水高等学校" : {
+         "location" : "鹿児島県垂水市中央町14番地",
+         "location_zipcode" : "891-2106",
          "owner_type" : "県立",
          "school_area" : "肝属学区",
-         "short_name" : "垂水高校"
+         "senior_high_school_code" : "46158A",
+         "short_name" : "垂水高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Tarumizu/top.html"
       },
       "鹿児島県立大口高等学校" : {
+         "location" : "鹿児島県伊佐市大口里2670番地",
+         "location_zipcode" : "895-2511",
          "owner_type" : "県立",
          "school_area" : "伊佐・姶良学区",
-         "short_name" : "大口高校"
+         "senior_high_school_code" : "46138F",
+         "short_name" : "大口高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Okuchi/"
       },
       "鹿児島県立大島北高等学校" : {
+         "location" : "鹿児島県奄美市笠利町中金久356",
+         "location_zipcode" : "894-0512",
          "owner_type" : "県立",
          "school_area" : "大島学区",
-         "short_name" : "大島北高校"
+         "senior_high_school_code" : "46167K",
+         "short_name" : "大島北高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Oshimakita/top.html"
       },
       "鹿児島県立大島工業高等学校" : {
+         "location" : "鹿児島県奄美市名瀬浦上1393番地",
+         "location_zipcode" : "897－0302",
          "owner_type" : "県立",
-         "short_name" : "大島工業高校"
+         "short_name" : "大島工業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Oshima-T/top.html"
       },
       "鹿児島県立大島高等学校" : {
+         "location" : "鹿児島県奄美市名瀬安勝町7-1",
+         "location_zipcode" : "894-8588",
          "owner_type" : "県立",
          "school_area" : "大島学区",
-         "short_name" : "大島高校"
+         "senior_high_school_code" : "13125D",
+         "short_name" : "大島高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Oshima/"
       },
       "鹿児島県立奄美高等学校" : {
+         "location" : "鹿児島県奄美市名瀬古田町1-1",
+         "location_zipcode" : "894-8567",
          "owner_type" : "県立",
-         "short_name" : "奄美高校"
+         "senior_high_school_code" : "46166A",
+         "short_name" : "奄美高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Amami/top.htm"
       },
       "鹿児島県立屋久島高等学校" : {
+         "location" : "鹿児島県熊毛郡屋久島町宮之浦2479-1",
+         "location_zipcode" : "891-4205",
          "owner_type" : "県立",
          "school_area" : "熊毛学区",
-         "short_name" : "屋久島高校"
+         "senior_high_school_code" : "46164E",
+         "short_name" : "屋久島高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Yakushima/top.htm"
       },
       "鹿児島県立山川高等学校" : {
          "owner_type" : "県立",
          "short_name" : "山川高校"
       },
       "鹿児島県立岩川高等学校" : {
+         "location" : "鹿児島県曽於市大隅町岩川5069番地",
+         "location_wikipedia_latlon" : "|31|35|52.7|N|130|59|6.2|E|",
+         "location_zipcode" : "899-8102",
          "owner_type" : "県立",
          "school_area" : "曽於学区",
-         "short_name" : "岩川高校"
+         "senior_high_school_code" : "46150E",
+         "short_name" : "岩川高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Iwagawa/top.html"
       },
       "鹿児島県立川内商工高等学校" : {
+         "location" : "鹿児島県薩摩川内市平佐町1835",
+         "location_zipcode" : "895-0012",
          "owner_type" : "県立",
-         "short_name" : "川内商工高校"
+         "short_name" : "川内商工高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Sendai-C-T/"
       },
       "鹿児島県立川内高等学校" : {
+         "location" : "鹿児島県薩摩川内市御陵下町6-3",
+         "location_zipcode" : "895-0061",
          "owner_type" : "県立",
          "school_area" : "薩摩学区",
-         "short_name" : "川内高校"
+         "senior_high_school_code" : "46125D",
+         "short_name" : "川内高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Sendai/"
       },
       "鹿児島県立川薩清修館高等学校" : {
+         "location" : "鹿児島県薩摩川内市入来町副田5961番地",
+         "location_zipcode" : "895-1401",
          "owner_type" : "県立",
-         "short_name" : "川薩清修館高校"
+         "school_area" : "薩摩学区",
+         "senior_high_school_code" : "46192A",
+         "short_name" : "川薩清修館高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/sensatsu/top.html"
       },
       "鹿児島県立川辺高等学校" : {
+         "location" : "鹿児島県南九州市川辺町田部田4150",
+         "location_wikipedia_latlon" : "|31|23|36.0|N|130|23|17.8|E|",
+         "location_zipcode" : "897-0221",
          "owner_type" : "県立",
          "school_area" : "川辺学区",
-         "short_name" : "川辺高校"
+         "senior_high_school_code" : "46118A",
+         "short_name" : "川辺高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kawanabe/top.html"
       },
       "鹿児島県立市来農芸高等学校" : {
+         "location" : "鹿児島県いちき串木野市湊町160番地",
+         "location_zipcode" : "899-2101",
          "owner_type" : "県立",
-         "short_name" : "市来農芸高校"
+         "school_area" : "全県学区",
+         "senior_high_school_code" : "46123H",
+         "short_name" : "市来農芸高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Ichiki/top.html"
       },
       "鹿児島県立徳之島高等学校" : {
          "owner_type" : "県立",
@@ -242,41 +438,76 @@
          "short_name" : "徳之島高校"
       },
       "鹿児島県立志布志高等学校" : {
+         "location" : "鹿児島県志布志市志布志町安楽178",
+         "location_zipcode" : "899-7104",
          "owner_type" : "県立",
          "school_area" : "曽於学区",
-         "short_name" : "志布志高校"
+         "senior_high_school_code" : "46151C",
+         "short_name" : "志布志高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Shibushi/"
       },
       "鹿児島県立指宿高等学校" : {
+         "location" : "鹿児島県指宿市十町236番地",
+         "location_zipcode" : "891-0402",
          "owner_type" : "県立",
          "school_area" : "揖宿学区",
-         "short_name" : "指宿高校"
+         "senior_high_school_code" : "46110F",
+         "short_name" : "指宿高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Ibusuki/TOP.HTM"
       },
       "鹿児島県立明桜館高等学校" : {
+         "location" : "鹿児島県鹿児島市郡山町100番地",
+         "location_wikipedia_latlon" : "|31|40|42.4|N|130|28|45.2|E|",
+         "location_zipcode" : "891-1105",
          "owner_type" : "県立",
-         "short_name" : "明桜館高校"
+         "short_name" : "明桜館高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Meiokan/index.htm"
       },
       "鹿児島県立有明高等学校" : {
+         "location" : "鹿児島県曽於郡大崎町菱田1441",
+         "location_zipcode" : "899-7301",
          "owner_type" : "県立",
-         "short_name" : "有明高校"
+         "senior_high_school_code" : "46152A",
+         "short_name" : "有明高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Ariake/top.html"
       },
       "鹿児島県立末吉高等学校" : {
+         "location" : "鹿児島県曽於市末吉町二之方6080",
+         "location_wikipedia_latlon" : "|31|38|48|N|131|1|2.4|E|",
+         "location_zipcode" : "899-8605",
          "owner_type" : "県立",
          "school_area" : "曽於学区",
-         "short_name" : "末吉高校"
+         "senior_high_school_code" : "46149A",
+         "short_name" : "末吉高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Sueyoshi/"
       },
       "鹿児島県立松陽高等学校" : {
+         "location" : "鹿児島県鹿児島市福山町573番地",
+         "location_wikipedia_latlon" : "|31|35|57.9|N|130|27|11.9|E|",
+         "location_zipcode" : "899-2702",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "松陽高校"
+         "senior_high_school_code" : "46184K",
+         "short_name" : "松陽高校",
+         "url" : "http://www5.synapse.ne.jp/shoyo/"
       },
       "鹿児島県立枕崎高等学校" : {
+         "location" : "鹿児島県枕崎市岩崎町3番地",
+         "location_zipcode" : "898-0052",
          "owner_type" : "県立",
-         "short_name" : "枕崎高校"
+         "senior_high_school_code" : "46113A",
+         "short_name" : "枕崎高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Makurazaki/"
       },
       "鹿児島県立武岡台高等学校" : {
+         "location" : "鹿児島県鹿児島市小野町3175番地",
+         "location_wikipedia_latlon" : "|31|36|15|N|130|30|32.4|E|",
+         "location_zipcode" : "890-0022",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "武岡台高校"
+         "senior_high_school_code" : "46186F",
+         "short_name" : "武岡台高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Takeokadai/top.html"
       },
       "鹿児島県立沖永良部高等学校" : {
          "owner_type" : "県立",
@@ -284,155 +515,294 @@
          "short_name" : "沖永良部高校"
       },
       "鹿児島県立甲南高等学校" : {
+         "location" : "鹿児島県鹿児島市上之園町23番地1",
+         "location_wikipedia_latlon" : "|31|34|46|N|130|32|46.4|E|",
+         "location_zipcode" : "890-0052",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "甲南高校"
+         "senior_high_school_code" : "46102E",
+         "short_name" : "甲南高校",
+         "url" : "http://www.synapse.ne.jp/kounanhs/"
       },
       "鹿児島県立甲陵高等学校" : {
+         "location" : "鹿児島県鹿児島市郡山町100番地",
+         "location_wikipedia_latlon" : "|31|40|42.4|N|130|28|45.2|E|",
+         "location_zipcode" : "891-1105",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "甲陵高校"
+         "senior_high_school_code" : "46105K",
+         "short_name" : "甲陵高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Koryo/"
       },
       "鹿児島県立福山高等学校" : {
+         "location" : "鹿児島県霧島市福山町福山5399番地",
+         "location_zipcode" : "899-4501",
          "owner_type" : "県立",
          "school_area" : "姶良東学区",
-         "short_name" : "福山高校"
+         "senior_high_school_code" : "46185H",
+         "short_name" : "福山高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Fukuyama/top.html"
       },
       "鹿児島県立種子島中央高等学校" : {
+         "location" : "鹿児島県熊毛郡中種子町野間4258番地1",
+         "location_zipcode" : "891-3604",
          "owner_type" : "県立",
          "school_area" : "熊毛学区",
-         "short_name" : "種子島中央高校"
+         "senior_high_school_code" : "46194G",
+         "short_name" : "種子島中央高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/tanechuo/top.html"
       },
       "鹿児島県立種子島高等学校" : {
+         "location" : "鹿児島県西之表市西之表9607番地1",
+         "location_zipcode" : "891-3196",
          "owner_type" : "県立",
          "school_area" : "熊毛学区",
-         "short_name" : "種子島高校"
+         "senior_high_school_code" : "46191B",
+         "short_name" : "種子島高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Taneko/"
       },
       "鹿児島県立蒲生高等学校" : {
+         "location" : "鹿児島県姶良市蒲生町下久徳848番地2",
+         "location_zipcode" : "899-5304",
          "owner_type" : "県立",
          "school_area" : "伊佐・姶良学区",
-         "short_name" : "蒲生高校"
+         "senior_high_school_code" : "46142D",
+         "short_name" : "蒲生高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kamo/index.html"
       },
       "鹿児島県立薩南工業高等学校" : {
+         "location" : "鹿児島県南九州市知覧町郡5232番地",
+         "location_zipcode" : "897－0302",
          "owner_type" : "県立",
-         "short_name" : "薩南工業高校"
+         "short_name" : "薩南工業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Satsunan/index.htm"
       },
       "鹿児島県立薩摩中央高等学校" : {
+         "location" : "鹿児島県薩摩郡さつま町虎居1900番地",
+         "location_zipcode" : "895-1811",
          "owner_type" : "県立",
          "school_area" : "薩摩学区",
-         "short_name" : "薩摩中央高校"
+         "senior_high_school_code" : "46189A",
+         "short_name" : "薩摩中央高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/sachuo/"
       },
       "鹿児島県立財部高等学校" : {
+         "location" : "鹿児島県曽於市財部町南俣1343番地",
+         "location_wikipedia_latlon" : "|31|43|12.8|N|130|59|40.7|E|",
+         "location_zipcode" : "899-4101",
          "owner_type" : "県立",
          "school_area" : "曽於学区",
-         "short_name" : "財部高校"
+         "senior_high_school_code" : "46148C",
+         "short_name" : "財部高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Takarabe/top.html"
       },
       "鹿児島県立野田女子高等学校" : {
+         "location" : "鹿児島県出水市野田町下名5454番地",
+         "location_zipcode" : "899-0502",
          "owner_type" : "県立",
-         "short_name" : "野田女子高校"
+         "senior_high_school_code" : "46134C",
+         "short_name" : "野田女子高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Noda/top.html"
       },
       "鹿児島県立錦江湾高等学校" : {
+         "location" : "鹿児島県鹿児島市平川町4047",
+         "location_wikipedia_latlon" : "|31|26|45|N|130|30|23.6|E|",
+         "location_zipcode" : "891－0133",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "錦江湾高校"
+         "senior_high_school_code" : "46104A",
+         "short_name" : "錦江湾高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kinkowan/index.htm"
       },
       "鹿児島県立開陽高等学校" : {
+         "location" : "鹿児島県鹿児島市上福元町5296-1",
+         "location_wikipedia_latlon" : "|31|31|29.2|N|130|30|30.7|E|",
+         "location_zipcode" : "891-0198",
          "owner_type" : "県立",
-         "short_name" : "開陽高校"
+         "senior_high_school_code" : "46187D",
+         "short_name" : "開陽高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kaiyo/top.html"
       },
       "鹿児島県立隼人工業高等学校" : {
          "owner_type" : "県立",
          "short_name" : "隼人工業高校"
       },
       "鹿児島県立霧島高等学校" : {
+         "location" : "鹿児島県霧島市牧園町宿窪田330番地5",
+         "location_zipcode" : "899-6507",
          "owner_type" : "県立",
-         "short_name" : "霧島高校"
+         "senior_high_school_code" : "46193J",
+         "short_name" : "霧島高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/kirishima/"
       },
       "鹿児島県立頴娃高等学校" : {
+         "location" : "鹿児島県南九州市頴娃町牧之内2000番地",
+         "location_zipcode" : "891-0702",
          "owner_type" : "県立",
          "school_area" : "揖宿学区",
-         "short_name" : "頴娃高校"
+         "senior_high_school_code" : "46112B",
+         "short_name" : "頴娃高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Ei/"
       },
       "鹿児島県立高山高等学校" : {
+         "location" : "鹿児島県肝属郡肝付町前田5025",
+         "location_zipcode" : "893-1206",
          "owner_type" : "県立",
          "school_area" : "肝属学区",
-         "short_name" : "高山高校"
+         "senior_high_school_code" : "46154H",
+         "short_name" : "高山高校",
+         "url" : "http://sh-koyama.edu.pref.kagoshima.jp/weblog/"
       },
       "鹿児島県立鶴丸高等学校" : {
+         "location" : "鹿児島県鹿児島市薬師2丁目1-1",
+         "location_wikipedia_latlon" : "|31|35|23.8|N|130|32|17.2|E|",
+         "location_zipcode" : "890-8502",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "鶴丸高校"
+         "senior_high_school_code" : "46101G",
+         "short_name" : "鶴丸高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Tsurumaru/top.html"
       },
       "鹿児島県立鶴翔高等学校" : {
+         "location" : "鹿児島県阿久根市赤瀬川1800",
+         "location_zipcode" : "899-1611",
          "owner_type" : "県立",
-         "short_name" : "鶴翔高校"
+         "school_area" : "出水学区",
+         "senior_high_school_code" : "46188B",
+         "short_name" : "鶴翔高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/kakusho/top.html"
       },
       "鹿児島県立鹿児島中央高等学校" : {
+         "location" : "鹿児島県鹿児島市加治屋町10-1",
+         "location_wikipedia_latlon" : "|31|35|11.3|N|130|32|59.3|E|",
+         "location_zipcode" : "892-0846",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "鹿児島中央高校"
+         "senior_high_school_code" : "46103C",
+         "short_name" : "鹿児島中央高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/chuo/"
       },
       "鹿児島県立鹿児島南高等学校" : {
+         "location" : "鹿児島県鹿児島市上福元町5255番地",
+         "location_wikipedia_latlon" : "|31|31|35.7|N|130|30|38.3|E|",
+         "location_zipcode" : "891-0116",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "鹿児島南高校"
+         "senior_high_school_code" : "46108D",
+         "short_name" : "鹿児島南高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Minami/"
       },
       "鹿児島県立鹿児島工業高等学校" : {
+         "location" : "鹿児島県鹿児島市草牟田二丁目57番1号",
+         "location_wikipedia_latlon" : "|31|36|30.5|N|130|32|18.4|E|",
+         "location_zipcode" : "890-0014",
          "owner_type" : "県立",
-         "short_name" : "鹿児島工業高校"
+         "senior_high_school_code" : "46107F",
+         "short_name" : "鹿児島工業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kagoshima-T/"
       },
       "鹿児島県立鹿児島東高等学校" : {
+         "location" : "鹿児島県鹿児島市東坂元3丁目28-1",
+         "location_wikipedia_latlon" : "|31|37|20.1|N|130|33|49.4|E|",
+         "location_zipcode" : "892-0861",
          "owner_type" : "県立",
          "school_area" : "鹿児島学区",
-         "short_name" : "鹿児島東高校"
+         "senior_high_school_code" : "46106H",
+         "short_name" : "鹿児島東高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Higashi/home.html"
       },
       "鹿児島県立鹿児島水産高等学校" : {
+         "location" : "鹿児島県枕崎市板敷南町650番地",
+         "location_zipcode" : "898-0083",
          "owner_type" : "県立",
-         "short_name" : "鹿児島水産高校"
+         "senior_high_school_code" : "46114J",
+         "short_name" : "鹿児島水産高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kagoshima-F/"
       },
       "鹿児島県立鹿児島西高等学校" : {
+         "location" : "鹿児島県鹿児島市下伊敷1-10-3",
+         "location_wikipedia_latlon" : "|31|36|45|N|130|32|9.6|E|",
+         "location_zipcode" : "890-0004",
          "owner_type" : "県立",
-         "short_name" : "鹿児島西高校"
+         "senior_high_school_code" : "46109B",
+         "short_name" : "鹿児島西高校",
+         "url" : "http://www.kanishi-h.ed.jp/"
       },
       "鹿児島県立鹿屋工業高等学校" : {
+         "location" : "鹿児島県鹿屋市川西町4490番地",
+         "location_zipcode" : "893-0032",
          "owner_type" : "県立",
-         "short_name" : "鹿屋工業高校"
+         "senior_high_school_code" : "46157B",
+         "short_name" : "鹿屋工業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kanoya-TH/"
       },
       "鹿児島県立鹿屋農業高等学校" : {
+         "location" : "鹿児島県鹿屋市寿2-17-5",
+         "location_zipcode" : "893-0014",
          "owner_type" : "県立",
-         "short_name" : "鹿屋農業高校"
+         "senior_high_school_code" : "46156D",
+         "short_name" : "鹿屋農業高校",
+         "url" : "http://www.edu.pref.kagoshima.jp/sh/Kanoya-A/"
       },
       "鹿児島県立鹿屋高等学校" : {
+         "location" : "鹿児島県鹿屋市白崎町13-1",
+         "location_zipcode" : "893-0016",
          "owner_type" : "県立",
          "school_area" : "肝属学区",
-         "short_name" : "鹿屋高校"
+         "senior_high_school_code" : "46155F",
+         "short_name" : "鹿屋高校",
+         "url" : "http://www12.synapse.ne.jp/kanoyakoukou/"
       },
       "鹿児島第一高等学校" : {
+         "location" : "鹿児島県霧島市国分府中214",
+         "location_zipcode" : "899-4345",
          "owner_type" : "私立",
          "short_name" : "鹿児島第一高校",
+         "url" : "http://k-daiichi.jp/",
          "wikipedia_name" : "鹿児島第一中学校・高等学校"
       },
       "鹿児島純心女子高等学校" : {
+         "location" : "鹿児島県鹿児島市唐湊4丁目22番2",
+         "location_wikipedia_latlon" : "|31|33|53.8|N|130|32|15.8|E|",
+         "location_zipcode" : "890-0081",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46506C",
          "short_name" : "鹿児島純心女子高校",
+         "url" : "http://www.k-junshin.ed.jp/",
          "wikipedia_name" : "鹿児島純心女子中学校・高等学校"
       },
       "鹿児島育英館高等学校" : {
+         "location" : "鹿児島県日置市伊集院町猪鹿倉550",
+         "location_zipcode" : "899-2505",
          "owner_type" : "私立",
+         "senior_high_school_code" : "46523C",
          "short_name" : "鹿児島育英館高校",
+         "url" : "http://www.nissho.ac.jp/kih/",
          "wikipedia_name" : "鹿児島育英館中学校・高等学校"
       },
       "鹿児島高等学校" : {
+         "location" : "鹿児島県鹿児島市薬師1-21-9",
+         "location_zipcode" : "890-0042",
          "owner_type" : "私立",
-         "short_name" : "鹿児島高校"
+         "senior_high_school_code" : "46505E",
+         "short_name" : "鹿児島高校",
+         "url" : "http://www.kagoshima-h.ed.jp/index.html"
       },
       "鹿屋中央高等学校" : {
+         "location" : "鹿児島県鹿屋市寿八丁目12番26号",
+         "location_zipcode" : "893-0014",
          "owner_type" : "私立",
-         "short_name" : "鹿屋中央高校"
+         "senior_high_school_code" : "46519E",
+         "short_name" : "鹿屋中央高校",
+         "url" : "http://www5.synapse.ne.jp/shigaku/kanoya.htm"
       },
       "鹿屋市立鹿屋女子高等学校" : {
+         "location" : "鹿児島県鹿屋市西原一丁目24番35号",
+         "location_zipcode" : "893-0064",
          "owner_type" : "市立",
-         "short_name" : "鹿屋女子高校"
+         "senior_high_school_code" : "46181E",
+         "short_name" : "鹿屋女子高校",
+         "url" : "http://www.satsuma.ne.jp/kanoyajyoshi/"
       }
    }
 }

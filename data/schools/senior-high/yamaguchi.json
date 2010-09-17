@@ -1,73 +1,127 @@
 {
    "high_schools" : {
       "山口県立下関中等教育学校" : {
-         "short_name" : "下関中等教育学校"
+         "location" : "山口県下関市彦島老町二丁目21番1号",
+         "location_zipcode" : "750-0072",
+         "senior_high_school_code" : "35168H",
+         "short_name" : "下関中等教育学校",
+         "url" : "http://www.s-chuto.ysn21.jp/"
       }
    },
    "senior_high_schools" : {
       "サビエル高等学校" : {
+         "location" : "山口県山陽小野田市くし山3丁目5-1",
+         "location_zipcode" : "756-0080",
          "owner_type" : "私立",
-         "short_name" : "サビエル高校"
+         "short_name" : "サビエル高校",
+         "url" : "http://www.ymg.urban.ne.jp/home/xavierhs/index.html"
       },
       "下関国際高等学校" : {
          "owner_type" : "私立",
          "short_name" : "下関国際高校"
       },
       "下関市立下関商業高等学校" : {
+         "location" : "山口県下関市後田町4-11-1",
+         "location_wikipedia_latlon" : "|33|58|25|N|130|55|40.9|E|",
+         "location_zipcode" : "751-0826",
          "owner_type" : "市立",
-         "short_name" : "下関商業高校"
+         "senior_high_school_code" : "35160B",
+         "short_name" : "下関商業高校",
+         "url" : "http://www.shimosho.ed.jp/"
       },
       "下関短期大学付属高等学校" : {
+         "location" : "山口県下関市桜山町1-1",
+         "location_wikipedia_latlon" : "|33|57|45.9|N|130|55|21.2|E|",
+         "location_zipcode" : "750-0035",
          "owner_type" : "私立",
-         "short_name" : "下関短大付属高校"
+         "short_name" : "下関短大付属高校",
+         "url" : "http://www.shimonoseki-jc.ac.jp/high/"
       },
       "中村女子高等学校" : {
+         "location" : "山口県山口市駅通り一丁目1番1号",
+         "location_wikipedia_latlon" : "|34|10|23.6|N|131|28|38.9|E|",
+         "location_zipcode" : "753-8530",
          "owner_type" : "私立",
-         "short_name" : "中村女子高校"
+         "short_name" : "中村女子高校",
+         "url" : "http://www.y-nakamura.ed.jp/"
       },
       "宇部フロンティア大学付属香川高等学校" : {
+         "location" : "山口県宇部市文京町1-25",
+         "location_zipcode" : "755-0035",
          "owner_type" : "私立",
          "short_name" : "宇部フロンティア大学付属香川高校",
+         "url" : "http://kagawa-h.ed.jp/index.html",
          "wikipedia_name" : "宇部フロンティア大学付属中学校・香川高等学校"
       },
       "宇部鴻城高等学校" : {
+         "location" : "山口県宇部市大字際波字的場370",
+         "location_zipcode" : "759-0207",
          "owner_type" : "私立",
-         "short_name" : "宇部鴻城高校"
+         "senior_high_school_code" : "35510A",
+         "short_name" : "宇部鴻城高校",
+         "url" : "http://www.ubekojo-h.ed.jp/"
       },
       "山口県桜ケ丘高等学校" : {
+         "location" : "山口県周南市公園区5626-1",
+         "location_wikipedia_latlon" : "|34|3|41.4|N|131|49|3.9|E|",
+         "location_zipcode" : "745-0874",
          "owner_type" : "私立",
          "short_name" : "山口県桜ケ丘高校",
+         "url" : "http://www.y-sakuragaoka.ed.jp/",
          "wikipedia_name" : "山口県桜ケ丘高等学校・晃英館中学校"
       },
       "山口県立下松工業高等学校" : {
+         "location" : "山口県下松市美里町4丁目13-1",
+         "location_zipcode" : "744-0073",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "下松工業高校"
+         "senior_high_school_code" : "35118A",
+         "short_name" : "下松工業高校",
+         "url" : "http://www.kudamatsu-t.ysn21.jp/"
       },
       "山口県立下松高等学校" : {
+         "location" : "山口県下松市若宮町12番1号",
+         "location_zipcode" : "744-0063",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "下松高校"
+         "senior_high_school_code" : "35117C",
+         "short_name" : "下松高校",
+         "url" : "http://www.kudamatsu-h.ysn21.jp/"
       },
       "山口県立下関中央工業高等学校" : {
+         "location" : "山口県下関市後田町4丁目25番1号",
+         "location_zipcode" : "751-0826",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "下関中央工業高校"
+         "short_name" : "下関中央工業高校",
+         "url" : "http://www.chuo-t.ysn21.jp/chuo/index.html"
       },
       "山口県立下関南高等学校" : {
+         "location" : "山口県下関市後田町1-8-1",
+         "location_wikipedia_latlon" : "|33|58|9.4|N|130|55|54.1|E|",
+         "location_zipcode" : "751-0826",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "下関南高校"
+         "short_name" : "下関南高校",
+         "url" : "http://www.minami-h.ysn21.jp/"
       },
       "山口県立下関工業高等学校" : {
+         "location" : "山口県下関市富任町4丁目1番1号",
+         "location_zipcode" : "759-6613",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "下関工業高校"
+         "senior_high_school_code" : "35150E",
+         "short_name" : "下関工業高校",
+         "url" : "http://www.sekko-t.ysn21.jp/"
       },
       "山口県立下関西高等学校" : {
+         "location" : "山口県下関市後田町4-10-1",
+         "location_zipcode" : "751-0826",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "下関西高校"
+         "senior_high_school_code" : "35146G",
+         "short_name" : "下関西高校",
+         "url" : "http://www.shimonishi-h.ysn21.jp/kyouiku/"
       },
       "山口県立佐波高等学校" : {
          "owner_type" : "県立",
@@ -75,9 +129,13 @@
          "short_name" : "佐波高校"
       },
       "山口県立光丘高等学校" : {
+         "location" : "山口県光市浅江光丘1660",
+         "location_zipcode" : "〒743-0021",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "光丘高校"
+         "senior_high_school_code" : "35164E",
+         "short_name" : "光丘高校",
+         "url" : "http://www.hikarigaoka-h.ysn21.jp/"
       },
       "山口県立光高等学校" : {
          "owner_type" : "県立",
@@ -85,24 +143,39 @@
          "short_name" : "光高校"
       },
       "山口県立南陽工業高等学校" : {
+         "location" : "山口県周南市温田1丁目1番1号",
+         "location_zipcode" : "746-0036",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "南陽工業高校"
+         "senior_high_school_code" : "35124F",
+         "short_name" : "南陽工業高校",
+         "url" : "http://www.nanyo-t.ysn21.jp/"
       },
       "山口県立厚狭高等学校" : {
+         "location" : "（北）山陽小野田市大字厚狭束の原1660",
+         "location_zipcode" : "757-0001<small>（北校舎）</small>",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "厚狭高校"
+         "short_name" : "厚狭高校",
+         "url" : "http://www.asa-nh.ysn21.jp/kyouiku/"
       },
       "山口県立周防大島高等学校" : {
+         "location" : "山口県大島郡周防大島町西安下庄489",
+         "location_zipcode" : "742-2806",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "周防大島高校"
+         "senior_high_school_code" : "35172F",
+         "short_name" : "周防大島高校",
+         "url" : "http://www.suo-oshima-h.ysn21.jp/"
       },
       "山口県立大津高等学校" : {
+         "location" : "山口県長門市東深川427-2",
+         "location_zipcode" : "759-4101",
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "大津高校"
+         "senior_high_school_code" : "35153K",
+         "short_name" : "大津高校",
+         "url" : "http://www.ohtsu-h.ysn21.jp/"
       },
       "山口県立奈古高等学校" : {
          "owner_type" : "県立",
@@ -115,14 +188,22 @@
          "short_name" : "宇部中央高校"
       },
       "山口県立宇部商業高等学校" : {
+         "location" : "宇部市大字際波字岡の原220番地",
+         "location_zipcode" : "759-0207",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "宇部商業高校"
+         "senior_high_school_code" : "35134C",
+         "short_name" : "宇部商業高校",
+         "url" : "http://www.ube-c.ysn21.jp/"
       },
       "山口県立宇部工業高等学校" : {
+         "location" : "山口県宇部市北琴芝1-1-1",
+         "location_zipcode" : "755-0036",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "宇部工業高校"
+         "senior_high_school_code" : "35135A",
+         "short_name" : "宇部工業高校",
+         "url" : "http://www.ube-th.ed.jp/html/07-kokoro/"
       },
       "山口県立宇部西高等学校" : {
          "owner_type" : "県立",
@@ -130,44 +211,73 @@
          "short_name" : "宇部西高校"
       },
       "山口県立宇部高等学校" : {
+         "location" : "山口県宇部市寺の前町3番1号",
+         "location_zipcode" : "755-0078",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "宇部高校"
+         "short_name" : "宇部高校",
+         "url" : "http://www.ube-h.ed.jp/"
       },
       "山口県立小野田工業高等学校" : {
+         "location" : "山口県山陽小野田市中央2丁目6番1号",
+         "location_zipcode" : "756-0824",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "小野田工業高校"
+         "senior_high_school_code" : "35137H",
+         "short_name" : "小野田工業高校",
+         "url" : "http://www.onoda-th.ed.jp/"
       },
       "山口県立小野田高等学校" : {
+         "location" : "山口県山陽小野田市くし山1丁目26-1",
+         "location_zipcode" : "756-0080",
          "owner_type" : "県立",
          "school_area" : "厚狭学区",
-         "short_name" : "小野田高校"
+         "short_name" : "小野田高校",
+         "url" : "http://www.onoda-h.ysn21.jp/kyouiku/"
       },
       "山口県立山口中央高等学校" : {
+         "location" : "山口県山口市宮島町6-1",
+         "location_zipcode" : "753-0043",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "山口中央高校"
+         "short_name" : "山口中央高校",
+         "url" : "http://www.yamaguchichuo-h.ysn21.jp/kyouiku/"
       },
       "山口県立山口農業高等学校" : {
+         "location" : "山口県山口市小郡上郷980-1",
+         "location_wikipedia_latlon" : "|34|7|54.5|N|131|24|30.6|E|",
+         "location_zipcode" : "754-0001",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "山口農業高校"
+         "short_name" : "山口農業高校",
+         "url" : "http://www.yamaguchi-a.ysn21.jp/kyouiku/"
       },
       "山口県立山口高等学校" : {
+         "location" : "山口県山口市糸米1-9-1",
+         "location_zipcode" : "753-8508",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "山口高校"
+         "senior_high_school_code" : "35128J",
+         "short_name" : "山口高校",
+         "url" : "http://www.yamaguchi-h.ysn21.jp/"
       },
       "山口県立山口高等学校徳佐分校" : {
+         "location" : "山口県山口市阿東徳佐中1033番地1",
+         "location_zipcode" : "759-1512",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "山口高校徳佐分校"
+         "senior_high_school_code" : "35158A",
+         "short_name" : "山口高校徳佐分校",
+         "url" : "http://www.yamaguchi-th.ysn21.jp/"
       },
       "山口県立岩国商業高等学校" : {
+         "location" : "山口県岩国市平田5丁目52-10",
+         "location_zipcode" : "741-0072",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国商業高校"
+         "senior_high_school_code" : "35105K",
+         "short_name" : "岩国商業高校",
+         "url" : "http://www.iwakuni-c.ysn21.jp/"
       },
       "山口県立岩国商業高等学校東分校" : {
          "owner_type" : "県立",
@@ -175,89 +285,155 @@
          "short_name" : "岩国商業高校東分校"
       },
       "山口県立岩国工業高等学校" : {
+         "location" : "山口県岩国市錦見2丁目4-85",
+         "location_zipcode" : "741-0061",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国工業高校"
+         "senior_high_school_code" : "35106H",
+         "short_name" : "岩国工業高校",
+         "url" : "http://www.iwakuni-t.ysn21.jp/"
       },
       "山口県立岩国総合高等学校" : {
+         "location" : "山口県岩国市藤生町四丁目41-1",
+         "location_zipcode" : "740-0036",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国総合高校"
+         "senior_high_school_code" : "35104A",
+         "short_name" : "岩国総合高校",
+         "url" : "http://www.iwakunisogo-h.ysn21.jp//"
       },
       "山口県立岩国高等学校" : {
+         "location" : "山口県岩国市川西4-6-1",
+         "location_zipcode" : "741-0082",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国高校"
+         "senior_high_school_code" : "35103C",
+         "short_name" : "岩国高校",
+         "url" : "http://www.iwakuni-h.ysn21.jp/"
       },
       "山口県立岩国高等学校坂上分校" : {
+         "location" : "山口県岩国市美和町渋前1275",
+         "location_zipcode" : "740-1225",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国高校坂上分校"
+         "senior_high_school_code" : "35107F",
+         "short_name" : "岩国高校坂上分校",
+         "url" : "http://www.iwakuni-sh.ysn21.jp/"
       },
       "山口県立岩国高等学校広瀬分校" : {
+         "location" : "山口県岩国市錦町広瀬87",
+         "location_zipcode" : "740-0724",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
-         "short_name" : "岩国高校広瀬分校"
+         "senior_high_school_code" : "35108D",
+         "short_name" : "岩国高校広瀬分校",
+         "url" : "http://www.iwakuni-hh.ysn21.jp/"
       },
       "山口県立徳山北高等学校" : {
+         "location" : "山口県周南市大字須々万奥439",
+         "location_zipcode" : "745-0122",
          "owner_type" : "県立",
          "school_area" : "周南学区",
          "short_name" : "徳山北高校"
       },
       "山口県立徳山商工高等学校" : {
+         "location" : "山口県周南市周陽3丁目1番1号",
+         "location_zipcode" : "745-0823",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "徳山商工高校"
+         "senior_high_school_code" : "35170K",
+         "short_name" : "徳山商工高校",
+         "url" : "http://www.tokuyama-ct.ysn21.jp/"
       },
       "山口県立徳山高等学校" : {
+         "location" : "山口県周南市鐘楼町2-50",
+         "location_zipcode" : "745-0061",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "徳山高校"
+         "senior_high_school_code" : "35119K",
+         "short_name" : "徳山高校",
+         "url" : "http://www.tokuyama-h.ysn21.jp/kyouiku/"
       },
       "山口県立徳山高等学校鹿野分校" : {
+         "location" : "山口県周南市鹿野下木引原1228",
+         "location_zipcode" : "745-0304",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "徳山高校鹿野分校"
+         "senior_high_school_code" : "35123H",
+         "short_name" : "徳山高校鹿野分校",
+         "url" : "http://www.tokuyama-kh.ysn21.jp/"
       },
       "山口県立新南陽高等学校" : {
+         "location" : "山口県周南市土井1-8-1",
+         "location_zipcode" : "746-0011",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "新南陽高校"
+         "senior_high_school_code" : "35162J",
+         "short_name" : "新南陽高校",
+         "url" : "http://www.sinnanyo-h.ysn21.jp/"
       },
       "山口県立日置農業高等学校" : {
+         "location" : "山口県長門市日置上401-2",
+         "location_zipcode" : "759-4401",
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "日置農業高校"
+         "senior_high_school_code" : "35152A",
+         "short_name" : "日置農業高校",
+         "url" : "http://www.heki-a.ysn21.jp/"
       },
       "山口県立柳井商工高等学校" : {
+         "location" : "山口県柳井市伊保庄田布路木2658",
+         "location_zipcode" : "742-1352",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "柳井商工高校"
+         "senior_high_school_code" : "35169F",
+         "short_name" : "柳井商工高校",
+         "url" : "http://www.yanai-ct.ysn21.jp/"
       },
       "山口県立柳井高等学校" : {
+         "location" : "山口県柳井市古開作611-1",
+         "location_zipcode" : "742-0032",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "柳井高校"
+         "senior_high_school_code" : "35110F",
+         "short_name" : "柳井高校",
+         "url" : "http://www.yanai-h.ysn21.jp/"
       },
       "山口県立水産高等学校" : {
+         "location" : "山口県長門市仙崎1002",
+         "location_zipcode" : "759-4106",
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "水産高校"
+         "senior_high_school_code" : "35154H",
+         "short_name" : "水産高校",
+         "url" : "http://www.suisan-h.ysn21.jp/"
       },
       "山口県立熊毛北高等学校" : {
+         "location" : "山口県周南市大字安田字追迫1番地2",
+         "location_zipcode" : "745-0631",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "熊毛北高校"
+         "senior_high_school_code" : "35116E",
+         "short_name" : "熊毛北高校",
+         "url" : "http://www.kumagekita-h.ysn21.jp/"
       },
       "山口県立熊毛南高等学校" : {
+         "location" : "山口県熊毛郡平生町竪ヶ浜666",
+         "location_zipcode" : "742-1103",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "熊毛南高校"
+         "senior_high_school_code" : "35113A",
+         "short_name" : "熊毛南高校",
+         "url" : "http://www.yunan-h.ysn21.jp/"
       },
       "山口県立田布施工業高等学校" : {
+         "location" : "山口県熊毛郡田布施町大字麻郷奥127番地",
+         "location_zipcode" : "742-1512",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "田布施工業高校"
+         "senior_high_school_code" : "35165C",
+         "short_name" : "田布施工業高校",
+         "url" : "http://www.tabuse-t.ysn21.jp/"
       },
       "山口県立田布施農工高等学校" : {
          "owner_type" : "県立",
@@ -265,14 +441,23 @@
          "short_name" : "田布施農工高校"
       },
       "山口県立田布施農業高等学校" : {
+         "location" : "熊毛郡田布施町大字波野195番地",
+         "location_zipcode" : "742-1502",
          "owner_type" : "県立",
          "school_area" : "柳井学区",
-         "short_name" : "田布施農業高校"
+         "senior_high_school_code" : "35114J",
+         "short_name" : "田布施農業高校",
+         "url" : "http://www.tabuse-a.ysn21.jp/"
       },
       "山口県立田部高等学校" : {
+         "location" : "山口県下関市菊川町田部1074",
+         "location_wikipedia_latlon" : "|34|7|5.3|N|131|1|49.3|E|",
+         "location_zipcode" : "750-0313",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "田部高校"
+         "senior_high_school_code" : "35142D",
+         "short_name" : "田部高校",
+         "url" : "http://www.tabe-h.ysn21.jp/kyouiku/homepage/top-page.htm"
       },
       "山口県立美祢高等学校" : {
          "owner_type" : "県立",
@@ -280,59 +465,102 @@
          "short_name" : "美祢高校"
       },
       "山口県立華陵高等学校" : {
+         "location" : "山口県下松市大字末武上217番地の2",
+         "location_zipcode" : "744-0024",
          "owner_type" : "県立",
          "school_area" : "周南学区",
-         "short_name" : "華陵高校"
+         "senior_high_school_code" : "35167K",
+         "short_name" : "華陵高校",
+         "url" : "http://www.karyo-h.ysn21.jp/"
       },
       "山口県立萩商工高等学校" : {
+         "location" : "山口県萩市平安古544",
+         "location_zipcode" : "758-0074",
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "萩商工高校"
+         "senior_high_school_code" : "35171H",
+         "short_name" : "萩商工高校",
+         "url" : "http://www.hagi-ct.ysn21.jp/"
       },
       "山口県立萩高等学校" : {
+         "location" : "山口県萩市堀内132",
+         "location_zipcode" : "758-0057",
          "owner_type" : "県立",
          "school_area" : "萩学区",
-         "short_name" : "萩高校"
+         "senior_high_school_code" : "35155F",
+         "short_name" : "萩高校",
+         "url" : "http://www.hagi-h.ysn21.jp/"
       },
       "山口県立西京高等学校" : {
+         "location" : "山口県山口市黒川2580番地1",
+         "location_zipcode" : "753-0851",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "西京高校"
+         "senior_high_school_code" : "35166A",
+         "short_name" : "西京高校",
+         "url" : "http://www.saikyo-h.ysn21.jp/"
       },
       "山口県立西市高等学校" : {
+         "location" : "山口県下関市豊田町大字殿敷834-5",
+         "location_wikipedia_latlon" : "|34|11|53.3|N|131|4|59.8|E|",
+         "location_zipcode" : "750-0421",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "西市高校"
+         "short_name" : "西市高校",
+         "url" : "http://www.nishiichi-h.ysn21.jp/"
       },
       "山口県立豊北高等学校" : {
+         "location" : "山口県下関市豊北町大字滝部1003",
+         "location_wikipedia_latlon" : "|34|17|33.6|N|130|57|25.8|E|",
+         "location_zipcode" : "759-5511",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "豊北高校"
+         "short_name" : "豊北高校",
+         "url" : "http://www.houhoku-h.ysn21.jp/"
       },
       "山口県立豊浦高等学校" : {
+         "location" : "山口県下関市長府宮崎町1-1",
+         "location_zipcode" : "752-0984",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "豊浦高校"
+         "senior_high_school_code" : "35144A",
+         "short_name" : "豊浦高校",
+         "url" : "http://www.toyora-h.ysn21.jp/kyouiku/"
       },
       "山口県立長府高等学校" : {
+         "location" : "山口県下関市長府亀の甲2丁目3-1",
+         "location_wikipedia_latlon" : "|34|0|10.7|N|130|59|14|E|",
+         "location_zipcode" : "752-0966",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "長府高校"
+         "short_name" : "長府高校",
+         "url" : "http://www.chofu-h.ysn21.jp/"
       },
       "山口県立防府商業高等学校" : {
+         "location" : "山口県防府市中央町3-1",
+         "location_wikipedia_latlon" : "|34|3|4.8|N|131|34|14.1|E|",
+         "location_zipcode" : "747-0802",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "防府商業高校"
+         "short_name" : "防府商業高校",
+         "url" : "http://www.hsk.jp/index.html"
       },
       "山口県立防府西高等学校" : {
+         "location" : "山口県防府市台道36-1",
+         "location_wikipedia_latlon" : "|34|3|18.5|N|131|30|2.3|E|",
+         "location_zipcode" : "747-1232",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "防府西高校"
+         "short_name" : "防府西高校",
+         "url" : "http://www.hofunishi-h.ysn21.jp/"
       },
       "山口県立防府高等学校" : {
+         "location" : "山口県防府市岡村町2-1",
+         "location_zipcode" : "747-0803",
          "owner_type" : "県立",
          "school_area" : "防府学区",
-         "short_name" : "防府高校"
+         "short_name" : "防府高校",
+         "url" : "http://www.hofu-h.ysn21.jp/"
       },
       "山口県立青嶺高等学校" : {
          "owner_type" : "県立",
@@ -340,40 +568,73 @@
          "short_name" : "青嶺高校"
       },
       "山口県立響高等学校" : {
+         "location" : "山口県下関市豊浦町小串新宮15",
+         "location_wikipedia_latlon" : "|34|10|10.9|N|130|55|53|E|",
+         "location_zipcode" : "759-6302",
          "owner_type" : "県立",
          "school_area" : "下関学区",
-         "short_name" : "響高校"
+         "short_name" : "響高校",
+         "url" : "http://www.hibiki-h.ysn21.jp/kyouiku/"
       },
       "山口県立高森高等学校" : {
+         "location" : "山口県岩国市玖珂町千束1253番地",
+         "location_zipcode" : "742-0333",
          "owner_type" : "県立",
          "school_area" : "岩国学区",
+         "senior_high_school_code" : "35109B",
          "short_name" : "高森高校",
+         "url" : "http://www.takamori-h.ysn21.jp/",
          "wikipedia_name" : "山口県立高森みどり中学校・高森高等学校"
       },
       "山口県鴻城高等学校" : {
+         "location" : "山口県山口市小郡下郷258-2",
+         "location_wikipedia_latlon" : "|34|6|30.7|N|131|24|2.6|E|",
+         "location_zipcode" : "754-0002",
          "owner_type" : "私立",
-         "short_name" : "山口県鴻城高校"
+         "senior_high_school_code" : "35509H",
+         "short_name" : "山口県鴻城高校",
+         "url" : "http://www.y-kojohs.jp/"
       },
       "慶進高等学校" : {
+         "location" : "山口県宇部市西琴芝2丁目12番18号",
+         "location_zipcode" : "755-0035",
          "owner_type" : "私立",
          "short_name" : "慶進高校",
+         "url" : "http://www.keishin-ug.com/",
          "wikipedia_name" : "慶進中学校・高等学校"
       },
       "成進高等学校" : {
+         "location" : "山口県美祢市大嶺町中村",
+         "location_zipcode" : "759-2212",
          "owner_type" : "私立",
-         "short_name" : "成進高校"
+         "senior_high_school_code" : "35512H",
+         "short_name" : "成進高校",
+         "url" : "http://www.mine-c.ed.jp/"
       },
       "早鞆高等学校" : {
+         "location" : "山口県下関市上田中町8-3-1",
+         "location_zipcode" : "750-8524",
          "owner_type" : "私立",
-         "short_name" : "早鞆高校"
+         "senior_high_school_code" : "35517J",
+         "short_name" : "早鞆高校",
+         "url" : "http://www.hayatomo.ac.jp/"
       },
       "柳井学園高等学校" : {
+         "location" : "山口県柳井市古開作410",
+         "location_zipcode" : "742-0032",
          "owner_type" : "私立",
-         "short_name" : "柳井学園高校"
+         "senior_high_school_code" : "35502A",
+         "short_name" : "柳井学園高校",
+         "url" : "http://www.yanai-g.ed.jp/"
       },
       "梅光女学院高等学校" : {
+         "location" : "山口県下関市丸山町2-9-1",
+         "location_wikipedia_latlon" : "|33|57|27.9|N|130|56|2.5|E|",
+         "location_zipcode" : "750-0019",
          "owner_type" : "私立",
+         "senior_high_school_code" : "35516A",
          "short_name" : "梅光女学院高校",
+         "url" : "http://www.baiko.ac.jp/highschool/index.htm",
          "wikipedia_name" : "梅光女学院中学校・高等学校"
       },
       "精華学園高等学校" : {
@@ -381,35 +642,65 @@
          "short_name" : "精華学園高校"
       },
       "聖光高等学校" : {
+         "location" : "山口県光市光井9丁目22-1",
+         "location_zipcode" : "743-0011",
          "owner_type" : "私立",
-         "short_name" : "聖光高校"
+         "senior_high_school_code" : "35503J",
+         "short_name" : "聖光高校",
+         "url" : "http://www.seiko-h.ed.jp/"
       },
       "萩光塩学院高等学校" : {
+         "location" : "山口県萩市東田町15",
+         "location_zipcode" : "758-0047",
          "owner_type" : "私立",
+         "senior_high_school_code" : "35520J",
          "short_name" : "萩光塩学院高校",
+         "url" : "http://www.hagikoen.jp/002/",
          "wikipedia_name" : "萩光塩学院中学校・高等学校"
       },
       "誠英高等学校" : {
+         "location" : "山口県防府市東三田尻1丁目2番14号",
+         "location_wikipedia_latlon" : "|34|2|56.4|N|131|34|32.6|E|",
+         "location_zipcode" : "747-0813",
          "owner_type" : "私立",
-         "short_name" : "誠英高校"
+         "senior_high_school_code" : "35505E",
+         "short_name" : "誠英高校",
+         "url" : "http://www.seiei.ac.jp/"
       },
       "野田学園高等学校" : {
+         "location" : "山口県山口市野田56",
+         "location_wikipedia_latlon" : "|34|11|12.3|N|131|28|46.1|E|",
+         "location_zipcode" : "753-0094",
          "owner_type" : "私立",
          "short_name" : "野田学園高校",
+         "url" : "http://www.nodagakuen.ed.jp/s/",
          "wikipedia_name" : "野田学園中学校・高等学校"
       },
       "長門高等学校" : {
+         "location" : "山口県長門市東深川1621",
+         "location_zipcode" : "759-4101",
          "owner_type" : "私立",
-         "short_name" : "長門高校"
+         "senior_high_school_code" : "35519E",
+         "short_name" : "長門高校",
+         "url" : "http://member.hot-cha.tv/~htb20402/nagato/"
       },
       "高川学園高等学校" : {
+         "location" : "山口県防府市大字台道3635",
+         "location_wikipedia_latlon" : "|34|3|7.2|N|131|29|13.7|E|",
+         "location_zipcode" : "747-1292",
          "owner_type" : "私立",
+         "senior_high_school_code" : "35506C",
          "short_name" : "高川学園高校",
+         "url" : "http://www.takagawagakuen.com/",
          "wikipedia_name" : "高川学園高等学校・中学校"
       },
       "高水高等学校" : {
+         "location" : "山口県岩国市尾津町二丁目24番18号",
+         "location_zipcode" : "740-0032",
          "owner_type" : "私立",
+         "senior_high_school_code" : "35501B",
          "short_name" : "高水高校",
+         "url" : "http://www.takamizu-h.ed.jp/senior/",
          "wikipedia_name" : "高水高等学校・付属中学校"
       }
    }

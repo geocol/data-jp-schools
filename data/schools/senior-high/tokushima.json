@@ -1,214 +1,385 @@
 {
    "senior_high_schools" : {
       "徳島市立高等学校" : {
+         "location" : "徳島県徳島市北沖洲1丁目15-60",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0872",
          "owner_type" : "市立",
-         "short_name" : "高校"
+         "senior_high_school_code" : "36136E",
+         "short_name" : "高校",
+         "url" : "http://www.tokushima-m-hs.ed.jp/"
       },
       "徳島文理高等学校" : {
+         "location" : "徳島県徳島市山城西4丁目20",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8054",
          "owner_type" : "私立",
+         "senior_high_school_code" : "36502F",
          "short_name" : "徳島文理高校",
+         "url" : "http://bunri.ed.jp/",
          "wikipedia_name" : "徳島文理中学校・高等学校"
       },
       "徳島県立三好高等学校" : {
+         "location" : "徳島県三好市池田町州津大深田720番地",
          "location_area" : "三好市",
+         "location_wikipedia_latlon" : "|34|2|17|N|133|50|54.5|E|",
+         "location_zipcode" : "778-0020",
          "owner_type" : "県立",
-         "short_name" : "三好高校"
+         "senior_high_school_code" : "36133A",
+         "short_name" : "三好高校",
+         "url" : "http://www.miyoshi-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立勝浦高等学校" : {
+         "location" : "徳島県勝浦郡勝浦町大字久国字屋原1番地",
          "location_area" : "勝浦郡勝浦町",
+         "location_zipcode" : "771-4305",
          "owner_type" : "県立",
-         "short_name" : "勝浦高校"
+         "senior_high_school_code" : "36135G",
+         "short_name" : "勝浦高校",
+         "url" : "http://www.katsuura-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立名西高等学校" : {
+         "location" : "徳島県名西郡石井町石井字石井21-11",
          "location_area" : "名西郡石井町",
+         "location_zipcode" : "779-3233",
          "owner_type" : "県立",
-         "short_name" : "名西高校"
+         "senior_high_school_code" : "36122E",
+         "short_name" : "名西高校",
+         "url" : "http://www.myozai-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立城ノ内高等学校" : {
+         "location" : "徳島県徳島市北田宮1丁目9番30号",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|5|29.5|N|134|32|44.1|E|",
+         "location_zipcode" : "770-0003",
          "owner_type" : "県立",
+         "senior_high_school_code" : "36139K",
          "short_name" : "城ノ内高校",
+         "url" : "http://www.johnouchi-hs.tokushima-ec.ed.jp/",
          "wikipedia_name" : "徳島県立城ノ内中学校・高等学校"
       },
       "徳島県立城北高等学校" : {
+         "location" : "徳島県徳島市北田宮4-13-6",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|5|21.7|N|134|31|50.9|E|",
+         "location_zipcode" : "770-0003",
          "owner_type" : "県立",
-         "short_name" : "城北高校"
+         "senior_high_school_code" : "36103J",
+         "short_name" : "城北高校",
+         "url" : "http://www.johoku-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立城南高等学校" : {
+         "location" : "徳島県徳島市城南町2-2-88",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8064",
          "owner_type" : "県立",
-         "short_name" : "城南高校"
+         "senior_high_school_code" : "36102A",
+         "short_name" : "城南高校",
+         "url" : "http://jonan-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立城東高等学校" : {
+         "location" : "徳島県徳島市中徳島町一丁目5番地",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0853",
          "owner_type" : "県立",
-         "short_name" : "城東高校"
+         "senior_high_school_code" : "36101B",
+         "short_name" : "城東高校",
+         "url" : "http://www.joto-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立城西高等学校" : {
+         "location" : "徳島市鮎喰町2丁目1番地",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|4|11.9|N|134|30|5.7|E|",
+         "location_zipcode" : "770-0046",
          "owner_type" : "県立",
-         "short_name" : "城西高校"
+         "senior_high_school_code" : "36104G",
+         "short_name" : "城西高校",
+         "url" : "http://www.josei-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立城西高等学校神山分校" : {
+         "location" : "徳島県名西郡神山町神領字北399番地",
          "location_area" : "名西郡神山町",
+         "location_zipcode" : "771-3311",
          "owner_type" : "県立",
-         "short_name" : "城西高校神山分校"
+         "short_name" : "城西高校神山分校",
+         "url" : "http://www.joseikamiyama-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立富岡東高等学校" : {
+         "location" : "徳島県阿南市領家町走寄102-2",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0011",
          "owner_type" : "県立",
+         "senior_high_school_code" : "36110A",
          "short_name" : "富岡東高校",
+         "url" : "http://www.tomiokahigashi-hs.tokushima-ec.ed.jp/",
          "wikipedia_name" : "徳島県立富岡東中学校・高等学校"
       },
       "徳島県立富岡東高等学校羽ノ浦校" : {
+         "location" : "徳島県阿南市羽ノ浦町中庄市50番地1",
          "location_area" : "阿南市",
+         "location_wikipedia_latlon" : "|33|57|34|N|134|37|40|E|",
+         "location_zipcode" : "779-1101",
          "owner_type" : "県立",
-         "short_name" : "富岡東高校羽ノ浦校"
+         "senior_high_school_code" : "36110A",
+         "short_name" : "富岡東高校羽ノ浦校",
+         "url" : "http://www.tomihigashihanoura-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立富岡西高等学校" : {
+         "location" : "徳島県阿南市富岡町小山18-3",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0030",
          "owner_type" : "県立",
-         "short_name" : "富岡西高校"
+         "senior_high_school_code" : "36111K",
+         "short_name" : "富岡西高校",
+         "url" : "http://www.tomiokanishi-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立小松島西高等学校" : {
+         "location" : "徳島県小松島市中田町字原ノ下28番地1",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0015",
          "owner_type" : "県立",
-         "short_name" : "小松島西高校"
+         "short_name" : "小松島西高校",
+         "url" : "http://www.komatsushimanishi-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立小松島高等学校" : {
+         "location" : "徳島県小松島市日開野町字高須47-1",
          "location_area" : "小松島市",
+         "location_zipcode" : "773-0010",
          "owner_type" : "県立",
-         "short_name" : "小松島高校"
+         "senior_high_school_code" : "36108K",
+         "short_name" : "小松島高校",
+         "url" : "http://www.komatsushima-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立川島高等学校" : {
+         "location" : "徳島県吉野川市川島町桑村字岡山367-3",
          "location_area" : "吉野川市",
+         "location_zipcode" : "779-3303",
          "owner_type" : "県立",
+         "senior_high_school_code" : "36123C",
          "short_name" : "川島高校",
+         "url" : "http://www.kawashima-hs.tokushima-ec.ed.jp/",
          "wikipedia_name" : "徳島県立川島中学校・高等学校"
       },
       "徳島県立徳島中央高等学校" : {
+         "location" : "徳島県徳島市北矢三町1丁目3番8号",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|5|16.9|N|134|31|36.1|E|",
+         "location_zipcode" : "770-0006",
          "owner_type" : "県立",
-         "short_name" : "徳島中央高校"
+         "senior_high_school_code" : "36138A",
+         "short_name" : "徳島中央高校",
+         "url" : "http://www.tokushimachuo.tokushima-ec.ed.jp/"
       },
       "徳島県立徳島北高等学校" : {
+         "location" : "徳島県徳島市応神町吉成字中ノ瀬40-6",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|7|35.5|N|134|31|45.8|E|",
+         "location_zipcode" : "771-1153",
          "owner_type" : "県立",
-         "short_name" : "徳島北高校"
+         "senior_high_school_code" : "36140C",
+         "short_name" : "徳島北高校",
+         "url" : "http://www.tokushimakita-hs.tokushima-ec.ed.jp/index.htm"
       },
       "徳島県立徳島商業高等学校" : {
+         "location" : "徳島県徳島市城東町1丁目4番1号",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0862",
          "owner_type" : "県立",
-         "short_name" : "徳島商業高校"
+         "senior_high_school_code" : "36105E",
+         "short_name" : "徳島商業高校",
+         "url" : "http://www.tokusho.tokushima-ec.ed.jp/"
       },
       "徳島県立徳島科学技術高等学校" : {
+         "location" : "徳島県徳島市北矢三町2丁目1-1",
          "location_area" : "徳島市",
+         "location_wikipedia_latlon" : "|34|5|11.5|N|134|31|30.2|E|",
+         "location_zipcode" : "770-0006",
          "owner_type" : "県立",
-         "short_name" : "徳島科学技術高校"
+         "senior_high_school_code" : "36142K",
+         "short_name" : "徳島科学技術高校",
+         "url" : "http://www.tokushima-hst.tokushima-ec.ed.jp/"
       },
       "徳島県立新野高等学校" : {
+         "location" : "徳島県阿南市新野町室の久保12番地",
          "location_area" : "阿南市",
+         "location_zipcode" : "779-1510",
          "owner_type" : "県立",
-         "short_name" : "新野高校"
+         "senior_high_school_code" : "36113F",
+         "short_name" : "新野高校",
+         "url" : "http://www.aratano-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立板野高等学校" : {
+         "location" : "徳島県板野郡板野町川端字関ノ本47",
          "location_area" : "板野郡板野町",
+         "location_zipcode" : "779-0102",
          "owner_type" : "県立",
-         "short_name" : "板野高校"
+         "senior_high_school_code" : "36121G",
+         "short_name" : "板野高校",
+         "url" : "http://www.itano-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立池田高等学校" : {
+         "location" : "徳島県三好市池田町ウエノ2834",
          "location_area" : "三好市",
+         "location_zipcode" : "778-8506",
          "owner_type" : "県立",
-         "short_name" : "池田高校"
+         "senior_high_school_code" : "36132B",
+         "short_name" : "池田高校",
+         "url" : "http://www.ikeda-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立海部高等学校" : {
+         "location" : "徳島県海部郡海陽町大里字古畑58-2",
          "location_area" : "海部郡海陽町",
+         "location_zipcode" : "779-4802",
          "owner_type" : "県立",
-         "short_name" : "海部高校"
+         "senior_high_school_code" : "36141A",
+         "short_name" : "海部高校",
+         "url" : "http://www.kaifu-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立穴吹高等学校" : {
+         "location" : "徳島県美馬市穴吹町穴吹字岡33番地",
          "location_area" : "美馬市",
+         "location_zipcode" : "777-0005",
          "owner_type" : "県立",
-         "short_name" : "穴吹高校"
+         "senior_high_school_code" : "36127F",
+         "short_name" : "穴吹高校",
+         "url" : "http://www.anabuki-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立美馬商業高等学校" : {
+         "location" : "徳島県美馬市美馬町字大宮西100-4",
          "location_area" : "美馬市",
+         "location_zipcode" : "771-2106",
          "owner_type" : "県立",
-         "short_name" : "美馬商業高校"
+         "senior_high_school_code" : "36129B",
+         "short_name" : "美馬商業高校",
+         "url" : "http://www.mima-ch.tokushima-ec.ed.jp/"
       },
       "徳島県立脇町高等学校" : {
+         "location" : "徳島県美馬市脇町大字脇町1270-2",
          "location_area" : "美馬市",
+         "location_wikipedia_latlon" : "|34|4|15.8|N|134|8|54.5|E|",
+         "location_zipcode" : "779-3610",
          "owner_type" : "県立",
-         "short_name" : "脇町高校"
+         "senior_high_school_code" : "36128D",
+         "short_name" : "脇町高校",
+         "url" : "http://www.wakimachi-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立貞光工業高等学校" : {
+         "location" : "徳島県美馬郡つるぎ町貞光字馬出63-2",
          "location_area" : "美馬郡つるぎ町",
+         "location_zipcode" : "779-4101",
          "owner_type" : "県立",
-         "short_name" : "貞光工業高校"
+         "senior_high_school_code" : "36130F",
+         "short_name" : "貞光工業高校",
+         "url" : "http://www.sadamitsu-th.tokushima-ec.ed.jp/"
       },
       "徳島県立辻高等学校" : {
+         "location" : "徳島県三好市井川町御領田61番地1",
          "location_area" : "三好市",
+         "location_zipcode" : "779-4802",
          "owner_type" : "県立",
-         "short_name" : "辻高校"
+         "senior_high_school_code" : "36131D",
+         "short_name" : "辻高校",
+         "url" : "http://www.tsuji-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立那賀高等学校" : {
+         "location" : "徳島県那賀郡那賀町小仁宇大坪179-1",
          "location_area" : "那賀郡那賀町",
+         "location_wikipedia_latlon" : "|33|51|27.6|N|134|28|54.3|E|",
+         "location_zipcode" : "771-5209",
          "owner_type" : "県立",
-         "short_name" : "那賀高校"
+         "senior_high_school_code" : "36114D",
+         "short_name" : "那賀高校",
+         "url" : "http://www.naka-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立阿南工業高等学校" : {
+         "location" : "徳島県阿南市宝田町今市中新開10の6",
          "location_area" : "阿南市",
+         "location_zipcode" : "774-0045",
          "owner_type" : "県立",
-         "short_name" : "阿南工業高校"
+         "senior_high_school_code" : "36112H",
+         "short_name" : "阿南工業高校",
+         "url" : "http://www.anan-th.tokushima-ec.ed.jp/"
       },
       "徳島県立阿波西高等学校" : {
+         "location" : "徳島県阿波市阿波町下喜来228-1",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1701",
          "owner_type" : "県立",
-         "short_name" : "阿波西高校"
+         "senior_high_school_code" : "36124A",
+         "short_name" : "阿波西高校",
+         "url" : "http://www.awanishi-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立阿波農業高等学校" : {
+         "location" : "徳島県阿波市土成町成当515番地1",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1504",
          "owner_type" : "県立",
-         "short_name" : "阿波農業高校"
+         "senior_high_school_code" : "36126H",
+         "short_name" : "阿波農業高校",
+         "url" : "http://www.awanou-ah.tokushima-ec.ed.jp/"
       },
       "徳島県立阿波高等学校" : {
+         "location" : "徳島県阿波市吉野町柿原字ヒロナカ180番地",
          "location_area" : "阿波市",
+         "location_zipcode" : "771-1493",
          "owner_type" : "県立",
-         "short_name" : "阿波高校"
+         "senior_high_school_code" : "36125K",
+         "short_name" : "阿波高校",
+         "url" : "http://www.awa-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立鳴門第一高等学校" : {
+         "location" : "徳島県鳴門市撫養町南浜字馬目木58",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0003",
          "owner_type" : "県立",
-         "short_name" : "鳴門第一高校"
+         "senior_high_school_code" : "36120J",
+         "short_name" : "鳴門第一高校",
+         "url" : "http://www.nfh-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立鳴門高等学校" : {
+         "location" : "徳島県鳴門市撫養町斎田字岩崎135-1",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0003",
          "owner_type" : "県立",
-         "short_name" : "鳴門高校"
+         "senior_high_school_code" : "36119E",
+         "short_name" : "鳴門高校",
+         "url" : "http://www.naruto-hs.tokushima-ec.ed.jp/"
       },
       "徳島県立鴨島商業高等学校" : {
+         "location" : "徳島県吉野川市鴨島町喜来681-9",
          "location_area" : "吉野川市",
+         "location_zipcode" : "776-0005",
          "owner_type" : "県立",
-         "short_name" : "鴨島商業高校"
+         "senior_high_school_code" : "36134J",
+         "short_name" : "鴨島商業高校",
+         "url" : "http://www.kamojima-ch.tokushima-ec.ed.jp/"
       },
       "生光学園高等学校" : {
+         "location" : "徳島県徳島市応神町中原38",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-1152",
          "owner_type" : "私立",
+         "senior_high_school_code" : "36503D",
          "short_name" : "生光学園高校",
+         "url" : "http://www.seikogakuen.ac.jp/",
          "wikipedia_name" : "生光学園中学校・高等学校"
       },
       "香蘭高等学校" : {
+         "location" : "徳島県徳島市北前川町2丁目8",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0806",
          "owner_type" : "私立",
-         "short_name" : "香蘭高校"
+         "senior_high_school_code" : "36501H",
+         "short_name" : "香蘭高校",
+         "url" : "http://www12.ocn.ne.jp/~kouran-h/"
       },
       "鳴門市立鳴門工業高等学校" : {
+         "location" : "徳島県鳴門市大津町吉永595",
          "location_area" : "鳴門市",
+         "location_zipcode" : "772-0032",
          "owner_type" : "市立",
-         "short_name" : "鳴門工業高校"
+         "short_name" : "鳴門工業高校",
+         "url" : "http://www.naruto-th.ed.jp/"
       }
    }
 }

@@ -1,159 +1,309 @@
 {
    "senior_high_schools" : {
       "クラーク記念国際高等学校鳥取キャンパス" : {
+         "location" : "北海道深川市納内町3丁目2-40",
+         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
+         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "01556D",
          "short_name" : "クラーク記念国際高校鳥取キャンパス",
+         "url" : "http://www.clark.ed.jp/",
          "wikipedia_name" : "クラーク記念国際高等学校"
       },
       "倉吉北高等学校" : {
+         "location" : "鳥取県倉吉市福庭町1丁目180番地",
+         "location_zipcode" : "682-0018",
          "owner_type" : "私立",
-         "short_name" : "倉吉北高校"
+         "senior_high_school_code" : "31503G",
+         "short_name" : "倉吉北高校",
+         "url" : "http://www.kurayoshikita-h.ed.jp/"
       },
       "湯梨浜高等学校" : {
+         "location" : "鳥取県東伯郡湯梨浜町田畑32-1",
+         "location_wikipedia_latlon" : "|35|27|36.8|N|133|54|28.1|E|",
+         "location_zipcode" : "689-0727",
          "owner_type" : "私立",
+         "senior_high_school_code" : "31507K",
          "short_name" : "湯梨浜高校",
+         "url" : "http://yurihamagakuen.ac.jp/",
          "wikipedia_name" : "湯梨浜中学校・高等学校"
       },
       "米子北斗高等学校" : {
+         "location" : "鳥取県米子市夜見町50",
+         "location_wikipedia_latlon" : "|35|27|13.9|N|133|17|43.7|E|",
+         "location_zipcode" : "683-0851",
          "owner_type" : "私立",
          "short_name" : "米子北斗高校",
+         "url" : "http://www.yonagohokuto.ed.jp/",
          "wikipedia_name" : "米子北斗中学校・高等学校"
       },
       "米子北高等学校" : {
+         "location" : "鳥取県米子市米原六丁目14番1号",
+         "location_wikipedia_latlon" : "|35|26|45.2|N|133|20|11.2|E|",
+         "location_zipcode" : "683-0804",
          "owner_type" : "私立",
-         "short_name" : "米子北高校"
+         "senior_high_school_code" : "31504E",
+         "short_name" : "米子北高校",
+         "url" : "http://www.yonagokita.ed.jp/"
       },
       "米子松蔭高等学校" : {
+         "location" : "鳥取県米子市二本木316番地1",
+         "location_wikipedia_latlon" : "|35|25|43.9|N|133|23|20.9|E|",
+         "location_zipcode" : "689-3541",
          "owner_type" : "私立",
-         "short_name" : "米子松蔭高校"
+         "senior_high_school_code" : "31505C",
+         "short_name" : "米子松蔭高校",
+         "url" : "http://www.yonagoshoin.ed.jp/"
       },
       "鳥取城北高等学校" : {
+         "location" : "鳥取県鳥取市西品治848番地",
+         "location_zipcode" : "680-0811",
          "owner_type" : "私立",
-         "short_name" : "鳥取城北高校"
+         "senior_high_school_code" : "31502J",
+         "short_name" : "鳥取城北高校",
+         "url" : "http://www.yatani-gakuen.ac.jp/jyohoku/"
       },
       "鳥取敬愛高等学校" : {
+         "location" : "鳥取県鳥取市西町一丁目111番地",
+         "location_zipcode" : "680-0022",
          "owner_type" : "私立",
-         "short_name" : "鳥取敬愛高校"
+         "senior_high_school_code" : "31501A",
+         "short_name" : "鳥取敬愛高校",
+         "url" : "http://www.hal.ne.jp/keiai/"
       },
       "鳥取県立倉吉東高等学校" : {
+         "location" : "鳥取県倉吉市下田中町801番地",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0812",
          "owner_type" : "県立",
-         "short_name" : "倉吉東高校"
+         "senior_high_school_code" : "31111B",
+         "short_name" : "倉吉東高校",
+         "url" : "http://www.torikyo.ed.jp/kurae-h/"
       },
       "鳥取県立倉吉総合産業高等学校" : {
+         "location" : "鳥取県倉吉市小田204番地",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0844",
          "owner_type" : "県立",
-         "short_name" : "倉吉総合産業高校"
+         "senior_high_school_code" : "31131G",
+         "short_name" : "倉吉総合産業高校",
+         "url" : "http://kss.kssh.ed.jp/"
       },
       "鳥取県立倉吉西高等学校" : {
+         "location" : "鳥取県倉吉市秋喜20番地",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0925",
          "owner_type" : "県立",
-         "short_name" : "倉吉西高校"
+         "senior_high_school_code" : "31112A",
+         "short_name" : "倉吉西高校",
+         "url" : "http://cmsweb1.torikyo.ed.jp/kuraw-h/"
       },
       "鳥取県立倉吉農業高等学校" : {
+         "location" : "鳥取県倉吉市大谷166番地",
          "location_area" : "倉吉市",
+         "location_zipcode" : "682-0941",
          "owner_type" : "県立",
-         "short_name" : "倉吉農業高校"
+         "senior_high_school_code" : "31113J",
+         "short_name" : "倉吉農業高校",
+         "url" : "http://www.torikyo.ed.jp/kurano-h/"
       },
       "鳥取県立八頭高等学校" : {
+         "location" : "鳥取県八頭郡八頭町久能寺725番地",
          "location_area" : "八頭郡",
+         "location_wikipedia_latlon" : "|35|24|17.2|N|134|14|41.5|E|",
+         "location_zipcode" : "680-0492",
          "owner_type" : "県立",
-         "short_name" : "八頭高校"
+         "senior_high_school_code" : "31108B",
+         "short_name" : "八頭高校",
+         "url" : "http://www.torikyo.ed.jp/yazu-h/"
       },
       "鳥取県立境港総合技術高等学校" : {
+         "location" : "鳥取県境港市竹内町925番地",
          "location_area" : "境港市",
+         "location_wikipedia_latlon" : "|35|31|33.9|N|133|14|14.6|E|",
+         "location_zipcode" : "684-0043",
          "owner_type" : "県立",
-         "short_name" : "境港総合技術高校"
+         "short_name" : "境港総合技術高校",
+         "url" : "http://www.torikyo.ed.jp/sakaisogo-h/"
       },
       "鳥取県立境高等学校" : {
+         "location" : "鳥取県境港市上道町3030番地",
          "location_area" : "境港市",
+         "location_wikipedia_latlon" : "|35|32|11.3|N|133|14|3.2|E|",
+         "location_zipcode" : "684-8601",
          "owner_type" : "県立",
-         "short_name" : "境高校"
+         "senior_high_school_code" : "31124D",
+         "short_name" : "境高校",
+         "url" : "http://www.torikyo.ed.jp/sakai-h/"
       },
       "鳥取県立岩美高等学校" : {
+         "location" : "鳥取県岩美郡岩美町浦富708番地2",
          "location_area" : "岩美郡",
+         "location_wikipedia_latlon" : "|35|34|23.2|N|134|19|52.1|E|",
+         "location_zipcode" : "681-0003",
          "owner_type" : "県立",
-         "short_name" : "岩美高校"
+         "senior_high_school_code" : "31107D",
+         "short_name" : "岩美高校",
+         "url" : "http://www.torikyo.ed.jp/iwami-h/"
       },
       "鳥取県立日野高等学校" : {
+         "location" : "鳥取県日野郡日野町根雨310番地",
          "location_area" : "日野郡",
+         "location_wikipedia_latlon" : "|35|14|31.0|N|133|26|22.4|E|",
+         "location_zipcode" : "689-4503",
          "owner_type" : "県立",
-         "short_name" : "日野高校"
+         "senior_high_school_code" : "31129E",
+         "short_name" : "日野高校",
+         "url" : "http://www.torikyo.ed.jp/hino-h/"
       },
       "鳥取県立智頭農林高等学校" : {
+         "location" : "鳥取県八頭郡智頭町智頭711番地1",
          "location_area" : "八頭郡",
+         "location_wikipedia_latlon" : "|35|16|0.4|N|134|14|1.5|E|",
+         "location_zipcode" : "689-1402",
          "owner_type" : "県立",
-         "short_name" : "智頭農林高校"
+         "senior_high_school_code" : "31109A",
+         "short_name" : "智頭農林高校",
+         "url" : "http://www.torikyo.ed.jp/tizuno-h/"
       },
       "鳥取県立米子南高等学校" : {
+         "location" : "鳥取県米子市長砂町216番地",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|25|23.4|N|133|21|1|E|",
+         "location_zipcode" : "683-0033",
          "owner_type" : "県立",
-         "short_name" : "米子南高校"
+         "short_name" : "米子南高校",
+         "url" : "http://www.torikyo.ed.jp/yonagom-h/"
       },
       "鳥取県立米子工業高等学校" : {
+         "location" : "鳥取県米子市博労町四丁目220番地",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|26|3.3|N|133|20|25.2|E|",
+         "location_zipcode" : "683-0052",
          "owner_type" : "県立",
-         "short_name" : "米子工業高校"
+         "senior_high_school_code" : "31122H",
+         "short_name" : "米子工業高校",
+         "url" : "http://www.torikyo.ed.jp/yonagoko-h/"
       },
       "鳥取県立米子東高等学校" : {
+         "location" : "鳥取県米子市勝田町1番地",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|25|58.7|N|133|20|37.4|E|",
+         "location_zipcode" : "683-0051",
          "owner_type" : "県立",
-         "short_name" : "米子東高校"
+         "school_area" : "鳥取県",
+         "senior_high_school_code" : "31118",
+         "short_name" : "米子東高校",
+         "url" : "http://cmsweb1.torikyo.ed.jp/yonagoe-h/"
       },
       "鳥取県立米子白鳳高等学校" : {
+         "location" : "鳥取県米子市淀江町福岡24番地",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|27|34.1|N|133|26|34.6|E|",
+         "location_zipcode" : "689-3411",
          "owner_type" : "県立",
-         "short_name" : "米子白鳳高校"
+         "senior_high_school_code" : "31135K",
+         "short_name" : "米子白鳳高校",
+         "url" : "http://www.torikyo.ed.jp/hakuhou-h/"
       },
       "鳥取県立米子西高等学校" : {
+         "location" : "鳥取県米子市大谷町200番地",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|25|2.5|N|133|19|39.2|E|",
+         "location_zipcode" : "683-8512",
          "owner_type" : "県立",
-         "short_name" : "米子西高校"
+         "senior_high_school_code" : "31119H",
+         "short_name" : "米子西高校",
+         "url" : "http://www.torikyo.ed.jp/yonagow-h/"
       },
       "鳥取県立米子高等学校" : {
+         "location" : "鳥取県米子市橋本30番地1",
          "location_area" : "米子市",
+         "location_wikipedia_latlon" : "|35|23|58.7|N|133|21|13.1|E|",
+         "location_zipcode" : "683-0023",
          "owner_type" : "県立",
-         "short_name" : "米子高校"
+         "school_area" : "鳥取県",
+         "senior_high_school_code" : "31120A",
+         "short_name" : "米子高校",
+         "url" : "http://www.torikyo.ed.jp/yonago-h/"
       },
       "鳥取県立青谷高等学校" : {
+         "location" : "鳥取県鳥取市青谷町青谷2912番地",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|31|19.9|N|134|0|0.6|E|",
+         "location_zipcode" : "689-0595",
          "owner_type" : "県立",
-         "short_name" : "青谷高校"
+         "senior_high_school_code" : "31110D",
+         "short_name" : "青谷高校",
+         "url" : "http://www.torikyo.ed.jp/aoya-h/"
       },
       "鳥取県立鳥取中央育英高等学校" : {
+         "location" : "鳥取県東伯郡北栄町由良宿291番地1",
          "location_area" : "東伯郡",
+         "location_wikipedia_latlon" : "|35|29|15.9|N|133|45|25.8|E|",
+         "location_zipcode" : "689-2295",
          "owner_type" : "県立",
-         "short_name" : "鳥取中央育英高校"
+         "senior_high_school_code" : "31132E",
+         "short_name" : "鳥取中央育英高校",
+         "url" : "http://www.torikyo.ed.jp/ikuei-h/"
       },
       "鳥取県立鳥取商業高等学校" : {
+         "location" : "鳥取県鳥取市湖山町北二丁目401番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0941",
          "owner_type" : "県立",
-         "short_name" : "鳥取商業高校"
+         "senior_high_school_code" : "31103A",
+         "short_name" : "鳥取商業高校",
+         "url" : "http://www.torikyo.ed.jp/torisyo-h/"
       },
       "鳥取県立鳥取工業高等学校" : {
+         "location" : "鳥取県鳥取市生山111番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "689-1103",
          "owner_type" : "県立",
-         "short_name" : "鳥取工業高校"
+         "senior_high_school_code" : "31104K",
+         "short_name" : "鳥取工業高校",
+         "url" : "http://www.torikyo.ed.jp/toriko-h/"
       },
       "鳥取県立鳥取東高等学校" : {
+         "location" : "鳥取県鳥取市立川町五丁目210番地",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|29|22.1|N|134|14|41.2|E|",
+         "location_zipcode" : "680-0061",
          "owner_type" : "県立",
-         "short_name" : "鳥取東高校"
+         "senior_high_school_code" : "31101E",
+         "short_name" : "鳥取東高校",
+         "url" : "http://www.torikyo.ed.jp/torie-h/"
       },
       "鳥取県立鳥取湖陵高等学校" : {
+         "location" : "鳥取県鳥取市湖山町北三丁目250番地",
          "location_area" : "鳥取市",
+         "location_zipcode" : "680-0941",
          "owner_type" : "県立",
-         "short_name" : "鳥取湖陵高校"
+         "senior_high_school_code" : "31130J",
+         "short_name" : "鳥取湖陵高校",
+         "url" : "http://www.tkoryo.ed.jp/"
       },
       "鳥取県立鳥取緑風高等学校" : {
+         "location" : "鳥取県鳥取市湖山町南三丁目848番地",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|30|31.7|N|134|10|38.4|E|",
+         "location_zipcode" : "680-0945",
          "owner_type" : "県立",
-         "short_name" : "鳥取緑風高校"
+         "school_area" : "全県",
+         "senior_high_school_code" : "31134A",
+         "short_name" : "鳥取緑風高校",
+         "url" : "http://www.torikyo.ed.jp/ryokufu-h/"
       },
       "鳥取県立鳥取西高等学校" : {
+         "location" : "鳥取県鳥取市東町二丁目112番地",
          "location_area" : "鳥取市",
+         "location_wikipedia_latlon" : "|35|30|21.5|N|134|14|19.9|E|",
+         "location_zipcode" : "680-0011",
          "owner_type" : "県立",
-         "short_name" : "鳥取西高校"
+         "senior_high_school_code" : "31102C",
+         "short_name" : "鳥取西高校",
+         "url" : "http://www.torikyo.ed.jp/toriw-h/"
       }
    }
 }

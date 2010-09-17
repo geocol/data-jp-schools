@@ -1,9 +1,13 @@
 {
    "senior_high_schools" : {
       "仁愛女子高等学校" : {
+         "location" : "福井県福井市宝永4丁目9-24",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0017",
          "owner_type" : "私立",
-         "short_name" : "仁愛女子高校"
+         "senior_high_school_code" : "18502H",
+         "short_name" : "仁愛女子高校",
+         "url" : "http://www.jin-ai-h.ed.jp/index.html"
       },
       "北陸学園北陸高等学校" : {
          "location_area" : "福井市",
@@ -12,20 +16,35 @@
          "wikipedia_name" : "北陸学園北陸中学校・高等学校"
       },
       "啓新高等学校" : {
+         "location" : "福井県福井市文京4-15-1",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|4|36.4|N|136|12|31.5|E|",
+         "location_zipcode" : "910-0017",
          "owner_type" : "私立",
-         "short_name" : "啓新高校"
+         "senior_high_school_code" : "18504D",
+         "short_name" : "啓新高校",
+         "url" : "http://www.keishin.ed.jp/"
       },
       "敦賀気比高等学校" : {
+         "location" : "福井県敦賀市沓見164-1",
          "location_area" : "敦賀市",
+         "location_wikipedia_latlon" : "|35|38|43.4|N|136|1|50.9|E|",
+         "location_zipcode" : "914-8558",
          "owner_type" : "私立",
+         "senior_high_school_code" : "18506A",
          "short_name" : "敦賀気比高校",
+         "url" : "http://www.tsurugakehi.ed.jp/",
          "wikipedia_name" : "敦賀気比高等学校・付属中学校"
       },
       "昭英高等学校" : {
+         "location" : "福井県敦賀市長谷65-98",
          "location_area" : "敦賀市",
+         "location_wikipedia_latlon" : "|35|36|23.0|N|136|2|45.8|E|",
+         "location_zipcode" : "914-0198",
          "owner_type" : "私立",
-         "short_name" : "昭英高校"
+         "senior_high_school_code" : "18505B",
+         "short_name" : "昭英高校",
+         "url" : "http://www.shoei-hs.ac.jp/index.html"
       },
       "福井南高等学校" : {
          "location_area" : "福井市",
@@ -39,14 +58,24 @@
          "wikipedia_name" : "福井工業大学附属福井中学校・高等学校"
       },
       "福井県立三国高等学校" : {
+         "location" : "福井県坂井市三国町緑ヶ丘2-1-3",
          "location_area" : "坂井市",
+         "location_wikipedia_latlon" : "|36|13|7.2|N|136|9|11.6|E|",
+         "location_zipcode" : "913-8555",
          "owner_type" : "県立",
-         "short_name" : "三国高校"
+         "senior_high_school_code" : "18109K",
+         "short_name" : "三国高校",
+         "url" : "http://www.mikuni-h.ed.jp/"
       },
       "福井県立丸岡高等学校" : {
+         "location" : "福井県坂井市丸岡町篠岡23-11-1",
          "location_area" : "坂井市",
+         "location_wikipedia_latlon" : "|36|8|59.3|N|136|17|2.5|E|",
+         "location_zipcode" : "910-0293",
          "owner_type" : "県立",
-         "short_name" : "丸岡高校"
+         "senior_high_school_code" : "18127H",
+         "short_name" : "丸岡高校",
+         "url" : "http://maruoka-h.sakura.ne.jp/"
       },
       "福井県立丸岡高等学校城東分校" : {
          "location_area" : "坂井市",
@@ -69,44 +98,81 @@
          "short_name" : "勝山南高校"
       },
       "福井県立勝山高等学校" : {
+         "location" : "福井県勝山市昭和町2-3-1",
          "location_area" : "勝山市",
+         "location_wikipedia_latlon" : "|36|3|57.2|N|136|30|27.4|E|",
+         "location_zipcode" : "911-8540",
          "owner_type" : "県立",
-         "short_name" : "勝山高校"
+         "senior_high_school_code" : "18114F",
+         "short_name" : "勝山高校",
+         "url" : "http://www.fki-katsuyama-h.ed.jp/"
       },
       "福井県立坂井農業高等学校" : {
+         "location" : "福井県坂井市坂井町宮領57-5",
          "location_area" : "坂井市",
+         "location_wikipedia_latlon" : "|36|9|45.8|N|136|14|17.2|E|",
+         "location_zipcode" : "919-0512",
          "owner_type" : "県立",
-         "short_name" : "坂井農業高校"
+         "senior_high_school_code" : "18110C",
+         "short_name" : "坂井農業高校",
+         "url" : "http://www.sakai-ah.ed.jp/"
       },
       "福井県立大野東高等学校" : {
+         "location" : "福井県大野市友江9-10",
          "location_area" : "大野市",
+         "location_zipcode" : "912-0016",
          "owner_type" : "県立",
-         "short_name" : "大野東高校"
+         "senior_high_school_code" : "18113H",
+         "short_name" : "大野東高校",
+         "url" : "http://www.oonohigashi-h.ed.jp/"
       },
       "福井県立大野高等学校" : {
+         "location" : "福井県大野市新庄10-28",
          "location_area" : "大野市",
+         "location_zipcode" : "912-0085",
          "owner_type" : "県立",
-         "short_name" : "大野高校"
+         "senior_high_school_code" : "18112K",
+         "short_name" : "大野高校",
+         "url" : "http://www.daiko.ed.jp/"
       },
       "福井県立小浜水産高等学校" : {
+         "location" : "福井県小浜市堀屋敷2号西堀5-2",
          "location_area" : "小浜市",
+         "location_zipcode" : "917-8555",
          "owner_type" : "県立",
-         "short_name" : "小浜水産高校"
+         "senior_high_school_code" : "18125A",
+         "short_name" : "小浜水産高校",
+         "url" : "http://www.obamasuisan-h.ed.jp/"
       },
       "福井県立敦賀工業高等学校" : {
+         "location" : "福井県敦賀市山泉13-1",
          "location_area" : "敦賀市",
+         "location_wikipedia_latlon" : "|35|37|20.1|N|136|4|1.8|E|",
+         "location_zipcode" : "914-0035",
          "owner_type" : "県立",
-         "short_name" : "敦賀工業高校"
+         "senior_high_school_code" : "18122G",
+         "short_name" : "敦賀工業高校",
+         "url" : "http://www.tsuruga-th.ed.jp/"
       },
       "福井県立敦賀高等学校" : {
+         "location" : "福井県敦賀市松葉町2番1号",
          "location_area" : "敦賀市",
+         "location_wikipedia_latlon" : "|35|39|4.0|N|136|2|57.4|E|",
+         "location_zipcode" : "914-0807",
          "owner_type" : "県立",
-         "short_name" : "敦賀高校"
+         "senior_high_school_code" : "18121J",
+         "short_name" : "敦賀高校",
+         "url" : "http://www.tonkou.ed.jp/"
       },
       "福井県立春江工業高等学校" : {
+         "location" : "福井県坂井市春江町江留上緑8-1",
          "location_area" : "坂井市",
+         "location_wikipedia_latlon" : "|36|7|27.7|N|136|13|14.8|E|",
+         "location_zipcode" : "919-0461",
          "owner_type" : "県立",
-         "short_name" : "春江工業高校"
+         "senior_high_school_code" : "18111A",
+         "short_name" : "春江工業高校",
+         "url" : "http://www.harue-th.ed.jp/"
       },
       "福井県立武生商業高等学校" : {
          "location_area" : "越前市",
@@ -124,9 +190,14 @@
          "short_name" : "武生東高校"
       },
       "福井県立武生高等学校" : {
+         "location" : "福井県越前市八幡1丁目25-15",
          "location_area" : "越前市",
+         "location_wikipedia_latlon" : "|35|54|36.3|N|136|10|33.1|E|",
+         "location_zipcode" : "915-8519",
          "owner_type" : "県立",
-         "short_name" : "武生高校"
+         "senior_high_school_code" : "18118J",
+         "short_name" : "武生高校",
+         "url" : "http://www.takefu-h.ed.jp/"
       },
       "福井県立武生高等学校池田分校" : {
          "location_area" : "今立郡池田町",
@@ -134,9 +205,13 @@
          "short_name" : "武生高校池田分校"
       },
       "福井県立福井商業高等学校" : {
+         "location" : "福井県福井市乾徳4-8-19",
          "location_area" : "福井市",
+         "location_zipcode" : "910-0021",
          "owner_type" : "県立",
-         "short_name" : "福井商業高校"
+         "senior_high_school_code" : "18105G",
+         "short_name" : "福井商業高校",
+         "url" : "http://www.fukusho-ch.ed.jp/"
       },
       "福井県立福井農林高等学校" : {
          "location_area" : "福井市",
@@ -149,49 +224,91 @@
          "short_name" : "科学技術高校"
       },
       "福井県立美方高等学校" : {
+         "location" : "福井県三方上中郡若狭町気山114",
          "location_area" : "三方上中郡若狭町",
+         "location_wikipedia_latlon" : "|35|35|12.7|N|135|54|43.1|E|",
+         "location_zipcode" : "919-1395",
          "owner_type" : "県立",
-         "short_name" : "美方高校"
+         "senior_high_school_code" : "18123E",
+         "short_name" : "美方高校",
+         "url" : "http://www.mikata-h.ed.jp/"
       },
       "福井県立羽水高等学校" : {
+         "location" : "福井県福井市羽水1丁目302番地",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|2|31.8|N|136|13|44.2|E|",
+         "location_zipcode" : "918-8114",
          "owner_type" : "県立",
-         "short_name" : "羽水高校"
+         "senior_high_school_code" : "18103A",
+         "short_name" : "羽水高校",
+         "url" : "http://www.usui-h.ed.jp/index.html"
       },
       "福井県立若狭東高等学校" : {
+         "location" : "福井県小浜市金屋48-2",
          "location_area" : "小浜市",
+         "location_zipcode" : "917-0293",
          "owner_type" : "県立",
-         "short_name" : "若狭東高校"
+         "senior_high_school_code" : "18126K",
+         "short_name" : "若狭東高校",
+         "url" : "http://www.wakasahigashi-h.ed.jp/"
       },
       "福井県立若狭高等学校" : {
+         "location" : "福井県小浜市千種1-6-13",
          "location_area" : "小浜市",
+         "location_zipcode" : "917-8507",
          "owner_type" : "県立",
-         "short_name" : "若狭高校"
+         "senior_high_school_code" : "18124C",
+         "short_name" : "若狭高校",
+         "url" : "http://www.wakasa-h.ed.jp/"
       },
       "福井県立藤島高等学校" : {
+         "location" : "福井県福井市文京2丁目8番30号",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|4|47.6|N|136|12|58.4|E|",
+         "location_zipcode" : "910-0017",
          "owner_type" : "県立",
-         "short_name" : "藤島高校"
+         "senior_high_school_code" : "18101D",
+         "short_name" : "藤島高校",
+         "url" : "http://www.fujishima-h.ed.jp/"
       },
       "福井県立足羽高等学校" : {
+         "location" : "福井県福井市杉谷町44",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|0|33.2|N|136|11|47.0|E|",
+         "location_zipcode" : "918-8155",
          "owner_type" : "県立",
-         "short_name" : "足羽高校"
+         "senior_high_school_code" : "18104J",
+         "short_name" : "足羽高校",
+         "url" : "http://www.asuwa-h.ed.jp/"
       },
       "福井県立道守高等学校" : {
+         "location" : "福井県福井市若杉町35-21",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|3|22.8|N|136|10|46.8|E|",
+         "location_zipcode" : "918-8575",
          "owner_type" : "県立",
-         "short_name" : "道守高校"
+         "senior_high_school_code" : "18108A",
+         "short_name" : "道守高校",
+         "url" : "http://www.michimori-h.ed.jp/"
       },
       "福井県立金津高等学校" : {
+         "location" : "福井県あわら市市姫4-5-1",
          "location_area" : "あわら市",
+         "location_zipcode" : "919-0621",
          "owner_type" : "県立",
-         "short_name" : "金津高校"
+         "senior_high_school_code" : "18129D",
+         "short_name" : "金津高校",
+         "url" : "http://www.kanazu-h.ed.jp/"
       },
       "福井県立高志高等学校" : {
+         "location" : "福井県福井市御幸2丁目25番8号",
          "location_area" : "福井市",
+         "location_wikipedia_latlon" : "|36|3|34.3|N|136|13|56.7|E|",
+         "location_zipcode" : "910-0854",
          "owner_type" : "県立",
-         "short_name" : "高志高校"
+         "senior_high_school_code" : "18102B",
+         "short_name" : "高志高校",
+         "url" : "http://www.koshi-h.ed.jp/"
       },
       "福井県立鯖江高等学校" : {
          "location_area" : "鯖江市",

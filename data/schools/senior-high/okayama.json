@@ -8,12 +8,21 @@
    },
    "senior_high_schools" : {
       "おかやま山陽高等学校" : {
+         "location" : "岡山県浅口市鴨方町六条院中2069",
+         "location_zipcode" : "719-0252",
          "owner_type" : "私立",
-         "short_name" : "おかやま山陽高校"
+         "senior_high_school_code" : "33519D",
+         "short_name" : "おかやま山陽高校",
+         "url" : "http://www.okayama-sanyo-hs.ed.jp/"
       },
       "クラーク記念国際高等学校岡山キャンパス" : {
+         "location" : "北海道深川市納内町3丁目2-40",
+         "location_wikipedia_latlon" : "|43|43|49|N|142|7|58.7|E|",
+         "location_zipcode" : "078-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "01556D",
          "short_name" : "クラーク記念国際高校岡山キャンパス",
+         "url" : "http://www.clark.ed.jp/",
          "wikipedia_name" : "クラーク記念国際高等学校"
       },
       "井原市立高等学校" : {
@@ -21,8 +30,14 @@
          "short_name" : "高校"
       },
       "倉敷市立倉敷翔南高等学校" : {
+         "location" : "岡山県倉敷市児島稗田町160番地",
+         "location_wikipedia_latlon" : "|34|29|55.9|N|133|48|32.0|E|",
+         "location_zipcode" : "711-0937",
          "owner_type" : "市立",
-         "short_name" : "倉敷翔南高校"
+         "school_area" : "全県学区",
+         "senior_high_school_code" : "33190C",
+         "short_name" : "倉敷翔南高校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/syounan-h/"
       },
       "倉敷市立工業高等学校" : {
          "owner_type" : "市立",
@@ -33,210 +48,376 @@
          "short_name" : "玉島高校"
       },
       "倉敷市立真備陵南高等学校" : {
+         "location" : "岡山県倉敷市真備町箭田1769-1",
+         "location_wikipedia_latlon" : "|34|37|41.3|N|133|41|20.7|E|",
+         "location_zipcode" : "710-1301",
          "owner_type" : "市立",
-         "short_name" : "真備陵南高校"
+         "senior_high_school_code" : "33180F",
+         "short_name" : "真備陵南高校",
+         "url" : "http://www.kurashiki-oky.ed.jp/school/mabiryounan-h/"
       },
       "倉敷市立精思高等学校" : {
          "owner_type" : "市立",
          "short_name" : "精思高校"
       },
       "倉敷翠松高等学校" : {
+         "location" : "岡山県倉敷市平田155番地",
+         "location_wikipedia_latlon" : "|34|36|38.5|N|133|46|34.8|E|",
+         "location_zipcode" : "710-0003",
          "owner_type" : "私立",
-         "short_name" : "倉敷翠松高校"
+         "senior_high_school_code" : "33509G",
+         "short_name" : "倉敷翠松高校",
+         "url" : "http://www.suisho.ed.jp/"
       },
       "倉敷高等学校" : {
+         "location" : "岡山県倉敷市鳥羽283番地",
+         "location_wikipedia_latlon" : "|34|37|22.9|N|133|48|28.7|E|",
+         "location_zipcode" : "710-0012",
          "owner_type" : "私立",
-         "short_name" : "倉敷高校"
+         "senior_high_school_code" : "33507A",
+         "short_name" : "倉敷高校",
+         "url" : "http://www.kurashiki.ac.jp/"
       },
       "備前市立片上高等学校" : {
          "owner_type" : "市立",
          "short_name" : "片上高校"
       },
       "創志学園高等学校" : {
+         "location" : "岡山県岡山市北区下伊福西町7-38",
+         "location_zipcode" : "700-0054",
          "owner_type" : "私立",
-         "short_name" : "創志学園高校"
+         "short_name" : "創志学園高校",
+         "url" : "http://www.soshigakuen.ed.jp/"
       },
       "吉備高原学園高等学校" : {
+         "location" : "岡山県加賀郡吉備中央町上野2400番地",
+         "location_zipcode" : "709-2393",
          "owner_type" : "私立",
-         "short_name" : "吉備高原学園高校"
+         "short_name" : "吉備高原学園高校",
+         "url" : "http://www.kibikogengakuen.ed.jp/"
       },
       "就実高等学校" : {
+         "location" : "岡山県岡山市北区弓之町14-23",
+         "location_zipcode" : "700-0817",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33502K",
          "short_name" : "就実高校",
+         "url" : "http://www.shujitsu-h.ed.jp/",
          "wikipedia_name" : "就実中学校・高等学校"
       },
       "山陽女子高等学校" : {
+         "location" : "岡山県岡山市中区門田屋敷2-2-16",
+         "location_zipcode" : "703-8275",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33501A",
          "short_name" : "山陽女子高校",
+         "url" : "http://www.sanyojoshi.ed.jp/",
          "wikipedia_name" : "山陽女子中学校・高等学校"
       },
       "岡山商科大学附属高等学校" : {
+         "location" : "岡山県岡山市北区南方5丁目2-45",
+         "location_zipcode" : "700-0807",
          "owner_type" : "私立",
-         "short_name" : "岡山商科大学附属高校"
+         "senior_high_school_code" : "33505D",
+         "short_name" : "岡山商科大学附属高校",
+         "url" : "http://www.osu-h.ed.jp/index.html"
       },
       "岡山学芸館高等学校" : {
+         "location" : "岡山県岡山市東区西大寺上1丁目11-19",
+         "location_zipcode" : "704-8502",
          "owner_type" : "私立",
-         "short_name" : "岡山学芸館高校"
+         "senior_high_school_code" : "33514C",
+         "short_name" : "岡山学芸館高校",
+         "url" : "http://www.gakugeikan.ed.jp/"
       },
       "岡山市立岡山後楽館高等学校" : {
+         "location" : "岡山県岡山市北区天神町9-24",
+         "location_zipcode" : "700-0814",
          "owner_type" : "市立",
          "short_name" : "岡山後楽館高校",
+         "url" : "http://www.city-okayama.ed.jp/~korakukan/index.htm",
          "wikipedia_name" : "岡山市立岡山後楽館中学校・高等学校"
       },
       "岡山理科大学附属高等学校" : {
+         "location" : "岡山県岡山市北区理大町1番1号",
+         "location_wikipedia_latlon" : "|34|41|45.2|N|133|55|40.6|E|",
+         "location_zipcode" : "700-0005",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33508J",
          "short_name" : "岡山理科大学附属高校",
+         "url" : "http://www.kake.ac.jp/~info-j/",
          "wikipedia_name" : "岡山理科大学附属中学校・高等学校"
       },
       "岡山白陵高等学校" : {
+         "location" : "岡山県赤磐市勢力588",
+         "location_zipcode" : "709-0715",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33522D",
          "short_name" : "岡山白陵高校",
+         "url" : "http://www.okahaku.ed.jp/",
          "wikipedia_name" : "岡山白陵中学校・高等学校"
       },
       "岡山県作陽高等学校" : {
+         "location" : "岡山県津山市八出1320",
+         "location_wikipedia_latlon" : "|35|3|24.1|N|134|0|37.8|E|",
+         "location_zipcode" : "708-8518",
          "owner_type" : "私立",
-         "short_name" : "岡山県作陽高校"
+         "senior_high_school_code" : "33511J",
+         "short_name" : "岡山県作陽高校",
+         "url" : "http://www.sakuyo-h.ed.jp/"
       },
       "岡山県共生高等学校" : {
+         "location" : "岡山県新見市新見2032-4",
+         "location_wikipedia_latlon" : "|34|59|14.9|N|133|28|4.1|E|",
+         "location_zipcode" : "718-0011",
          "owner_type" : "私立",
-         "short_name" : "岡山県共生高校"
+         "senior_high_school_code" : "33521F",
+         "short_name" : "岡山県共生高校",
+         "url" : "http://www.kyousei.ed.jp/"
       },
       "岡山県立久世高等学校" : {
+         "location" : "岡山県真庭市中島143",
+         "location_zipcode" : "719-3202",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "久世高校"
+         "senior_high_school_code" : "33156C",
+         "short_name" : "久世高校",
+         "url" : "http://www.kuse.okayama-c.ed.jp/"
       },
       "岡山県立井原高等学校" : {
+         "location" : "岡山県井原市井原町1802番地",
+         "location_zipcode" : "715-0019",
          "owner_type" : "県立",
          "school_area" : "西備学区",
-         "short_name" : "井原高校"
+         "short_name" : "井原高校",
+         "url" : "http://www.ibara.okayama-c.ed.jp/"
       },
       "岡山県立倉敷中央高等学校" : {
+         "location" : "岡山県倉敷市西富井1384",
+         "location_wikipedia_latlon" : "|34|34|20.6|N|133|44|35.1|E|",
+         "location_zipcode" : "710-0845",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "倉敷中央高校"
+         "senior_high_school_code" : "33113K",
+         "short_name" : "倉敷中央高校",
+         "url" : "http://www.kurachuo.okayama-c.ed.jp/index.html"
       },
       "岡山県立倉敷南高等学校" : {
+         "location" : "岡山県倉敷市吉岡330",
+         "location_zipcode" : "710-0842",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
-         "short_name" : "倉敷南高校"
+         "senior_high_school_code" : "33112A",
+         "short_name" : "倉敷南高校",
+         "url" : "http://www.kuramina.okayama-c.ed.jp/"
       },
       "岡山県立倉敷古城池高等学校" : {
+         "location" : "岡山県倉敷市福田町古新田116－1",
+         "location_zipcode" : "712-8046",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
-         "short_name" : "倉敷古城池高校"
+         "senior_high_school_code" : "33183A",
+         "short_name" : "倉敷古城池高校",
+         "url" : "http://www.kojoike.okayama-c.ed.jp/"
       },
       "岡山県立倉敷商業高等学校" : {
+         "location" : "岡山県倉敷市白楽町545番地",
+         "location_wikipedia_latlon" : "|34|35|17.4|N|133|46|11.0|E|",
+         "location_zipcode" : "710-0824",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "倉敷商業高校"
+         "senior_high_school_code" : "33116D",
+         "short_name" : "倉敷商業高校",
+         "url" : "http://www.kurasho.okayama-c.ed.jp/"
       },
       "岡山県立倉敷天城高等学校" : {
+         "location" : "岡山県倉敷市藤戸町天城269",
+         "location_zipcode" : "710-0132",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
+         "senior_high_school_code" : "33111C",
          "short_name" : "倉敷天城高校",
+         "url" : "http://www.amaki-jhs.okayama-c.ed.jp/",
          "wikipedia_name" : "岡山県立倉敷天城中学校・高等学校"
       },
       "岡山県立倉敷工業高等学校" : {
+         "location" : "岡山県倉敷市老松町四丁目9番1号",
+         "location_wikipedia_latlon" : "|34|35|36.5|N|133|45|36.2|E|",
+         "location_zipcode" : "710-0826",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "倉敷工業高校"
+         "senior_high_school_code" : "33114H",
+         "short_name" : "倉敷工業高校",
+         "url" : "http://www.kurako.okayama-c.ed.jp/"
       },
       "岡山県立倉敷青陵高等学校" : {
+         "location" : "岡山県倉敷市羽島1046-2",
+         "location_zipcode" : "710-0043",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
-         "short_name" : "倉敷青陵高校"
+         "senior_high_school_code" : "33110E",
+         "short_name" : "倉敷青陵高校",
+         "url" : "http://www.seiryo.okayama-c.ed.jp/"
       },
       "岡山県立倉敷鷲羽高等学校" : {
+         "location" : "岡山県倉敷市児島味野山田町2301番",
+         "location_wikipedia_latlon" : "|34|28|22.0|N|133|47|36.1|E|",
+         "location_zipcode" : "711-0915",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "倉敷鷲羽高校"
+         "senior_high_school_code" : "33192K",
+         "short_name" : "倉敷鷲羽高校",
+         "url" : "http://www.washu.okayama-c.ed.jp/"
       },
       "岡山県立備前緑陽高等学校" : {
+         "location" : "岡山県備前市西片上91-1",
+         "location_zipcode" : "705-8507",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "備前緑陽高校"
+         "senior_high_school_code" : "33189K",
+         "short_name" : "備前緑陽高校",
+         "url" : "http://www.ryokuyou.okayama-c.ed.jp/"
       },
       "岡山県立勝山高等学校" : {
+         "location" : "岡山県真庭市勝山481",
+         "location_zipcode" : "717-0013",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "勝山高校"
+         "senior_high_school_code" : "33154G",
+         "short_name" : "勝山高校",
+         "url" : "http://www.katuyama.okayama-c.ed.jp/"
       },
       "岡山県立勝間田高等学校" : {
+         "location" : "岡山県勝田郡勝央町勝間田47番地",
+         "location_zipcode" : "709-4316",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "勝間田高校"
+         "senior_high_school_code" : "33158K",
+         "short_name" : "勝間田高校",
+         "url" : "http://www.katumada.okayama-c.ed.jp/katuma.htm"
       },
       "岡山県立吉備北陵高等学校" : {
+         "location" : "岡山県加賀郡吉備中央町湯山1028",
+         "location_zipcode" : "716-1112",
          "owner_type" : "県立",
          "school_area" : "全県学区",
          "short_name" : "吉備北陵高校"
       },
       "岡山県立和気閑谷高等学校" : {
+         "location" : "岡山県和気郡和気町尺所15番地",
+         "location_wikipedia_latlon" : "|34|48|02|N|134|09|17|E|",
+         "location_zipcode" : "709-0422",
          "owner_type" : "県立",
          "school_area" : "東備学区",
-         "short_name" : "和気閑谷高校"
+         "senior_high_school_code" : "33142C",
+         "short_name" : "和気閑谷高校",
+         "url" : "http://www.wakesizu.okayama-c.ed.jp/"
       },
       "岡山県立岡山一宮高等学校" : {
+         "location" : "岡山県岡山市北区楢津221",
+         "location_zipcode" : "701-1202",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "岡山一宮高校"
+         "senior_high_school_code" : "33182B",
+         "short_name" : "岡山一宮高校",
+         "url" : "http://www.itinomiy.okayama-c.ed.jp/itiko.htm"
       },
       "岡山県立岡山南高等学校" : {
+         "location" : "岡山県岡山市北区奥田二丁目4-7",
+         "location_zipcode" : "700-0093",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "岡山南高校"
+         "senior_high_school_code" : "33109A",
+         "short_name" : "岡山南高校",
+         "url" : "http://www.okaminam.okayama-c.ed.jp/welcome.htm"
       },
       "岡山県立岡山城東高等学校" : {
+         "location" : "岡山県岡山市中区下110",
+         "location_zipcode" : "703-8222",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "岡山城東高校"
+         "senior_high_school_code" : "33187C",
+         "short_name" : "岡山城東高校",
+         "url" : "http://www.joto.okayama-c.ed.jp/"
       },
       "岡山県立岡山大安寺高等学校" : {
+         "location" : "岡山県岡山市北区北長瀬本町19-34",
+         "location_zipcode" : "700-0096",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "岡山大安寺高校"
+         "senior_high_school_code" : "33104A",
+         "short_name" : "岡山大安寺高校",
+         "url" : "http://www.daianji.okayama-c.ed.jp/"
       },
       "岡山県立岡山工業高等学校" : {
+         "location" : "岡山県岡山市北区伊福町四丁目3番92号",
+         "location_zipcode" : "700-0013",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "岡山工業高校"
+         "senior_high_school_code" : "33106G",
+         "short_name" : "岡山工業高校",
+         "url" : "http://www.okako.okayama-c.ed.jp/"
       },
       "岡山県立岡山御津高等学校" : {
+         "location" : "岡山県岡山市北区御津金川940",
+         "location_zipcode" : "709-2133",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "岡山御津高校"
+         "senior_high_school_code" : "33193H",
+         "short_name" : "岡山御津高校",
+         "url" : "http://www.mitsu.okayama-c.ed.jp/pc/"
       },
       "岡山県立岡山操山高等学校" : {
+         "location" : "岡山県岡山市中区浜412",
+         "location_zipcode" : "703-8573",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
+         "senior_high_school_code" : "33103B",
          "short_name" : "岡山操山高校",
+         "url" : "http://www.sozan-jhs.okayama-c.ed.jp/",
          "wikipedia_name" : "岡山県立岡山操山中学校・高等学校"
       },
       "岡山県立岡山朝日高等学校" : {
+         "location" : "岡山県岡山市中区古京町二丁目2-21",
+         "location_zipcode" : "703-8278",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "岡山朝日高校"
+         "senior_high_school_code" : "33101F",
+         "short_name" : "岡山朝日高校",
+         "url" : "http://www.asahi.okayama-c.ed.jp/asahi.htm"
       },
       "岡山県立岡山東商業高等学校" : {
+         "location" : "岡山県岡山市中区東山3-1-6",
+         "location_zipcode" : "703-8281",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "岡山東商業高校"
+         "senior_high_school_code" : "33108C",
+         "short_name" : "岡山東商業高校",
+         "url" : "http://www.higasho.okayama-c.ed.jp/"
       },
       "岡山県立岡山芳泉高等学校" : {
+         "location" : "岡山県岡山市南区当新田51-1",
+         "location_zipcode" : "700-8527",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "岡山芳泉高校"
+         "short_name" : "岡山芳泉高校",
+         "url" : "http://www.hosen.okayama-c.ed.jp/"
       },
       "岡山県立弓削高等学校" : {
+         "location" : "岡山県久米郡久米南町上弓削1657-1",
+         "location_zipcode" : "709-3612",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "弓削高校"
+         "short_name" : "弓削高校",
+         "url" : "http://www.yuge.okayama-c.ed.jp/yuge.htm"
       },
       "岡山県立新見高等学校" : {
+         "location" : "岡山県新見市新見1394",
+         "location_zipcode" : "718-0011",
          "owner_type" : "県立",
          "school_area" : "備北学区",
-         "short_name" : "新見高校"
+         "short_name" : "新見高校",
+         "url" : "http://www.niimi.okayama-c.ed.jp/niimi.htm"
       },
       "岡山県立新見高等学校北校地" : {
          "owner_type" : "県立",
@@ -244,124 +425,223 @@
          "short_name" : "新見高校北校地"
       },
       "岡山県立東岡山工業高等学校" : {
+         "location" : "岡山県岡山市中区土田290-1",
+         "location_zipcode" : "703-8217",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "東岡山工業高校"
+         "senior_high_school_code" : "33107E",
+         "short_name" : "東岡山工業高校",
+         "url" : "http://www.toko.okayama-c.ed.jp/index.htm"
       },
       "岡山県立林野高等学校" : {
+         "location" : "岡山県美作市三倉田58-1",
+         "location_zipcode" : "707-0046",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "林野高校"
+         "senior_high_school_code" : "33160A",
+         "short_name" : "林野高校",
+         "url" : "http://www.hayasino.okayama-c.ed.jp/"
       },
       "岡山県立水島工業高等学校" : {
+         "location" : "岡山県倉敷市西阿知町1230番地",
+         "location_wikipedia_latlon" : "|34|34|59.5|N|133|43|34.2|E|",
+         "location_zipcode" : "710-0807",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "水島工業高校"
+         "senior_high_school_code" : "33115F",
+         "short_name" : "水島工業高校",
+         "url" : "http://www.mizuko.okayama-c.ed.jp/"
       },
       "岡山県立津山商業高等学校" : {
+         "location" : "岡山県津山市山北531番地",
+         "location_wikipedia_latlon" : "|35|4|13|N|134|0|15.5|E|",
+         "location_zipcode" : "708-0004",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "津山商業高校"
+         "senior_high_school_code" : "33119J",
+         "short_name" : "津山商業高校",
+         "url" : "http://www.tusho.okayama-c.ed.jp/"
       },
       "岡山県立津山工業高等学校" : {
+         "location" : "岡山県津山市山北411-1",
+         "location_wikipedia_latlon" : "|35|4|20|N|134|0|8|E|",
+         "location_zipcode" : "708-0004",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "津山工業高校"
+         "senior_high_school_code" : "33118A",
+         "short_name" : "津山工業高校",
+         "url" : "http://www.tsukou.okayama-c.ed.jp/"
       },
       "岡山県立津山東高等学校" : {
+         "location" : "岡山県津山市林田1200",
+         "location_wikipedia_latlon" : "|35|4|2|N|134|0|56.5|E|",
+         "location_zipcode" : "708-0004",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "津山東高校"
+         "senior_high_school_code" : "33120B",
+         "short_name" : "津山東高校",
+         "url" : "http://www.tuhigasi.okayama-c.ed.jp/"
       },
       "岡山県立津山高等学校" : {
+         "location" : "岡山県津山市椿高下62",
+         "location_zipcode" : "708-0051",
          "owner_type" : "県立",
          "school_area" : "美作学区",
-         "short_name" : "津山高校"
+         "senior_high_school_code" : "33117B",
+         "short_name" : "津山高校",
+         "url" : "http://www.tuyama.okayama-c.ed.jp/"
       },
       "岡山県立瀬戸南高等学校" : {
+         "location" : "岡山県岡山市東区瀬戸町沖88",
+         "location_zipcode" : "709-0855",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "瀬戸南高校"
+         "short_name" : "瀬戸南高校",
+         "url" : "http://www.setomina.okayama-c.ed.jp/"
       },
       "岡山県立瀬戸高等学校" : {
+         "location" : "岡山県岡山市東区瀬戸町光明谷316-1",
+         "location_zipcode" : "709-0876",
          "owner_type" : "県立",
          "school_area" : "東備学区",
-         "short_name" : "瀬戸高校"
+         "senior_high_school_code" : "33139C",
+         "short_name" : "瀬戸高校",
+         "url" : "http://www.seto.okayama-c.ed.jp/"
       },
       "岡山県立烏城高等学校" : {
+         "location" : "岡山県岡山市北区伊島町三丁目1番1号",
+         "location_zipcode" : "700-0016",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "烏城高校"
+         "senior_high_school_code" : "33102D",
+         "short_name" : "烏城高校",
+         "url" : "http://www.ujo.okayama-c.ed.jp/"
       },
       "岡山県立玉島商業高等学校" : {
+         "location" : "岡山県倉敷市玉島中央町2-9-30",
+         "location_wikipedia_latlon" : "|34|32|45.7|N|133|40|5.1|E|",
+         "location_zipcode" : "713-8122",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "玉島商業高校"
+         "short_name" : "玉島商業高校",
+         "url" : "http://www.tamasho.okayama-c.ed.jp/"
       },
       "岡山県立玉島高等学校" : {
+         "location" : "岡山県倉敷市玉島阿賀崎三丁目1番1号",
+         "location_zipcode" : "713-8668",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
-         "short_name" : "玉島高校"
+         "short_name" : "玉島高校",
+         "url" : "http://www.tamasima.okayama-c.ed.jp/"
       },
       "岡山県立玉野光南高等学校" : {
+         "location" : "岡山県玉野市東七区244",
+         "location_wikipedia_latlon" : "|34|32|41.9|N|133|56|8.1|E|",
+         "location_zipcode" : "706-0226",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "玉野光南高校"
+         "senior_high_school_code" : "33184J",
+         "short_name" : "玉野光南高校",
+         "url" : "http://www.konan.okayama-c.ed.jp/"
       },
       "岡山県立玉野高等学校" : {
+         "location" : "岡山県玉野市築港3-11-1",
+         "location_wikipedia_latlon" : "|34|30|0.5|N|133|56|50.8|E|",
+         "location_zipcode" : "706-8555",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "玉野高校"
+         "senior_high_school_code" : "33121A",
+         "short_name" : "玉野高校",
+         "url" : "http://www.tamano.okayama-c.ed.jp/"
       },
       "岡山県立矢掛高等学校" : {
+         "location" : "岡山県小田郡矢掛町矢掛1776-2",
+         "location_zipcode" : "714-1201",
          "owner_type" : "県立",
          "school_area" : "西備学区",
-         "short_name" : "矢掛高校"
+         "senior_high_school_code" : "33147D",
+         "short_name" : "矢掛高校",
+         "url" : "http://www.yakage.okayama-c.ed.jp/"
       },
       "岡山県立笠岡商業高等学校" : {
+         "location" : "岡山県笠岡市笠岡3203番地",
+         "location_zipcode" : "714-0081",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "笠岡商業高校"
+         "senior_high_school_code" : "33128H",
+         "short_name" : "笠岡商業高校",
+         "url" : "http://www.kasasho.okayama-c.ed.jp/"
       },
       "岡山県立笠岡工業高等学校" : {
+         "location" : "岡山県笠岡市横島808番地",
+         "location_zipcode" : "714-0043",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "笠岡工業高校"
+         "senior_high_school_code" : "33127K",
+         "short_name" : "笠岡工業高校",
+         "url" : "http://www.kasako.okayama-c.ed.jp/"
       },
       "岡山県立笠岡高等学校" : {
+         "location" : "岡山県笠岡市笠岡3073-2",
+         "location_zipcode" : "714-0081",
          "owner_type" : "県立",
          "school_area" : "西備学区",
-         "short_name" : "笠岡高校"
+         "short_name" : "笠岡高校",
+         "url" : "http://www.kasaoka.okayama-c.ed.jp/kasaoka.htm"
       },
       "岡山県立総社南高等学校" : {
+         "location" : "岡山県総社市三輪626-1",
+         "location_zipcode" : "719-1132",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "総社南高校"
+         "senior_high_school_code" : "33186E",
+         "short_name" : "総社南高校",
+         "url" : "http://www.sojam.okayama-c.ed.jp/"
       },
       "岡山県立総社高等学校" : {
+         "location" : "岡山県総社市総社3-9-1",
+         "location_wikipedia_latlon" : "|34|40|34|N|133|45|23|E|",
+         "location_zipcode" : "719-1126",
          "owner_type" : "県立",
          "school_area" : "倉敷学区",
-         "short_name" : "総社高校"
+         "senior_high_school_code" : "33132F",
+         "short_name" : "総社高校",
+         "url" : "http://www.soja.okayama-c.ed.jp/"
       },
       "岡山県立興陽高等学校" : {
+         "location" : "岡山県岡山市南区藤田1500番地",
+         "location_zipcode" : "701-0297",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "興陽高校"
+         "senior_high_school_code" : "33145H",
+         "short_name" : "興陽高校",
+         "url" : "http://www.koyohigh.okayama-c.ed.jp/"
       },
       "岡山県立落合高等学校" : {
+         "location" : "岡山県真庭市落合垂水448－1",
+         "location_zipcode" : "７１９－３１４４",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "落合高校"
+         "short_name" : "落合高校",
+         "url" : "http://otiai.okayama-c.ed.jp"
       },
       "岡山県立蒜山高等学校" : {
+         "location" : "岡山県真庭市蒜山上長田4",
+         "location_zipcode" : "717-0505",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "蒜山高校"
+         "senior_high_school_code" : "33157A",
+         "short_name" : "蒜山高校",
+         "url" : "http://www.hiruzen.okayama-c.ed.jp/hiruze.htm"
       },
       "岡山県立西大寺高等学校" : {
+         "location" : "岡山県岡山市東区西大寺上二丁目1番17号",
+         "location_zipcode" : "704-8112",
          "owner_type" : "県立",
          "school_area" : "岡山学区",
-         "short_name" : "西大寺高校"
+         "senior_high_school_code" : "33129F",
+         "short_name" : "西大寺高校",
+         "url" : "http://www.saidaizi.okayama-c.ed.jp/saidai.htm"
       },
       "岡山県立邑久高等学校" : {
          "owner_type" : "県立",
@@ -369,80 +649,148 @@
          "short_name" : "邑久高校"
       },
       "岡山県立高松農業高等学校" : {
+         "location" : "岡山県岡山市北区高松原古才336-2",
+         "location_zipcode" : "701-1334",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "高松農業高校"
+         "short_name" : "高松農業高校",
+         "url" : "http://www.takano.okayama-c.ed.jp/index1.htm"
       },
       "岡山県立高梁城南高等学校" : {
+         "location" : "岡山県高梁市原田北町1216-1",
+         "location_zipcode" : "716-0043",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "高梁城南高校"
+         "senior_high_school_code" : "33191A",
+         "short_name" : "高梁城南高校",
+         "url" : "http://www.jonan.okayama-c.ed.jp/"
       },
       "岡山県立高梁高等学校" : {
+         "location" : "岡山県高梁市内山下38",
+         "location_zipcode" : "716-0004",
          "owner_type" : "県立",
          "school_area" : "備北学区",
-         "short_name" : "高梁高校"
+         "senior_high_school_code" : "33133D",
+         "short_name" : "高梁高校",
+         "url" : "http://www.takahasi.okayama-c.ed.jp/takahasi.htm"
       },
       "岡山県立鴨方高等学校" : {
+         "location" : "岡山県浅口市鴨方町鴨方819",
+         "location_zipcode" : "719-0243",
          "owner_type" : "県立",
          "school_area" : "全県学区",
-         "short_name" : "鴨方高校"
+         "senior_high_school_code" : "33146F",
+         "short_name" : "鴨方高校",
+         "url" : "http://www2.kamokou.jp/"
       },
       "岡山県美作高等学校" : {
+         "location" : "岡山県津山市山北500",
+         "location_wikipedia_latlon" : "|35|4|4|N|134|0|19|E|",
+         "location_zipcode" : "710-0012",
          "owner_type" : "私立",
-         "short_name" : "岡山県美作高校"
+         "senior_high_school_code" : "33510A",
+         "short_name" : "岡山県美作高校",
+         "url" : "http://www.mimasaka.ed.jp/"
       },
       "岡山県高梁日新高等学校" : {
+         "location" : "岡山県高梁市内山下150番地",
+         "location_zipcode" : "716-0004",
          "owner_type" : "私立",
-         "short_name" : "岡山県高梁日新高校"
+         "senior_high_school_code" : "33516K",
+         "short_name" : "岡山県高梁日新高校",
+         "url" : "http://www.takahashinisshin.ed.jp/index.html"
       },
       "岡山高等学校" : {
+         "location" : "岡山県岡山市南区箕島1500",
+         "location_zipcode" : "701-0206",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33523B",
          "short_name" : "岡山高校",
+         "url" : "http://www.okayama-h.ed.jp/",
          "wikipedia_name" : "岡山中学校・高等学校"
       },
       "岡山龍谷高等学校" : {
+         "location" : "岡山県笠岡市笠岡874番地",
+         "location_zipcode" : "714-0081",
          "owner_type" : "私立",
-         "short_name" : "岡山龍谷高校"
+         "senior_high_school_code" : "33513E",
+         "short_name" : "岡山龍谷高校",
+         "url" : "http://ok-ryukoku.ed.jp/index.html"
       },
       "川崎医科大学附属高等学校" : {
+         "location" : "岡山県倉敷市生坂1661",
+         "location_wikipedia_latlon" : "|34|38|6.4|N|133|47|11.0|E|",
+         "location_zipcode" : "710-0002",
          "owner_type" : "私立",
-         "short_name" : "川崎医科大学附属高校"
+         "senior_high_school_code" : "33520H",
+         "short_name" : "川崎医科大学附属高校",
+         "url" : "http://www.kawasaki-m.ac.jp/highschool/"
       },
       "明誠学院高等学校" : {
+         "location" : "岡山県岡山市北区津島西坂3丁目5-1",
+         "location_zipcode" : "700-0086",
          "owner_type" : "私立",
-         "short_name" : "明誠学院高校"
+         "senior_high_school_code" : "33503H",
+         "short_name" : "明誠学院高校",
+         "url" : "http://www.meiseigakuin.ac.jp/"
       },
       "朝日塾高等学校" : {
+         "location" : "岡山県岡山市北区御津紙工2590",
+         "location_zipcode" : "709-2136",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33525J",
          "short_name" : "朝日塾高校",
+         "url" : "http://www.asahijuku.com/index.php",
          "wikipedia_name" : "朝日塾中学高等学校"
       },
       "清心女子高等学校" : {
+         "location" : "岡山県倉敷市二子1200",
+         "location_wikipedia_latlon" : "|34|38|25.0|N|133|48|59.3|E|",
+         "location_zipcode" : "701-0195",
          "owner_type" : "私立",
          "short_name" : "清心女子高校",
+         "url" : "http://www.nd-seishin.ac.jp/",
          "wikipedia_name" : "清心中学校・清心女子高等学校"
       },
       "玉野市立玉野備南高等学校" : {
+         "location" : "岡山県玉野市和田",
+         "location_zipcode" : "706-0021",
          "owner_type" : "市立",
-         "short_name" : "玉野備南高校"
+         "short_name" : "玉野備南高校",
+         "url" : "http://www.binan.ed.jp/"
       },
       "玉野市立玉野商業高等学校" : {
+         "location" : "岡山県玉野市玉6-1-1",
+         "location_wikipedia_latlon" : "|34|29|12.5|N|133|55|54.7|E|",
+         "location_zipcode" : "706-0012",
          "owner_type" : "市立",
-         "short_name" : "玉野商業高校"
+         "short_name" : "玉野商業高校",
+         "url" : "http://www.tamanosho.ed.jp/"
       },
       "興譲館高等学校" : {
+         "location" : "岡山県井原市西江原町2257番地1",
+         "location_zipcode" : "715-0006",
          "owner_type" : "私立",
-         "short_name" : "興譲館高校"
+         "senior_high_school_code" : "33515A",
+         "short_name" : "興譲館高校",
+         "url" : "http://www.kojokan-h.ed.jp/"
       },
       "金光学園高等学校" : {
+         "location" : "岡山県浅口市金光町占見新田1350番地",
+         "location_zipcode" : "719-0104",
          "owner_type" : "私立",
+         "senior_high_school_code" : "33518F",
          "short_name" : "金光学園高校",
+         "url" : "http://www.konkougakuen.net/",
          "wikipedia_name" : "金光学園中学校・高等学校"
       },
       "関西高等学校" : {
+         "location" : "岡山県岡山市北区西崎本町16-1",
+         "location_zipcode" : "700-0056",
          "owner_type" : "私立",
-         "short_name" : "関西高校"
+         "senior_high_school_code" : "33506B",
+         "short_name" : "関西高校",
+         "url" : "http://www.kanzei.ac.jp/"
       },
       "高梁市立宇治高等学校" : {
          "owner_type" : "市立",

@@ -10,151 +10,281 @@
    },
    "senior_high_schools" : {
       "仙台市立仙台商業高等学校" : {
+         "location" : "宮城県仙台市泉区七北田字古内75番地",
+         "location_wikipedia_latlon" : "|38|19|26.64|N|140|52|17.11|E|region:JP",
+         "location_zipcode" : "981-3131",
          "owner_type" : "市立",
-         "short_name" : "仙台商業高校"
+         "senior_high_school_code" : "04172G",
+         "short_name" : "仙台商業高校",
+         "url" : "http://www.sendai-c.ed.jp/~sensho/"
       },
       "仙台市立仙台図南萩陵高等学校" : {
          "owner_type" : "市立",
          "short_name" : "仙台図南萩陵高校"
       },
       "仙台市立仙台大志高等学校" : {
+         "location" : "仙台市宮城野区五輪一丁目4-10",
+         "location_zipcode" : "983-0842",
          "owner_type" : "市立",
-         "short_name" : "仙台大志高校"
+         "short_name" : "仙台大志高校",
+         "url" : "http://www.sendai-c.ed.jp/~taishi/"
       },
       "仙台市立仙台工業高等学校" : {
+         "location" : "宮城県仙台市宮城野区東宮城野3-1",
+         "location_zipcode" : "983-8543",
          "owner_type" : "市立",
-         "short_name" : "仙台工業高校"
+         "senior_high_school_code" : "04170A",
+         "short_name" : "仙台工業高校",
+         "url" : "http://www.sendai-c.ed.jp/~sendaith/"
       },
       "仙台市立仙台第二工業高等学校" : {
+         "location" : "宮城県仙台市宮城野区東宮城野3-1",
+         "location_zipcode" : "983-0042",
          "owner_type" : "市立",
-         "short_name" : "仙台第二工業高校"
+         "senior_high_school_code" : "04171J",
+         "short_name" : "仙台第二工業高校",
+         "url" : "http://www.sendai-c.ed.jp/~sen2kou/"
       },
       "仙台市立仙台高等学校" : {
+         "location" : "宮城県仙台市青葉区国見六丁目52番1号",
+         "location_wikipedia_latlon" : "|38|16|54.6|N|140|50|1.5|E|region:JP|name=仙台市立仙台高等学校",
+         "location_zipcode" : "981-8502",
          "owner_type" : "市立",
-         "short_name" : "仙台高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04166B",
+         "short_name" : "仙台高校",
+         "url" : "http://www.sendai-c.ed.jp/~sendaihs/"
       },
       "仙台白百合学園高等学校" : {
+         "location" : "宮城県仙台市泉区紫山一丁目2番1号",
+         "location_wikipedia_latlon" : "|38|20|51.0|N|140|50|8.1|E|",
+         "location_zipcode" : "981-3205",
          "owner_type" : "私立",
+         "senior_high_school_code" : "04506D",
          "short_name" : "仙台白百合学園高校",
+         "url" : "http://sendaishirayuri-high.net/www/index.html",
          "wikipedia_name" : "仙台白百合学園中学校・高等学校"
       },
       "仙台育英学園高等学校" : {
+         "location" : "宮城県仙台市宮城野区宮城野二丁目4番1号",
+         "location_zipcode" : "983-0045",
          "owner_type" : "私立",
-         "short_name" : "仙台育英学園高校"
+         "senior_high_school_code" : "04501C",
+         "short_name" : "仙台育英学園高校",
+         "url" : "http://www.sendaiikuei.ed.jp/"
       },
       "古川学園高等学校" : {
          "owner_type" : "私立",
          "short_name" : "古川学園高校"
       },
       "大崎中央高等学校" : {
+         "location" : "宮城県大崎市古川福沼一丁目27番1号",
+         "location_wikipedia_latlon" : "|38|34|53.1|N|140|58|25.0|E|",
+         "location_zipcode" : "989-6105",
          "owner_type" : "私立",
-         "short_name" : "大崎中央高校"
+         "short_name" : "大崎中央高校",
+         "url" : "http://www.osakichuo.ed.jp/"
       },
       "宮城学院高等学校" : {
+         "location" : "宮城県仙台市青葉区桜ヶ丘九丁目1番1号",
+         "location_zipcode" : "981-8557",
          "owner_type" : "私立",
          "short_name" : "宮城学院高校",
+         "url" : "http://www.mgu.ac.jp/home",
          "wikipedia_name" : "宮城学院中学校・高等学校"
       },
       "宮城県一迫商業高等学校" : {
+         "location" : "宮城県栗原市一迫真坂字町東133番地",
          "location_area" : "栗原市",
+         "location_wikipedia_latlon" : "|38|44|21.5|N|140|57|29.5|E|",
+         "location_zipcode" : "987-2308",
          "owner_type" : "県立",
-         "short_name" : "一迫商業高校"
+         "senior_high_school_code" : "04162K",
+         "short_name" : "一迫商業高校",
+         "url" : "http://ichisho.myswan.ne.jp/"
       },
       "宮城県上沼高等学校" : {
+         "location" : "宮城県登米市中田町上沼字要害94",
          "location_area" : "登米市",
+         "location_zipcode" : "987-0602",
          "owner_type" : "県立",
-         "short_name" : "上沼高校"
+         "school_area" : "登米学区",
+         "short_name" : "上沼高校",
+         "url" : "http://uwanuma-h.myswan.ne.jp/"
       },
       "宮城県中新田高等学校" : {
+         "location" : "宮城県加美郡加美町字一本柳南28",
          "location_area" : "加美郡",
+         "location_zipcode" : "981-4294",
          "owner_type" : "県立",
-         "short_name" : "中新田高校"
+         "senior_high_school_code" : "04136A",
+         "short_name" : "中新田高校",
+         "url" : "http://www.nakani-h.myswan.ne.jp/"
       },
       "宮城県亘理高等学校" : {
+         "location" : "宮城県亘理郡亘理町字館南56-2",
          "location_area" : "亘理郡",
+         "location_wikipedia_latlon" : "|38|1|58.7|N|140|50|56.5|E|",
+         "location_zipcode" : "989-2361",
          "owner_type" : "県立",
-         "short_name" : "亘理高校"
+         "senior_high_school_code" : "04150F",
+         "short_name" : "亘理高校",
+         "url" : "http://www.watari-h.myswan.ne.jp/"
       },
       "宮城県仙台三桜高等学校" : {
+         "location" : "宮城県仙台市太白区門前町9-2",
          "location_area" : "仙台市太白区",
+         "location_wikipedia_latlon" : "|38|14|6.7|N|140|52|36.3|E|",
+         "location_zipcode" : "982-0845",
          "owner_type" : "県立",
-         "short_name" : "仙台三桜高校"
+         "senior_high_school_code" : "04119A",
+         "short_name" : "仙台三桜高校",
+         "url" : "http://sen3o-h.myswan.ne.jp/"
       },
       "宮城県仙台二華高等学校" : {
+         "location" : "宮城県仙台市若林区連坊一丁目4番1号",
          "location_area" : "仙台市若林区",
+         "location_zipcode" : "984-0052",
          "owner_type" : "県立",
+         "senior_high_school_code" : "04118B",
          "short_name" : "仙台二華高校",
+         "url" : "http://www.nika.myswan.ne.jp/",
          "wikipedia_name" : "宮城県仙台二華中学校・高等学校"
       },
       "宮城県仙台南高等学校" : {
+         "location" : "宮城県仙台市太白区根岸町14-1",
          "location_area" : "仙台市太白区",
+         "location_wikipedia_latlon" : "|38|14|11.1|N|140|53|0.6|E|",
+         "location_zipcode" : "982-0844",
          "owner_type" : "県立",
-         "short_name" : "仙台南高校"
+         "school_area" : "仙台南学区",
+         "senior_high_school_code" : "04165D",
+         "short_name" : "仙台南高校",
+         "url" : "http://www.sminam-h.myswan.ne.jp/"
       },
       "宮城県仙台向山高等学校" : {
+         "location" : "宮城県仙台市太白区八木山緑町1番1号",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0832",
          "owner_type" : "県立",
-         "short_name" : "仙台向山高校"
+         "school_area" : "仙台南学区",
+         "senior_high_school_code" : "04104B",
+         "short_name" : "仙台向山高校",
+         "url" : "http://mukaiyama.myswan.ne.jp/"
       },
       "宮城県仙台東高等学校" : {
+         "location" : "宮城県仙台市若林区下飯田字高野東70",
          "location_area" : "仙台市若林区",
+         "location_wikipedia_latlon" : "|38|13|13.9|N|140|55|54.3|E|",
+         "location_zipcode" : "984-0832",
          "owner_type" : "県立",
-         "short_name" : "仙台東高校"
+         "school_area" : "仙台南学区",
+         "senior_high_school_code" : "04186G",
+         "short_name" : "仙台東高校",
+         "url" : "http://higasi-h.myswan.ne.jp/"
       },
       "宮城県仙台第一高等学校" : {
+         "location" : "宮城県仙台市若林区元茶畑4",
          "location_area" : "仙台市若林区",
+         "location_zipcode" : "984-8561",
          "owner_type" : "県立",
-         "short_name" : "仙台第一高校"
+         "senior_high_school_code" : "04101H",
+         "short_name" : "仙台第一高校",
+         "url" : "http://www.sendai1.myswan.ne.jp/"
       },
       "宮城県仙台第三高等学校" : {
+         "location" : "宮城県仙台市宮城野区鶴ヶ谷1丁目19番",
          "location_area" : "仙台市宮城野区",
+         "location_zipcode" : "〒983-0824",
          "owner_type" : "県立",
-         "short_name" : "仙台第三高校"
+         "senior_high_school_code" : "04103D",
+         "short_name" : "仙台第三高校",
+         "url" : "http://sensan.myswan.ne.jp/"
       },
       "宮城県仙台第二高等学校" : {
+         "location" : "宮城県仙台市青葉区川内澱橋通1",
          "location_area" : "仙台市青葉区",
+         "location_wikipedia_latlon" : "|38|15|49.3|N|140|51|25.5|E|region:JP|",
+         "location_zipcode" : "980-8631",
          "owner_type" : "県立",
-         "short_name" : "仙台第二高校"
+         "senior_high_school_code" : "04102F",
+         "short_name" : "仙台第二高校",
+         "url" : "http://sen2-h.myswan.ne.jp/"
       },
       "宮城県仙台西高等学校" : {
+         "location" : "宮城県仙台市太白区御堂平5-1",
          "location_area" : "仙台市太白区",
+         "location_zipcode" : "982-0806",
          "owner_type" : "県立",
-         "short_name" : "仙台西高校"
+         "senior_high_school_code" : "04179D",
+         "short_name" : "仙台西高校",
+         "url" : "http://snishi-h.myswan.ne.jp/index.html"
       },
       "宮城県伊具高等学校" : {
+         "location" : "宮城県伊具郡丸森町字雁歌51番地",
          "location_area" : "伊具郡",
+         "location_zipcode" : "981-2153",
          "owner_type" : "県立",
-         "short_name" : "伊具高校"
+         "senior_high_school_code" : "04151D",
+         "short_name" : "伊具高校",
+         "url" : "http://www.igu.myswan.ne.jp/"
       },
       "宮城県佐沼高等学校" : {
+         "location" : "宮城県登米市迫町佐沼末広1番地",
          "location_area" : "登米市",
+         "location_zipcode" : "987-0511",
          "owner_type" : "県立",
-         "short_name" : "佐沼高校"
+         "school_area" : "登米学区",
+         "senior_high_school_code" : "04108E",
+         "short_name" : "佐沼高校",
+         "url" : "http://sanuma.myswan.ne.jp/"
       },
       "宮城県利府高等学校" : {
+         "location" : "宮城県宮城郡利府町青葉台一丁目1番1号",
          "location_area" : "宮城郡",
+         "location_zipcode" : "981-0133",
          "owner_type" : "県立",
-         "short_name" : "利府高校"
+         "school_area" : "塩釜学区",
+         "senior_high_school_code" : "04182D",
+         "short_name" : "利府高校",
+         "url" : "http://rifu-h.myswan.ne.jp"
       },
       "宮城県加美農業高等学校" : {
+         "location" : "宮城県加美郡色麻町黒沢字北條152",
          "location_area" : "加美郡",
+         "location_zipcode" : "981-4111",
          "owner_type" : "県立",
-         "short_name" : "加美農業高校"
+         "senior_high_school_code" : "04147F",
+         "short_name" : "加美農業高校",
+         "url" : "http://kamino-h.myswan.ne.jp/"
       },
       "宮城県南郷高等学校" : {
+         "location" : "宮城県遠田郡美里町大柳字天神原7",
          "location_area" : "遠田郡",
+         "location_zipcode" : "989-4204",
          "owner_type" : "県立",
-         "short_name" : "南郷高校"
+         "short_name" : "南郷高校",
+         "url" : "http://www.nango-h.myswan.ne.jp/"
       },
       "宮城県古川工業高等学校" : {
+         "location" : "宮城県大崎市古川北町四丁目7番1号",
          "location_area" : "大崎市",
+         "location_wikipedia_latlon" : "|38|35|0.1|N|140|57|54.6|E|",
+         "location_zipcode" : "989-6171",
          "owner_type" : "県立",
-         "short_name" : "古川工業高校"
+         "short_name" : "古川工業高校",
+         "url" : "http://furukk-h.myswan.ne.jp/"
       },
       "宮城県古川高等学校" : {
+         "location" : "宮城県大崎市古川南町二丁目3番17号",
          "location_area" : "大崎市",
+         "location_wikipedia_latlon" : "|38|34|14.7|N|140|57|23.6|E|",
+         "location_zipcode" : "989-6155",
          "owner_type" : "県立",
-         "short_name" : "古川高校"
+         "school_area" : "宮城県全域",
+         "senior_high_school_code" : "04105A",
+         "short_name" : "古川高校",
+         "url" : "http://www.furuko.myswan.ne.jp/"
       },
       "宮城県古川黎明高等学校" : {
          "location_area" : "大崎市",
@@ -162,109 +292,203 @@
          "short_name" : "古川黎明高校"
       },
       "宮城県名取北高等学校" : {
+         "location" : "宮城県名取市増田字柳田103",
          "location_area" : "名取市",
+         "location_zipcode" : "981-1224",
          "owner_type" : "県立",
-         "short_name" : "名取北高校"
+         "senior_high_school_code" : "04176K",
+         "short_name" : "名取北高校",
+         "url" : "http://www.natorikita.myswan.ne.jp"
       },
       "宮城県名取高等学校" : {
+         "location" : "宮城県岩沼市字朝日50",
          "location_area" : "岩沼市",
+         "location_zipcode" : "989-2474",
          "owner_type" : "県立",
-         "short_name" : "名取高校"
+         "senior_high_school_code" : "04113A",
+         "short_name" : "名取高校",
+         "url" : "http://www.natori-h.myswan.ne.jp/"
       },
       "宮城県塩釜高等学校" : {
+         "location" : "宮城県塩竈市泉ヶ岡7-1",
          "location_area" : "塩竈市",
+         "location_zipcode" : "985-0056",
          "owner_type" : "県立",
-         "short_name" : "塩釜高校"
+         "senior_high_school_code" : "04112C",
+         "short_name" : "塩釜高校",
+         "url" : "http://www.shioko.myswan.ne.jp/"
       },
       "宮城県多賀城高等学校" : {
+         "location" : "宮城県多賀城市笠神二丁目17番1号",
          "location_area" : "多賀城市",
+         "location_zipcode" : "986-0831",
          "owner_type" : "県立",
-         "short_name" : "多賀城高校"
+         "senior_high_school_code" : "04115H",
+         "short_name" : "多賀城高校",
+         "url" : "http://www.tagajo-hs.myswan.ne.jp/"
       },
       "宮城県大河原商業高等学校" : {
+         "location" : "宮城県柴田郡大河原町大谷字西原前154-6",
          "location_area" : "柴田郡",
+         "location_wikipedia_latlon" : "|38|2|54.2|N|140|44|49.4|E|",
+         "location_zipcode" : "989-1201",
          "owner_type" : "県立",
-         "short_name" : "大河原商業高校"
+         "school_area" : "刈田柴田学区",
+         "senior_high_school_code" : "04160C",
+         "short_name" : "大河原商業高校",
+         "url" : "http://www.ogs.myswan.ne.jp/"
       },
       "宮城県女川高等学校" : {
+         "location" : "宮城県牡鹿郡女川町浦宿浜字十二神60-3",
          "location_area" : "牡鹿郡",
+         "location_zipcode" : "986-2231",
          "owner_type" : "県立",
-         "short_name" : "女川高校"
+         "short_name" : "女川高校",
+         "url" : "http://onagaw-h.myswan.ne.jp/"
       },
       "宮城県宮城広瀬高等学校" : {
+         "location" : "宮城県仙台市青葉区落合4丁目4-1",
          "location_area" : "仙台市青葉区",
+         "location_wikipedia_latlon" : "|38|16|29.8|N|140|47|4|E|",
+         "location_zipcode" : "989-3126",
          "owner_type" : "県立",
-         "short_name" : "宮城広瀬高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04181F",
+         "short_name" : "宮城広瀬高校",
+         "url" : "http://www.hirose-h.myswan.ne.jp/"
       },
       "宮城県宮城第一高等学校" : {
+         "location" : "宮城県仙台市青葉区八幡一丁目6-2",
          "location_area" : "仙台市青葉区",
+         "location_wikipedia_latlon" : "|38|16|7.2|N|140|51|5.1|E|",
+         "location_zipcode" : "980-0871",
          "owner_type" : "県立",
-         "short_name" : "宮城第一高校"
+         "senior_high_school_code" : "04117D",
+         "short_name" : "宮城第一高校",
+         "url" : "http://www.ichijo.myswan.ne.jp/"
       },
       "宮城県宮城野高等学校" : {
+         "location" : "宮城県仙台市宮城野区田子二丁目36番1号",
          "location_area" : "仙台市宮城野区",
+         "location_zipcode" : "983-0021",
          "owner_type" : "県立",
-         "short_name" : "宮城野高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04188C",
+         "short_name" : "宮城野高校",
+         "url" : "http://miyagino.myswan.ne.jp/"
       },
       "宮城県富谷高等学校" : {
+         "location" : "宮城県黒川郡富谷町成田2丁目1番地1",
          "location_area" : "黒川郡",
+         "location_zipcode" : "981-3341",
          "owner_type" : "県立",
-         "short_name" : "富谷高校"
+         "senior_high_school_code" : "04187E",
+         "short_name" : "富谷高校",
+         "url" : "http://www.tomiya-h.myswan.ne.jp/"
       },
       "宮城県小牛田農林高等学校" : {
+         "location" : "宮城県遠田郡美里町牛飼字伊勢堂裏30",
          "location_area" : "遠田郡",
+         "location_zipcode" : "987-0004",
          "owner_type" : "県立",
-         "short_name" : "小牛田農林高校"
+         "short_name" : "小牛田農林高校",
+         "url" : "http://kogotanourin.myswan.ne.jp/"
       },
       "宮城県岩ヶ崎高等学校" : {
+         "location" : "宮城県栗原市栗駒中野愛宕下1-3",
          "location_area" : "栗原市",
+         "location_wikipedia_latlon" : "|38|49|14.5|N|140|59|0.2|E|",
+         "location_zipcode" : "989-5351",
          "owner_type" : "県立",
-         "short_name" : "岩ヶ崎高校"
+         "school_area" : "栗原学区",
+         "senior_high_school_code" : "04116F",
+         "short_name" : "岩ヶ崎高校",
+         "url" : "http://iwagasakikou.myswan.ne.jp/"
       },
       "宮城県岩出山高等学校" : {
+         "location" : "宮城県大崎市岩出山字城山2番地",
          "location_area" : "大崎市",
+         "location_wikipedia_latlon" : "|38|39|13.9|N|140|51|42.9|E|",
+         "location_zipcode" : "989-6437",
          "owner_type" : "県立",
-         "short_name" : "岩出山高校"
+         "senior_high_school_code" : "04132H",
+         "short_name" : "岩出山高校",
+         "url" : "http://iwadeyama-h.myswan.ne.jp/"
       },
       "宮城県工業高等学校" : {
+         "location" : "宮城県仙台市青葉区米ヶ袋三丁目2番1号",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "980-0813",
          "owner_type" : "県立",
-         "short_name" : "工業高校"
+         "senior_high_school_code" : "04152B",
+         "short_name" : "工業高校",
+         "url" : "http://miyagi-th.myswan.ne.jp/"
       },
       "宮城県志津川高等学校" : {
+         "location" : "宮城県本吉郡南三陸町志津川字廻館92-2",
          "location_area" : "本吉郡",
+         "location_wikipedia_latlon" : "|38|40|50.2|N|141|26|19.4|E|",
+         "location_zipcode" : "988-0775",
          "owner_type" : "県立",
-         "short_name" : "志津川高校"
+         "senior_high_school_code" : "04130A",
+         "short_name" : "志津川高校",
+         "url" : "http://www.sizugawa-hs.myswan.ne.jp/"
       },
       "宮城県本吉響高等学校" : {
+         "location" : "宮城県気仙沼市本吉町津谷桜子2番地24",
          "location_area" : "気仙沼市",
+         "location_wikipedia_latlon" : "|38|47|38.3|N|141|29|41.5|E|",
+         "location_zipcode" : "988-0341",
          "owner_type" : "県立",
-         "short_name" : "本吉響高校"
+         "short_name" : "本吉響高校",
+         "url" : "http://hibiki-h.myswan.ne.jp/"
       },
       "宮城県村田高等学校" : {
+         "location" : "宮城県柴田郡村田町大字村田字金谷1",
          "location_area" : "柴田郡",
+         "location_wikipedia_latlon" : "|38|6|51.9|N|140|43|15.2|E|",
+         "location_zipcode" : "989-1305",
          "owner_type" : "県立",
-         "short_name" : "村田高校"
+         "senior_high_school_code" : "04133F",
+         "short_name" : "村田高校",
+         "url" : "http://murata-h.myswan.ne.jp/"
       },
       "宮城県東松島高等学校" : {
+         "location" : "宮城県東松島市矢本字上河戸16",
          "location_area" : "東松島市",
+         "location_zipcode" : "981-0503",
          "owner_type" : "県立",
-         "short_name" : "東松島高校"
+         "short_name" : "東松島高校",
+         "url" : "http://www.higashi-matsushima.myswan.ne.jp"
       },
       "宮城県松山高等学校" : {
+         "location" : "宮城県大崎市松山千石字松山1-1",
          "location_area" : "大崎市",
+         "location_wikipedia_latlon" : "|38|30|43.1|N|141|2|56.5|E|",
+         "location_zipcode" : "987-1304",
          "owner_type" : "県立",
-         "short_name" : "松山高校"
+         "senior_high_school_code" : "04177H",
+         "short_name" : "松山高校",
+         "url" : "http://www.matuyama-h.myswan.ne.jp/"
       },
       "宮城県松島高等学校" : {
+         "location" : "宮城県宮城郡松島町高城字迎山3の5",
          "location_area" : "宮城郡",
+         "location_zipcode" : "981-0215",
          "owner_type" : "県立",
-         "short_name" : "松島高校"
+         "senior_high_school_code" : "04138G",
+         "short_name" : "松島高校",
+         "url" : "http://www.matsushima-h.myswan.ne.jp/"
       },
       "宮城県柴田農林高等学校" : {
+         "location" : "宮城県柴田郡大河原町字上川原7-2",
          "location_area" : "柴田郡",
+         "location_wikipedia_latlon" : "|38|2|42.3|N|140|43|52.4|E|",
+         "location_zipcode" : "989-1233",
          "owner_type" : "県立",
-         "short_name" : "柴田農林高校"
+         "senior_high_school_code" : "04149B",
+         "short_name" : "柴田農林高校",
+         "url" : "http://www.sibano.myswan.ne.jp/"
       },
       "宮城県柴田農林高等学校川崎校" : {
          "location_area" : "柴田郡",
@@ -272,69 +496,129 @@
          "short_name" : "柴田農林高校川崎校"
       },
       "宮城県柴田高等学校" : {
+         "location" : "宮城県柴田郡柴田町大字本船迫字十八津入7-3",
          "location_area" : "柴田郡",
+         "location_wikipedia_latlon" : "|38|4|10.4|N|140|46|45.5|E|",
+         "location_zipcode" : "989-1621",
          "owner_type" : "県立",
-         "short_name" : "柴田高校"
+         "senior_high_school_code" : "04185J",
+         "short_name" : "柴田高校",
+         "url" : "http://www02.jet.ne.jp/~shiba-ko/"
       },
       "宮城県気仙沼向洋高等学校" : {
+         "location" : "宮城県気仙沼市波路上瀬向9-1",
          "location_area" : "気仙沼市",
+         "location_wikipedia_latlon" : "|38|49|53.5|N|141|35|27.5|E|",
+         "location_zipcode" : "988-0246",
          "owner_type" : "県立",
-         "short_name" : "気仙沼向洋高校"
+         "short_name" : "気仙沼向洋高校",
+         "url" : "http://www.kkouyo-h.myswan.ne.jp/"
       },
       "宮城県気仙沼西高等学校" : {
+         "location" : "宮城県気仙沼市赤岩牧沢155-1",
          "location_area" : "気仙沼市",
+         "location_wikipedia_latlon" : "|38|52|44.4|N|141|32|50.6|E|",
+         "location_zipcode" : "988-0171",
          "owner_type" : "県立",
-         "short_name" : "気仙沼西高校"
+         "senior_high_school_code" : "04184A",
+         "short_name" : "気仙沼西高校",
+         "url" : "http://knisi-h.myswan.ne.jp/"
       },
       "宮城県気仙沼高等学校" : {
+         "location" : "宮城県気仙沼市字常楽130",
          "location_area" : "気仙沼市",
+         "location_wikipedia_latlon" : "|38|53|42.8|N|141|33|29|E|",
+         "location_zipcode" : "988-0051",
          "owner_type" : "県立",
-         "short_name" : "気仙沼高校"
+         "senior_high_school_code" : "04111E",
+         "short_name" : "気仙沼高校",
+         "url" : "http://kesennuma-h.myswan.ne.jp/"
       },
       "宮城県水産高等学校" : {
+         "location" : "宮城県石巻市宇田川町1番24号",
          "location_area" : "石巻市",
+         "location_zipcode" : "986-2113",
          "owner_type" : "県立",
-         "short_name" : "水産高校"
+         "senior_high_school_code" : "04163H",
+         "short_name" : "水産高校",
+         "url" : "http://miyagisuisan.myswan.ne.jp/"
       },
       "宮城県泉松陵高等学校" : {
+         "location" : "宮城県仙台市泉区鶴が丘四丁目26番1号",
          "location_area" : "仙台市泉区",
+         "location_zipcode" : "981-3109",
          "owner_type" : "県立",
-         "short_name" : "泉松陵高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04178F",
+         "short_name" : "泉松陵高校",
+         "url" : "http://www.shoryo.myswan.ne.jp/"
       },
       "宮城県泉館山高等学校" : {
+         "location" : "宮城県仙台市泉区長命ヶ丘東1番地",
          "location_area" : "仙台市泉区",
+         "location_zipcode" : "981-3211",
          "owner_type" : "県立",
-         "short_name" : "泉館山高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04180H",
+         "short_name" : "泉館山高校",
+         "url" : "http://izumit-h.myswan.ne.jp/"
       },
       "宮城県泉高等学校" : {
+         "location" : "宮城県仙台市泉区将監十丁目39番1号",
          "location_area" : "仙台市泉区",
+         "location_zipcode" : "981-3132",
          "owner_type" : "県立",
-         "short_name" : "泉高校"
+         "school_area" : "仙台北学区",
+         "senior_high_school_code" : "04114K",
+         "short_name" : "泉高校",
+         "url" : "http://www.izumihigh.myswan.ne.jp/"
       },
       "宮城県涌谷高等学校" : {
+         "location" : "宮城県遠田郡涌谷町涌谷字八方谷三1",
          "location_area" : "遠田郡",
+         "location_zipcode" : "987-0121",
          "owner_type" : "県立",
-         "short_name" : "涌谷高校"
+         "school_area" : "大崎学区",
+         "senior_high_school_code" : "04127A",
+         "short_name" : "涌谷高校",
+         "url" : "http://wakuya-h.myswan.ne.jp/"
       },
       "宮城県田尻さくら高等学校" : {
+         "location" : "宮城県大崎市田尻沼部字中新堀137",
          "location_area" : "大崎市",
+         "location_zipcode" : "989-4308",
          "owner_type" : "県立",
-         "short_name" : "田尻さくら高校"
+         "short_name" : "田尻さくら高校",
+         "url" : "http://www.tajiri-hs.myswan.ne.jp/indexsakura.html"
       },
       "宮城県登米高等学校" : {
+         "location" : "宮城県登米市登米町寺池桜小路3",
          "location_area" : "登米市",
+         "location_zipcode" : "987-0702",
          "owner_type" : "県立",
-         "short_name" : "登米高校"
+         "school_area" : "登米学区",
+         "senior_high_school_code" : "04128K",
+         "short_name" : "登米高校",
+         "url" : "http://www.tome-h.myswan.ne.jp/"
       },
       "宮城県白石工業高等学校" : {
+         "location" : "宮城県白石市郡山字鹿野43",
          "location_area" : "白石市",
+         "location_zipcode" : "989-0203",
          "owner_type" : "県立",
-         "short_name" : "白石工業高校"
+         "senior_high_school_code" : "04156E",
+         "short_name" : "白石工業高校",
+         "url" : "http://shiroishi-kougyou.myswan.ne.jp/"
       },
       "宮城県白石高等学校" : {
+         "location" : "宮城県白石市八幡町9-10",
          "location_area" : "白石市",
+         "location_zipcode" : "989-0247",
          "owner_type" : "県立",
-         "short_name" : "白石高校"
+         "school_area" : "白石",
+         "senior_high_school_code" : "04109C",
+         "short_name" : "白石高校",
+         "url" : "http://www.hakko.myswan.ne.jp/"
       },
       "宮城県白石高等学校七ヶ宿校" : {
          "location_area" : "刈田郡",
@@ -342,9 +626,13 @@
          "short_name" : "白石高校七ヶ宿校"
       },
       "宮城県石巻北高等学校" : {
+         "location" : "宮城県石巻市鹿又用水向126",
          "location_area" : "石巻市",
+         "location_zipcode" : "986-1111",
          "owner_type" : "県立",
-         "short_name" : "石巻北高校"
+         "senior_high_school_code" : "04135B",
+         "short_name" : "石巻北高校",
+         "url" : "http://kanan-h.myswan.ne.jp/"
       },
       "宮城県石巻北高等学校飯野川校" : {
          "location_area" : "石巻市",
@@ -352,157 +640,285 @@
          "short_name" : "石巻北高校飯野川校"
       },
       "宮城県石巻商業高等学校" : {
+         "location" : "宮城県石巻市南境字大樋20",
          "location_area" : "石巻市",
+         "location_zipcode" : "986-0031",
          "owner_type" : "県立",
-         "short_name" : "石巻商業高校"
+         "senior_high_school_code" : "04159K",
+         "short_name" : "石巻商業高校",
+         "url" : "http://sekisyo.myswan.ne.jp/"
       },
       "宮城県石巻好文館高等学校" : {
+         "location" : "宮城県石巻市貞山三丁目4番1号",
          "location_area" : "石巻市",
+         "location_wikipedia_latlon" : "|38|26|5.1|N|141|16|56.7|E|",
+         "location_zipcode" : "986-0851",
          "owner_type" : "県立",
-         "short_name" : "石巻好文館高校"
+         "school_area" : "石巻",
+         "senior_high_school_code" : "04122A",
+         "short_name" : "石巻好文館高校",
+         "url" : "http://www.koubunkan.myswan.ne.jp"
       },
       "宮城県石巻工業高等学校" : {
+         "location" : "宮城県石巻市貞山五丁目1番1号",
          "location_area" : "石巻市",
+         "location_zipcode" : "986-0851",
          "owner_type" : "県立",
-         "short_name" : "石巻工業高校"
+         "senior_high_school_code" : "04155G",
+         "short_name" : "石巻工業高校",
+         "url" : "http://ishiko.myswan.ne.jp/"
       },
       "宮城県石巻西高等学校" : {
+         "location" : "宮城県東松島市赤井字七反谷地27番地",
          "location_area" : "東松島市",
+         "location_zipcode" : "981-0501",
          "owner_type" : "県立",
-         "short_name" : "石巻西高校"
+         "school_area" : "石巻学区",
+         "senior_high_school_code" : "04183B",
+         "short_name" : "石巻西高校",
+         "url" : "http://www.inisi.myswan.ne.jp/"
       },
       "宮城県石巻高等学校" : {
+         "location" : "宮城県石巻市大手町3-15",
          "location_area" : "石巻市",
+         "location_wikipedia_latlon" : "|38|25|33.2|N|141|17|57.7|E|",
+         "location_zipcode" : "986-0838",
          "owner_type" : "県立",
-         "short_name" : "石巻高校"
+         "senior_high_school_code" : "04110G",
+         "short_name" : "石巻高校",
+         "url" : "http://www.sekikou.myswan.ne.jp/"
       },
       "宮城県第二工業高等学校" : {
+         "location" : "宮城県仙台市青葉区米ヶ袋三丁目2番1号",
          "location_area" : "仙台市青葉区",
+         "location_zipcode" : "980-0813",
          "owner_type" : "県立",
-         "short_name" : "第二工業高校"
+         "senior_high_school_code" : "04153A",
+         "short_name" : "第二工業高校",
+         "url" : "http://m2k.myswan.ne.jp/"
       },
       "宮城県築館高等学校" : {
+         "location" : "宮城県栗原市築館字下宮野町浦22",
          "location_area" : "栗原市",
+         "location_wikipedia_latlon" : "|38|45|4.7|N|141|1|8.2|E|",
+         "location_zipcode" : "987-2203",
          "owner_type" : "県立",
-         "short_name" : "築館高校"
+         "senior_high_school_code" : "04107G",
+         "short_name" : "築館高校",
+         "url" : "http://tukiko.myswan.ne.jp/"
       },
       "宮城県米山高等学校" : {
+         "location" : "宮城県登米市米山町中津山字筒場埣215番地",
          "location_area" : "登米市",
+         "location_zipcode" : "987-0331",
          "owner_type" : "県立",
-         "short_name" : "米山高校"
+         "senior_high_school_code" : "04144A",
+         "short_name" : "米山高校",
+         "url" : "http://www.yoneyama-h.myswan.ne.jp/"
       },
       "宮城県米谷工業高等学校" : {
+         "location" : "宮城県登米市東和町米谷字古舘88",
          "location_area" : "登米市",
+         "location_zipcode" : "987-0902",
          "owner_type" : "県立",
-         "short_name" : "米谷工業高校"
+         "short_name" : "米谷工業高校",
+         "url" : "http://maiya-th.myswan.ne.jp/"
       },
       "宮城県蔵王高等学校" : {
+         "location" : "宮城県刈田郡蔵王町大字曲竹字濁川添赤岩1-7",
          "location_area" : "刈田郡",
+         "location_wikipedia_latlon" : "|38|5|11.9|N|140|39|35.1|E|",
+         "location_zipcode" : "989-0851",
          "owner_type" : "県立",
-         "short_name" : "蔵王高校"
+         "school_area" : "刈田柴田学区",
+         "senior_high_school_code" : "04189A",
+         "short_name" : "蔵王高校",
+         "url" : "http://zao-h.myswan.ne.jp/"
       },
       "宮城県角田高等学校" : {
+         "location" : "宮城県角田市角田字牛舘1",
          "location_area" : "角田市",
+         "location_zipcode" : "981-1505",
          "owner_type" : "県立",
-         "short_name" : "角田高校"
+         "senior_high_school_code" : "04106J",
+         "short_name" : "角田高校",
+         "url" : "http://kakuko.myswan.ne.jp/"
       },
       "宮城県貞山高等学校" : {
+         "location" : "宮城県多賀城市鶴ヶ谷1-10-2",
          "location_area" : "多賀城市",
+         "location_zipcode" : "985-0841",
          "owner_type" : "県立",
-         "short_name" : "貞山高校"
+         "short_name" : "貞山高校",
+         "url" : "http://www.teizan.myswan.ne.jp/"
       },
       "宮城県農業高等学校" : {
+         "location" : "宮城県名取市下増田字広浦20-1",
          "location_area" : "名取市",
+         "location_zipcode" : "981-1201",
          "owner_type" : "県立",
-         "short_name" : "農業高校"
+         "senior_high_school_code" : "04140J",
+         "short_name" : "農業高校",
+         "url" : "http://miyanou.myswan.ne.jp/"
       },
       "宮城県迫桜高等学校" : {
+         "location" : "宮城県栗原市若柳字川南戸ノ西184",
          "location_area" : "栗原市",
+         "location_wikipedia_latlon" : "|38|46|14.8|N|141|7|6.8|E|",
+         "location_zipcode" : "989-5502",
          "owner_type" : "県立",
-         "short_name" : "迫桜高校"
+         "school_area" : "栗原学区",
+         "short_name" : "迫桜高校",
+         "url" : "http://hakuou.myswan.ne.jp/"
       },
       "宮城県鶯沢工業高等学校" : {
+         "location" : "宮城県栗原市鶯沢字南郷下新反田1-1",
          "location_area" : "栗原市",
+         "location_wikipedia_latlon" : "|38|48|29.8|N|140|55|42.7|E|",
+         "location_zipcode" : "989-5402",
          "owner_type" : "県立",
-         "short_name" : "鶯沢工業高校"
+         "school_area" : "栗原学区",
+         "senior_high_school_code" : "04158A",
+         "short_name" : "鶯沢工業高校",
+         "url" : "http://ugutech.myswan.ne.jp/"
       },
       "宮城県鹿島台商業高等学校" : {
+         "location" : "宮城県大崎市鹿島台広長字杢師前44",
          "location_area" : "大崎市",
+         "location_wikipedia_latlon" : "|38|29|16.4|N|141|5|8.7|E|",
+         "location_zipcode" : "989-4104",
          "owner_type" : "県立",
-         "short_name" : "鹿島台商業高校"
+         "short_name" : "鹿島台商業高校",
+         "url" : "http://kasimadai-ch.myswan.ne.jp/"
       },
       "宮城県黒川高等学校" : {
+         "location" : "宮城県黒川郡大和町吉岡字東柴崎62",
          "location_area" : "黒川郡",
+         "location_zipcode" : "981-3685",
          "owner_type" : "県立",
-         "short_name" : "黒川高校"
+         "senior_high_school_code" : "04148D",
+         "short_name" : "黒川高校",
+         "url" : "http://www.kurokawa.myswan.ne.jp/"
       },
       "尚絅学院高等学校" : {
+         "location" : "宮城県仙台市青葉区広瀬町9-1",
+         "location_wikipedia_latlon" : "|38|16|3.2|N|140|51|22.9|E|",
+         "location_zipcode" : "980-0873",
          "owner_type" : "私立",
+         "senior_high_school_code" : "04507B",
          "short_name" : "尚絅学院高校",
+         "url" : "http://www.shokei.ed.jp/index.cfm/1.html",
          "wikipedia_name" : "尚絅学院中学校・高等学校"
       },
       "常盤木学園高等学校" : {
+         "location" : "宮城県仙台市青葉区小田原四丁目3番20号",
+         "location_zipcode" : "980-0003",
          "owner_type" : "私立",
-         "short_name" : "常盤木学園高校"
+         "short_name" : "常盤木学園高校",
+         "url" : "http://www.tokiwagi.ed.jp/index.shtml"
       },
       "明成高等学校" : {
+         "location" : "宮城県仙台市青葉区川平二丁目26番1号",
+         "location_zipcode" : "981-8570",
          "owner_type" : "私立",
          "short_name" : "明成高校",
+         "url" : "http://www.hgm.ed.jp/",
          "wikipedia_name" : "明成高等学校 (宮城県)"
       },
       "東北学院榴ヶ岡高等学校" : {
+         "location" : "宮城県仙台市泉区天神沢二丁目2-1",
+         "location_zipcode" : "981-3105",
          "owner_type" : "私立",
-         "short_name" : "東北学院榴ヶ岡高校"
+         "senior_high_school_code" : "04504H",
+         "short_name" : "東北学院榴ヶ岡高校",
+         "url" : "http://www.tutuji.tohoku-gakuin.ac.jp/"
       },
       "東北学院高等学校" : {
+         "location" : "仙台市宮城野区小鶴字高野123-1",
+         "location_wikipedia_latlon" : "|38|16|35.8|N|140|56|36.5|E|",
+         "location_zipcode" : "983-8565",
          "owner_type" : "私立",
+         "senior_high_school_code" : "04503K",
          "short_name" : "東北学院高校",
+         "url" : "http://www.jhs.tohoku-gakuin.ac.jp/",
          "wikipedia_name" : "東北学院中学校・高等学校"
       },
       "東北工業大学高等学校" : {
+         "location" : "宮城県仙台市太白区八木山松波町5番1号",
+         "location_zipcode" : "982-0836",
          "owner_type" : "私立",
-         "short_name" : "東北工業大学高校"
+         "short_name" : "東北工業大学高校",
+         "url" : "http://www.tohtech-h.ed.jp/"
       },
       "東北生活文化大学高等学校" : {
          "owner_type" : "私立",
          "short_name" : "東北生活文化大学高校"
       },
       "東北高等学校" : {
+         "location" : "宮城県仙台市青葉区小松島四丁目3番1号",
+         "location_zipcode" : "981-0905",
          "owner_type" : "私立",
-         "short_name" : "東北高校"
+         "senior_high_school_code" : "04502A",
+         "short_name" : "東北高校",
+         "url" : "http://www.tohoku.ed.jp/"
       },
       "東陵高等学校" : {
          "owner_type" : "私立",
          "short_name" : "東陵高校"
       },
       "気仙沼女子高等学校" : {
+         "location" : "宮城県気仙沼市入沢4-1",
+         "location_zipcode" : "988-0083",
          "owner_type" : "私立",
-         "short_name" : "気仙沼女子高校"
+         "short_name" : "気仙沼女子高校",
+         "url" : "http://www.k-macs.ne.jp/~kj01/"
       },
       "石巻市立女子商業高等学校" : {
+         "location" : "宮城県石巻市渡波字浜曽根山1",
+         "location_zipcode" : "986-2135",
          "owner_type" : "市立",
-         "short_name" : "女子商業高校"
+         "senior_high_school_code" : "04174C",
+         "short_name" : "女子商業高校",
+         "url" : "http://(Web"
       },
       "石巻市立女子高等学校" : {
+         "location" : "宮城県石巻市日和が丘二丁目11番8号",
+         "location_zipcode" : "986-0833",
          "owner_type" : "市立",
-         "short_name" : "女子高校"
+         "senior_high_school_code" : "04169G",
+         "short_name" : "女子高校",
+         "url" : "http://www.mediaship.ne.jp/~hsishig/"
       },
       "聖ウルスラ学院英智高等学校" : {
+         "location" : "仙台市若林区一本杉町1番2号",
+         "location_zipcode" : "984-0828",
          "owner_type" : "私立",
-         "short_name" : "聖ウルスラ学院英智高校"
+         "short_name" : "聖ウルスラ学院英智高校",
+         "url" : "http://www.st-ursula.ac.jp/index.php"
       },
       "聖ドミニコ学院高等学校" : {
+         "location" : "宮城県仙台市青葉区角五郎2-2-14",
+         "location_zipcode" : "980-0874",
          "owner_type" : "私立",
          "short_name" : "聖ドミニコ学院高校",
+         "url" : "http://www.dominic.ac.jp/",
          "wikipedia_name" : "聖ドミニコ学院中学校・高等学校"
       },
       "聖和学園高等学校" : {
+         "location" : "宮城県仙台市若林区木ノ下三丁目4番1号",
+         "location_zipcode" : "984-0047",
          "owner_type" : "私立",
-         "short_name" : "聖和学園高校"
+         "senior_high_school_code" : "04509J",
+         "short_name" : "聖和学園高校",
+         "url" : "http://www.seiwa.ac.jp/highschool/"
       },
       "西山学院高等学校" : {
+         "location" : "宮城県刈田郡七ケ宿町字矢立平4番5号",
+         "location_zipcode" : "989-0533",
          "owner_type" : "私立",
-         "short_name" : "西山学院高校"
+         "senior_high_school_code" : "04519F",
+         "short_name" : "西山学院高校",
+         "url" : "http://www5.ocn.ne.jp/~nisiyama/"
       }
    }
 }

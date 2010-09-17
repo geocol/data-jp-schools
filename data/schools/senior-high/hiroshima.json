@@ -1,35 +1,64 @@
 {
    "senior_high_schools" : {
       "AICJ高等学校" : {
+         "location" : "広島県広島市安佐南区祇園2-33-16",
+         "location_zipcode" : "731-0138",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34516E",
          "short_name" : "AICJ高校",
+         "url" : "http://www.aicj.ed.jp/",
          "wikipedia_name" : "AICJ中学校・高等学校"
       },
       "デネブ高等学校" : {
+         "location" : "広島県広島市中区中島町5-4",
+         "location_zipcode" : "730-8111",
          "owner_type" : "私立",
-         "short_name" : "デネブ高校"
+         "senior_high_school_code" : "34538F",
+         "short_name" : "デネブ高校",
+         "url" : "http://www.deneb-h.ed.jp/"
       },
       "ノートルダム清心高等学校" : {
+         "location" : "広島県広島市西区己斐東1-10-1",
+         "location_zipcode" : "733-0811",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34510F",
          "short_name" : "ノートルダム清心高校",
+         "url" : "http://www.hiro-seishin.ed.jp/",
          "wikipedia_name" : "ノートルダム清心中学校・高等学校"
       },
       "並木学院高等学校" : {
+         "location" : "広島県広島市中区小町8-32",
+         "location_wikipedia_latlon" : "|34|23|14.4|N|132|27|34.4|E|",
+         "location_zipcode" : "730-0041",
          "owner_type" : "私立",
-         "short_name" : "並木学院高校"
+         "senior_high_school_code" : "34541F",
+         "short_name" : "並木学院高校",
+         "url" : "http://www.namikigakuin.ac.jp/"
       },
       "修道高等学校" : {
+         "location" : "広島市中区南千田西町8番1号",
+         "location_zipcode" : "730-0055",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34501G",
          "short_name" : "修道高校",
+         "url" : "http://www.shudo-h.ed.jp/",
          "wikipedia_name" : "修道中学校・修道高等学校"
       },
       "呉市立呉高等学校" : {
+         "location" : "広島県呉市阿賀中央5-13-56",
+         "location_zipcode" : "737-0003",
          "owner_type" : "市立",
-         "short_name" : "呉高校"
+         "senior_high_school_code" : "34178K",
+         "short_name" : "呉高校",
+         "url" : "http://www.kure-city.jp/~kurek/top.html"
       },
       "呉武田学園呉港高等学校" : {
+         "location" : "広島県呉市広大新開三丁目3番4号",
+         "location_wikipedia_latlon" : "|34|13|58.8|N|132|37|45.3|E|",
+         "location_zipcode" : "737-0141",
          "owner_type" : "私立",
-         "short_name" : "呉武田学園呉港高校"
+         "short_name" : "呉武田学園呉港高校",
+         "url" : "http://www.goko.ac.jp/"
       },
       "呉青山高等学校" : {
          "owner_type" : "私立",
@@ -37,8 +66,13 @@
          "wikipedia_name" : "呉青山中学校・高等学校"
       },
       "如水館高等学校" : {
+         "location" : "広島県三原市深町1183",
+         "location_wikipedia_latlon" : "|34|26|17.0|N|133|8|27.6|E|",
+         "location_zipcode" : "723-8501",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34536K",
          "short_name" : "如水館高校",
+         "url" : "http://www.josuikan.ed.jp/",
          "wikipedia_name" : "如水館中学校・高等学校"
       },
       "安田女子高等学校" : {
@@ -47,34 +81,61 @@
          "wikipedia_name" : "安田女子中学校・高等学校"
       },
       "尾道市立広島県尾道南高等学校" : {
+         "location" : "広島県尾道市長江二丁目10-34",
+         "location_zipcode" : "722-0046",
          "owner_type" : "市立",
-         "short_name" : "広島県尾道南高校"
+         "short_name" : "広島県尾道南高校",
+         "url" : "http://www.bbbn.jp/~minamiko/"
       },
       "尾道高等学校" : {
+         "location" : "広島県尾道市向島町5548番地10",
+         "location_zipcode" : "722-0073",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34531J",
          "short_name" : "尾道高校",
+         "url" : "http://onomichi.ac.jp/",
          "wikipedia_name" : "尾道中学校・高等学校"
       },
       "山陽女学園高等部" : {
+         "location" : "広島県廿日市市佐方本町1-1",
+         "location_zipcode" : "738-8504",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34515G",
+         "url" : "http://www.sanyo-jogakuen.ed.jp/",
          "wikipedia_name" : "山陽女学園中等部・高等部"
       },
       "山陽高等学校" : {
+         "location" : "広島県広島市西区観音新町四丁目12番5号",
+         "location_zipcode" : "733-8551",
          "owner_type" : "私立",
-         "short_name" : "山陽高校"
+         "senior_high_school_code" : "34504A",
+         "short_name" : "山陽高校",
+         "url" : "http://www.sanyo.ed.jp/"
       },
       "崇徳高等学校" : {
+         "location" : "広島県広島市西区楠木町四丁目15番13号",
+         "location_zipcode" : "733-8511",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34502E",
          "short_name" : "崇徳高校",
+         "url" : "http://www.sotoku.ed.jp",
          "wikipedia_name" : "崇徳中学校・高等学校"
       },
       "師友塾高等学校" : {
+         "location" : "広島県尾道市東久保町20-14",
+         "location_zipcode" : "722-0043",
          "owner_type" : "私立",
-         "short_name" : "師友塾高校"
+         "senior_high_school_code" : "34542D",
+         "short_name" : "師友塾高校",
+         "url" : "http://www.shiyujuku.ed.jp/index.htm"
       },
       "広島なぎさ高等学校" : {
+         "location" : "広島県広島市佐伯区海老山南2-2-1",
+         "location_zipcode" : "731-5138",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34522K",
          "short_name" : "広島なぎさ高校",
+         "url" : "http://www.nagisa.ed.jp/",
          "wikipedia_name" : "広島なぎさ中学校・高等学校"
       },
       "広島三育学院高等学校" : {
@@ -87,28 +148,49 @@
          "short_name" : "広島国際学院高校"
       },
       "広島城北高等学校" : {
+         "location" : "広島県広島市東区戸坂城山町1-3",
+         "location_zipcode" : "732-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34521A",
          "short_name" : "広島城北高校",
+         "url" : "http://www.hiroshimajohoku.ed.jp/index.html",
          "wikipedia_name" : "広島城北中学校・高等学校"
       },
       "広島大学附属福山高等学校" : {
+         "location" : "広島県福山市春日町五丁目14番1号",
+         "location_zipcode" : "721-8551",
          "owner_type" : "国立",
+         "senior_high_school_code" : "34002C",
          "short_name" : "広島大学附属福山高校",
+         "url" : "http://www.fukuyama.hiroshima-u.ac.jp/",
          "wikipedia_name" : "広島大学附属福山中学校・高等学校"
       },
       "広島大学附属高等学校" : {
+         "location" : "広島県広島市南区翠一丁目1番1号",
+         "location_wikipedia_latlon" : "|34|22|20.9|N|132|27|55.5|E|",
+         "location_zipcode" : "734-0005",
          "owner_type" : "国立",
+         "senior_high_school_code" : "34001E",
          "short_name" : "広島大学附属高校",
+         "url" : "http://www.hiroshima-u.ac.jp/fsc/index.html",
          "wikipedia_name" : "広島大学附属中学校・高等学校"
       },
       "広島女学院高等学校" : {
+         "location" : "広島県広島市中区上幟町11-32",
+         "location_zipcode" : "730-0014",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34509B",
          "short_name" : "広島女学院高校",
+         "url" : "http://www.hjs.ed.jp/",
          "wikipedia_name" : "広島女学院中学校・高等学校"
       },
       "広島学院高等学校" : {
+         "location" : "広島県広島市西区古江上1丁目630番地",
+         "location_zipcode" : "733-0875",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34520C",
          "short_name" : "広島学院高校",
+         "url" : "http://www.hiroshimagakuin.ed.jp/",
          "wikipedia_name" : "広島学院中学校・高等学校"
       },
       "広島工業大学高等学校" : {
@@ -116,37 +198,66 @@
          "short_name" : "広島工業大学高校"
       },
       "広島市立基町高等学校" : {
+         "location" : "広島県広島市中区西白島町25番1号",
+         "location_wikipedia_latlon" : "|34|24|14.7|N|132|27|35.2|E|",
+         "location_zipcode" : "730-0005",
          "owner_type" : "市立",
-         "short_name" : "基町高校"
+         "senior_high_school_code" : "34174G",
+         "short_name" : "基町高校",
+         "url" : "http://www.motomachi-h.edu.city.hiroshima.jp/"
       },
       "広島市立大手町商業高等学校" : {
          "owner_type" : "市立",
          "short_name" : "大手町商業高校"
       },
       "広島市立安佐北高等学校" : {
+         "location" : "広島県広島市安佐北区三入東一丁目14番1号",
+         "location_zipcode" : "731-0212",
          "owner_type" : "市立",
          "short_name" : "安佐北高校",
+         "url" : "http://www.asakita-h.edu.city.hiroshima.jp/",
          "wikipedia_name" : "広島市立安佐北中学校・高等学校"
       },
       "広島市立広島商業高等学校" : {
+         "location" : "広島県広島市東区牛田新町1-1-1",
+         "location_wikipedia_latlon" : "|34|25|21|N|132|28|11.6|E|",
+         "location_zipcode" : "732-0068",
          "owner_type" : "市立",
-         "short_name" : "広島商業高校"
+         "senior_high_school_code" : "34175E",
+         "short_name" : "広島商業高校",
+         "url" : "http://www.hiroshima-syogyo-h.edu.city.hiroshima.jp/"
       },
       "広島市立広島工業高等学校" : {
+         "location" : "広島県広島市南区東本浦町1-18",
+         "location_zipcode" : "734-0025",
          "owner_type" : "市立",
-         "short_name" : "広島工業高校"
+         "senior_high_school_code" : "34176C",
+         "short_name" : "広島工業高校",
+         "url" : "http://www.hiroshima-kougyo-h.edu.city.hiroshima.jp/index.htm"
       },
       "広島市立沼田高等学校" : {
+         "location" : "広島県広島市安佐南区伴東6丁目1番1号",
+         "location_zipcode" : "731-3164",
          "owner_type" : "市立",
-         "short_name" : "沼田高校"
+         "senior_high_school_code" : "34199B",
+         "short_name" : "沼田高校",
+         "url" : "http://www.numata-h.edu.city.hiroshima.jp/"
       },
       "広島市立美鈴が丘高等学校" : {
+         "location" : "広島県広島市佐伯区美鈴が丘緑二丁目13番1号",
+         "location_zipcode" : "731-5113",
          "owner_type" : "市立",
+         "senior_high_school_code" : "34201H",
          "short_name" : "美鈴が丘高校"
       },
       "広島市立舟入高等学校" : {
+         "location" : "広島県広島市中区舟入南1-4-4",
+         "location_wikipedia_latlon" : "|34|22|45.3|N|132|26|24.9|E|",
+         "location_zipcode" : "730-0847",
          "owner_type" : "市立",
-         "short_name" : "舟入高校"
+         "senior_high_school_code" : "34173J",
+         "short_name" : "舟入高校",
+         "url" : "http://www.funairi-h.edu.city.hiroshima.jp/"
       },
       "広島文教女子大学附属高等学校" : {
          "owner_type" : "私立",
@@ -158,20 +269,35 @@
          "wikipedia_name" : "広島新庄中学校・高等学校"
       },
       "広島桜が丘高等学校" : {
+         "location" : "広島県広島市東区山根町36-1",
+         "location_zipcode" : "732-0048",
          "owner_type" : "私立",
-         "short_name" : "広島桜が丘高校"
+         "senior_high_school_code" : "34523H",
+         "short_name" : "広島桜が丘高校",
+         "url" : "http://www.hsakuragaoka-h.ed.jp/"
       },
       "広島県瀬戸内高等学校" : {
+         "location" : "広島県広島市東区尾長西2-12-1",
+         "location_zipcode" : "732-0047",
          "owner_type" : "私立",
-         "short_name" : "広島県瀬戸内高校"
+         "senior_high_school_code" : "34505K",
+         "short_name" : "広島県瀬戸内高校",
+         "url" : "http://www.setouchi-h.ed.jp/"
       },
       "広島県立三原東高等学校" : {
+         "location" : "広島県三原市中之町2丁目7-1",
+         "location_zipcode" : "723-0003",
          "owner_type" : "県立",
-         "short_name" : "三原東高校"
+         "short_name" : "三原東高校",
+         "url" : "http://www.miharahigashi-h.hiroshima-c.ed.jp/"
       },
       "広島県立三原高等学校" : {
+         "location" : "広島県三原市宮沖町4丁目11-1",
+         "location_zipcode" : "723-0016",
          "owner_type" : "県立",
-         "short_name" : "三原高校"
+         "senior_high_school_code" : "34134H",
+         "short_name" : "三原高校",
+         "url" : "http://www.mihara-h.hiroshima-c.ed.jp//"
       },
       "広島県立三次青陵高等学校" : {
          "owner_type" : "県立",
@@ -182,16 +308,28 @@
          "short_name" : "三次高校"
       },
       "広島県立上下高等学校" : {
+         "location" : "広島県府中市上下町上下566",
+         "location_zipcode" : "729-3431",
          "owner_type" : "県立",
-         "short_name" : "上下高校"
+         "short_name" : "上下高校",
+         "url" : "http://www.jyouge-h.hiroshima-c.ed.jp/"
       },
       "広島県立世羅高等学校" : {
+         "location" : "広島県世羅郡世羅町本郷870",
+         "location_zipcode" : "722-1112",
          "owner_type" : "県立",
-         "short_name" : "世羅高校"
+         "senior_high_school_code" : "34140B",
+         "short_name" : "世羅高校",
+         "url" : "http://www.sera-h.hiroshima-c.ed.jp/"
       },
       "広島県立五日市高等学校" : {
+         "location" : "広島県広島市佐伯区観音台3丁目15番1号",
+         "location_wikipedia_latlon" : "|34|23|15.6|N|132|20|25.2|E|",
+         "location_zipcode" : "731-5157",
          "owner_type" : "県立",
-         "short_name" : "五日市高校"
+         "senior_high_school_code" : "34120H",
+         "short_name" : "五日市高校",
+         "url" : "http://www.itsukaichi-h.hiroshima-c.ed.jp/"
       },
       "広島県立佐伯高等学校" : {
          "owner_type" : "県立",
@@ -214,40 +352,72 @@
          "short_name" : "可部高校"
       },
       "広島県立吉田高等学校" : {
+         "location" : "広島県安芸高田市吉田町吉田719-3",
+         "location_zipcode" : "731-0501",
          "owner_type" : "県立",
-         "short_name" : "吉田高校"
+         "senior_high_school_code" : "34168B",
+         "short_name" : "吉田高校",
+         "url" : "http://www.yoshida-h.hiroshima-c.ed.jp/"
       },
       "広島県立向原高等学校" : {
+         "location" : "広島県安芸高田市向原町坂丸山6-1",
+         "location_zipcode" : "739-1201",
          "owner_type" : "県立",
-         "short_name" : "向原高校"
+         "short_name" : "向原高校",
+         "url" : "http://www.mukaihara-h.hiroshima-c.ed.jp/"
       },
       "広島県立呉三津田高等学校" : {
+         "location" : "広島県呉市山手1-5-1",
+         "location_wikipedia_latlon" : "|34|15|6|N|132|33|24.4|E|",
+         "location_zipcode" : "737-0814",
          "owner_type" : "県立",
-         "short_name" : "呉三津田高校"
+         "senior_high_school_code" : "34125J",
+         "short_name" : "呉三津田高校",
+         "url" : "http://www.kuremitsuta-h.hiroshima-c.ed.jp/"
       },
       "広島県立呉商業高等学校" : {
          "owner_type" : "県立",
          "short_name" : "呉商業高校"
       },
       "広島県立呉宮原高等学校" : {
+         "location" : "広島県呉市宮原3-1-1",
+         "location_zipcode" : "737-0024",
          "owner_type" : "県立",
-         "short_name" : "呉宮原高校"
+         "senior_high_school_code" : "34124A",
+         "short_name" : "呉宮原高校",
+         "url" : "http://www.kuremiyahara-h.hiroshima-c.ed.jp/"
       },
       "広島県立呉工業高等学校" : {
+         "location" : "広島県呉市阿賀北2丁目10-1",
+         "location_zipcode" : "739-1201",
          "owner_type" : "県立",
-         "short_name" : "呉工業高校"
+         "short_name" : "呉工業高校",
+         "url" : "http://www.kure-th.hiroshima-c.ed.jp/index.html"
       },
       "広島県立呉昭和高等学校" : {
+         "location" : "広島県呉市焼山町字山の神",
+         "location_zipcode" : "737-0905",
          "owner_type" : "県立",
-         "short_name" : "呉昭和高校"
+         "senior_high_school_code" : "34196H",
+         "short_name" : "呉昭和高校",
+         "url" : "http://www.kureshowa-h.hiroshima-c.ed.jp/"
       },
       "広島県立因島高等学校" : {
+         "location" : "広島県尾道市因島重井町5574",
+         "location_zipcode" : "722-2194",
          "owner_type" : "県立",
-         "short_name" : "因島高校"
+         "senior_high_school_code" : "34206J",
+         "short_name" : "因島高校",
+         "url" : "http://www.innoshima-h.hiroshima-c.ed.jp/"
       },
       "広島県立大和高等学校" : {
+         "location" : "広島県三原市大和町大具2362",
+         "location_wikipedia_latlon" : "|34|32|8.6|N|132|55|5.4|E|",
+         "location_zipcode" : "729-1323",
          "owner_type" : "県立",
-         "short_name" : "大和高校"
+         "senior_high_school_code" : "34191G",
+         "short_name" : "大和高校",
+         "url" : "http://www.daiwa-h.hiroshima-c.ed.jp/"
       },
       "広島県立大崎海星高等学校" : {
          "owner_type" : "県立",
@@ -262,77 +432,136 @@
          "short_name" : "大竹高校"
       },
       "広島県立大門高等学校" : {
+         "location" : "広島県福山市幕山台3丁目1番1号",
+         "location_zipcode" : "721-0913",
          "owner_type" : "県立",
-         "short_name" : "大門高校"
+         "senior_high_school_code" : "34159C",
+         "short_name" : "大門高校",
+         "url" : "http://www.daimon-h.hiroshima-c.ed.jp/"
       },
       "広島県立安古市高等学校" : {
+         "location" : "広島県広島市安佐南区毘沙門台3-3－1",
+         "location_zipcode" : "731-0152",
          "owner_type" : "県立",
-         "short_name" : "安古市高校"
+         "short_name" : "安古市高校",
+         "url" : "http://www.yasufuruichi-h.hiroshima-c.ed.jp/"
       },
       "広島県立安芸南高等学校" : {
+         "location" : "広島県広島市安芸区矢野西2丁目15-1",
+         "location_zipcode" : "736-0085",
          "owner_type" : "県立",
-         "short_name" : "安芸南高校"
+         "short_name" : "安芸南高校",
+         "url" : "http://www.akiminami-h.hiroshima-c.ed.jp///"
       },
       "広島県立安芸府中高等学校" : {
+         "location" : "広島県安芸郡府中町山田五丁目1-1",
+         "location_zipcode" : "735-0004",
          "owner_type" : "県立",
-         "short_name" : "安芸府中高校"
+         "short_name" : "安芸府中高校",
+         "url" : "http://www.akifuchu-h.hiroshima-c.ed.jp/index.html"
       },
       "広島県立安芸高等学校" : {
          "owner_type" : "県立",
          "short_name" : "安芸高校"
       },
       "広島県立安西高等学校" : {
+         "location" : "広島市安佐南区高取南二丁目52番1号",
+         "location_zipcode" : "731-0142",
          "owner_type" : "県立",
-         "short_name" : "安西高校"
+         "senior_high_school_code" : "34188G",
+         "short_name" : "安西高校",
+         "url" : "http://www.yasunishi-h.hiroshima-c.ed.jp/"
       },
       "広島県立宮島工業高等学校" : {
          "owner_type" : "県立",
          "short_name" : "宮島工業高校"
       },
       "広島県立尾道北高等学校" : {
+         "location" : "広島県尾道市長江三丁目7-1",
+         "location_zipcode" : "722-0046",
          "owner_type" : "県立",
-         "short_name" : "尾道北高校"
+         "short_name" : "尾道北高校",
+         "url" : "http://www.onomichikita-h.hiroshima-c.ed.jp/"
       },
       "広島県立尾道商業高等学校" : {
+         "location" : "広島県尾道市古浜町20-1",
+         "location_wikipedia_latlon" : "|34|23|52.4|N|133|10|15.8|E|",
+         "location_zipcode" : "722-0002",
          "owner_type" : "県立",
-         "short_name" : "尾道商業高校"
+         "senior_high_school_code" : "34133K",
+         "short_name" : "尾道商業高校",
+         "url" : "http://www.onomichi-ch.hiroshima-c.ed.jp/index.html"
       },
       "広島県立尾道東高等学校" : {
+         "location" : "広島県尾道市東久保町12-1",
+         "location_zipcode" : "722-0043",
          "owner_type" : "県立",
-         "short_name" : "尾道東高校"
+         "short_name" : "尾道東高校",
+         "url" : "http://www.onomichihigashi-h.hiroshima-c.ed.jp/"
       },
       "広島県立広島井口高等学校" : {
+         "location" : "広島県広島市西区井口明神2-11-1",
+         "location_zipcode" : "733-0841",
          "owner_type" : "県立",
-         "short_name" : "広島井口高校"
+         "senior_high_school_code" : "34184D",
+         "short_name" : "広島井口高校",
+         "url" : "http://www.inokuchi-h.hiroshima-c.ed.jp/"
       },
       "広島県立広島商業高等学校" : {
+         "location" : "広島県広島市中区舟入南6丁目7番11号",
+         "location_wikipedia_latlon" : "|34|22|31.8|N|132|26|1.9|E|",
+         "location_zipcode" : "730-0847",
          "owner_type" : "県立",
-         "short_name" : "広島商業高校"
+         "senior_high_school_code" : "34105D",
+         "short_name" : "広島商業高校",
+         "url" : "http://www.hiroshima-ch.hiroshima-c.ed.jp/"
       },
       "広島県立広島国泰寺高等学校" : {
+         "location" : "広島市中区国泰寺町1丁目2-49",
+         "location_wikipedia_latlon" : "|34|23|13.4|N|132|27|29.2|E|",
+         "location_zipcode" : "730-0042",
          "owner_type" : "県立",
-         "short_name" : "広島国泰寺高校"
+         "senior_high_school_code" : "34102K",
+         "short_name" : "広島国泰寺高校",
+         "url" : "http://www.kokutaiji-h.hiroshima-c.ed.jp/"
       },
       "広島県立広島工業高等学校" : {
+         "location" : "広島県広島市南区出汐二丁目4番75号",
+         "location_zipcode" : "734-0001",
          "owner_type" : "県立",
-         "short_name" : "広島工業高校"
+         "senior_high_school_code" : "34104F",
+         "short_name" : "広島工業高校",
+         "url" : "http://www.hiroshima-th.hiroshima-c.ed.jp/"
       },
       "広島県立広島皆実高等学校" : {
+         "location" : "広島県広島市南区出汐二丁目4-76",
+         "location_zipcode" : "734-0001",
          "owner_type" : "県立",
-         "short_name" : "広島皆実高校"
+         "senior_high_school_code" : "34103H",
+         "short_name" : "広島皆実高校",
+         "url" : "http://www.minami-h.hiroshima-c.ed.jp/"
       },
       "広島県立広島観音高等学校" : {
          "owner_type" : "県立",
          "short_name" : "広島観音高校"
       },
       "広島県立広島高等学校" : {
+         "location" : "東広島市高屋町中島31-7",
+         "location_zipcode" : "739-2115",
          "owner_type" : "県立",
+         "school_area" : "全県",
+         "senior_high_school_code" : "34208E",
          "short_name" : "広島高校",
+         "url" : "http://www.hcyuko.hiroshima-c.ed.jp/",
          "wikipedia_name" : "広島県立広島中学校・高等学校"
       },
       "広島県立広高等学校" : {
+         "location" : "広島県呉市広大新開3-6-44",
+         "location_zipcode" : "737-0141",
          "owner_type" : "県立",
-         "short_name" : "広高校"
+         "senior_high_school_code" : "34123B",
+         "short_name" : "広高校",
+         "url" : "http://www.hiro-h.hiroshima-c.ed.jp/"
       },
       "広島県立庄原実業高等学校" : {
          "owner_type" : "県立",
@@ -347,24 +576,40 @@
          "short_name" : "府中東高校"
       },
       "広島県立府中高等学校" : {
+         "location" : "広島県府中市出口町898",
+         "location_zipcode" : "726-0032",
          "owner_type" : "県立",
-         "short_name" : "府中高校"
+         "senior_high_school_code" : "34154B",
+         "short_name" : "府中高校",
+         "url" : "http://www.fucyu-h.hiroshima-c.ed.jp/"
       },
       "広島県立廿日市西高等学校" : {
+         "location" : "広島県廿日市市阿品台西6-1",
+         "location_zipcode" : "738-0055",
          "owner_type" : "県立",
-         "short_name" : "廿日市西高校"
+         "short_name" : "廿日市西高校",
+         "url" : "http://www.hatsukaichinishi-h.hiroshima-c.ed.jp/"
       },
       "広島県立廿日市高等学校" : {
+         "location" : "広島県廿日市市桜尾三丁目3番1号",
+         "location_wikipedia_latlon" : "|34|21|26|N|132|20|42.5|E|",
+         "location_zipcode" : "738-0004",
          "owner_type" : "県立",
-         "short_name" : "廿日市高校"
+         "senior_high_school_code" : "34108J",
+         "short_name" : "廿日市高校",
+         "url" : "http://www.hatsukaichi-h.hiroshima-c.ed.jp/"
       },
       "広島県立御調高等学校" : {
          "owner_type" : "県立",
          "short_name" : "御調高校"
       },
       "広島県立忠海高等学校" : {
+         "location" : "広島県竹原市忠海床浦4-4-1",
+         "location_zipcode" : "729-2314",
          "owner_type" : "県立",
-         "short_name" : "忠海高校"
+         "senior_high_school_code" : "34136D",
+         "short_name" : "忠海高校",
+         "url" : "http://www.tadanoumi-h.hiroshima-c.ed.jp/"
       },
       "広島県立戸手高等学校" : {
          "owner_type" : "県立",
@@ -379,36 +624,61 @@
          "short_name" : "東城高校"
       },
       "広島県立東高等学校" : {
+         "location" : "広島県福山市木之庄町6丁目11-2",
+         "location_zipcode" : "720-0082",
          "owner_type" : "県立",
-         "short_name" : "東高校"
+         "senior_high_school_code" : "34203D",
+         "short_name" : "東高校",
+         "url" : "http://www.hiroshimahigashi-h.hiroshima-c.ed.jp/"
       },
       "広島県立松永高等学校" : {
          "owner_type" : "県立",
          "short_name" : "松永高校"
       },
       "広島県立河内高等学校" : {
+         "location" : "広島県東広島市河内町下河内194番地2",
+         "location_wikipedia_latlon" : "|34|27|56|N|132|54|6.9|E|",
+         "location_zipcode" : "739-2202",
          "owner_type" : "県立",
-         "short_name" : "河内高校"
+         "senior_high_school_code" : "34118F",
+         "short_name" : "河内高校",
+         "url" : "http://www.kouchi-h.hiroshima-c.ed.jp/"
       },
       "広島県立油木高等学校" : {
          "owner_type" : "県立",
          "short_name" : "油木高校"
       },
       "広島県立沼南高等学校" : {
+         "location" : "広島県福山市沼隈町下山南4",
+         "location_zipcode" : "720-0403",
          "owner_type" : "県立",
-         "short_name" : "沼南高校"
+         "senior_high_school_code" : "34151H",
+         "short_name" : "沼南高校",
+         "url" : "http://www.syonan-h.hiroshima-c.ed.jp/"
       },
       "広島県立海田高等学校" : {
+         "location" : "広島県安芸郡海田町つくも町1番60号",
+         "location_zipcode" : "736-0051",
          "owner_type" : "県立",
-         "short_name" : "海田高校"
+         "short_name" : "海田高校",
+         "url" : "http://www.kaita-h.hiroshima-c.ed.jp/"
       },
       "広島県立湯来南高等学校" : {
+         "location" : "広島県広島市佐伯区湯来町伏谷1198番地",
+         "location_zipcode" : "738-0513",
          "owner_type" : "県立",
-         "short_name" : "湯来南高校"
+         "senior_high_school_code" : "34198D",
+         "short_name" : "湯来南高校",
+         "url" : "http://www.yukiminami-h.hiroshima-c.ed.jp/"
       },
       "広島県立瀬戸田高等学校" : {
+         "location" : "広島県尾道市瀬戸田町名荷1110-2",
+         "location_wikipedia_latlon" : "|34|18|46.5|N|133|7|30.2|E|",
+         "location_zipcode" : "722-2417",
          "owner_type" : "県立",
-         "short_name" : "瀬戸田高校"
+         "senior_high_school_code" : "34143G",
+         "short_name" : "瀬戸田高校",
+         "url" : "http://www.setoda-h.hiroshima-c.ed.jp/_top/index.htm"
       },
       "広島県立熊野高等学校" : {
          "owner_type" : "県立",
@@ -420,43 +690,69 @@
       },
       "広島県立祇園北高等学校" : {
          "owner_type" : "県立",
-         "short_name" : "祇園北高校"
+         "short_name" : "祇園北高校",
+         "url" : "http://www.gionkita-h.hiroshima-c.ed.jp/"
       },
       "広島県立神辺旭高等学校" : {
+         "location" : "広島県福山市神辺町徳田75-1",
+         "location_wikipedia_latlon" : "|34|33|6.1|N|133|22|33.8|E|",
+         "location_zipcode" : "720-2126",
          "owner_type" : "県立",
-         "short_name" : "神辺旭高校"
+         "senior_high_school_code" : "34190J",
+         "short_name" : "神辺旭高校",
+         "url" : "http://www.kannabeasahi-h.hiroshima-c.ed.jp/"
       },
       "広島県立神辺高等学校" : {
          "owner_type" : "県立",
          "short_name" : "神辺高校"
       },
       "広島県立福山商業高等学校" : {
+         "location" : "広島県福山市水呑町3535",
+         "location_zipcode" : "720-0832",
          "owner_type" : "県立",
-         "short_name" : "福山商業高校"
+         "senior_high_school_code" : "34153D",
+         "short_name" : "福山商業高校",
+         "url" : "http://www.fukuyama-ch.hiroshima-c.ed.jp/"
       },
       "広島県立福山工業高等学校" : {
+         "location" : "広島県福山市野上町3-9-2",
+         "location_zipcode" : "720-0815",
          "owner_type" : "県立",
-         "short_name" : "福山工業高校"
+         "senior_high_school_code" : "34149F",
+         "short_name" : "福山工業高校",
+         "url" : "http://www.fukuyama-th.hiroshima-c.ed.jp/"
       },
       "広島県立福山明王台高等学校" : {
          "owner_type" : "県立",
          "short_name" : "福山明王台高校"
       },
       "広島県立福山葦陽高等学校" : {
+         "location" : "広島県福山市久松台3-1-1",
+         "location_zipcode" : "720-0083",
          "owner_type" : "県立",
-         "short_name" : "福山葦陽高校"
+         "senior_high_school_code" : "34148H",
+         "short_name" : "福山葦陽高校",
+         "url" : "http://www.fukuyamaiyo-h.hiroshima-c.ed.jp/"
       },
       "広島県立福山誠之館高等学校" : {
+         "location" : "広島県福山市木之庄町6丁目11-1",
+         "location_zipcode" : "720-0082",
          "owner_type" : "県立",
-         "short_name" : "福山誠之館高校"
+         "senior_high_school_code" : "34147K",
+         "short_name" : "福山誠之館高校",
+         "url" : "http://www.fukuyamaseishikan-h.hiroshima-c.ed.jp/"
       },
       "広島県立竹原高等学校" : {
          "owner_type" : "県立",
          "short_name" : "竹原高校"
       },
       "広島県立総合技術高等学校" : {
+         "location" : "広島県三原市本郷南5-25-1",
+         "location_wikipedia_latlon" : "|34|24|29.1|N|132|59|15.5|E|",
+         "location_zipcode" : "729-0417",
          "owner_type" : "県立",
-         "short_name" : "総合技術高校"
+         "short_name" : "総合技術高校",
+         "url" : "http://www.sougou-th.hiroshima-c.ed.jp/"
       },
       "広島県立自彊高等学校" : {
          "owner_type" : "県立",
@@ -471,28 +767,55 @@
          "short_name" : "西城紫水高校"
       },
       "広島県立西条農業高等学校" : {
+         "location" : "広島県東広島市鏡山3-16-1",
+         "location_wikipedia_latlon" : "|34|23|43.5|N|132|43|56.9|E|",
+         "location_zipcode" : "739-0046",
          "owner_type" : "県立",
-         "short_name" : "西条農業高校"
+         "school_area" : "広島県",
+         "short_name" : "西条農業高校",
+         "url" : "http://www.saijyo-ah.hiroshima-c.ed.jp/"
       },
       "広島県立西高等学校" : {
+         "location" : "広島県広島市中区国泰寺町1丁目2-49",
+         "location_wikipedia_latlon" : "|34|23|13.2|N|132|27|24.5|E|",
+         "location_zipcode" : "730-0042",
          "owner_type" : "県立",
-         "short_name" : "西高校"
+         "senior_high_school_code" : "34202F",
+         "short_name" : "西高校",
+         "url" : "http://www.hiroshimanishi-h.hiroshima-c.ed.jp/"
       },
       "広島県立豊田高等学校" : {
+         "location" : "広島県東広島市安芸津町小松原1202-4",
+         "location_wikipedia_latlon" : "|34|17|52.7|N|132|47|43|E|",
+         "location_zipcode" : "739-2405",
          "owner_type" : "県立",
-         "short_name" : "豊田高校"
+         "senior_high_school_code" : "34185B",
+         "short_name" : "豊田高校",
+         "url" : "http://www.toyota-h.hiroshima-c.ed.jp/"
       },
       "広島県立賀茂北高等学校" : {
+         "location" : "広島県東広島市豊栄町乃美632番地",
+         "location_wikipedia_latlon" : "|34|33|54|N|132|48|7.6|E|",
+         "location_zipcode" : "739-2311",
          "owner_type" : "県立",
-         "short_name" : "賀茂北高校"
+         "senior_high_school_code" : "34117H",
+         "short_name" : "賀茂北高校",
+         "url" : "http://www.kamokita-h.hiroshima-c.ed.jp/"
       },
       "広島県立賀茂高等学校" : {
+         "location" : "広島県東広島市西条西本町16番22号",
+         "location_wikipedia_latlon" : "|34|25|37.5|N|132|44|4.9|E|",
+         "location_zipcode" : "739-0043",
          "owner_type" : "県立",
-         "short_name" : "賀茂高校"
+         "short_name" : "賀茂高校",
+         "url" : "http://www.kamo-h.hiroshima-c.ed.jp//"
       },
       "広島県立音戸高等学校" : {
+         "location" : "広島県呉市音戸町北隠渡1丁目1番1号",
+         "location_zipcode" : "737-1204",
          "owner_type" : "県立",
-         "short_name" : "音戸高校"
+         "short_name" : "音戸高校",
+         "url" : "http://www.ondo-h.hiroshima-c.ed.jp/"
       },
       "広島県立高宮高等学校" : {
          "owner_type" : "県立",
@@ -507,29 +830,54 @@
          "short_name" : "高陽高校"
       },
       "広島県立黒瀬高等学校" : {
+         "location" : "広島県東広島市黒瀬町乃美尾1番地",
+         "location_wikipedia_latlon" : "|34|20|42.1|N|132|41|47.3|E|",
+         "location_zipcode" : "739-2622",
          "owner_type" : "県立",
-         "short_name" : "黒瀬高校"
+         "senior_high_school_code" : "34119D",
+         "short_name" : "黒瀬高校",
+         "url" : "http://www.kurose-h.hiroshima-c.ed.jp/"
       },
       "広島翔洋高等学校" : {
+         "location" : "広島県安芸郡坂町平成ヶ浜3-3-16",
+         "location_zipcode" : "731-4312",
          "owner_type" : "私立",
-         "short_name" : "広島翔洋高校"
+         "senior_high_school_code" : "34511D",
+         "short_name" : "広島翔洋高校",
+         "url" : "http://www.h-shoyo.ed.jp/"
       },
       "広島音楽高等学校" : {
+         "location" : "広島県広島市西区己斐東一丁目13番1号",
+         "location_zipcode" : "733-0811",
          "owner_type" : "私立",
-         "short_name" : "広島音楽高校"
+         "senior_high_school_code" : "34512B",
+         "short_name" : "広島音楽高校",
+         "url" : "http://www.ongaku-koukou.ac.jp/"
       },
       "広陵高等学校" : {
+         "location" : "広島県広島市安佐南区沼田町伴4754番地",
+         "location_zipcode" : "731-3161",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34503C",
          "short_name" : "広陵高校",
+         "url" : "http://www.koryo.ac.jp/",
          "wikipedia_name" : "広陵高等学校 (広島県)"
       },
       "東林館高等学校" : {
+         "location" : "広島県神石郡神石高原町井関2696",
+         "location_zipcode" : "720-1602",
          "owner_type" : "私立",
-         "short_name" : "東林館高校"
+         "senior_high_school_code" : "34539D",
+         "short_name" : "東林館高校",
+         "url" : "http://www.tohrinkan.com/"
       },
       "武田高等学校" : {
+         "location" : "広島県東広島市黒瀬町大多田443-5",
+         "location_wikipedia_latlon" : "|34|21|27|N|132|40|40.5|E|",
+         "location_zipcode" : "739-2611",
          "owner_type" : "私立",
          "short_name" : "武田高校",
+         "url" : "http://www.takeda.ed.jp/",
          "wikipedia_name" : "武田中学校・高等学校"
       },
       "比治山女子高等学校" : {
@@ -551,28 +899,49 @@
          "short_name" : "福山高校"
       },
       "福山暁の星女子高等学校" : {
+         "location" : "広島県福山市西深津町三丁目4番1号",
+         "location_zipcode" : "721-8545",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34528J",
          "short_name" : "福山暁の星女子高校",
+         "url" : "http://www.akenohoshi.ed.jp/",
          "wikipedia_name" : "福山暁の星女子中学校・高等学校"
       },
       "英数学館高等学校" : {
+         "location" : "広島県福山市引野町980-1",
+         "location_zipcode" : "721-8502",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34535A",
          "short_name" : "英数学館高校",
+         "url" : "http://www.eisu-ejs.ac.jp/",
          "wikipedia_name" : "英数学館小学校・中学校・高等学校"
       },
       "近畿大学附属東広島高等学校" : {
+         "location" : "広島県東広島市高屋うめの辺2",
+         "location_wikipedia_latlon" : "|34|27|26.4|N|132|46|57.7|E|",
+         "location_zipcode" : "739-2116",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34537H",
          "short_name" : "近畿大学附属東広島高校",
+         "url" : "http://kindai-hh.ed.jp/",
          "wikipedia_name" : "近畿大学附属東広島高等学校・中学校"
       },
       "近畿大学附属福山高等学校" : {
+         "location" : "広島県福山市佐波町389",
+         "location_zipcode" : "720-0835",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34529G",
          "short_name" : "近畿大学附属福山高校",
+         "url" : "http://fukuyama-kindai-fuzoku.jp/index.html",
          "wikipedia_name" : "近畿大学附属福山高等学校・中学校"
       },
       "進徳女子高等学校" : {
+         "location" : "広島市南区皆実町1-1-58",
+         "location_zipcode" : "734-0007",
          "owner_type" : "私立",
-         "short_name" : "進徳女子高校"
+         "senior_high_school_code" : "34506H",
+         "short_name" : "進徳女子高校",
+         "url" : "http://www.shintoku.ed.jp/"
       },
       "鈴峯女子高等学校" : {
          "owner_type" : "私立",

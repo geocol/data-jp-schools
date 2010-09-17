@@ -1,39 +1,71 @@
 {
    "senior_high_schools" : {
       "一関修紅高等学校" : {
+         "location" : "岩手県一関市東花王町6-1",
          "location_area" : "一関市",
+         "location_zipcode" : "021-0807",
          "owner_type" : "私立",
-         "short_name" : "一関修紅高校"
+         "senior_high_school_code" : "03509C",
+         "short_name" : "一関修紅高校",
+         "url" : "http://www.shuko.ed.jp/"
       },
       "一関学院高等学校" : {
+         "location" : "岩手県一関市八幡町5番24号",
          "location_area" : "一関市",
+         "location_wikipedia_latlon" : "|38|55|25.928|N|141|7|58.534|E",
+         "location_zipcode" : "021-0871",
          "owner_type" : "私立",
-         "short_name" : "一関学院高校"
+         "senior_high_school_code" : "03510G",
+         "short_name" : "一関学院高校",
+         "url" : "http://ichinoseki-gakuin.jp/"
       },
       "協和学院水沢第一高等学校" : {
+         "location" : "岩手県奥州市水沢区字森下20－1",
          "location_area" : "奥州市",
+         "location_wikipedia_latlon" : "|39|7|23.1|N|141|6|44.5|E|",
+         "location_zipcode" : "024-8508",
          "owner_type" : "私立",
-         "short_name" : "協和学院水沢第一高校"
+         "senior_high_school_code" : "03513A",
+         "short_name" : "協和学院水沢第一高校",
+         "url" : "http://www.mizuichi.ed.jp/"
       },
       "専修大学北上高等学校" : {
+         "location" : "岩手県北上市新穀町2-4-64",
          "location_area" : "北上市",
+         "location_zipcode" : "024-8508",
          "owner_type" : "私立",
-         "short_name" : "専修大学北上高校"
+         "senior_high_school_code" : "03511E",
+         "short_name" : "専修大学北上高校",
+         "url" : "http://www.senshu-u-kitakami.ed.jp/"
       },
       "岩手女子高等学校" : {
+         "location" : "岩手県盛岡市大沢川原1-5-34",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|41|58.7|N|141|8|45.5|E|",
+         "location_zipcode" : "020-0025",
          "owner_type" : "私立",
-         "short_name" : "岩手女子高校"
+         "senior_high_school_code" : "03503D",
+         "short_name" : "岩手女子高校",
+         "url" : "http://www.iwatejoshi-h.ed.jp/"
       },
       "岩手県立一戸高等学校" : {
+         "location" : "岩手県二戸郡一戸町一戸字蒔前60-1",
          "location_area" : "二戸郡",
+         "location_zipcode" : "028-5312",
          "owner_type" : "県立",
-         "short_name" : "一戸高校"
+         "senior_high_school_code" : "03175F",
+         "short_name" : "一戸高校",
+         "url" : "http://www2.iwate-ed.jp/inh-h/"
       },
       "岩手県立一関工業高等学校" : {
+         "location" : "岩手県一関市萩荘字釜ケ渕50",
          "location_area" : "一関市",
+         "location_wikipedia_latlon" : "|38|55|39.7|N|141|6|38.3|E|",
+         "location_zipcode" : "021-0902",
          "owner_type" : "県立",
-         "short_name" : "一関工業高校"
+         "senior_high_school_code" : "03139K",
+         "short_name" : "一関工業高校",
+         "url" : "http://www2.iwate-ed.jp/ict-h/"
       },
       "岩手県立一関第一高等学校" : {
          "location_area" : "一関市",
@@ -41,14 +73,23 @@
          "short_name" : "一関第一高校"
       },
       "岩手県立一関第二高等学校" : {
+         "location" : "岩手県一関市赤荻字野中23-1",
          "location_area" : "一関市",
+         "location_zipcode" : "021-0041",
          "owner_type" : "県立",
-         "short_name" : "一関第二高校"
+         "senior_high_school_code" : "03137C",
+         "short_name" : "一関第二高校",
+         "url" : "http://www2.iwate-ed.jp/ic2-h/"
       },
       "岩手県立不来方高等学校" : {
+         "location" : "岩手県紫波郡矢巾町南矢幅9-1-1",
          "location_area" : "紫波郡",
+         "location_wikipedia_latlon" : "|39|36|31.9|N|141|9|18.4|E|",
+         "location_zipcode" : "028-3615",
          "owner_type" : "県立",
-         "short_name" : "不来方高校"
+         "senior_high_school_code" : "03181A",
+         "short_name" : "不来方高校",
+         "url" : "http://www2.iwate-ed.jp/koz-h/"
       },
       "岩手県立久慈工業高等学校" : {
          "location_area" : "九戸郡",
@@ -61,9 +102,12 @@
          "short_name" : "久慈東高校"
       },
       "岩手県立久慈高等学校" : {
+         "location" : "岩手県久慈市畑田第26地割96番",
          "location_area" : "久慈市",
+         "location_zipcode" : "028-0033",
          "owner_type" : "県立",
-         "short_name" : "久慈高校"
+         "short_name" : "久慈高校",
+         "url" : "http://www2.iwate-ed.jp/kuj-h/"
       },
       "岩手県立久慈高等学校長内校" : {
          "location_area" : "久慈市",
@@ -71,9 +115,13 @@
          "short_name" : "久慈高校長内校"
       },
       "岩手県立伊保内高等学校" : {
+         "location" : "岩手県九戸郡九戸村大字伊保内第1地割61-12",
          "location_area" : "九戸郡",
+         "location_zipcode" : "028-6502",
          "owner_type" : "県立",
-         "short_name" : "伊保内高校"
+         "senior_high_school_code" : "03171C",
+         "short_name" : "伊保内高校",
+         "url" : "http://www2.iwate-ed.jp/ibn-h/"
       },
       "岩手県立住田高等学校" : {
          "location_area" : "気仙郡",
@@ -81,54 +129,93 @@
          "short_name" : "住田高校"
       },
       "岩手県立前沢高等学校" : {
+         "location" : "岩手県奥州市前沢区字狐石26番地1",
          "location_area" : "奥州市",
+         "location_wikipedia_latlon" : "|39|3|48.1|N|141|7|20.4|E|",
+         "location_zipcode" : "029-4206",
          "owner_type" : "県立",
-         "short_name" : "前沢高校"
+         "senior_high_school_code" : "03130F",
+         "short_name" : "前沢高校",
+         "url" : "http://www2.iwate-ed.jp/mae-h/"
       },
       "岩手県立北上翔南高等学校" : {
+         "location" : "岩手県北上市相去町高前檀13",
          "location_area" : "北上市",
+         "location_zipcode" : "024-0051",
          "owner_type" : "県立",
-         "short_name" : "北上翔南高校"
+         "senior_high_school_code" : "03121G",
+         "short_name" : "北上翔南高校",
+         "url" : "http://www2.iwate-ed.jp/kss-h/"
       },
       "岩手県立千厩高等学校" : {
+         "location" : "岩手県一関市千厩町千厩字石堂45-2",
          "location_area" : "一関市",
+         "location_zipcode" : "029-0855",
          "owner_type" : "県立",
-         "short_name" : "千厩高校"
+         "short_name" : "千厩高校",
+         "url" : "http://www2.iwate-ed.jp/sen-h/"
       },
       "岩手県立大東高等学校" : {
+         "location" : "岩手県一関市大東町摺沢字堀河ノ沢34-4",
          "location_area" : "一関市",
+         "location_zipcode" : "029-0523",
          "owner_type" : "県立",
-         "short_name" : "大東高校"
+         "short_name" : "大東高校",
+         "url" : "http://www2.iwate-ed.jp/dai-h/"
       },
       "岩手県立大槌高等学校" : {
+         "location" : "岩手県上閉伊郡大槌町大槌第15地割71-1",
          "location_area" : "上閉伊郡",
+         "location_zipcode" : "028-1131",
          "owner_type" : "県立",
-         "short_name" : "大槌高校"
+         "senior_high_school_code" : "03158F",
+         "short_name" : "大槌高校",
+         "url" : "http://www2.iwate-ed.jp/oht-h/"
       },
       "岩手県立大船渡東高等学校" : {
+         "location" : "岩手県大船渡市立根町冷清水1-1",
          "location_area" : "大船渡市",
+         "location_zipcode" : "022-0006",
          "owner_type" : "県立",
-         "short_name" : "大船渡東高校"
+         "senior_high_school_code" : "03184E",
+         "short_name" : "大船渡東高校",
+         "url" : "http://www2.iwate-ed.jp/oft-h/"
       },
       "岩手県立大船渡高等学校" : {
+         "location" : "岩手県大船渡市猪川町字長洞7-1",
          "location_area" : "大船渡市",
+         "location_zipcode" : "022-0004",
          "owner_type" : "県立",
-         "short_name" : "大船渡高校"
+         "senior_high_school_code" : "03148J",
+         "short_name" : "大船渡高校",
+         "url" : "http://www2.iwate-ed.jp/ofu-h/"
       },
       "岩手県立大迫高等学校" : {
+         "location" : "岩手県花巻市大迫町大迫第9地割19-1",
          "location_area" : "花巻市",
+         "location_zipcode" : "028-3203",
          "owner_type" : "県立",
-         "short_name" : "大迫高校"
+         "senior_high_school_code" : "03119E",
+         "short_name" : "大迫高校",
+         "url" : "http://www2.iwate-ed.jp/ooh-h/"
       },
       "岩手県立大野高等学校" : {
+         "location" : "岩手県九戸郡洋野町大野第58地割12-55",
          "location_area" : "九戸郡",
+         "location_zipcode" : "028-8802",
          "owner_type" : "県立",
-         "short_name" : "大野高校"
+         "senior_high_school_code" : "03169A",
+         "short_name" : "大野高校",
+         "url" : "http://www2.iwate-ed.jp/ohn-h/"
       },
       "岩手県立宮古北高等学校" : {
+         "location" : "岩手県宮古市田老字八幡水神43-2",
          "location_area" : "宮古市",
+         "location_wikipedia_latlon" : "|39|43|50.4|N|141|57|1.6|E|",
+         "location_zipcode" : "027-0352",
          "owner_type" : "県立",
-         "short_name" : "宮古北高校"
+         "short_name" : "宮古北高校",
+         "url" : "http://www2.iwate-ed.jp/myn-h/"
       },
       "岩手県立宮古商業高等学校" : {
          "location_area" : "宮古市",
@@ -136,9 +223,14 @@
          "short_name" : "宮古商業高校"
       },
       "岩手県立宮古工業高等学校" : {
+         "location" : "岩手県宮古市大字赤前第1地割81番地",
          "location_area" : "宮古市",
+         "location_wikipedia_latlon" : "|39|34|35.1|N|141|56|45.5|E|",
+         "location_zipcode" : "027-0202",
          "owner_type" : "県立",
-         "short_name" : "宮古工業高校"
+         "senior_high_school_code" : "03161F",
+         "short_name" : "宮古工業高校",
+         "url" : "http://www2.iwate-ed.jp/myt-h/"
       },
       "岩手県立宮古水産高等学校" : {
          "location_area" : "宮古市",
@@ -146,19 +238,31 @@
          "short_name" : "宮古水産高校"
       },
       "岩手県立宮古高等学校" : {
+         "location" : "岩手県宮古市宮町2-1-1",
          "location_area" : "宮古市",
+         "location_zipcode" : "027-0052",
          "owner_type" : "県立",
-         "short_name" : "宮古高校"
+         "senior_high_school_code" : "03160H",
+         "short_name" : "宮古高校",
+         "url" : "http://www2.iwate-ed.jp/myh-h/"
       },
       "岩手県立山田高等学校" : {
+         "location" : "岩手県下閉伊郡山田町織笠第8地割6番地2",
          "location_area" : "下閉伊郡",
+         "location_zipcode" : "028-1361",
          "owner_type" : "県立",
-         "short_name" : "山田高校"
+         "senior_high_school_code" : "03159D",
+         "short_name" : "山田高校",
+         "url" : "http://www2.iwate-ed.jp/ymd-h/"
       },
       "岩手県立岩泉高等学校" : {
+         "location" : "岩手県下閉伊郡岩泉町岩泉字松橋4",
          "location_area" : "下閉伊郡",
+         "location_zipcode" : "027-0501",
          "owner_type" : "県立",
-         "short_name" : "岩泉高校"
+         "senior_high_school_code" : "03164A",
+         "short_name" : "岩泉高校",
+         "url" : "http://www2.iwate-ed.jp/iwi-h/"
       },
       "岩手県立岩泉高等学校田野畑校" : {
          "location_area" : "下閉伊郡",
@@ -166,9 +270,13 @@
          "short_name" : "岩泉高校田野畑校"
       },
       "岩手県立岩谷堂高等学校" : {
+         "location" : "岩手県奥州市江刺区岩谷堂字根岸116",
          "location_area" : "奥州市",
+         "location_wikipedia_latlon" : "|39|12|19.3|N|141|10|12.4|E|",
+         "location_zipcode" : "023-1101",
          "owner_type" : "県立",
-         "short_name" : "岩谷堂高校"
+         "short_name" : "岩谷堂高校",
+         "url" : "http://www2.iwate-ed.jp/iyd-h/"
       },
       "岩手県立平舘高等学校" : {
          "location_area" : "八幡平市",
@@ -176,9 +284,14 @@
          "short_name" : "平舘高校"
       },
       "岩手県立杜陵高等学校" : {
+         "location" : "岩手県盛岡市上田二丁目3番1号",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|42|53.6|N|141|8|44.4|E|",
+         "location_zipcode" : "020-8543",
          "owner_type" : "県立",
-         "short_name" : "杜陵高校"
+         "senior_high_school_code" : "03106C",
+         "short_name" : "杜陵高校",
+         "url" : "http://www2.iwate-ed.jp/tor-h/"
       },
       "岩手県立杜陵高等学校奥州校" : {
          "location_area" : "奥州市",
@@ -201,9 +314,14 @@
          "short_name" : "水沢農業高校"
       },
       "岩手県立水沢高等学校" : {
+         "location" : "岩手県奥州市水沢区龍ヶ馬場5-1",
          "location_area" : "奥州市",
+         "location_wikipedia_latlon" : "|39|7|25.7|N|141|8|23.1|E|",
+         "location_zipcode" : "023-0864",
          "owner_type" : "県立",
-         "short_name" : "水沢高校"
+         "senior_high_school_code" : "03126H",
+         "short_name" : "水沢高校",
+         "url" : "http://www2.iwate-ed.jp/msw-h/"
       },
       "岩手県立沼宮内高等学校" : {
          "location_area" : "岩手郡",
@@ -211,49 +329,91 @@
          "short_name" : "沼宮内高校"
       },
       "岩手県立盛岡北高等学校" : {
+         "location" : "岩手県岩手郡滝沢村滝沢字牧野林298-1",
          "location_area" : "岩手郡",
+         "location_wikipedia_latlon" : "|39|44|42.6|N|141|6|27.2|E|",
+         "location_zipcode" : "020-0173",
          "owner_type" : "県立",
-         "short_name" : "盛岡北高校"
+         "senior_high_school_code" : "03105E",
+         "short_name" : "盛岡北高校",
+         "url" : "http://www2.iwate-ed.jp/mon-h/"
       },
       "岩手県立盛岡南高等学校" : {
+         "location" : "岩手県盛岡市西見前20-113-1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|38|33.5|N|141|9|24.7|E|",
+         "location_zipcode" : "020-0833",
          "owner_type" : "県立",
-         "short_name" : "盛岡南高校"
+         "senior_high_school_code" : "03180B",
+         "short_name" : "盛岡南高校",
+         "url" : "http://www2.iwate-ed.jp/mos-h/"
       },
       "岩手県立盛岡商業高等学校" : {
+         "location" : "岩手県盛岡市本宮2-35-1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|41|12.5|N|141|8|16.5|E|",
+         "location_zipcode" : "020-0866",
          "owner_type" : "県立",
-         "short_name" : "盛岡商業高校"
+         "senior_high_school_code" : "03109H",
+         "short_name" : "盛岡商業高校",
+         "url" : "http://www2.iwate-ed.jp/moc-h/"
       },
       "岩手県立盛岡工業高等学校" : {
+         "location" : "岩手県盛岡市羽場18-11-1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|39|7.2|N|141|6|14.4|E|",
+         "location_zipcode" : "020-0841",
          "owner_type" : "県立",
-         "short_name" : "盛岡工業高校"
+         "senior_high_school_code" : "03108K",
+         "short_name" : "盛岡工業高校",
+         "url" : "http://www2.iwate-ed.jp/mot-h/"
       },
       "岩手県立盛岡第一高等学校" : {
+         "location" : "岩手県盛岡市上田3-2-1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|42|48|N|141|8|32|E|改行=yes",
+         "location_zipcode" : "020-8515",
          "owner_type" : "県立",
-         "short_name" : "盛岡第一高校"
+         "senior_high_school_code" : "03101B",
+         "short_name" : "盛岡第一高校",
+         "url" : "http://www2.iwate-ed.jp/mo1-h/"
       },
       "岩手県立盛岡第三高等学校" : {
+         "location" : "岩手県盛岡市高松4-17-16",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|43|46.3|N|141|8|18.2|E|",
+         "location_zipcode" : "020-8515",
          "owner_type" : "県立",
-         "short_name" : "盛岡第三高校"
+         "senior_high_school_code" : "03103J",
+         "short_name" : "盛岡第三高校",
+         "url" : "http://www2.iwate-ed.jp/mo3-h/"
       },
       "岩手県立盛岡第二高等学校" : {
+         "location" : "岩手県盛岡市上ノ橋町7-57",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0887",
          "owner_type" : "県立",
-         "short_name" : "盛岡第二高校"
+         "senior_high_school_code" : "03102A",
+         "short_name" : "盛岡第二高校",
+         "url" : "http://www2.iwate-ed.jp/mo2-h/"
       },
       "岩手県立盛岡第四高等学校" : {
+         "location" : "岩手県盛岡市津志田26-17-1",
          "location_area" : "盛岡市",
+         "location_zipcode" : "020-0835",
          "owner_type" : "県立",
-         "short_name" : "盛岡第四高校"
+         "senior_high_school_code" : "03104G",
+         "short_name" : "盛岡第四高校",
+         "url" : "http://www2.iwate-ed.jp/mo4-h/"
       },
       "岩手県立盛岡農業高等学校" : {
+         "location" : "岩手県岩手郡滝沢村滝沢字砂込1463",
          "location_area" : "岩手郡",
+         "location_zipcode" : "020-0173",
          "owner_type" : "県立",
-         "short_name" : "盛岡農業高校"
+         "senior_high_school_code" : "03107A",
+         "short_name" : "盛岡農業高校",
+         "url" : "http://www2.iwate-ed.jp/moa-h/"
       },
       "岩手県立福岡工業高等学校" : {
          "location_area" : "二戸市",
@@ -261,9 +421,13 @@
          "short_name" : "福岡工業高校"
       },
       "岩手県立福岡高等学校" : {
+         "location" : "岩手県二戸市福岡字上平10",
          "location_area" : "二戸市",
+         "location_zipcode" : "028-6101",
          "owner_type" : "県立",
-         "short_name" : "福岡高校"
+         "senior_high_school_code" : "03172A",
+         "short_name" : "福岡高校",
+         "url" : "http://www2.iwate-ed.jp/fuk-h/"
       },
       "岩手県立福岡高等学校浄法寺校" : {
          "location_area" : "二戸市",
@@ -286,14 +450,22 @@
          "short_name" : "花北青雲高校"
       },
       "岩手県立花巻北高等学校" : {
+         "location" : "岩手県花巻市本館54",
          "location_area" : "花巻市",
+         "location_zipcode" : "025-0061",
          "owner_type" : "県立",
-         "short_name" : "花巻北高校"
+         "senior_high_school_code" : "03115B",
+         "short_name" : "花巻北高校",
+         "url" : "http://www2.iwate-ed.jp/hkn-h/"
       },
       "岩手県立花巻南高等学校" : {
+         "location" : "岩手県花巻市北万丁目288-1",
          "location_area" : "花巻市",
+         "location_zipcode" : "025-0053",
          "owner_type" : "県立",
-         "short_name" : "花巻南高校"
+         "senior_high_school_code" : "03116A",
+         "short_name" : "花巻南高校",
+         "url" : "http://www2.iwate-ed.jp/hks-h/"
       },
       "岩手県立花巻農業高等学校" : {
          "location_area" : "花巻市",
@@ -301,9 +473,12 @@
          "short_name" : "花巻農業高校"
       },
       "岩手県立花泉高等学校" : {
+         "location" : "岩手県一関市花泉町花泉字林ノ沢17-9",
          "location_area" : "一関市",
+         "location_zipcode" : "029-3101",
          "owner_type" : "県立",
-         "short_name" : "花泉高校"
+         "short_name" : "花泉高校",
+         "url" : "http://www2.iwate-ed.jp/han-h/"
       },
       "岩手県立葛巻高等学校" : {
          "location_area" : "岩手郡",
@@ -321,14 +496,22 @@
          "short_name" : "軽米高校"
       },
       "岩手県立遠野緑峰高等学校" : {
+         "location" : "岩手県遠野市松崎町白岩21-14-1",
          "location_area" : "遠野市",
+         "location_zipcode" : "028-0541",
          "owner_type" : "県立",
-         "short_name" : "遠野緑峰高校"
+         "senior_high_school_code" : "03157H",
+         "short_name" : "遠野緑峰高校",
+         "url" : "http://www2.iwate-ed.jp/ryo-h/"
       },
       "岩手県立遠野高等学校" : {
+         "location" : "岩手県遠野市六日町3-17",
          "location_area" : "遠野市",
+         "location_zipcode" : "028-0525",
          "owner_type" : "県立",
-         "short_name" : "遠野高校"
+         "senior_high_school_code" : "03156K",
+         "short_name" : "遠野高校",
+         "url" : "http://www2.iwate-ed.jp/ton-h/"
       },
       "岩手県立金ケ崎高等学校" : {
          "location_area" : "胆沢郡",
@@ -341,9 +524,13 @@
          "short_name" : "釜石商工高校"
       },
       "岩手県立釜石高等学校" : {
+         "location" : "岩手県釜石市甲子町第10地割614-1",
          "location_area" : "釜石市",
+         "location_zipcode" : "026-0055",
          "owner_type" : "県立",
-         "short_name" : "釜石高校"
+         "senior_high_school_code" : "03183G",
+         "short_name" : "釜石高校",
+         "url" : "http://www2.iwate-ed.jp/kas-h/"
       },
       "岩手県立雫石高等学校" : {
          "location_area" : "岩手郡",
@@ -351,66 +538,122 @@
          "short_name" : "雫石高校"
       },
       "岩手県立高田高等学校" : {
+         "location" : "岩手県陸前高田市高田町字長砂6-4",
          "location_area" : "陸前高田市",
+         "location_zipcode" : "029-2205",
          "owner_type" : "県立",
-         "short_name" : "高田高校"
+         "senior_high_school_code" : "03146B",
+         "short_name" : "高田高校",
+         "url" : "http://www2.iwate-ed.jp/tak-h/"
       },
       "岩手県立黒沢尻北高等学校" : {
+         "location" : "岩手県北上市常盤台1-1-69",
          "location_area" : "北上市",
+         "location_wikipedia_latlon" : "|39|17|49.7|N|141|7|12.8|E|",
+         "location_zipcode" : "024-0012",
          "owner_type" : "県立",
-         "short_name" : "黒沢尻北高校"
+         "senior_high_school_code" : "03120J",
+         "short_name" : "黒沢尻北高校",
+         "url" : "http://www2.iwate-ed.jp/ksn-h/"
       },
       "岩手県立黒沢尻工業高等学校" : {
+         "location" : "岩手県北上市村崎野24地割19",
          "location_area" : "北上市",
+         "location_zipcode" : "024-8518",
          "owner_type" : "県立",
-         "short_name" : "黒沢尻工業高校"
+         "senior_high_school_code" : "03123C",
+         "short_name" : "黒沢尻工業高校",
+         "url" : "http://www2.iwate-ed.jp/kst-h/"
       },
       "岩手高等学校" : {
+         "location" : "岩手県盛岡市長田町7-60",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|42|32.9|N|141|8|18.6|E|",
+         "location_zipcode" : "020-0062",
          "owner_type" : "私立",
+         "senior_high_school_code" : "03501H",
          "short_name" : "岩手高校",
+         "url" : "http://www.iwate-jh.ed.jp/",
          "wikipedia_name" : "岩手中学校・高等学校"
       },
       "江南義塾盛岡高等学校" : {
+         "location" : "盛岡市前九年三丁目8-20",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|43|7.8|N|141|7|16.6|E|",
+         "location_zipcode" : "020-0127",
          "owner_type" : "私立",
-         "short_name" : "江南義塾盛岡高校"
+         "senior_high_school_code" : "03505A",
+         "short_name" : "江南義塾盛岡高校",
+         "url" : "http://www.kounan-h.jp/"
       },
       "盛岡スコーレ高等学校" : {
+         "location" : "岩手県盛岡市向中野字才川2-3",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|40|47.6|N|141|8|23.9|E|",
+         "location_zipcode" : "020-0851",
          "owner_type" : "私立",
-         "short_name" : "盛岡スコーレ高校"
+         "senior_high_school_code" : "03507G",
+         "short_name" : "盛岡スコーレ高校",
+         "url" : "http://www.schole.jp/schole_h/"
       },
       "盛岡中央高等学校" : {
+         "location" : "岩手県盛岡市みたけ4丁目26‐1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|44|46.6|N|141|7|25.1|E|",
+         "location_zipcode" : "020-0122",
          "owner_type" : "私立",
-         "short_name" : "盛岡中央高校"
+         "short_name" : "盛岡中央高校",
+         "url" : "http://www.chuo-hs.jp/#"
       },
       "盛岡大学附属高等学校" : {
+         "location" : "岩手県盛岡市厨川5丁目4-1",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|44|55.3|N|141|7|31.6|E|",
+         "location_zipcode" : "020-0124",
          "owner_type" : "私立",
-         "short_name" : "盛岡大学附属高校"
+         "senior_high_school_code" : "03506J",
+         "short_name" : "盛岡大学附属高校",
+         "url" : "http://www.morifu.jp/"
       },
       "盛岡女子高等学校" : {
+         "location" : "岩手県盛岡市高松一丁目21番14号",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|43|24.3|N|141|8|30.7|E|",
+         "location_zipcode" : "020-0114",
          "owner_type" : "私立",
-         "short_name" : "盛岡女子高校"
+         "senior_high_school_code" : "03504B",
+         "short_name" : "盛岡女子高校",
+         "url" : "http://www.morioka-joshi.ed.jp/"
       },
       "盛岡市立高等学校" : {
+         "location" : "岩手県盛岡市上太田上川原96",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|41|56.9|N|141|5|11.7|E|",
+         "location_zipcode" : "020-0053",
          "owner_type" : "市立",
-         "short_name" : "高校"
+         "senior_high_school_code" : "03176D",
+         "short_name" : "高校",
+         "url" : "http://www2.iwate-ed.jp/mor-c/"
       },
       "盛岡白百合学園高等学校" : {
+         "location" : "岩手県盛岡市山岸四丁目29番16号",
          "location_area" : "盛岡市",
+         "location_wikipedia_latlon" : "|39|43|25.6|N|141|9|51.4|E|",
+         "location_zipcode" : "020-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "03502F",
          "short_name" : "盛岡白百合学園高校",
+         "url" : "http://morioka-shirayuri.morioka.iwate.jp/",
          "wikipedia_name" : "盛岡白百合学園中学校・高等学校"
       },
       "花巻東高等学校" : {
+         "location" : "岩手県花巻市松園町55-1",
          "location_area" : "花巻市",
+         "location_zipcode" : "025-0066",
          "owner_type" : "私立",
-         "short_name" : "花巻東高校"
+         "senior_high_school_code" : "03514K",
+         "short_name" : "花巻東高校",
+         "url" : "http://www.hanamakihigashi-h.ed.jp/"
       }
    }
 }

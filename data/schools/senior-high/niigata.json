@@ -1,45 +1,75 @@
 {
    "high_schools" : {
       "新潟市立高志中等教育学校" : {
+         "location" : "新潟県新潟市中央区高志一丁目15-1",
+         "location_zipcode" : "950-0926",
          "owner_type" : "市立",
+         "senior_high_school_code" : "15200F",
          "short_name" : "高志中等教育学校",
+         "url" : "http://www.niigata-inet.or.jp/kohshi-h/",
          "wikipedia_name" : "新潟市立高志高等学校"
       },
       "新潟県立佐渡中等教育学校" : {
+         "location" : "新潟県佐渡市梅津1750",
+         "location_zipcode" : "952-0005",
          "owner_type" : "県立",
-         "short_name" : "佐渡中等教育学校"
+         "short_name" : "佐渡中等教育学校",
+         "url" : "http://www.sado-ss.nein.ed.jp/"
       },
       "新潟県立村上中等教育学校" : {
+         "location" : "新潟県村上市学校町6-8",
+         "location_zipcode" : "958-0031",
          "owner_type" : "県立",
-         "short_name" : "村上中等教育学校"
+         "short_name" : "村上中等教育学校",
+         "url" : "http://www.murakami-ss.nein.ed.jp/"
       },
       "新潟県立柏崎翔洋中等教育学校" : {
+         "location" : "新潟県柏崎市北園町18-88",
+         "location_wikipedia_latlon" : "|37|22|56.9|N|138|33|54.6|E|",
+         "location_zipcode" : "949-8201",
          "owner_type" : "県立",
-         "short_name" : "柏崎翔洋中等教育学校"
+         "senior_high_school_code" : "15211A",
+         "short_name" : "柏崎翔洋中等教育学校",
+         "url" : "http://www.kashiwazakishoyo-ss.nein.ed.jp/"
       },
       "新潟県立津南中等教育学校" : {
+         "location" : "新潟県中魚沼郡津南町下船渡戊298-1",
+         "location_zipcode" : "949-8201",
          "owner_type" : "県立",
-         "short_name" : "津南中等教育学校"
+         "short_name" : "津南中等教育学校",
+         "url" : "http://www.tsunan-ss.nein.ed.jp/"
       },
       "新潟県立燕中等教育学校" : {
          "owner_type" : "県立",
          "short_name" : "燕中等教育学校"
       },
       "新潟県立直江津中等教育学校" : {
+         "location" : "新潟県上越市西本町4-20-1",
+         "location_zipcode" : "942-8505",
          "owner_type" : "県立",
-         "short_name" : "直江津中等教育学校"
+         "short_name" : "直江津中等教育学校",
+         "url" : "http://www.naoetsu-jh.nein.ed.jp/index.htm"
       }
    },
    "senior_high_schools" : {
       "上越高等学校" : {
+         "location" : "新潟県上越市寺町3-5-38",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|54.8|N|138|14|24.0|E|",
+         "location_zipcode" : "943-0892",
          "owner_type" : "私立",
-         "short_name" : "上越高校"
+         "senior_high_school_code" : "15507B",
+         "short_name" : "上越高校",
+         "url" : "http://www.joetsu-hs.jorne.ed.jp/"
       },
       "中越高等学校" : {
+         "location" : "新潟県長岡市新保町1371-1",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-8585",
          "owner_type" : "私立",
-         "short_name" : "中越高校"
+         "senior_high_school_code" : "15504H",
+         "short_name" : "中越高校",
+         "url" : "http://www.chuetsu-h.ed.jp/"
       },
       "加茂暁星高等学校" : {
          "location_area" : "加茂市",
@@ -47,43 +77,76 @@
          "short_name" : "加茂暁星高校"
       },
       "北越高等学校" : {
+         "location" : "新潟県新潟市中央区米山5-12-1",
          "location_area" : "新潟市中央区",
+         "location_wikipedia_latlon" : "|37|54|16.4|N|139|3|20.7|E|",
+         "location_zipcode" : "950-0916",
          "owner_type" : "私立",
-         "short_name" : "北越高校"
+         "senior_high_school_code" : "15503K",
+         "short_name" : "北越高校",
+         "url" : "http://www.hokuetsu.ed.jp/"
       },
       "帝京長岡高等学校" : {
+         "location" : "新潟県長岡市住吉3丁目9-1",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-0044",
          "owner_type" : "私立",
+         "senior_high_school_code" : "15505F",
          "short_name" : "帝京長岡高校",
+         "url" : "http://www.teikyo-nagaoka.ed.jp/",
          "wikipedia_name" : "帝京長岡中学校・高等学校"
       },
       "敬和学園高等学校" : {
+         "location" : "新潟県新潟市北区太夫浜325",
          "location_area" : "新潟市北区",
+         "location_zipcode" : "950-3112",
          "owner_type" : "私立",
-         "short_name" : "敬和学園高校"
+         "senior_high_school_code" : "15512J",
+         "short_name" : "敬和学園高校",
+         "url" : "http://www.keiwa-h.ed.jp/"
       },
       "新潟市立万代高等学校" : {
+         "location" : "新潟県新潟市中央区沼垂東6-8-1",
+         "location_zipcode" : "950-8666",
          "owner_type" : "市立",
-         "short_name" : "万代高校"
+         "senior_high_school_code" : "15193K",
+         "short_name" : "万代高校",
+         "url" : "http://www.bandai-h.city-niigata.ed.jp/"
       },
       "新潟市立明鏡高等学校" : {
+         "location" : "新潟県新潟市中央区沼垂東六丁目11番1号",
+         "location_zipcode" : "950-0075",
          "owner_type" : "市立",
-         "short_name" : "明鏡高校"
+         "senior_high_school_code" : "15201D",
+         "short_name" : "明鏡高校",
+         "url" : "http://www.niigata-meikyo.city-niigata.ed.jp/"
       },
       "新潟市立高志高等学校" : {
+         "location" : "新潟県新潟市中央区高志一丁目15-1",
+         "location_zipcode" : "950-0926",
          "owner_type" : "市立",
-         "short_name" : "高志高校"
+         "senior_high_school_code" : "15200F",
+         "short_name" : "高志高校",
+         "url" : "http://www.niigata-inet.or.jp/kohshi-h/"
       },
       "新潟明訓高等学校" : {
+         "location" : "新潟県新潟市江南区北山1037",
          "location_area" : "新潟市江南区",
+         "location_zipcode" : "950-0116",
          "owner_type" : "私立",
+         "senior_high_school_code" : "15501C",
          "short_name" : "新潟明訓高校",
+         "url" : "http://www.niigata-meikun.ed.jp/",
          "wikipedia_name" : "新潟明訓中学校・高等学校"
       },
       "新潟清心女子高等学校" : {
+         "location" : "新潟県新潟市西区五十嵐一の町6370番地",
          "location_area" : "新潟市西区",
+         "location_wikipedia_latlon" : "|37|52|50|N|138|57|26.8|E|",
+         "location_zipcode" : "950-2101",
          "owner_type" : "私立",
          "short_name" : "新潟清心女子高校",
+         "url" : "http://www.seishin.ed.jp/",
          "wikipedia_name" : "新潟清心女子中学校・高等学校"
       },
       "新潟産業大学附属高等学校" : {
@@ -92,339 +155,624 @@
          "short_name" : "新潟産業大学附属高校"
       },
       "新潟県立三条商業高等学校" : {
+         "location" : "新潟県三条市田島2-24-8",
          "location_area" : "三条市",
+         "location_wikipedia_latlon" : "|37|37|29.9|N|138|58|23|E|",
+         "location_zipcode" : "955-0044",
          "owner_type" : "県立",
-         "short_name" : "三条商業高校"
+         "senior_high_school_code" : "15147F",
+         "short_name" : "三条商業高校",
+         "url" : "http://www.sanjous-h.nein.ed.jp/"
       },
       "新潟県立三条東高等学校" : {
+         "location" : "新潟県三条市北入蔵2-9-36",
          "location_area" : "三条市",
+         "location_zipcode" : "955-0053",
          "owner_type" : "県立",
-         "short_name" : "三条東高校"
+         "senior_high_school_code" : "15145K",
+         "short_name" : "三条東高校",
+         "url" : "http://www.sanjouhi-h.nein.ed.jp/"
       },
       "新潟県立三条高等学校" : {
+         "location" : "新潟県三条市月岡1-2-1",
          "location_area" : "三条市",
+         "location_wikipedia_latlon" : "|37|36|57.8|N|138|57|49.6|E|",
+         "location_zipcode" : "955-0803",
          "owner_type" : "県立",
-         "short_name" : "三条高校"
+         "senior_high_school_code" : "15144A",
+         "short_name" : "三条高校",
+         "url" : "http://www.sanjou-h.nein.ed.jp/"
       },
       "新潟県立上越総合技術高等学校" : {
+         "location" : "新潟県上越市本城町3-1",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|47.0|N|138|15|31.8|E|",
+         "location_zipcode" : "943-8503",
          "owner_type" : "県立",
-         "short_name" : "上越総合技術高校"
+         "short_name" : "上越総合技術高校",
+         "url" : "http://www.jouetsusougi-h.nein.ed.jp/"
       },
       "新潟県立両津高等学校" : {
+         "location" : "新潟県佐渡市梅津1750",
          "location_area" : "佐渡市",
+         "location_zipcode" : "952-0005",
          "owner_type" : "県立",
-         "short_name" : "両津高校"
+         "senior_high_school_code" : "15187E",
+         "short_name" : "両津高校",
+         "url" : "http://www.ryoutsu-h.nein.ed.jp/"
       },
       "新潟県立中条高等学校" : {
+         "location" : "新潟県胎内市東本町19-1",
          "location_area" : "胎内市",
+         "location_zipcode" : "959-2643",
          "owner_type" : "県立",
-         "short_name" : "中条高校"
+         "senior_high_school_code" : "15126C",
+         "short_name" : "中条高校",
+         "url" : "http://www.nakajo-h.nein.ed.jp/"
       },
       "新潟県立久比岐高等学校" : {
+         "location" : "新潟県上越市柿崎区柿崎7075",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|16|48.5|N|138|23|37.5|E|",
+         "location_zipcode" : "949-3216",
          "owner_type" : "県立",
-         "short_name" : "久比岐高校"
+         "senior_high_school_code" : "15217A",
+         "short_name" : "久比岐高校",
+         "url" : "http://www.kubiki-h.nein.ed.jp/"
       },
       "新潟県立五泉高等学校" : {
+         "location" : "新潟県五泉市粟島1-23",
          "location_area" : "五泉市",
+         "location_zipcode" : "959-1861",
          "owner_type" : "県立",
-         "short_name" : "五泉高校"
+         "senior_high_school_code" : "15132H",
+         "short_name" : "五泉高校",
+         "url" : "http://www.gosen-h.nein.ed.jp/"
       },
       "新潟県立佐渡総合高等学校" : {
+         "location" : "新潟県佐渡市栗野江377-1",
          "location_area" : "佐渡市",
+         "location_zipcode" : "952-0202",
          "owner_type" : "県立",
-         "short_name" : "佐渡総合高校"
+         "senior_high_school_code" : "15189A",
+         "short_name" : "佐渡総合高校",
+         "url" : "http://www.sadosou-h.nein.ed.jp/"
       },
       "新潟県立佐渡高等学校" : {
+         "location" : "新潟県佐渡市石田567",
          "location_area" : "佐渡市",
+         "location_zipcode" : "952-1322",
          "owner_type" : "県立",
-         "short_name" : "佐渡高校"
+         "senior_high_school_code" : "15184A",
+         "short_name" : "佐渡高校",
+         "url" : "http://www.sado-h.nein.ed.jp/"
       },
       "新潟県立八海高等学校" : {
+         "location" : "新潟県南魚沼市余川1276",
          "location_area" : "南魚沼市",
+         "location_zipcode" : "949-6632",
          "owner_type" : "県立",
-         "short_name" : "八海高校"
+         "senior_high_school_code" : "15156E",
+         "short_name" : "八海高校",
+         "url" : "http://www.hakkai-h.nein.ed.jp/"
       },
       "新潟県立六日町高等学校" : {
+         "location" : "新潟県南魚沼市余川1380-2",
          "location_area" : "南魚沼市",
+         "location_zipcode" : "949-6633",
          "owner_type" : "県立",
-         "short_name" : "六日町高校"
+         "senior_high_school_code" : "15155G",
+         "short_name" : "六日町高校",
+         "url" : "http://www.muikamachi-h.nein.ed.jp/"
       },
       "新潟県立出雲崎高等学校" : {
+         "location" : "新潟県三島郡出雲崎町大字大門71",
          "location_area" : "出雲崎町",
+         "location_zipcode" : "949-4352",
          "owner_type" : "県立",
-         "short_name" : "出雲崎高校"
+         "senior_high_school_code" : "15167A",
+         "short_name" : "出雲崎高校",
+         "url" : "http://www.izumozaki-h.nein.ed.jp/"
       },
       "新潟県立分水高等学校" : {
+         "location" : "新潟県燕市笈ヶ島104-4",
          "location_area" : "燕市",
+         "location_zipcode" : "959-0013",
          "owner_type" : "県立",
-         "short_name" : "分水高校"
+         "senior_high_school_code" : "15203A",
+         "short_name" : "分水高校",
+         "url" : "http://www.bunsui-h.nein.ed.jp/"
       },
       "新潟県立加茂農林高等学校" : {
+         "location" : "新潟県加茂市神明町2-15-5",
          "location_area" : "加茂市",
+         "location_zipcode" : "959-1325",
          "owner_type" : "県立",
-         "short_name" : "加茂農林高校"
+         "short_name" : "加茂農林高校",
+         "url" : "http://www.kamonorin-h.nein.ed.jp/"
       },
       "新潟県立加茂高等学校" : {
+         "location" : "新潟県加茂市幸町1-17-13",
          "location_area" : "加茂市",
+         "location_zipcode" : "959-1313",
          "owner_type" : "県立",
-         "short_name" : "加茂高校"
+         "senior_high_school_code" : "15149B",
+         "short_name" : "加茂高校",
+         "url" : "http://www.kamo-h.nein.ed.jp/"
       },
       "新潟県立十日町総合高等学校" : {
+         "location" : "新潟県十日町市高山461",
          "location_area" : "十日町市",
+         "location_zipcode" : "948-0055",
          "owner_type" : "県立",
-         "short_name" : "十日町総合高校"
+         "senior_high_school_code" : "15159K",
+         "short_name" : "十日町総合高校",
+         "url" : "http://www.tookamachisou-h.nein.ed.jp/"
       },
       "新潟県立十日町高等学校" : {
+         "location" : "新潟県十日町市本町西1-203",
          "location_area" : "十日町市",
+         "location_zipcode" : "948-0083",
          "owner_type" : "県立",
-         "short_name" : "十日町高校"
+         "senior_high_school_code" : "15158A",
+         "short_name" : "十日町高校",
+         "url" : "http://www.tookamachi-h.nein.ed.jp/"
       },
       "新潟県立吉田高等学校" : {
+         "location" : "新潟県燕市吉田東町16-1",
          "location_area" : "燕市",
+         "location_zipcode" : "959-0265",
          "owner_type" : "県立",
-         "short_name" : "吉田高校"
+         "senior_high_school_code" : "15117D",
+         "short_name" : "吉田高校",
+         "url" : "http://www.yoshida-h.nein.ed.jp/"
       },
       "新潟県立国際情報高等学校" : {
+         "location" : "新潟県南魚沼市浦佐5664-1",
          "location_area" : "南魚沼市",
+         "location_zipcode" : "949-7302",
          "owner_type" : "県立",
-         "short_name" : "国際情報高校"
+         "senior_high_school_code" : "15209K",
+         "short_name" : "国際情報高校",
+         "url" : "http://www.kokusaijouhou-h.nein.ed.jp/"
       },
       "新潟県立堀之内高等学校" : {
+         "location" : "新潟県魚沼市堀之内3720",
          "location_area" : "魚沼市",
+         "location_zipcode" : "949-7413",
          "owner_type" : "県立",
-         "short_name" : "堀之内高校"
+         "senior_high_school_code" : "15153A",
+         "short_name" : "堀之内高校",
+         "url" : "http://www.horinouchi-h.nein.ed.jp/"
       },
       "新潟県立塩沢商工高等学校" : {
+         "location" : "新潟県南魚沼市泉盛寺701-1",
          "location_area" : "南魚沼市",
+         "location_zipcode" : "949-6433",
          "owner_type" : "県立",
-         "short_name" : "塩沢商工高校"
+         "senior_high_school_code" : "15157C",
+         "short_name" : "塩沢商工高校",
+         "url" : "http://www.shiozawasyoko-h.nein.ed.jp/"
       },
       "新潟県立安塚高等学校" : {
+         "location" : "新潟県上越市安塚区上方129",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|8|6.8|N|138|26|39.7|E|",
+         "location_zipcode" : "942-0405",
          "owner_type" : "県立",
-         "short_name" : "安塚高校"
+         "senior_high_school_code" : "15180H",
+         "short_name" : "安塚高校",
+         "url" : "http://www.yasuzuka-h.nein.ed.jp/"
       },
       "新潟県立安塚高等学校松之山分校" : {
+         "location" : "新潟県十日町市松之山光間39-1",
          "location_area" : "十日町市",
+         "location_zipcode" : "942-1406",
          "owner_type" : "県立",
-         "short_name" : "安塚高校松之山分校"
+         "senior_high_school_code" : "15180H",
+         "short_name" : "安塚高校松之山分校",
+         "url" : "http://www.yasuzkmatsu-h.nein.ed.jp/"
       },
       "新潟県立小出高等学校" : {
+         "location" : "新潟県魚沼市青島810-4",
          "location_area" : "魚沼市",
+         "location_zipcode" : "946-0043",
          "owner_type" : "県立",
-         "short_name" : "小出高校"
+         "senior_high_school_code" : "15154J",
+         "short_name" : "小出高校",
+         "url" : "http://www.koide-h.nein.ed.jp/"
       },
       "新潟県立小千谷西高等学校" : {
+         "location" : "新潟県小千谷市城内3-3-11",
          "location_area" : "小千谷市",
+         "location_zipcode" : "947-0028",
          "owner_type" : "県立",
-         "short_name" : "小千谷西高校"
+         "senior_high_school_code" : "15152B",
+         "short_name" : "小千谷西高校",
+         "url" : "http://www.ojiyani-h.nein.ed.jp/"
       },
       "新潟県立小千谷高等学校" : {
+         "location" : "新潟県小千谷市旭町7-1",
          "location_area" : "小千谷市",
+         "location_wikipedia_latlon" : "|37|18|24.5|N|138|48|40.5|E|",
+         "location_zipcode" : "947-0005",
          "owner_type" : "県立",
-         "short_name" : "小千谷高校"
+         "senior_high_school_code" : "15151D",
+         "short_name" : "小千谷高校",
+         "url" : "http://www.ojiya-h.nein.ed.jp//"
       },
       "新潟県立川西高等学校" : {
+         "location" : "新潟県十日町市伊勢平治711-2",
          "location_area" : "十日町市",
+         "location_zipcode" : "948-0131",
          "owner_type" : "県立",
-         "short_name" : "川西高校"
+         "senior_high_school_code" : "15192A",
+         "short_name" : "川西高校",
+         "url" : "http://www.kawanishi-h.nein.ed.jp/index.html"
       },
       "新潟県立巻総合高等学校" : {
+         "location" : "新潟県新潟市西蒲区巻甲4295-1",
          "location_area" : "新潟市西蒲区",
+         "location_zipcode" : "953-0041",
          "owner_type" : "県立",
-         "short_name" : "巻総合高校"
+         "senior_high_school_code" : "15113A",
+         "short_name" : "巻総合高校",
+         "url" : "http://www.makisou-h.nein.ed.jp/"
       },
       "新潟県立巻高等学校" : {
+         "location" : "新潟県新潟市西蒲区巻乙30-1",
          "location_area" : "新潟市西蒲区",
+         "location_zipcode" : "953-0044",
          "owner_type" : "県立",
-         "short_name" : "巻高校"
+         "senior_high_school_code" : "15112C",
+         "short_name" : "巻高校",
+         "url" : "http://www.maki-h.nein.ed.jp/"
       },
       "新潟県立新井高等学校" : {
+         "location" : "新潟県妙高市田町1-10-1",
          "location_area" : "妙高市",
+         "location_zipcode" : "944-0031",
          "owner_type" : "県立",
-         "short_name" : "新井高校"
+         "senior_high_school_code" : "15174C",
+         "short_name" : "新井高校",
+         "url" : "http://www.arai-h.nein.ed.jp/"
       },
       "新潟県立新津南高等学校" : {
+         "location" : "新潟県新潟市秋葉区矢代田3200番地1",
          "location_area" : "新潟市秋葉区",
+         "location_zipcode" : "956-0113",
          "owner_type" : "県立",
-         "short_name" : "新津南高校"
+         "senior_high_school_code" : "15199J",
+         "short_name" : "新津南高校",
+         "url" : "http://www.niitsumi-h.nein.ed.jp/"
       },
       "新潟県立新津工業高等学校" : {
+         "location" : "新潟市秋葉区新津東町1丁目12番地9号",
          "location_area" : "新潟市秋葉区",
+         "location_zipcode" : "956-0816",
          "owner_type" : "県立",
-         "short_name" : "新津工業高校"
+         "senior_high_school_code" : "15130A",
+         "short_name" : "新津工業高校",
+         "url" : "http://www.niitsuk-h.nein.ed.jp/"
       },
       "新潟県立新津高等学校" : {
+         "location" : "新潟県新潟市秋葉区秋葉一丁目19-1",
          "location_area" : "新潟市秋葉区",
+         "location_zipcode" : "956-0832",
          "owner_type" : "県立",
-         "short_name" : "新津高校"
+         "senior_high_school_code" : "15129H",
+         "short_name" : "新津高校",
+         "url" : "http://www.niitsu-h.nein.ed.jp/index.html"
       },
       "新潟県立新潟中央高等学校" : {
+         "location" : "新潟県新潟市中央区学校町通二番町5317-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "951-8126",
          "owner_type" : "県立",
-         "short_name" : "新潟中央高校"
+         "senior_high_school_code" : "15102F",
+         "short_name" : "新潟中央高校",
+         "url" : "http://www.niigatachuo-h.nein.ed.jp/"
       },
       "新潟県立新潟北高等学校" : {
+         "location" : "新潟県新潟市東区本所847-1",
          "location_area" : "新潟市東区",
+         "location_zipcode" : "950-0804",
          "owner_type" : "県立",
-         "short_name" : "新潟北高校"
+         "senior_high_school_code" : "15202B",
+         "short_name" : "新潟北高校",
+         "url" : "http://www.niigataki-h.nein.ed.jp/"
       },
       "新潟県立新潟南高等学校" : {
+         "location" : "新潟県新潟市中央区上所1-3-1",
          "location_area" : "新潟市中央区",
+         "location_wikipedia_latlon" : "|37|54|31.5|N|139|2|38.1|E|",
+         "location_zipcode" : "950-0994",
          "owner_type" : "県立",
-         "short_name" : "新潟南高校"
+         "senior_high_school_code" : "15103D",
+         "short_name" : "新潟南高校",
+         "url" : "http://www.niigatami-h.nein.ed.jp/"
       },
       "新潟県立新潟向陽高等学校" : {
+         "location" : "新潟県新潟市江南区亀田向陽4-3-1",
          "location_area" : "新潟市江南区",
+         "location_wikipedia_latlon" : "|37|52|53.1|N|139|6|32.6|E|",
+         "location_zipcode" : "950-0121",
          "owner_type" : "県立",
-         "short_name" : "新潟向陽高校"
+         "senior_high_school_code" : "15110G",
+         "short_name" : "新潟向陽高校",
+         "url" : "http://www.niigatakoyo-h.nein.ed.jp/"
       },
       "新潟県立新潟商業高等学校" : {
+         "location" : "新潟県新潟市中央区白山浦2-68-2",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "951-8131",
          "owner_type" : "県立",
-         "short_name" : "新潟商業高校"
+         "senior_high_school_code" : "15109C",
+         "short_name" : "新潟商業高校",
+         "url" : "http://www.niigata-ch.ed.jp/"
       },
       "新潟県立新潟工業高等学校" : {
+         "location" : "新潟県新潟市西区小新西1-5-1",
          "location_area" : "新潟市西区",
+         "location_zipcode" : "950-2024",
          "owner_type" : "県立",
-         "short_name" : "新潟工業高校"
+         "senior_high_school_code" : "15107G",
+         "short_name" : "新潟工業高校",
+         "url" : "http://www.niigatak-h.nein.ed.jp/"
       },
       "新潟県立新潟東工業高等学校" : {
+         "location" : "新潟県新潟市東区竹尾2-2-1",
          "location_area" : "新潟市東区",
+         "location_zipcode" : "950-0862",
          "owner_type" : "県立",
-         "short_name" : "新潟東工業高校"
+         "senior_high_school_code" : "15108E",
+         "short_name" : "新潟東工業高校",
+         "url" : "http://www.niigatahik-h.nein.ed.jp/"
       },
       "新潟県立新潟東高等学校" : {
+         "location" : "新潟県新潟市東区小金町2-6-1",
          "location_area" : "新潟市東区",
+         "location_zipcode" : "950-8639",
          "owner_type" : "県立",
-         "short_name" : "新潟東高校"
+         "senior_high_school_code" : "15198A",
+         "short_name" : "新潟東高校",
+         "url" : "http://www.niigatahi-h.nein.ed.jp/"
       },
       "新潟県立新潟江南高等学校" : {
+         "location" : "新潟県新潟市中央区女池南3-6-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "950-0941",
          "owner_type" : "県立",
-         "short_name" : "新潟江南高校"
+         "senior_high_school_code" : "15104B",
+         "short_name" : "新潟江南高校",
+         "url" : "http://www.niigatakonan-h.nein.ed.jp/"
       },
       "新潟県立新潟県央工業高等学校" : {
+         "location" : "新潟県三条市東本成寺13-1",
          "location_area" : "三条市",
+         "location_zipcode" : "955-0823",
          "owner_type" : "県立",
-         "short_name" : "新潟県央工業高校"
+         "school_area" : "新潟県",
+         "senior_high_school_code" : "15146H",
+         "short_name" : "新潟県央工業高校",
+         "url" : "http://www.niigatakenohk-h.nein.ed.jp"
       },
       "新潟県立新潟翠江高等学校" : {
+         "location" : "新潟県新潟市西区金巻字須上1657",
          "location_area" : "新潟市西区",
+         "location_wikipedia_latlon" : "|37|50|21.3|N|138|59|51.8|E|",
+         "location_zipcode" : "950-1112",
          "owner_type" : "県立",
-         "short_name" : "新潟翠江高校"
+         "senior_high_school_code" : "15212K",
+         "short_name" : "新潟翠江高校",
+         "url" : "http://www.niigatasuikou-h.nein.ed.jp/"
       },
       "新潟県立新潟西高等学校" : {
+         "location" : "新潟県新潟市西区内野関場4669",
          "location_area" : "新潟市西区",
+         "location_zipcode" : "950-2156",
          "owner_type" : "県立",
-         "short_name" : "新潟西高校"
+         "senior_high_school_code" : "15105A",
+         "short_name" : "新潟西高校",
+         "url" : "http://www.niigatani-h.nein.ed.jp/"
       },
       "新潟県立新潟高等学校" : {
+         "location" : "新潟県新潟市中央区関屋下川原町二丁目635番地",
          "location_area" : "新潟市中央区",
+         "location_wikipedia_latlon" : "|37|54|55.4|N|139|1|24.1|E|",
+         "location_zipcode" : "951-8127",
          "owner_type" : "県立",
-         "short_name" : "新潟高校"
+         "senior_high_school_code" : "15101H",
+         "short_name" : "新潟高校",
+         "url" : "http://www.niigata-h.nein.ed.jp/"
       },
       "新潟県立新発田南高等学校" : {
+         "location" : "新潟県新発田市大栄町3-6-6",
          "location_area" : "新発田市",
+         "location_wikipedia_latlon" : "|37|56|27.5|N|139|19|27|E|",
+         "location_zipcode" : "957-8567",
          "owner_type" : "県立",
-         "short_name" : "新発田南高校"
+         "senior_high_school_code" : "15204J",
+         "short_name" : "新発田南高校",
+         "url" : "http://www.shibatami-h.nein.ed.jp/"
       },
       "新潟県立新発田南高等学校豊浦分校" : {
+         "location" : "新潟県新発田市下飯塚139-3",
          "location_area" : "新発田市",
+         "location_zipcode" : "959-2331",
          "owner_type" : "県立",
-         "short_name" : "新発田南高校豊浦分校"
+         "senior_high_school_code" : "15204J",
+         "short_name" : "新発田南高校豊浦分校",
+         "url" : "http://www.shibatamity-h.nein.ed.jp/"
       },
       "新潟県立新発田商業高等学校" : {
+         "location" : "新潟県新発田市板敷521番地1",
          "location_area" : "新発田市",
+         "location_zipcode" : "957-8558",
          "owner_type" : "県立",
-         "short_name" : "新発田商業高校"
+         "senior_high_school_code" : "15205G",
+         "short_name" : "新発田商業高校",
+         "url" : "http://www.shibatas-h.nein.ed.jp/"
       },
       "新潟県立新発田農業高等学校" : {
+         "location" : "新潟県新発田市大栄町六丁目4-2",
          "location_area" : "新発田市",
+         "location_zipcode" : "957-8502",
          "owner_type" : "県立",
-         "short_name" : "新発田農業高校"
+         "senior_high_school_code" : "15120D",
+         "short_name" : "新発田農業高校",
+         "url" : "http://www.shibata-ah.ed.jp/"
       },
       "新潟県立新発田高等学校" : {
+         "location" : "新潟県新発田市豊町3-7-6",
          "location_area" : "新発田市",
+         "location_zipcode" : "957-8555",
          "owner_type" : "県立",
-         "short_name" : "新発田高校"
+         "senior_high_school_code" : "15118B",
+         "short_name" : "新発田高校",
+         "url" : "http://www.shibata-h.nein.ed.jp/"
       },
       "新潟県立有恒高等学校" : {
+         "location" : "新潟県上越市板倉区針583-3",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|3|12.2|N|138|17|45.4|E|",
+         "location_zipcode" : "944-0131",
          "owner_type" : "県立",
-         "short_name" : "有恒高校"
+         "short_name" : "有恒高校",
+         "url" : "http://www.yuukou-h.nein.ed.jp/"
       },
       "新潟県立村上桜ヶ丘高等学校" : {
+         "location" : "新潟県村上市飯野桜ヶ丘10-25",
          "location_area" : "村上市",
+         "location_zipcode" : "958-0856",
          "owner_type" : "県立",
-         "short_name" : "村上桜ヶ丘高校"
+         "senior_high_school_code" : "15123J",
+         "short_name" : "村上桜ヶ丘高校",
+         "url" : "http://www.murakamiskrgk-h.nein.ed.jp/"
       },
       "新潟県立村上高等学校" : {
+         "location" : "新潟県村上市田端町7-12",
          "location_area" : "村上市",
+         "location_zipcode" : "958-0854",
          "owner_type" : "県立",
-         "short_name" : "村上高校"
+         "senior_high_school_code" : "15122A",
+         "short_name" : "村上高校",
+         "url" : "http://www.murakami-h.nein.ed.jp/"
       },
       "新潟県立村松高等学校" : {
+         "location" : "新潟県五泉市村松甲5545-2",
          "location_area" : "五泉市",
+         "location_zipcode" : "959-1704",
          "owner_type" : "県立",
-         "short_name" : "村松高校"
+         "senior_high_school_code" : "15133F",
+         "short_name" : "村松高校",
+         "url" : "http://www.muramatsu-h.nein.ed.jp/"
       },
       "新潟県立松代高等学校" : {
+         "location" : "新潟県十日町市松代4003-1",
          "location_area" : "十日町市",
+         "location_zipcode" : "942-1526",
          "owner_type" : "県立",
-         "short_name" : "松代高校"
+         "senior_high_school_code" : "15161A",
+         "short_name" : "松代高校",
+         "url" : "http://www.matsudai-h.nein.ed.jp/"
       },
       "新潟県立柏崎工業高等学校" : {
+         "location" : "新潟県柏崎市栄町5-16",
          "location_area" : "柏崎市",
+         "location_wikipedia_latlon" : "|37|22|29.5|N|138|33|22.8|E|",
+         "location_zipcode" : "945-0061",
          "owner_type" : "県立",
-         "short_name" : "柏崎工業高校"
+         "senior_high_school_code" : "15165D",
+         "short_name" : "柏崎工業高校",
+         "url" : "http://www.kashiwazakik-h.nein.ed.jp/"
       },
       "新潟県立柏崎常盤高等学校" : {
+         "location" : "新潟県柏崎市比角1-5-57",
          "location_area" : "柏崎市",
+         "location_wikipedia_latlon" : "|37|22|23.5|N|138|34|4.8|E|",
+         "location_zipcode" : "945-0047",
          "owner_type" : "県立",
-         "short_name" : "柏崎常盤高校"
+         "senior_high_school_code" : "15163H",
+         "short_name" : "柏崎常盤高校",
+         "url" : "http://www.kashiwazakitokiwa-h.nein.ed.jp/"
       },
       "新潟県立柏崎総合高等学校" : {
+         "location" : "新潟県柏崎市元城町1-1",
          "location_area" : "柏崎市",
+         "location_wikipedia_latlon" : "|37|21|12.4|N|138|33|10.8|E|",
+         "location_zipcode" : "945-0826",
          "owner_type" : "県立",
-         "short_name" : "柏崎総合高校"
+         "senior_high_school_code" : "15164F",
+         "short_name" : "柏崎総合高校",
+         "url" : "http://www.kashiwazakisou-h.nein.ed.jp/"
       },
       "新潟県立柏崎高等学校" : {
+         "location" : "新潟県柏崎市学校町4-1",
          "location_area" : "柏崎市",
+         "location_wikipedia_latlon" : "|37|22|20.2|N|138|33|25.2|E|",
+         "location_zipcode" : "940-0065",
          "owner_type" : "県立",
-         "short_name" : "柏崎高校"
+         "senior_high_school_code" : "15162K",
+         "short_name" : "柏崎高校",
+         "url" : "http://www.kashiwazaki-h.nein.ed.jp/"
       },
       "新潟県立栃尾高等学校" : {
+         "location" : "新潟県長岡市金沢1-2-1",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-0293",
          "owner_type" : "県立",
-         "short_name" : "栃尾高校"
+         "senior_high_school_code" : "15143C",
+         "short_name" : "栃尾高校",
+         "url" : "http://www.tochio-h.nein.ed.jp/"
       },
       "新潟県立正徳館高等学校" : {
+         "location" : "新潟県長岡市与板町東与板173",
          "location_area" : "長岡市",
+         "location_wikipedia_latlon" : "|37|32|34.3|N|138|48|58.4|E|",
+         "location_zipcode" : "940-2401",
          "owner_type" : "県立",
-         "short_name" : "正徳館高校"
+         "senior_high_school_code" : "15214F",
+         "short_name" : "正徳館高校",
+         "url" : "http://www.shotokukan-h.nein.ed.jp/"
       },
       "新潟県立海洋高等学校" : {
+         "location" : "新潟県糸魚川市大字能生3040番地",
          "location_area" : "糸魚川市",
+         "location_wikipedia_latlon" : "|37|5|53.8|N|137|59|30.1|E|",
+         "location_zipcode" : "949-1352",
          "owner_type" : "県立",
-         "short_name" : "海洋高校"
+         "senior_high_school_code" : "15183B",
+         "short_name" : "海洋高校",
+         "url" : "http://www.kaiyou-h.nein.ed.jp/"
       },
       "新潟県立燕高等学校" : {
+         "location" : "新潟県燕市灰方815",
          "location_area" : "燕市",
+         "location_zipcode" : "959-1201",
          "owner_type" : "県立",
-         "short_name" : "燕高校"
+         "school_area" : "新潟県全域",
+         "senior_high_school_code" : "15191C",
+         "short_name" : "燕高校",
+         "url" : "http://www.tsubame-h.nein.ed.jp/"
       },
       "新潟県立白根高等学校" : {
+         "location" : "新潟県新潟市南区上下諏訪木1214",
          "location_area" : "新潟市南区",
+         "location_zipcode" : "950-1214",
          "owner_type" : "県立",
-         "short_name" : "白根高校"
+         "senior_high_school_code" : "15131K",
+         "short_name" : "白根高校",
+         "url" : "http://www.shirone-h.nein.ed.jp/index.htm"
       },
       "新潟県立直江津高等学校" : {
+         "location" : "新潟県上越市西本町4-20-1",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|10|22.9|N|138|14|4.4|E|",
+         "location_zipcode" : "942-8505",
          "owner_type" : "県立",
-         "short_name" : "直江津高校"
+         "short_name" : "直江津高校",
+         "url" : "http://www.naoetsu-h.nein.ed.jp/"
       },
       "新潟県立相川高等学校" : {
          "location_area" : "佐渡市",
@@ -432,14 +780,24 @@
          "short_name" : "相川高校"
       },
       "新潟県立糸魚川白嶺高等学校" : {
+         "location" : "新潟県糸魚川市清崎9-1",
          "location_area" : "糸魚川市",
+         "location_wikipedia_latlon" : "|37|2|14.6|N|137|51|33.1|E|",
+         "location_zipcode" : "941-0063",
          "owner_type" : "県立",
-         "short_name" : "糸魚川白嶺高校"
+         "senior_high_school_code" : "15182D",
+         "short_name" : "糸魚川白嶺高校",
+         "url" : "http://www.itoigawahakurei-h.nein.ed.jp/"
       },
       "新潟県立糸魚川高等学校" : {
+         "location" : "新潟県糸魚川市大字平牛248-2",
          "location_area" : "糸魚川市",
+         "location_wikipedia_latlon" : "|37|2|28.4|N|137|53|6.3|E|",
+         "location_zipcode" : "941-0047",
          "owner_type" : "県立",
-         "short_name" : "糸魚川高校"
+         "senior_high_school_code" : "15181F",
+         "short_name" : "糸魚川高校",
+         "url" : "http://www.itoigawa-h.nein.ed.jp/"
       },
       "新潟県立羽茂高等学校" : {
          "location_area" : "佐渡市",
@@ -447,49 +805,87 @@
          "short_name" : "羽茂高校"
       },
       "新潟県立荒川高等学校" : {
+         "location" : "新潟県村上市坂町字申明2616-4",
          "location_area" : "村上市",
+         "location_zipcode" : "959-3194",
          "owner_type" : "県立",
-         "short_name" : "荒川高校"
+         "senior_high_school_code" : "15206E",
+         "short_name" : "荒川高校",
+         "url" : "http://www.arakawa-h.nein.ed.jp/"
       },
       "新潟県立西川竹園高等学校" : {
+         "location" : "新潟県新潟市西蒲区魲2-1",
          "location_area" : "新潟市西蒲区",
+         "location_zipcode" : "959-0421",
          "owner_type" : "県立",
-         "short_name" : "西川竹園高校"
+         "senior_high_school_code" : "15116F",
+         "short_name" : "西川竹園高校",
+         "url" : "http://www.nishikawatzn-h.nein.ed.jp/"
       },
       "新潟県立西新発田高等学校" : {
+         "location" : "新発田市西園町3丁目1番2号",
          "location_area" : "新発田市",
+         "location_zipcode" : "957-8522",
          "owner_type" : "県立",
-         "short_name" : "西新発田高校"
+         "senior_high_school_code" : "15119A",
+         "short_name" : "西新発田高校",
+         "url" : "http://www.nishishibata-h.nein.ed.jp/"
       },
       "新潟県立見附高等学校" : {
+         "location" : "新潟県見附市本所1-20-6",
          "location_area" : "見附市",
+         "location_zipcode" : "954-0051",
          "owner_type" : "県立",
-         "short_name" : "見附高校"
+         "short_name" : "見附高校",
+         "url" : "http://www.mitsuke-h.nein.ed.jp/"
       },
       "新潟県立豊栄高等学校" : {
+         "location" : "新潟県新潟市北区上土地亀大曲761",
          "location_area" : "新潟市北区",
+         "location_zipcode" : "950-3343",
          "owner_type" : "県立",
-         "short_name" : "豊栄高校"
+         "senior_high_school_code" : "15128K",
+         "short_name" : "豊栄高校",
+         "url" : "http://www.toyosaka-h.nein.ed.jp/"
       },
       "新潟県立長岡向陵高等学校" : {
+         "location" : "新潟県長岡市喜多町字川原1030-1",
          "location_area" : "長岡市",
+         "location_wikipedia_latlon" : "|37|26|55.9|N|138|48|21.1|E|",
+         "location_zipcode" : "940-2184",
          "owner_type" : "県立",
-         "short_name" : "長岡向陵高校"
+         "senior_high_school_code" : "15207C",
+         "short_name" : "長岡向陵高校",
+         "url" : "http://www.nagaokakoryo-h.nein.ed.jp/"
       },
       "新潟県立長岡商業高等学校" : {
+         "location" : "新潟県長岡市西片貝町字大木1726",
          "location_area" : "長岡市",
+         "location_wikipedia_latlon" : "|37|27|12.1|N|138|53|13.9|E|",
+         "location_zipcode" : "940-0817",
          "owner_type" : "県立",
-         "short_name" : "長岡商業高校"
+         "senior_high_school_code" : "15140J",
+         "short_name" : "長岡商業高校",
+         "url" : "http://www9.ocn.ne.jp/~chosho/"
       },
       "新潟県立長岡大手高等学校" : {
+         "location" : "新潟県長岡市四郎丸町字沖田357",
          "location_area" : "長岡市",
+         "location_wikipedia_latlon" : "|37|26|49.9|N|138|51|48.8|E|",
+         "location_zipcode" : "940-0865",
          "owner_type" : "県立",
-         "short_name" : "長岡大手高校"
+         "senior_high_school_code" : "15136A",
+         "short_name" : "長岡大手高校",
+         "url" : "http://www.nagaokaohte-h.nein.ed.jp/"
       },
       "新潟県立長岡工業高等学校" : {
+         "location" : "新潟県長岡市幸町2-7-70",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-0084",
          "owner_type" : "県立",
-         "short_name" : "長岡工業高校"
+         "senior_high_school_code" : "15139E",
+         "short_name" : "長岡工業高校",
+         "url" : "http://www.nagaokak-h.nein.ed.jp/"
       },
       "新潟県立長岡明徳高等学校" : {
          "location_area" : "長岡市",
@@ -497,61 +893,111 @@
          "short_name" : "長岡明徳高校"
       },
       "新潟県立長岡農業高等学校" : {
+         "location" : "新潟県長岡市曲新町3-13-1",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-1198",
          "owner_type" : "県立",
-         "short_name" : "長岡農業高校"
+         "senior_high_school_code" : "15138G",
+         "short_name" : "長岡農業高校",
+         "url" : "http://www.nagaokan-h.nein.ed.jp/"
       },
       "新潟県立長岡高等学校" : {
+         "location" : "新潟県長岡市学校町3-14-1",
          "location_area" : "長岡市",
+         "location_wikipedia_latlon" : "|37|26|40.7|N|138|51|33.8|E|",
+         "location_zipcode" : "940-0041",
          "owner_type" : "県立",
-         "short_name" : "長岡高校"
+         "senior_high_school_code" : "15135B",
+         "short_name" : "長岡高校",
+         "url" : "http://www.nagaoka-h.nein.ed.jp/"
       },
       "新潟県立阿賀野高等学校" : {
+         "location" : "新潟県阿賀野市学校町3-9",
          "location_area" : "阿賀野市",
+         "location_zipcode" : "959-2032",
          "owner_type" : "県立",
-         "short_name" : "阿賀野高校"
+         "senior_high_school_code" : "15213H",
+         "short_name" : "阿賀野高校",
+         "url" : "http://www.agano-h.nein.ed.jp/"
       },
       "新潟県立阿賀黎明高等学校" : {
+         "location" : "新潟県東蒲原郡阿賀町津川361-1",
          "location_area" : "阿賀町",
+         "location_zipcode" : "959-4402",
          "owner_type" : "県立",
+         "senior_high_school_code" : "15134D",
          "short_name" : "阿賀黎明高校",
+         "url" : "http://www.agareimei-jh.nein.ed.jp/",
          "wikipedia_name" : "新潟県立阿賀黎明中学校・高等学校"
       },
       "新潟県立高田北城高等学校" : {
+         "location" : "新潟県上越市北城町2-8-1",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|54.4|N|138|15|30.8|E|",
+         "location_zipcode" : "943-8525",
          "owner_type" : "県立",
-         "short_name" : "高田北城高校"
+         "senior_high_school_code" : "15169G",
+         "short_name" : "高田北城高校",
+         "url" : "http://www.takadaktsr-h.nein.ed.jp/"
       },
       "新潟県立高田南城高等学校" : {
+         "location" : "新潟県上越市南城町3-3-8",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|18|N|138|15|0.5|E|",
+         "location_zipcode" : "943-0837",
          "owner_type" : "県立",
-         "short_name" : "高田南城高校"
+         "short_name" : "高田南城高校",
+         "url" : "http://www.takadammsr-h.nein.ed.jp/"
       },
       "新潟県立高田商業高等学校" : {
+         "location" : "新潟県上越市中田原90-1",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|5|40|N|138|14|10|E|",
+         "location_zipcode" : "943-8550",
          "owner_type" : "県立",
-         "short_name" : "高田商業高校"
+         "senior_high_school_code" : "15173E",
+         "short_name" : "高田商業高校",
+         "url" : "http://www.takadas-h.nein.ed.jp/"
       },
       "新潟県立高田農業高等学校" : {
+         "location" : "新潟県上越市東城町1-4-41",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|2|N|138|15|40|E|",
+         "location_zipcode" : "943-0836",
          "owner_type" : "県立",
-         "short_name" : "高田農業高校"
+         "senior_high_school_code" : "15171J",
+         "short_name" : "高田農業高校",
+         "url" : "http://www.jorne.or.jp/~tak-agri/"
       },
       "新潟県立高田高等学校" : {
+         "location" : "新潟県上越市南城町3-5-5",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|17|N|138|15|16|E|",
+         "location_zipcode" : "943-0837",
          "owner_type" : "県立",
-         "short_name" : "高田高校"
+         "school_area" : "新潟県第七",
+         "senior_high_school_code" : "15168J",
+         "short_name" : "高田高校",
+         "url" : "http://www.takada-h.nein.ed.jp/index.htm"
       },
       "新潟第一高等学校" : {
+         "location" : "新潟県新潟市中央区関新3-3-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "951-8141",
          "owner_type" : "私立",
+         "senior_high_school_code" : "15514E",
          "short_name" : "新潟第一高校",
+         "url" : "http://www.n-daiichi.ed.jp/",
          "wikipedia_name" : "新潟第一中学校・高等学校"
       },
       "新潟青陵高等学校" : {
+         "location" : "新潟県新潟市中央区水道町1-9532",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "951-8121",
          "owner_type" : "私立",
-         "short_name" : "新潟青陵高校"
+         "senior_high_school_code" : "15502A",
+         "short_name" : "新潟青陵高校",
+         "url" : "http://www.seiryo-high.ed.jp/index.html"
       },
       "新発田中央高等学校" : {
          "location_area" : "新発田市",
@@ -559,34 +1005,60 @@
          "short_name" : "新発田中央高校"
       },
       "日本文理高等学校" : {
+         "location" : "新潟県新潟市西区新通1072",
          "location_area" : "新潟市西区",
+         "location_wikipedia_latlon" : "|37|51|32.2|N|138|56|59.4|E|",
+         "location_zipcode" : "950-2035",
          "owner_type" : "私立",
-         "short_name" : "日本文理高校"
+         "senior_high_school_code" : "15516A",
+         "short_name" : "日本文理高校",
+         "url" : "http://www.nihonbunri.ed.jp/"
       },
       "日本海聖高等学校" : {
+         "location" : "新潟県見附市本所2-2-21",
          "location_area" : "見附市",
+         "location_zipcode" : "954-0051",
          "owner_type" : "私立",
-         "short_name" : "日本海聖高校"
+         "senior_high_school_code" : "15518H",
+         "short_name" : "日本海聖高校",
+         "url" : "http://www.nipponkaisei.ed.jp/"
       },
       "東京学館新潟高等学校" : {
+         "location" : "新潟県新潟市鐘木185-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "950-1141",
          "owner_type" : "私立",
-         "short_name" : "東京学館新潟高校"
+         "senior_high_school_code" : "15515C",
+         "short_name" : "東京学館新潟高校",
+         "url" : "http://www.tgn.ed.jp/"
       },
       "英智ウィル学院高等学校" : {
+         "location" : "新潟県長岡市宮栄3-16-14",
          "location_area" : "長岡市",
+         "location_zipcode" : "940-1154",
          "owner_type" : "私立",
-         "short_name" : "英智ウィル学院高校"
+         "senior_high_school_code" : "15519F",
+         "short_name" : "英智ウィル学院高校",
+         "url" : "http://www.eichi.ed.jp/"
       },
       "開志学園高等学校" : {
+         "location" : "新潟市中央区弁天橋通1丁目4-1",
          "location_area" : "新潟市中央区",
+         "location_zipcode" : "950-0925",
          "owner_type" : "私立",
-         "short_name" : "開志学園高校"
+         "senior_high_school_code" : "15517K",
+         "short_name" : "開志学園高校",
+         "url" : "http://www.kaishi.ed.jp/"
       },
       "関根学園高等学校" : {
+         "location" : "新潟県上越市大貫1325-1",
          "location_area" : "上越市",
+         "location_wikipedia_latlon" : "|37|6|22.0|N|138|13|56.8|E|",
+         "location_zipcode" : "943-0893",
          "owner_type" : "私立",
-         "short_name" : "関根学園高校"
+         "senior_high_school_code" : "15513G",
+         "short_name" : "関根学園高校",
+         "url" : "http://www.sekine-hs.jorne.ed.jp/"
       }
    }
 }

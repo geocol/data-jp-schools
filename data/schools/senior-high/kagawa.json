@@ -1,108 +1,183 @@
 {
    "senior_high_schools" : {
       "坂出第一高等学校" : {
+         "location" : "香川県坂出市駒止町二丁目1番3号",
+         "location_zipcode" : "762-0032",
          "owner_type" : "私立",
-         "short_name" : "坂出第一高校"
+         "senior_high_school_code" : "37505F",
+         "short_name" : "坂出第一高校",
+         "url" : "http://www.sakaide1-h.ed.jp/"
       },
       "尽誠学園高等学校" : {
+         "location" : "香川県善通寺市生野町855番地1",
+         "location_zipcode" : "765-0053",
          "owner_type" : "私立",
-         "short_name" : "尽誠学園高校"
+         "senior_high_school_code" : "37508A",
+         "short_name" : "尽誠学園高校",
+         "url" : "http://www4.ocn.ne.jp/~jinsei-g/"
       },
       "英明高等学校" : {
+         "location" : "香川県高松市亀岡町1番10号",
+         "location_wikipedia_latlon" : "|34|20|13.1|N|134|2|33.8|E|",
+         "location_zipcode" : "760-0006",
          "owner_type" : "私立",
-         "short_name" : "英明高校"
+         "senior_high_school_code" : "37502A",
+         "short_name" : "英明高校",
+         "url" : "http://www.eimei.ed.jp/"
       },
       "藤井学園寒川高等学校" : {
          "owner_type" : "私立",
          "short_name" : "藤井学園寒川高校"
       },
       "香川県大手前高松高等学校" : {
+         "location" : "香川県高松市室新町1166番地",
+         "location_wikipedia_latlon" : "|34|19|36.0|N|134|2|2.8|E|",
+         "location_zipcode" : "761-8062",
          "owner_type" : "私立",
+         "senior_high_school_code" : "37504H",
          "short_name" : "香川県大手前高松高校",
+         "url" : "http://www.otemaetk.com/",
          "wikipedia_name" : "香川県大手前高松中学・高等学校"
       },
       "香川県大手前高等学校" : {
+         "location" : "香川県丸亀市大手町一丁目6番1号",
+         "location_zipcode" : "763-0034",
          "owner_type" : "私立",
+         "senior_high_school_code" : "37506D",
          "short_name" : "香川県大手前高校",
+         "url" : "http://www4.ocn.ne.jp/~otemae/",
          "wikipedia_name" : "香川県大手前中学校・高等学校"
       },
       "香川県立三木高等学校" : {
+         "location" : "香川県木田郡三木町平木750番地",
          "location_area" : "木田郡",
+         "location_zipcode" : "761-0702",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "三木高校"
+         "senior_high_school_code" : "37135B",
+         "short_name" : "三木高校",
+         "url" : "http://www.kagawa-edu.jp/mikih01/top.htm"
       },
       "香川県立三本松高等学校" : {
+         "location" : "香川県東かがわ市三本松1500番地1",
          "location_area" : "東かがわ市",
+         "location_zipcode" : "769-2601",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "三本松高校"
+         "senior_high_school_code" : "37103D",
+         "short_name" : "三本松高校",
+         "url" : "http://www.kagawa-edu.jp/sankoh01/"
       },
       "香川県立三豊工業高等学校" : {
+         "location" : "香川県観音寺市大野原町大野原5537番地",
          "location_area" : "観音寺市",
+         "location_zipcode" : "769-1689",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "三豊工業高校"
+         "senior_high_school_code" : "37128K",
+         "short_name" : "三豊工業高校",
+         "url" : "http://www.kagawa-edu.jp/mitokh01/"
       },
       "香川県立丸亀城西高等学校" : {
+         "location" : "香川県丸亀市津森町位267番地",
          "location_area" : "丸亀市",
+         "location_zipcode" : "763-0052",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "丸亀城西高校"
+         "senior_high_school_code" : "37118B",
+         "short_name" : "丸亀城西高校",
+         "url" : "http://www.kagawa-edu.jp/mjh01/"
       },
       "香川県立丸亀高等学校" : {
+         "location" : "香川県丸亀市六番丁1番地",
          "location_area" : "丸亀市",
+         "location_zipcode" : "763-8521",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "丸亀高校"
+         "senior_high_school_code" : "37117D",
+         "short_name" : "丸亀高校",
+         "url" : "http://www.kagawa-edu.jp/marukh01/"
       },
       "香川県立善通寺第一高等学校" : {
+         "location" : "香川県善通寺市文京町一丁目1番5号",
          "location_area" : "善通寺市",
+         "location_zipcode" : "765-0013",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "善通寺第一高校"
+         "senior_high_school_code" : "37121B",
+         "short_name" : "善通寺第一高校",
+         "url" : "http://www.kagawa-edu.jp/zen1h01/"
       },
       "香川県立土庄高等学校" : {
+         "location" : "香川県小豆郡土庄町甲282番地1",
          "location_area" : "小豆郡",
+         "location_wikipedia_latlon" : "|34|29|6|N|134|11|16|E|",
+         "location_zipcode" : "761-4193",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "土庄高校"
+         "senior_high_school_code" : "37102F",
+         "short_name" : "土庄高校",
+         "url" : "http://www.kagawa-edu.jp/tonosh01/"
       },
       "香川県立坂出商業高等学校" : {
+         "location" : "香川県坂出市青葉町1番13号",
          "location_area" : "坂出市",
+         "location_zipcode" : "762-0037",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "坂出商業高校"
+         "senior_high_school_code" : "37115H",
+         "short_name" : "坂出商業高校",
+         "url" : "http://www.kagawa-edu.jp/sakash01/"
       },
       "香川県立坂出工業高等学校" : {
+         "location" : "香川県坂出市御供所町一丁目1番2号",
          "location_area" : "坂出市",
+         "location_zipcode" : "762-0051",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "坂出工業高校"
+         "senior_high_school_code" : "37116F",
+         "short_name" : "坂出工業高校",
+         "url" : "http://www.kagawa-edu.jp/sakakh01/"
       },
       "香川県立坂出高等学校" : {
+         "location" : "香川県坂出市文京町二丁目1番5号",
          "location_area" : "坂出市",
+         "location_zipcode" : "762-0031",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "坂出高校"
+         "senior_high_school_code" : "37114K",
+         "short_name" : "坂出高校",
+         "url" : "http://www.kagawa-edu.jp/sakadh01/"
       },
       "香川県立多度津高等学校" : {
+         "location" : "香川県仲多度郡多度津町栄町一丁目1番82号",
          "location_area" : "仲多度郡",
+         "location_zipcode" : "764-0011",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "多度津高校"
+         "senior_high_school_code" : "37136A",
+         "short_name" : "多度津高校",
+         "url" : "http://www.kagawa-edu.jp/takouh01/"
       },
       "香川県立小豆島高等学校" : {
+         "location" : "香川県小豆郡小豆島町草壁本町57",
          "location_area" : "小豆郡",
+         "location_zipcode" : "761-4432",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "小豆島高校"
+         "senior_high_school_code" : "37101H",
+         "short_name" : "小豆島高校",
+         "url" : "http://www.kagawa-edu.jp/syodoh01/main.htm"
       },
       "香川県立志度高等学校" : {
+         "location" : "香川県さぬき市志度366-5",
          "location_area" : "さぬき市",
+         "location_zipcode" : "769-2101",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "志度高校"
+         "senior_high_school_code" : "37106J",
+         "short_name" : "志度高校",
+         "url" : "http://www.kagawa-edu.jp/shidoh01/shidokou.html"
       },
       "香川県立津田高等学校" : {
          "location_area" : "さぬき市",
@@ -111,77 +186,126 @@
          "short_name" : "津田高校"
       },
       "香川県立琴平高等学校" : {
+         "location" : "香川県仲多度郡琴平町142-2",
          "location_area" : "仲多度郡",
+         "location_zipcode" : "766-0002",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "琴平高校"
+         "senior_high_school_code" : "37123J",
+         "short_name" : "琴平高校",
+         "url" : "http://www.kagawa-edu.jp/kohtoh01/"
       },
       "香川県立石田高等学校" : {
+         "location" : "香川県さぬき市寒川町石田東甲1065番地",
          "location_area" : "さぬき市",
+         "location_zipcode" : "761-0121",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "石田高校"
+         "senior_high_school_code" : "37105A",
+         "short_name" : "石田高校",
+         "url" : "http://www.kagawa-edu.jp/isidah01/"
       },
       "香川県立笠田高等学校" : {
+         "location" : "香川県三豊市豊中町笠田竹田251番地",
          "location_area" : "三豊市",
+         "location_zipcode" : "769-1503",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "笠田高校"
+         "senior_high_school_code" : "37125E",
+         "short_name" : "笠田高校",
+         "url" : "http://www.kagawa-edu.jp/kasadh01/kasada.htm"
       },
       "香川県立観音寺中央高等学校" : {
+         "location" : "香川県観音寺市天神町一丁目1番15号",
          "location_area" : "観音寺市",
+         "location_wikipedia_latlon" : "|34|7|43.9|N|133|39|36.3|E|",
+         "location_zipcode" : "768-0068",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "観音寺中央高校"
+         "senior_high_school_code" : "37127A",
+         "short_name" : "観音寺中央高校",
+         "url" : "http://www.kagawa-edu.jp/knchuh01/"
       },
       "香川県立観音寺第一高等学校" : {
+         "location" : "香川県観音寺市茂木町四丁目2番38号",
          "location_area" : "観音寺市",
+         "location_wikipedia_latlon" : "|34|7|58.5|N|133|39|29.8|E|",
+         "location_zipcode" : "768-0069",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "観音寺第一高校"
+         "senior_high_school_code" : "37126C",
+         "short_name" : "観音寺第一高校",
+         "url" : "http://www.kagawa-edu.jp/kanich01/"
       },
       "香川県立農業経営高等学校" : {
+         "location" : "香川県綾歌郡綾川町北1023番地1",
          "location_area" : "綾歌郡",
+         "location_zipcode" : "761-2395",
          "owner_type" : "県立",
          "school_area" : "第二学区",
          "short_name" : "農業経営高校"
       },
       "香川県立飯山高等学校" : {
+         "location" : "香川県丸亀市飯山町下法軍寺664-1",
          "location_area" : "丸亀市",
+         "location_zipcode" : "762-0083",
          "owner_type" : "県立",
          "school_area" : "第二学区",
-         "short_name" : "飯山高校"
+         "senior_high_school_code" : "37113A",
+         "short_name" : "飯山高校",
+         "url" : "http://www.kagawa-edu.jp/hanznh01/"
       },
       "香川県立香川中央高等学校" : {
+         "location" : "香川県高松市香川町大野字上中津2001番地",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|16|1.6|N|134|1|4.3|E|",
+         "location_zipcode" : "761-1794",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "香川中央高校"
+         "senior_high_school_code" : "37133F",
+         "short_name" : "香川中央高校",
+         "url" : "http://www.kagawa-edu.jp/kgchuh01/J/chuou0.html"
       },
       "香川県立高松北高等学校" : {
+         "location" : "香川県高松市牟礼町牟礼1583-1",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|20|46|N|134|8|34|E|",
+         "location_zipcode" : "761-0121",
          "owner_type" : "県立",
          "school_area" : "第一学区",
          "short_name" : "高松北高校",
+         "url" : "http://www.kagawa-edu.jp/kitah01/top.htm",
          "wikipedia_name" : "香川県立高松北中学校・高等学校"
       },
       "香川県立高松南高等学校" : {
+         "location" : "香川県高松市一宮町531番地",
          "location_area" : "高松市",
+         "location_zipcode" : "761-8084",
          "owner_type" : "県立",
          "school_area" : "第一学区",
          "short_name" : "高松南高校"
       },
       "香川県立高松商業高等学校" : {
+         "location" : "香川県高松市松島町一丁目18番54号",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|20|18.4|N|134|3|33.3|E|",
+         "location_zipcode" : "760-0068",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "高松商業高校"
+         "senior_high_school_code" : "37110G",
+         "short_name" : "高松商業高校",
+         "url" : "http://www.kagawa-edu.jp/takash01/"
       },
       "香川県立高松工芸高等学校" : {
+         "location" : "香川県高松市番町二丁目9番30号",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|20|38.6|N|134|2|32.5|E|",
+         "location_zipcode" : "760-0017",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "高松工芸高校"
+         "senior_high_school_code" : "37109C",
+         "short_name" : "高松工芸高校",
+         "url" : "http://www.kagawa-edu.jp/kogeih01/"
       },
       "香川県立高松東高等学校" : {
          "location_area" : "高松市",
@@ -190,53 +314,95 @@
          "short_name" : "高松東高校"
       },
       "香川県立高松桜井高等学校" : {
+         "location" : "香川県高松市多肥上町1250",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|17|43.9|N|134|3|23.6|E|",
+         "location_zipcode" : "761-8076",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "高松桜井高校"
+         "senior_high_school_code" : "37134D",
+         "short_name" : "高松桜井高校",
+         "url" : "http://www.kagawa-edu.jp/sakrah02/index.html/"
       },
       "香川県立高松西高等学校" : {
+         "location" : "香川県高松市鬼無町山口257-1",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|19|36.7|N|133|58|51.5|E|",
+         "location_zipcode" : "761-8076",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "高松西高校"
+         "senior_high_school_code" : "37130A",
+         "short_name" : "高松西高校",
+         "url" : "http://www.kagawa-edu.jp/twesth01/"
       },
       "香川県立高松高等学校" : {
+         "location" : "香川県高松市番町三丁目1番1号",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|20|29.7|N|134|2|38.7|E|",
+         "location_zipcode" : "760-0017",
          "owner_type" : "県立",
          "school_area" : "第一学区",
-         "short_name" : "高松高校"
+         "senior_high_school_code" : "37108E",
+         "short_name" : "高松高校",
+         "url" : "http://www.kagawa-edu.jp/takah01/"
       },
       "香川県立高瀬高等学校" : {
+         "location" : "香川県三豊市高瀬町下勝間2093番地",
          "location_area" : "三豊市",
+         "location_zipcode" : "767-0011",
          "owner_type" : "県立",
          "school_area" : "第二学区",
+         "senior_high_school_code" : "37124G",
          "short_name" : "高瀬高校",
+         "url" : "http://www.kagawa-edu.jp/tkseh01/",
          "wikipedia_name" : "香川県立高瀬のぞみが丘中学校・高瀬高等学校"
       },
       "香川県藤井高等学校" : {
+         "location" : "香川県丸亀市新浜町一丁目3番1号",
+         "location_zipcode" : "763-0063",
          "owner_type" : "私立",
+         "senior_high_school_code" : "37507B",
          "short_name" : "香川県藤井高校",
+         "url" : "http://www.fujii.ed.jp/",
          "wikipedia_name" : "香川県藤井中学・高等学校"
       },
       "香川西高等学校" : {
+         "location" : "香川県三豊市高瀬町下勝間2351番地2",
+         "location_zipcode" : "767-8513",
          "owner_type" : "私立",
-         "short_name" : "香川西高校"
+         "senior_high_school_code" : "37509J",
+         "short_name" : "香川西高校",
+         "url" : "http://www.kagawanishikou.com/"
       },
       "香川誠陵高等学校" : {
+         "location" : "香川県高松市鬼無町佐料469-1",
+         "location_wikipedia_latlon" : "|34|19|53.1|N|133|59|9.8|E|",
+         "location_zipcode" : "761-8022",
          "owner_type" : "私立",
+         "senior_high_school_code" : "37510B",
          "short_name" : "香川誠陵高校",
+         "url" : "http://www.k-seiryo.ed.jp/",
          "wikipedia_name" : "香川誠陵中学・高等学校"
       },
       "高松中央高等学校" : {
+         "location" : "香川県高松市松島町一丁目14番8号",
+         "location_wikipedia_latlon" : "|34|20|23.0|N|134|3|38.3|E|",
+         "location_zipcode" : "760-0068",
          "owner_type" : "私立",
-         "short_name" : "高松中央高校"
+         "senior_high_school_code" : "37503K",
+         "short_name" : "高松中央高校",
+         "url" : "http://www.ta-chuo.ed.jp/"
       },
       "高松第一高等学校" : {
+         "location" : "香川県高松市桜町二丁目5番10号",
          "location_area" : "高松市",
+         "location_wikipedia_latlon" : "|34|19|41.0|N|134|3|9.3|E|",
+         "location_zipcode" : "760-0074",
          "owner_type" : "公立",
          "school_area" : "第一学区",
-         "short_name" : "高松第一高校"
+         "senior_high_school_code" : "37129H",
+         "short_name" : "高松第一高校",
+         "url" : "http://www.taka-ichi-h.ed.jp/"
       }
    }
 }

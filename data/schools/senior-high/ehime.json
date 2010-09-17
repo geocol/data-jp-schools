@@ -21,138 +21,253 @@
    },
    "senior_high_schools" : {
       "今治明徳高等学校" : {
+         "location" : "愛媛県今治市北日吉町1丁目4-47",
+         "location_zipcode" : "794-0054",
          "owner_type" : "私立",
-         "short_name" : "今治明徳高校"
+         "short_name" : "今治明徳高校",
+         "url" : "http://ns.ima-meitoku.ed.jp/meitoku/"
       },
       "今治明徳高等学校矢田分校" : {
          "owner_type" : "私立",
          "short_name" : "今治明徳高校矢田分校"
       },
       "今治精華高等学校" : {
+         "location" : "愛媛県今治市中日吉町2丁目1-34",
+         "location_zipcode" : "794-0055",
          "owner_type" : "私立",
-         "short_name" : "今治精華高校"
+         "short_name" : "今治精華高校",
+         "url" : "http://www.imabariseika.ac.jp/"
       },
       "帝京冨士高等学校" : {
+         "location" : "愛媛県大洲市柚木947番地",
+         "location_zipcode" : "795-0011",
          "owner_type" : "私立",
          "short_name" : "帝京冨士高校",
+         "url" : "http://www.tomisu.ac.jp/",
          "wikipedia_name" : "帝京冨士中学校・高等学校"
       },
       "帝京第五高等学校" : {
+         "location" : "愛媛県大洲市新谷甲233",
+         "location_zipcode" : "795-0072",
          "owner_type" : "私立",
-         "short_name" : "帝京第五高校"
+         "senior_high_school_code" : "38510H",
+         "short_name" : "帝京第五高校",
+         "url" : "http://www.teikyo5-h.ed.jp/"
       },
       "愛光高等学校" : {
+         "location" : "愛媛県松山市衣山5-1610-1",
+         "location_wikipedia_latlon" : "|33|50|46.5|N|132|44|6.7|E|",
+         "location_zipcode" : "791-8501",
          "owner_type" : "私立",
+         "senior_high_school_code" : "38505A",
          "short_name" : "愛光高校",
+         "url" : "http://www.aiko.ed.jp/index.shtml",
          "wikipedia_name" : "愛光中学校・高等学校"
       },
       "愛媛大学附属高等学校" : {
+         "location" : "愛媛県松山市樽味3丁目2-40",
+         "location_zipcode" : "790-8566",
          "owner_type" : "国立",
-         "short_name" : "愛媛大学附属高校"
+         "school_area" : "全国",
+         "senior_high_school_code" : "38001G",
+         "short_name" : "愛媛大学附属高校",
+         "url" : "http://www.hi.ehime-u.ac.jp/"
       },
       "愛媛県立三島高等学校" : {
          "owner_type" : "県立",
          "short_name" : "三島高校"
       },
       "愛媛県立三崎高等学校" : {
+         "location" : "愛媛県伊方町三崎511",
+         "location_zipcode" : "796-0801",
          "owner_type" : "県立",
-         "short_name" : "三崎高校"
+         "senior_high_school_code" : "38140D",
+         "short_name" : "三崎高校",
+         "url" : "http://ehm-misaki-h.esnet.ed.jp/"
       },
       "愛媛県立三瓶高等学校" : {
+         "location" : "愛媛県西予市三瓶町津布理3463番地",
+         "location_zipcode" : "796-0908",
          "owner_type" : "県立",
-         "short_name" : "三瓶高校"
+         "senior_high_school_code" : "38141B",
+         "short_name" : "三瓶高校",
+         "url" : "http://mikame-h.esnet.ed.jp/"
       },
       "愛媛県立三間高等学校" : {
+         "location" : "愛媛県宇和島市三間町戸雁764-3",
+         "location_zipcode" : "798-1115",
          "owner_type" : "県立",
-         "short_name" : "三間高校"
+         "short_name" : "三間高校",
+         "url" : "http://mima-h.esnet.ed.jp/"
       },
       "愛媛県立上浮穴高等学校" : {
+         "location" : "愛媛県上浮穴郡久万高原町上野尻甲486番地",
+         "location_zipcode" : "791-1206",
          "owner_type" : "県立",
-         "short_name" : "上浮穴高校"
+         "senior_high_school_code" : "38129C",
+         "short_name" : "上浮穴高校",
+         "url" : "http://kamiukena-h.esnet.ed.jp/cms/"
       },
       "愛媛県立中山高等学校" : {
+         "location" : "愛媛県伊予市中山町出渕二番耕地105-10",
+         "location_zipcode" : "791-3295",
          "owner_type" : "県立",
-         "short_name" : "中山高校"
+         "senior_high_school_code" : "38132C",
+         "short_name" : "中山高校",
+         "url" : "http://nakayama-h.esnet.ed.jp/"
       },
       "愛媛県立丹原高等学校" : {
+         "location" : "愛媛県西条市丹原町願連寺163",
+         "location_zipcode" : "791-0502",
          "owner_type" : "県立",
-         "short_name" : "丹原高校"
+         "senior_high_school_code" : "38112J",
+         "short_name" : "丹原高校",
+         "url" : "http://tambara-h.esnet.ed.jp/"
       },
       "愛媛県立今治北高等学校" : {
+         "location" : "愛媛県今治市宮下町2-2-14",
+         "location_wikipedia_latlon" : "|34|3|55.3|N|132|59|16.5|E|",
+         "location_zipcode" : "794-0052",
          "owner_type" : "県立",
-         "short_name" : "今治北高校"
+         "senior_high_school_code" : "38115C",
+         "short_name" : "今治北高校",
+         "url" : "http://imabarikita-h.esnet.ed.jp/"
       },
       "愛媛県立今治北高等学校大三島分校" : {
          "owner_type" : "県立",
          "short_name" : "今治北高校大三島分校"
       },
       "愛媛県立今治南高等学校" : {
+         "location" : "愛媛県今治市常盤町7丁目2-17",
+         "location_zipcode" : "794-0015",
          "owner_type" : "県立",
-         "short_name" : "今治南高校"
+         "senior_high_school_code" : "38114E",
+         "short_name" : "今治南高校",
+         "url" : "http://www.e-minami.ed.jp/"
       },
       "愛媛県立今治工業高等学校" : {
+         "location" : "愛媛県今治市河南町1-1-36",
+         "location_zipcode" : "794-0822",
          "owner_type" : "県立",
-         "short_name" : "今治工業高校"
+         "senior_high_school_code" : "38116A",
+         "short_name" : "今治工業高校",
+         "url" : "http://imabari-th.esnet.ed.jp/"
       },
       "愛媛県立今治西高等学校" : {
+         "location" : "愛媛県今治市中日吉町3-5-47",
+         "location_zipcode" : "794-0055",
          "owner_type" : "県立",
-         "short_name" : "今治西高校"
+         "senior_high_school_code" : "38113G",
+         "short_name" : "今治西高校",
+         "url" : "http://imabarinishi-h.esnet.ed.jp/"
       },
       "愛媛県立伊予農業高等学校" : {
+         "location" : "愛媛県伊予市下吾川1433",
+         "location_zipcode" : "799-3111",
          "owner_type" : "県立",
-         "short_name" : "伊予農業高校"
+         "short_name" : "伊予農業高校",
+         "url" : "http://iyo-ah.esnet.ed.jp/"
       },
       "愛媛県立伊予高等学校" : {
+         "location" : "愛媛県伊予郡松前町北黒田119-2",
+         "location_zipcode" : "791-3102",
          "owner_type" : "県立",
-         "short_name" : "伊予高校"
+         "senior_high_school_code" : "38154D",
+         "short_name" : "伊予高校",
+         "url" : "http://iyo-h.esnet.ed.jp/"
       },
       "愛媛県立伯方高等学校" : {
+         "location" : "愛媛県今治市伯方町有津甲2358",
+         "location_zipcode" : "794-2301",
          "owner_type" : "県立",
-         "short_name" : "伯方高校"
+         "senior_high_school_code" : "38118H",
+         "short_name" : "伯方高校",
+         "url" : "http://ehm-hakata-h.esnet.ed.jp/"
       },
       "愛媛県立八幡浜工業高等学校" : {
+         "location" : "愛媛県八幡浜市古町二丁目3番1号",
+         "location_zipcode" : "796-8003",
          "owner_type" : "県立",
-         "short_name" : "八幡浜工業高校"
+         "senior_high_school_code" : "38138B",
+         "short_name" : "八幡浜工業高校",
+         "url" : "http://yawatahama-th.esnet.ed.jp/"
       },
       "愛媛県立八幡浜高等学校" : {
+         "location" : "愛媛県八幡浜市松柏丙654番地",
+         "location_zipcode" : "796-0010",
          "owner_type" : "県立",
-         "short_name" : "八幡浜高校"
+         "senior_high_school_code" : "38137D",
+         "short_name" : "八幡浜高校",
+         "url" : "http://yawatahama-h.esnet.ed.jp/"
       },
       "愛媛県立内子高等学校" : {
+         "location" : "愛媛県喜多郡内子町内子3397",
+         "location_zipcode" : "791-3301",
          "owner_type" : "県立",
-         "short_name" : "内子高校"
+         "senior_high_school_code" : "38136F",
+         "short_name" : "内子高校",
+         "url" : "http://uchiko-h.esnet.ed.jp/cms/"
       },
       "愛媛県立北宇和高等学校" : {
+         "location" : "愛媛県北宇和郡鬼北町近永942",
+         "location_wikipedia_latlon" : "|33|15|18|N|132|40|32|E|",
+         "location_zipcode" : "798-1397",
          "owner_type" : "県立",
-         "short_name" : "北宇和高校"
+         "senior_high_school_code" : "38149H",
+         "short_name" : "北宇和高校",
+         "url" : "http://kitauwa-h.esnet.ed.jp/"
       },
       "愛媛県立北宇和高等学校日吉分校" : {
          "owner_type" : "県立",
          "short_name" : "北宇和高校日吉分校"
       },
       "愛媛県立北条高等学校" : {
+         "location" : "愛媛県松山市北条辻600-1",
+         "location_wikipedia_latlon" : "|33|58|12.8|N|132|46|32.1|E|",
+         "location_zipcode" : "799-2493",
          "owner_type" : "県立",
-         "short_name" : "北条高校"
+         "senior_high_school_code" : "38121H",
+         "short_name" : "北条高校",
+         "url" : "http://ehm-hojo-h.esnet.ed.jp/"
       },
       "愛媛県立南宇和高等学校" : {
+         "location" : "愛媛県南宇和郡愛南町御荘平城3269",
+         "location_zipcode" : "798-4192",
          "owner_type" : "県立",
-         "short_name" : "南宇和高校"
+         "short_name" : "南宇和高校",
+         "url" : "http://minamiuwa-h.esnet.ed.jp/"
       },
       "愛媛県立吉田高等学校" : {
+         "location" : "愛媛県宇和島市吉田町北小路甲10",
+         "location_zipcode" : "799-3794",
          "owner_type" : "県立",
-         "short_name" : "吉田高校"
+         "senior_high_school_code" : "38147A",
+         "short_name" : "吉田高校",
+         "url" : "http://ehm-yoshida-h.esnet.ed.jp/"
       },
       "愛媛県立土居高等学校" : {
+         "location" : "愛媛県四国中央市土居町中村892番地",
+         "location_zipcode" : "799-0701",
          "owner_type" : "県立",
-         "short_name" : "土居高校"
+         "short_name" : "土居高校",
+         "url" : "http://doi-h.esnet.ed.jp/index.php"
       },
       "愛媛県立大洲農業高等学校" : {
+         "location" : "愛媛県大洲市東大洲15番地1",
+         "location_zipcode" : "795-8509",
          "owner_type" : "県立",
-         "short_name" : "大洲農業高校"
+         "senior_high_school_code" : "38134K",
+         "short_name" : "大洲農業高校",
+         "url" : "http://ohzu-ah.esnet.ed.jp/"
       },
       "愛媛県立大洲高等学校" : {
+         "location" : "愛媛県大洲市大洲737番地",
+         "location_wikipedia_latlon" : "|33|30|22|N|132|32|23|E|",
+         "location_zipcode" : "795-8502",
          "owner_type" : "県立",
-         "short_name" : "大洲高校"
+         "senior_high_school_code" : "38133A",
+         "short_name" : "大洲高校",
+         "url" : "http://ehm-ohzu-h.esnet.ed.jp/"
       },
       "愛媛県立大洲高等学校肱川分校" : {
          "owner_type" : "県立",
@@ -163,32 +278,60 @@
          "short_name" : "宇和島南高校"
       },
       "愛媛県立宇和島東高等学校" : {
+         "location" : "愛媛県宇和島市文京町1-1",
+         "location_zipcode" : "798-0066",
          "owner_type" : "県立",
-         "short_name" : "宇和島東高校"
+         "senior_high_school_code" : "38144G",
+         "short_name" : "宇和島東高校",
+         "url" : "http://uwajimahigashi-h.esnet.ed.jp/"
       },
       "愛媛県立宇和島水産高等学校" : {
+         "location" : "愛媛県宇和島市明倫町1-2-20",
+         "location_zipcode" : "798-0068",
          "owner_type" : "県立",
-         "short_name" : "宇和島水産高校"
+         "senior_high_school_code" : "38146C",
+         "short_name" : "宇和島水産高校",
+         "url" : "http://uwajimasuisan-h.esnet.ed.jp/usuiko/"
       },
       "愛媛県立宇和高等学校" : {
+         "location" : "愛媛県西予市宇和町卯之町4丁目190番地1",
+         "location_zipcode" : "797-0015",
          "owner_type" : "県立",
-         "short_name" : "宇和高校"
+         "senior_high_school_code" : "38142A",
+         "short_name" : "宇和高校",
+         "url" : "http://uwa-h.esnet.ed.jp/"
       },
       "愛媛県立小松高等学校" : {
+         "location" : "愛媛県西条市小松町新屋敷乙42-1",
+         "location_zipcode" : "799-1101",
          "owner_type" : "県立",
+         "senior_high_school_code" : "38110B",
          "short_name" : "小松高校"
       },
       "愛媛県立小田高等学校" : {
+         "location" : "愛媛県喜多郡内子町寺村978",
+         "location_zipcode" : "791-3502",
          "owner_type" : "県立",
-         "short_name" : "小田高校"
+         "senior_high_school_code" : "38130G",
+         "short_name" : "小田高校",
+         "url" : "http://oda-h.esnet.ed.jp/"
       },
       "愛媛県立川之江高等学校" : {
+         "location" : "愛媛県四国中央市川之江町2257番地",
+         "location_wikipedia_latlon" : "|34|0|38.0|N|133|34|36.8|E|",
+         "location_zipcode" : "799-0101",
          "owner_type" : "県立",
-         "short_name" : "川之江高校"
+         "senior_high_school_code" : "38101C",
+         "short_name" : "川之江高校",
+         "url" : "http://kawanoe-h.esnet.ed.jp/"
       },
       "愛媛県立川之石高等学校" : {
+         "location" : "愛媛県八幡浜市保内町川之石1-112",
+         "location_zipcode" : "796-0202",
          "owner_type" : "県立",
-         "short_name" : "川之石高校"
+         "senior_high_school_code" : "38139A",
+         "short_name" : "川之石高校",
+         "url" : "http://kawanoishi-h.esnet.ed.jp/"
       },
       "愛媛県立弓削高等学校" : {
          "owner_type" : "県立",
@@ -207,106 +350,193 @@
          "short_name" : "新居浜工業高校"
       },
       "愛媛県立新居浜東高等学校" : {
+         "location" : "新居浜市東雲町2丁目9番1号",
+         "location_zipcode" : "792-0864",
          "owner_type" : "県立",
-         "short_name" : "新居浜東高校"
+         "short_name" : "新居浜東高校",
+         "url" : "http://www.niihamahigashi-h.ed.jp/"
       },
       "愛媛県立新居浜西高等学校" : {
+         "location" : "愛媛県新居浜市宮西町4番46号",
+         "location_zipcode" : "792-0024",
          "owner_type" : "県立",
-         "short_name" : "新居浜西高校"
+         "senior_high_school_code" : "38105F",
+         "short_name" : "新居浜西高校",
+         "url" : "http://niihamanishi-h.esnet.ed.jp/"
       },
       "愛媛県立東予高等学校" : {
          "owner_type" : "県立",
          "short_name" : "東予高校"
       },
       "愛媛県立東温高等学校" : {
+         "location" : "愛媛県東温市志津川960",
+         "location_zipcode" : "791-0204",
          "owner_type" : "県立",
-         "short_name" : "東温高校"
+         "senior_high_school_code" : "38128E",
+         "short_name" : "東温高校",
+         "url" : "http://tohon-h.esnet.ed.jp/html/"
       },
       "愛媛県立松山中央高等学校" : {
+         "location" : "愛媛県松山市井門町1220番地",
+         "location_zipcode" : "791-1114",
          "owner_type" : "県立",
-         "short_name" : "松山中央高校"
+         "senior_high_school_code" : "38155B",
+         "short_name" : "松山中央高校",
+         "url" : "http://matsuyamachuo-h.esnet.ed.jp/index.html"
       },
       "愛媛県立松山北高等学校" : {
+         "location" : "愛媛県松山市文京町4-1",
+         "location_wikipedia_latlon" : "|33|50|57.5|N|132|46|5.3|E|",
+         "location_zipcode" : "790-0826",
          "owner_type" : "県立",
-         "short_name" : "松山北高校"
+         "senior_high_school_code" : "38125A",
+         "short_name" : "松山北高校",
+         "url" : "http://matsuyamakita-h.esnet.ed.jp/"
       },
       "愛媛県立松山北高等学校中島分校" : {
          "owner_type" : "県立",
          "short_name" : "松山北高校中島分校"
       },
       "愛媛県立松山南高等学校" : {
+         "location" : "愛媛県松山市末広町11-1",
+         "location_wikipedia_latlon" : "|33|50|0.5|N|132|45|46.5|E|",
+         "location_zipcode" : "790－0023",
          "owner_type" : "県立",
-         "short_name" : "松山南高校"
+         "senior_high_school_code" : "38124B",
+         "short_name" : "松山南高校",
+         "url" : "http://matsuyamaminami-h.esnet.ed.jp/"
       },
       "愛媛県立松山南高等学校砥部分校" : {
+         "location" : "愛媛県伊予郡砥部町岩谷口7",
+         "location_zipcode" : "791-2141",
          "owner_type" : "県立",
-         "short_name" : "松山南高校砥部分校"
+         "short_name" : "松山南高校砥部分校",
+         "url" : "http://matsuyamaminami-h-b.esnet.ed.jp/"
       },
       "愛媛県立松山商業高等学校" : {
+         "location" : "愛媛県松山市旭町71番地",
+         "location_wikipedia_latlon" : "|33|50|23.2|N|132|46|35.9|E|",
+         "location_zipcode" : "790-8530",
          "owner_type" : "県立",
-         "short_name" : "松山商業高校"
+         "senior_high_school_code" : "38127G",
+         "short_name" : "松山商業高校",
+         "url" : "http://matsuyama-ch.esnet.ed.jp/"
       },
       "愛媛県立松山工業高等学校" : {
+         "location" : "愛媛県松山市真砂町1番地",
+         "location_zipcode" : "790-0021",
          "owner_type" : "県立",
-         "short_name" : "松山工業高校"
+         "senior_high_school_code" : "38126J",
+         "short_name" : "松山工業高校",
+         "url" : "http://matsuyama-th.esnet.ed.jp/"
       },
       "愛媛県立松山東高等学校" : {
+         "location" : "愛媛県松山市持田町2-2-12",
+         "location_wikipedia_latlon" : "|33|50|32.4|N|132|46|48.1|E|",
+         "location_zipcode" : "790-8521",
          "owner_type" : "県立",
-         "short_name" : "松山東高校"
+         "senior_high_school_code" : "38122F",
+         "short_name" : "松山東高校",
+         "url" : "http://matsuyamahigashi-h.esnet.ed.jp/cms/"
       },
       "愛媛県立津島高等学校" : {
+         "location" : "愛媛県宇和島市津島町高田2469-1",
+         "location_zipcode" : "798-3302",
          "owner_type" : "県立",
-         "short_name" : "津島高校"
+         "senior_high_school_code" : "38150A",
+         "short_name" : "津島高校",
+         "url" : "http://ehm-tsushima-h.esnet.ed.jp/"
       },
       "愛媛県立西条農業高等学校" : {
          "owner_type" : "県立",
          "short_name" : "西条農業高校"
       },
       "愛媛県立西条高等学校" : {
+         "location" : "愛媛県西条市明屋敷234番地",
+         "location_zipcode" : "793-8509",
          "owner_type" : "県立",
-         "short_name" : "西条高校"
+         "senior_high_school_code" : "38108A",
+         "short_name" : "西条高校",
+         "url" : "http://saijo-h.esnet.ed.jp/"
       },
       "愛媛県立野村高等学校" : {
+         "location" : "愛媛県西予市野村町阿下6-2",
+         "location_zipcode" : "797-1211",
          "owner_type" : "県立",
-         "short_name" : "野村高校"
+         "senior_high_school_code" : "38143J",
+         "short_name" : "野村高校",
+         "url" : "http://nomura-h.esnet.ed.jp/"
       },
       "愛媛県立長浜高等学校" : {
+         "location" : "愛媛県大洲市長浜甲480番地1",
+         "location_zipcode" : "799-3401",
          "owner_type" : "県立",
-         "short_name" : "長浜高校"
+         "senior_high_school_code" : "38135H",
+         "short_name" : "長浜高校",
+         "url" : "http://ehm-nagahama-h.esnet.ed.jp/"
       },
       "新田高等学校" : {
+         "location" : "愛媛県松山市山西町663",
+         "location_wikipedia_latlon" : "|33|51|7.0|N|132|43|29.9|E|",
+         "location_zipcode" : "791-8026",
          "owner_type" : "私立",
-         "short_name" : "新田高校"
+         "senior_high_school_code" : "38503E",
+         "short_name" : "新田高校",
+         "url" : "http://www.nitta.ac.jp/"
       },
       "日本ウェルネス高等学校" : {
+         "location" : "愛媛県今治市大三島口総4010",
+         "location_zipcode" : "794-1307",
          "owner_type" : "私立",
-         "short_name" : "日本ウェルネス高校"
+         "senior_high_school_code" : "38514A",
+         "short_name" : "日本ウェルネス高校",
+         "url" : "http://www.taiken.ac.jp/wellness/"
       },
       "未来高等学校" : {
+         "location" : "愛媛県松山市一番町1-1-3",
+         "location_zipcode" : "790-0001",
          "owner_type" : "私立",
-         "short_name" : "未来高校"
+         "senior_high_school_code" : "38515J",
+         "short_name" : "未来高校",
+         "url" : "http://www.kbc-ehime.ac.jp/mirai-hs/"
       },
       "松山城南高等学校" : {
          "owner_type" : "私立",
          "short_name" : "松山城南高校"
       },
       "松山東雲高等学校" : {
+         "location" : "愛媛県松山市大街道三丁目2番24号",
+         "location_zipcode" : "790-8541",
          "owner_type" : "私立",
+         "senior_high_school_code" : "38507H",
          "short_name" : "松山東雲高校",
+         "url" : "http://www.shinonome.ac.jp/highschool/index.php",
          "wikipedia_name" : "松山東雲中学校・高等学校"
       },
       "松山聖陵高等学校" : {
+         "location" : "愛媛県松山市久万ノ台1112",
+         "location_wikipedia_latlon" : "|33|51|23.0|N|132|44|27.4|E|",
+         "location_zipcode" : "791-8016",
          "owner_type" : "私立",
-         "short_name" : "松山聖陵高校"
+         "short_name" : "松山聖陵高校",
+         "url" : "http://www.matsuyamaseiryo-h.ed.jp/"
       },
       "済美高等学校" : {
+         "location" : "愛媛県松山市湊町7丁目9-1",
+         "location_zipcode" : "790-8560",
          "owner_type" : "私立",
+         "senior_high_school_code" : "38509D",
          "short_name" : "済美高校",
+         "url" : "http://saibi.ac.jp/",
          "wikipedia_name" : "済美高等学校 (愛媛県)"
       },
       "聖カタリナ女子高等学校" : {
+         "location" : "愛媛県松山市藤原町468",
+         "location_zipcode" : "790-8557",
          "owner_type" : "私立",
-         "short_name" : "聖カタリナ女子高校"
+         "senior_high_school_code" : "38508F",
+         "short_name" : "聖カタリナ女子高校",
+         "url" : "http://www.catalina.ed.jp/"
       }
    }
 }

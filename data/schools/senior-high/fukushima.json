@@ -1,41 +1,77 @@
 {
    "senior_high_schools" : {
       "いわき秀英高等学校" : {
+         "location" : "福島県いわき市泉町字滝ノ沢3-1",
+         "location_zipcode" : "971-8185",
          "owner_type" : "私立",
-         "short_name" : "いわき秀英高校"
+         "senior_high_school_code" : "07519B",
+         "short_name" : "いわき秀英高校",
+         "url" : "http://www.iwaki-shuei.ac.jp/"
       },
       "仁愛高等学校" : {
+         "location" : "福島県会津若松市鶴賀町1-5",
+         "location_zipcode" : "965-0011",
          "owner_type" : "私立",
-         "short_name" : "仁愛高校"
+         "senior_high_school_code" : "07515K",
+         "short_name" : "仁愛高校",
+         "url" : "http://www.jinai.ac.jp/index2.htm"
       },
       "会津若松ザベリオ学園高等学校" : {
          "owner_type" : "私立",
          "short_name" : "会津若松ザベリオ学園高校"
       },
       "大智学園高等学校" : {
+         "location" : "福島県双葉郡川内村大字上川内字町分143",
+         "location_zipcode" : "979-1201",
          "owner_type" : "私立",
-         "short_name" : "大智学園高校"
+         "senior_high_school_code" : "07520F",
+         "short_name" : "大智学園高校",
+         "url" : "http://daichi.ed.jp/"
       },
       "学校法人石川高等学校" : {
+         "location" : "福島県石川郡石川町大室502番地",
+         "location_zipcode" : "963-7853",
          "owner_type" : "私立",
+         "senior_high_school_code" : "07512E",
          "short_name" : "学校法人石川高校",
+         "url" : "http://ishikawa-gijuku.ac.jp/",
          "wikipedia_name" : "学校法人石川高等学校・石川義塾中学校"
       },
       "尚志学園尚志高等学校" : {
+         "location" : "（全日制）福島県郡山市大槻町字坦の腰2",
+         "location_wikipedia_latlon" : "|37|22|47.7|N|140|18|36.9|E|",
+         "location_zipcode" : "963-0201",
          "owner_type" : "私立",
-         "short_name" : "尚志学園尚志高校"
+         "senior_high_school_code" : "07509E",
+         "short_name" : "尚志学園尚志高校",
+         "url" : "http://www.shoshi.ed.jp/highschool/"
       },
       "帝京安積高等学校" : {
+         "location" : "福島県郡山市安積町日出山神明下43",
+         "location_wikipedia_latlon" : "|37|21|58.9|N|140|23|16.6|E|",
+         "location_zipcode" : "963-0101",
          "owner_type" : "私立",
-         "short_name" : "帝京安積高校"
+         "senior_high_school_code" : "07508G",
+         "short_name" : "帝京安積高校",
+         "url" : "http://www.teikyoasaka.ed.jp/"
       },
       "日本大学東北高等学校" : {
+         "location" : "福島県郡山市田村町徳定字中河原1",
+         "location_wikipedia_latlon" : "|37|21|26.8|N|140|22|46.1|E|",
+         "location_zipcode" : "963-1165",
          "owner_type" : "私立",
-         "short_name" : "日本大学東北高校"
+         "senior_high_school_code" : "07510J",
+         "short_name" : "日本大学東北高校",
+         "url" : "http://www.tohoku.hs.nihon-u.ac.jp/"
       },
       "東日本国際大学附属昌平高等学校" : {
+         "location" : "福島県いわき市平上片寄字上ノ内152",
+         "location_wikipedia_latlon" : "|37|4|52.1|N|140|54|48|E|",
+         "location_zipcode" : "970-8011",
          "owner_type" : "私立",
+         "senior_high_school_code" : "07511G",
          "short_name" : "東日本国際大学附属昌平高校",
+         "url" : "http://www.shohei-chukou.ac.jp/",
          "wikipedia_name" : "東日本国際大学附属昌平中学・高等学校"
       },
       "松栄高等学校" : {
@@ -43,17 +79,28 @@
          "short_name" : "松栄高校"
       },
       "松韻学園福島高等学校" : {
+         "location" : "福島県福島市御山町9-1",
+         "location_wikipedia_latlon" : "|37|45|53.2|N|140|28|5.6|E|",
+         "location_zipcode" : "960-8012",
          "owner_type" : "私立",
-         "short_name" : "松韻学園福島高校"
+         "senior_high_school_code" : "07501K",
+         "short_name" : "松韻学園福島高校",
+         "url" : "http://www.gakufuku-h.fks.ed.jp/"
       },
       "桜の聖母学院高等学校" : {
+         "location" : "福島県福島市野田町七丁目11番1号",
+         "location_zipcode" : "960-8055",
          "owner_type" : "私立",
          "short_name" : "桜の聖母学院高校",
+         "url" : "http://www.ssg.ac.jp/ckfiles/",
          "wikipedia_name" : "桜の聖母学院中学校・高等学校"
       },
       "磐城緑蔭高等学校" : {
+         "location" : "福島県いわき市平南白土字勝負田11",
+         "location_zipcode" : "970-8025",
          "owner_type" : "私立",
          "short_name" : "磐城緑蔭高校",
+         "url" : "http://www.ryokuin.ed.jp/",
          "wikipedia_name" : "磐城緑蔭中学校・高等学校"
       },
       "福島成蹊高等学校" : {
@@ -61,401 +108,832 @@
          "short_name" : "福島成蹊高校"
       },
       "福島東稜高等学校" : {
+         "location" : "福島県福島市山居上3",
+         "location_wikipedia_latlon" : "|37|46|8.8|N|140|28|28.9|E|",
+         "location_zipcode" : "960-8124",
          "owner_type" : "私立",
-         "short_name" : "福島東稜高校"
+         "senior_high_school_code" : "07505B",
+         "short_name" : "福島東稜高校",
+         "url" : "http://www.toryo.ac.jp/"
       },
       "福島県磐城第一高等学校" : {
+         "location" : "福島県いわき市内郷御厩町上宿11",
+         "location_zipcode" : "973-8402",
          "owner_type" : "私立",
-         "short_name" : "福島県磐城第一高校"
+         "senior_high_school_code" : "07516H",
+         "short_name" : "福島県磐城第一高校",
+         "url" : "http://www.iwaki1-h.ed.jp/"
       },
       "福島県立あさか開成高等学校" : {
+         "location" : "福島県郡山市桃見台15-1",
+         "location_wikipedia_latlon" : "|37|24|15.9|N|140|22|16.8|E|",
+         "location_zipcode" : "963-8018",
          "owner_type" : "県立",
-         "short_name" : "あさか開成高校"
+         "senior_high_school_code" : "07180D",
+         "short_name" : "あさか開成高校",
+         "url" : "http://www.asakakaisei-h.fks.ed.jp"
       },
       "福島県立いわき光洋高等学校" : {
+         "location" : "福島県いわき市中央台高久四丁目1番地",
+         "location_wikipedia_latlon" : "|37|0|58.9|N|140|55|40.2|E|",
+         "location_zipcode" : "970-8047",
          "owner_type" : "県立",
-         "short_name" : "いわき光洋高校"
+         "short_name" : "いわき光洋高校",
+         "url" : "http://www.iwakikoyo-h.fks.ed.jp/"
       },
       "福島県立いわき海星高等学校" : {
+         "location" : "福島県いわき市小名浜下神白字舘の腰153",
+         "location_zipcode" : "970-0316",
          "owner_type" : "県立",
-         "short_name" : "いわき海星高校"
+         "senior_high_school_code" : "07159F",
+         "short_name" : "いわき海星高校",
+         "url" : "http://www.iwakikaisei-h.fks.ed.jp/"
       },
       "福島県立いわき総合高等学校" : {
+         "location" : "福島県いわき市内郷内町字駒谷3-1",
+         "location_wikipedia_latlon" : "|37|2|23.2|N|140|51|17.5|E|",
+         "location_zipcode" : "973-8404",
          "owner_type" : "県立",
-         "short_name" : "いわき総合高校"
+         "senior_high_school_code" : "07155C",
+         "short_name" : "いわき総合高校",
+         "url" : "http://www.iwakisogo-h.fks.ed.jp/"
       },
       "福島県立いわき翠の杜高等学校" : {
+         "location" : "福島県いわき市内郷綴町板宮2",
+         "location_zipcode" : "973-8403",
          "owner_type" : "県立",
-         "short_name" : "いわき翠の杜高校"
+         "short_name" : "いわき翠の杜高校",
+         "url" : "http://www.iwakimidorinomori-h.fks.ed.jp/"
       },
       "福島県立二本松工業高等学校" : {
+         "location" : "福島県二本松市榎戸一丁目58番2号",
+         "location_wikipedia_latlon" : "|37|35|37|N|140|27|4|E|",
+         "location_zipcode" : "964-0937",
          "owner_type" : "県立",
-         "short_name" : "二本松工業高校"
+         "senior_high_school_code" : "07112K",
+         "short_name" : "二本松工業高校",
+         "url" : "http://www.nihonmatsu-th.fks.ed.jp/"
       },
       "福島県立会津学鳳高等学校" : {
+         "location" : "会津若松市一箕町大字八幡字八幡1番地の1",
+         "location_zipcode" : "965-0003",
          "owner_type" : "県立",
+         "senior_high_school_code" : "07134A",
          "short_name" : "会津学鳳高校",
+         "url" : "http://www.aizugakuho-h.fks.ed.jp/",
          "wikipedia_name" : "福島県立会津学鳳中学校・高等学校"
       },
       "福島県立会津工業高等学校" : {
+         "location" : "福島県会津若松市徒之町1-37",
+         "location_zipcode" : "965-0802",
          "owner_type" : "県立",
-         "short_name" : "会津工業高校"
+         "short_name" : "会津工業高校",
+         "url" : "http://www.aizu-th.fks.ed.jp/"
       },
       "福島県立会津第二高等学校" : {
+         "location" : "福島県会津若松市徒之町1-37",
+         "location_zipcode" : "965-0802",
          "owner_type" : "県立",
-         "short_name" : "会津第二高校"
+         "senior_high_school_code" : "07183J",
+         "short_name" : "会津第二高校",
+         "url" : "http://www.aizu2-h.fks.ed.jp/"
       },
       "福島県立会津農林高等学校" : {
+         "location" : "福島県河沼郡会津坂下町曲田1391",
+         "location_zipcode" : "969-6546",
          "owner_type" : "県立",
-         "short_name" : "会津農林高校"
+         "senior_high_school_code" : "07146D",
+         "short_name" : "会津農林高校",
+         "url" : "http://www.aizunorin-h.fks.ed.jp/"
       },
       "福島県立会津高等学校" : {
+         "location" : "福島県会津若松市表町3-1",
+         "location_zipcode" : "965-0831",
          "owner_type" : "県立",
-         "short_name" : "会津高校"
+         "senior_high_school_code" : "07132D",
+         "short_name" : "会津高校",
+         "url" : "http://www.aizu-h.fks.ed.jp/"
       },
       "福島県立保原高等学校" : {
+         "location" : "福島県伊達市保原町字元木23",
+         "location_zipcode" : "960-0604",
          "owner_type" : "県立",
-         "short_name" : "保原高校"
+         "senior_high_school_code" : "07110C",
+         "short_name" : "保原高校",
+         "url" : "http://www.hobara-h.fks.ed.jp/"
       },
       "福島県立修明高等学校" : {
+         "location" : "福島県東白川郡棚倉町大字棚倉字東中居63",
+         "location_wikipedia_latlon" : "|37|1|20.5|N|140|23|18|E|",
+         "location_zipcode" : "963-6131",
          "owner_type" : "県立",
-         "short_name" : "修明高校"
+         "short_name" : "修明高校",
+         "url" : "http://www.shumei-h.fks.ed.jp/"
       },
       "福島県立修明高等学校鮫川校" : {
+         "location" : "福島県東白川郡鮫川村大字赤坂中野字宿ノ入83",
+         "location_wikipedia_latlon" : "|37|2|25.1|N|140|30|14.6|E|",
+         "location_zipcode" : "963-8401",
          "owner_type" : "県立",
-         "short_name" : "修明高校鮫川校"
+         "short_name" : "修明高校鮫川校",
+         "url" : "http://www.shumei-h-samegawa.fks.ed.jp/"
       },
       "福島県立光南高等学校" : {
+         "location" : "福島県西白河郡矢吹町田町532",
+         "location_zipcode" : "969-0227",
          "owner_type" : "県立",
-         "short_name" : "光南高校"
+         "senior_high_school_code" : "07192H",
+         "short_name" : "光南高校",
+         "url" : "http://www.kohnan-h.fks.ed.jp/"
       },
       "福島県立勿来工業高等学校" : {
+         "location" : "福島県いわき市植田町堂の作10",
+         "location_wikipedia_latlon" : "|36|55|41.6|N|140|47|33.8|E|",
+         "location_zipcode" : "974-8261",
          "owner_type" : "県立",
-         "short_name" : "勿来工業高校"
+         "short_name" : "勿来工業高校",
+         "url" : "http://www.nakoso-th.fks.ed.jp/"
       },
       "福島県立勿来高等学校" : {
+         "location" : "福島県いわき市勿来町窪田町通二丁目1番地",
+         "location_wikipedia_latlon" : "|36|53|19.4|N|140|46|4|E|",
+         "location_zipcode" : "979-0141",
          "owner_type" : "県立",
-         "short_name" : "勿来高校"
+         "senior_high_school_code" : "07160K",
+         "short_name" : "勿来高校",
+         "url" : "http://www.nakoso-h.fks.ed.jp/"
       },
       "福島県立南会津高等学校" : {
+         "location" : "福島県南会津郡南会津町界字向川原2000",
+         "location_zipcode" : "967-0631",
          "owner_type" : "県立",
-         "short_name" : "南会津高校"
+         "senior_high_school_code" : "07149J",
+         "short_name" : "南会津高校",
+         "url" : "http://www.minamiaizu-h.fks.ed.jp/"
       },
       "福島県立原町高等学校" : {
+         "location" : "福島県南相馬市原町区西町3-380",
+         "location_zipcode" : "975-0014",
          "owner_type" : "県立",
-         "short_name" : "原町高校"
+         "senior_high_school_code" : "07172C",
+         "short_name" : "原町高校",
+         "url" : "http://www.haramachi-h.fks.ed.jp/"
       },
       "福島県立双葉翔陽高等学校" : {
+         "location" : "福島県双葉郡大熊町大字下野上字原1",
+         "location_wikipedia_latlon" : "|37|24|9.5|N|140|58|30.7|E|",
+         "location_zipcode" : "979-1308",
          "owner_type" : "県立",
-         "short_name" : "双葉翔陽高校"
+         "senior_high_school_code" : "07168E",
+         "short_name" : "双葉翔陽高校",
+         "url" : "http://www.futabashoyo-h.fks.ed.jp/"
       },
       "福島県立双葉高等学校" : {
+         "location" : "福島県双葉郡双葉町新山字広町80",
+         "location_wikipedia_latlon" : "|37|26|42.8|N|141|0|23.3|E",
+         "location_zipcode" : "979-1472",
          "owner_type" : "県立",
-         "short_name" : "双葉高校"
+         "school_area" : "福島県双葉",
+         "senior_high_school_code" : "07165A",
+         "short_name" : "双葉高校",
+         "url" : "http://www.futaba-h.fks.ed.jp/"
       },
       "福島県立只見高等学校" : {
+         "location" : "福島県南会津郡只見町只見字根岸2358",
+         "location_zipcode" : "968-0421",
          "owner_type" : "県立",
-         "short_name" : "只見高校"
+         "senior_high_school_code" : "07150B",
+         "short_name" : "只見高校",
+         "url" : "http://www.tadami-h.fks.ed.jp/"
       },
       "福島県立喜多方東高等学校" : {
+         "location" : "福島県福島県喜多方市江中子4167",
+         "location_zipcode" : "966-0085",
          "owner_type" : "県立",
-         "short_name" : "喜多方東高校"
+         "senior_high_school_code" : "07139A",
+         "short_name" : "喜多方東高校",
+         "url" : "http://www.kitakatahigashi-h.fks.ed.jp/"
       },
       "福島県立喜多方桐桜高等学校" : {
+         "location" : "福島県喜多方市豊川町米室高吉4344-5",
+         "location_zipcode" : "966-0914",
          "owner_type" : "県立",
-         "short_name" : "喜多方桐桜高校"
+         "short_name" : "喜多方桐桜高校",
+         "url" : " "
       },
       "福島県立喜多方高等学校" : {
+         "location" : "福島県喜多方市桜ガ丘1-129",
+         "location_zipcode" : "966-0802",
          "owner_type" : "県立",
-         "short_name" : "喜多方高校"
+         "senior_high_school_code" : "07138C",
+         "short_name" : "喜多方高校",
+         "url" : "http://www.kitakata-h.fks.ed.jp/"
       },
       "福島県立四倉高等学校" : {
+         "location" : "福島県いわき市四倉町字五丁目4番地",
+         "location_wikipedia_latlon" : "|37|6|46.3|N|140|59|17.2|E|",
+         "location_zipcode" : "979-0201",
          "owner_type" : "県立",
-         "short_name" : "四倉高校"
+         "senior_high_school_code" : "07164B",
+         "short_name" : "四倉高校",
+         "url" : "http://www.yotsukura-h.fks.ed.jp/"
       },
       "福島県立坂下高等学校" : {
+         "location" : "福島県河沼郡会津坂下町白狐字古川甲1090",
+         "location_zipcode" : "969-6571",
          "owner_type" : "県立",
-         "short_name" : "坂下高校"
+         "senior_high_school_code" : "07145F",
+         "short_name" : "坂下高校",
+         "url" : "http://www.bange-h.fks.ed.jp/"
       },
       "福島県立塙工業高等学校" : {
+         "location" : "福島県東白川郡塙町大字台宿字北原121",
+         "location_zipcode" : "963-5341",
          "owner_type" : "県立",
-         "short_name" : "塙工業高校"
+         "senior_high_school_code" : "07125A",
+         "short_name" : "塙工業高校",
+         "url" : "http://www.hanawa-th.fks.ed.jp/"
       },
       "福島県立大沼高等学校" : {
+         "location" : "福島県大沼郡会津美里町字法憧寺北甲3473",
+         "location_zipcode" : "969-6262",
          "owner_type" : "県立",
-         "short_name" : "大沼高校"
+         "senior_high_school_code" : "07144H",
+         "short_name" : "大沼高校",
+         "url" : "http://www.ohnuma-h.fks.ed.jp/"
       },
       "福島県立好間高等学校" : {
+         "location" : "福島県いわき好間町上好間上川原25",
+         "location_wikipedia_latlon" : "|37|4|13.6|N|140|50|59.8|E|",
+         "location_zipcode" : "970-1153",
          "owner_type" : "県立",
-         "short_name" : "好間高校"
+         "senior_high_school_code" : "07156A",
+         "short_name" : "好間高校",
+         "url" : "http://www.yoshima-h.fks.ed.jp/"
       },
       "福島県立安積高等学校" : {
+         "location" : "福島県郡山市開成五丁目25番63号",
+         "location_zipcode" : "963-8851",
          "owner_type" : "県立",
-         "short_name" : "安積高校"
+         "senior_high_school_code" : "07114F",
+         "short_name" : "安積高校",
+         "url" : "http://www.asaka-h.fks.ed.jp/"
       },
       "福島県立安積高等学校御舘校" : {
+         "location" : "福島県郡山市中田町柳橋字広平128",
+         "location_wikipedia_latlon" : "|37|22|0.2|N|140|31|4.1|E|",
+         "location_zipcode" : "963-0831",
          "owner_type" : "県立",
-         "short_name" : "安積高校御舘校"
+         "short_name" : "安積高校御舘校",
+         "url" : "http://www.asaka-h-mitate.fks.ed.jp/"
       },
       "福島県立安積黎明高等学校" : {
+         "location" : "福島県郡山市長者二丁目3番3号",
+         "location_wikipedia_latlon" : "|37|24|2.0|N|140|22|11.1|E|",
+         "location_zipcode" : "963-8017",
          "owner_type" : "県立",
-         "short_name" : "安積黎明高校"
+         "senior_high_school_code" : "07116B",
+         "short_name" : "安積黎明高校",
+         "url" : "http://www.asakareimei-h.fks.ed.jp"
       },
       "福島県立安達東高等学校" : {
+         "location" : "福島県二本松市下長折字真角13",
+         "location_wikipedia_latlon" : "|37|34|39.9|N|140|30|32.5|E|",
+         "location_zipcode" : "964-0316",
          "owner_type" : "県立",
-         "short_name" : "安達東高校"
+         "senior_high_school_code" : "07177D",
+         "short_name" : "安達東高校",
+         "url" : "http://www.adachihigashi-h.fks.ed.jp/"
       },
       "福島県立安達高等学校" : {
+         "location" : "福島県二本松市郭内二丁目347番地",
+         "location_wikipedia_latlon" : "|37|36|0.6|N|140|26|26.5|E|",
+         "location_zipcode" : "964-0904",
          "owner_type" : "県立",
-         "short_name" : "安達高校"
+         "senior_high_school_code" : "07111A",
+         "short_name" : "安達高校",
+         "url" : "http://www.adachi-h.fks.ed.jp/"
       },
       "福島県立富岡高等学校" : {
+         "location" : "福島県双葉郡富岡町小浜字中央632",
+         "location_wikipedia_latlon" : "|37|20|6.1|N|141|0|30.2|E|",
+         "location_zipcode" : "979-1111",
          "owner_type" : "県立",
-         "short_name" : "富岡高校"
+         "senior_high_school_code" : "07167G",
+         "short_name" : "富岡高校",
+         "url" : "http://www.tomioka-h.fks.ed.jp/"
       },
       "福島県立富岡高等学校川内校" : {
+         "location" : "福島県双葉郡川内村大字下川内字宮渡31",
+         "location_zipcode" : "979-1202",
          "owner_type" : "県立",
-         "short_name" : "富岡高校川内校"
+         "short_name" : "富岡高校川内校",
+         "url" : "http://www.tomioka-h-kawauchi.fks.ed.jp/"
       },
       "福島県立小名浜高等学校" : {
+         "location" : "福島県いわき市小名浜下神白字武城23",
+         "location_wikipedia_latlon" : "|36|56|49|N|140|55|18.7|E|",
+         "location_zipcode" : "970-0316",
          "owner_type" : "県立",
-         "short_name" : "小名浜高校"
+         "senior_high_school_code" : "07158H",
+         "short_name" : "小名浜高校",
+         "url" : "http://www.onahama-h.fks.ed.jp/"
       },
       "福島県立小野高等学校" : {
+         "location" : "福島県田村郡小野町大字小野新町字宿ノ後63",
+         "location_wikipedia_latlon" : "|37|17|1.1|N|140|37|18.3|E|",
+         "location_zipcode" : "963-3401",
          "owner_type" : "県立",
-         "short_name" : "小野高校"
+         "senior_high_school_code" : "07131F",
+         "short_name" : "小野高校",
+         "url" : "http://www.ono-h.fks.ed.jp/"
       },
       "福島県立小野高等学校平田校" : {
+         "location" : "福島県石川郡平田村大字上蓬田字切山27",
+         "location_wikipedia_latlon" : "|37|14|2.7|N|140|33|58.6|E|",
+         "location_zipcode" : "963-8202",
          "owner_type" : "県立",
-         "short_name" : "小野高校平田校"
+         "short_name" : "小野高校平田校",
+         "url" : "http://www.ono-h-hirata.fks.ed.jp/"
       },
       "福島県立小高商業高等学校" : {
+         "location" : "福島県南相馬市小高区関場一丁目70番地",
+         "location_zipcode" : "979-2113",
          "owner_type" : "県立",
-         "short_name" : "小高商業高校"
+         "senior_high_school_code" : "07174K",
+         "short_name" : "小高商業高校",
+         "url" : "http://www.odaka-ch.fks.ed.jp/"
       },
       "福島県立小高工業高等学校" : {
          "owner_type" : "県立",
          "short_name" : "小高工業高校"
       },
       "福島県立岩瀬農業高等学校" : {
+         "location" : "福島県岩瀬郡鏡石町鏡田桜町207",
+         "location_zipcode" : "969-0401",
          "owner_type" : "県立",
-         "short_name" : "岩瀬農業高校"
+         "senior_high_school_code" : "07121J",
+         "short_name" : "岩瀬農業高校",
+         "url" : "http://www.iwase-ah.fks.ed.jp/"
       },
       "福島県立川俣高等学校" : {
+         "location" : "福島県伊達郡川俣町飯坂字諏訪山1",
+         "location_wikipedia_latlon" : "|37|40|8.1|N|140|36|57.8|E|",
+         "location_zipcode" : "960-1401",
          "owner_type" : "県立",
-         "short_name" : "川俣高校"
+         "senior_high_school_code" : "07108A",
+         "short_name" : "川俣高校",
+         "url" : "http://www.kawamata-h.fks.ed.jp/"
       },
       "福島県立川口高等学校" : {
+         "location" : "福島県大沼郡金山町大字川口字蛇沢2434-2",
+         "location_zipcode" : "968-0011",
          "owner_type" : "県立",
-         "short_name" : "川口高校"
+         "senior_high_school_code" : "07147B",
+         "short_name" : "川口高校",
+         "url" : "http://www.kawaguchi-h.fks.ed.jp/"
       },
       "福島県立平商業高等学校" : {
+         "location" : "福島県いわき市平中塩字一水口37-1",
+         "location_wikipedia_latlon" : "|37|4|14.1|N|140|54|1.9|E|",
+         "location_zipcode" : "970-8016",
          "owner_type" : "県立",
-         "short_name" : "平商業高校"
+         "senior_high_school_code" : "07154E",
+         "short_name" : "平商業高校",
+         "url" : "http://www.taira-ch.fks.ed.jp/"
       },
       "福島県立平工業高等学校" : {
+         "location" : "福島県いわき市平下荒川字中剃1-3",
+         "location_wikipedia_latlon" : "|37|2|14|N|140|54|10.4|E|",
+         "location_zipcode" : "970-8032",
          "owner_type" : "県立",
-         "short_name" : "平工業高校"
+         "short_name" : "平工業高校",
+         "url" : "http://www.taira-th.fks.ed.jp/"
       },
       "福島県立新地高等学校" : {
+         "location" : "福島県相馬郡新地町小川字貝塚西13",
+         "location_zipcode" : "979-2703",
          "owner_type" : "県立",
-         "short_name" : "新地高校"
+         "senior_high_school_code" : "07170G",
+         "short_name" : "新地高校",
+         "url" : "http://www.shinchi-h.fks.ed.jp/"
       },
       "福島県立本宮高等学校" : {
+         "location" : "福島県本宮市高木字井戸上45",
+         "location_zipcode" : "969-1101",
          "owner_type" : "県立",
-         "short_name" : "本宮高校"
+         "senior_high_school_code" : "07113H",
+         "short_name" : "本宮高校",
+         "url" : "http://www.motomiya-h.fks.ed.jp/"
       },
       "福島県立梁川高等学校" : {
+         "location" : "福島県伊達市梁川町字鶴ヶ岡33",
+         "location_wikipedia_latlon" : "|37|51|13.6|N|140|36|40.2|E|",
+         "location_zipcode" : "960-0735",
          "owner_type" : "県立",
-         "short_name" : "梁川高校"
+         "senior_high_school_code" : "07109K",
+         "short_name" : "梁川高校",
+         "url" : "http://www.yanagawa-h.fks.ed.jp/"
       },
       "福島県立橘高等学校" : {
+         "location" : "福島県福島市宮下町7-41",
+         "location_wikipedia_latlon" : "|37|45|43.8|N|140|28|2.6|E|",
+         "location_zipcode" : "960-8011",
          "owner_type" : "県立",
-         "short_name" : "橘高校"
+         "senior_high_school_code" : "14210H",
+         "short_name" : "橘高校",
+         "url" : "http://www.tachibana-h.fks.ed.jp/"
       },
       "福島県立浪江高等学校" : {
+         "location" : "福島県双葉郡浪江町大字酒田字東二丁目9番1号",
+         "location_wikipedia_latlon" : "|37|30|5.1|N|140|58|57.3|E|",
+         "location_zipcode" : "979-1521",
          "owner_type" : "県立",
-         "short_name" : "浪江高校"
+         "senior_high_school_code" : "07166J",
+         "short_name" : "浪江高校",
+         "url" : "http://www.namie-h.fks.ed.jp/"
       },
       "福島県立浪江高等学校津島校" : {
+         "location" : "福島県双葉郡浪江町大字下津島字大和久56-16",
+         "location_wikipedia_latlon" : "|37|33|43.5|N|140|46|6.3|E|",
+         "location_zipcode" : "979-1756",
          "owner_type" : "県立",
-         "short_name" : "浪江高校津島校"
+         "senior_high_school_code" : "07166J",
+         "short_name" : "浪江高校津島校",
+         "url" : "http://www.namie-h-tsushima.fks.ed.jp/"
       },
       "福島県立清陵情報高等学校" : {
+         "location" : "福島県須賀川市滑川字西町179-6",
+         "location_zipcode" : "962-0403",
          "owner_type" : "県立",
-         "short_name" : "清陵情報高校"
+         "school_area" : "県下一円",
+         "senior_high_school_code" : "07190A",
+         "short_name" : "清陵情報高校",
+         "url" : "http://www.seiryojoho-h.ed.jp/"
       },
       "福島県立湖南高等学校" : {
+         "location" : "福島県郡山市湖南町福良字車の上8453-1",
+         "location_wikipedia_latlon" : "|37|23|20.9|N|140|5|13.7|E|",
+         "location_zipcode" : "963-1633",
          "owner_type" : "県立",
-         "short_name" : "湖南高校"
+         "senior_high_school_code" : "07115D",
+         "short_name" : "湖南高校",
+         "url" : "http://www.konan-h.fks.ed.jp"
       },
       "福島県立湯本高等学校" : {
+         "location" : "いわき市常磐上湯長谷町五反田55",
+         "location_wikipedia_latlon" : "|36|59|50.6|N|140|50|31.1|E|",
+         "location_zipcode" : "972-8322",
          "owner_type" : "県立",
-         "short_name" : "湯本高校"
+         "senior_high_school_code" : "07157K",
+         "short_name" : "湯本高校",
+         "url" : "http://www.yumoto-h.fks.ed.jp/"
       },
       "福島県立猪苗代高等学校" : {
+         "location" : "福島県耶麻郡猪苗代町窪南3664",
+         "location_wikipedia_latlon" : "|37|33|47.5|N|140|6|40.7|E|",
+         "location_zipcode" : "969-3111",
          "owner_type" : "県立",
-         "short_name" : "猪苗代高校"
+         "senior_high_school_code" : "07137E",
+         "short_name" : "猪苗代高校",
+         "url" : "http://www.inawashiro-h.fks.ed.jp/"
       },
       "福島県立田島高等学校" : {
+         "location" : "福島県南会津郡南会津町田島字田部原260",
+         "location_zipcode" : "967-0004",
          "owner_type" : "県立",
-         "short_name" : "田島高校"
+         "senior_high_school_code" : "07148A",
+         "short_name" : "田島高校",
+         "url" : "http://www.tajima-h.fks.ed.jp/"
       },
       "福島県立田村高等学校" : {
+         "location" : "福島県田村郡三春町字持合畑88-1",
+         "location_wikipedia_latlon" : "|37|26|50.8|N|140|29|33.4|E|",
+         "location_zipcode" : "963-7763",
          "owner_type" : "県立",
-         "short_name" : "田村高校"
+         "senior_high_school_code" : "07129D",
+         "short_name" : "田村高校",
+         "url" : "http://www.tamura-h.fks.ed.jp"
       },
       "福島県立白河実業高等学校" : {
+         "location" : "福島県白河市瀬戸原6-1",
+         "location_zipcode" : "961-0822",
          "owner_type" : "県立",
-         "short_name" : "白河実業高校"
+         "short_name" : "白河実業高校",
+         "url" : "http://www.shirakawa-bh.fks.ed.jp/"
       },
       "福島県立白河旭高等学校" : {
+         "location" : "福島県白河市旭町1-3",
+         "location_zipcode" : "961-0912",
          "owner_type" : "県立",
-         "short_name" : "白河旭高校"
+         "senior_high_school_code" : "07123E",
+         "short_name" : "白河旭高校",
+         "url" : "http://www.shirakawaasahi-h.fks.ed.jp/"
       },
       "福島県立白河第二高等学校" : {
+         "location" : "福島県白河市南登り町54",
+         "location_zipcode" : "961-0851",
          "owner_type" : "県立",
-         "short_name" : "白河第二高校"
+         "short_name" : "白河第二高校",
+         "url" : "http://www.shirakawa2-h.fks.ed.jp/"
       },
       "福島県立白河高等学校" : {
+         "location" : "福島県白河市南登町54",
+         "location_zipcode" : "961-0851",
          "owner_type" : "県立",
-         "short_name" : "白河高校"
+         "senior_high_school_code" : "07122G",
+         "short_name" : "白河高校",
+         "url" : "http://www.shirakawa-h.fks.ed.jp/"
       },
       "福島県立相馬東高等学校" : {
+         "location" : "福島県相馬市北飯渕字阿弥陀堂200",
+         "location_wikipedia_latlon" : "|37|48|21.9|N|140|56|20.9|E|",
+         "location_zipcode" : "976-0014",
          "owner_type" : "県立",
-         "short_name" : "相馬東高校"
+         "senior_high_school_code" : "07171E",
+         "short_name" : "相馬東高校",
+         "url" : "http://www.somahigashi-h.fks.ed.jp/"
       },
       "福島県立相馬農業高等学校" : {
+         "location" : "福島県南相馬市原町区三島町一丁目65番地",
+         "location_zipcode" : "975-0012",
          "owner_type" : "県立",
-         "short_name" : "相馬農業高校"
+         "senior_high_school_code" : "07173A",
+         "short_name" : "相馬農業高校",
+         "url" : "http://www.soma-ah.fks.ed.jp/"
       },
       "福島県立相馬農業高等学校飯舘校" : {
          "owner_type" : "県立",
          "short_name" : "相馬農業高校飯舘校"
       },
       "福島県立相馬高等学校" : {
+         "location" : "福島県相馬市中村字大手先57-1",
+         "location_wikipedia_latlon" : "|37|47|42.8|N|140|54|50.7|E|",
+         "location_zipcode" : "976-0042",
          "owner_type" : "県立",
-         "short_name" : "相馬高校"
+         "senior_high_school_code" : "07169C",
+         "short_name" : "相馬高校",
+         "url" : "http://www.soma-h.fks.ed.jp/"
       },
       "福島県立石川高等学校" : {
+         "location" : "福島県石川郡石川町字高田200-1",
+         "location_zipcode" : "963-7845",
          "owner_type" : "県立",
-         "short_name" : "石川高校"
+         "senior_high_school_code" : "07128F",
+         "short_name" : "石川高校",
+         "url" : "http://www.ishikawa-h.fks.ed.jp/"
       },
       "福島県立磐城桜が丘高等学校" : {
+         "location" : "福島県いわき市平字桜町5番地",
+         "location_wikipedia_latlon" : "|37|3|47.3|N|140|53|13.8|E|",
+         "location_zipcode" : "970-8026",
          "owner_type" : "県立",
-         "short_name" : "磐城桜が丘高校"
+         "senior_high_school_code" : "07152J",
+         "short_name" : "磐城桜が丘高校",
+         "url" : "http://www.iwakisakuragaoka-h.fks.ed.jp"
       },
       "福島県立磐城農業高等学校" : {
+         "location" : "福島県いわき市植田町小名田60",
+         "location_zipcode" : "974-8261",
          "owner_type" : "県立",
-         "short_name" : "磐城農業高校"
+         "short_name" : "磐城農業高校",
+         "url" : "http://www.iwaki-ah.fks.ed.jp/"
       },
       "福島県立磐城高等学校" : {
+         "location" : "福島県いわき市平字高月7",
+         "location_wikipedia_latlon" : "|37|3|47.6|N|140|52|46.9|E|",
+         "location_zipcode" : "970-8026",
          "owner_type" : "県立",
-         "short_name" : "磐城高校"
+         "senior_high_school_code" : "07151A",
+         "short_name" : "磐城高校",
+         "url" : "http://www.iwaki-h.fks.ed.jp/"
       },
       "福島県立福島中央高等学校" : {
+         "location" : "福島県福島市渡利字七社宮17",
+         "location_wikipedia_latlon" : "|37|44|49.5|N|140|28|27.7|E|",
+         "location_zipcode" : "960-8141",
          "owner_type" : "県立",
-         "short_name" : "福島中央高校"
+         "senior_high_school_code" : "07176F",
+         "short_name" : "福島中央高校",
+         "url" : "http://www.fukushimachuo-h.fks.ed.jp/"
       },
       "福島県立福島北高等学校" : {
+         "location" : "福島県福島市飯坂町字後畑1番地",
+         "location_wikipedia_latlon" : "|37|48|59.4|N|140|27|3.9|E|",
+         "location_zipcode" : "960-0201",
          "owner_type" : "県立",
-         "short_name" : "福島北高校"
+         "senior_high_school_code" : "07107C",
+         "short_name" : "福島北高校",
+         "url" : "http://www.fukushimakita-h.fks.ed.jp/"
       },
       "福島県立福島南高等学校" : {
+         "location" : "福島県福島市渡利字七社宮17",
+         "location_wikipedia_latlon" : "|37|44|49.5|N|140|28|27.7|E|",
+         "location_zipcode" : "960-8141",
          "owner_type" : "県立",
-         "short_name" : "福島南高校"
+         "senior_high_school_code" : "07189H",
+         "short_name" : "福島南高校",
+         "url" : "http://www.fukushimaminami-h.fks.ed.jp/"
       },
       "福島県立福島商業高等学校" : {
+         "location" : "福島県福島市丸子字辰之尾1",
+         "location_zipcode" : "960-0111",
          "owner_type" : "県立",
-         "short_name" : "福島商業高校"
+         "senior_high_school_code" : "07104J",
+         "short_name" : "福島商業高校",
+         "url" : "http://www.fukushima-ch.fks.ed.jp/"
       },
       "福島県立福島工業高等学校" : {
+         "location" : "福島県福島市森合小松原1",
+         "location_wikipedia_latlon" : "|37|46|8.1|N|140|27|7.3|E|",
+         "location_zipcode" : "960-8003",
          "owner_type" : "県立",
-         "short_name" : "福島工業高校"
+         "senior_high_school_code" : "07106E",
+         "short_name" : "福島工業高校",
+         "url" : "http://www.fukushima-th.fks.ed.jp/"
       },
       "福島県立福島明成高等学校" : {
+         "location" : "福島県福島市永井川字北原田1",
+         "location_wikipedia_latlon" : "|37|43|21.7|N|140|27|0|E|",
+         "location_zipcode" : "960-1192",
          "owner_type" : "県立",
-         "short_name" : "福島明成高校"
+         "short_name" : "福島明成高校",
+         "url" : "http://www.fukushimameisei-h.fks.ed.jp/"
       },
       "福島県立福島東高等学校" : {
+         "location" : "福島県福島市浜田町12-21",
+         "location_wikipedia_latlon" : "|37|45|28.7|N|140|28|35.4|E|",
+         "location_zipcode" : "960-8107",
          "owner_type" : "県立",
-         "short_name" : "福島東高校"
+         "senior_high_school_code" : "07188K",
+         "short_name" : "福島東高校",
+         "url" : "http://www.fukushimahigashi-h.fks.ed.jp/"
       },
       "福島県立福島西高等学校" : {
+         "location" : "福島県福島市方木田字上原37",
+         "location_wikipedia_latlon" : "|37|44|53.6|N|140|27|1.1|E|",
+         "location_zipcode" : "960-8163",
          "owner_type" : "県立",
-         "short_name" : "福島西高校"
+         "senior_high_school_code" : "07103A",
+         "short_name" : "福島西高校",
+         "url" : "http://www.fukushimanishi-h.fks.ed.jp/"
       },
       "福島県立福島高等学校" : {
+         "location" : "福島県福島市森合町5-72",
+         "location_wikipedia_latlon" : "|37|45|53.5|N|140|27|39.3|E|",
+         "location_zipcode" : "960-8002",
          "owner_type" : "県立",
-         "short_name" : "福島高校"
+         "senior_high_school_code" : "07101D",
+         "short_name" : "福島高校",
+         "url" : "http://www.fukushima-h.fks.ed.jp/"
       },
       "福島県立耶麻農業高等学校" : {
+         "location" : "福島県喜多方市山都町字上ノ山平4299-1",
+         "location_zipcode" : "969-4152",
          "owner_type" : "県立",
-         "short_name" : "耶麻農業高校"
+         "senior_high_school_code" : "07142A",
+         "short_name" : "耶麻農業高校",
+         "url" : "http://www.yama-ah.fks.ed.jp/"
       },
       "福島県立船引高等学校" : {
+         "location" : "福島県田村市船引町船引字石崎15-3",
+         "location_wikipedia_latlon" : "|37|26|53.9|N|140|34|44.9|E|",
+         "location_zipcode" : "963-4398",
          "owner_type" : "県立",
-         "short_name" : "船引高校"
+         "senior_high_school_code" : "07130H",
+         "short_name" : "船引高校",
+         "url" : "http://www.funehiki-h.fks.ed.jp/"
       },
       "福島県立若松商業高等学校" : {
+         "location" : "福島県会津若松市米代一丁目3番31号",
+         "location_zipcode" : "965-0875",
          "owner_type" : "県立",
-         "short_name" : "若松商業高校"
+         "senior_high_school_code" : "07135J",
+         "short_name" : "若松商業高校",
+         "url" : "http://www.wakamatsu-ch.fks.ed.jp/"
       },
       "福島県立葵高等学校" : {
+         "location" : "福島県会津若松市西栄町4-61",
+         "location_wikipedia_latlon" : "|37|29|38.4|N|139|55|31.3|E|",
+         "location_zipcode" : "965-0877",
          "owner_type" : "県立",
-         "short_name" : "葵高校"
+         "senior_high_school_code" : "07133B",
+         "short_name" : "葵高校",
+         "url" : "http://www.aoi-h.fks.ed.jp/"
       },
       "福島県立西会津高等学校" : {
+         "location" : "福島県耶麻郡西会津町野沢字上條道東甲256",
+         "location_zipcode" : "969-4406",
          "owner_type" : "県立",
-         "short_name" : "西会津高校"
+         "senior_high_school_code" : "07143K",
+         "short_name" : "西会津高校",
+         "url" : "http://www.nishiaizu-h.fks.ed.jp/"
       },
       "福島県立遠野高等学校" : {
+         "location" : "福島県いわき市遠野町上遠野字赤坂10-1",
+         "location_wikipedia_latlon" : "|37|0|16.5|N|140|44|26.1|E|",
+         "location_zipcode" : "972-0161",
          "owner_type" : "県立",
-         "short_name" : "遠野高校"
+         "senior_high_school_code" : "07163D",
+         "short_name" : "遠野高校",
+         "url" : "http://www.tono-h.fks.ed.jp/"
       },
       "福島県立郡山北工業高等学校" : {
+         "location" : "福島県郡山市八山田2丁目224番地",
+         "location_wikipedia_latlon" : "|37|25|40.5|N|140|22|26.1|E|",
+         "location_zipcode" : "963-8052",
          "owner_type" : "県立",
-         "short_name" : "郡山北工業高校"
+         "short_name" : "郡山北工業高校",
+         "url" : "http://www.koriyamakita-th.fks.ed.jp/"
       },
       "福島県立郡山商業高等学校" : {
+         "location" : "福島県郡山市菜根五丁目6番7号",
+         "location_wikipedia_latlon" : "|37|23|4.9|N|140|21|43.9|E|",
+         "location_zipcode" : "963-8862",
          "owner_type" : "県立",
-         "short_name" : "郡山商業高校"
+         "senior_high_school_code" : "07118J",
+         "short_name" : "郡山商業高校",
+         "url" : "http://www.koriyama-ch.fks.ed.jp/"
       },
       "福島県立郡山東高等学校" : {
+         "location" : "福島県郡山市山根町13-45",
+         "location_wikipedia_latlon" : "|37|23|10.0|N|140|22|27.3|E|",
+         "location_zipcode" : "963-8832",
          "owner_type" : "県立",
-         "short_name" : "郡山東高校"
+         "senior_high_school_code" : "07117A",
+         "short_name" : "郡山東高校",
+         "url" : "http://www.koriyamahigashi-h.fks.ed.jp"
       },
       "福島県立郡山萌世高等学校" : {
+         "location" : "福島県郡山市駅前二丁目11番1号",
+         "location_wikipedia_latlon" : "|37|24|0.2|N|140|23|17.8|E|",
+         "location_zipcode" : "963-8002",
          "owner_type" : "県立",
-         "short_name" : "郡山萌世高校"
+         "senior_high_school_code" : "07193F",
+         "short_name" : "郡山萌世高校",
+         "url" : "http://www.housei-h.fks.ed.jp/"
       },
       "福島県立郡山高等学校" : {
+         "location" : "福島県郡山市大槻町字上篠林3番地",
+         "location_wikipedia_latlon" : "|37|24|6.4|N|140|20|13.3|E|",
+         "location_zipcode" : "963-0201",
          "owner_type" : "県立",
-         "short_name" : "郡山高校"
+         "senior_high_school_code" : "07185E",
+         "short_name" : "郡山高校",
+         "url" : "http://www.koriyama-h.fks.ed.jp"
       },
       "福島県立長沼高等学校" : {
+         "location" : "福島県須賀川市長沼字ネッコ橋58",
+         "location_zipcode" : "962-0203",
          "owner_type" : "県立",
-         "short_name" : "長沼高校"
+         "school_area" : "県中地区",
+         "senior_high_school_code" : "07187A",
+         "short_name" : "長沼高校",
+         "url" : "http://www.naganuma-h.fks.ed.jp/index.html"
       },
       "福島県立須賀川桐陽高等学校" : {
+         "location" : "福島県須賀川市陣場町128番地",
+         "location_zipcode" : "962-0012",
          "owner_type" : "県立",
-         "short_name" : "須賀川桐陽高校"
+         "school_area" : "県央地区",
+         "senior_high_school_code" : "07120A",
+         "short_name" : "須賀川桐陽高校",
+         "url" : "http://www.sukagawatoyo-h.fks.ed.jp/"
       },
       "福島県立須賀川高等学校" : {
+         "location" : "福島県須賀川市緑町88番地",
+         "location_zipcode" : "962-0863",
          "owner_type" : "県立",
-         "short_name" : "須賀川高校"
+         "school_area" : "県中地区",
+         "senior_high_school_code" : "07119G",
+         "short_name" : "須賀川高校",
+         "url" : "http://www.sukagawa-h.fks.ed.jp/"
       },
       "聖光学院高等学校" : {
+         "location" : "福島県伊達市六角3",
+         "location_wikipedia_latlon" : "|37|49|33.9|N|140|29|58.4|E|",
+         "location_zipcode" : "960-0486",
          "owner_type" : "私立",
-         "short_name" : "聖光学院高校"
+         "senior_high_school_code" : "07506A",
+         "short_name" : "聖光学院高校",
+         "url" : "http://www.seikogakuin-h.fks.ed.jp/"
       },
       "若松第一高等学校" : {
+         "location" : "福島県会津若松市相生町3-2",
+         "location_zipcode" : "965-0031",
          "owner_type" : "私立",
-         "short_name" : "若松第一高校"
+         "senior_high_school_code" : "07513C",
+         "short_name" : "若松第一高校",
+         "url" : "http://www15.plala.or.jp/wakamatsu1/"
       },
       "郡山女子大学附属高等学校" : {
+         "location" : "福島県郡山市開成三丁目25番2号",
+         "location_wikipedia_latlon" : "|37|23|47.1|N|140|20|59.5|E|",
+         "location_zipcode" : "963-8503",
          "owner_type" : "私立",
-         "short_name" : "郡山女子大学附属高校"
+         "senior_high_school_code" : "07507J",
+         "short_name" : "郡山女子大学附属高校",
+         "url" : "http://fuzoku.koriyama-kgc.ac.jp/"
       }
    }
 }

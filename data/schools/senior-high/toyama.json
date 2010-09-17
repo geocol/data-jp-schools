@@ -1,14 +1,23 @@
 {
    "senior_high_schools" : {
       "不二越工業高等学校" : {
+         "location" : "富山県富山市東石金町7-5",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0964",
          "owner_type" : "私立",
-         "short_name" : "不二越工業高校"
+         "senior_high_school_code" : "16501J",
+         "short_name" : "不二越工業高校",
+         "url" : "http://www.fujikoshiko.ac.jp/"
       },
       "富山国際大学付属高等学校" : {
+         "location" : "富山県富山市願海寺水口444",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|43|20|N|137|8|25.3|E|",
+         "location_zipcode" : "930-0175",
          "owner_type" : "私立",
-         "short_name" : "富山国際大学付属高校"
+         "senior_high_school_code" : "16505A",
+         "short_name" : "富山国際大学付属高校",
+         "url" : "http://www.tuins-h.ed.jp/"
       },
       "富山県立となみ野高等学校" : {
          "location_area" : "小矢部市",
@@ -17,10 +26,14 @@
          "short_name" : "となみ野高校"
       },
       "富山県立上市高等学校" : {
+         "location" : "富山県中新川郡上市町斉神新444",
          "location_area" : "中新川郡",
+         "location_zipcode" : "930－0424",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "上市高校"
+         "senior_high_school_code" : "16109J",
+         "short_name" : "上市高校",
+         "url" : "http://www.tym.ed.jp/sc327/"
       },
       "富山県立中央農業高等学校" : {
          "location_area" : "富山市",
@@ -35,22 +48,36 @@
          "short_name" : "二上工業高校"
       },
       "富山県立伏木高等学校" : {
+         "location" : "富山県高岡市伏木一宮2丁目11番1号",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-0116",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "伏木高校"
+         "senior_high_school_code" : "16130G",
+         "short_name" : "伏木高校",
+         "url" : "http://www.fushiki-h.tym.ed.jp/"
       },
       "富山県立入善高等学校" : {
+         "location" : "富山県下新川郡入善町入膳3963",
          "location_area" : "下新川郡",
+         "location_wikipedia_latlon" : "|36|56|2.3|N|137|30|23|E|",
+         "location_zipcode" : "939-0626",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "入善高校"
+         "senior_high_school_code" : "16102A",
+         "short_name" : "入善高校",
+         "url" : "http://www.tym.ed.jp/sc320/"
       },
       "富山県立八尾高等学校" : {
+         "location" : "富山県富山市八尾町福島213",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|35|6.6|N|137|7|51.8|E|",
+         "location_zipcode" : "939-2376",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "八尾高校"
+         "senior_high_school_code" : "16121H",
+         "short_name" : "八尾高校",
+         "url" : "http://www.tym.ed.jp/sc344/"
       },
       "富山県立南砺平高等学校" : {
          "location_area" : "南砺市",
@@ -77,82 +104,140 @@
          "short_name" : "南砺総合高校井波高等学校"
       },
       "富山県立呉羽高等学校" : {
+         "location" : "富山県富山市呉羽町2070‐5",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|42|59.8|N|137|9|41.8|E|",
+         "location_zipcode" : "930-0138",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "呉羽高校"
+         "senior_high_school_code" : "16145E",
+         "short_name" : "呉羽高校",
+         "url" : "http://www.kureha-h.tym.ed.jp/"
       },
       "富山県立大沢野工業高等学校" : {
+         "location" : "富山県富山市坂本2600",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|35|12.4|N|137|12|51|E|",
+         "location_zipcode" : "939-2206",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "大沢野工業高校"
+         "short_name" : "大沢野工業高校",
+         "url" : "http://www.tym.ed.jp/sc329/"
       },
       "富山県立大門高等学校" : {
+         "location" : "富山県射水市二口1-2",
          "location_area" : "射水市",
+         "location_zipcode" : "939-0234",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "大門高校"
+         "short_name" : "大門高校",
+         "url" : "http://www.daimon-h.tym.ed.jp/"
       },
       "富山県立富山いずみ高等学校" : {
+         "location" : "富山県富山市堀川小泉町一丁目21番1号",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|40|28.3|N|137|13|14.2|E|",
+         "location_zipcode" : "930-8081",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山いずみ高校"
+         "senior_high_school_code" : "16115C",
+         "short_name" : "富山いずみ高校",
+         "url" : "http://www.izumi-h.tym.ed.jp/"
       },
       "富山県立富山中部高等学校" : {
+         "location" : "富山県富山市芝園町3-1-26",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0097",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山中部高校"
+         "senior_high_school_code" : "16116A",
+         "short_name" : "富山中部高校",
+         "url" : "http://www.tym.ed.jp/sc332/"
       },
       "富山県立富山北部高等学校" : {
+         "location" : "富山市蓮町4丁目3-20",
          "location_area" : "富山市",
+         "location_zipcode" : "931-8558",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山北部高校"
+         "senior_high_school_code" : "16111A",
+         "short_name" : "富山北部高校",
+         "url" : "http://www.tym.ed.jp/sc333"
       },
       "富山県立富山南高等学校" : {
+         "location" : "富山県富山市布市98",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|38|53.7|N|137|14|13.2|E|",
+         "location_zipcode" : "939-8191",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山南高校"
+         "senior_high_school_code" : "16113G",
+         "short_name" : "富山南高校",
+         "url" : "http://www.minami-h.tym.ed.jp/"
       },
       "富山県立富山商業高等学校" : {
+         "location" : "富山県富山市庄高田413番地",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|41|31.6|N|137|11|15.8|E|",
+         "location_zipcode" : "930-8540",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山商業高校"
+         "senior_high_school_code" : "16117K",
+         "short_name" : "富山商業高校",
+         "url" : "http://www.tomisho-h.tym.ed.jp/"
       },
       "富山県立富山工業高等学校" : {
+         "location" : "富山県富山市五福2238",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|41|54.9|N|137|11|36.6|E|",
+         "location_zipcode" : "930-8081",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山工業高校"
+         "senior_high_school_code" : "16118H",
+         "short_name" : "富山工業高校",
+         "url" : "http://www.toyama-th.tym.ed.jp/"
       },
       "富山県立富山東高等学校" : {
+         "location" : "富山県富山市下飯野荒田6番1号",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|44|27.6|N|137|15|24.1|E|",
+         "location_zipcode" : "931-8502",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山東高校"
+         "senior_high_school_code" : "16112J",
+         "short_name" : "富山東高校",
+         "url" : "http://www.tym.ed.jp/sc337/"
       },
       "富山県立富山西高等学校" : {
+         "location" : "富山県富山市婦中町速星926",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|39|29.5|N|137|9|51.2|E|",
+         "location_zipcode" : "939-2706",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山西高校"
+         "senior_high_school_code" : "16120K",
+         "short_name" : "富山西高校",
+         "url" : "http://www.toyamanishi-h.tym.ed.jp/"
       },
       "富山県立富山高等学校" : {
+         "location" : "富山県富山市太郎丸1",
          "location_area" : "富山市",
+         "location_zipcode" : "939-8076",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "富山高校"
+         "senior_high_school_code" : "16114E",
+         "short_name" : "富山高校",
+         "url" : "http://www.toyama-hi.ed.jp"
       },
       "富山県立小杉高等学校" : {
+         "location" : "富山県射水市三ケ1520の1",
          "location_area" : "射水市",
+         "location_zipcode" : "939-0341",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "小杉高校"
+         "senior_high_school_code" : "16124B",
+         "short_name" : "小杉高校",
+         "url" : "http://www.tym.ed.jp/sc346/"
       },
       "富山県立小矢部園芸高等学校" : {
          "location_area" : "小矢部市",
@@ -161,10 +246,14 @@
          "short_name" : "小矢部園芸高校"
       },
       "富山県立志貴野高等学校" : {
+         "location" : "富山県高岡市末広町1-7",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-0023",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "志貴野高校"
+         "senior_high_school_code" : "16135H",
+         "short_name" : "志貴野高校",
+         "url" : "http://www.shikino-h.tym.ed.jp/"
       },
       "富山県立新川みどり野高等学校" : {
          "location_area" : "魚津市",
@@ -173,40 +262,67 @@
          "short_name" : "新川みどり野高校"
       },
       "富山県立新湊高等学校" : {
+         "location" : "富山県射水市西新湊21-10",
          "location_area" : "射水市",
+         "location_zipcode" : "934-8585",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "新湊高校"
+         "senior_high_school_code" : "16131E",
+         "short_name" : "新湊高校",
+         "url" : "http://www.tym.ed.jp/sc356/"
       },
       "富山県立有磯高等学校" : {
+         "location" : "富山県氷見市鞍川1056番地",
          "location_area" : "氷見市",
+         "location_zipcode" : "935-0025",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "有磯高校"
+         "senior_high_school_code" : "16133A",
+         "short_name" : "有磯高校",
+         "url" : "http://www.tym.ed.jp/sc358/"
       },
       "富山県立桜井高等学校" : {
+         "location" : "富山県黒部市三日市1334",
          "location_area" : "黒部市",
+         "location_zipcode" : "938-8505",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "桜井高校"
+         "senior_high_school_code" : "16103K",
+         "short_name" : "桜井高校",
+         "url" : "http://www.tym.ed.jp/sc321/"
       },
       "富山県立水橋高等学校" : {
+         "location" : "富山県富山市水橋中村24番地",
          "location_area" : "富山市",
+         "location_wikipedia_latlon" : "|36|44|21.4|N|137|18|0.7|E|",
+         "location_zipcode" : "939-3511",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "水橋高校"
+         "senior_high_school_code" : "16139A",
+         "short_name" : "水橋高校",
+         "url" : "http://www.tym.ed.jp/sc342/"
       },
       "富山県立氷見高等学校" : {
+         "location" : "富山県氷見市幸町17-1",
          "location_area" : "氷見市",
+         "location_wikipedia_latlon" : "|36|51|13.6|N|136|58|47.2|E|",
+         "location_zipcode" : "935-0021",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "氷見高校"
+         "senior_high_school_code" : "16132C",
+         "short_name" : "氷見高校",
+         "url" : "http://www.tym.ed.jp/sc357/"
       },
       "富山県立泊高等学校" : {
+         "location" : "富山県下新川郡朝日町道下603番地",
          "location_area" : "下新川郡",
+         "location_wikipedia_latlon" : "|36|57|5.9|N|137|33|50.4|E|",
+         "location_zipcode" : "939-0743",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "泊高校"
+         "senior_high_school_code" : "16101C",
+         "short_name" : "泊高校",
+         "url" : "http://www.tym.ed.jp/sc319/"
       },
       "富山県立海洋高等学校" : {
          "location_area" : "滑川市",
@@ -215,58 +331,94 @@
          "short_name" : "海洋高校"
       },
       "富山県立滑川高等学校" : {
+         "location" : "富山県滑川市加島町45番地",
          "location_area" : "滑川市",
+         "location_zipcode" : "936-8507",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "滑川高校"
+         "senior_high_school_code" : "16107B",
+         "short_name" : "滑川高校",
+         "url" : "http://www.namerikawa-h.tym.ed.jp//"
       },
       "富山県立石動高等学校" : {
+         "location" : "富山県小矢部市西町6番33号",
          "location_area" : "小矢部市",
+         "location_zipcode" : "932-8540",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "石動高校"
+         "senior_high_school_code" : "16143J",
+         "short_name" : "石動高校",
+         "url" : "http://www.isurugi-h.tym.ed.jp/"
       },
       "富山県立砺波工業高等学校" : {
+         "location" : "富山県砺波市鷹栖285-1",
          "location_area" : "砺波市",
+         "location_zipcode" : "939-1335",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "砺波工業高校"
+         "short_name" : "砺波工業高校",
+         "url" : "http://www.tym.ed.jp/sc365/"
       },
       "富山県立砺波高等学校" : {
+         "location" : "富山県砺波市東幸町3-36",
          "location_area" : "砺波市",
+         "location_zipcode" : "939-1385",
          "owner_type" : "県立",
          "school_area" : "砺波学区",
-         "short_name" : "砺波高校"
+         "senior_high_school_code" : "16136F",
+         "short_name" : "砺波高校",
+         "url" : "http://www.tym.ed.jp/sc364/"
       },
       "富山県立福岡高等学校" : {
+         "location" : "富山県高岡市福岡町上蓑561",
          "location_area" : "高岡市",
+         "location_zipcode" : "939-0127",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "福岡高校"
+         "senior_high_school_code" : "16146C",
+         "short_name" : "福岡高校",
+         "url" : "http://www.fukuoka-h.tym.ed.jp/"
       },
       "富山県立雄山高等学校" : {
+         "location" : "富山県中新川郡立山町前沢1437-1",
          "location_area" : "中新川郡",
+         "location_zipcode" : "939-0221",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "雄山高校"
+         "senior_high_school_code" : "16110B",
+         "short_name" : "雄山高校",
+         "url" : "http://www.tym.ed.jp/sc328/"
       },
       "富山県立雄峰高等学校" : {
+         "location" : "富山県富山市赤江町1-45",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0855",
          "owner_type" : "県立",
          "school_area" : "富山学区",
-         "short_name" : "雄峰高校"
+         "senior_high_school_code" : "16122F",
+         "short_name" : "雄峰高校",
+         "url" : "http://www.yuho-h.tym.ed.jp/"
       },
       "富山県立高岡南高等学校" : {
+         "location" : "富山県高岡市戸出町3-4-2",
          "location_area" : "高岡市",
+         "location_wikipedia_latlon" : "|36|41|7.7|N|136|58|41.8|E|",
+         "location_zipcode" : "939-1104",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "高岡南高校"
+         "senior_high_school_code" : "16134K",
+         "short_name" : "高岡南高校",
+         "url" : "http://www.tym.ed.jp/sc353/"
       },
       "富山県立高岡商業高等学校" : {
+         "location" : "富山県高岡市横田286番地",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8510",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "高岡商業高校"
+         "senior_high_school_code" : "16129C",
+         "short_name" : "高岡商業高校",
+         "url" : "http://www.tym.ed.jp/sc352/"
       },
       "富山県立高岡工芸高等学校" : {
          "location_area" : "高岡市",
@@ -275,28 +427,46 @@
          "short_name" : "高岡工芸高校"
       },
       "富山県立高岡西高等学校" : {
+         "location" : "富山県高岡市横田町3-4-1",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8506",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "高岡西高校"
+         "senior_high_school_code" : "16128E",
+         "short_name" : "高岡西高校",
+         "url" : "http://www.tym.ed.jp/sc349/"
       },
       "富山県立高岡高等学校" : {
+         "location" : "富山県高岡市中川園町1-1",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8520",
          "owner_type" : "県立",
          "school_area" : "高岡学区",
-         "short_name" : "高岡高校"
+         "senior_high_school_code" : "16125A",
+         "short_name" : "高岡高校",
+         "url" : "http://www.tym.ed.jp/sc348/"
       },
       "富山県立魚津工業高等学校" : {
+         "location" : "富山県魚津市浜経田3338番地",
          "location_area" : "魚津市",
+         "location_wikipedia_latlon" : "|36|51|12.5|N|137|25|17.1|E|",
+         "location_zipcode" : "939-0743",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "魚津工業高校"
+         "senior_high_school_code" : "16105F",
+         "short_name" : "魚津工業高校",
+         "url" : "http://www.uozu-th.tym.ed.jp/"
       },
       "富山県立魚津高等学校" : {
+         "location" : "富山県魚津市吉島945番地",
          "location_area" : "魚津市",
+         "location_wikipedia_latlon" : "|36|49|48.4|N|137|24|43.9|E|",
+         "location_zipcode" : "937-0041",
          "owner_type" : "県立",
          "school_area" : "新川学区",
-         "short_name" : "魚津高校"
+         "senior_high_school_code" : "16104H",
+         "short_name" : "魚津高校",
+         "url" : "http://www.uozu-h.tym.ed.jp/"
       },
       "富山第一高等学校" : {
          "location_area" : "富山市",
@@ -315,29 +485,49 @@
          "short_name" : "荒井学園新川高校"
       },
       "高岡向陵高等学校" : {
+         "location" : "富山県高岡市石瀬281",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8538",
          "owner_type" : "私立",
-         "short_name" : "高岡向陵高校"
+         "senior_high_school_code" : "16508F",
+         "short_name" : "高岡向陵高校",
+         "url" : "http://www.takaokakoryo-h.ed.jp/"
       },
       "高岡第一高等学校" : {
+         "location" : "富山県高岡市本郷2-1-1",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8508",
          "owner_type" : "私立",
-         "short_name" : "高岡第一高校"
+         "senior_high_school_code" : "16506K",
+         "short_name" : "高岡第一高校",
+         "url" : "http://www.takaoka1-h.ed.jp/"
       },
       "高岡龍谷高等学校" : {
+         "location" : "富山県高岡市古定塚4-1",
          "location_area" : "高岡市",
+         "location_zipcode" : "933-8517",
          "owner_type" : "私立",
-         "short_name" : "高岡龍谷高校"
+         "senior_high_school_code" : "16507H",
+         "short_name" : "高岡龍谷高校",
+         "url" : "http://www.takaokaryukoku-h.ed.jp/"
       },
       "高朋高等学校" : {
+         "location" : "富山県富山市東富山寿町1丁目1番39号",
          "location_area" : "富山市",
+         "location_zipcode" : "931-8452",
          "owner_type" : "私立",
-         "short_name" : "高朋高校"
+         "senior_high_school_code" : "16503E",
+         "short_name" : "高朋高校",
+         "url" : "http://www.koho.ac.jp/"
       },
       "龍谷富山高等学校" : {
+         "location" : "富山県富山市赤江町2-10",
          "location_area" : "富山市",
+         "location_zipcode" : "930-0855",
          "owner_type" : "私立",
-         "short_name" : "龍谷富山高校"
+         "senior_high_school_code" : "16502G",
+         "short_name" : "龍谷富山高校",
+         "url" : "http://www.ryukokutoyama-h.ed.jp/"
       }
    }
 }

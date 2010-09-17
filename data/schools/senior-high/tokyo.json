@@ -35,49 +35,83 @@
    },
    "senior_high_schools" : {
       "お茶の水女子大学附属高等学校" : {
+         "location" : "東京都文京区大塚2-1-1",
+         "location_wikipedia_latlon" : "|35|43|10.2|N|139|43|58|E|",
+         "location_zipcode" : "112-8610",
          "owner_type" : "国立",
+         "senior_high_school_code" : "13004E",
          "short_name" : "お茶の水女子大学附属高校",
+         "url" : "http://www.fk.ocha.ac.jp/index.html",
          "wikipedia_name" : "お茶の水女子大学附属中学校・高等学校"
       },
       "かえつ有明高等学校" : {
+         "location" : "東京都江東区東雲2-16-1",
          "location_area" : "江東区",
+         "location_zipcode" : "135-8711",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13502A",
          "short_name" : "かえつ有明高校",
+         "url" : "http://www.ariake.kaetsu.ac.jp/",
          "wikipedia_name" : "かえつ有明中学校・高等学校"
       },
       "トキワ松学園高等学校" : {
+         "location" : "東京都目黒区碑文谷4-17-16",
          "location_area" : "目黒区",
+         "location_zipcode" : "152-0003",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13622A",
          "short_name" : "トキワ松学園高校",
+         "url" : "http://www.tokiwamatsu.ac.jp/chu-kou/index.htm",
          "wikipedia_name" : "トキワ松学園中学校・高等学校"
       },
       "三輪田学園高等学校" : {
+         "location" : "東京都千代田区九段北3-3-15",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-0073",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13517J",
          "short_name" : "三輪田学園高校",
+         "url" : "http://www.miwada.ac.jp/",
          "wikipedia_name" : "三輪田学園中学校・高等学校"
       },
       "上野学園高等学校" : {
+         "location" : "東京都台東区東上野四丁目24番12号",
          "location_area" : "台東区",
+         "location_zipcode" : "110-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13584E",
          "short_name" : "上野学園高校",
+         "url" : "http://www.uenogakuen.ed.jp/",
          "wikipedia_name" : "上野学園中学校・高等学校"
       },
       "下北沢成徳高等学校" : {
+         "location" : "東京都世田谷区代田6-12-39",
          "location_area" : "世田谷区",
+         "location_zipcode" : "155-8668",
          "owner_type" : "私立",
-         "short_name" : "下北沢成徳高校"
+         "senior_high_school_code" : "13647G",
+         "short_name" : "下北沢成徳高校",
+         "url" : "http://www.shimokitazawa-seitoku.ed.jp/"
       },
       "世田谷学園高等学校" : {
+         "location" : "東京都世田谷区三宿1-16-31",
          "location_area" : "世田谷区",
+         "location_zipcode" : "154-0005",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13649C",
          "short_name" : "世田谷学園高校",
+         "url" : "http://www.setagayagakuen.ac.jp/",
          "wikipedia_name" : "世田谷学園中学校・高等学校"
       },
       "中央大学杉並高等学校" : {
+         "location" : "東京都杉並区今川二丁目7番1号",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|42|59.0|N|139|36|28.7|E|",
+         "location_zipcode" : "167-0035",
          "owner_type" : "私立",
-         "short_name" : "中央大学杉並高校"
+         "senior_high_school_code" : "13679E",
+         "short_name" : "中央大学杉並高校",
+         "url" : "http://www.chusugi.jp/"
       },
       "中央大学附属高等学校" : {
          "location_area" : "小金井市",
@@ -85,75 +119,130 @@
          "short_name" : "中央大学附属高校"
       },
       "中央大学高等学校" : {
+         "location" : "東京都文京区春日1-13-27",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8551",
          "owner_type" : "私立",
-         "short_name" : "中央大学高校"
+         "senior_high_school_code" : "13511K",
+         "short_name" : "中央大学高校",
+         "url" : "http://www.cu-hs.chuo-u.ac.jp/"
       },
       "中央学院大学中央高等学校" : {
+         "location" : "東京都江東区亀戸7-65-12",
          "location_area" : "江東区",
+         "location_zipcode" : "136-0071",
          "owner_type" : "私立",
-         "short_name" : "中央学院大学中央高校"
+         "short_name" : "中央学院大学中央高校",
+         "url" : "http://www.cguch.ed.jp/index.html"
       },
       "中村高等学校" : {
+         "location" : "東京都江東区清澄2-3-15",
          "location_area" : "江東区",
+         "location_zipcode" : "135-8404",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13600A",
          "short_name" : "中村高校",
+         "url" : "http://www.nakamura.ed.jp/",
          "wikipedia_name" : "中村中学校・高等学校"
       },
       "二松學舍大学附属高等学校" : {
+         "location" : "東京都千代田区九段南二丁目1番32号",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|41|33.1|N|139|44|47.4|E|",
+         "location_zipcode" : "102-0074",
          "owner_type" : "私立",
-         "short_name" : "二松學舍大学附属高校"
+         "senior_high_school_code" : "13515B",
+         "short_name" : "二松學舍大学附属高校",
+         "url" : "http://www.nishogakusha-highschool.ac.jp/"
       },
       "京北学園白山高等学校" : {
+         "location" : "東京都文京区白山5-28-25",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8607",
          "owner_type" : "私立",
-         "short_name" : "京北学園白山高校"
+         "senior_high_school_code" : "13571C",
+         "short_name" : "京北学園白山高校",
+         "url" : "http://www.keihoku.ac.jp/haku/haku-top.htm"
       },
       "京北高等学校" : {
+         "location" : "東京都文京区白山5-8-25",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8607",
          "owner_type" : "私立",
          "short_name" : "京北高校",
+         "url" : "http://www.keihoku.ac.jp/",
          "wikipedia_name" : "京北中学校・高等学校"
       },
       "京華商業高等学校" : {
+         "location" : "東京都文京区白山5-6-6",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8612",
          "owner_type" : "私立",
-         "short_name" : "京華商業高校"
+         "senior_high_school_code" : "13568C",
+         "short_name" : "京華商業高校",
+         "url" : "http://www.keika-c.ed.jp/index.html"
       },
       "京華女子高等学校" : {
+         "location" : "東京都文京区白山5-13-5",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8612",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13569A",
          "short_name" : "京華女子高校",
+         "url" : "http://www.keika-g.ed.jp/",
          "wikipedia_name" : "京華女子中学高等学校"
       },
       "京華高等学校" : {
+         "location" : "東京都文京区白山5-6-6",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8612",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13567E",
          "short_name" : "京華高校",
+         "url" : "http://www.keika.ed.jp/",
          "wikipedia_name" : "京華中学高等学校"
       },
       "佼成学園女子高等学校" : {
+         "location" : "東京都世田谷区給田2-1-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|56|N|139|35|47|E|",
+         "location_zipcode" : "157-0064",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13638H",
          "short_name" : "佼成学園女子高校",
+         "url" : "http://www.kosei.ac.jp/kosei_joshi/",
          "wikipedia_name" : "佼成学園女子中学校・高等学校"
       },
       "佼成学園高等学校" : {
+         "location" : "東京都杉並区和田2-6-29",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|41|14|N|139|39|26|E|",
+         "location_zipcode" : "166-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13674D",
          "short_name" : "佼成学園高校",
+         "url" : "http://www.kosei.ac.jp/kosei_danshi/",
          "wikipedia_name" : "佼成学園中学校・高等学校"
       },
       "保善高等学校" : {
+         "location" : "東京都新宿区大久保3-6-2",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|42|22.7|N|139|42|11.3|E|",
+         "location_zipcode" : "169-0072",
          "owner_type" : "私立",
-         "short_name" : "保善高校"
+         "senior_high_school_code" : "13544F",
+         "short_name" : "保善高校",
+         "url" : "http://www.hozen.ed.jp/"
       },
       "修徳高等学校" : {
+         "location" : "東京都葛飾区青戸8-10-1",
          "location_area" : "葛飾区",
+         "location_wikipedia_latlon" : "|35|45|27.9|N|139|51|5.7|E|",
+         "location_zipcode" : "125-8507",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13605A",
          "short_name" : "修徳高校",
+         "url" : "http://www.shutoku.ac.jp/",
          "wikipedia_name" : "修徳学園中学校・修徳高等学校"
       },
       "光塩女子学院高等科" : {
@@ -162,44 +251,74 @@
          "wikipedia_name" : "光塩女子学院中等科・高等科"
       },
       "八王子実践高等学校" : {
+         "location" : "東京都八王子市台町1-6-15",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0931",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13714G",
          "short_name" : "八王子実践高校",
+         "url" : "http://www.hachioji-jissen.ac.jp/",
          "wikipedia_name" : "八王子実践中学校・高等学校"
       },
       "八王子高等学校" : {
+         "location" : "東京都八王子市台町4-31-1",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0931",
          "owner_type" : "私立",
-         "short_name" : "八王子高校"
+         "senior_high_school_code" : "13713J",
+         "short_name" : "八王子高校",
+         "url" : "http://www.hachioji-hs.com/"
       },
       "八雲学園高等学校" : {
+         "location" : "東京都目黒区八雲2丁目14番1号",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|37|6.2|N|139|40|11.1|E|",
+         "location_zipcode" : "152-0023",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13626D",
          "short_name" : "八雲学園高校",
+         "url" : "http://www.yakumo.ac.jp/",
          "wikipedia_name" : "八雲学園中学校・高等学校"
       },
       "共栄学園高等学校" : {
+         "location" : "東京都葛飾区お花茶屋2-6-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "124-0003",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13604C",
          "short_name" : "共栄学園高校",
+         "url" : "http://www.kyoei-g.ed.jp/",
          "wikipedia_name" : "共栄学園中学高等学校"
       },
       "共立女子第二高等学校" : {
+         "location" : "東京都八王子市元八王子町2-786",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-8666",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13708B",
          "short_name" : "共立女子第二高校",
+         "url" : "http://www.kyoritsu-wu.ac.jp/nichukou/",
          "wikipedia_name" : "共立女子第二中学校・高等学校"
       },
       "共立女子高等学校" : {
+         "location" : "東京都千代田区一ツ橋2-2-1",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-8433",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13504G",
          "short_name" : "共立女子高校",
+         "url" : "http://www.kyoritsu-wu.ac.jp/chukou/index.shtml",
          "wikipedia_name" : "共立女子中学高等学校"
       },
       "創価高等学校" : {
+         "location" : "東京都小平市小川町1-860[中学校]",
          "location_area" : "小平市",
+         "location_wikipedia_latlon" : "|35|43|30.7|N|139|27|11.6|E|",
+         "location_zipcode" : "187-0032/187-0024",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13722H",
          "short_name" : "創価高校",
+         "url" : "http://www.tokyo.soka.ed.jp/index.html",
          "wikipedia_name" : "創価中学校・高等学校"
       },
       "北豊島高等学校" : {
@@ -208,21 +327,34 @@
          "short_name" : "北豊島高校"
       },
       "十文字高等学校" : {
+         "location" : "東京都豊島区北大塚1-10-33",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|43|56.7|N|139|44|3.4|E|",
+         "location_zipcode" : "170-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13686H",
          "short_name" : "十文字高校",
+         "url" : "http://www.jumonji-u.ac.jp/high/",
          "wikipedia_name" : "十文字中学・高等学校"
       },
       "千代田女学園高等学校" : {
+         "location" : "東京都千代田区四番町11番地8",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-0081",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13512H",
          "short_name" : "千代田女学園高校",
+         "url" : "http://www.chiyoda-j.ac.jp/",
          "wikipedia_name" : "千代田女学園中学校・高等学校"
       },
       "吉祥女子高等学校" : {
+         "location" : "東京都武蔵野市吉祥寺東町4-12-20",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13732E",
          "short_name" : "吉祥女子高校",
+         "url" : "http://www.schoolguide.ne.jp/kichijo/",
          "wikipedia_name" : "吉祥女子中学校・高等学校"
       },
       "和光高等学校" : {
@@ -232,155 +364,273 @@
          "wikipedia_name" : "学校法人和光学園"
       },
       "和洋九段女子高等学校" : {
+         "location" : "東京都千代田区九段北一丁目12番12号",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|41|48.4|N|139|44|57.3|E",
+         "location_zipcode" : "102-0073",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13519E",
          "short_name" : "和洋九段女子高校",
+         "url" : "http://www.wayokudan.ed.jp/",
          "wikipedia_name" : "和洋九段女子中学校・高等学校"
       },
       "品川エトワール女子高等学校" : {
+         "location" : "東京都品川区南品川5-12-4",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|36|31.7|N|139|44|27.3|E|",
+         "location_zipcode" : "140-0004",
          "owner_type" : "私立",
-         "short_name" : "品川エトワール女子高校"
+         "senior_high_school_code" : "13616G",
+         "short_name" : "品川エトワール女子高校",
+         "url" : "http://www.etoile.ed.jp/highschool/index.html"
       },
       "品川女子学院高等部" : {
+         "location" : "東京都品川区北品川3-3-12",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|37|14.6|N|139|44|20.5|E|",
+         "location_zipcode" : "140-8707",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13612D",
+         "url" : "http://www.shinagawajoshigakuin.jp/",
          "wikipedia_name" : "品川女子学院中等部・高等部"
       },
       "啓明学園高等学校" : {
+         "location" : "東京都昭島市拝島町5-11-15",
          "location_area" : "昭島市",
+         "location_zipcode" : "196-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13718K",
          "short_name" : "啓明学園高校",
+         "url" : "http://www.keimei.ac.jp/jsh/",
          "wikipedia_name" : "啓明学園中学校・高等学校"
       },
       "国士舘高等学校" : {
+         "location" : "東京都世田谷区若林4-32-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|38|54.2|N|139|39|16.7|E|",
+         "location_zipcode" : "154-8553",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13639F",
          "short_name" : "国士舘高校",
+         "url" : "http://www.schoolguide.ne.jp/kokushikan/",
          "wikipedia_name" : "国士舘中学校・高等学校"
       },
       "国本女子高等学校" : {
+         "location" : "（喜多見キャンパス）東京都世田谷区喜多見8-15-33（町田キャンパス）東京都町田市野津田町3101",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0067",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13636A",
          "short_name" : "国本女子高校",
+         "url" : "http://www.kunimoto.ed.jp/index.html",
          "wikipedia_name" : "国本女子中学校・高等学校"
       },
       "国立音楽大学附属高等学校" : {
+         "location" : "東京都国立市西2-12-19",
          "location_area" : "国立市",
+         "location_wikipedia_latlon" : "|35|41|40.5|N|139|26|12.9|E|",
+         "location_zipcode" : "186-0005",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13727J",
          "short_name" : "国立音楽大学附属高校",
+         "url" : "http://www.kunion.ed.jp/",
          "wikipedia_name" : "国立音楽大学附属中学校・高等学校"
       },
       "国際基督教大学高等学校" : {
+         "location" : "東京都小金井市東町1-1-1",
          "location_area" : "小金井市",
+         "location_wikipedia_latlon" : "|35|41|22.8|N|139|31|50.8|E|",
+         "location_zipcode" : "184-8503",
          "owner_type" : "私立",
-         "short_name" : "国際基督教大学高校"
+         "senior_high_school_code" : "13741D",
+         "short_name" : "国際基督教大学高校",
+         "url" : "http://www.icu-h.ed.jp/"
       },
       "國學院大學久我山高等学校" : {
+         "location" : "東京都杉並区久我山1-9-1",
          "location_area" : "杉並区",
+         "location_zipcode" : "168-0082",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13675B",
          "short_name" : "國學院大學久我山高校",
+         "url" : "http://www.kugayama-h.ed.jp/",
          "wikipedia_name" : "國學院大學久我山中学高等学校"
       },
       "國學院高等学校" : {
+         "location" : "東京都渋谷区神宮前2-2-3",
          "location_area" : "渋谷区",
+         "location_zipcode" : "150-0001",
          "owner_type" : "私立",
-         "short_name" : "國學院高校"
+         "senior_high_school_code" : "13550A",
+         "short_name" : "國學院高校",
+         "url" : "http://www.kokugakuin.ed.jp/"
       },
       "城北高等学校" : {
+         "location" : "東京都板橋区東新町2-28-1",
          "location_area" : "板橋区",
+         "location_zipcode" : "174-8711",
          "owner_type" : "私立",
+         "senior_high_school_code" : "[[13698A]]",
          "short_name" : "城北高校",
+         "url" : "http://www.johoku.ac.jp/",
          "wikipedia_name" : "城北中学校・高等学校"
       },
       "城西大学附属城西高等学校" : {
+         "location" : "東京都豊島区千早1-10-26",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|43|53.4|N|139|41|39.8|E|",
+         "location_zipcode" : "171-0044",
          "owner_type" : "私立",
          "short_name" : "城西大学附属城西高校",
+         "url" : "http://josaigakuen.ac.jp/",
          "wikipedia_name" : "城西大学附属城西中学校・高等学校"
       },
       "堀越高等学校" : {
+         "location" : "東京都中野区中央二丁目56番2号",
          "location_area" : "中野区",
+         "location_wikipedia_latlon" : "|35|42|4|N|139|40|35.4|E|",
+         "location_zipcode" : "164-0011",
          "owner_type" : "私立",
-         "short_name" : "堀越高校"
+         "senior_high_school_code" : "13670A",
+         "short_name" : "堀越高校",
+         "url" : "http://www.horikoshigakuen.ed.jp/"
       },
       "多摩大学目黒高等学校" : {
+         "location" : "東京都目黒区下目黒4-10-24",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0064",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13625F",
          "short_name" : "多摩大学目黒高校",
+         "url" : "http://www.tmh.ac.jp/index.html",
          "wikipedia_name" : "多摩大学目黒中学校・高等学校"
       },
       "多摩大学附属聖ヶ丘高等学校" : {
+         "location" : "東京都多摩市聖ヶ丘4-1-1",
          "location_area" : "多摩市",
+         "location_zipcode" : "206-0022",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13748A",
          "short_name" : "多摩大学附属聖ヶ丘高校",
+         "url" : "http://www.hijirigaoka.ed.jp/",
          "wikipedia_name" : "多摩大学附属聖ヶ丘中学校・高等学校"
       },
       "大原学園高等学校" : {
+         "location" : "東京都千代田区神田神保町2-42",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-0051",
          "owner_type" : "私立",
-         "short_name" : "大原学園高校"
+         "senior_high_school_code" : "13751A",
+         "short_name" : "大原学園高校",
+         "url" : "http://ohs.o-hara.ac.jp/"
       },
       "大妻中野高等学校" : {
+         "location" : "東京都中野区上高田2-3-7",
          "location_area" : "中野区",
+         "location_zipcode" : "164-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13668K",
          "short_name" : "大妻中野高校",
+         "url" : "http://www.otsumanakano.ac.jp/",
          "wikipedia_name" : "大妻中野中学校・高等学校"
       },
       "大妻多摩高等学校" : {
+         "location" : "東京都多摩市唐木田二丁目7-1",
          "location_area" : "多摩市",
+         "location_wikipedia_latlon" : "|35|36|42.4|N|139|24|18.7|E|",
+         "location_zipcode" : "206-8540",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13747C",
          "short_name" : "大妻多摩高校",
+         "url" : "http://www.otsuma-tama.ed.jp/",
          "wikipedia_name" : "大妻多摩高等学校・中学校"
       },
       "大妻高等学校" : {
+         "location" : "東京都千代田区三番町12番地",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-8357",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13747C",
          "short_name" : "大妻高校",
+         "url" : "http://www.otsuma.ed.jp/",
          "wikipedia_name" : "大妻中学高等学校"
       },
       "大成高等学校" : {
+         "location" : "東京都三鷹市上連雀6-7-5",
          "location_area" : "三鷹市",
+         "location_wikipedia_latlon" : "|35|41|20.2|N|139|33|32.1|E|",
+         "location_zipcode" : "181-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13736H",
          "short_name" : "大成高校",
+         "url" : "http://www.taisei.ed.jp/",
          "wikipedia_name" : "大成高等学校 (東京都)"
       },
       "大智学園高等学校" : {
+         "location" : "福島県双葉郡川内村大字上川内字町分143",
          "location_area" : "新宿区",
+         "location_zipcode" : "979-1201",
          "owner_type" : "私立",
-         "short_name" : "大智学園高校"
+         "senior_high_school_code" : "07520F",
+         "short_name" : "大智学園高校",
+         "url" : "http://daichi.ed.jp/"
       },
       "大東学園高等学校" : {
+         "location" : "東京都世田谷区船橋7-22-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "156-0055",
          "owner_type" : "私立",
-         "short_name" : "大東学園高校"
+         "senior_high_school_code" : "13650G",
+         "short_name" : "大東学園高校",
+         "url" : "http://www.daitogakuen.ed.jp/"
       },
       "大東文化大学第一高等学校" : {
+         "location" : "東京都板橋区高島平一丁目9番1号",
          "location_area" : "板橋区",
+         "location_zipcode" : "175-8571",
          "owner_type" : "私立",
-         "short_name" : "大東文化大学第一高校"
+         "senior_high_school_code" : "13699K",
+         "short_name" : "大東文化大学第一高校",
+         "url" : "http://www.daito.ac.jp/ichiko/newtop/framepage47.htm"
       },
       "大森学園高等学校" : {
+         "location" : "東京都大田区大森西3-2-12",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|29.3|N|139|43|46.5|E|",
+         "location_zipcode" : "143-0015",
          "owner_type" : "私立",
-         "short_name" : "大森学園高校"
+         "senior_high_school_code" : "13627B",
+         "short_name" : "大森学園高校",
+         "url" : "http://www.omori-gakuen.ed.jp/"
       },
       "女子学院高等学校" : {
+         "location" : "東京都千代田区一番町22-10",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-0082",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13508K",
          "short_name" : "女子学院高校",
+         "url" : "http://www.joshigakuin.ed.jp/",
          "wikipedia_name" : "女子学院中学校・高等学校"
       },
       "女子美術大学付属高等学校" : {
+         "location" : "東京都杉並区和田1-49-8",
          "location_area" : "杉並区",
+         "location_zipcode" : "166-8538",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13677J",
          "short_name" : "女子美術大学付属高校",
+         "url" : "http://www.joshibi.ac.jp/fuzoku/index.html",
          "wikipedia_name" : "女子美術大学付属高等学校・中学校"
       },
       "女子聖学院高等学校" : {
+         "location" : "東京都北区中里三丁目12番2号",
          "location_area" : "北区",
+         "location_zipcode" : "114-8574",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13588H",
          "short_name" : "女子聖学院高校",
+         "url" : "http://joshisei.netty.ne.jp/",
          "wikipedia_name" : "女子聖学院中学校・高等学校"
       },
       "学習院女子高等科" : {
@@ -393,26 +643,42 @@
          "owner_type" : "私立"
       },
       "安田学園高等学校" : {
+         "location" : "東京都墨田区横網2-2-25",
          "location_area" : "墨田区",
+         "location_zipcode" : "130-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13599C",
          "short_name" : "安田学園高校",
+         "url" : "http://yasuda.netty.ne.jp/",
          "wikipedia_name" : "安田学園中学校・高等学校"
       },
       "安部学院高等学校" : {
+         "location" : "東京都北区栄町35-4",
          "location_area" : "北区",
+         "location_zipcode" : "114-0005",
          "owner_type" : "私立",
-         "short_name" : "安部学院高校"
+         "senior_high_school_code" : "13585C",
+         "short_name" : "安部学院高校",
+         "url" : "http://www.abe-gakuin.ed.jp/index.html"
       },
       "宝仙学園高等学校" : {
+         "location" : "東京都中野区中央2-28-3",
          "location_area" : "中野区",
+         "location_zipcode" : "164-8628",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13669H",
          "short_name" : "宝仙学園高校",
          "wikipedia_name" : "宝仙学園中学校・高等学校"
       },
       "実践女子学園高等学校" : {
+         "location" : "東京都渋谷区東1-1-11",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|39|26.8|N|139|42|32.7|E|",
+         "location_zipcode" : "150-0011",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13551J",
          "short_name" : "実践女子学園高校",
+         "url" : "http://www.jissen.ac.jp/chuko/",
          "wikipedia_name" : "実践女子学園中学校・高等学校"
       },
       "実践学園高等学校" : {
@@ -421,49 +687,84 @@
          "short_name" : "実践学園高校"
       },
       "富士見丘高等学校" : {
+         "location" : "東京都渋谷区笹塚3-19-9",
          "location_area" : "渋谷区",
+         "location_zipcode" : "151- 0073",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13557H",
          "short_name" : "富士見丘高校",
+         "url" : "http://www.fujimigaoka.ac.jp/index.php",
          "wikipedia_name" : "富士見丘中学校・高等学校"
       },
       "富士見高等学校" : {
+         "location" : "東京都練馬区中村北4-8-26",
          "location_area" : "練馬区",
+         "location_zipcode" : "176-0023",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13704K",
          "short_name" : "富士見高校",
+         "url" : "http://www.fujimi.ac.jp/",
          "wikipedia_name" : "富士見中学高等学校"
       },
       "専修大学附属高等学校" : {
+         "location" : "東京都杉並区和泉四丁目4-1",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|40|37.7|N|139|39|19|E|",
+         "location_zipcode" : "168-0063",
          "owner_type" : "私立",
-         "short_name" : "専修大学附属高校"
+         "senior_high_school_code" : "13678G",
+         "short_name" : "専修大学附属高校",
+         "url" : "http://www.senshu-u-h.ed.jp/"
       },
       "小野学園女子高等学校" : {
+         "location" : "東京都品川区西大井一丁目6番13号",
          "location_area" : "品川区",
+         "location_zipcode" : "140-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13609D",
          "short_name" : "小野学園女子高校",
+         "url" : "http://www.onogakuen.jp/chuko/",
          "wikipedia_name" : "小野学園女子中学・高等学校"
       },
       "山脇学園高等学校" : {
+         "location" : "東京都港区赤坂4-10-36",
          "location_area" : "港区",
+         "location_zipcode" : "107-8371",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13539K",
          "short_name" : "山脇学園高校",
+         "url" : "http://www.yamawaki.ed.jp/",
          "wikipedia_name" : "山脇学園中学校・高等学校"
       },
       "岩倉高等学校" : {
+         "location" : "東京都台東区上野7-8-8",
          "location_area" : "台東区",
+         "location_wikipedia_latlon" : "|35|42|50.8|N|139|46|43.7|E|",
+         "location_zipcode" : "110-0005",
          "owner_type" : "私立",
-         "short_name" : "岩倉高校"
+         "senior_high_school_code" : "13583G",
+         "short_name" : "岩倉高校",
+         "url" : "http://www.tky-iwakura-h.ed.jp"
       },
       "川村高等学校" : {
+         "location" : "東京都豊島区目白2-22-3",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|43|17.9|N|139|42|30.5|E|",
+         "location_zipcode" : "171-0031",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13684A",
          "short_name" : "川村高校",
+         "url" : "http://www.kawamura.ac.jp/cyu-kou/cyu-kou_index.html",
          "wikipedia_name" : "川村中学校・高等学校"
       },
       "巣鴨高等学校" : {
+         "location" : "東京都豊島区上池袋1-21-1",
          "location_area" : "豊島区",
+         "location_zipcode" : "170-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13689B",
          "short_name" : "巣鴨高校",
+         "url" : "http://www.sugamo.ed.jp/",
          "wikipedia_name" : "巣鴨中学校・高等学校"
       },
       "工学院大学附属高等学校" : {
@@ -472,210 +773,371 @@
          "short_name" : "工学院大学附属高校"
       },
       "帝京八王子高等学校" : {
+         "location" : "東京都八王子市上川町3766",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0151",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13553E",
          "short_name" : "帝京八王子高校",
+         "url" : "http://www.teihachi.ed.jp/",
          "wikipedia_name" : "帝京八王子中学校・高等学校"
       },
       "帝京大学高等学校" : {
+         "location" : "東京都八王子市越野322",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0361",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13711B",
          "short_name" : "帝京大学高校",
+         "url" : "http://www.teikyo-u.ed.jp/",
          "wikipedia_name" : "帝京大学中学校高等学校"
       },
       "帝京高等学校" : {
+         "location" : "東京都板橋区稲荷台27-1",
          "location_area" : "板橋区",
+         "location_zipcode" : "173-8555",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13700G",
          "short_name" : "帝京高校",
+         "url" : "http://www.teikyo.ed.jp/",
          "wikipedia_name" : "帝京大学系属帝京中学校・高等学校"
       },
       "広尾学園高等学校" : {
+         "location" : "東京都港区南麻布5-1-14",
          "location_area" : "港区",
+         "location_zipcode" : "106-0047",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13526H",
          "short_name" : "広尾学園高校",
+         "url" : "http://www.hiroogakuen.ed.jp/",
          "wikipedia_name" : "広尾学園中学校・高等学校"
       },
       "恵泉女学園高等学校" : {
+         "location" : "東京都世田谷区船橋5-8-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|19.4|N|139|37|44.1|E|",
+         "location_zipcode" : "156-0055",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13637K",
          "short_name" : "恵泉女学園高校",
+         "url" : "http://www3.keisen.ac.jp/high/index.htm",
          "wikipedia_name" : "恵泉女学園中学・高等学校"
       },
       "愛国高等学校" : {
+         "location" : "東京都江戸川区西小岩5-7-1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "133-8585",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13606K",
          "short_name" : "愛国高校",
+         "url" : "http://www.aikokugakuen.ac.jp/junior-high/",
          "wikipedia_name" : "愛国中学校・高等学校"
       },
       "慶應義塾女子高等学校" : {
+         "location" : "東京都港区三田2-17-23",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|38|53.7|N|139|44|23.3|E|",
+         "location_zipcode" : "108-0073",
          "owner_type" : "私立",
-         "short_name" : "慶應義塾女子高校"
+         "senior_high_school_code" : "13523C",
+         "short_name" : "慶應義塾女子高校",
+         "url" : "http://www.gshs.keio.ac.jp/"
       },
       "成城学園高等学校" : {
+         "location" : "東京都世田谷区成城6-1-20",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|38|44.4|N|139|36|1.9|E|",
+         "location_zipcode" : "171-0031",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13646J",
          "short_name" : "成城学園高校",
+         "url" : "http://www.seijogakuen.ed.jp/chukou/index.html",
          "wikipedia_name" : "成城学園中学校高等学校"
       },
       "成城高等学校" : {
+         "location" : "東京都新宿区原町3-87",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|41|55.5|N|139|43|22.6|E|",
+         "location_zipcode" : "162-8670",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13543H",
          "short_name" : "成城高校",
+         "url" : "http://www.seijogakko.ed.jp/",
          "wikipedia_name" : "成城中学校・高等学校"
       },
       "成女高等学校" : {
+         "location" : "東京都新宿区富久町7番30号",
          "location_area" : "新宿区",
+         "location_zipcode" : "162-0067",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13542K",
          "short_name" : "成女高校",
+         "url" : "http://www.seijo-gk.ac.jp/",
          "wikipedia_name" : "成女学園中学校・高等学校"
       },
       "成立学園高等学校" : {
+         "location" : "東京都北区東十条六丁目9番13号",
          "location_area" : "北区",
+         "location_zipcode" : "114-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13592F",
          "short_name" : "成立学園高校",
+         "url" : "http://www.seiritsu.ac.jp/",
          "wikipedia_name" : "成立学園中学校・高等学校"
       },
       "成蹊高等学校" : {
+         "location" : "東京都武蔵野市吉祥寺北町3-10-13",
          "location_area" : "武蔵野市",
+         "location_wikipedia_latlon" : "|35|42|56.9|N|139|34|20.5|E|",
+         "location_zipcode" : "180-8633",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13733C",
          "short_name" : "成蹊高校",
+         "url" : "http://www.seikei.ac.jp/jsh/",
          "wikipedia_name" : "成蹊中学校・高等学校"
       },
       "戸板女子高等学校" : {
+         "location" : "東京都世田谷区用賀2-16-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "158-0097",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13532B",
          "short_name" : "戸板女子高校",
+         "url" : "http://www.toita.ed.jp/index.html",
          "wikipedia_name" : "戸板中学校・女子高等学校"
       },
       "拓殖大学第一高等学校" : {
+         "location" : "東京都武蔵村山市大南四丁目64番地5",
          "location_area" : "武蔵村山市",
+         "location_zipcode" : "208-0013",
          "owner_type" : "私立",
-         "short_name" : "拓殖大学第一高校"
+         "senior_high_school_code" : "13723F",
+         "short_name" : "拓殖大学第一高校",
+         "url" : "http://www.takuichi.ed.jp/"
       },
       "攻玉社高等学校" : {
+         "location" : "東京都品川区西五反田5-14-2",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|37|26.6|N|139|42|48.7|E|",
+         "location_zipcode" : "141-0031",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13610H",
          "short_name" : "攻玉社高校",
+         "url" : "http://www.kogyokusha.ed.jp/",
          "wikipedia_name" : "攻玉社中学校・高等学校"
       },
       "文京学院大学女子高等学校" : {
+         "location" : "東京都文京区本駒込6丁目18-3",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|44|2.4|N|139|44|38.3|E|",
+         "location_zipcode" : "113-8667",
          "owner_type" : "私立",
          "short_name" : "文京学院大学女子高校",
+         "url" : "http://www.jhs.u-bunkyo.ac.jp/index.html",
          "wikipedia_name" : "文京学院大学女子中学校・高等学校"
       },
       "文化女子大学附属杉並高等学校" : {
+         "location" : "東京都杉並区阿佐谷南3-48-16",
          "location_area" : "杉並区",
+         "location_zipcode" : "166-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13676A",
          "short_name" : "文化女子大学附属杉並高校",
+         "url" : "http://www.bunsugi.ed.jp/index.html",
          "wikipedia_name" : "文化女子大学附属杉並中学校・高等学校"
       },
       "文教大学付属高等学校" : {
+         "location" : "東京都品川区旗の台三丁目2番17号",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|36|20.7|N|139|42|23.3|E|",
+         "location_zipcode" : "142-0064",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13618C",
          "short_name" : "文教大学付属高校",
+         "url" : "http://www.bunkyo.ac.jp/faculty/ghsn/",
          "wikipedia_name" : "文教大学付属中学校・高等学校"
       },
       "文華女子高等学校" : {
+         "location" : "東京都西東京市西原町四丁目5-85",
          "location_area" : "西東京市",
+         "location_wikipedia_latlon" : "|35|44|17.80|N|139|31|48.81|E|",
+         "location_zipcode" : "188-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13740F",
          "short_name" : "文華女子高校",
+         "url" : "http://www.bunkagakuen.ac.jp/",
          "wikipedia_name" : "文華女子中学校・高等学校"
       },
       "新渡戸文化高等学校" : {
+         "location" : "東京都中野区本町六丁目38番1号",
          "location_area" : "中野区",
+         "location_zipcode" : "164-8638",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13667A",
          "short_name" : "新渡戸文化高校",
+         "url" : "http://www.tokyobunka.ed.jp/",
          "wikipedia_name" : "新渡戸文化中学校・高等学校"
       },
       "日体荏原高等学校" : {
+         "location" : "東京都大田区池上8-26-1",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|1.2|N|139|41|55.1|E|",
+         "location_zipcode" : "146-8588",
          "owner_type" : "私立",
-         "short_name" : "日体荏原高校"
+         "senior_high_school_code" : "13631A",
+         "short_name" : "日体荏原高校",
+         "url" : "http://www.int-acc.or.jp/ebara/"
       },
       "日出高等学校" : {
+         "location" : "東京都目黒区目黒1丁目6-15",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0063",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13623K",
          "short_name" : "日出高校",
+         "url" : "http://www.hinode-s.ed.jp/",
          "wikipedia_name" : "日出中学校・高等学校"
       },
       "日本大学櫻丘高等学校" : {
+         "location" : "東京都世田谷区桜上水3-24-22",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|42.6|N|139|37|57|E|",
+         "location_zipcode" : "156-0045",
          "owner_type" : "私立",
-         "short_name" : "日本大学櫻丘高校"
+         "senior_high_school_code" : "13657D",
+         "short_name" : "日本大学櫻丘高校",
+         "url" : "http://www.sakura.chs.nihon-u.ac.jp/"
       },
       "日本大学第一高等学校" : {
+         "location" : "東京都墨田区横網1-5-2",
          "location_area" : "墨田区",
+         "location_wikipedia_latlon" : "|35|41|50.4|N|139|47|49.4|E|",
+         "location_zipcode" : "135-0015",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13598E",
          "short_name" : "日本大学第一高校",
+         "url" : "http://www.nichidai-1.ed.jp/",
          "wikipedia_name" : "日本大学第一中学校・高等学校"
       },
       "日本大学第三高等学校" : {
+         "location" : "東京都町田市図師町11-2375",
          "location_area" : "町田市",
+         "location_wikipedia_latlon" : "|35|35|31.1|N|139|25|9.5|E|",
+         "location_zipcode" : "150-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13664G",
          "short_name" : "日本大学第三高校",
+         "url" : "http://www.nichidai3.ed.jp/",
          "wikipedia_name" : "日本大学第三中学校・高等学校"
       },
       "日本大学第二高等学校" : {
+         "location" : "東京都杉並区天沼1-45-33",
          "location_area" : "杉並区",
+         "location_zipcode" : "167-0032",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13681G",
          "short_name" : "日本大学第二高校",
+         "url" : "http://www.nichidai2.ac.jp/",
          "wikipedia_name" : "日本大学第二中学校・高等学校"
       },
       "日本大学豊山女子高等学校" : {
+         "location" : "東京都板橋区中台3-15-1",
          "location_area" : "板橋区",
+         "location_zipcode" : "174-0064",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13580B",
          "short_name" : "日本大学豊山女子高校",
+         "url" : "http://www.buzan-joshi.hs.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学豊山女子中学校・高等学校"
       },
       "日本大学豊山高等学校" : {
+         "location" : "東京都文京区大塚5-40-10",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|14.1|N|139|43|33.2|E|",
+         "location_zipcode" : "112-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13580B",
          "short_name" : "日本大学豊山高校",
+         "url" : "http://www.buzan.hs.nihon-u.ac.jp/",
          "wikipedia_name" : "日本大学豊山中学校・高等学校"
       },
       "日本大学鶴ヶ丘高等学校" : {
+         "location" : "東京都杉並区和泉2-26-12",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|40|23.7|N|139|39|11.6|E|",
+         "location_zipcode" : "168-0063",
          "owner_type" : "私立",
-         "short_name" : "日本大学鶴ヶ丘高校"
+         "senior_high_school_code" : "13682E",
+         "short_name" : "日本大学鶴ヶ丘高校",
+         "url" : "http://www.tsurugaoka.hs.nihon-u.ac.jp/"
       },
       "日本女子体育大学附属二階堂高等学校" : {
+         "location" : "東京都世田谷区松原2-17-22",
          "location_area" : "世田谷区",
+         "location_zipcode" : "156-0043",
          "owner_type" : "私立",
-         "short_name" : "日本女子体育大学附属二階堂高校"
+         "senior_high_school_code" : "13655H",
+         "short_name" : "日本女子体育大学附属二階堂高校",
+         "url" : "http://www.nikaido-koukou.com/"
       },
       "日本学園高等学校" : {
+         "location" : "東京都世田谷区松原2-7-34",
          "location_area" : "世田谷区",
+         "location_zipcode" : "156-0043",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13656F",
          "short_name" : "日本学園高校",
+         "url" : "http://www.nihongakuen.ed.jp/",
          "wikipedia_name" : "日本学園中学校・高等学校"
       },
       "日本工業大学駒場高等学校" : {
+         "location" : "東京都目黒区駒場1丁目35-32",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|39|26.3|N|139|41|3.2|E|",
+         "location_zipcode" : "153-8508",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13660D",
          "short_name" : "日本工業大学駒場高校",
+         "url" : "http://www.nit-komaba.ed.jp/",
          "wikipedia_name" : "日本工業大学駒場中学校・高等学校"
       },
       "日本放送協会学園高等学校" : {
+         "location" : "東京都国立市富士見台2-36",
          "location_area" : "国立市",
+         "location_zipcode" : "186-8001",
          "owner_type" : "私立",
-         "short_name" : "日本放送協会学園高校"
+         "senior_high_school_code" : "13729E",
+         "short_name" : "日本放送協会学園高校",
+         "url" : "http://www.n-gaku.jp/sch/"
       },
       "日本橋女学館高等学校" : {
+         "location" : "東京都中央区日本橋馬喰町2-7-6",
          "location_area" : "中央区",
+         "location_wikipedia_latlon" : "|35|41|45.4|N|139|47|3.4|E|",
+         "location_zipcode" : "103-8384",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13521G",
          "short_name" : "日本橋女学館高校",
+         "url" : "http://www.njk.ed.jp/",
          "wikipedia_name" : "日本橋女学館中学校・高等学校"
       },
       "日本音楽高等学校" : {
+         "location" : "東京都品川区豊町2-16-12",
          "location_area" : "品川区",
+         "location_zipcode" : "142-0042",
          "owner_type" : "私立",
-         "short_name" : "日本音楽高校"
+         "senior_high_school_code" : "13615J",
+         "short_name" : "日本音楽高校",
+         "url" : "http://www.nichion-h.ed.jp/"
       },
       "早稲田大学系属早稲田実業学校高等部" : {
+         "location" : "東京都国分寺市本町1-2-1",
          "location_area" : "国分寺市",
+         "location_wikipedia_latlon" : "|35|42|5.5|N|139|29|10.6|E|",
+         "location_zipcode" : "185-8505",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13547A",
+         "url" : "http://www.wasedajg.ed.jp/",
          "wikipedia_name" : "早稲田大学系属早稲田実業学校初等部・中等部・高等部"
       },
       "早稲田大学高等学院" : {
@@ -683,9 +1145,14 @@
          "owner_type" : "私立"
       },
       "早稲田高等学校" : {
+         "location" : "東京都新宿区馬場下町62",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|42|25.51|N|139|43|11.92|E|",
+         "location_zipcode" : "162-8654",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13546B",
          "short_name" : "早稲田高校",
+         "url" : "http://www.waseda-h.ed.jp/",
          "wikipedia_name" : "早稲田中学校・高等学校"
       },
       "明星学園高等学校" : {
@@ -695,77 +1162,134 @@
          "wikipedia_name" : "学校法人明星学園"
       },
       "明星高等学校" : {
+         "location" : "東京都府中市栄町一丁目1番地",
          "location_area" : "府中市",
+         "location_zipcode" : "183-8531",
          "owner_type" : "私立",
          "short_name" : "明星高校",
+         "url" : "http://www.meisei.ac.jp/hs/",
          "wikipedia_name" : "明星中学高等学校"
       },
       "明治大学付属中野八王子高等学校" : {
+         "location" : "東京都八王子市戸吹町1100",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13745G",
          "short_name" : "明治大学付属中野八王子高校",
+         "url" : "http://www.mnh.ed.jp/",
          "wikipedia_name" : "明治大学付属中野八王子中学校・高等学校"
       },
       "明治大学付属中野高等学校" : {
+         "location" : "東京都中野区東中野三丁目3番4号",
          "location_area" : "中野区",
+         "location_wikipedia_latlon" : "|35|42|24.9|N|139|40|44.7|E|",
+         "location_zipcode" : "164-0003",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13671K",
          "short_name" : "明治大学付属中野高校",
+         "url" : "http://www.meinaka.jp/",
          "wikipedia_name" : "明治大学付属中野中学校・高等学校"
       },
       "明治大学付属明治高等学校" : {
+         "location" : "東京都調布市富士見町4-23-25",
          "location_area" : "調布市",
+         "location_wikipedia_latlon" : "|35|39|58.57|N|139|32|12.99|E|",
+         "location_zipcode" : "182-0033",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13518G",
          "short_name" : "明治大学付属明治高校",
+         "url" : "http://www.meiji.ac.jp/ko_chu/",
          "wikipedia_name" : "明治大学付属明治高等学校・中学校"
       },
       "明治学院東村山高等学校" : {
+         "location" : "東京都東村山市富士見町1-12-3",
          "location_area" : "東村山市",
+         "location_wikipedia_latlon" : "|35|44|26.9|N|139|27|27.2|E|",
+         "location_zipcode" : "189-0024",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13725B",
          "short_name" : "明治学院東村山高校",
+         "url" : "http://www.meijigakuin-higashi.ed.jp/",
          "wikipedia_name" : "明治学院中学校・明治学院東村山高等学校"
       },
       "明治学院高等学校" : {
+         "location" : "東京都港区白金台1-2-37",
          "location_area" : "港区",
+         "location_zipcode" : "108-0071",
          "owner_type" : "私立",
-         "short_name" : "明治学院高校"
+         "senior_high_school_code" : "13537C",
+         "short_name" : "明治学院高校",
+         "url" : "http://www.meigaku.ed.jp/"
       },
       "明法高等学校" : {
+         "location" : "東京都東村山市富士見町2丁目4-12",
          "location_area" : "東村山市",
+         "location_zipcode" : "189-0024",
          "owner_type" : "私立",
+         "school_area" : "東京23区・多摩・埼玉",
+         "senior_high_school_code" : "13726A",
          "short_name" : "明法高校",
+         "url" : "http://www.meiho.ed.jp/",
          "wikipedia_name" : "明法中学・高等学校"
       },
       "星美学園高等学校" : {
+         "location" : "東京都北区赤羽台四丁目2-14",
          "location_area" : "北区",
+         "location_zipcode" : "115-8524",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13591H",
          "short_name" : "星美学園高校",
+         "url" : "http://www.jsh.seibi.ac.jp/",
          "wikipedia_name" : "星美学園中学校・高等学校"
       },
       "昭和女子大学附属昭和高等学校" : {
+         "location" : "東京都世田谷区太子堂1-7",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|38|38.4|N|139|40|28|E|",
+         "location_zipcode" : "154-8533",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13645A",
          "short_name" : "昭和女子大学附属昭和高校",
+         "url" : "http://www.jhs.swu.ac.jp/",
          "wikipedia_name" : "昭和女子大学附属昭和中学校・高等学校"
       },
       "昭和第一学園高等学校" : {
+         "location" : "東京都立川市栄町2-45-8",
          "location_area" : "立川市",
+         "location_zipcode" : "190-0003",
          "owner_type" : "私立",
-         "short_name" : "昭和第一学園高校"
+         "senior_high_school_code" : "13715E",
+         "short_name" : "昭和第一学園高校",
+         "url" : "http://www.sdg.ed.jp/"
       },
       "昭和第一高等学校" : {
+         "location" : "東京都文京区本郷1-2-15",
          "location_area" : "文京区",
+         "location_zipcode" : "113-0033",
          "owner_type" : "私立",
-         "short_name" : "昭和第一高校"
+         "senior_high_school_code" : "13574H",
+         "short_name" : "昭和第一高校",
+         "url" : "http://www.sdh.bunkyo.tokyo.jp/"
       },
       "昭和鉄道高等学校" : {
+         "location" : "東京都豊島区池袋本町2-10-1",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|25.2|N|139|42|34.8|E|",
+         "location_zipcode" : "170-0011",
          "owner_type" : "私立",
-         "short_name" : "昭和鉄道高校"
+         "senior_high_school_code" : "13688D",
+         "short_name" : "昭和鉄道高校",
+         "url" : "http://www.hosho.ac.jp/showa.htm"
       },
       "晃華学園高等学校" : {
+         "location" : "東京都調布市佐須町5-28-1",
          "location_area" : "調布市",
+         "location_zipcode" : "182-8550",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13558F",
          "short_name" : "晃華学園高校",
+         "url" : "http://www.kokagakuen.ac.jp/",
          "wikipedia_name" : "晃華学園中学校・高等学校"
       },
       "普連土学園高等学校" : {
@@ -775,386 +1299,715 @@
          "wikipedia_name" : "学校法人普連土学園"
       },
       "暁星高等学校" : {
+         "location" : "東京都千代田区富士見一丁目2番5号",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|41|49.7|N|139|44|53.3|E|",
+         "location_zipcode" : "102-8133",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13505E",
          "short_name" : "暁星高校",
+         "url" : "http://www.gyosei-h.ed.jp/",
          "wikipedia_name" : "暁星中学校・高等学校"
       },
       "朋優学院高等学校" : {
+         "location" : "東京都品川区西大井6-1-23",
          "location_area" : "品川区",
+         "location_zipcode" : "140-8608",
          "owner_type" : "私立",
-         "short_name" : "朋優学院高校"
+         "senior_high_school_code" : "13614A",
+         "short_name" : "朋優学院高校",
+         "url" : "http://www.ho-yu.ed.jp/"
       },
       "本郷高等学校" : {
+         "location" : "東京都豊島区駒込4-11-1",
          "location_area" : "豊島区",
+         "location_zipcode" : "170-0003",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13696E",
          "short_name" : "本郷高校",
+         "url" : "http://www.hongo.ed.jp/index.html",
          "wikipedia_name" : "本郷中学校・高等学校"
       },
       "杉並学院高等学校" : {
+         "location" : "東京都杉並区阿佐谷南2-30-17",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|42|17.3|N|139|38|34|E|",
+         "location_zipcode" : "166-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13672H",
          "short_name" : "杉並学院高校",
+         "url" : "http://www.suginami.ac.jp/",
          "wikipedia_name" : "杉並学院中学高等学校"
       },
       "村田女子高等学校" : {
+         "location" : "東京都文京区本駒込二丁目29番1号",
          "location_area" : "文京区",
+         "location_zipcode" : "113-8665",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13582J",
          "short_name" : "村田女子高校",
+         "url" : "http://www.mgc.ed.jp/chu-HP/index.html",
          "wikipedia_name" : "村田学園小石川女子中学校・村田女子高等学校"
       },
       "東亜学園高等学校" : {
+         "location" : "東京都中野区上高田5-44-3",
          "location_area" : "中野区",
+         "location_zipcode" : "164-0002",
          "owner_type" : "私立",
-         "short_name" : "東亜学園高校"
+         "senior_high_school_code" : "13666C",
+         "short_name" : "東亜学園高校",
+         "url" : "http://www.toagakuen.ac.jp/"
       },
       "東京女子学園高等学校" : {
+         "location" : "東京都港区芝4-1-30",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|38|59.2|N|139|44|57.9|E|",
+         "location_zipcode" : "108-0014",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13534J",
          "short_name" : "東京女子学園高校",
+         "url" : "http://www.tokyo-joshi.ac.jp/",
          "wikipedia_name" : "東京女子学園中学校・高等学校"
       },
       "東京女子学院高等学校" : {
+         "location" : "東京都練馬区関町北4-16-11",
          "location_area" : "練馬区",
+         "location_zipcode" : "177-0051",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13703A",
          "short_name" : "東京女子学院高校",
+         "url" : "http://www.tjg.ac.jp/",
          "wikipedia_name" : "東京女子学院中学校・高等学校"
       },
       "東京女学館高等学校" : {
+         "location" : "東京都渋谷区広尾3-7-16",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|39|21.2|N|139|43|2.1|E|",
+         "location_zipcode" : "150-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13556K",
          "short_name" : "東京女学館高校",
+         "url" : "http://www.tjk.jp/mh/index.html",
          "wikipedia_name" : "東京女学館中学校・高等学校"
       },
       "東京学園高等学校" : {
+         "location" : "東京都目黒区下目黒6-12-25",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0064",
          "owner_type" : "私立",
-         "short_name" : "東京学園高校"
+         "senior_high_school_code" : "13621C",
+         "short_name" : "東京学園高校",
+         "url" : "http://www.tokyogakuen-h.ed.jp/index.asp"
       },
       "東京学芸大学附属高等学校" : {
+         "location" : "東京都世田谷区下馬4-1-5",
+         "location_wikipedia_latlon" : "|35|38|5.4|N|139|40|42.8|E|",
+         "location_zipcode" : "154-0002",
          "owner_type" : "国立",
-         "short_name" : "東京学芸大学附属高校"
+         "senior_high_school_code" : "13006A",
+         "short_name" : "東京学芸大学附属高校",
+         "url" : "http://www.gakugei-hs.setagaya.tokyo.jp"
       },
       "東京学芸大学附属高等学校大泉校舎" : {
+         "location" : "東京都練馬区東大泉5-22-1",
+         "location_zipcode" : "178-0063",
          "owner_type" : "国立",
-         "short_name" : "東京学芸大学附属高校大泉校舎"
+         "senior_high_school_code" : "13008H",
+         "short_name" : "東京学芸大学附属高校大泉校舎",
+         "url" : "http://www.hs.oizumi.u-gakugei.ac.jp/"
       },
       "東京実業高等学校" : {
+         "location" : "東京都大田区西蒲田8-18-1",
          "location_area" : "大田区",
+         "location_zipcode" : "144-0051",
          "owner_type" : "私立",
-         "short_name" : "東京実業高校"
+         "senior_high_school_code" : "13630B",
+         "short_name" : "東京実業高校",
+         "url" : "http://www.tojitsu.ed.jp/"
       },
       "東京家政大学附属女子高等学校" : {
+         "location" : "東京都板橋区加賀1-18-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|45|23|N|139|43|13.8|E|",
+         "location_zipcode" : "173-8602",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13701E",
          "short_name" : "東京家政大学附属女子高校",
+         "url" : "http://www.tokyo-kasei.ed.jp/",
          "wikipedia_name" : "東京家政大学附属女子中学校・高等学校"
       },
       "東京家政学院高等学校" : {
+         "location" : "東京都千代田区三番町22番地",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-8341",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13513F",
          "short_name" : "東京家政学院高校",
+         "url" : "http://www.kasei-gakuin.ac.jp/chuko/",
          "wikipedia_name" : "東京家政学院中学校・高等学校"
       },
       "東京工業大学附属科学技術高等学校" : {
+         "location" : "東京都港区芝浦三丁目3番6号",
+         "location_wikipedia_latlon" : "|35|38|38.8|N|139|44|50|E|",
+         "location_zipcode" : "108-0023",
          "owner_type" : "国立",
-         "short_name" : "東京工業大学附属科学技術高校"
+         "short_name" : "東京工業大学附属科学技術高校",
+         "url" : "http://www.hst.titech.ac.jp/"
       },
       "東京成徳大学高等学校" : {
+         "location" : "東京都北区豊島八丁目26番9号",
          "location_area" : "北区",
+         "location_zipcode" : "114-8526",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13594B",
          "short_name" : "東京成徳大学高校",
+         "url" : "http://www.tokyoseitoku.jp/js/",
          "wikipedia_name" : "東京成徳大学中学校・高等学校"
       },
       "東京立正高等学校" : {
+         "location" : "東京都杉並区堀ノ内2-41-15",
          "location_area" : "杉並区",
+         "location_zipcode" : "166-0013",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13680J",
          "short_name" : "東京立正高校",
+         "url" : "http://www.tokyorissho.ed.jp/index.php",
          "wikipedia_name" : "東京立正中学校・高等学校"
       },
       "東京純心女子高等学校" : {
+         "location" : "東京都八王子市滝山町2丁目600",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0011",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13712A",
          "short_name" : "東京純心女子高校",
+         "url" : "http://www.t-junshin.ac.jp/jhs/",
          "wikipedia_name" : "東京純心女子中学校・高等学校"
       },
       "東京芸術大学音楽学部附属音楽高等学校" : {
+         "location" : "東京都台東区上野公園12-8",
+         "location_wikipedia_latlon" : "|35|43|13|N|139|46|23|E|",
+         "location_zipcode" : "110-8714",
          "owner_type" : "国立",
-         "short_name" : "東京芸術大学音楽学部附属音楽高校"
+         "senior_high_school_code" : "13001A",
+         "short_name" : "東京芸術大学音楽学部附属音楽高校",
+         "url" : "http://www.geidai.ac.jp/geiko/"
       },
       "東京農業大学第一高等学校" : {
+         "location" : "東京都世田谷区桜3-33-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|38|28.7|N|139|38|7.5|E|",
+         "location_zipcode" : "106-0046",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13653A",
          "short_name" : "東京農業大学第一高校",
+         "url" : "http://www.nodai-1-h.ed.jp/",
          "wikipedia_name" : "東京農業大学第一高等学校・中等部"
       },
       "東京都市大学付属高等学校" : {
+         "location" : "東京都世田谷区成城一丁目13番1号",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-8560",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13658B",
          "short_name" : "東京都市大学付属高校",
+         "url" : "http://www.tcu-jsh.ed.jp/",
          "wikipedia_name" : "東京都市大学付属中学校・高等学校"
       },
       "東京都市大学等々力高等学校" : {
+         "location" : "東京都世田谷区等々力8-10-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|36|50.2|N|139|39|6.6|E|",
+         "location_zipcode" : "158-0082",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13654K",
          "short_name" : "東京都市大学等々力高校",
+         "url" : "http://www.tcu-todoroki.ed.jp/",
          "wikipedia_name" : "東京都市大学等々力中学校・高等学校"
       },
       "東京都立つばさ総合高等学校" : {
+         "location" : "東京都大田区本羽田3-11-5",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|32|51.1|N|139|44|21.3|E|",
+         "location_zipcode" : "144-8533",
          "owner_type" : "都立",
-         "short_name" : "つばさ総合高校"
+         "senior_high_school_code" : "13315K",
+         "short_name" : "つばさ総合高校",
+         "url" : "http://www.tsubasa-h.metro.tokyo.jp/"
       },
       "東京都立一橋高等学校" : {
+         "location" : "東京都千代田区東神田1-12-13",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|41|40.7|N|139|46|51.7|E|",
+         "location_zipcode" : "101-0031",
          "owner_type" : "都立",
-         "short_name" : "一橋高校"
+         "senior_high_school_code" : "13232C",
+         "short_name" : "一橋高校",
+         "url" : "http://www.hitotsubashi-h.metro.tokyo.jp/"
       },
       "東京都立三宅高等学校" : {
+         "location" : "東京都三宅島三宅村坪田4586",
          "location_area" : "三宅村",
+         "location_zipcode" : "100-1211",
          "owner_type" : "都立",
-         "short_name" : "三宅高校"
+         "senior_high_school_code" : "13262E",
+         "short_name" : "三宅高校",
+         "url" : "[ 公式サイト]"
       },
       "東京都立三田高等学校" : {
+         "location" : "東京都港区三田1-4-46",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|8.7|N|139|44|36.4|E|",
+         "location_zipcode" : "108-0073",
          "owner_type" : "都立",
-         "short_name" : "三田高校"
+         "senior_high_school_code" : "13255B",
+         "short_name" : "三田高校",
+         "url" : "http://www.mita-h.metro.tokyo.jp/"
       },
       "東京都立三鷹高等学校" : {
+         "location" : "東京都三鷹市新川6-21-21",
          "location_area" : "三鷹市",
+         "location_wikipedia_latlon" : "|35|40|46|N|139|34|1.2|E|",
+         "location_zipcode" : "181-0004",
          "owner_type" : "都立",
-         "short_name" : "三鷹高校"
+         "senior_high_school_code" : "13256A",
+         "short_name" : "三鷹高校",
+         "url" : "http://www.mitaka-h.metro.tokyo.jp/"
       },
       "東京都立上水高等学校" : {
+         "location" : "東京都武蔵村山市大南4－62－1",
          "location_area" : "武蔵村山市",
+         "location_zipcode" : "208-0013",
          "owner_type" : "都立",
-         "short_name" : "上水高校"
+         "senior_high_school_code" : "13320F",
+         "short_name" : "上水高校",
+         "url" : "http://www.josui-h.metro.tokyo.jp/"
       },
       "東京都立上野高等学校" : {
+         "location" : "東京都台東区上野公園10-14",
          "location_area" : "台東区",
+         "location_zipcode" : "110-8717",
          "owner_type" : "都立",
-         "short_name" : "上野高校"
+         "senior_high_school_code" : "13117C",
+         "short_name" : "上野高校",
+         "url" : "http://www.ueno.ed.jp/"
       },
       "東京都立世田谷泉高等学校" : {
+         "location" : "東京都世田谷区北烏山9-22-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0061",
          "owner_type" : "都立",
-         "short_name" : "世田谷泉高校"
+         "senior_high_school_code" : "13313C",
+         "short_name" : "世田谷泉高校",
+         "url" : "http://www.setagayaizumi-h.metro.tokyo.jp/"
       },
       "東京都立世田谷総合高等学校" : {
+         "location" : "東京都世田谷区岡本2-9-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0076",
          "owner_type" : "都立",
-         "short_name" : "世田谷総合高校"
+         "senior_high_school_code" : "13345A",
+         "short_name" : "世田谷総合高校",
+         "url" : "http://setagaya-sogo-h.web9.jp/"
       },
       "東京都立両国高等学校" : {
+         "location" : "東京都墨田区江東橋1-7-14",
          "location_area" : "墨田区",
+         "location_wikipedia_latlon" : "|35|41|40.3|N|139|48|36.3|E|",
+         "location_zipcode" : "130-0022",
          "owner_type" : "都立",
+         "senior_high_school_code" : "13277C",
          "short_name" : "両国高校",
+         "url" : "http://www.ryogoku-h.metro.tokyo.jp/",
          "wikipedia_name" : "東京都立両国高等学校・附属中学校"
       },
       "東京都立中野工業高等学校" : {
+         "location" : "東京都中野区野方3-3-5",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0027",
          "owner_type" : "都立",
-         "short_name" : "中野工業高校"
+         "senior_high_school_code" : "13210B",
+         "short_name" : "中野工業高校",
+         "url" : "http://www.nakanokogyo-h.metro.tokyo.jp/"
       },
       "東京都立久留米西高等学校" : {
+         "location" : "東京都東久留米市野火止2-1-44",
          "location_area" : "東久留米市",
+         "location_zipcode" : "203-0041",
          "owner_type" : "都立",
-         "short_name" : "久留米西高校"
+         "senior_high_school_code" : "13152A",
+         "short_name" : "久留米西高校",
+         "url" : "http://www1.kurumenishi-h.metro.tokyo.jp/"
       },
       "東京都立五日市高等学校" : {
+         "location" : "東京都あきる野市五日市894",
          "location_area" : "あきる野市",
+         "location_zipcode" : "190-0164",
          "owner_type" : "都立",
-         "short_name" : "五日市高校"
+         "senior_high_school_code" : "13116E",
+         "short_name" : "五日市高校",
+         "url" : "http://www.tnet.metro.tokyo.jp/~T078/index.html"
       },
       "東京都立井草高等学校" : {
+         "location" : "東京都練馬区上石神井2-2-43",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|43|39.7|N|139|35|54.2|E|",
+         "location_zipcode" : "177-0044",
          "owner_type" : "都立",
-         "short_name" : "井草高校"
+         "senior_high_school_code" : "13112B",
+         "short_name" : "井草高校",
+         "url" : "http://www.igusa-h.metro.tokyo.jp/"
       },
       "東京都立保谷高等学校" : {
+         "location" : "東京都西東京市住吉町5-8-23",
          "location_area" : "西東京市",
+         "location_wikipedia_latlon" : "|35|44|44.9|N|139|33|19.4|E|",
+         "location_zipcode" : "202-0005",
          "owner_type" : "都立",
-         "short_name" : "保谷高校"
+         "senior_high_school_code" : "13248K",
+         "short_name" : "保谷高校",
+         "url" : "http://www.hoya-h.metro.tokyo.jp/"
       },
       "東京都立光丘高等学校" : {
+         "location" : "東京都練馬区旭町2-1-35",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|46|2.8|N|139|37|28.9|E|",
+         "location_zipcode" : "179-0071",
          "owner_type" : "都立",
-         "short_name" : "光丘高校"
+         "senior_high_school_code" : "13231E",
+         "short_name" : "光丘高校",
+         "url" : "http://www.hikarigaoka-h.metro.tokyo.jp/"
       },
       "東京都立八丈高等学校" : {
+         "location" : "東京都八丈島八丈町大賀郷3020",
          "location_area" : "八丈町",
+         "location_zipcode" : "100-1401",
          "owner_type" : "都立",
-         "short_name" : "八丈高校"
+         "senior_high_school_code" : "13225A",
+         "short_name" : "八丈高校",
+         "url" : "http://www.hachijo-h.metro.tokyo.jp/"
       },
       "東京都立八潮高等学校" : {
+         "location" : "東京都品川区東品川3-27-22",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|36|42.7|N|139|44|47.6|E|",
+         "location_zipcode" : "140-0002",
          "owner_type" : "都立",
-         "short_name" : "八潮高校"
+         "senior_high_school_code" : "13273A",
+         "short_name" : "八潮高校",
+         "url" : "http://www.yashio-h.metro.tokyo.jp/"
       },
       "東京都立八王子北高等学校" : {
+         "location" : "東京都八王子市楢原町601",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0803",
          "owner_type" : "都立",
-         "short_name" : "八王子北高校"
+         "senior_high_school_code" : "13288J",
+         "short_name" : "八王子北高校",
+         "url" : "http://www.hachiojikita-h.metro.tokyo.jp/"
       },
       "東京都立八王子拓真高等学校" : {
+         "location" : "東京都八王子市台町3-25-1",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0931",
          "owner_type" : "都立",
-         "short_name" : "八王子拓真高校"
+         "senior_high_school_code" : "13341J",
+         "short_name" : "八王子拓真高校",
+         "url" : "http://www.hachioji-takushin-h.metro.tokyo.jp/takushin/index.html"
       },
       "東京都立八王子東高等学校" : {
+         "location" : "東京都八王子市高倉町68-1",
          "location_area" : "八王子市",
+         "location_zipcode" : "100-0014",
          "owner_type" : "都立",
-         "short_name" : "八王子東高校"
+         "senior_high_school_code" : "13224B",
+         "short_name" : "八王子東高校",
+         "url" : "http://www.hachiojihigashi-h.metro.tokyo.jp/"
       },
       "東京都立八王子桑志高等学校" : {
+         "location" : "東京都八王子市千人町4-8-1",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0835",
          "owner_type" : "都立",
-         "short_name" : "八王子桑志高校"
+         "senior_high_school_code" : "13342G",
+         "short_name" : "八王子桑志高校",
+         "url" : "http://www.hachioji-soushi-h.metro.tokyo.jp/"
       },
       "東京都立六本木高等学校" : {
+         "location" : "東京都港区六本木6-16-36",
          "location_area" : "港区",
+         "location_zipcode" : "106-0032",
          "owner_type" : "都立",
-         "short_name" : "六本木高校"
+         "senior_high_school_code" : "13322B",
+         "short_name" : "六本木高校",
+         "url" : "http://www.roppongi-h.metro.tokyo.jp/"
       },
       "東京都立六郷工科高等学校" : {
+         "location" : "東京都大田区東六郷2-18-2",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|32|53.4|N|139|42|55.6|E|",
+         "location_zipcode" : "144-0046",
          "owner_type" : "都立",
-         "short_name" : "六郷工科高校"
+         "senior_high_school_code" : "13317F",
+         "short_name" : "六郷工科高校",
+         "url" : "http://www.rokugokoka-h.metro.tokyo.jp/"
       },
       "東京都立北園高等学校" : {
+         "location" : "東京都板橋区板橋4-14-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|45|1|N|139|42|57.8|E|",
+         "location_zipcode" : "173-0004",
          "owner_type" : "都立",
-         "short_name" : "北園高校"
+         "senior_high_school_code" : "13140H",
+         "short_name" : "北園高校",
+         "url" : "http://www.kitazono-h.metro.tokyo.jp/"
       },
       "東京都立北多摩高等学校" : {
+         "location" : "東京都立川市曙町3-29-37",
          "location_area" : "立川市",
+         "location_wikipedia_latlon" : "|35|42|9.4|N|139|25|40.2|E|",
+         "location_zipcode" : "190-00113141F2",
          "owner_type" : "都立",
-         "short_name" : "北多摩高校"
+         "senior_high_school_code" : "13141F",
+         "short_name" : "北多摩高校",
+         "url" : "http://www.kitatama-h.metro.tokyo.jp/"
       },
       "東京都立北豊島工業高等学校" : {
+         "location" : "東京都板橋区富士見町28-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|45|38.8|N|139|41|49.7|E|",
+         "location_zipcode" : "174-0062",
          "owner_type" : "都立",
-         "short_name" : "北豊島工業高校"
+         "senior_high_school_code" : "13142D",
+         "short_name" : "北豊島工業高校",
+         "url" : "http://www.kitatoshimakogyo-h.metro.tokyo.jp/"
       },
       "東京都立千早高等学校" : {
+         "location" : "東京都豊島区千早3-46-21",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|9.5|N|139|41|7.6|E|",
+         "location_zipcode" : "171-0044",
          "owner_type" : "都立",
-         "short_name" : "千早高校"
+         "senior_high_school_code" : "13321D",
+         "short_name" : "千早高校",
+         "url" : "http://www.chihaya-h.metro.tokyo.jp/"
       },
       "東京都立千歳丘高等学校" : {
+         "location" : "東京都世田谷区船橋三丁目18番1号",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|8.8|N|139|37|28.6|E|",
+         "location_zipcode" : "156-0055",
          "owner_type" : "都立",
-         "short_name" : "千歳丘高校"
+         "senior_high_school_code" : "13203K",
+         "short_name" : "千歳丘高校",
+         "url" : "http://www.chitosegaoka-h.metro.tokyo.jp/"
       },
       "東京都立南多摩高等学校" : {
+         "location" : "東京都八王子市明神町4-20-1",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-8562",
          "owner_type" : "都立",
-         "short_name" : "南多摩高校"
+         "senior_high_school_code" : "13261G",
+         "short_name" : "南多摩高校",
+         "url" : "http://www.mt-h.metro.tokyo.jp/"
       },
       "東京都立南平高等学校" : {
+         "location" : "東京都日野市南平8-2-3",
          "location_area" : "日野市",
+         "location_zipcode" : "191-0041",
          "owner_type" : "都立",
-         "short_name" : "南平高校"
+         "senior_high_school_code" : "13308G",
+         "short_name" : "南平高校",
+         "url" : "http://www.minamidaira-h.metro.tokyo.jp/"
       },
       "東京都立南葛飾高等学校" : {
+         "location" : "東京都葛飾区立石6-4-1",
          "location_area" : "葛飾区",
+         "location_wikipedia_latlon" : "|35|44|42.8|N|139|50|54.1|E|",
+         "location_zipcode" : "124-0012",
          "owner_type" : "都立",
-         "short_name" : "南葛飾高校"
+         "senior_high_school_code" : "13260J",
+         "short_name" : "南葛飾高校",
+         "url" : "http://www.minamikatsushika-h.metro.tokyo.jp/"
       },
       "東京都立向丘高等学校" : {
+         "location" : "東京都文京区向丘1丁目11番18号",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|18.8|N|139|45|16.3|E|",
+         "location_zipcode" : "113-0023",
          "owner_type" : "都立",
-         "short_name" : "向丘高校"
+         "senior_high_school_code" : "13263C",
+         "short_name" : "向丘高校",
+         "url" : "http://www.mukogaoka-h.metro.tokyo.jp/"
       },
       "東京都立国分寺高等学校" : {
+         "location" : "東京都国分寺市新町3-2-5",
          "location_area" : "国分寺市",
+         "location_wikipedia_latlon" : "|35|42|44.3|N|139|26|52|E|",
+         "location_zipcode" : "185-0004",
          "owner_type" : "都立",
-         "short_name" : "国分寺高校"
+         "senior_high_school_code" : "13157B",
+         "short_name" : "国分寺高校",
+         "url" : "http://www.kokubunji-h.metro.tokyo.jp/"
       },
       "東京都立国立高等学校" : {
+         "location" : "東京都国立市東4-25-1",
          "location_area" : "国立市",
+         "location_wikipedia_latlon" : "|35|41|17.2|N|139|26|57.7|E|",
+         "location_zipcode" : "186-0002",
          "owner_type" : "都立",
-         "short_name" : "国立高校"
+         "senior_high_school_code" : "13149A",
+         "short_name" : "国立高校",
+         "url" : "http://www.kunitachi-h.metro.tokyo.jp/"
       },
       "東京都立国際高等学校" : {
+         "location" : "東京都目黒区駒場2-19-59",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|39|32.5|N|139|40|44.4|E|",
+         "location_zipcode" : "153-0041",
          "owner_type" : "都立",
-         "short_name" : "国際高校"
+         "senior_high_school_code" : "13333H",
+         "short_name" : "国際高校",
+         "url" : "http://www.kokusai-h.metro.tokyo.jp/"
       },
       "東京都立園芸高等学校" : {
+         "location" : "東京都世田谷区深沢5-38-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|37|10.3|N|139|38|51.2|E|",
+         "location_zipcode" : "158-8566",
          "owner_type" : "都立",
-         "short_name" : "園芸高校"
+         "senior_high_school_code" : "13121A",
+         "short_name" : "園芸高校",
+         "url" : "http://www.engei-h.metro.tokyo.jp/"
       },
       "東京都立城東高等学校" : {
+         "location" : "東京都江東区大島3-22-1",
          "location_area" : "江東区",
+         "location_zipcode" : "136-0072",
          "owner_type" : "都立",
-         "short_name" : "城東高校"
+         "senior_high_school_code" : "13287A",
+         "short_name" : "城東高校",
+         "url" : "http://www.joto-h.metro.tokyo.jp/index.html"
       },
       "東京都立墨田川高等学校" : {
+         "location" : "東京都墨田区東向島3-34-14",
          "location_area" : "墨田区",
+         "location_zipcode" : "131-0032",
          "owner_type" : "都立",
-         "short_name" : "墨田川高校"
+         "senior_high_school_code" : "13184K",
+         "short_name" : "墨田川高校",
+         "url" : "http://www.sumidagawa-h.metro.tokyo.jp/"
       },
       "東京都立墨田工業高等学校" : {
+         "location" : "東京都江東区森下5-1-7",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0004",
          "owner_type" : "都立",
-         "short_name" : "墨田工業高校"
+         "senior_high_school_code" : "13185H",
+         "short_name" : "墨田工業高校",
+         "url" : "http://www.sumida-th.metro.tokyo.jp/"
       },
       "東京都立多摩工業高等学校" : {
+         "location" : "東京都福生市熊川215",
          "location_area" : "福生市",
+         "location_zipcode" : "197-0003",
          "owner_type" : "都立",
-         "short_name" : "多摩工業高校"
+         "senior_high_school_code" : "13201C",
+         "short_name" : "多摩工業高校",
+         "url" : "http://www.m-net.ne.jp/~tama-th/"
       },
       "東京都立多摩科学技術高等学校" : {
+         "location" : "東京都小金井市本町6-8-9",
          "location_area" : "小金井市",
+         "location_zipcode" : "184-8581",
          "owner_type" : "都立",
-         "short_name" : "多摩科学技術高校"
+         "short_name" : "多摩科学技術高校",
+         "url" : "http://www.koganei-st-j.metro.tokyo.jp/"
       },
       "東京都立多摩高等学校" : {
+         "location" : "東京都青梅市裏宿町580",
          "location_area" : "青梅市",
+         "location_wikipedia_latlon" : "|35|47|22.5|N|139|14|48|E|",
+         "location_zipcode" : "198-0088",
          "owner_type" : "都立",
-         "short_name" : "多摩高校"
+         "senior_high_school_code" : "13199H",
+         "short_name" : "多摩高校",
+         "url" : "http://www.tama-h.metro.tokyo.jp/"
       },
       "東京都立大学附属高等学校" : {
+         "location" : "東京都目黒区八雲1-1-2",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|37|17.5|N|139|40|15.9|E|",
+         "location_zipcode" : "152-0023",
          "owner_type" : "都立",
-         "short_name" : "大学附属高校"
+         "senior_high_school_code" : "13209J",
+         "short_name" : "大学附属高校",
+         "url" : "http://www.toritsudai-h.metro.tokyo.jp/index.html"
       },
       "東京都立大山高等学校" : {
+         "location" : "東京都板橋区小茂根5-18-1",
          "location_area" : "板橋区",
+         "location_zipcode" : "〒173-0037",
          "owner_type" : "都立",
-         "short_name" : "大山高校"
+         "senior_high_school_code" : "13129G",
+         "short_name" : "大山高校",
+         "url" : "http://www.ohyama-h.metro.tokyo.jp/index.html"
       },
       "東京都立大島海洋国際高等学校" : {
+         "location" : "東京都大島町差木地字下原",
          "location_area" : "大島町",
+         "location_zipcode" : "100-0211",
          "owner_type" : "都立",
-         "short_name" : "大島海洋国際高校"
+         "senior_high_school_code" : "13328A",
+         "short_name" : "大島海洋国際高校",
+         "url" : "http://www.osima-kaiyokokusai-h.metro.tokyo.jp/index.html"
       },
       "東京都立大島高等学校" : {
+         "location" : "東京都大島町元町字八重の水127",
          "location_area" : "大島町",
+         "location_zipcode" : "100-0101",
          "owner_type" : "都立",
-         "short_name" : "大島高校"
+         "senior_high_school_code" : "13125D",
+         "short_name" : "大島高校",
+         "url" : "http://www.osima-h.metro.tokyo.jp/"
       },
       "東京都立大崎高等学校" : {
+         "location" : "東京都品川区豊町2-1-7",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|36|34.9|N|139|43|16.0|E|",
+         "location_zipcode" : "142-0042",
          "owner_type" : "都立",
-         "short_name" : "大崎高校"
+         "senior_high_school_code" : "13123H",
+         "short_name" : "大崎高校",
+         "url" : "http://www.osaki-h.metro.tokyo.jp/"
       },
       "東京都立大森高等学校" : {
+         "location" : "東京都大田区西蒲田2-2-1",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|16.3|N|139|42|34|E|",
+         "location_zipcode" : "144-0051",
          "owner_type" : "都立",
-         "short_name" : "大森高校"
+         "senior_high_school_code" : "13128J",
+         "short_name" : "大森高校",
+         "url" : "http://www.omori-h.metro.tokyo.jp/"
       },
       "東京都立大江戸高等学校" : {
+         "location" : "東京都江東区千石3-2-11",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0015",
          "owner_type" : "都立",
-         "short_name" : "大江戸高校"
+         "senior_high_school_code" : "13318D",
+         "short_name" : "大江戸高校",
+         "url" : "http://www.oedo-h.metro.tokyo.jp/"
       },
       "東京都立大泉桜高等学校" : {
+         "location" : "東京都練馬区大泉町3-5-7",
          "location_area" : "練馬区",
+         "location_zipcode" : "〒178-0062",
          "owner_type" : "都立",
-         "short_name" : "大泉桜高校"
+         "senior_high_school_code" : "13324J",
+         "short_name" : "大泉桜高校",
+         "url" : "http://www.oizumisakura-h.metro.tokyo.jp/index.htm"
       },
       "東京都立大泉高等学校" : {
          "location_area" : "練馬区",
@@ -1162,14 +2015,22 @@
          "short_name" : "大泉高校"
       },
       "東京都立大田桜台高等学校" : {
+         "location" : "東京都港区南青山2-33-77",
          "location_area" : "港区",
+         "location_zipcode" : "107-0062",
          "owner_type" : "都立",
-         "short_name" : "大田桜台高校"
+         "senior_high_school_code" : "13346K",
+         "short_name" : "大田桜台高校",
+         "url" : "http://www.oota-sakuradai-h.metro.tokyo.jp/"
       },
       "東京都立富士森高等学校" : {
+         "location" : "東京都八王子市長房町420",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0824",
          "owner_type" : "都立",
-         "short_name" : "富士森高校"
+         "senior_high_school_code" : "13240D",
+         "short_name" : "富士森高校",
+         "url" : "http://www.fujimori-h.metro.tokyo.jp/"
       },
       "東京都立富士高等学校" : {
          "location_area" : "中野区",
@@ -1177,713 +2038,1328 @@
          "short_name" : "富士高校"
       },
       "東京都立小山台高等学校" : {
+         "location" : "東京都品川区小山3-3-32",
          "location_area" : "品川区",
+         "location_zipcode" : "142-0062",
          "owner_type" : "都立",
-         "short_name" : "小山台高校"
+         "senior_high_school_code" : "13158A",
+         "short_name" : "小山台高校",
+         "url" : "http://www.koyamadai-h.metro.tokyo.jp/"
       },
       "東京都立小岩高等学校" : {
+         "location" : "東京都江戸川区本一色3-10-1",
          "location_area" : "江戸川区",
+         "location_wikipedia_latlon" : "|35|43|16.8|N|139|52|9.8|E|",
+         "location_zipcode" : "133-0044",
          "owner_type" : "都立",
-         "short_name" : "小岩高校"
+         "senior_high_school_code" : "13156D",
+         "short_name" : "小岩高校",
+         "url" : "http://www.koiwa-h.metro.tokyo.jp/"
       },
       "東京都立小川高等学校" : {
+         "location" : "東京都町田市小川二丁目1002番地1",
          "location_area" : "町田市",
+         "location_zipcode" : "194-0003",
          "owner_type" : "都立",
-         "short_name" : "小川高校"
+         "senior_high_school_code" : "13300A",
+         "short_name" : "小川高校",
+         "url" : "http://www.ogawa-h.metro.tokyo.jp/"
       },
       "東京都立小平南高等学校" : {
+         "location" : "東京都小平市上水本町6-21-1",
          "location_area" : "小平市",
+         "location_zipcode" : "187-0022",
          "owner_type" : "都立",
-         "short_name" : "小平南高校"
+         "senior_high_school_code" : "13304D",
+         "short_name" : "小平南高校",
+         "url" : "http://www.kodairaminami-h.metro.tokyo.jp/"
       },
       "東京都立小平西高等学校" : {
+         "location" : "東京都小平市小川町1-502-95",
          "location_area" : "小平市",
+         "location_zipcode" : "187-0032",
          "owner_type" : "都立",
-         "short_name" : "小平西高校"
+         "senior_high_school_code" : "13280C",
+         "short_name" : "小平西高校",
+         "url" : "http://www.kodairanishi-h.metro.tokyo.jp/"
       },
       "東京都立小平高等学校" : {
+         "location" : "東京都小平市仲町112",
          "location_area" : "小平市",
+         "location_zipcode" : "187-0042",
          "owner_type" : "都立",
-         "short_name" : "小平高校"
+         "senior_high_school_code" : "13165C",
+         "short_name" : "小平高校",
+         "url" : "http://www.kodaira-h.metro.tokyo.jp/"
       },
       "東京都立小松川高等学校" : {
+         "location" : "東京都江戸川区平井1-27-10",
          "location_area" : "江戸川区",
+         "location_wikipedia_latlon" : "|35|42|9.1|N|139|51|6.5|E|",
+         "location_zipcode" : "132-0035",
          "owner_type" : "都立",
-         "short_name" : "小松川高校"
+         "senior_high_school_code" : "13167K",
+         "short_name" : "小松川高校",
+         "url" : "http://www.komatsugawa-h.metro.tokyo.jp/"
       },
       "東京都立小石川高等学校" : {
+         "location" : "東京都文京区本駒込2-29-29",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|44.6|N|139|44|44.7|E|",
+         "location_zipcode" : "113-0021",
          "owner_type" : "都立",
-         "short_name" : "小石川高校"
+         "senior_high_school_code" : "13154H",
+         "short_name" : "小石川高校",
+         "url" : "http://www.koishikawa-h.metro.tokyo.jp/"
       },
       "東京都立小笠原高等学校" : {
+         "location" : "東京都小笠原村父島字清瀬",
          "location_area" : "小笠原村",
+         "location_zipcode" : "100-2101",
          "owner_type" : "都立",
-         "short_name" : "小笠原高校"
+         "senior_high_school_code" : "13130A",
+         "short_name" : "小笠原高校",
+         "url" : "http://www.ogasawara-h.metro.tokyo.jp/"
       },
       "東京都立小金井北高等学校" : {
+         "location" : "東京都小金井市緑町四丁目1番1号",
          "location_area" : "小金井市",
+         "location_wikipedia_latlon" : "|35|42|20|N|139|30|59.7|E|",
+         "location_zipcode" : "184-0003",
          "owner_type" : "都立",
-         "short_name" : "小金井北高校"
+         "senior_high_school_code" : "13332K",
+         "short_name" : "小金井北高校",
+         "url" : "http://www.koganeikita-h.metro.tokyo.jp/"
       },
       "東京都立小金井工業高等学校" : {
+         "location" : "東京都小金井市本町6丁目8番9号",
          "location_area" : "小金井市",
+         "location_wikipedia_latlon" : "|35|41|59.4|N|139|30|1.8|E|",
+         "location_zipcode" : "184-8581",
          "owner_type" : "都立",
-         "short_name" : "小金井工業高校"
+         "senior_high_school_code" : "13164E",
+         "short_name" : "小金井工業高校",
+         "url" : "http://www.koganeikogyo-h.metro.tokyo.jp/"
       },
       "東京都立山崎高等学校" : {
+         "location" : "東京都町田市山崎町1453-1",
          "location_area" : "町田市",
+         "location_zipcode" : "195-0074",
          "owner_type" : "都立",
-         "short_name" : "山崎高校"
+         "senior_high_school_code" : "13303F",
+         "short_name" : "山崎高校",
+         "url" : "http://www.yamasaki-h.metro.tokyo.jp/"
       },
       "東京都立工芸高等学校" : {
+         "location" : "東京都文京区本郷1-3-9",
          "location_area" : "文京区",
+         "location_zipcode" : "113-0033",
          "owner_type" : "都立",
-         "short_name" : "工芸高校"
+         "senior_high_school_code" : "13159J",
+         "short_name" : "工芸高校",
+         "url" : "http://www.kogei-tky.ed.jp"
       },
       "東京都立広尾高等学校" : {
+         "location" : "東京都渋谷区東4丁目14-14",
          "location_area" : "渋谷区",
+         "location_zipcode" : "150-0011",
          "owner_type" : "都立",
-         "short_name" : "広尾高校"
+         "senior_high_school_code" : "13235H",
+         "short_name" : "広尾高校",
+         "url" : "http://www.hiroo-h.metro.tokyo.jp/"
       },
       "東京都立府中工業高等学校" : {
+         "location" : "東京都府中市若松町2-19",
          "location_area" : "府中市",
+         "location_zipcode" : "183-0005",
          "owner_type" : "都立",
-         "short_name" : "府中工業高校"
+         "senior_high_school_code" : "13243J",
+         "short_name" : "府中工業高校",
+         "url" : "http://www.fuchukogyo-h.metro.tokyo.jp/"
       },
       "東京都立府中東高等学校" : {
+         "location" : "東京都府中市押立町4-21",
          "location_area" : "府中市",
+         "location_zipcode" : "183-0012",
          "owner_type" : "都立",
-         "short_name" : "府中東高校"
+         "senior_high_school_code" : "13244G",
+         "short_name" : "府中東高校",
+         "url" : "http://www.fuchuhigashi-h.metro.tokyo.jp/"
       },
       "東京都立府中西高等学校" : {
+         "location" : "東京都府中市日新町4-6-7",
          "location_area" : "府中市",
+         "location_wikipedia_latlon" : "|35|40|18.8|N|139|26|47.1|E|",
+         "location_zipcode" : "183-0036",
          "owner_type" : "都立",
-         "short_name" : "府中西高校"
+         "senior_high_school_code" : "13245E",
+         "short_name" : "府中西高校",
+         "url" : "http://www.fuchunishi-h.metro.tokyo.jp/"
       },
       "東京都立府中高等学校" : {
+         "location" : "東京都府中市栄町3-3",
          "location_area" : "府中市",
+         "location_wikipedia_latlon" : "|35|41|16.1|N|139|28|28.7|E|",
+         "location_zipcode" : "183-0051",
          "owner_type" : "都立",
-         "short_name" : "府中高校"
+         "senior_high_school_code" : "13242A",
+         "short_name" : "府中高校",
+         "url" : "http://www.fuchu-h.metro.tokyo.jp/"
       },
       "東京都立忍岡高等学校" : {
+         "location" : "東京都台東区浅草橋5-1-24",
          "location_area" : "台東区",
+         "location_zipcode" : "111-0053",
          "owner_type" : "都立",
-         "short_name" : "忍岡高校"
+         "short_name" : "忍岡高校",
+         "url" : "http://www.shinobugaoka-h.metro.tokyo.jp/"
       },
       "東京都立成瀬高等学校" : {
+         "location" : "東京都町田市成瀬1222-1",
          "location_area" : "町田市",
+         "location_zipcode" : "194-0044",
          "owner_type" : "都立",
-         "short_name" : "成瀬高校"
+         "senior_high_school_code" : "13289G",
+         "short_name" : "成瀬高校",
+         "url" : "http://www.naruse-h.metro.tokyo.jp/"
       },
       "東京都立戸山高等学校" : {
+         "location" : "東京都新宿区戸山3-19-1",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|42|23.7|N|139|42|38.1|E|",
+         "location_zipcode" : "162-0052",
          "owner_type" : "都立",
-         "short_name" : "戸山高校"
+         "senior_high_school_code" : "13207B",
+         "short_name" : "戸山高校",
+         "url" : "http://www.toyama-h.metro.tokyo.jp/"
       },
       "東京都立拝島高等学校" : {
+         "location" : "東京都昭島市拝島町4-13-1",
          "location_area" : "昭島市",
+         "location_zipcode" : "196-0002",
          "owner_type" : "都立",
-         "short_name" : "拝島高校"
+         "senior_high_school_code" : "13290A",
+         "short_name" : "拝島高校",
+         "url" : "http://www.haijima-h.metro.tokyo.jp/"
       },
       "東京都立文京高等学校" : {
+         "location" : "東京都豊島区西巣鴨1-1-5",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|9.2|N|139|43|44.3|E|",
+         "location_zipcode" : "170-0001",
          "owner_type" : "都立",
-         "short_name" : "文京高校"
+         "senior_high_school_code" : "13247A",
+         "short_name" : "文京高校",
+         "url" : "http://www.bunkyo-h.metro.tokyo.jp/"
       },
       "東京都立新宿山吹高等学校" : {
+         "location" : "東京都新宿区山吹町81",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|42|24.8|N|139|43|41.4|E|",
+         "location_zipcode" : "162-8612",
          "owner_type" : "都立",
-         "short_name" : "新宿山吹高校"
+         "senior_high_school_code" : "13334F",
+         "short_name" : "新宿山吹高校",
+         "url" : "http://yamabuki-hs.metro.tokyo.jp/"
       },
       "東京都立新宿高等学校" : {
+         "location" : "東京都新宿区内藤町11-4",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|41|21.6|N|139|42|19.2|E|",
+         "location_zipcode" : "160-0014",
          "owner_type" : "都立",
-         "short_name" : "新宿高校"
+         "senior_high_school_code" : "13180G",
+         "short_name" : "新宿高校",
+         "url" : "http://www.shinjuku-h.metro.tokyo.jp/"
       },
       "東京都立新島高等学校" : {
+         "location" : "東京都新島村本村4-10-1",
          "location_area" : "新島村",
+         "location_zipcode" : "100-0402",
          "owner_type" : "都立",
-         "short_name" : "新島高校"
+         "senior_high_school_code" : "13212J",
+         "short_name" : "新島高校",
+         "url" : "http://www.niijima-h.metro.tokyo.jp/"
       },
       "東京都立日本橋高等学校" : {
+         "location" : "東京都墨田区八広1-28-21",
          "location_area" : "墨田区",
+         "location_zipcode" : "103-0015",
          "owner_type" : "都立",
-         "short_name" : "日本橋高校"
+         "senior_high_school_code" : "13214E",
+         "short_name" : "日本橋高校",
+         "url" : "http://www.nihonbashi-h.metro.tokyo.jp/"
       },
       "東京都立日比谷高等学校" : {
+         "location" : "東京都千代田区永田町2丁目16-1",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|40|34.5|N|139|44|23|E|region:JP",
+         "location_zipcode" : "100-0014",
          "owner_type" : "都立",
-         "short_name" : "日比谷高校"
+         "senior_high_school_code" : "13234K",
+         "short_name" : "日比谷高校",
+         "url" : "http://www.hibiya-h.metro.tokyo.jp/"
       },
       "東京都立日野台高等学校" : {
+         "location" : "東京都日野市大坂上4-16-1",
          "location_area" : "日野市",
+         "location_zipcode" : "191-0061",
          "owner_type" : "都立",
-         "short_name" : "日野台高校"
+         "senior_high_school_code" : "13331A",
+         "short_name" : "日野台高校",
+         "url" : "http://www.hinodai-h.metro.tokyo.jp/"
       },
       "東京都立日野高等学校" : {
+         "location" : "東京都日野市石田1-190-1",
          "location_area" : "日野市",
+         "location_zipcode" : "191-0021",
          "owner_type" : "都立",
-         "short_name" : "日野高校"
+         "senior_high_school_code" : "13233A",
+         "short_name" : "日野高校",
+         "url" : "http://www.hino-h.metro.tokyo.jp/"
       },
       "東京都立昭和高等学校" : {
+         "location" : "東京都昭島市東町2-3-21",
          "location_area" : "昭島市",
+         "location_zipcode" : "196-0033",
          "owner_type" : "都立",
-         "short_name" : "昭和高校"
+         "senior_high_school_code" : "13179C",
+         "short_name" : "昭和高校",
+         "url" : "http://www.showa-h.metro.tokyo.jp/"
       },
       "東京都立晴海総合高等学校" : {
+         "location" : "東京都中央区晴海1-2-1",
          "location_area" : "中央区",
+         "location_zipcode" : "104-0053",
          "owner_type" : "都立",
-         "short_name" : "晴海総合高校"
+         "senior_high_school_code" : "13310J",
+         "short_name" : "晴海総合高校",
+         "url" : "http://www.harumisogo-h.metro.tokyo.jp/"
       },
       "東京都立本所工業高等学校" : {
+         "location" : "東京都葛飾区南水元4-21-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "125-0035",
          "owner_type" : "都立",
-         "short_name" : "本所工業高校"
+         "senior_high_school_code" : "13250A",
+         "short_name" : "本所工業高校",
+         "url" : "http://www.honjokogyo-h.metro.tokyo.jp/"
       },
       "東京都立本所高等学校" : {
+         "location" : "東京都墨田区向島3-37-25",
          "location_area" : "墨田区",
+         "location_zipcode" : "131-0033",
          "owner_type" : "都立",
-         "short_name" : "本所高校"
+         "senior_high_school_code" : "13249H",
+         "short_name" : "本所高校",
+         "url" : "http://www.honjo-h.metro.tokyo.jp/"
       },
       "東京都立杉並工業高等学校" : {
+         "location" : "東京都杉並区上井草4-13-31",
          "location_area" : "杉並区",
+         "location_zipcode" : "167-0023",
          "owner_type" : "都立",
-         "short_name" : "杉並工業高校"
+         "senior_high_school_code" : "13183A",
+         "short_name" : "杉並工業高校",
+         "url" : "http://www.suginamikogyo-h.metro.tokyo.jp/"
       },
       "東京都立杉並総合高等学校" : {
+         "location" : "東京都杉並区下高井戸5-17-1",
          "location_area" : "杉並区",
+         "location_zipcode" : "168-0073",
          "owner_type" : "都立",
-         "short_name" : "杉並総合高校"
+         "senior_high_school_code" : "13319B",
+         "short_name" : "杉並総合高校",
+         "url" : "http://www.suginamisogo-h.metro.tokyo.jp/"
       },
       "東京都立杉並高等学校" : {
+         "location" : "東京都杉並区成田西4-15-15",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|41|49.1|N|139|37|53.3|E|",
+         "location_zipcode" : "166-0016",
          "owner_type" : "都立",
-         "short_name" : "杉並高校"
+         "senior_high_school_code" : "13182C",
+         "short_name" : "杉並高校",
+         "url" : "http://www.suginami-h.metro.tokyo.jp/"
       },
       "東京都立東久留米総合高等学校" : {
+         "location" : "東京都東久留米市幸町5-8-46",
          "location_area" : "東久留米市",
+         "location_zipcode" : "203-0052",
          "owner_type" : "都立",
-         "short_name" : "東久留米総合高校"
+         "senior_high_school_code" : "13343E",
+         "short_name" : "東久留米総合高校",
+         "url" : "http://www.higashikurume-sogo-h.metro.tokyo.jp/"
       },
       "東京都立東大和南高等学校" : {
+         "location" : "東京都東大和市桜が丘3-44-8",
          "location_area" : "東大和市",
+         "location_zipcode" : "207-0022",
          "owner_type" : "都立",
-         "short_name" : "東大和南高校"
+         "senior_high_school_code" : "13306A",
+         "short_name" : "東大和南高校",
+         "url" : "http://www.higashiyamatominami-h.metro.tokyo.jp/"
       },
       "東京都立東大和高等学校" : {
+         "location" : "東京都東大和市中央3-945",
          "location_area" : "東大和市",
+         "location_zipcode" : "207-0015",
          "owner_type" : "都立",
-         "short_name" : "東大和高校"
+         "senior_high_school_code" : "13230G",
+         "short_name" : "東大和高校",
+         "url" : "[ 公式サイト]"
       },
       "東京都立東村山西高等学校" : {
+         "location" : "東京都東村山市富士見町5-4-41",
          "location_area" : "東村山市",
+         "location_zipcode" : "189-0024",
          "owner_type" : "都立",
-         "short_name" : "東村山西高校"
+         "senior_high_school_code" : "13307J",
+         "short_name" : "東村山西高校",
+         "url" : "http://www.higashimurayamanishi-h.metro.tokyo.jp/"
       },
       "東京都立東村山高等学校" : {
+         "location" : "東京都東村山市恩多町4-26-1",
          "location_area" : "東村山市",
+         "location_zipcode" : "189-0011",
          "owner_type" : "都立",
-         "short_name" : "東村山高校"
+         "senior_high_school_code" : "13229C",
+         "short_name" : "東村山高校",
+         "url" : "http://www.higashimurayama-h.metro.tokyo.jp/"
       },
       "東京都立東高等学校" : {
+         "location" : "東京都江東区東砂7-19-24",
          "location_area" : "江東区",
+         "location_zipcode" : "136-0074",
          "owner_type" : "都立",
-         "short_name" : "東高校"
+         "senior_high_school_code" : "13228E",
+         "short_name" : "東高校",
+         "url" : "http://www.higashi-h.metro.tokyo.jp/"
       },
       "東京都立松が谷高等学校" : {
+         "location" : "東京都八王子市松が谷1772",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0354",
          "owner_type" : "都立",
-         "short_name" : "松が谷高校"
+         "senior_high_school_code" : "13302H",
+         "short_name" : "松が谷高校",
+         "url" : "http://www.matsugaya-h.metro.tokyo.jp/"
       },
       "東京都立松原高等学校" : {
+         "location" : "東京都世田谷区桜上水四丁目3番5号",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|55.1|N|139|38|5.6|E|",
+         "location_zipcode" : "156-0045",
          "owner_type" : "都立",
-         "short_name" : "松原高校"
+         "senior_high_school_code" : "13253F",
+         "short_name" : "松原高校",
+         "url" : "http://www.matsubara-h.metro.tokyo.jp/"
       },
       "東京都立板橋有徳高等学校" : {
+         "location" : "東京都板橋区徳丸2-17-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|46|20.5|N|139|39|40.5|E|",
+         "location_zipcode" : "175-0083",
          "owner_type" : "都立",
-         "short_name" : "板橋有徳高校"
+         "senior_high_school_code" : "13339G",
+         "short_name" : "板橋有徳高校",
+         "url" : "http://www.itabashiyutoku-h.metro.tokyo.jp/"
       },
       "東京都立板橋高等学校" : {
+         "location" : "東京都板橋区大谷口1-54-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|44|29.8|N|139|41|21.7|E|",
+         "location_zipcode" : "173-0035",
          "owner_type" : "都立",
-         "short_name" : "板橋高校"
+         "senior_high_school_code" : "13114J",
+         "short_name" : "板橋高校",
+         "url" : "http://www.itabashi-h.metro.tokyo.jp/"
       },
       "東京都立桐ケ丘高等学校" : {
+         "location" : "東京都北区赤羽北三丁目5番22号",
          "location_area" : "北区",
+         "location_wikipedia_latlon" : "|35|46|54.9|N|139|42|25.3|E|",
+         "location_zipcode" : "115-0052",
          "owner_type" : "都立",
-         "short_name" : "桐ケ丘高校"
+         "senior_high_school_code" : "13312E",
+         "short_name" : "桐ケ丘高校",
+         "url" : "http://www.kirigaoka-h.metro.tokyo.jp/"
       },
       "東京都立桜町高等学校" : {
+         "location" : "東京都世田谷区用賀2-4-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "158-0097",
          "owner_type" : "都立",
-         "short_name" : "桜町高校"
+         "senior_high_school_code" : "13170K",
+         "short_name" : "桜町高校",
+         "url" : "http://www.sakuramachi-h.metro.tokyo.jp/"
       },
       "東京都立橘高等学校" : {
+         "location" : "東京都墨田区立花4丁目29番7号",
          "location_area" : "墨田区",
+         "location_zipcode" : "131-0043",
          "owner_type" : "都立",
-         "short_name" : "橘高校"
+         "senior_high_school_code" : "13337A",
+         "short_name" : "橘高校",
+         "url" : "http://www.tachibana-h.metro.tokyo.jp/"
       },
       "東京都立武蔵丘高等学校" : {
+         "location" : "東京都中野区上鷺宮二丁目14番1号",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0031",
          "owner_type" : "都立",
-         "short_name" : "武蔵丘高校"
+         "senior_high_school_code" : "13267F",
+         "short_name" : "武蔵丘高校",
+         "url" : "http://www.musashigaoka-h.metro.tokyo.jp/"
       },
       "東京都立武蔵村山高等学校" : {
+         "location" : "東京都武蔵村山市中原1-7-1",
          "location_area" : "武蔵村山市",
+         "location_zipcode" : "208-0035",
          "owner_type" : "都立",
-         "short_name" : "武蔵村山高校"
+         "senior_high_school_code" : "13268D",
+         "short_name" : "武蔵村山高校",
+         "url" : "http://www.musashimurayama-h.metro.tokyo.jp/main.html"
       },
       "東京都立武蔵野北高等学校" : {
+         "location" : "東京都武蔵野市八幡町2-3-10",
          "location_area" : "武蔵野市",
+         "location_wikipedia_latlon" : "|35|43|11.0|N|139|33|26.1|E|",
+         "location_zipcode" : "180-0011",
          "owner_type" : "都立",
-         "short_name" : "武蔵野北高校"
+         "senior_high_school_code" : "13296K",
+         "short_name" : "武蔵野北高校",
+         "url" : "http://www.musakita.jp/"
       },
       "東京都立武蔵高等学校" : {
+         "location" : "東京都武蔵野市境4-13-28",
          "location_area" : "武蔵野市",
+         "location_wikipedia_latlon" : "|35|42|29.2|N|139|32|21.1|E|",
+         "location_zipcode" : "180-0022",
          "owner_type" : "都立",
+         "senior_high_school_code" : "13266H",
          "short_name" : "武蔵高校",
+         "url" : "http://www.musashi-h.metro.tokyo.jp/",
          "wikipedia_name" : "東京都立武蔵高等学校・附属中学校"
       },
       "東京都立永山高等学校" : {
+         "location" : "東京都多摩市永山5-22",
          "location_area" : "多摩市",
+         "location_zipcode" : "206-0025",
          "owner_type" : "都立",
-         "short_name" : "永山高校"
+         "senior_high_school_code" : "13211A",
+         "short_name" : "永山高校",
+         "url" : "http://www.nagayama-h.metro.tokyo.jp/"
       },
       "東京都立江北高等学校" : {
+         "location" : "東京都足立区西綾瀬4-14-30",
          "location_area" : "足立区",
+         "location_zipcode" : "120-0014",
          "owner_type" : "都立",
-         "short_name" : "江北高校"
+         "senior_high_school_code" : "13162J",
+         "short_name" : "江北高校",
+         "url" : "http://www.kohoku-h.metro.tokyo.jp/"
       },
       "東京都立江戸川高等学校" : {
+         "location" : "東京都江戸川区松島2-38-1",
          "location_area" : "江戸川区",
+         "location_wikipedia_latlon" : "|35|42|31.4|N|139|51|56.2|E|",
+         "location_zipcode" : "132-0031",
          "owner_type" : "都立",
-         "short_name" : "江戸川高校"
+         "senior_high_school_code" : "13120C",
+         "short_name" : "江戸川高校",
+         "url" : "http://www.edogawa-h.metro.tokyo.jp/"
       },
       "東京都立江東商業高等学校" : {
+         "location" : "東京都江東区亀戸4-50-1",
          "location_area" : "江東区",
+         "location_wikipedia_latlon" : "|35|42|09|N|139|49|53.5|E|",
+         "location_zipcode" : "136-0071",
          "owner_type" : "都立",
-         "short_name" : "江東商業高校"
+         "short_name" : "江東商業高校",
+         "url" : "http://www.kotoshogyo-h.metro.tokyo.jp/"
       },
       "東京都立浅草高等学校" : {
+         "location" : "東京都台東区今戸1-8-13",
          "location_area" : "台東区",
+         "location_zipcode" : "111-0024",
          "owner_type" : "都立",
-         "short_name" : "浅草高校"
+         "senior_high_school_code" : "13330C",
+         "short_name" : "浅草高校",
+         "url" : "http://www.taito-chuyakan-tei-j.metro.tokyo.jp/"
       },
       "東京都立深川高等学校" : {
+         "location" : "東京都江東区東陽5-32-19",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0016",
          "owner_type" : "都立",
-         "short_name" : "深川高校"
+         "senior_high_school_code" : "13236F",
+         "short_name" : "深川高校",
+         "url" : "http://www.fukagawa-h.metro.tokyo.jp/"
       },
       "東京都立深沢高等学校" : {
+         "location" : "東京都世田谷区深沢7-3-14",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|37|24.9|N|139|38|51.6|E|",
+         "location_zipcode" : "158-0081",
          "owner_type" : "都立",
-         "short_name" : "深沢高校"
+         "senior_high_school_code" : "13238B",
+         "short_name" : "深沢高校",
+         "url" : "http://www.fukasawa-h.metro.tokyo.jp/"
       },
       "東京都立淵江高等学校" : {
+         "location" : "東京都足立区東保木間2-10-1",
          "location_area" : "足立区",
+         "location_zipcode" : "121-0063",
          "owner_type" : "都立",
-         "short_name" : "淵江高校"
+         "senior_high_school_code" : "13241B",
+         "short_name" : "淵江高校",
+         "url" : "http://www.fuchie-h.metro.tokyo.jp/"
       },
       "東京都立清瀬高等学校" : {
+         "location" : "東京都清瀬市松山3-1-56",
          "location_area" : "清瀬市",
+         "location_wikipedia_latlon" : "|35|46|11.8|N|139|30|54.5|E|",
+         "location_zipcode" : "204-0022",
          "owner_type" : "都立",
-         "short_name" : "清瀬高校"
+         "senior_high_school_code" : "13145J",
+         "short_name" : "清瀬高校",
+         "url" : "http://www.kiyose-h.metro.tokyo.jp/"
       },
       "東京都立片倉高等学校" : {
+         "location" : "東京都八王子市片倉町1643",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0914",
          "owner_type" : "都立",
-         "short_name" : "片倉高校"
+         "senior_high_school_code" : "13135A",
+         "short_name" : "片倉高校",
+         "url" : "http://www.katakura-h.metro.tokyo.jp/"
       },
       "東京都立狛江高等学校" : {
+         "location" : "東京都狛江市元和泉3-9-1",
          "location_area" : "狛江市",
+         "location_wikipedia_latlon" : "|35|37|38.8|N|139|34|14|E|",
+         "location_zipcode" : "201-8501",
          "owner_type" : "都立",
-         "short_name" : "狛江高校"
+         "senior_high_school_code" : "13166A",
+         "short_name" : "狛江高校",
+         "url" : "http://www.komae-h.metro.tokyo.jp/"
       },
       "東京都立瑞穂農芸高等学校" : {
+         "location" : "東京都西多摩郡瑞穂町石畑2027",
          "location_area" : "西多摩郡瑞穂町",
+         "location_zipcode" : "190-1211",
          "owner_type" : "都立",
-         "short_name" : "瑞穂農芸高校"
+         "senior_high_school_code" : "13254D",
+         "short_name" : "瑞穂農芸高校",
+         "url" : "http://www.mizuho-h.metro.tokyo.jp/"
       },
       "東京都立田園調布高等学校" : {
+         "location" : "東京都大田区田園調布南27-1",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|56.4|N|139|40|35.6|E|",
+         "location_zipcode" : "145-0076",
          "owner_type" : "都立",
-         "short_name" : "田園調布高校"
+         "senior_high_school_code" : "13205F",
+         "short_name" : "田園調布高校",
+         "url" : "http://www.den-enchofu-h.metro.tokyo.jp/"
       },
       "東京都立田柄高等学校" : {
+         "location" : "東京都練馬区光が丘2-3-1",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|45|47|N|139|38|5|E|",
+         "location_zipcode" : "179-0072",
          "owner_type" : "都立",
-         "short_name" : "田柄高校"
+         "senior_high_school_code" : "13301K",
+         "short_name" : "田柄高校",
+         "url" : "http://www.tagara-h.metro.tokyo.jp/"
       },
       "東京都立田無工業高等学校" : {
+         "location" : "東京都西東京市向台町1-9-1",
          "location_area" : "西東京市",
+         "location_zipcode" : "188-0013",
          "owner_type" : "都立",
-         "short_name" : "田無工業高校"
+         "senior_high_school_code" : "13198K",
+         "short_name" : "田無工業高校",
+         "url" : "http://www.tanashikougyo-h.metro.tokyo.jp/"
       },
       "東京都立田無高等学校" : {
+         "location" : "東京都西東京市向台町5-4-34",
          "location_area" : "西東京市",
+         "location_wikipedia_latlon" : "|35|43|13.9|N|139|31|45.1|E|",
+         "location_zipcode" : "188-0013",
          "owner_type" : "都立",
-         "short_name" : "田無高校"
+         "senior_high_school_code" : "13305B",
+         "short_name" : "田無高校",
+         "url" : "http://www.tanashi-h.metro.tokyo.jp/"
       },
       "東京都立町田工業高等学校" : {
+         "location" : "東京都町田市忠生1-20-2",
          "location_area" : "町田市",
+         "location_zipcode" : "194-0035",
          "owner_type" : "都立",
-         "short_name" : "町田工業高校"
+         "senior_high_school_code" : "13252H",
+         "short_name" : "町田工業高校",
+         "url" : "http://www.machidath.ed.jp/"
       },
       "東京都立町田総合高等学校" : {
+         "location" : "東京都町田市木曽町18-2276",
          "location_area" : "町田市",
+         "location_zipcode" : "194-0033",
          "owner_type" : "都立",
-         "short_name" : "町田総合高校"
+         "short_name" : "町田総合高校",
+         "url" : "http://www.machida-sogo-j.metro.tokyo.jp/"
       },
       "東京都立町田高等学校" : {
+         "location" : "東京都町田市中町4-25-3",
          "location_area" : "町田市",
+         "location_wikipedia_latlon" : "|35|33|12.4|N|139|26|56.1|E|",
+         "location_zipcode" : "194-0021",
          "owner_type" : "都立",
-         "short_name" : "町田高校"
+         "senior_high_school_code" : "13251K",
+         "short_name" : "町田高校",
+         "url" : "http://www.machida-h.metro.tokyo.jp/"
       },
       "東京都立白鴎高等学校" : {
+         "location" : "東京都台東区元浅草1-6-22",
          "location_area" : "台東区",
+         "location_wikipedia_latlon" : "|35|42|29.7|N|139|46|58.6|E|",
+         "location_zipcode" : "111-0041",
          "owner_type" : "都立",
+         "senior_high_school_code" : "13222F",
          "short_name" : "白鴎高校",
+         "url" : "http://www.hakuo-h.metro.tokyo.jp/",
          "wikipedia_name" : "東京都立白鴎高等学校・附属中学校"
       },
       "東京都立目黒高等学校" : {
+         "location" : "東京都目黒区祐天寺2-7-15",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|38|13.7|N|139|41|40.3|E|",
+         "location_zipcode" : "153-0052",
          "owner_type" : "都立",
-         "short_name" : "目黒高校"
+         "senior_high_school_code" : "13271D",
+         "short_name" : "目黒高校",
+         "url" : "http://www.meguro-h.metro.tokyo.jp/"
       },
       "東京都立石神井高等学校" : {
+         "location" : "東京都練馬区関町北4-32-48",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|43|50.5|N|139|34|16|E|",
+         "location_zipcode" : "177-0051",
          "owner_type" : "都立",
-         "short_name" : "石神井高校"
+         "senior_high_school_code" : "13176J",
+         "short_name" : "石神井高校",
+         "url" : "http://www.shakujii-h.metro.tokyo.jp/"
       },
       "東京都立砂川高等学校" : {
+         "location" : "東京都立川市泉町935-4",
          "location_area" : "立川市",
+         "location_zipcode" : "190-8583",
          "owner_type" : "都立",
-         "short_name" : "砂川高校"
+         "senior_high_school_code" : "13295A",
+         "short_name" : "砂川高校",
+         "url" : "http://www.sunagawa-h.metro.tokyo.jp/"
       },
       "東京都立神代高等学校" : {
+         "location" : "東京都調布市若葉町1-46-1",
          "location_area" : "調布市",
+         "location_wikipedia_latlon" : "|35|39|26.4|N|139|35|8.1|E|",
+         "location_zipcode" : "182-0003",
          "owner_type" : "都立",
-         "short_name" : "神代高校"
+         "senior_high_school_code" : "13181E",
+         "short_name" : "神代高校",
+         "url" : "http://www.jindai-h.metro.tokyo.jp/"
       },
       "東京都立神津高等学校" : {
+         "location" : "東京都神津島村1620番地",
          "location_area" : "神津島村",
+         "location_zipcode" : "100-0601",
          "owner_type" : "都立",
-         "short_name" : "神津高校"
+         "senior_high_school_code" : "13163G",
+         "short_name" : "神津高校",
+         "url" : "http://www.kouzu-h.metro.tokyo.jp/index.html"
       },
       "東京都立福生高等学校" : {
+         "location" : "東京都福生市北田園2-11-3",
          "location_area" : "福生市",
+         "location_zipcode" : "197-0005",
          "owner_type" : "都立",
-         "short_name" : "福生高校"
+         "senior_high_school_code" : "13246C",
+         "short_name" : "福生高校",
+         "url" : "http://www.fussa-h.metro.tokyo.jp/"
       },
       "東京都立秋留台高等学校" : {
+         "location" : "東京都あきる野市平沢153-4",
          "location_area" : "あきる野市",
+         "location_zipcode" : "197-0812",
          "owner_type" : "都立",
-         "short_name" : "秋留台高校"
+         "senior_high_school_code" : "13284F",
+         "short_name" : "秋留台高校",
+         "url" : "http://www.akiru-h.metro.tokyo.jp/"
       },
       "東京都立科学技術高等学校" : {
+         "location" : "東京都江東区大島1-2-31",
          "location_area" : "江東区",
+         "location_zipcode" : "136-0072",
          "owner_type" : "都立",
-         "short_name" : "科学技術高校"
+         "short_name" : "科学技術高校",
+         "url" : "http://www.st-h.metro.tokyo.jp/"
       },
       "東京都立稔ヶ丘高等学校" : {
+         "location" : "東京都中野区上鷺宮5-11-1",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0031",
          "owner_type" : "都立",
-         "short_name" : "稔ヶ丘高校"
+         "senior_high_school_code" : "13338J",
+         "short_name" : "稔ヶ丘高校",
+         "url" : "http://www.minorigaoka-h.metro.tokyo.jp/"
       },
       "東京都立立川高等学校" : {
+         "location" : "東京都立川市錦町2-13-5",
          "location_area" : "立川市",
+         "location_wikipedia_latlon" : "|35|41|33.4|N|139|24|46.6|E|",
+         "location_zipcode" : "190-0022",
          "owner_type" : "都立",
-         "short_name" : "立川高校"
+         "senior_high_school_code" : "13197A",
+         "short_name" : "立川高校",
+         "url" : "http://www.tachikawa-h.metro.tokyo.jp/"
       },
       "東京都立竹台高等学校" : {
+         "location" : "東京都荒川区東日暮里五丁目14番1号",
          "location_area" : "荒川区",
+         "location_wikipedia_latlon" : "|35|43|34.2|N|139|46|40.2|E|",
+         "location_zipcode" : "116-0014",
          "owner_type" : "都立",
-         "short_name" : "竹台高校"
+         "senior_high_school_code" : "13194G",
+         "short_name" : "竹台高校",
+         "url" : "http://www.takenodai-h.metro.tokyo.jp/"
       },
       "東京都立竹早高等学校" : {
+         "location" : "東京都文京区小石川4-2-11",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|42|44.7|N|139|44|39|E|",
+         "location_zipcode" : "112-0002",
          "owner_type" : "都立",
-         "short_name" : "竹早高校"
+         "senior_high_school_code" : "13195E",
+         "short_name" : "竹早高校",
+         "url" : "http://www.takehaya-h.metro.tokyo.jp/"
       },
       "東京都立第一商業高等学校" : {
+         "location" : "東京都渋谷区鉢山町8-1",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|39|0.7|N|139|41|54.9|E|",
+         "location_zipcode" : "150-0035",
          "owner_type" : "都立",
-         "short_name" : "第一商業高校"
+         "senior_high_school_code" : "13187D",
+         "short_name" : "第一商業高校",
+         "url" : "http://www.daiichisyogyo-h.metro.tokyo.jp/"
       },
       "東京都立第三商業高等学校" : {
+         "location" : "東京都江東区越中島3-3-1",
          "location_area" : "江東区",
+         "location_zipcode" : "135-0044",
          "owner_type" : "都立",
-         "short_name" : "第三商業高校"
+         "short_name" : "第三商業高校",
+         "url" : "http://www.daisanshogyo-h.metro.tokyo.jp/"
       },
       "東京都立第五商業高等学校" : {
+         "location" : "東京都国立市中3-4",
          "location_area" : "国立市",
+         "location_zipcode" : "186-0004",
          "owner_type" : "都立",
-         "short_name" : "第五商業高校"
+         "senior_high_school_code" : "13188B",
+         "short_name" : "第五商業高校",
+         "url" : "http://www.daigoshogyo-h.metro.tokyo.jp/"
       },
       "東京都立第四商業高等学校" : {
+         "location" : "東京都練馬区貫井3-45-19",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|44|22.6|N|139|37|34.4|E|",
+         "location_zipcode" : "176-0021",
          "owner_type" : "都立",
-         "short_name" : "第四商業高校"
+         "short_name" : "第四商業高校",
+         "url" : "http://www.daiyonshogyo-h.metro.tokyo.jp/"
       },
       "東京都立篠崎高等学校" : {
+         "location" : "東京都江戸川区東篠崎1-10-1",
          "location_area" : "江戸川区",
+         "location_wikipedia_latlon" : "|35|42|1.5|N|139|54|57.2|E|",
+         "location_zipcode" : "133-0063",
          "owner_type" : "都立",
-         "short_name" : "篠崎高校"
+         "senior_high_school_code" : "13279K",
+         "short_name" : "篠崎高校",
+         "url" : "http://www.shinozaki-h.metro.tokyo.jp/"
       },
       "東京都立紅葉川高等学校" : {
+         "location" : "東京都江戸川区臨海町2-1-1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "162-0052",
          "owner_type" : "都立",
-         "short_name" : "紅葉川高校"
+         "senior_high_school_code" : "13272B",
+         "short_name" : "紅葉川高校",
+         "url" : "http://www.momijigawa-h.metro.tokyo.jp/"
       },
       "東京都立総合工科高等学校" : {
+         "location" : "東京都世田谷区成城9-25-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0066",
          "owner_type" : "都立",
-         "short_name" : "総合工科高校"
+         "senior_high_school_code" : "13329K",
+         "short_name" : "総合工科高校",
+         "url" : "http://www.sougou-kouka-h.metro.tokyo.jp/"
       },
       "東京都立総合芸術高等学校" : {
+         "location" : "東京都目黒区大橋2-18-58",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0044",
          "owner_type" : "都立",
-         "short_name" : "総合芸術高校"
+         "short_name" : "総合芸術高校",
+         "url" : "http://www.sogo-geijutsu-j.metro.tokyo.jp/index.html"
       },
       "東京都立練馬工業高等学校" : {
+         "location" : "東京都練馬区早宮2-9-18",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|45|16.3|N|139|39|16.9|E|",
+         "location_zipcode" : "179-8909",
          "owner_type" : "都立",
-         "short_name" : "練馬工業高校"
+         "senior_high_school_code" : "13216A",
+         "short_name" : "練馬工業高校",
+         "url" : "http://www.nerimakogyo-h.metro.tokyo.jp/"
       },
       "東京都立練馬高等学校" : {
+         "location" : "東京都練馬区春日町四丁目28番25号",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|45|26|N|139|38|31|E|",
+         "location_zipcode" : "179-8078",
          "owner_type" : "都立",
-         "short_name" : "練馬高校"
+         "senior_high_school_code" : "13215C",
+         "short_name" : "練馬高校",
+         "url" : "http://www.nerima-h.metro.tokyo.jp/"
       },
       "東京都立美原高等学校" : {
+         "location" : "東京都大田区大森東一丁目33番1号",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|40.9|N|139|44|25.5|E|",
+         "location_zipcode" : "143-0012",
          "owner_type" : "都立",
-         "short_name" : "美原高校"
+         "senior_high_school_code" : "13323A",
+         "short_name" : "美原高校",
+         "url" : "http://www.mihara-h.metro.tokyo.jp/"
       },
       "東京都立羽村高等学校" : {
+         "location" : "東京都羽村市羽4152-1",
          "location_area" : "羽村市",
+         "location_zipcode" : "205-0012",
          "owner_type" : "都立",
-         "short_name" : "羽村高校"
+         "senior_high_school_code" : "13283H",
+         "short_name" : "羽村高校",
+         "url" : "http://www.hamura-h.metro.tokyo.jp/"
       },
       "東京都立翔陽高等学校" : {
+         "location" : "東京都八王子市館町1097-136",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0944",
          "owner_type" : "都立",
-         "short_name" : "翔陽高校"
+         "senior_high_school_code" : "13325G",
+         "short_name" : "翔陽高校",
+         "url" : "http://www.shoyo-h.metro.tokyo.jp/"
       },
       "東京都立芝商業高等学校" : {
+         "location" : "東京都港区海岸一丁目8-25",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|23.2|N|139|45|37.8|E|",
+         "location_zipcode" : "105-0022",
          "owner_type" : "都立",
-         "short_name" : "芝商業高校"
+         "senior_high_school_code" : "13174B",
+         "short_name" : "芝商業高校",
+         "url" : "http://www.shibashogyo-h.metro.tokyo.jp/"
       },
       "東京都立芦花高等学校" : {
+         "location" : "東京都世田谷区粕谷3-8-1",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|35|N|139|36|17.2|E|",
+         "location_zipcode" : "157-0063",
          "owner_type" : "都立",
-         "short_name" : "芦花高校"
+         "senior_high_school_code" : "13316H",
+         "short_name" : "芦花高校",
+         "url" : "http://www.roka-h.metro.tokyo.jp/"
       },
       "東京都立芸術高等学校" : {
+         "location" : "東京都目黒区大橋2-18-58",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-0044",
          "owner_type" : "都立",
-         "short_name" : "芸術高校"
+         "senior_high_school_code" : "13153K",
+         "short_name" : "芸術高校",
+         "url" : "http://www.geijutsu-h.metro.tokyo.jp/"
       },
       "東京都立若葉総合高等学校" : {
+         "location" : "東京都稲城市坂浜1434-3",
          "location_area" : "稲城市",
+         "location_wikipedia_latlon" : "|35|37|5.8|N|139|28|44.6|E|region:JP",
+         "location_zipcode" : "206-0822",
          "owner_type" : "都立",
-         "short_name" : "若葉総合高校"
+         "senior_high_school_code" : "13326E",
+         "short_name" : "若葉総合高校",
+         "url" : "http://www.wakabasogo-h.metro.tokyo.jp/index.html"
       },
       "東京都立荒川商業高等学校" : {
+         "location" : "東京都足立区小台2-1-31",
          "location_area" : "足立区",
+         "location_zipcode" : "120-8528",
          "owner_type" : "都立",
-         "short_name" : "荒川商業高校"
+         "senior_high_school_code" : "13111D",
+         "short_name" : "荒川商業高校",
+         "url" : "http://www.arakawashogyo-h.metro.tokyo.jp/"
       },
       "東京都立荒川工業高等学校" : {
+         "location" : "東京都荒川区南千住6-42-1",
          "location_area" : "荒川区",
+         "location_wikipedia_latlon" : "|35|44|15|N|139|47|32.3|E|",
+         "location_zipcode" : "116-0003",
          "owner_type" : "都立",
-         "short_name" : "荒川工業高校"
+         "senior_high_school_code" : "13110F",
+         "short_name" : "荒川工業高校",
+         "url" : "http://www.arakawakogyo-h.metro.tokyo.jp/"
       },
       "東京都立荻窪高等学校" : {
+         "location" : "東京都杉並区荻窪5-7-20",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|42|7.9|N|139|37|10.6|E|",
+         "location_zipcode" : "167-0051",
          "owner_type" : "都立",
-         "short_name" : "荻窪高校"
+         "senior_high_school_code" : "13131J",
+         "short_name" : "荻窪高校",
+         "url" : "http://www.ogikubo-h.metro.tokyo.jp/"
       },
       "東京都立葛西南高等学校" : {
+         "location" : "東京都江戸川区南葛西1-11-1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "134-8555",
          "owner_type" : "都立",
-         "short_name" : "葛西南高校"
+         "senior_high_school_code" : "13133E",
+         "short_name" : "葛西南高校",
+         "url" : "http://www.kasaiminami-h.metro.tokyo.jp/"
       },
       "東京都立葛西工業高等学校" : {
+         "location" : "東京都江戸川区一之江7-68-1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "132-0024",
          "owner_type" : "都立",
-         "short_name" : "葛西工業高校"
+         "senior_high_school_code" : "13134C",
+         "short_name" : "葛西工業高校",
+         "url" : "http://www.kasaikogyo-h.metro.tokyo.jp/"
       },
       "東京都立葛飾商業高等学校" : {
+         "location" : "東京都葛飾区新宿3-14-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "125-0051",
          "owner_type" : "都立",
-         "short_name" : "葛飾商業高校"
+         "senior_high_school_code" : "13136K",
+         "short_name" : "葛飾商業高校",
+         "url" : "http://www.katsushikashogyo-h.metro.tokyo.jp/"
       },
       "東京都立葛飾総合高等学校" : {
+         "location" : "東京都葛飾区南水元4-21-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "125-0035",
          "owner_type" : "都立",
-         "short_name" : "葛飾総合高校"
+         "senior_high_school_code" : "13340A",
+         "short_name" : "葛飾総合高校",
+         "url" : "http://www.katsushikasogo-h.metro.tokyo.jp/"
       },
       "東京都立葛飾野高等学校" : {
+         "location" : "東京都葛飾区亀有1-7-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "125-0061",
          "owner_type" : "都立",
-         "short_name" : "葛飾野高校"
+         "senior_high_school_code" : "13137H",
+         "short_name" : "葛飾野高校",
+         "url" : "http://www.katsushikano-h.metro.tokyo.jp/"
       },
       "東京都立蒲田高等学校" : {
+         "location" : "東京都大田区蒲田本町1-1-30",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|33|27.7|N|139|42|53.2|E|",
+         "location_zipcode" : "144-0053",
          "owner_type" : "都立",
-         "short_name" : "蒲田高校"
+         "senior_high_school_code" : "13285D",
+         "short_name" : "蒲田高校",
+         "url" : "http://www.kamata-h.metro.tokyo.jp/"
       },
       "東京都立蔵前工業高等学校" : {
+         "location" : "東京都台東区蔵前1-3-57",
          "location_area" : "台東区",
+         "location_zipcode" : "111-0051",
          "owner_type" : "都立",
-         "short_name" : "蔵前工業高校"
+         "senior_high_school_code" : "13150E",
+         "short_name" : "蔵前工業高校",
+         "url" : "http://www.kuramaekogyo-h.metro.tokyo.jp/"
       },
       "東京都立西高等学校" : {
+         "location" : "東京都杉並区宮前4-21-32",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|41|30.9|N|139|36|17|E|",
+         "location_zipcode" : "168-0081",
          "owner_type" : "都立",
-         "short_name" : "西高校"
+         "senior_high_school_code" : "13213G",
+         "short_name" : "西高校",
+         "url" : "http://www.nishi-h.metro.tokyo.jp/nishi-h/"
       },
       "東京都立調布北高等学校" : {
+         "location" : "東京都調布市深大寺北町5-39-1",
          "location_area" : "調布市",
+         "location_wikipedia_latlon" : "|35|40|49.1|N|139|32|55.6|E|",
+         "location_zipcode" : "182-0011",
          "owner_type" : "都立",
-         "short_name" : "調布北高校"
+         "short_name" : "調布北高校",
+         "url" : "http://www.chofukita-h.metro.tokyo.jp/"
       },
       "東京都立調布南高等学校" : {
+         "location" : "東京都調布市多摩川6-2-1",
          "location_area" : "調布市",
+         "location_wikipedia_latlon" : "|35|38|38.6|N|139|32|22.3|E|",
+         "location_zipcode" : "144-8533",
          "owner_type" : "都立",
-         "short_name" : "調布南高校"
+         "senior_high_school_code" : "13281A",
+         "short_name" : "調布南高校",
+         "url" : "http://www.chofuminami-h.metro.tokyo.jp/"
       },
       "東京都立豊多摩高等学校" : {
+         "location" : "東京都杉並区成田西2-6-18",
          "location_area" : "杉並区",
+         "location_zipcode" : "166-0016",
          "owner_type" : "都立",
-         "short_name" : "豊多摩高校"
+         "senior_high_school_code" : "13208A",
+         "short_name" : "豊多摩高校",
+         "url" : "http://www.toyotama-h.metro.tokyo.jp/"
       },
       "東京都立豊島高等学校" : {
+         "location" : "東京都豊島区千早4-9-21",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|20.1|N|139|40|59.1|E|",
+         "location_zipcode" : "171-0044",
          "owner_type" : "都立",
-         "short_name" : "豊島高校"
+         "senior_high_school_code" : "13206D",
+         "short_name" : "豊島高校",
+         "url" : "http://www.toshima-h.metro.tokyo.jp/"
       },
       "東京都立赤羽商業高等学校" : {
+         "location" : "東京都北区西が丘3-14-20",
          "location_area" : "北区",
+         "location_zipcode" : "115-0056",
          "owner_type" : "都立",
-         "short_name" : "赤羽商業高校"
+         "senior_high_school_code" : "13104A",
+         "short_name" : "赤羽商業高校",
+         "url" : "http://www.akabaneshogyo-h.metro.tokyo.jp/"
       },
       "東京都立足立工業高等学校" : {
+         "location" : "東京都足立区西新井4-30-1",
          "location_area" : "足立区",
+         "location_zipcode" : "123-0841",
          "owner_type" : "都立",
-         "short_name" : "足立工業高校"
+         "senior_high_school_code" : "13107F",
+         "short_name" : "足立工業高校",
+         "url" : "http://www.adachikogyo-h.metro.tokyo.jp/"
       },
       "東京都立足立新田高等学校" : {
+         "location" : "東京都足立区新田2-10-16",
          "location_area" : "足立区",
+         "location_wikipedia_latlon" : "|35|46|12.7|N|139|44|28.5|E|",
+         "location_zipcode" : "123-0865",
          "owner_type" : "都立",
-         "short_name" : "足立新田高校"
+         "senior_high_school_code" : "13293E",
+         "short_name" : "足立新田高校",
+         "url" : "http://www.adachishinden-h.metro.tokyo.jp/cms/html/top/main/index.html"
       },
       "東京都立足立東高等学校" : {
+         "location" : "東京都足立区大谷田2-3-5",
          "location_area" : "足立区",
+         "location_zipcode" : "120-0001",
          "owner_type" : "都立",
-         "short_name" : "足立東高校"
+         "senior_high_school_code" : "13108D",
+         "short_name" : "足立東高校",
+         "url" : "http://www.adachihigashi-h.metro.tokyo.jp/"
       },
       "東京都立足立西高等学校" : {
+         "location" : "東京都足立区江北5-7-1",
          "location_area" : "足立区",
+         "location_zipcode" : "123-8762",
          "owner_type" : "都立",
-         "short_name" : "足立西高校"
+         "senior_high_school_code" : "13109B",
+         "short_name" : "足立西高校",
+         "url" : "http://www.adachinishi-h.metro.tokyo.jp/"
       },
       "東京都立足立高等学校" : {
+         "location" : "東京都足立区中央本町1-3-9",
          "location_area" : "足立区",
+         "location_zipcode" : "120-0011",
          "owner_type" : "都立",
-         "short_name" : "足立高校"
+         "senior_high_school_code" : "13106H",
+         "short_name" : "足立高校",
+         "url" : "http://www.adachi-h.metro.tokyo.jp/"
       },
       "東京都立農業高等学校" : {
+         "location" : "東京都府中市寿町1-10-2",
          "location_area" : "府中市",
+         "location_zipcode" : "183-0056",
          "owner_type" : "都立",
-         "short_name" : "農業高校"
+         "senior_high_school_code" : "13217K",
+         "short_name" : "農業高校",
+         "url" : "http://www.nogyo-h.metro.tokyo.jp/"
       },
       "東京都立農産高等学校" : {
+         "location" : "東京都葛飾区西亀有1-28-1",
          "location_area" : "葛飾区",
+         "location_zipcode" : "124-0002",
          "owner_type" : "都立",
-         "short_name" : "農産高校"
+         "senior_high_school_code" : "13219F",
+         "short_name" : "農産高校",
+         "url" : "http://www.nousan-h.metro.tokyo.jp/"
       },
       "東京都立農芸高等学校" : {
+         "location" : "東京都杉並区今川三丁目25番1号",
          "location_area" : "杉並区",
+         "location_zipcode" : "167-0035",
          "owner_type" : "都立",
-         "short_name" : "農芸高校"
+         "senior_high_school_code" : "13218H",
+         "short_name" : "農芸高校",
+         "url" : "http://www.nogei-h.metro.tokyo.jp/"
       },
       "東京都立野津田高等学校" : {
+         "location" : "東京都町田市野津田町2001",
          "location_area" : "町田市",
+         "location_zipcode" : "195-0063",
          "owner_type" : "都立",
-         "short_name" : "野津田高校"
+         "senior_high_school_code" : "13221H",
+         "short_name" : "野津田高校",
+         "url" : "http://www.nozuta-h.metro.tokyo.jp/"
       },
       "東京都立雪谷高等学校" : {
+         "location" : "東京都大田区久が原1-14-1",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|35|9.6|N|139|41|22.4|E|",
+         "location_zipcode" : "146-0085",
          "owner_type" : "都立",
-         "short_name" : "雪谷高校"
+         "senior_high_school_code" : "13274J",
+         "short_name" : "雪谷高校",
+         "url" : "http://www.yukigaya-h.metro.tokyo.jp/"
       },
       "東京都立青井高等学校" : {
+         "location" : "東京都足立区青井1-7-35",
          "location_area" : "足立区",
+         "location_wikipedia_latlon" : "|35|46|25.6|N|139|48|43.1|E|",
+         "location_zipcode" : "120-0012",
          "owner_type" : "都立",
-         "short_name" : "青井高校"
+         "senior_high_school_code" : "13278A",
+         "short_name" : "青井高校",
+         "url" : "http://www.aoi-h.metro.tokyo.jp/"
       },
       "東京都立青山高等学校" : {
+         "location" : "東京都渋谷区神宮前2-1-8",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|40|22.2|N|139|42|55.8|E|",
+         "location_zipcode" : "150-0001",
          "owner_type" : "都立",
-         "short_name" : "青山高校"
+         "senior_high_school_code" : "13101G",
+         "short_name" : "青山高校",
+         "url" : "http://www.aoyama-h.metro.tokyo.jp/"
       },
       "東京都立青梅総合高等学校" : {
+         "location" : "東京都青梅市勝沼1-60-1",
          "location_area" : "青梅市",
+         "location_zipcode" : "198-0041",
          "owner_type" : "都立",
-         "short_name" : "青梅総合高校"
+         "senior_high_school_code" : "13327C",
+         "short_name" : "青梅総合高校",
+         "url" : "http://www.ome-sogo-h.metro.tokyo.jp/"
       },
       "東京都立飛鳥高等学校" : {
+         "location" : "東京都北区王子6-8-8",
          "location_area" : "北区",
+         "location_zipcode" : "〒114-8561",
          "owner_type" : "都立",
-         "short_name" : "飛鳥高校"
+         "senior_high_school_code" : "13311G",
+         "short_name" : "飛鳥高校",
+         "url" : "http://www.asuka-h.metro.tokyo.jp/"
       },
       "東京都立駒場高等学校" : {
+         "location" : "東京都目黒区大橋2-18-1",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|39|18.1|N|139|41|7.6|E|",
+         "location_zipcode" : "153-0044",
          "owner_type" : "都立",
-         "short_name" : "駒場高校"
+         "senior_high_school_code" : "13168H",
+         "short_name" : "駒場高校",
+         "url" : "http://www.komaba-h.metro.tokyo.jp/"
       },
       "東京都立高島高等学校" : {
+         "location" : "東京都板橋区高島平3-7-1",
          "location_area" : "板橋区",
+         "location_wikipedia_latlon" : "|35|47|11|N|139|39|10.8|E|",
+         "location_zipcode" : "175-0082",
          "owner_type" : "都立",
-         "short_name" : "高島高校"
+         "senior_high_school_code" : "13193J",
+         "short_name" : "高島高校",
+         "url" : "http://www.takashima-h.metro.tokyo.jp/"
       },
       "東京都立鷺宮高等学校" : {
+         "location" : "東京都中野区若宮3-46-8",
          "location_area" : "中野区",
+         "location_zipcode" : "165-0033",
          "owner_type" : "都立",
-         "short_name" : "鷺宮高校"
+         "senior_high_school_code" : "13169F",
+         "short_name" : "鷺宮高校",
+         "url" : "http://www.saginomiya-h.metro.tokyo.jp/"
       },
       "東京電機大学高等学校" : {
+         "location" : "東京都小金井市梶野町四丁目8番1号",
          "location_area" : "小金井市",
+         "location_wikipedia_latlon" : "|35|42|23.2|N|139|31|34|E|",
+         "location_zipcode" : "184-8555",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13576D",
          "short_name" : "東京電機大学高校",
+         "url" : "http://www.dendai.ed.jp/",
          "wikipedia_name" : "東京電機大学中学校・高等学校"
       },
       "東京音楽大学付属高等学校" : {
+         "location" : "東京都文京区関口3-12-1",
          "location_area" : "文京区",
+         "location_zipcode" : "112-0014",
          "owner_type" : "私立",
-         "short_name" : "東京音楽大学付属高校"
+         "senior_high_school_code" : "13692B",
+         "short_name" : "東京音楽大学付属高校",
+         "url" : "http://www.tcm-koko.ed.jp/index.html"
       },
       "東京高等学校" : {
+         "location" : "東京都大田区鵜の木2-39-1",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|34|26.3|N|139|40|34.8|E|",
+         "location_zipcode" : "146-0091",
          "owner_type" : "私立",
-         "short_name" : "東京高校"
+         "senior_high_school_code" : "13629J",
+         "short_name" : "東京高校",
+         "url" : "http://www.tokyo-hs.ac.jp/"
       },
       "東星学園高等学校" : {
+         "location" : "東京都清瀬市梅園3-14-47",
          "location_area" : "清瀬市",
+         "location_zipcode" : "204-0024",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13707D",
          "short_name" : "東星学園高校",
+         "url" : "http://www.tosei.ed.jp/",
          "wikipedia_name" : "東星学園中学校・高等学校"
       },
       "東洋女子高等学校" : {
+         "location" : "東京都文京区千石三丁目29番8号",
          "location_area" : "文京区",
+         "location_zipcode" : "112-0011",
          "owner_type" : "私立",
-         "short_name" : "東洋女子高校"
+         "senior_high_school_code" : "13578A",
+         "short_name" : "東洋女子高校",
+         "url" : "http://www.toyojoshi.ac.jp/"
       },
       "東洋英和女学院高等部" : {
          "location_area" : "港区",
@@ -1891,158 +3367,276 @@
          "wikipedia_name" : "東洋英和女学院中学部・高等部"
       },
       "東洋高等学校" : {
+         "location" : "東京都千代田区三崎町1-4-16",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-0061",
          "owner_type" : "私立",
-         "short_name" : "東洋高校"
+         "senior_high_school_code" : "13514D",
+         "short_name" : "東洋高校",
+         "url" : "http://www.toyo.ed.jp/"
       },
       "東海大学付属望星高等学校" : {
+         "location" : "東京都渋谷区富ヶ谷2-10-1",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|39|55.3|N|139|41|10.9|E|",
+         "location_zipcode" : "151-0063",
          "owner_type" : "私立",
-         "short_name" : "東海大学付属望星高校"
+         "senior_high_school_code" : "13555A",
+         "short_name" : "東海大学付属望星高校",
+         "url" : "http://www.bosei.tokai.ed.jp/"
       },
       "東海大学付属高輪台高等学校" : {
+         "location" : "東京都港区高輪2-2-16",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|38|18|N|139|44|6|E|",
+         "location_zipcode" : "108-8587",
          "owner_type" : "私立",
          "short_name" : "東海大学付属高輪台高校",
+         "url" : "http://www.takanawadai.tokai.ed.jp/",
          "wikipedia_name" : "東海大学付属高輪台高等学校・中等部"
       },
       "東海大学菅生高等学校" : {
+         "location" : "東京都あきる野市菅生1817",
          "location_area" : "あきる野市",
+         "location_zipcode" : "197-0801",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13744J",
          "short_name" : "東海大学菅生高校",
+         "url" : "http://www.tokaisugao.ac.jp/SugaoHome.html",
          "wikipedia_name" : "東海大学菅生高等学校・中等部"
       },
       "東邦音楽大学附属東邦高等学校" : {
+         "location" : "東京都文京区大塚4-46-9",
          "location_area" : "文京区",
+         "location_zipcode" : "112-0012",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13577B",
          "short_name" : "東邦音楽大学附属東邦高校",
+         "url" : "http://www.toho-music.ac.jp/highschool/index_j.html",
          "wikipedia_name" : "東邦音楽大学附属東邦中学校・高等学校"
       },
       "松蔭高等学校" : {
+         "location" : "東京都世田谷区北沢1-16-10",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|39|47.4|N|139|40|30.1|E|",
+         "location_zipcode" : "155-8611",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13644B",
          "short_name" : "松蔭高校",
+         "url" : "http://www.shoin.ed.jp/top.html",
          "wikipedia_name" : "松蔭中学校・高等学校 (東京都)"
       },
       "桐朋女子高等学校" : {
+         "location" : "東京都調布市若葉町1-41-1",
          "location_area" : "調布市",
+         "location_wikipedia_latlon" : "|35|39|34.4|N|139|35|3.2|E|",
+         "location_zipcode" : "182-8510",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13559D",
          "short_name" : "桐朋女子高校",
+         "url" : "http://www.toho.ac.jp/chuko/new_chuko/",
          "wikipedia_name" : "桐朋女子中学校・高等学校"
       },
       "桐朋高等学校" : {
+         "location" : "東京都国立市中3丁目1-10",
          "location_area" : "国立市",
+         "location_wikipedia_latlon" : "|35|41|24.8|N|139|26|41.8|E",
+         "location_zipcode" : "186-0004",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13728G",
          "short_name" : "桐朋高校",
+         "url" : "http://www.toho.ed.jp/",
          "wikipedia_name" : "桐朋中学校・高等学校"
       },
       "桜丘高等学校" : {
+         "location" : "東京都北区滝野川一丁目51番12号",
          "location_area" : "北区",
+         "location_zipcode" : "114-8554",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13586A",
          "short_name" : "桜丘高校",
+         "url" : "http://www.sakuragaoka.jp/index.html",
          "wikipedia_name" : "桜丘中学・高等学校 (東京都)"
       },
       "桜美林高等学校" : {
+         "location" : "東京都町田市常磐町3758",
          "location_area" : "町田市",
+         "location_wikipedia_latlon" : "|35|34|56.7|N|139|24|20.1|E|",
+         "location_zipcode" : "194-0294",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13719H",
          "short_name" : "桜美林高校",
+         "url" : "http://www.obirin.ed.jp/hiscl/",
          "wikipedia_name" : "桜美林中学校・高等学校"
       },
       "桜華女学院高等学校" : {
+         "location" : "東京都東村山市富士見町二丁目5番1号",
          "location_area" : "東村山市",
+         "location_zipcode" : "189-0024",
          "owner_type" : "私立",
-         "short_name" : "桜華女学院高校"
+         "senior_high_school_code" : "13724D",
+         "short_name" : "桜華女学院高校",
+         "url" : "http://www.ohka.ed.jp/"
       },
       "桜蔭高等学校" : {
+         "location" : "東京都文京区本郷1-5-25",
          "location_area" : "文京区",
+         "location_zipcode" : "113-0033",
          "owner_type" : "私立",
+         "senior_high_school_code" : "34501G",
          "short_name" : "桜蔭高校",
+         "url" : "http://www.oin.ed.jp/",
          "wikipedia_name" : "桜蔭中学校・高等学校"
       },
       "正則学園高等学校" : {
+         "location" : "東京都千代田区神田錦町3-1",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-8456",
          "owner_type" : "私立",
-         "short_name" : "正則学園高校"
+         "senior_high_school_code" : "13510A",
+         "short_name" : "正則学園高校",
+         "url" : "http://www.seisokugakuen.ac.jp/"
       },
       "正則高等学校" : {
+         "location" : "東京都港区芝公園3-1-36",
          "location_area" : "港区",
+         "location_zipcode" : "105-0011",
          "owner_type" : "私立",
-         "short_name" : "正則高校"
+         "senior_high_school_code" : "13529B",
+         "short_name" : "正則高校",
+         "url" : "http://www.seisoku.ed.jp/index.html"
       },
       "武蔵野女子学院高等学校" : {
+         "location" : "東京都西東京市新町一丁目1-20",
          "location_area" : "西東京市",
+         "location_wikipedia_latlon" : "|35|43|6.2|N|139|32|49.7|E|",
+         "location_zipcode" : "202-8585",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13739B",
          "short_name" : "武蔵野女子学院高校",
+         "url" : "http://www.mj-net.ed.jp/",
          "wikipedia_name" : "武蔵野女子学院中学校・高等学校"
       },
       "武蔵野高等学校" : {
+         "location" : "東京都北区西ヶ原4-56-20",
          "location_area" : "北区",
+         "location_zipcode" : "114-0024",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13595A",
          "short_name" : "武蔵野高校",
+         "url" : "http://www.musashino.ac.jp/cn31/index.html",
          "wikipedia_name" : "武蔵野中学校・高等学校"
       },
       "武蔵高等学校" : {
+         "location" : "東京都練馬区豊玉上一丁目26番1号",
          "location_area" : "練馬区",
+         "location_wikipedia_latlon" : "|35|44|9.5|N|139|40|3.2|E|",
+         "location_zipcode" : "176-8535",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13705H",
          "short_name" : "武蔵高校",
+         "url" : "http://www.musashi.ed.jp/",
          "wikipedia_name" : "武蔵中学校・高等学校"
       },
       "江戸川女子高等学校" : {
+         "location" : "東京都江戸川区東小岩五丁目22番1",
          "location_area" : "江戸川区",
+         "location_zipcode" : "133-8552",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13607H",
          "short_name" : "江戸川女子高校",
+         "url" : "http://www.edojo.jp/",
          "wikipedia_name" : "江戸川女子中学校・高等学校"
       },
       "法政大学高等学校" : {
+         "location" : "東京都三鷹市牟礼4-3-1",
          "location_area" : "三鷹市",
+         "location_wikipedia_latlon" : "|35|41|29.6|N|139|34|41.9|E|",
+         "location_zipcode" : "181-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13735K",
          "short_name" : "法政大学高校",
+         "url" : "http://www.hosei.ed.jp/",
          "wikipedia_name" : "法政大学中学高等学校"
       },
       "海城高等学校" : {
+         "location" : "東京都新宿区大久保三丁目6番1号",
          "location_area" : "新宿区",
+         "location_zipcode" : "169-0072",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13540C",
          "short_name" : "海城高校",
+         "url" : "http://www.kaijo.ed.jp/",
          "wikipedia_name" : "海城中学校・高等学校"
       },
       "淑徳SC高等部" : {
+         "location" : "東京都文京区小石川3-14-3",
          "location_area" : "文京区",
+         "location_zipcode" : "112-0002",
          "owner_type" : "私立",
+         "url" : "http://www.ssc.ed.jp/",
          "wikipedia_name" : "淑徳SC中等部・高等部"
       },
       "淑徳巣鴨高等学校" : {
+         "location" : "東京都豊島区西巣鴨2-22-16",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|27.6|N|139|43|34.3|E|",
+         "location_zipcode" : "170-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13691D",
          "short_name" : "淑徳巣鴨高校",
+         "url" : "http://www.shukusu.ed.jp/",
          "wikipedia_name" : "淑徳巣鴨中学校・高等学校"
       },
       "淑徳高等学校" : {
+         "location" : "東京都板橋区前野町5-14-1",
          "location_area" : "板橋区",
+         "location_zipcode" : "174-8643",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13697C",
          "short_name" : "淑徳高校",
+         "url" : "http://www.shukutoku.ed.jp/",
          "wikipedia_name" : "淑徳中学校・高等学校"
       },
       "渋谷教育学園渋谷高等学校" : {
+         "location" : "東京都渋谷区渋谷1-21-18",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|39|50.1|N|139|42|10.9|E|",
+         "location_zipcode" : "150-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13552G",
          "short_name" : "渋谷教育学園渋谷高校",
+         "url" : "http://www.shibuya-shibuya-jh.ed.jp/",
          "wikipedia_name" : "渋谷教育学園渋谷中学校・高等学校"
       },
       "潤徳女子高等学校" : {
+         "location" : "東京都足立区千住二丁目11番",
          "location_area" : "足立区",
+         "location_zipcode" : "120-0034",
          "owner_type" : "私立",
-         "short_name" : "潤徳女子高校"
+         "senior_high_school_code" : "13602G",
+         "short_name" : "潤徳女子高校",
+         "url" : "http://www.juntoku.ac.jp/"
       },
       "瀧野川女子学園高等学校" : {
+         "location" : "東京都北区上中里1-27-7",
          "location_area" : "北区",
+         "location_zipcode" : "114-0016",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13593D",
          "short_name" : "瀧野川女子学園高校",
+         "url" : "http://takinogawa-joshigakuen.jp/index.html",
          "wikipedia_name" : "瀧野川女子学園中学校・高等学校"
       },
       "獨協高等学校" : {
+         "location" : "東京都文京区関口三丁目8-1",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|42|49.2|N|139|43|38.3|E|",
+         "location_zipcode" : "112-0014",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13579J",
          "short_name" : "獨協高校",
+         "url" : "http://www.dokkyo.ed.jp/",
          "wikipedia_name" : "獨協中学校・高等学校"
       },
       "玉川学園高等部" : {
@@ -2051,127 +3645,225 @@
          "wikipedia_name" : "学校法人玉川学園"
       },
       "玉川聖学院高等部" : {
+         "location" : "東京都世田谷区奥沢7-11-22",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|36|22.9|N|139|39|53.1|E|",
+         "location_zipcode" : "158-0083",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13651E",
+         "url" : "http://www.tamasei.ed.jp/",
          "wikipedia_name" : "玉川聖学院中等部・高等部"
       },
       "田園調布学園高等部" : {
+         "location" : "東京都世田谷区東玉川2-21-8",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|35|43.5|N|139|40|26.1|E|",
+         "location_zipcode" : "158-8512",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13632J",
+         "url" : "http://www.chofu.ed.jp/",
          "wikipedia_name" : "田園調布学園中等部・高等部"
       },
       "田園調布雙葉高等学校" : {
+         "location" : "東京都世田谷区玉川田園調布1-20-9",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|35|56.4|N|139|39|25.1|E|",
+         "location_zipcode" : "158-8511",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13652C",
          "short_name" : "田園調布雙葉高校",
+         "url" : "http://www.denenchofufutaba.ed.jp/",
          "wikipedia_name" : "田園調布雙葉中学校・高等学校"
       },
       "白梅学園高等学校" : {
+         "location" : "東京都小平市小川町1-830",
          "location_area" : "小平市",
+         "location_wikipedia_latlon" : "|35|43|28.1|N|139|27|4.4|E|",
+         "location_zipcode" : "187-8570",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13721K",
          "short_name" : "白梅学園高校",
+         "url" : "http://highwww.shiraume.ac.jp/",
          "wikipedia_name" : "白梅学園高等学校・清修中学校"
       },
       "白百合学園高等学校" : {
+         "location" : "東京都千代田区九段北二丁目4番1号",
          "location_area" : "千代田区",
+         "location_wikipedia_latlon" : "|35|41|44.5|N|139|44|39.2|E|",
+         "location_zipcode" : "102-8185",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13509H",
          "short_name" : "白百合学園高校",
+         "url" : "http://www.shirayuri.ed.jp/",
          "wikipedia_name" : "白百合学園中学校・高等学校"
       },
       "目白研心高等学校" : {
+         "location" : "東京都新宿区中落合4-31-1",
          "location_area" : "新宿区",
+         "location_wikipedia_latlon" : "|35|43|4.2|N|139|40|53.2|E|",
+         "location_zipcode" : "161-8539",
          "owner_type" : "私立",
          "short_name" : "目白研心高校",
+         "url" : "http://www.mejiro.ac.jp/mk/",
          "wikipedia_name" : "目白研心中学校・高等学校"
       },
       "目黒学院高等学校" : {
+         "location" : "東京都目黒区中目黒1-1-50",
          "location_area" : "目黒区",
+         "location_zipcode" : "153-8631",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13624H",
          "short_name" : "目黒学院高校",
+         "url" : "http://www.meguro.ac.jp/",
          "wikipedia_name" : "目黒学院中学校・高等学校"
       },
       "目黒星美学園高等学校" : {
+         "location" : "東京都世田谷区大蔵2-8-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0074",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13659A",
          "short_name" : "目黒星美学園高校",
+         "url" : "http://www.meguroseibi.ed.jp/",
          "wikipedia_name" : "目黒星美学園中学校・高等学校"
       },
       "神田女学園高等学校" : {
+         "location" : "東京都千代田区猿楽町2-3-6",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-0064",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13503J",
          "short_name" : "神田女学園高校",
+         "url" : "http://www.kandajogakuen.ed.jp/",
          "wikipedia_name" : "神田女学園中学校・高等学校"
       },
       "科学技術学園高等学校" : {
+         "location" : "東京都世田谷区成城1丁目11番地1号",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-8562",
          "owner_type" : "私立",
-         "short_name" : "科学技術学園高校"
+         "senior_high_school_code" : "13635C",
+         "short_name" : "科学技術学園高校",
+         "url" : "http://www.kagiko.ed.jp/kag/"
       },
       "穎明館高等学校" : {
+         "location" : "東京都八王子市館町2600",
          "location_area" : "八王子市",
+         "location_zipcode" : "193-0944",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13746E",
          "short_name" : "穎明館高校",
+         "url" : "http://www.emk.ac.jp/",
          "wikipedia_name" : "穎明館中学・高等学校"
       },
       "立川女子高等学校" : {
+         "location" : "東京都立川市高松町3-12-1",
          "location_area" : "立川市",
+         "location_wikipedia_latlon" : "|35|42|16.3|N|139|24|58.0|E|",
+         "location_zipcode" : "190-0011",
          "owner_type" : "私立",
-         "short_name" : "立川女子高校"
+         "senior_high_school_code" : "13716C",
+         "short_name" : "立川女子高校",
+         "url" : "http://www.m-net.ne.jp/~ta-josi/"
       },
       "立志舎高等学校" : {
+         "location" : "東京都墨田区太平2-9-6",
          "location_area" : "墨田区",
+         "location_zipcode" : "130-0012",
          "owner_type" : "私立",
-         "short_name" : "立志舎高校"
+         "senior_high_school_code" : "13749K",
+         "short_name" : "立志舎高校",
+         "url" : "http://www.risshisha.jp/"
       },
       "立教女学院高等学校" : {
+         "location" : "東京都杉並区久我山4-29-60",
          "location_area" : "杉並区",
+         "location_wikipedia_latlon" : "|35|41|38.0|N|139|35|22.0|E|",
+         "location_zipcode" : "168-8616",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13683C",
          "short_name" : "立教女学院高校",
+         "url" : "http://www.rikkyo.ne.jp/grp/jogakuin-chuukou/index.html",
          "wikipedia_name" : "立教女学院中学校・高等学校"
       },
       "立教池袋高等学校" : {
+         "location" : "東京都豊島区西池袋5-16-5",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|43|51.9|N|139|42|7.8|E|",
+         "location_zipcode" : "171-0021",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13750C",
          "short_name" : "立教池袋高校",
+         "url" : "http://ikebukuro.rikkyo.ac.jp/",
          "wikipedia_name" : "立教池袋中学校・高等学校"
       },
       "立正大学付属立正高等学校" : {
+         "location" : "東京都品川区大崎4-2-16",
          "location_area" : "品川区",
+         "location_zipcode" : "141-8577",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13617E",
          "short_name" : "立正大学付属立正高校",
+         "url" : "http://www.rissho-hs.ac.jp/index.html",
          "wikipedia_name" : "立正大学付属立正中学校・高等学校"
       },
       "筑波大学附属駒場高等学校" : {
+         "location" : "東京都世田谷区池尻4丁目7番1号",
+         "location_wikipedia_latlon" : "|35|39|18|N|139|40|50|E|",
+         "location_zipcode" : "154-0001",
          "owner_type" : "国立",
+         "senior_high_school_code" : "13005C",
          "short_name" : "筑波大学附属駒場高校",
+         "url" : "http://www.komaba-s.tsukuba.ac.jp/",
          "wikipedia_name" : "筑波大学附属駒場中学校・高等学校"
       },
       "筑波大学附属高等学校" : {
+         "location" : "東京都文京区大塚一丁目9番1号",
+         "location_wikipedia_latlon" : "|35|42|58|N|139|43|51|E|",
+         "location_zipcode" : "112-0012",
          "owner_type" : "国立",
+         "senior_high_school_code" : "13003G",
          "short_name" : "筑波大学附属高校",
+         "url" : "http://www.high-s.tsukuba.ac.jp/",
          "wikipedia_name" : "筑波大学附属中学校・高等学校"
       },
       "聖ドミニコ学園高等学校" : {
+         "location" : "東京都世田谷区岡本1-10-1",
          "location_area" : "世田谷区",
+         "location_zipcode" : "157-0076",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13648E",
          "short_name" : "聖ドミニコ学園高校",
+         "url" : "http://www.dominic.ed.jp/highschool/index.htm",
          "wikipedia_name" : "聖ドミニコ学園中学校・高等学校"
       },
       "聖パウロ学園高等学校" : {
+         "location" : "東京都八王子市下恩方町2727",
          "location_area" : "八王子市",
+         "location_zipcode" : "192-0154",
          "owner_type" : "私立",
-         "short_name" : "聖パウロ学園高校"
+         "senior_high_school_code" : "13710D",
+         "short_name" : "聖パウロ学園高校",
+         "url" : "http://st-paul.ed.jp/"
       },
       "聖学院高等学校" : {
+         "location" : "東京都北区中里三丁目12番1号",
          "location_area" : "北区",
+         "location_zipcode" : "114-8502",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13590K",
          "short_name" : "聖学院高校",
+         "url" : "http://www.seig-boys.org/",
          "wikipedia_name" : "聖学院中学校・高等学校"
       },
       "聖徳学園高等学校" : {
+         "location" : "東京都武蔵野市境南町2-11-8",
          "location_area" : "武蔵野市",
+         "location_zipcode" : "180-8601",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13731G",
          "short_name" : "聖徳学園高校",
+         "url" : "http://www.shotoku.ed.jp/",
          "wikipedia_name" : "聖徳学園中学校・高等学校"
       },
       "聖心女子学院高等科" : {
@@ -2180,9 +3872,14 @@
          "wikipedia_name" : "聖心女子学院中等科・高等科"
       },
       "自由ヶ丘学園高等学校" : {
+         "location" : "東京都目黒区自由が丘二丁目21番1号",
          "location_area" : "目黒区",
+         "location_wikipedia_latlon" : "|35|36|44.4|N|139|39|58.9|E|",
+         "location_zipcode" : "152-0035",
          "owner_type" : "私立",
-         "short_name" : "自由ヶ丘学園高校"
+         "senior_high_school_code" : "13619A",
+         "short_name" : "自由ヶ丘学園高校",
+         "url" : "http://www.jiyugaoka.ed.jp/"
       },
       "自由学園高等科" : {
          "location_area" : "東久留米市",
@@ -2191,126 +3888,221 @@
       },
       "芝浦工業大学高等学校" : {
          "location_area" : "板橋区",
+         "location_zipcode" : "174-8524",
          "owner_type" : "私立",
          "short_name" : "芝浦工業大学高校",
+         "url" : "http://www.shibaura-it.ac.jp/itabashi/",
          "wikipedia_name" : "芝浦工業大学中学高等学校"
       },
       "芝高等学校" : {
+         "location" : "東京都港区芝公園三丁目5番37号",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|37.0|N|139|44|47.0|E|",
+         "location_zipcode" : "105-0011",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13524A",
          "short_name" : "芝高校",
+         "url" : "http://www.shiba.ac.jp/",
          "wikipedia_name" : "芝中学校・高等学校"
       },
       "蒲田女子高等学校" : {
+         "location" : "東京都大田区本羽田一丁目4番1号",
          "location_area" : "大田区",
+         "location_wikipedia_latlon" : "|35|32|58.5|N|139|43|39.4|E|",
+         "location_zipcode" : "144-8544",
          "owner_type" : "私立",
-         "short_name" : "蒲田女子高校"
+         "senior_high_school_code" : "13628A",
+         "short_name" : "蒲田女子高校",
+         "url" : "http://www.kamata-joshi.ota.tokyo.jp/"
       },
       "藤村女子高等学校" : {
+         "location" : "東京都武蔵野市吉祥寺本町二丁目16番3号",
          "location_area" : "武蔵野市",
+         "location_wikipedia_latlon" : "|35|42|20.6|N|139|34|34.9|E|",
+         "location_zipcode" : "180-8505",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13734A",
          "short_name" : "藤村女子高校",
+         "url" : "http://www.fujimura.ac.jp/",
          "wikipedia_name" : "藤村女子中学校・高等学校"
       },
       "豊南高等学校" : {
+         "location" : "東京都豊島区高松3-6-7",
          "location_area" : "豊島区",
+         "location_zipcode" : "171-0042",
          "owner_type" : "私立",
-         "short_name" : "豊南高校"
+         "senior_high_school_code" : "13695G",
+         "short_name" : "豊南高校",
+         "url" : "http://www.hs.honan.ac.jp/"
       },
       "豊島学院高等学校" : {
+         "location" : "東京都豊島区池袋本町2-10-1",
          "location_area" : "豊島区",
+         "location_wikipedia_latlon" : "|35|44|26.4|N|139|42|36.6|E|",
+         "location_zipcode" : "170-0011",
          "owner_type" : "私立",
-         "short_name" : "豊島学院高校"
+         "short_name" : "豊島学院高校",
+         "url" : "http://www.hosho.ac.jp/toshima.htm"
       },
       "豊島岡女子学園高等学校" : {
+         "location" : "東京都豊島区東池袋1-25-22",
          "location_area" : "豊島区",
+         "location_zipcode" : "170-0013",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13693A",
          "short_name" : "豊島岡女子学園高校",
+         "url" : "http://www.toshimagaoka.ed.jp/",
          "wikipedia_name" : "豊島岡女子学園中学校・高等学校"
       },
       "貞静学園高等学校" : {
+         "location" : "東京都文京区大塚1-2-10",
          "location_area" : "文京区",
+         "location_zipcode" : "112-8625",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13575F",
          "short_name" : "貞静学園高校",
+         "url" : "http://www.teiseigakuen.ac.jp/",
          "wikipedia_name" : "貞静学園中学高等学校"
       },
       "足立学園高等学校" : {
+         "location" : "東京都足立区千住旭町40番24号",
          "location_area" : "足立区",
+         "location_zipcode" : "120-0026",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13601J",
          "short_name" : "足立学園高校",
+         "url" : "http://www.adachigakuen-jh.ed.jp/",
          "wikipedia_name" : "足立学園中学校・高等学校"
       },
       "跡見学園高等学校" : {
+         "location" : "東京都文京区大塚1-5-9",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|4.8|N|139|44|4.2|E|",
+         "location_zipcode" : "112-8629",
          "owner_type" : "私立",
          "short_name" : "跡見学園高校",
+         "url" : "http://jh.atomi.ac.jp/",
          "wikipedia_name" : "跡見学園中学校・高等学校"
       },
       "郁文館グローバル高等学校" : {
+         "location" : "東京都文京区向丘2-19-1",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|17.4|N|139|45|26.7|E|",
+         "location_zipcode" : "113-0023",
          "owner_type" : "私立",
-         "short_name" : "郁文館グローバル高校"
+         "short_name" : "郁文館グローバル高校",
+         "url" : "http://www.ikubunkan.ed.jp/"
       },
       "郁文館高等学校" : {
+         "location" : "東京都文京区向丘2-19-1",
          "location_area" : "文京区",
+         "location_wikipedia_latlon" : "|35|43|17.1|N|139|45|28.3|E|",
+         "location_zipcode" : "113-0023",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13563B",
          "short_name" : "郁文館高校",
+         "url" : "http://www.ikubunkan.ed.jp/",
          "wikipedia_name" : "郁文館中学校・高等学校"
       },
       "錦城学園高等学校" : {
+         "location" : "東京都千代田区神田錦町3-1",
          "location_area" : "千代田区",
+         "location_zipcode" : "101-0054",
          "owner_type" : "私立",
-         "short_name" : "錦城学園高校"
+         "senior_high_school_code" : "13506C",
+         "short_name" : "錦城学園高校",
+         "url" : "http://www.kinjogakuen-h.ed.jp/"
       },
       "錦城高等学校" : {
+         "location" : "東京都小平市大沼町2-633",
          "location_area" : "小平市",
+         "location_wikipedia_latlon" : "|35|44|22.4|N|139|30|5.3|E|",
+         "location_zipcode" : "187-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13720A",
          "short_name" : "錦城高校",
+         "url" : "http://www3.ocn.ne.jp/~kinjo/",
          "wikipedia_name" : "錦城高等学校 (私立)"
       },
       "開成高等学校" : {
+         "location" : "東京都荒川区西日暮里四丁目2番4号",
          "location_area" : "荒川区",
+         "location_wikipedia_latlon" : "|35|43|56.8|N|139|45|53.9|E|region:JP",
+         "location_zipcode" : "116-0013",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13596J",
          "short_name" : "開成高校",
+         "url" : "http://www.kaiseigakuen.jp/",
          "wikipedia_name" : "開成中学校・高等学校"
       },
       "関東国際高等学校" : {
+         "location" : "東京都渋谷区本町三丁目2番2号",
          "location_area" : "渋谷区",
+         "location_wikipedia_latlon" : "|35|41|14.3|N|139|41|6.9|E|",
+         "location_zipcode" : "151-0071",
          "owner_type" : "私立",
-         "short_name" : "関東国際高校"
+         "senior_high_school_code" : "13549G",
+         "short_name" : "関東国際高校",
+         "url" : "http://www.kantokokusai.ac.jp/main.html"
       },
       "関東第一高等学校" : {
+         "location" : "東京都江戸川区松島二丁目10番11号",
          "location_area" : "江戸川区",
+         "location_zipcode" : "132-0031",
          "owner_type" : "私立",
-         "short_name" : "関東第一高校"
+         "senior_high_school_code" : "13608F",
+         "short_name" : "関東第一高校",
+         "url" : "http://www.kanto-ichiko.ac.jp/"
       },
       "雙葉高等学校" : {
+         "location" : "東京都千代田区六番町14-1",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-8470",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13516A",
          "short_name" : "雙葉高校",
+         "url" : "http://www.futabagakuen-jh.ed.jp/index-jh.htm",
          "wikipedia_name" : "雙葉中学校・高等学校"
       },
       "青山学院高等部" : {
+         "location" : "東京都渋谷区渋谷四丁目4番25号",
          "location_area" : "渋谷区",
+         "location_zipcode" : "150-8366",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13548J",
+         "url" : "http://www.jh.aoyama.ed.jp/",
          "wikipedia_name" : "青山学院中等部・高等部"
       },
       "青稜高等学校" : {
+         "location" : "東京都品川区二葉1丁目6番6号",
          "location_area" : "品川区",
+         "location_wikipedia_latlon" : "|35|36|32.0|N|139|43|40.0|E|",
+         "location_zipcode" : "142-0043",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13613B",
          "short_name" : "青稜高校",
+         "url" : "http://www.seiryo-js.ed.jp/top/index.php",
          "wikipedia_name" : "青稜中学校・高等学校"
       },
       "順天高等学校" : {
+         "location" : "東京都北区王子本町1-17-13",
          "location_area" : "北区",
+         "location_zipcode" : "114-0022",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13587K",
          "short_name" : "順天高校",
+         "url" : "http://www.junten.ed.jp/",
          "wikipedia_name" : "順天中学校・高等学校"
       },
       "頌栄女子学院高等学校" : {
+         "location" : "東京都港区白金台2-26-5",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|37|55.8|N|139|43|46.5|E|",
+         "location_zipcode" : "108-0071",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13527F",
          "short_name" : "頌栄女子学院高校",
+         "url" : "http://www.shoei.ed.jp/",
          "wikipedia_name" : "頌栄女子学院中学校・高等学校"
       },
       "香蘭女学校高等科" : {
@@ -2319,55 +4111,94 @@
          "wikipedia_name" : "香蘭女学校中等科・高等科"
       },
       "駒場学園高等学校" : {
+         "location" : "東京都世田谷区代沢1-23-8",
          "location_area" : "世田谷区",
+         "location_zipcode" : "155-0032",
          "owner_type" : "私立",
-         "short_name" : "駒場学園高校"
+         "senior_high_school_code" : "13642F",
+         "short_name" : "駒場学園高校",
+         "url" : "http://www.komabagakuen.ac.jp/"
       },
       "駒場東邦高等学校" : {
+         "location" : "東京都世田谷区池尻四丁目5番1号",
          "location_area" : "世田谷区",
+         "location_zipcode" : "154-0001",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13643D",
          "short_name" : "駒場東邦高校",
+         "url" : "http://www.komabajh.toho-u.ac.jp/",
          "wikipedia_name" : "駒場東邦中学校・高等学校"
       },
       "駒沢学園女子高等学校" : {
+         "location" : "東京都稲城市坂浜238",
          "location_area" : "稲城市",
+         "location_wikipedia_latlon" : "|35|37|38.7|N|139|29|41.3|E|region:JP",
+         "location_zipcode" : "206-8511",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13640K",
          "short_name" : "駒沢学園女子高校",
+         "url" : "http://www.komajo.ac.jp/jsh/index.html",
          "wikipedia_name" : "駒沢学園女子中学校・高等学校"
       },
       "駒澤大学高等学校" : {
+         "location" : "東京都世田谷区上用賀一丁目17番12号",
          "location_area" : "世田谷区",
+         "location_wikipedia_latlon" : "|35|38|4.5|N|139|38|9.5|E|",
+         "location_zipcode" : "158-8577",
          "owner_type" : "私立",
-         "short_name" : "駒澤大学高校"
+         "senior_high_school_code" : "13641H",
+         "short_name" : "駒澤大学高校",
+         "url" : "http://www.komazawa.net/"
       },
       "駒込高等学校" : {
+         "location" : "東京都文京区千駄木5-6-25",
          "location_area" : "文京区",
+         "location_zipcode" : "113-0022",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13572A",
          "short_name" : "駒込高校",
+         "url" : "http://www.komagome.ed.jp/",
          "wikipedia_name" : "駒込中学校・高等学校"
       },
       "駿台学園高等学校" : {
+         "location" : "東京都北区王子6-1-10",
          "location_area" : "北区",
+         "location_zipcode" : "114-0002",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13589F",
          "short_name" : "駿台学園高校",
+         "url" : "http://www.sundaigakuen.ac.jp/",
          "wikipedia_name" : "駿台学園中学校・高等学校"
       },
       "高輪高等学校" : {
+         "location" : "東京都港区高輪二丁目1番32号",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|38|19|N|139|44|9.4|E|",
+         "location_zipcode" : "108-0074",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13530F",
          "short_name" : "高輪高校",
+         "url" : "http://www.takanawa.ed.jp/",
          "wikipedia_name" : "高輪中学校・高等学校"
       },
       "鴎友学園高等学校" : {
+         "location" : "東京都世田谷区宮坂1-5-30",
          "location_area" : "世田谷区",
+         "location_zipcode" : "156-8551",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13634E",
          "short_name" : "鴎友学園高校",
+         "url" : "http://www.ohyu.jp/",
          "wikipedia_name" : "鴎友学園女子中学校・高等学校"
       },
       "鶴川高等学校" : {
+         "location" : "東京都町田市三輪町122",
          "location_area" : "町田市",
+         "location_zipcode" : "195-0054",
          "owner_type" : "私立",
-         "short_name" : "鶴川高校"
+         "senior_high_school_code" : "13663J",
+         "short_name" : "鶴川高校",
+         "url" : "http://www.tsurukawa.ed.jp/"
       },
       "鹿島学園高等学校通信制課程東京校" : {
          "location_area" : "豊島区",
@@ -2375,15 +4206,24 @@
          "short_name" : "鹿島学園高校通信制課程東京校"
       },
       "麹町学園女子高等学校" : {
+         "location" : "東京都千代田区麹町3-8",
          "location_area" : "千代田区",
+         "location_zipcode" : "102-0083",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13507A",
          "short_name" : "麹町学園女子高校",
+         "url" : "http://www.kojimachi.ed.jp/index.html",
          "wikipedia_name" : "麹町学園女子中学校・高等学校"
       },
       "麻布高等学校" : {
+         "location" : "東京都港区元麻布2-3-29",
          "location_area" : "港区",
+         "location_wikipedia_latlon" : "|35|39|15.9|N|139|43|40.6|E|region:JP",
+         "location_zipcode" : "106-0046",
          "owner_type" : "私立",
+         "senior_high_school_code" : "13522E",
          "short_name" : "麻布高校",
+         "url" : "http://www.azabu-jh.ed.jp/",
          "wikipedia_name" : "麻布中学校・高等学校"
       }
    }
