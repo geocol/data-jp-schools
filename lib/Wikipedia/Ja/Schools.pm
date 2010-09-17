@@ -355,6 +355,8 @@ sub parse_text ($) {
         if ($props->{location_zipcode}) {
           $props->{location_zipcode} =~ s[<br\s*/?>.+][]gs;
           $props->{location_zipcode} =~ s[\s*（.+?）\s*$][]g;
+          $props->{location_zipcode} =~ tr[－〒][-]d;
+          $props->{location_zipcode} =~ tr/０１２３４５６７８９/0-9/;
           if ($props->{location_zipcode} =~ /^([0-9-]+)/) {
             $props->{location_zipcode} = $1;
           }
@@ -388,6 +390,7 @@ sub parse_text ($) {
           $props->{location} =~ s[(?<=\S)\s+\S+?キャンパス:?\s+.+][]g;
           $props->{location} =~ s[^\s*\S+?キャンパス\s+][]g;
           $props->{location} =~ s[\s*（.+?）\s*$][]g;
+          $props->{location} =~ s{\s*\[中学校\]\s*$}{}g;
           $props->{location} =~ s[^本校：][]g;
           $props->{location} =~ tr/０１２３４５６７８９/0-9/;
           if ($props->{location} =~ s/^〒([0-9-]+)\s*//) {
