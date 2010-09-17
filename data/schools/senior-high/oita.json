@@ -66,12 +66,14 @@
       },
       "大分県立中津南高等学校耶馬渓校" : {
          "location_area" : "中津市",
+         "location_wikipedia_latlon" : "|33|28|3|N|131|8|5.2|E|",
          "owner_type" : "県立",
          "short_name" : "中津南高校耶馬渓校"
       },
       "大分県立中津商業高等学校" : {
          "location" : "大分県中津市大塚1",
          "location_area" : "中津市",
+         "location_wikipedia_latlon" : "|33|36|19.3|N|131|11|46.1|E|",
          "location_zipcode" : "871-0008",
          "owner_type" : "県立",
          "senior_high_school_code" : "44145H",
@@ -263,6 +265,7 @@
       "大分県立宇佐産業科学高等学校" : {
          "location" : "大分県宇佐市四日市292",
          "location_area" : "宇佐市",
+         "location_wikipedia_latlon" : "|33|32|13.5|N|131|19|26|E|",
          "location_zipcode" : "879-0471",
          "owner_type" : "県立",
          "senior_high_school_code" : "44151B",
@@ -272,6 +275,7 @@
       "大分県立宇佐高等学校" : {
          "location" : "大分県宇佐市南宇佐1543",
          "location_area" : "宇佐市",
+         "location_wikipedia_latlon" : "|33|31|51|N|131|22|41|E|",
          "location_zipcode" : "872-0102",
          "owner_type" : "県立",
          "senior_high_school_code" : "44161K",
@@ -318,6 +322,7 @@
       "大分県立日田三隈高等学校" : {
          "location" : "大分県日田市友田1546-1",
          "location_area" : "日田市",
+         "location_wikipedia_latlon" : "|33|19|50|N|130|54|53.2|E|",
          "location_zipcode" : "877-0000",
          "owner_type" : "県立",
          "senior_high_school_code" : "44143A",
@@ -485,6 +490,7 @@
          "wikipedia_name" : "明豊中学校・高等学校"
       },
       "昭和学園高等学校" : {
+         "location_wikipedia_latlon" : "|33|19|56.9|N|130|56|27.7|E|",
          "owner_type" : "私立",
          "short_name" : "昭和学園高校"
       },

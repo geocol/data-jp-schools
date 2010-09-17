@@ -88,6 +88,7 @@
       "加藤学園暁秀高等学校" : {
          "location" : "静岡県沼津市岡宮字中見代1361-1",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|8|5.1|N|138|51|52.7|E|",
          "location_zipcode" : "410-0011",
          "owner_type" : "私立",
          "senior_high_school_code" : "22507A",
@@ -98,6 +99,7 @@
       "加藤学園高等学校" : {
          "location" : "静岡県沼津市大岡自由ヶ丘1979",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|6|59.1|N|138|52|9.5|E|",
          "location_zipcode" : "410-0022",
          "owner_type" : "私立",
          "senior_high_school_code" : "22508J",
@@ -360,6 +362,7 @@
       "焼津高等学校" : {
          "location" : "静岡県焼津市中港1-1-8",
          "location_area" : "焼津市",
+         "location_wikipedia_latlon" : "|34|52|20.5|N|138|19|13.1|E|",
          "location_zipcode" : "425-0021",
          "owner_type" : "私立",
          "senior_high_school_code" : "22526G",
@@ -388,6 +391,7 @@
       "科学技術学園高等学校" : {
          "location" : "東京都世田谷区成城1丁目11番地1号",
          "location_area" : "静岡市",
+         "location_wikipedia_latlon" : "|35|37|58.7|N|139|36|9.1|E|",
          "location_zipcode" : "157-8562",
          "owner_type" : "私立",
          "senior_high_school_code" : "13635C",
@@ -518,6 +522,7 @@
       "静岡市立商業高等学校" : {
          "location" : "静岡県静岡市駿河区有東三丁目4-17",
          "location_area" : "静岡市駿河区",
+         "location_wikipedia_latlon" : "|34|57|48.1|N|138|24|37.5|E|",
          "location_zipcode" : "422-8032",
          "owner_type" : "市立",
          "short_name" : "商業高校",
@@ -603,6 +608,7 @@
       },
       "静岡県立下田高等学校南伊豆分校" : {
          "location_area" : "賀茂郡南伊豆町",
+         "location_wikipedia_latlon" : "|34|39|27.3|N|138|51|32.5|E|",
          "owner_type" : "県立",
          "short_name" : "下田高校南伊豆分校"
       },
@@ -618,6 +624,7 @@
       },
       "静岡県立伊東商業高等学校" : {
          "location_area" : "伊東市",
+         "location_wikipedia_latlon" : "|34|56|42.0|N|139|6|58.9|E|",
          "owner_type" : "県立",
          "short_name" : "伊東商業高校"
       },
@@ -672,6 +679,7 @@
       },
       "静岡県立吉原工業高等学校" : {
          "location_area" : "富士市",
+         "location_wikipedia_latlon" : "|35|10|24.2|N|138|43|10.8|E|",
          "owner_type" : "県立",
          "short_name" : "吉原工業高校"
       },
@@ -868,6 +876,7 @@
       "静岡県立御殿場高等学校" : {
          "location" : "静岡県御殿場市御殿場192-1",
          "location_area" : "御殿場市",
+         "location_wikipedia_latlon" : "|35|19|0.9|N|138|56|24.7|E|",
          "location_zipcode" : "412-0028",
          "owner_type" : "県立",
          "senior_high_school_code" : "22115F",
@@ -927,6 +936,7 @@
       "静岡県立松崎高等学校" : {
          "location" : "静岡県賀茂郡松崎町桜田188番地",
          "location_area" : "賀茂郡松崎町",
+         "location_wikipedia_latlon" : "|34|45|28.6|N|138|47|18.4|E|",
          "location_zipcode" : "410-3693",
          "owner_type" : "県立",
          "senior_high_school_code" : "22103B",
@@ -995,6 +1005,7 @@
       "静岡県立沼津工業高等学校" : {
          "location" : "静岡県沼津市下香貫八重129-1",
          "location_area" : "沼津市",
+         "location_wikipedia_latlon" : "|35|5|14.2|N|138|52|40.5|E|",
          "location_zipcode" : "410-0822",
          "owner_type" : "県立",
          "senior_high_school_code" : "22121A",
@@ -1166,6 +1177,7 @@
       },
       "静岡県立清水西高等学校" : {
          "location_area" : "静岡市清水区",
+         "location_wikipedia_latlon" : "|35|0|28.9|N|138|28|30.2|E|",
          "owner_type" : "県立",
          "short_name" : "清水西高校"
       },
@@ -1210,6 +1222,7 @@
       },
       "静岡県立田方農業高等学校" : {
          "location_area" : "田方郡函南町",
+         "location_wikipedia_latlon" : "|35|4|50.7|N|138|56|32.6|E|",
          "owner_type" : "県立",
          "short_name" : "田方農業高校"
       },
@@ -1330,6 +1343,7 @@
       },
       "静岡県立裾野高等学校" : {
          "location_area" : "裾野市",
+         "location_wikipedia_latlon" : "|35|10|44.4|N|138|54|33.3|E|",
          "owner_type" : "県立",
          "short_name" : "裾野高校"
       },
@@ -1361,12 +1375,14 @@
       },
       "静岡県立静岡南高等学校" : {
          "location_area" : "静岡市駿河区",
+         "location_wikipedia_latlon" : "|34|57|32.9|N|138|26|11.1|E|",
          "owner_type" : "県立",
          "short_name" : "静岡南高校"
       },
       "静岡県立静岡商業高等学校" : {
          "location" : "静岡県静岡市葵区田町七丁目90番地",
          "location_area" : "静岡市葵区",
+         "location_wikipedia_latlon" : "|34|57|52.5|N|138|22|04.5|E|",
          "location_zipcode" : "420-0068",
          "owner_type" : "県立",
          "senior_high_school_code" : "22138E",
@@ -1376,6 +1392,7 @@
       "静岡県立静岡城北高等学校" : {
          "location" : "静岡県静岡市葵区北安東二丁目3-1",
          "location_area" : "静岡市葵区",
+         "location_wikipedia_latlon" : "|34|59|41.7|N|138|23|06.8|E|",
          "location_zipcode" : "420-0881",
          "owner_type" : "県立",
          "school_area" : "静岡県",
@@ -1386,6 +1403,7 @@
       "静岡県立静岡東高等学校" : {
          "location" : "静岡県静岡市葵区川合三丁目24-1",
          "location_area" : "静岡市葵区",
+         "location_wikipedia_latlon" : "|35|00|34.7|N|138|24|47.3|E|",
          "location_zipcode" : "420-0923",
          "owner_type" : "県立",
          "short_name" : "静岡東高校",

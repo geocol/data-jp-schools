@@ -9,6 +9,7 @@
          "url" : "http://www.iwami.or.jp/aishin/"
       },
       "七尾学園 益田東高等学校" : {
+         "location_wikipedia_latlon" : "|34|40|48.0|N|131|51|50.6|E|",
          "owner_type" : "私立",
          "short_name" : "七尾学園 益田東高校",
          "wikipedia_name" : "益田東高等学校"
@@ -43,11 +44,13 @@
       },
       "島根県立出雲商業高等学校" : {
          "location_area" : "出雲市",
+         "location_wikipedia_latlon" : "|35|21|30.1|N|132|46|41.1|E|",
          "owner_type" : "県立",
          "short_name" : "出雲商業高校"
       },
       "島根県立出雲工業高等学校" : {
          "location_area" : "出雲市",
+         "location_wikipedia_latlon" : "|35|20|41.5|N|132|45|36.1|E|",
          "owner_type" : "県立",
          "short_name" : "出雲工業高校"
       },
@@ -206,6 +209,7 @@
       "島根県立松江農林高等学校" : {
          "location" : "島根県松江市乃木福富町51番地",
          "location_area" : "松江市",
+         "location_wikipedia_latlon" : "|35|26|25.8|N|133|2|51.8|E|",
          "location_zipcode" : "690-8507",
          "owner_type" : "県立",
          "senior_high_school_code" : "32104E",
