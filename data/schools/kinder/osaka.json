@@ -33,8 +33,12 @@
          "owner_type" : "私立"
       },
       "あびにょん保育園" : {
+         "location" : "大阪府吹田市岸部北5丁目45番1号",
          "location_area" : "吹田市",
-         "owner_type" : "私立"
+         "location_zipcode" : "564-0001",
+         "owner_type" : "私立",
+         "sort_name" : "あひによんほいくえん",
+         "url" : "http://www.avignon.ed.jp/"
       },
       "あゆみ保育園" : {
          "location_area" : "大阪市中央区",
@@ -205,8 +209,12 @@
          "owner_type" : "私立"
       },
       "ひむろこだま保育園" : {
+         "location" : "大阪府高槻市氷室町1丁目21番12号",
          "location_area" : "高槻市",
-         "owner_type" : "私立"
+         "location_zipcode" : "567-1141",
+         "owner_type" : "私立",
+         "sort_name" : "ひむろこたまほいくえん",
+         "url" : "http://www.himuro-kodama.com/"
       },
       "ふじがお幼稚園" : {
          "location_area" : "交野市",
@@ -1570,9 +1578,14 @@
          "short_name" : "御幸保育所"
       },
       "大阪市立愛珠幼稚園" : {
+         "location" : "大阪府大阪市中央区今橋3丁目1番11号",
          "location_area" : "大阪市中央区",
+         "location_wikipedia_latlon" : "|34|41|27.2|N|135|30|10.3|E|",
+         "location_zipcode" : "541-0042",
          "owner_type" : "市立",
-         "short_name" : "愛珠幼稚園"
+         "short_name" : "愛珠幼稚園",
+         "sort_name" : "おおさかしりつあいしゆ",
+         "url" : "http://www.ocec.ne.jp/yochien/kindergarden/aisyu/"
       },
       "大阪市立新北島保育所" : {
          "location_area" : "大阪市住之江区",
@@ -2130,7 +2143,12 @@
          "wikipedia_name" : "学校法人大阪成蹊学園"
       },
       "大阪教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "大阪市平野区流町2丁目1番79号",
+         "location_wikipedia_latlon" : "|34|37|5.5|N|135|32|58.2|E|",
+         "location_zipcode" : "547-0032",
+         "owner_type" : "国立",
+         "sort_name" : "おおさかきよういくたいかくふそくようちえん",
+         "url" : "http://www.fuzoku-k.oku.ed.jp/"
       },
       "大阪東邦幼稚園" : {
          "location_area" : "大阪市淀川区",
@@ -2635,9 +2653,14 @@
          "owner_type" : "私立"
       },
       "常磐会短期大学付属常磐会幼稚園" : {
+         "location" : "大阪市平野区流町2丁目2番28号",
          "location_area" : "大阪市平野区",
+         "location_wikipedia_latlon" : "|34|37|5.9|N|135|33|6.1|E|",
+         "location_zipcode" : "547-0032",
          "owner_type" : "私立",
-         "short_name" : "常磐会短大付属常磐会幼稚園"
+         "short_name" : "常磐会短大付属常磐会幼稚園",
+         "sort_name" : "ときわかいたんきたいかくふそくときわかい",
+         "url" : "http://www5.ocn.ne.jp/~tokiwaka/"
       },
       "常磐会短期大学付属泉丘幼稚園" : {
          "location_area" : "堺市南区",
@@ -2729,7 +2752,8 @@
       },
       "愛児幼稚園" : {
          "location_area" : "大阪市住吉区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "あいしようち"
       },
       "愛真幼稚園" : {
          "location_area" : "大東市",
@@ -2752,8 +2776,11 @@
          "owner_type" : "私立"
       },
       "摂津さつき保育園" : {
+         "location" : "大阪府摂津市南別府町7番1号",
          "location_area" : "摂津市",
-         "owner_type" : "私立"
+         "location_zipcode" : "566-0045",
+         "owner_type" : "私立",
+         "url" : "http://www.settsu-satsuki.ed.jp/"
       },
       "摂津ひかり幼稚園" : {
          "location_area" : "摂津市",
@@ -2815,8 +2842,12 @@
          "owner_type" : "私立"
       },
       "日吉台保育園" : {
+         "location" : "大阪府高槻市日吉台一番町25番1号",
          "location_area" : "高槻市",
-         "owner_type" : "私立"
+         "location_zipcode" : "569-1022",
+         "owner_type" : "私立",
+         "sort_name" : "ひよしたいほいくえん",
+         "url" : "http://www.ans.co.jp/n/hiyoshidai/"
       },
       "日吉幼稚園" : {
          "location_area" : "高槻市",
@@ -2867,8 +2898,12 @@
          "owner_type" : "私立"
       },
       "春日荘聖マリア幼稚園" : {
+         "location" : "大阪府豊中市春日町三丁目8番15号",
          "location_area" : "豊中市",
-         "owner_type" : "私立"
+         "location_zipcode" : "560-0052",
+         "owner_type" : "私立",
+         "sort_name" : "かすかそうせいまりあようち",
+         "url" : "http://ks-maria.org/"
       },
       "春木カトリック幼稚園" : {
          "location_area" : "岸和田市",
@@ -3234,8 +3269,12 @@
          "short_name" : "玉手幼稚園"
       },
       "柱本保育園" : {
+         "location" : "大阪府高槻市柱本新町10番1号",
          "location_area" : "高槻市",
-         "owner_type" : "私立"
+         "location_zipcode" : "569-0846",
+         "owner_type" : "私立",
+         "sort_name" : "はしらもとほいくえん",
+         "url" : "http://www.hashiramoto-hoikuen.jp/"
       },
       "桃の木台幼稚園" : {
          "location_area" : "阪南市",
@@ -3483,8 +3522,12 @@
          "owner_type" : "私立"
       },
       "清友幼稚園" : {
+         "location" : "大阪府八尾市柏村町1-57",
          "location_area" : "八尾市",
-         "owner_type" : "私立"
+         "location_zipcode" : "581-0022",
+         "owner_type" : "私立",
+         "sort_name" : "せいゆうようち",
+         "url" : "http://www.seiyu-youchien.jp/"
       },
       "清教学園幼稚園" : {
          "location_area" : "河内長野市",
@@ -3588,8 +3631,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "守口市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白菊幼稚園" : {
          "location_area" : "大阪市生野区",

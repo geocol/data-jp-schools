@@ -314,27 +314,35 @@
          "short_name" : "東幼稚園"
       },
       "松原幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "群馬県邑楽郡大泉町西小泉三丁目6番22号",
+         "location_zipcode" : "370-0517",
+         "owner_type" : "私立",
+         "sort_name" : "まつはらようち",
+         "url" : "http://www.matubara.ed.jp/"
       },
       "桐生市立境野幼稚園" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "境野幼稚園"
+         "short_name" : "境野幼稚園",
+         "sort_name" : "きりゆうしりつさかいのようち"
       },
       "桐生市立川内南幼稚園" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "川内南幼稚園"
+         "short_name" : "川内南幼稚園",
+         "sort_name" : "きりゆうしりつかわうちみなみようち"
       },
       "桐生市立広沢幼稚園" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "広沢幼稚園"
+         "short_name" : "広沢幼稚園",
+         "sort_name" : "きりゆうしりつひろさわようち"
       },
       "桐生市立東幼稚園" : {
          "location_area" : "桐生市",
          "owner_type" : "市立",
-         "short_name" : "東幼稚園"
+         "short_name" : "東幼稚園",
+         "sort_name" : "きりゆうしりつひかしようち"
       },
       "桐生市立桜木幼稚園" : {
          "location_area" : "桐生市",
@@ -444,7 +452,8 @@
          "owner_type" : "私立"
       },
       "群馬大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "くんまたいかくきよういくかくふふそくようち"
       },
       "華頂幼稚園" : {
          "owner_type" : "私立"

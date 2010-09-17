@@ -287,9 +287,13 @@
          "owner_type" : "私立"
       },
       "尚絅大学短期大学部附属幼稚園" : {
+         "location" : "熊本県熊本市楡木六丁目5番1号",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-8538",
          "owner_type" : "私立",
-         "short_name" : "尚絅大学短大部附属幼稚園"
+         "short_name" : "尚絅大学短大部附属幼稚園",
+         "sort_name" : "しようけいたいかくたんきたいかくふふそくようち",
+         "url" : "http://www.shokei-gakuen.ac.jp/kids/"
       },
       "山鹿市立山鹿幼稚園" : {
          "location_area" : "山鹿市",
@@ -408,16 +412,25 @@
          "owner_type" : "私立"
       },
       "熊本大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "くまもとたいかくきよういくかくふふそくようち"
       },
       "熊本学園大学付属敬愛幼稚園" : {
+         "location" : "熊本県熊本市大江2-11-48",
          "location_area" : "熊本市",
-         "owner_type" : "私立"
+         "location_zipcode" : "862-0971",
+         "owner_type" : "私立",
+         "sort_name" : "くまもとかくえんたいかくふそくけいあい",
+         "url" : "http://www.kumagaku.ac.jp/associate/keiai.html"
       },
       "熊本市立一新幼稚園" : {
+         "location" : "熊本県熊本市新町1-10-38",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0004",
          "owner_type" : "市立",
-         "short_name" : "一新幼稚園"
+         "short_name" : "一新幼稚園",
+         "sort_name" : "くまもとしりついつしんようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-issin/index.html"
       },
       "熊本市立中島保育園" : {
          "location_area" : "熊本市",
@@ -445,14 +458,22 @@
          "short_name" : "健軍保育園"
       },
       "熊本市立古町幼稚園" : {
+         "location" : "熊本県熊本市二本木4-4-13",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0051",
          "owner_type" : "市立",
-         "short_name" : "古町幼稚園"
+         "short_name" : "古町幼稚園",
+         "sort_name" : "くまもとしりつふるまちようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-furumachi/index.html"
       },
       "熊本市立向山幼稚園" : {
+         "location" : "熊本県熊本市本山4-5-2",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0821",
          "owner_type" : "市立",
-         "short_name" : "向山幼稚園"
+         "short_name" : "向山幼稚園",
+         "sort_name" : "くまもとしりつこうさんようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-kozan/index.html"
       },
       "熊本市立城東保育園" : {
          "location_area" : "熊本市",
@@ -480,9 +501,13 @@
          "short_name" : "山本保育園"
       },
       "熊本市立川尻幼稚園" : {
+         "location" : "熊本県熊本市川尻4-1-70",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4115",
          "owner_type" : "市立",
-         "short_name" : "川尻幼稚園"
+         "short_name" : "川尻幼稚園",
+         "sort_name" : "くまもとしりつかわしりようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-kawashiri/index.html"
       },
       "熊本市立幸田保育園" : {
          "location_area" : "熊本市",
@@ -505,9 +530,13 @@
          "short_name" : "梶尾保育園"
       },
       "熊本市立楠幼稚園" : {
+         "location" : "熊本県熊本市楠3-6-1",
          "location_area" : "熊本市",
+         "location_zipcode" : "862-8003",
          "owner_type" : "市立",
-         "short_name" : "楠幼稚園"
+         "short_name" : "楠幼稚園",
+         "sort_name" : "くまもとしりつくすのきようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-kusunoki/index.html"
       },
       "熊本市立横手保育園" : {
          "location_area" : "熊本市",
@@ -530,9 +559,13 @@
          "short_name" : "清水保育園"
       },
       "熊本市立熊本五福幼稚園" : {
+         "location" : "熊本県熊本市魚屋町1-9",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0031",
          "owner_type" : "市立",
-         "short_name" : "熊本五福幼稚園"
+         "short_name" : "熊本五福幼稚園",
+         "sort_name" : "くまもとしりつくまもとこふくようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-gofuku/index.html"
       },
       "熊本市立田底保育園" : {
          "location_area" : "熊本市",
@@ -545,9 +578,13 @@
          "short_name" : "白山保育園"
       },
       "熊本市立碩台幼稚園" : {
+         "location" : "熊本県熊本市南千反畑町15-23",
          "location_area" : "熊本市",
+         "location_zipcode" : "860-0842",
          "owner_type" : "市立",
-         "short_name" : "碩台幼稚園"
+         "short_name" : "碩台幼稚園",
+         "sort_name" : "くまもとしりつせきたいようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchienn/k-sekidai/"
       },
       "熊本市立菱形保育園" : {
          "location_area" : "熊本市",
@@ -565,9 +602,13 @@
          "short_name" : "豊田保育園"
       },
       "熊本市立隈庄幼稚園" : {
+         "location" : "熊本県熊本市城南町宮地1009",
          "location_area" : "熊本市",
+         "location_zipcode" : "861-4202",
          "owner_type" : "市立",
-         "short_name" : "隈庄幼稚園"
+         "short_name" : "隈庄幼稚園",
+         "sort_name" : "くまもとしりつくまのしようようち",
+         "url" : "http://www.kumamoto-kmm.ed.jp/school/youchien/k-kumanosho/index.html"
       },
       "熊本市立麻生田保育園" : {
          "location_area" : "熊本市",

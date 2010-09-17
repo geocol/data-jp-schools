@@ -472,9 +472,12 @@
          "short_name" : "小津幼稚園"
       },
       "守山市立河西幼稚園" : {
+         "location" : "滋賀県守山市今市町25-1",
          "location_area" : "守山市",
+         "location_zipcode" : "524-0011",
          "owner_type" : "市立",
-         "short_name" : "河西幼稚園"
+         "short_name" : "河西幼稚園",
+         "sort_name" : "もりやましりつかわにしようちえん"
       },
       "守山市立浮気保育園" : {
          "location_area" : "守山市",
@@ -882,8 +885,11 @@
          "owner_type" : "私立"
       },
       "永興藤尾保育園" : {
+         "location" : "滋賀県大津市追分町16番21号",
          "location_area" : "大津市",
-         "owner_type" : "私立"
+         "location_zipcode" : "520-0064",
+         "owner_type" : "私立",
+         "url" : "http://www.eikoh.ed.jp/"
       },
       "清和幼稚園" : {
          "location_area" : "大津市",
@@ -905,7 +911,8 @@
          "short_name" : "菩提寺幼稚園"
       },
       "滋賀大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しかたいかくきよういくかくふふそくようち"
       },
       "滋賀短期大学附属幼稚園" : {
          "location_area" : "大津市",

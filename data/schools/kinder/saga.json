@@ -13,8 +13,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "鳥栖市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "すみれ幼稚園" : {
          "location_area" : "唐津市",
@@ -147,7 +151,11 @@
          "owner_type" : "私立"
       },
       "佐賀大学文化教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "佐賀県佐賀市水ヶ江一丁目4番45号",
+         "location_zipcode" : "840-0054",
+         "owner_type" : "国立",
+         "sort_name" : "さかたいかくふんかきよういくかくふふそくようち",
+         "url" : "http://www.youchien.pd.saga-u.ac.jp/"
       },
       "佐賀市立城東保育所" : {
          "location_area" : "佐賀市",

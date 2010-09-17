@@ -347,7 +347,8 @@
          "owner_type" : "私立"
       },
       "奈良女子大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ならしよしたかくふそく"
       },
       "奈良市立あやめ池幼稚園" : {
          "location_area" : "奈良市",
@@ -660,7 +661,8 @@
          "short_name" : "鼓阪幼稚園"
       },
       "奈良教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ならきよういくたいかくふそく"
       },
       "奈良文化女子短期大学付属幼稚園" : {
          "location_area" : "大和高田市",
@@ -1051,8 +1053,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "生駒市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "聖心幼稚園" : {
          "location_area" : "橿原市",
@@ -1096,8 +1102,11 @@
          "owner_type" : "私立"
       },
       "西大和保育園" : {
+         "location" : "奈良県北葛城郡河合町星和台1-2-1",
          "location_area" : "北葛城郡",
-         "owner_type" : "私立"
+         "location_zipcode" : "636-0081",
+         "owner_type" : "私立",
+         "url" : "http://nishiyamatohoikuen.net/"
       },
       "西大和双葉幼稚園" : {
          "location_area" : "北葛城郡",

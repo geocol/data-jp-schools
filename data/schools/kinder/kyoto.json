@@ -466,7 +466,8 @@
       "京都市立上賀茂幼稚園" : {
          "location_area" : "京都市北区",
          "owner_type" : "市立",
-         "short_name" : "上賀茂幼稚園"
+         "short_name" : "上賀茂幼稚園",
+         "sort_name" : "きようとしりつかみかもようちえん"
       },
       "京都市立中京もえぎ幼稚園" : {
          "location_area" : "京都市中京区",
@@ -588,7 +589,8 @@
          "owner_type" : "私立"
       },
       "京都教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "きようときよういくたいかくふそく"
       },
       "京都文教短期大学附属家政城陽幼稚園" : {
          "location_area" : "城陽市",
@@ -751,7 +753,8 @@
       },
       "同志社幼稚園" : {
          "location_area" : "京都市上京区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "とうししやようち"
       },
       "向島幼稚園" : {
          "location_area" : "京都市伏見区",
@@ -864,9 +867,13 @@
          "owner_type" : "私立"
       },
       "宮津市立宮津幼稚園" : {
+         "location" : "京都府宮津市字鶴賀2095番地",
          "location_area" : "宮津市",
+         "location_zipcode" : "626-0041",
          "owner_type" : "市立",
-         "short_name" : "宮津幼稚園"
+         "short_name" : "宮津幼稚園",
+         "sort_name" : "みやつしりつみやつようちえん",
+         "url" : "http://www.city.miyazu.kyoto.jp/~gakkou/gakkoukyouiku/education/miyazu-kg.htm"
       },
       "宮津市立栗田幼稚園" : {
          "location_area" : "宮津市",
@@ -1042,8 +1049,12 @@
          "owner_type" : "私立"
       },
       "松原幼稚園" : {
+         "location" : "群馬県邑楽郡大泉町西小泉三丁目6番22号",
          "location_area" : "京都市下京区",
-         "owner_type" : "私立"
+         "location_zipcode" : "370-0517",
+         "owner_type" : "私立",
+         "sort_name" : "まつはらようち",
+         "url" : "http://www.matubara.ed.jp/"
       },
       "松尾幼稚園" : {
          "location_area" : "京都市西京区",
@@ -1063,7 +1074,8 @@
       },
       "桃山幼稚園" : {
          "location_area" : "京都市伏見区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ももやまようちえん"
       },
       "森の子ら幼稚園" : {
          "location_area" : "舞鶴市",
@@ -1082,8 +1094,11 @@
          "owner_type" : "私立"
       },
       "永興保育園" : {
+         "location" : "京都府京都市東山区今熊野宝蔵町27",
          "location_area" : "京都市東山区",
-         "owner_type" : "私立"
+         "location_zipcode" : "605-0965",
+         "owner_type" : "私立",
+         "url" : "http://www.eikoh.ed.jp/"
       },
       "永興小金塚保育園" : {
          "location_area" : "京都市山科区",

@@ -87,7 +87,8 @@
       "上田女子短期大学附属幼稚園" : {
          "location_area" : "上田市",
          "owner_type" : "私立",
-         "short_name" : "上田女子短大附属幼稚園"
+         "short_name" : "上田女子短大附属幼稚園",
+         "sort_name" : "うえたしよしたんきたいかくふそくようちえん"
       },
       "上田市立ちぐさ幼稚園" : {
          "location_area" : "上田市",
@@ -502,8 +503,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "松本市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白馬幼稚園" : {
          "location_area" : "北安曇郡",

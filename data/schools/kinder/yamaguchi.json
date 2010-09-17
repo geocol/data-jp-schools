@@ -593,11 +593,16 @@
          "owner_type" : "私立"
       },
       "山口大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "山口県山口市白石三丁目1番2号",
+         "location_zipcode" : "753-0070",
+         "owner_type" : "国立",
+         "sort_name" : "やまくちたいかくきよういくかくふふそくようち",
+         "url" : "http://www.ymg-kg.yamaguchi-u.ac.jp/"
       },
       "山口天使幼稚園" : {
          "location_area" : "山口市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "やまくちてんしようちえん"
       },
       "山口市立あじす保育園" : {
          "location_area" : "山口市",
@@ -1010,8 +1015,13 @@
          "owner_type" : "私立"
       },
       "野田学園幼稚園" : {
+         "location" : "山口県山口市野田56",
          "location_area" : "山口市",
+         "location_wikipedia_latlon" : "|34|11|12.3|N|131|28|46.1|E|",
+         "location_zipcode" : "753-0094",
          "owner_type" : "私立",
+         "sort_name" : "のたかくえん",
+         "url" : "http://www.nodagakuen.ed.jp/s/",
          "wikipedia_name" : "野田学園中学校・高等学校"
       },
       "鋼鈑幼稚園" : {

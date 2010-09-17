@@ -17,8 +17,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "札幌市白石区",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あしたば幼稚園" : {
          "location_area" : "旭川市",
@@ -656,11 +660,13 @@
       },
       "北海道教育大学附属函館幼稚園" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属函館幼稚園"
+         "short_name" : "教育大学附属函館幼稚園",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくはこたてようちえん"
       },
       "北海道教育大学附属旭川幼稚園" : {
          "owner_type" : "国立",
-         "short_name" : "教育大学附属旭川幼稚園"
+         "short_name" : "教育大学附属旭川幼稚園",
+         "sort_name" : "ほつかいとうきよういくたいかくふそくあさひかわようちえん"
       },
       "北海道文教大学短期大学部附属幼稚園" : {
          "location_area" : "札幌市南区",
@@ -1203,8 +1209,12 @@
          "short_name" : "新得幼稚園"
       },
       "新琴似幼稚園" : {
+         "location" : "北海道札幌市北区新琴似8条3丁目1-20",
          "location_area" : "札幌市北区",
-         "owner_type" : "私立"
+         "location_zipcode" : "001-0908",
+         "owner_type" : "私立",
+         "sort_name" : "しんことにようち",
+         "url" : "http://www.shinkotoni-yo.ed.jp/"
       },
       "新琴似育英幼稚園" : {
          "location_area" : "札幌市北区",
@@ -1370,7 +1380,8 @@
       },
       "札幌創価幼稚園" : {
          "location_area" : "札幌市豊平区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "さつほろそうかようち"
       },
       "札幌北幼稚園" : {
          "location_area" : "札幌市北区",
@@ -1464,7 +1475,8 @@
       "札幌市立あつべつきた幼稚園" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "あつべつきた幼稚園"
+         "short_name" : "あつべつきた幼稚園",
+         "sort_name" : "あつへつきたようちえん"
       },
       "札幌市立いなづみ幼稚園" : {
          "location_area" : "札幌市手稲区",
@@ -1474,77 +1486,92 @@
       "札幌市立かっこう幼稚園" : {
          "location_area" : "札幌市豊平区",
          "owner_type" : "市立",
-         "short_name" : "かっこう幼稚園"
+         "short_name" : "かっこう幼稚園",
+         "sort_name" : "かつこうようちえん"
       },
       "札幌市立きくすいもとまち幼稚園" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "きくすいもとまち幼稚園"
+         "short_name" : "きくすいもとまち幼稚園",
+         "sort_name" : "きくすいもとまちようちえん"
       },
       "札幌市立しんえい幼稚園" : {
          "location_area" : "札幌市清田区",
          "owner_type" : "市立",
-         "short_name" : "しんえい幼稚園"
+         "short_name" : "しんえい幼稚園",
+         "sort_name" : "しんえいようちえん"
       },
       "札幌市立すずらん幼稚園" : {
          "location_area" : "札幌市東区",
          "owner_type" : "市立",
-         "short_name" : "すずらん幼稚園"
+         "short_name" : "すずらん幼稚園",
+         "sort_name" : "すすらんようちえん"
       },
       "札幌市立すみかわみなみ幼稚園" : {
          "location_area" : "札幌市南区",
          "owner_type" : "市立",
-         "short_name" : "すみかわみなみ幼稚園"
+         "short_name" : "すみかわみなみ幼稚園",
+         "sort_name" : "すみかわみなみようちえん"
       },
       "札幌市立たいへいみなみ幼稚園" : {
          "location_area" : "札幌市北区",
          "owner_type" : "市立",
-         "short_name" : "たいへいみなみ幼稚園"
+         "short_name" : "たいへいみなみ幼稚園",
+         "sort_name" : "さつほろしりつたいへいみなみようちえん"
       },
       "札幌市立はまなす幼稚園" : {
          "location_area" : "札幌市西区",
          "owner_type" : "市立",
-         "short_name" : "はまなす幼稚園"
+         "short_name" : "はまなす幼稚園",
+         "sort_name" : "はまなすようちえん"
       },
       "札幌市立ひがしなえぼ幼稚園" : {
          "location_area" : "札幌市東区",
          "owner_type" : "市立",
-         "short_name" : "ひがしなえぼ幼稚園"
+         "short_name" : "ひがしなえぼ幼稚園",
+         "sort_name" : "ひかしなえほようちえん"
       },
       "札幌市立ふくいの幼稚園" : {
          "location_area" : "札幌市西区",
          "owner_type" : "市立",
-         "short_name" : "ふくいの幼稚園"
+         "short_name" : "ふくいの幼稚園",
+         "sort_name" : "ふくいのようちえん"
       },
       "札幌市立もいわ幼稚園" : {
          "location_area" : "札幌市南区",
          "owner_type" : "市立",
-         "short_name" : "もいわ幼稚園"
+         "short_name" : "もいわ幼稚園",
+         "sort_name" : "もいわようちえん"
       },
       "札幌市立らいらっく幼稚園" : {
          "location_area" : "札幌市厚別区",
          "owner_type" : "市立",
-         "short_name" : "らいらっく幼稚園"
+         "short_name" : "らいらっく幼稚園",
+         "sort_name" : "さつほろしりつらいらつく"
       },
       "札幌市立中央幼稚園" : {
          "location_area" : "札幌市中央区",
          "owner_type" : "市立",
-         "short_name" : "中央幼稚園"
+         "short_name" : "中央幼稚園",
+         "sort_name" : "ちゆうおうようちえん"
       },
       "札幌市立手稲中央幼稚園" : {
          "location_area" : "札幌市手稲区",
          "owner_type" : "市立",
-         "short_name" : "手稲中央幼稚園"
+         "short_name" : "手稲中央幼稚園",
+         "sort_name" : "ていねちゆうおうようちえん"
       },
       "札幌市立東橋幼稚園" : {
          "location_area" : "札幌市白石区",
          "owner_type" : "市立",
-         "short_name" : "東橋幼稚園"
+         "short_name" : "東橋幼稚園",
+         "sort_name" : "あすまはしようちえん"
       },
       "札幌市立白楊幼稚園" : {
          "location_area" : "札幌市北区",
          "owner_type" : "市立",
-         "short_name" : "白楊幼稚園"
+         "short_name" : "白楊幼稚園",
+         "sort_name" : "はくようようちえん"
       },
       "札幌市美園保育園" : {
          "location_area" : "札幌市豊平区",
@@ -1949,7 +1976,8 @@
       },
       "稚内鈴蘭幼稚園" : {
          "location_area" : "稚内市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "わつかないすすらんようちえん"
       },
       "端野若葉幼稚園" : {
          "location_area" : "北見市",

@@ -89,8 +89,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "横須賀市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あざみ野白ゆり幼稚園" : {
          "location_area" : "横浜市青葉区",
@@ -818,7 +822,8 @@
       },
       "カリタス幼稚園" : {
          "location_area" : "川崎市多摩区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かりたすようちえん"
       },
       "キッズビレッジつくし保育園" : {
          "location_area" : "横浜市旭区",
@@ -910,7 +915,8 @@
       },
       "ハリス記念鎌倉幼稚園" : {
          "location_area" : "鎌倉市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "はりすきねんかまくらようち"
       },
       "バオバブ霧が丘保育園" : {
          "location_area" : "横浜市緑区",
@@ -1038,7 +1044,8 @@
       },
       "三ツ沢幼稚園" : {
          "location_area" : "横浜市神奈川区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "みつさわようちえん"
       },
       "三恵幼稚園" : {
          "location_area" : "横浜市保土ケ谷区",
@@ -4138,8 +4145,11 @@
          "owner_type" : "私立"
       },
       "聖路加幼稚園" : {
+         "location" : "神奈川県鎌倉市稲村ガ崎4-2-5",
          "location_area" : "鎌倉市",
-         "owner_type" : "私立"
+         "location_zipcode" : "248-0024",
+         "owner_type" : "私立",
+         "sort_name" : "せいるかようち"
       },
       "育美保育園" : {
          "location_area" : "横浜市港南区",
@@ -4419,12 +4429,20 @@
          "short_name" : "開成幼稚園"
       },
       "関東学院六浦幼稚園" : {
+         "location" : "神奈川県横浜市金沢区六浦東一丁目50番1号",
          "location_area" : "横浜市金沢区",
-         "owner_type" : "私立"
+         "location_zipcode" : "236-8053",
+         "owner_type" : "私立",
+         "sort_name" : "かんとうかくいんむつうらようち",
+         "url" : "http://www.kanto-gakuin.ac.jp/kg/index.html"
       },
       "関東学院野庭幼稚園" : {
+         "location" : "神奈川県横浜市港南区野庭町617番地2",
          "location_area" : "横浜市港南区",
-         "owner_type" : "私立"
+         "location_zipcode" : "234-0056",
+         "owner_type" : "私立",
+         "sort_name" : "かんとうかくいんのはようち",
+         "url" : "http://www.kanto-gakuin.ac.jp/nkg/index.html"
       },
       "関東幼稚園" : {
          "location_area" : "横浜市瀬谷区",
@@ -4441,6 +4459,7 @@
       "青木幼稚園" : {
          "location_area" : "藤沢市",
          "owner_type" : "私立",
+         "sort_name" : "あおきようちえん",
          "wikipedia_name" : "青木幼稚園 (神奈川県)"
       },
       "青葉フレール保育園" : {

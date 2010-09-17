@@ -5,8 +5,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "本吉郡",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あそか幼稚園" : {
          "location_area" : "仙台市青葉区",
@@ -410,7 +414,8 @@
       "仙台市立東二番丁幼稚園" : {
          "location_area" : "仙台市青葉区",
          "owner_type" : "市立",
-         "short_name" : "東二番丁幼稚園"
+         "short_name" : "東二番丁幼稚園",
+         "sort_name" : "せんたいしりつひかしにはんちようようちえん"
       },
       "仙台市立東仙台保育所" : {
          "location_area" : "仙台市宮城野区",
@@ -829,7 +834,8 @@
          "owner_type" : "私立"
       },
       "宮城教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "みやききよういくたいかくふそくようち"
       },
       "富沢幼稚園" : {
          "location_area" : "仙台市太白区",
@@ -906,7 +912,8 @@
       },
       "愛児幼稚園" : {
          "location_area" : "仙台市青葉区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "あいしようち"
       },
       "愛子幼稚園" : {
          "location_area" : "仙台市青葉区",
@@ -942,7 +949,8 @@
       },
       "明泉幼稚園" : {
          "location_area" : "仙台市泉区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "めいせんようち"
       },
       "木の実幼稚園" : {
          "location_area" : "大崎市",
@@ -1556,7 +1564,8 @@
       },
       "高森明泉幼稚園" : {
          "location_area" : "仙台市泉区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "たかもりめいせんようち"
       },
       "鳴瀬幼稚園" : {
          "location_area" : "東松島市",

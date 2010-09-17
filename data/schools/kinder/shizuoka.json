@@ -170,7 +170,8 @@
       },
       "てるみ幼稚園" : {
          "location_area" : "静岡市葵区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "てるみようち"
       },
       "どんぐり保育園" : {
          "location_area" : "浜松市東区",
@@ -808,7 +809,8 @@
       },
       "堀之内幼稚園" : {
          "location_area" : "菊川市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ほりのうちようちえん"
       },
       "大平台わかくさ保育園" : {
          "location_area" : "浜松市西区",
@@ -1418,8 +1420,13 @@
          "owner_type" : "私立"
       },
       "梨花幼稚園" : {
+         "location" : "東京都稲城市押立392番地",
          "location_area" : "静岡市駿河区",
-         "owner_type" : "私立"
+         "location_wikipedia_latlon" : "|35|38|59.4|N|139|30|32.5|E|region:JP",
+         "location_zipcode" : "206-0811",
+         "owner_type" : "私立",
+         "sort_name" : "りかようちえん",
+         "url" : "http://www.rika-kdg.com/"
       },
       "森町立一宮幼稚園" : {
          "location_area" : "周智郡森町",
@@ -1657,7 +1664,8 @@
       "浜松市立北浜中央幼稚園" : {
          "location_area" : "浜松市浜北区",
          "owner_type" : "市立",
-         "short_name" : "北浜中央幼稚園"
+         "short_name" : "北浜中央幼稚園",
+         "sort_name" : "はままつしりつきたはまちゆうおう"
       },
       "浜松市立北浜北幼稚園" : {
          "location_area" : "浜松市浜北区",
@@ -2766,7 +2774,8 @@
          "owner_type" : "私立"
       },
       "静岡大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "しすおかたいかくきよういくかくふふそくようちえん"
       },
       "静岡学園幼稚園" : {
          "location_area" : "静岡市駿河区",

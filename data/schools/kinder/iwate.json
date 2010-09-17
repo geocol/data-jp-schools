@@ -5,8 +5,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "岩手郡",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あづま幼稚園" : {
          "location_area" : "紫波郡",
@@ -394,7 +398,11 @@
          "owner_type" : "私立"
       },
       "岩手大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "岩手県盛岡市加賀野三丁目9番1号",
+         "location_zipcode" : "020-0807",
+         "owner_type" : "国立",
+         "sort_name" : "いわてたいかくきよういくかくふふそくようち",
+         "url" : "http://www.edu.iwate-u.ac.jp/yotien/"
       },
       "岩泉町立岩泉幼稚園" : {
          "location_area" : "下閉伊郡岩泉町",
@@ -590,8 +598,12 @@
          "short_name" : "飯岡保育園"
       },
       "盛岡幼稚園" : {
+         "location" : "岩手県盛岡市中央通一丁目6番47号",
          "location_area" : "盛岡市",
-         "owner_type" : "私立"
+         "location_zipcode" : "020-0021",
+         "owner_type" : "私立",
+         "sort_name" : "もりおかようち",
+         "url" : "http://www.1907-mkg.com/"
       },
       "盛岡白百合学園幼稚園" : {
          "location_area" : "盛岡市",

@@ -1301,7 +1301,8 @@
          "owner_type" : "私立"
       },
       "埼玉大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "さいたまたいかくきよういくかくふふそくようち"
       },
       "埼玉幼稚園" : {
          "location_area" : "さいたま市南区",
@@ -1818,7 +1819,8 @@
       },
       "新河岸幼稚園" : {
          "location_area" : "川越市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "しんかしようち"
       },
       "新田幼稚園" : {
          "location_area" : "草加市",
@@ -2003,8 +2005,12 @@
          "owner_type" : "私立"
       },
       "松原幼稚園" : {
+         "location" : "群馬県邑楽郡大泉町西小泉三丁目6番22号",
          "location_area" : "川口市",
-         "owner_type" : "私立"
+         "location_zipcode" : "370-0517",
+         "owner_type" : "私立",
+         "sort_name" : "まつはらようち",
+         "url" : "http://www.matubara.ed.jp/"
       },
       "松山南幼稚園" : {
          "location_area" : "東松山市",
@@ -2364,8 +2370,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "川口市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白菊幼稚園" : {
          "location_area" : "さいたま市岩槻区",

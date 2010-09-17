@@ -102,7 +102,8 @@
       },
       "このはな幼稚園" : {
          "location_area" : "流山市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "このはなようちえん"
       },
       "こまどり幼稚園" : {
          "location_area" : "千葉市中央区",
@@ -161,8 +162,12 @@
          "owner_type" : "私立"
       },
       "たきのい幼稚園" : {
+         "location" : "千葉県船橋市田喜野井六丁目20番3号",
          "location_area" : "船橋市",
-         "owner_type" : "私立"
+         "location_zipcode" : "274-0073",
+         "owner_type" : "私立",
+         "sort_name" : "たきのいようち",
+         "url" : "http://www.takinoi.ed.jp/"
       },
       "たんぽぽ幼稚園" : {
          "location_area" : "八千代市",
@@ -714,7 +719,11 @@
          "owner_type" : "私立"
       },
       "千葉大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "千葉県千葉市稲毛区弥生町1-33",
+         "location_zipcode" : "263-8522",
+         "owner_type" : "国立",
+         "sort_name" : "ちはたいかくきよういくかくふふそくようち",
+         "url" : "http://kdg.e.chiba-u.jp/"
       },
       "千葉女子専門学校附属幼稚園" : {
          "location_area" : "千葉市美浜区",
@@ -1265,8 +1274,12 @@
          "short_name" : "浩養幼稚園"
       },
       "専修大学松戸幼稚園" : {
+         "location" : "千葉県松戸市上本郷2-3621",
          "location_area" : "松戸市",
-         "owner_type" : "私立"
+         "location_zipcode" : "271-8585",
+         "owner_type" : "私立",
+         "sort_name" : "せんしゆうたいかくまつとようち",
+         "url" : "http://www.senshu-kids.ed.jp/"
       },
       "小ばと幼稚園" : {
          "location_area" : "千葉市稲毛区",
@@ -1548,8 +1561,12 @@
          "owner_type" : "私立"
       },
       "日出学園幼稚園" : {
+         "location" : "千葉県市川市菅野二丁目21番24号",
          "location_area" : "市川市",
-         "owner_type" : "私立"
+         "location_zipcode" : "272-0824",
+         "owner_type" : "私立",
+         "sort_name" : "ひのてかくえんようち",
+         "url" : "http://www.hinode.ed.jp/"
       },
       "日吉台幼稚園" : {
          "location_area" : "富里市",
@@ -1961,8 +1978,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "香取市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白菊幼稚園" : {
          "location_area" : "市川市",
@@ -2002,8 +2023,12 @@
          "owner_type" : "私立"
       },
       "神明幼稚園" : {
+         "location" : "千葉県船橋市飯山満町1-640",
          "location_area" : "船橋市",
-         "owner_type" : "私立"
+         "location_zipcode" : "274-0822",
+         "owner_type" : "私立",
+         "sort_name" : "しんめいようち",
+         "url" : "http://shinmei.ed.jp/"
       },
       "福増幼稚園" : {
          "location_area" : "市原市",
@@ -2054,8 +2079,12 @@
          "owner_type" : "私立"
       },
       "第二船橋ひまわり幼稚園" : {
+         "location" : "千葉県船橋市金杉八丁目4番12号",
          "location_area" : "船橋市",
-         "owner_type" : "私立"
+         "location_zipcode" : "273-0853",
+         "owner_type" : "私立",
+         "sort_name" : "たい2ふなはしひまわりようち",
+         "url" : "http://www.kidslink.jp/funabashi-himawari2/"
       },
       "第二野田中央幼稚園" : {
          "location_area" : "野田市",
@@ -2309,9 +2338,12 @@
          "short_name" : "習志野台第一保育園"
       },
       "船橋市立習志野台第二保育園" : {
+         "location" : "千葉県船橋市習志野台6丁目7番1号",
          "location_area" : "船橋市",
+         "location_zipcode" : "443-0002",
          "owner_type" : "市立",
-         "short_name" : "習志野台第二保育園"
+         "short_name" : "習志野台第二保育園",
+         "url" : "http://www.we-blog.jp/sea/ayuhaha/"
       },
       "船橋市立芝山第一保育園" : {
          "location_area" : "船橋市",
@@ -2439,7 +2471,8 @@
       },
       "葛飾幼稚園" : {
          "location_area" : "船橋市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かつしかようちえん"
       },
       "葵幼稚園" : {
          "location_area" : "千葉市中央区",
@@ -2519,8 +2552,12 @@
          "owner_type" : "私立"
       },
       "金杉幼稚園" : {
+         "location" : "千葉県船橋市金杉三丁目6番1号",
          "location_area" : "船橋市",
-         "owner_type" : "私立"
+         "location_zipcode" : "273-0853",
+         "owner_type" : "私立",
+         "sort_name" : "かなすきようち",
+         "url" : "http://www.kidslink.jp/funabashi-kanasugi/"
       },
       "銚子市立春日幼稚園" : {
          "location_area" : "銚子市",
@@ -2717,9 +2754,12 @@
          "short_name" : "伊地山幼稚園"
       },
       "香取市立佐原幼稚園" : {
+         "location" : "千葉県香取市佐原イ1874",
          "location_area" : "香取市",
+         "location_zipcode" : "287-0003",
          "owner_type" : "市立",
-         "short_name" : "佐原幼稚園"
+         "short_name" : "佐原幼稚園",
+         "sort_name" : "かとりしりつさわらようち"
       },
       "香取市立小見川幼稚園" : {
          "location_area" : "香取市",

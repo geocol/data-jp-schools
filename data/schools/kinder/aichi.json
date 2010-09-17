@@ -3594,7 +3594,8 @@
          "short_name" : "愛知学泉短大附属幼稚園"
       },
       "愛知教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "あいちきよういくたいかくふそく"
       },
       "愛知文教女子短期大学附属一宮東幼稚園" : {
          "location_area" : "一宮市",
@@ -4507,8 +4508,13 @@
          "owner_type" : "私立"
       },
       "椙山女学園大学附属幼稚園" : {
+         "location" : "愛知県名古屋市千種区山添町2-2",
          "location_area" : "名古屋市千種区",
-         "owner_type" : "私立"
+         "location_wikipedia_latlon" : "|35|9|43.1|N|136|57|5.7|E|",
+         "location_zipcode" : "464-0832",
+         "owner_type" : "私立",
+         "sort_name" : "すきやましよかくえんたいかくふそくようち",
+         "url" : "http://www.sugiyama-u.ac.jp/youtien/"
       },
       "橋目幼稚園" : {
          "location_area" : "岡崎市",
@@ -5822,9 +5828,13 @@
          "short_name" : "中部保育園"
       },
       "蒲郡市立北部保育園" : {
+         "location" : "愛知県蒲郡市清田町門前2番地16",
          "location_area" : "蒲郡市",
+         "location_zipcode" : "443-0002",
          "owner_type" : "市立",
-         "short_name" : "北部保育園"
+         "short_name" : "北部保育園",
+         "sort_name" : "かまこおりしりつほくふほいくえん",
+         "url" : "http://www.city.gamagori.aichi.jp/fukushi/jido/hoikuen/hokubu/"
       },
       "蒲郡市立南部保育園" : {
          "location_area" : "蒲郡市",

@@ -9,8 +9,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "富山市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "いずみ幼稚園" : {
          "location_area" : "高岡市",
@@ -186,7 +190,8 @@
          "owner_type" : "私立"
       },
       "富山大学人間発達科学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とやまたいかくにんけんはつたつかかくふふそくようち"
       },
       "富山市五番町幼稚園" : {
          "location_area" : "富山市",
@@ -874,9 +879,13 @@
          "short_name" : "松倉保育園"
       },
       "魚津市立片貝保育園" : {
+         "location" : "富山県魚津市島尻8番18号",
          "location_area" : "魚津市",
+         "location_zipcode" : "937-0033",
          "owner_type" : "市立",
-         "short_name" : "片貝保育園"
+         "short_name" : "片貝保育園",
+         "sort_name" : "うおつしりつかたかいほいくえん",
+         "url" : "http://public.city.uozu.toyama.jp/project/2956/1098/1098_1.html"
       },
       "魚津市立経田保育園" : {
          "location_area" : "魚津市",

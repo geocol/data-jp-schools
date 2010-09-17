@@ -989,8 +989,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "にかほ市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "皆瀬保育園" : {
          "location_area" : "湯沢市",
@@ -1041,7 +1045,8 @@
          "owner_type" : "私立"
       },
       "秋田大学教育文化学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "あきたたいかくきよういくふんかかくふふそくようち"
       },
       "秋田太陽幼稚園" : {
          "location_area" : "秋田市",

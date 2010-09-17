@@ -83,7 +83,8 @@
       "いわき市立玉川幼稚園" : {
          "location_area" : "いわき市",
          "owner_type" : "市立",
-         "short_name" : "玉川幼稚園"
+         "short_name" : "玉川幼稚園",
+         "sort_name" : "いわきしりつたまかわようち"
       },
       "いわき市立磐崎幼稚園" : {
          "location_area" : "いわき市",
@@ -264,11 +265,13 @@
       },
       "九品寺附属平窪幼稚園" : {
          "location_area" : "いわき市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "くほんしふそくひらくほようち"
       },
       "九品寺附属幼稚園" : {
          "location_area" : "いわき市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "くほんしふそくようち"
       },
       "二本松カトリック幼稚園" : {
          "location_area" : "二本松市",
@@ -1277,8 +1280,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "福島市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "相馬市立八幡幼稚園" : {
          "location_area" : "相馬市",
@@ -1397,7 +1404,8 @@
          "owner_type" : "私立"
       },
       "福島大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ふくしまたいかくふそくようち"
       },
       "福島学院大学附属幼稚園" : {
          "location_area" : "福島市",

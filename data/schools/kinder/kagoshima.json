@@ -17,8 +17,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "霧島市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "いずみ幼稚園" : {
          "location_area" : "鹿屋市",
@@ -111,6 +115,7 @@
       "むらさき幼稚園" : {
          "location_area" : "鹿児島市",
          "owner_type" : "私立",
+         "sort_name" : "むらさきようちえん",
          "wikipedia_name" : "むらさき幼稚園 (鹿児島市)"
       },
       "めぐみ幼稚園" : {
@@ -541,7 +546,8 @@
       },
       "敬愛幼稚園" : {
          "location_area" : "鹿児島市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "けいあいようちえん"
       },
       "日の出幼稚園" : {
          "location_area" : "鹿屋市",
@@ -662,8 +668,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "指宿市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "知名町立田皆幼稚園" : {
          "location_area" : "大島郡知名町",
@@ -680,8 +690,12 @@
          "owner_type" : "私立"
       },
       "神村学園附属幼稚園" : {
+         "location" : "鹿児島県いちき串木野市下名3970番地",
          "location_area" : "いちき串木野市",
-         "owner_type" : "私立"
+         "location_zipcode" : "896-0053",
+         "owner_type" : "私立",
+         "sort_name" : "かみむらかくえんふそくようち",
+         "url" : "http://news.kamimura.ac.jp/school_info/pr/pr_top.htm"
       },
       "竹の子幼稚園" : {
          "location_area" : "霧島市",
@@ -940,7 +954,8 @@
          "owner_type" : "私立"
       },
       "鹿児島大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "かこしまたいかくきよういくかくふふそく"
       },
       "鹿児島女子短期大学附属かもめ幼稚園" : {
          "location_area" : "鹿児島市",

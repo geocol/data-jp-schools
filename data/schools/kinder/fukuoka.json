@@ -955,7 +955,8 @@
       "北九州市立八幡東幼稚園" : {
          "location_area" : "北九州市八幡東区",
          "owner_type" : "市立",
-         "short_name" : "八幡東幼稚園"
+         "short_name" : "八幡東幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつやはたひかしようちえん"
       },
       "北九州市立初音保育所" : {
          "location_area" : "北九州市戸畑区",
@@ -980,12 +981,14 @@
       "北九州市立小倉南幼稚園" : {
          "location_area" : "北九州市小倉南区",
          "owner_type" : "市立",
-         "short_name" : "小倉南幼稚園"
+         "short_name" : "小倉南幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつこくらみなみようちえん"
       },
       "北九州市立小倉幼稚園" : {
          "location_area" : "北九州市小倉北区",
          "owner_type" : "市立",
-         "short_name" : "小倉幼稚園"
+         "short_name" : "小倉幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつこくらようちえん"
       },
       "北九州市立徳力保育所" : {
          "location_area" : "北九州市小倉南区",
@@ -1020,7 +1023,8 @@
       "北九州市立松ヶ江幼稚園" : {
          "location_area" : "北九州市門司区",
          "owner_type" : "市立",
-         "short_name" : "松ヶ江幼稚園"
+         "short_name" : "松ヶ江幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつまつかえようちえん"
       },
       "北九州市立畑保育所" : {
          "location_area" : "北九州市若松区",
@@ -1055,7 +1059,8 @@
       "北九州市立若松幼稚園" : {
          "location_area" : "北九州市若松区",
          "owner_type" : "市立",
-         "short_name" : "若松幼稚園"
+         "short_name" : "若松幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつわかまつようちえん"
       },
       "北九州市立蜷田保育所" : {
          "location_area" : "北九州市小倉南区",
@@ -1075,12 +1080,14 @@
       "北九州市立足原幼稚園" : {
          "location_area" : "北九州市小倉北区",
          "owner_type" : "市立",
-         "short_name" : "足原幼稚園"
+         "short_name" : "足原幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつあしはらようちえん"
       },
       "北九州市立鷹の巣幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "市立",
-         "short_name" : "鷹の巣幼稚園"
+         "short_name" : "鷹の巣幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつたかのすようちえん"
       },
       "北九州市立黒崎保育所" : {
          "location_area" : "北九州市八幡西区",
@@ -1090,7 +1097,8 @@
       "北九州市立黒崎幼稚園" : {
          "location_area" : "北九州市八幡西区",
          "owner_type" : "市立",
-         "short_name" : "黒崎幼稚園"
+         "short_name" : "黒崎幼稚園",
+         "sort_name" : "きたきゆうしゆうしりつくろさきようちえん"
       },
       "北崎保育園" : {
          "location_area" : "福岡市西区",
@@ -1789,8 +1797,12 @@
          "owner_type" : "私立"
       },
       "敬愛幼稚園" : {
+         "location" : "福岡県北九州市門司区別院6番1号",
          "location_area" : "北九州市門司区",
+         "location_zipcode" : "800-0035",
          "owner_type" : "私立",
+         "sort_name" : "けいあいようち",
+         "url" : "http://www.keiai.net/you/",
          "wikipedia_name" : "敬愛幼稚園 (福岡県)"
       },
       "敬愛文化幼稚園" : {
@@ -2352,8 +2364,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "八女市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白菊幼稚園" : {
          "location_area" : "福津市",
@@ -2443,7 +2459,8 @@
       "福岡市立入部幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "市立",
-         "short_name" : "入部幼稚園"
+         "short_name" : "入部幼稚園",
+         "sort_name" : "ふくおかしりついるへようちえん"
       },
       "福岡市立内野保育所" : {
          "location_area" : "福岡市早良区",
@@ -2453,7 +2470,8 @@
       "福岡市立内野幼稚園" : {
          "location_area" : "福岡市早良区",
          "owner_type" : "市立",
-         "short_name" : "内野幼稚園"
+         "short_name" : "内野幼稚園",
+         "sort_name" : "ふくおかしりつうちのようちえん"
       },
       "福岡市立千代保育所" : {
          "location_area" : "福岡市博多区",
@@ -2468,7 +2486,8 @@
       "福岡市立和白幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
-         "short_name" : "和白幼稚園"
+         "short_name" : "和白幼稚園",
+         "sort_name" : "ふくおかしりつわしろようちえん"
       },
       "福岡市立城の原保育所" : {
          "location_area" : "福岡市西区",
@@ -2493,7 +2512,8 @@
       "福岡市立姪浜幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "市立",
-         "short_name" : "姪浜幼稚園"
+         "short_name" : "姪浜幼稚園",
+         "sort_name" : "ふくおかしりつめいはまようちえん"
       },
       "福岡市立志賀島保育所" : {
          "location_area" : "福岡市東区",
@@ -2528,7 +2548,8 @@
       "福岡市立赤坂幼稚園" : {
          "location_area" : "福岡市中央区",
          "owner_type" : "市立",
-         "short_name" : "赤坂幼稚園"
+         "short_name" : "赤坂幼稚園",
+         "sort_name" : "ふくおかしりつあかさかようちえん"
       },
       "福岡市立那珂保育所" : {
          "location_area" : "福岡市博多区",
@@ -2538,7 +2559,8 @@
       "福岡市立金武幼稚園" : {
          "location_area" : "福岡市西区",
          "owner_type" : "市立",
-         "short_name" : "金武幼稚園"
+         "short_name" : "金武幼稚園",
+         "sort_name" : "ふくおかしりつかなたけようちえん"
       },
       "福岡市立隅田保育所" : {
          "location_area" : "福岡市博多区",
@@ -2548,7 +2570,8 @@
       "福岡市立雁の巣幼稚園" : {
          "location_area" : "福岡市東区",
          "owner_type" : "市立",
-         "short_name" : "雁の巣幼稚園"
+         "short_name" : "雁の巣幼稚園",
+         "sort_name" : "ふくおかしりつかんのすようちえん"
       },
       "福岡市立香椎保育所" : {
          "location_area" : "福岡市東区",
@@ -2576,8 +2599,12 @@
          "owner_type" : "私立"
       },
       "福岡雙葉小学校附属幼稚園" : {
+         "location" : "福岡県福岡市中央区御所ヶ谷7番1号",
          "location_area" : "福岡市中央区",
-         "owner_type" : "私立"
+         "location_zipcode" : "810-0027",
+         "owner_type" : "私立",
+         "sort_name" : "ふくおかふたはしようかつこうふそくようち",
+         "url" : "http://www.fukuokafutaba.ed.jp/kindergarten/kindergarten.html"
       },
       "福岡音楽学院附属幼稚園" : {
          "location_area" : "福岡市南区",

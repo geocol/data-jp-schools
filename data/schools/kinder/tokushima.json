@@ -58,7 +58,11 @@
          "owner_type" : "私立"
       },
       "はのうら幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県阿南市羽ノ浦町宮倉太田40-3",
+         "location_zipcode" : "779-1102",
+         "owner_type" : "私立",
+         "sort_name" : "はのうらようち",
+         "url" : "http://www.infoeddy.ne.jp/~hanoura/"
       },
       "ひまわり保育所" : {
          "location_area" : "徳島市",
@@ -85,7 +89,11 @@
          "owner_type" : "私立"
       },
       "わかくさ幼稚園" : {
+         "location" : "徳島県徳島市津田本町4-2-48",
+         "location_zipcode" : "770-0847",
          "owner_type" : "私立",
+         "sort_name" : "わかくさようちえん",
+         "url" : "http://www.wakakusakko.com/",
          "wikipedia_name" : "わかくさ幼稚園 (徳島市)"
       },
       "わかば保育所" : {
@@ -202,7 +210,11 @@
          "short_name" : "高志幼稚園"
       },
       "信愛幼稚園" : {
+         "location" : "徳島県徳島市幸町三丁目33番地",
+         "location_zipcode" : "770-0847",
          "owner_type" : "私立",
+         "sort_name" : "しんあいようち",
+         "url" : "http://www2.ocn.ne.jp/~tokuinma/",
          "wikipedia_name" : "信愛幼稚園 (徳島市)"
       },
       "光花保育所" : {
@@ -316,11 +328,19 @@
          "short_name" : "鴨島幼稚園"
       },
       "四国大学附属保育所" : {
+         "location" : "徳島県徳島市寺島本町西2丁目35番地の9",
          "location_area" : "徳島市",
-         "owner_type" : "私立"
+         "location_zipcode" : "770-0831",
+         "owner_type" : "私立",
+         "sort_name" : "しこくたいかくふそくほいくしよ",
+         "url" : "http://www3.tcn.ne.jp/~shikokuhoikusho/"
       },
       "四国大学附属幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県徳島市徳島市応神町古川",
+         "location_zipcode" : "771-1151",
+         "owner_type" : "私立",
+         "sort_name" : "しこくたいかくふそくようち",
+         "url" : "http://www2.shikoku-u.ac.jp/youchien/"
       },
       "城南保育所" : {
          "location_area" : "徳島市",
@@ -399,9 +419,12 @@
          "short_name" : "一宮保育所"
       },
       "徳島市立一宮幼稚園" : {
+         "location" : "徳島県徳島市一宮町東丁231",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3132",
          "owner_type" : "市立",
-         "short_name" : "一宮幼稚園"
+         "short_name" : "一宮幼稚園",
+         "sort_name" : "とくしましりついちのみやようちえん"
       },
       "徳島市立丈六保育所" : {
          "location_area" : "徳島市",
@@ -409,9 +432,12 @@
          "short_name" : "丈六保育所"
       },
       "徳島市立上八万幼稚園" : {
+         "location" : "徳島県徳島市上八万町樋口151-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8040",
          "owner_type" : "市立",
-         "short_name" : "上八万幼稚園"
+         "short_name" : "上八万幼稚園",
+         "sort_name" : "とくしましりつかみはちまんようちえん"
       },
       "徳島市立不動保育所" : {
          "location_area" : "徳島市",
@@ -419,9 +445,12 @@
          "short_name" : "不動保育所"
       },
       "徳島市立不動幼稚園" : {
+         "location" : "徳島県徳島市不動本町2丁目140-7",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0063",
          "owner_type" : "市立",
-         "short_name" : "不動幼稚園"
+         "short_name" : "不動幼稚園",
+         "sort_name" : "とくしましりつふとうようちえん"
       },
       "徳島市立佐古保育所" : {
          "location_area" : "徳島市",
@@ -429,14 +458,20 @@
          "short_name" : "佐古保育所"
       },
       "徳島市立佐古幼稚園" : {
+         "location" : "徳島県徳島市佐古六番町1-2",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0026",
          "owner_type" : "市立",
-         "short_name" : "佐古幼稚園"
+         "short_name" : "佐古幼稚園",
+         "sort_name" : "とくしましりつさこようちえん"
       },
       "徳島市立入田幼稚園" : {
+         "location" : "徳島県徳島市入田町笠木11",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3133",
          "owner_type" : "市立",
-         "short_name" : "入田幼稚園"
+         "short_name" : "入田幼稚園",
+         "sort_name" : "とくしましりつにゆうたようちえん"
       },
       "徳島市立八万保育所" : {
          "location_area" : "徳島市",
@@ -444,14 +479,20 @@
          "short_name" : "八万保育所"
       },
       "徳島市立八万南幼稚園" : {
+         "location" : "徳島県徳島市八万町橋本93-3",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8078",
          "owner_type" : "市立",
-         "short_name" : "八万南幼稚園"
+         "short_name" : "八万南幼稚園",
+         "sort_name" : "とくしましりつはちまんみなみようちえん"
       },
       "徳島市立八万幼稚園" : {
+         "location" : "徳島県徳島市城南町4丁目1-56",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8084",
          "owner_type" : "市立",
-         "short_name" : "八万幼稚園"
+         "short_name" : "八万幼稚園",
+         "sort_name" : "とくしましりつはちまんようちえん"
       },
       "徳島市立八万東保育所" : {
          "location_area" : "徳島市",
@@ -469,9 +510,12 @@
          "short_name" : "内町保育所"
       },
       "徳島市立内町幼稚園" : {
+         "location" : "徳島県徳島市幸町3丁目73",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0847",
          "owner_type" : "市立",
-         "short_name" : "内町幼稚園"
+         "short_name" : "内町幼稚園",
+         "sort_name" : "とくしましりつうちまちようちえん"
       },
       "徳島市立加茂保育所" : {
          "location_area" : "徳島市",
@@ -484,19 +528,28 @@
          "short_name" : "加茂名保育所"
       },
       "徳島市立加茂名南幼稚園" : {
+         "location" : "徳島県徳島市鮎喰町2丁目11-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0046",
          "owner_type" : "市立",
-         "short_name" : "加茂名南幼稚園"
+         "short_name" : "加茂名南幼稚園",
+         "sort_name" : "とくしましりつかもなみなみようちえん"
       },
       "徳島市立加茂名幼稚園" : {
+         "location" : "徳島県徳島市庄町5丁目14-8",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0044",
          "owner_type" : "市立",
-         "short_name" : "加茂名幼稚園"
+         "short_name" : "加茂名幼稚園",
+         "sort_name" : "とくしましりつかもなようちえん"
       },
       "徳島市立助任幼稚園" : {
+         "location" : "徳島県徳島市北前川町2丁目10",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0806",
          "owner_type" : "市立",
-         "short_name" : "助任幼稚園"
+         "short_name" : "助任幼稚園",
+         "sort_name" : "とくしましりつすけとうようちえん"
       },
       "徳島市立北井上保育所" : {
          "location_area" : "徳島市",
@@ -504,9 +557,12 @@
          "short_name" : "北井上保育所"
       },
       "徳島市立北井上幼稚園" : {
+         "location" : "徳島県徳島市国府町西黒田字南傍示275-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3102",
          "owner_type" : "市立",
-         "short_name" : "北井上幼稚園"
+         "short_name" : "北井上幼稚園",
+         "sort_name" : "とくしましりつきたいのうえようちえん"
       },
       "徳島市立北島田保育所" : {
          "location_area" : "徳島市",
@@ -514,9 +570,12 @@
          "short_name" : "北島田保育所"
       },
       "徳島市立千松幼稚園" : {
+         "location" : "徳島県徳島市南矢三町1-7-68",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0005",
          "owner_type" : "市立",
-         "short_name" : "千松幼稚園"
+         "short_name" : "千松幼稚園",
+         "sort_name" : "とくしましりつせんしようようちえん"
       },
       "徳島市立南井上保育所" : {
          "location_area" : "徳島市",
@@ -524,9 +583,12 @@
          "short_name" : "南井上保育所"
       },
       "徳島市立南井上幼稚園" : {
+         "location" : "徳島県徳島市国府町日開1006",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3117",
          "owner_type" : "市立",
-         "short_name" : "南井上幼稚園"
+         "short_name" : "南井上幼稚園",
+         "sort_name" : "とくしましりつみなみいのうえようちえん"
       },
       "徳島市立名東保育所" : {
          "location_area" : "徳島市",
@@ -539,14 +601,20 @@
          "short_name" : "国府保育所"
       },
       "徳島市立国府幼稚園" : {
+         "location" : "徳島県徳島市国府町中62-2",
          "location_area" : "徳島市",
+         "location_zipcode" : "779-3124",
          "owner_type" : "市立",
-         "short_name" : "国府幼稚園"
+         "short_name" : "国府幼稚園",
+         "sort_name" : "とくしましりつこくふようちえん"
       },
       "徳島市立城東幼稚園" : {
+         "location" : "徳島県徳島市住吉3丁目5-12",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0861",
          "owner_type" : "市立",
-         "short_name" : "城東幼稚園"
+         "short_name" : "城東幼稚園",
+         "sort_name" : "とくしましりつしようとうようちえん"
       },
       "徳島市立多家良保育所" : {
          "location_area" : "徳島市",
@@ -559,9 +627,12 @@
          "short_name" : "大松保育所"
       },
       "徳島市立大松幼稚園" : {
+         "location" : "徳島県徳島市勝占町中須156-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8023",
          "owner_type" : "市立",
-         "short_name" : "大松幼稚園"
+         "short_name" : "大松幼稚園",
+         "sort_name" : "とくしましりつおおまつようちえん"
       },
       "徳島市立富田保育所" : {
          "location_area" : "徳島市",
@@ -569,9 +640,12 @@
          "short_name" : "富田保育所"
       },
       "徳島市立富田幼稚園" : {
+         "location" : "徳島県徳島市富田橋2丁目28",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0937",
          "owner_type" : "市立",
-         "short_name" : "富田幼稚園"
+         "short_name" : "富田幼稚園",
+         "sort_name" : "とくしましりつとみたようちえん"
       },
       "徳島市立川内保育所" : {
          "location_area" : "徳島市",
@@ -579,14 +653,20 @@
          "short_name" : "川内保育所"
       },
       "徳島市立川内北幼稚園" : {
+         "location" : "徳島県徳島市川内町大松21-3",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-0131",
          "owner_type" : "市立",
-         "short_name" : "川内北幼稚園"
+         "short_name" : "川内北幼稚園",
+         "sort_name" : "とくしましりつかわうちきたようちえん"
       },
       "徳島市立川内南幼稚園" : {
+         "location" : "徳島県徳島市川内町宮島錦野160-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "771-0116",
          "owner_type" : "市立",
-         "short_name" : "川内南幼稚園"
+         "short_name" : "川内南幼稚園",
+         "sort_name" : "とくしましりつかわうちみなみようちえん"
       },
       "徳島市立応神保育所" : {
          "location_area" : "徳島市",
@@ -594,14 +674,18 @@
          "short_name" : "応神保育所"
       },
       "徳島市立応神幼稚園" : {
+         "location" : "徳島県徳島市応神吉成長田93-1",
          "location_area" : "徳島市",
+         "location_zipcode" : "〒771-1153",
          "owner_type" : "市立",
-         "short_name" : "応神幼稚園"
+         "short_name" : "応神幼稚園",
+         "sort_name" : "とくしましりつおうしんようちえん"
       },
       "徳島市立応神幼稚園古川分園" : {
          "location_area" : "徳島市",
          "owner_type" : "市立",
-         "short_name" : "応神幼稚園古川分園"
+         "short_name" : "応神幼稚園古川分園",
+         "sort_name" : "とくしましりつおうしんようちえんこかわふんこう"
       },
       "徳島市立新浜保育所" : {
          "location_area" : "徳島市",
@@ -614,9 +698,12 @@
          "short_name" : "新浜西保育所"
       },
       "徳島市立新町幼稚園" : {
+         "location" : "徳島県徳島市東山手町2丁目16-10",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0906",
          "owner_type" : "市立",
-         "short_name" : "新町幼稚園"
+         "short_name" : "新町幼稚園",
+         "sort_name" : "とくしましりつしんまちようちえん"
       },
       "徳島市立方上保育所" : {
          "location_area" : "徳島市",
@@ -634,9 +721,12 @@
          "short_name" : "昭和保育所"
       },
       "徳島市立昭和幼稚園" : {
+         "location" : "徳島県徳島市南昭和町6丁目3",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0944",
          "owner_type" : "市立",
-         "short_name" : "昭和幼稚園"
+         "short_name" : "昭和幼稚園",
+         "sort_name" : "とくしましりつしようわようちえん"
       },
       "徳島市立沖洲保育所" : {
          "location_area" : "徳島市",
@@ -644,9 +734,12 @@
          "short_name" : "沖洲保育所"
       },
       "徳島市立沖洲幼稚園" : {
+         "location" : "徳島県徳島市南沖洲5丁目5-77",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0874",
          "owner_type" : "市立",
-         "short_name" : "沖洲幼稚園"
+         "short_name" : "沖洲幼稚園",
+         "sort_name" : "とくしましりつおきのすようちえん"
       },
       "徳島市立津田保育所" : {
          "location_area" : "徳島市",
@@ -654,9 +747,12 @@
          "short_name" : "津田保育所"
       },
       "徳島市立津田幼稚園" : {
+         "location" : "徳島県徳島市津田西町2丁目5-34",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-8004",
          "owner_type" : "市立",
-         "short_name" : "津田幼稚園"
+         "short_name" : "津田幼稚園",
+         "sort_name" : "とくしましりつつたようちえん"
       },
       "徳島市立渋野保育所" : {
          "location_area" : "徳島市",
@@ -674,9 +770,12 @@
          "short_name" : "渭東保育所"
       },
       "徳島市立福島幼稚園" : {
+         "location" : "徳島県徳島市福島1丁目7-53",
          "location_area" : "徳島市",
+         "location_zipcode" : "770-0868",
          "owner_type" : "市立",
-         "short_name" : "福島幼稚園"
+         "short_name" : "福島幼稚園",
+         "sort_name" : "とくしましりつふくしまようちえん"
       },
       "徳島市立芝原保育所" : {
          "location_area" : "徳島市",
@@ -699,7 +798,11 @@
          "short_name" : "飯谷保育所"
       },
       "徳島文理大学附属幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島市山城町東浜傍示2",
+         "location_zipcode" : "770-8055",
+         "owner_type" : "私立",
+         "sort_name" : "とくしまふんりたいかくふそくようち",
+         "url" : "http://www.bunri-u.ac.jp/kids/index.html"
       },
       "春日保育所" : {
          "location_area" : "徳島市",
@@ -790,10 +893,19 @@
          "short_name" : "海南幼稚園"
       },
       "生光学園幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県徳島市応神町中原38",
+         "location_zipcode" : "771-1152",
+         "owner_type" : "私立",
+         "sort_name" : "せいこうかくえんようち",
+         "url" : "http://www.bunri-u.ac.jp/kids/index.html"
       },
       "白うめ幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県徳島市国府町矢野字原地65",
+         "location_wikipedia_latlon" : "|34|3|22.9|N|134|28|47|E|region:JP",
+         "location_zipcode" : "779-3126",
+         "owner_type" : "私立",
+         "sort_name" : "しらうめようち",
+         "url" : "http://www2.shikoku-u.ac.jp/youchien/"
       },
       "石井町立浦庄幼稚園" : {
          "location_area" : "名西郡石井町",
@@ -918,7 +1030,10 @@
          "owner_type" : "私立"
       },
       "花星幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県徳島市丈六町溝筋5-3",
+         "location_zipcode" : "771-4261",
+         "owner_type" : "私立",
+         "sort_name" : "はなほしようち"
       },
       "若松保育所" : {
          "location_area" : "徳島市",
@@ -1029,7 +1144,11 @@
          "short_name" : "見能林幼稚園"
       },
       "阿南聖母幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県阿南市富岡町安石19-1",
+         "location_zipcode" : "774-0030",
+         "owner_type" : "私立",
+         "sort_name" : "あなんせいほようち",
+         "url" : "http://www1.ocn.ne.jp/~a_seibo/"
       },
       "阿波国慈恵院保育所" : {
          "location_area" : "徳島市",
@@ -1081,8 +1200,12 @@
          "short_name" : "柿原幼稚園"
       },
       "青嵐保育園" : {
+         "location" : "徳島県徳島市北田宮2丁目2番地58",
          "location_area" : "徳島市",
-         "owner_type" : "私立"
+         "location_zipcode" : "770-0003",
+         "owner_type" : "私立",
+         "sort_name" : "せいらんほいくえん",
+         "url" : "http://www.kensyokai.or.jp/seiran.html"
       },
       "青葉保育所" : {
          "location_area" : "徳島市",
@@ -1179,10 +1302,18 @@
          "short_name" : "黒崎幼稚園"
       },
       "鳴門教育大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "location" : "徳島県徳島市南前川町二丁目11番地の1",
+         "location_zipcode" : "770-0808",
+         "owner_type" : "国立",
+         "sort_name" : "なるときよういくたいかくふそくようち",
+         "url" : "http://www.kinsch.naruto-u.ac.jp/hb-index.htm"
       },
       "鳴門聖母幼稚園" : {
-         "owner_type" : "私立"
+         "location" : "徳島県鳴門市撫養町黒崎字松島208",
+         "location_zipcode" : "772-0001",
+         "owner_type" : "私立",
+         "sort_name" : "なるとせいほようち",
+         "url" : "http://www.55web.jp/seibo/"
       }
    },
    "misc_schools" : {

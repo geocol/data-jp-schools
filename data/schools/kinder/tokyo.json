@@ -17,8 +17,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "墨田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あすなろ幼稚園" : {
          "location_area" : "葛飾区",
@@ -57,7 +61,8 @@
          "owner_type" : "私立"
       },
       "お茶の水女子大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "おちやのみすしよしたいかくふそくようち"
       },
       "かごめ幼稚園" : {
          "location_area" : "板橋区",
@@ -468,8 +473,12 @@
          "owner_type" : "私立"
       },
       "サムエル幼稚園" : {
+         "location" : "東京都大田区南馬込三丁目5番8号",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0025",
          "owner_type" : "私立",
+         "sort_name" : "さむえるようち",
+         "url" : "http://www.samuel-kindergarten.com/",
          "wikipedia_name" : "サムエル幼稚園 (東京都)"
       },
       "サンシティ聖母幼稚園" : {
@@ -2528,8 +2537,12 @@
          "owner_type" : "私立"
       },
       "大森双葉幼稚園" : {
+         "location" : "東京都大田区中央二丁目11番7号",
          "location_area" : "大田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "143-0024",
+         "owner_type" : "私立",
+         "sort_name" : "おおもりふたはようち",
+         "url" : "http://www.h4.dion.ne.jp/~o.futaba/"
       },
       "大森幼稚園" : {
          "location_area" : "大田区",
@@ -2683,9 +2696,13 @@
          "short_name" : "大森南保育園"
       },
       "大田区立大森東一丁目保育園" : {
+         "location" : "東京都大田区大森東1丁目31番2号105",
          "location_area" : "大田区",
+         "location_zipcode" : "143-0012",
          "owner_type" : "区立",
-         "short_name" : "大森東一丁目保育園"
+         "short_name" : "大森東一丁目保育園",
+         "sort_name" : "おおたくりつおおもりひかしいつちようめほいくえん",
+         "url" : "http://www.city.ota.tokyo.jp/shisetsu/hoikuen/kuritsu/oomorihigashiicchoume/index.html"
       },
       "大田区立大森西保育園" : {
          "location_area" : "大田区",
@@ -2728,9 +2745,13 @@
          "short_name" : "新井宿保育園"
       },
       "大田区立新蒲田保育園" : {
+         "location" : "東京都大田区新蒲田一丁目18番23号",
          "location_area" : "大田区",
+         "location_zipcode" : "144-0054",
          "owner_type" : "区立",
-         "short_name" : "新蒲田保育園"
+         "short_name" : "新蒲田保育園",
+         "sort_name" : "おおたくりつしんかまたほいくえん",
+         "url" : "http://www.city.ota.tokyo.jp/shisetsu/hoikuen/kuritsu/shinkamatahoikuen/index.html"
       },
       "大田区立本羽田保育園" : {
          "location_area" : "大田区",
@@ -2897,7 +2918,8 @@
       },
       "学習院幼稚園" : {
          "location_area" : "豊島区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "かくしゆういん"
       },
       "宇喜田幼稚園" : {
          "location_area" : "江戸川区",
@@ -2909,7 +2931,8 @@
       },
       "宝仙学園幼稚園" : {
          "location_area" : "中野区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ほうせんかくえんようちえん"
       },
       "宝樹院幼稚園" : {
          "location_area" : "西東京市",
@@ -3701,8 +3724,12 @@
          "owner_type" : "私立"
       },
       "日本大学幼稚園" : {
+         "location" : "東京都杉並区天沼一丁目31番14号",
          "location_area" : "杉並区",
-         "owner_type" : "私立"
+         "location_zipcode" : "167-0032",
+         "owner_type" : "私立",
+         "sort_name" : "にほんたいかくようちえん",
+         "url" : "http://www.nihon-u.ac.jp/youchien/"
       },
       "日本女子体育大学附属みどり幼稚園" : {
          "location_area" : "世田谷区",
@@ -3807,7 +3834,8 @@
       },
       "明泉幼稚園" : {
          "location_area" : "三鷹市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "めいせんようち"
       },
       "明照幼稚園" : {
          "location_area" : "北区",
@@ -4164,8 +4192,12 @@
          "owner_type" : "私立"
       },
       "杉並幼稚園" : {
+         "location" : "東京都杉並区阿佐谷南二丁目4番36号",
          "location_area" : "杉並区",
-         "owner_type" : "私立"
+         "location_zipcode" : "167-0032",
+         "owner_type" : "私立",
+         "sort_name" : "すきなみようち",
+         "url" : "http://www.suginamiyoutien.jp/index.htm"
       },
       "杉並教会幼稚園" : {
          "location_area" : "杉並区",
@@ -4212,10 +4244,12 @@
          "owner_type" : "私立"
       },
       "東京学芸大学附属幼稚園小金井園舎" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくようちえんこかねい"
       },
       "東京学芸大学附属幼稚園竹早園舎" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "とうきようかくけいたいかくふそくようちえんたけはや"
       },
       "東京家政大学附みどりヶ丘幼稚園" : {
          "location_area" : "板橋区",
@@ -4246,8 +4280,12 @@
          "owner_type" : "私立"
       },
       "東京都市大学二子幼稚園" : {
+         "location" : "東京都世田谷区玉川二丁目17番10号",
          "location_area" : "世田谷区",
-         "owner_type" : "私立"
+         "location_zipcode" : "158-0094",
+         "owner_type" : "私立",
+         "sort_name" : "とうきようとしたいかくふたこ",
+         "url" : "http://www.tcu-futako.ed.jp/"
       },
       "東光寺幼稚園" : {
          "location_area" : "目黒区",
@@ -4482,7 +4520,8 @@
       "板橋区立稚竹幼稚園" : {
          "location_area" : "板橋区",
          "owner_type" : "区立",
-         "short_name" : "稚竹幼稚園"
+         "short_name" : "稚竹幼稚園",
+         "sort_name" : "いたはしくりつわかたけようちえん"
       },
       "板橋区立紅梅保育園" : {
          "location_area" : "板橋区",
@@ -4660,8 +4699,13 @@
          "owner_type" : "私立"
       },
       "梨花幼稚園" : {
+         "location" : "東京都稲城市押立392番地",
          "location_area" : "稲城市",
-         "owner_type" : "私立"
+         "location_wikipedia_latlon" : "|35|38|59.4|N|139|30|32.5|E|region:JP",
+         "location_zipcode" : "206-0811",
+         "owner_type" : "私立",
+         "sort_name" : "りかようちえん",
+         "url" : "http://www.rika-kdg.com/"
       },
       "樫の実幼稚園" : {
          "location_area" : "武蔵野市",
@@ -5760,8 +5804,12 @@
          "owner_type" : "私立"
       },
       "田園調布雙葉小学校附属幼稚園" : {
+         "location" : "東京都世田谷区玉川田園調布一丁目20番9号",
          "location_area" : "世田谷区",
-         "owner_type" : "私立"
+         "location_zipcode" : "158-8511",
+         "owner_type" : "私立",
+         "sort_name" : "てんえんちようふふたはようち",
+         "url" : "http://www.denenchofufutaba.ed.jp/kindergarten/index.html"
       },
       "田柄幼稚園" : {
          "location_area" : "練馬区",
@@ -5816,8 +5864,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "大田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白菊幼稚園" : {
          "location_area" : "世田谷区",
@@ -5825,7 +5877,8 @@
       },
       "白金幼稚園" : {
          "location_area" : "港区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "しろかねようち"
       },
       "白鳥幼稚園" : {
          "location_area" : "国分寺市",
@@ -6038,8 +6091,12 @@
          "owner_type" : "私立"
       },
       "神明幼稚園" : {
+         "location" : "千葉県船橋市飯山満町1-640",
          "location_area" : "江東区",
-         "owner_type" : "私立"
+         "location_zipcode" : "274-0822",
+         "owner_type" : "私立",
+         "sort_name" : "しんめいようち",
+         "url" : "http://shinmei.ed.jp/"
       },
       "神田寺幼稚園" : {
          "location_area" : "千代田区",
@@ -7695,8 +7752,11 @@
          "owner_type" : "私立"
       },
       "雙葉小学校附属幼稚園" : {
+         "location" : "東京都千代田区六番町11番地1",
          "location_area" : "千代田区",
-         "owner_type" : "私立"
+         "location_zipcode" : "102-8470",
+         "owner_type" : "私立",
+         "url" : "http://www.futaba-elementary.jp/"
       },
       "雪ヶ谷ルーテル幼稚園" : {
          "location_area" : "大田区",
@@ -7708,7 +7768,8 @@
       },
       "青山学院幼稚園" : {
          "location_area" : "渋谷区",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "あおやまかくいんようちえん"
       },
       "青梅幼稚園" : {
          "location_area" : "青梅市",

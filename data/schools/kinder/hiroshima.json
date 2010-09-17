@@ -532,8 +532,12 @@
          "owner_type" : "私立"
       },
       "尾道めぐみ幼稚園" : {
+         "location" : "広島県尾道市栗原町9629",
          "location_area" : "尾道市",
-         "owner_type" : "私立"
+         "location_zipcode" : "722-0022",
+         "owner_type" : "私立",
+         "sort_name" : "おのみちめくみようち",
+         "url" : "http://keisen-megumi.jp//"
       },
       "尾道市立三幸幼稚園" : {
          "location_area" : "尾道市",
@@ -680,10 +684,12 @@
       },
       "広島大学附属三原幼稚園" : {
          "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくみはら",
          "wikipedia_name" : "広島大学附属三原幼稚園・小学校・中学校"
       },
       "広島大学附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "ひろしまたいかくふそくようち"
       },
       "広島女学院ゲーンス幼稚園" : {
          "location_area" : "広島市東区",
@@ -1683,7 +1689,9 @@
          "owner_type" : "私立"
       },
       "聖慈幼稚園" : {
+         "location" : "広島県呉市海岸3-5-41",
          "location_area" : "呉市",
+         "location_zipcode" : "737-0823",
          "owner_type" : "私立"
       },
       "聖母幼稚園" : {

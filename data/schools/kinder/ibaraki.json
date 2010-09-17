@@ -13,8 +13,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "水戸市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あづま幼稚園" : {
          "location_area" : "取手市",
@@ -1822,7 +1826,8 @@
          "owner_type" : "私立"
       },
       "茨城大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "いはらきたいかくきよういくかくふふそくようち"
       },
       "茨城済生幼稚園" : {
          "location_area" : "那珂市",

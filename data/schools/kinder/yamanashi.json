@@ -115,11 +115,17 @@
          "owner_type" : "私立"
       },
       "山梨大学教育人間科学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "やまなしたいかくきよういくにんけんかかくふふそくようち"
       },
       "山梨学院大学附属幼稚園" : {
+         "location" : "山梨県甲府市酒折二丁目8番1号",
          "location_area" : "甲府市",
-         "owner_type" : "私立"
+         "location_wikipedia_latlon" : "|35|39|22.5|N|138|36|15.8|E|",
+         "location_zipcode" : "400-0805",
+         "owner_type" : "私立",
+         "sort_name" : "やまなしかくいんたいかくふそくようち",
+         "url" : "http://www.ygk.ed.jp/"
       },
       "山梨市立つつじ幼稚園" : {
          "location_area" : "山梨市",

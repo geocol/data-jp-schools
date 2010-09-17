@@ -86,7 +86,9 @@
          "owner_type" : "私立"
       },
       "ひまわり保育園" : {
+         "location" : "三重県熊野市井戸町349",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4324",
          "owner_type" : "私立",
          "wikipedia_name" : "ひまわり保育園 (熊野市)"
       },
@@ -140,7 +142,8 @@
       },
       "マリア・モンテッソーリ幼稚園" : {
          "location_area" : "桑名市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "まりあもんてつそりようちえん"
       },
       "ルーテル二葉幼稚園" : {
          "location_area" : "津市",
@@ -155,7 +158,8 @@
          "owner_type" : "私立"
       },
       "三重大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "みえたいかくきよういくかくふふそくようち"
       },
       "上浜保育園" : {
          "location_area" : "津市",
@@ -282,7 +286,8 @@
       },
       "双康幼稚園" : {
          "location_area" : "伊勢市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "そうこうようちえん"
       },
       "双葉幼稚園" : {
          "location_area" : "四日市市",
@@ -617,7 +622,8 @@
       },
       "有馬幼稚園" : {
          "location_area" : "熊野市",
-         "owner_type" : "私立"
+         "owner_type" : "私立",
+         "sort_name" : "ありまようち"
       },
       "朝日町立朝日幼稚園" : {
          "location_area" : "三重郡朝日町",
@@ -1371,12 +1377,16 @@
          "owner_type" : "私立"
       },
       "熊野市立あすか保育園" : {
+         "location" : "三重県熊野市飛鳥町野口351-2",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4565",
          "owner_type" : "市立",
          "short_name" : "あすか保育園"
       },
       "熊野市立たんぽぽ保育園" : {
+         "location" : "三重県熊野市遊木町298-13",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4205",
          "owner_type" : "市立",
          "short_name" : "たんぽぽ保育園"
       },
@@ -1386,7 +1396,9 @@
          "short_name" : "五郷保育所"
       },
       "熊野市立井戸保育所" : {
+         "location" : "三重県熊野市井戸町324-1",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4324",
          "owner_type" : "市立",
          "short_name" : "井戸保育所"
       },
@@ -1401,7 +1413,9 @@
          "short_name" : "元惣房保育所"
       },
       "熊野市立新鹿保育所" : {
+         "location" : "三重県熊野市新鹿町689",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4206",
          "owner_type" : "市立",
          "short_name" : "新鹿保育所"
       },
@@ -1411,7 +1425,9 @@
          "short_name" : "有馬保育所"
       },
       "熊野市立木本保育所" : {
+         "location" : "三重県熊野市木本町1098-1",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4323",
          "owner_type" : "市立",
          "short_name" : "木本保育所"
       },
@@ -1426,7 +1442,9 @@
          "short_name" : "板屋保育所"
       },
       "熊野市立神川保育所" : {
+         "location" : "三重県熊野市神上4-1",
          "location_area" : "熊野市",
+         "location_zipcode" : "519-4442",
          "owner_type" : "市立",
          "short_name" : "神川保育所"
       },
@@ -1448,8 +1466,12 @@
          "owner_type" : "私立"
       },
       "白百合幼稚園" : {
+         "location" : "奈良県生駒市西松ヶ丘3番40号",
          "location_area" : "鈴鹿市",
-         "owner_type" : "私立"
+         "location_zipcode" : "630-0246",
+         "owner_type" : "私立",
+         "sort_name" : "しらゆりようち",
+         "url" : "http://nara-shiritsu.youchien.to/en/shirayuri/shirayuri.html"
       },
       "白鳳幼稚園" : {
          "location_area" : "伊賀市",

@@ -13,8 +13,12 @@
          "owner_type" : "私立"
       },
       "あさひ幼稚園" : {
+         "location" : "北海道札幌市白石区平和通10丁目北7-56",
          "location_area" : "新潟市",
-         "owner_type" : "私立"
+         "location_zipcode" : "003-0029",
+         "owner_type" : "私立",
+         "sort_name" : "あさひようち",
+         "url" : "http://www.asahi-f.com/index2.html"
       },
       "あすなろ保育園" : {
          "location_area" : "長岡市",
@@ -1370,7 +1374,8 @@
          "owner_type" : "私立"
       },
       "新潟大学教育学部附属幼稚園" : {
-         "owner_type" : "国立"
+         "owner_type" : "国立",
+         "sort_name" : "にいかたたいかくきよういくかくふふそくようちえん"
       },
       "新潟市立あじほ保育園" : {
          "location_area" : "新潟市南区",
@@ -1590,7 +1595,8 @@
       "新潟市立小合東幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "小合東幼稚園"
+         "short_name" : "小合東幼稚園",
+         "sort_name" : "にいかたしりつこあいひかし"
       },
       "新潟市立小林保育園" : {
          "location_area" : "新潟市南区",
@@ -1610,7 +1616,8 @@
       "新潟市立小須戸幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "小須戸幼稚園"
+         "short_name" : "小須戸幼稚園",
+         "sort_name" : "にいかたしりつこすと"
       },
       "新潟市立山の下保育園" : {
          "location_area" : "新潟市東区",
@@ -1670,17 +1677,20 @@
       "新潟市立新津第一幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "新津第一幼稚園"
+         "short_name" : "新津第一幼稚園",
+         "sort_name" : "にいかたしりつにいつたいいち"
       },
       "新潟市立新津第三幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "新津第三幼稚園"
+         "short_name" : "新津第三幼稚園",
+         "sort_name" : "にいかたしりつにいつたいさん"
       },
       "新潟市立新津第二幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "新津第二幼稚園"
+         "short_name" : "新津第二幼稚園",
+         "sort_name" : "にいかたしりつにいつたいに"
       },
       "新潟市立新金沢保育園" : {
          "location_area" : "新潟市秋葉区",
@@ -1765,7 +1775,8 @@
       "新潟市立沼垂幼稚園" : {
          "location_area" : "新潟市中央区",
          "owner_type" : "市立",
-         "short_name" : "沼垂幼稚園"
+         "short_name" : "沼垂幼稚園",
+         "sort_name" : "にいかたしりつぬつたり"
       },
       "新潟市立流作場保育園" : {
          "location_area" : "新潟市中央区",
@@ -1785,7 +1796,8 @@
       "新潟市立牡丹山幼稚園" : {
          "location_area" : "新潟市東区",
          "owner_type" : "市立",
-         "short_name" : "牡丹山幼稚園"
+         "short_name" : "牡丹山幼稚園",
+         "sort_name" : "にいかたしりつほたんやま"
       },
       "新潟市立白山保育園" : {
          "location_area" : "新潟市中央区",
@@ -1830,7 +1842,8 @@
       "新潟市立結幼稚園" : {
          "location_area" : "新潟市秋葉区",
          "owner_type" : "市立",
-         "short_name" : "結幼稚園"
+         "short_name" : "結幼稚園",
+         "sort_name" : "にいかたしりつむすひ"
       },
       "新潟市立臼井保育園" : {
          "location_area" : "新潟市南区",
@@ -1855,7 +1868,8 @@
       "新潟市立西幼稚園" : {
          "location_area" : "新潟市西区",
          "owner_type" : "市立",
-         "short_name" : "西幼稚園"
+         "short_name" : "西幼稚園",
+         "sort_name" : "にいかたしりつにし"
       },
       "新潟市立諏訪木保育園" : {
          "location_area" : "新潟市南区",
